@@ -46,7 +46,9 @@ npm run preview
 
 原有选段暂各存为一个句子单元；显示换行不是经过校勘的句界。后续细分句子时需保留段落 ID，并显式管理句子 ID。
 
-`wikisource.ts` 提供纯函数 `stageWikisource(snapshot)`：输入页面 URL、明确 revision、底本、权利证据及已提取的正文段落，输出带 oldid 的来源和候选文本，不联网、不写入现有目录、不自动宣称公版。先核验具体页面/版本的许可，再提取正文（排除导航和现代评论），补齐 edition/division、独立注解并人工校对，最后接入 catalog。不得用随意填写的修订号或许可证替代核验。尚未实现在线抓取、全本导入或 Harvard/Kanripo 接入。
+`wikisource.ts` 提供纯函数 `stageWikisource(snapshot)`：输入页面 URL、明确 revision、底本、权利证据及已提取的正文段落，输出带 oldid 的来源和候选文本，不联网、不写入现有目录、不自动宣称公版。先核验具体页面/版本的许可，再提取正文（排除导航和现代评论），补齐 edition/division、独立注解并人工校对，最后接入 catalog。不得用随意填写的修订号或许可证替代核验。尚未实现自动在线抓取、全本导入或 Harvard/Kanripo 接入。
+
+已试导入[《论语·学而》候选](content/candidates/lunyu-xue-er/README.md)：固定维基文库修订 2058123，16 则正文与异文分开存储。运行 `npm run content:trial` 可从本地原始 wikitext 重建候选，不联网、不改变阅读器。该电子版本暂按站点 CC BY-SA 4.0 声明保守处理，纸本底本尚未明确，不能标成已核验公版。
 
 在项目根目录执行 `npm test` 和 `npm run build` 验证内容关系与阅读器兼容性。存储校验、阅读顺序与导出逻辑在 `src/model.ts`。路由使用 URL hash，刷新和直接打开选段均可用，无需服务器路由配置。
 
