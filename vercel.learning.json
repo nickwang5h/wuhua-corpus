@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm run check:content && npm test && npm run build:learning",
+  "outputDirectory": "dist/learning",
+  "rewrites": [
+    {
+      "source": "/sources",
+      "destination": "/index.html"
+    }
+  ]
+}

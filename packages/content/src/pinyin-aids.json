@@ -1,0 +1,364 @@
+[
+  {
+    "id": "practice-pinyin",
+    "target": "p-lunyu-2058123-1-1",
+    "version": "1",
+    "kind": "pinyin",
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted draft)",
+      "textVersion": "1"
+    },
+    "rights": {
+      "author": "Wuhua (AI-assisted draft)",
+      "license": "unreleased editorial draft",
+      "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%B8%E8%80%8C%E7%AC%AC%E4%B8%80?oldid=2058123",
+      "edition": "Pinned Wikisource source; Mandarin reading aid",
+      "note": "Aligned dictionary-tone readings retained: 說 is yuè in this passage. 不 is marked bù in dictionary tone; it is pronounced bú before fourth-tone 亦 in connected speech. Cross-check: https://dict.mini.moe.edu.tw/SearchIndex/word_detail?wordID=D0001117 . Pronunciation review remains pending."
+    },
+    "tokens": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "學",
+        "pinyin": "xué"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "text": "而",
+        "pinyin": "ér"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "text": "時",
+        "pinyin": "shí"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "text": "習",
+        "pinyin": "xí"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "text": "之",
+        "pinyin": "zhī"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "text": "不",
+        "pinyin": "bù"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "text": "亦",
+        "pinyin": "yì"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "text": "說",
+        "pinyin": "yuè"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "乎",
+        "pinyin": "hū"
+      }
+    ],
+    "start": 4,
+    "end": 15
+  },
+  {
+    "id": "knowing-yourself-pinyin",
+    "target": "p-laozi-2354026-33-1",
+    "version": "1",
+    "kind": "pinyin",
+    "tokens": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "知",
+        "pinyin": "zhī"
+      },
+      {
+        "start": 1,
+        "end": 2,
+        "text": "人",
+        "pinyin": "rén"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "text": "者",
+        "pinyin": "zhě"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "text": "智",
+        "pinyin": "zhì"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "text": "自",
+        "pinyin": "zì"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "text": "知",
+        "pinyin": "zhī"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "text": "者",
+        "pinyin": "zhě"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "text": "明",
+        "pinyin": "míng"
+      }
+    ],
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted draft)",
+      "textVersion": "1"
+    },
+    "rights": {
+      "author": "Wuhua (AI-assisted draft)",
+      "license": "unreleased editorial draft",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "edition": "Pinned Wikisource source; Mandarin reading aid",
+      "note": "Existing aligned readings retained. Pronunciation review remains pending."
+    },
+    "start": 0,
+    "end": 10
+  },
+  {
+    "id": "one-with-things-pinyin",
+    "target": "p-zhuangzi-9852855-2-6",
+    "version": "1",
+    "kind": "pinyin",
+    "tokens": [
+      {
+        "start": 178,
+        "end": 179,
+        "text": "天",
+        "pinyin": "tiān"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "text": "地",
+        "pinyin": "dì"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "text": "與",
+        "pinyin": "yǔ"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "text": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "text": "並",
+        "pinyin": "bìng"
+      },
+      {
+        "start": 183,
+        "end": 184,
+        "text": "生",
+        "pinyin": "shēng"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "text": "而",
+        "pinyin": "ér"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "text": "萬",
+        "pinyin": "wàn"
+      },
+      {
+        "start": 187,
+        "end": 188,
+        "text": "物",
+        "pinyin": "wù"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "text": "與",
+        "pinyin": "yǔ"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "text": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "start": 190,
+        "end": 191,
+        "text": "爲",
+        "pinyin": "wéi"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "text": "一",
+        "pinyin": "yī"
+      }
+    ],
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted draft)",
+      "textVersion": "1"
+    },
+    "rights": {
+      "author": "Wuhua (AI-assisted draft)",
+      "license": "unreleased editorial draft",
+      "source": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90%2F%E9%BD%8A%E7%89%A9%E8%AB%96?oldid=9852855",
+      "edition": "Pinned Wikisource source; Mandarin reading aid",
+      "note": "Existing aligned readings retained. Pronunciation review remains pending."
+    },
+    "start": 178,
+    "end": 193
+  },
+  {
+    "id": "knowing-enough-pinyin",
+    "target": "p-laozi-2354026-33-1",
+    "version": "1",
+    "start": 21,
+    "end": 26,
+    "kind": "pinyin",
+    "tokens": [
+      {
+        "start": 21,
+        "end": 22,
+        "text": "知",
+        "pinyin": "zhī"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "足",
+        "pinyin": "zú"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "text": "者",
+        "pinyin": "zhě"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "text": "富",
+        "pinyin": "fù"
+      }
+    ],
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted editorial draft)",
+      "textVersion": "1"
+    },
+    "rights": {
+      "author": "Wuhua (AI-assisted aligned pinyin)",
+      "license": "unreleased editorial draft",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "edition": "Pinned Wikisource source; Mandarin reading aid",
+      "note": "Position-aligned learner reading, pending pronunciation review. 足 is zú in 知足; punctuation has no reading."
+    }
+  },
+  {
+    "id": "learning-from-others-pinyin",
+    "target": "p-lunyu-2177439-7-21",
+    "version": "1",
+    "start": 4,
+    "end": 14,
+    "kind": "pinyin",
+    "tokens": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "三",
+        "pinyin": "sān"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "text": "人",
+        "pinyin": "rén"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "text": "行",
+        "pinyin": "xíng"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "text": "必",
+        "pinyin": "bì"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "text": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "text": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "text": "師",
+        "pinyin": "shī"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "text": "焉",
+        "pinyin": "yān"
+      }
+    ],
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted editorial draft)",
+      "textVersion": "1"
+    },
+    "rights": {
+      "author": "Wuhua (AI-assisted aligned pinyin)",
+      "license": "unreleased editorial draft",
+      "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E8%BF%B0%E8%80%8C%E7%AC%AC%E4%B8%83?oldid=2177439",
+      "edition": "Pinned Wikisource source; Mandarin reading aid",
+      "note": "Position-aligned learner reading, pending pronunciation review. 行 is xíng in the walking context; punctuation has no reading."
+    }
+  }
+]

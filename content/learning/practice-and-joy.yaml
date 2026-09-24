@@ -1,0 +1,113 @@
+# 编辑来源：一课一文件；生成的 JSON 由 lessons:generate 更新。
+schemaVersion: 1
+order: 10
+lesson:
+  id: practice-and-joy
+  version: "1"
+  title: Practice and joy
+  level: Starting
+  goal: Recognise 学 (learn) and 习 (practise), and understand the idea of returning to learning.
+  prerequisites: []
+  intro: Confucius asks about the pleasure of returning to what we learn; start with 学 (learn) and 习 (practise).
+  refs:
+    - id: p-lunyu-2058123-1-1
+      version: "1"
+      start: 4
+      end: 15
+      label: Analects 1.1
+  exercises:
+    - id: learn-word
+      type: meaning
+      prompt: Match 学 (xué) with its meaning.
+      options:
+        - Learn
+        - Forget
+        - Travel
+      answer: 0
+      feedback: 学 means “learn”. You met it at the start of the line. 习 (xí) is “practise”. Return to the words whenever you need help.
+    - id: practice-idea
+      type: context
+      prompt: Which action fits the idea in this passage?
+      options:
+        - Read once and never return
+        - Return to practise what you learned
+        - Memorise without thinking
+      answer: 1
+      feedback: The line links learning with returning to practise. The final question presents that practice as a pleasure. 说 is read yuè here, meaning pleasure, not shuō (“speak”).
+  reflection: What is one small thing you would like to practise again? You may answer in English or simply think about it.
+  review:
+    status: draft
+    author: Wuhua (AI-assisted draft)
+    textVersion: "1"
+  compatibleVersions: []
+  pinyinAidIds:
+    - practice-pinyin
+sections:
+  meaning:
+    id: practice-meaning
+    target: p-lunyu-2058123-1-1
+    version: "1"
+    text: Isn’t it a pleasure to learn and keep practising what you have learned?
+    review:
+      status: draft
+      author: Wuhua (AI-assisted draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted draft)
+      license: unreleased editorial draft
+      source: https://ctext.org/analects/xue-er
+      edition: Wuhua learner explanation, draft
+      note: AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed.
+    start: 4
+    end: 15
+  context:
+    id: practice-culture
+    target: p-lunyu-2058123-1-1
+    version: "1"
+    text: The question invites us to share the pleasure of learning. Zhu Xi’s discussions include returning to a passage and thinking it through again as forms of practice; this is more than repeating sounds. The rest of Analects 1.1 turns to friendship and remaining untroubled when others do not recognise us.
+    review:
+      status: draft
+      author: Wuhua (AI-assisted draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted editorial explanation)
+      license: unreleased editorial draft
+      source: https://ctext.org/text.pl?if=gb&node=588555
+      edition: Zhu Xi, Zhuzi yulei, compiled by Li Jingde, vol. 20, 學而時習之章; CText links the Siku Quanshu edition
+      note: Independent English summary of an ancient discussion; no CText AI/crowdsourced English translation is reproduced. Link for comparison only.
+    start: 4
+    end: 15
+  teachingParaphrase:
+    id: practice-adaptation
+    target: p-lunyu-2058123-1-1
+    version: "1"
+    text: 学习之后，常常练习，会让人感到快乐。
+    review:
+      status: draft
+      author: Wuhua (AI-assisted draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted draft)
+      license: unreleased editorial draft
+      source: https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%B8%E8%80%8C%E7%AC%AC%E4%B8%80?oldid=2058123
+      edition: Wuhua teaching paraphrase of the pinned source excerpt
+      note: Existing Chinese teaching paraphrase checked against its source excerpt; retained as a separate draft layer. This is Wuhua wording, not a quotation from a historical commentator.
+    start: 4
+    end: 15
+  wordsToNotice:
+    id: practice-words
+    target: p-lunyu-2058123-1-1
+    version: "1"
+    start: 4
+    end: 15
+    text: 学 (xué) means “learn”; 习 (xí) means “practise”, and 之 points back to what was learned. Here 说 is read yuè and means “pleasure”, rather than shuō, “speak”.
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial explanation)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted editorial explanation)
+      license: unreleased editorial draft
+      source: https://ctext.org/analects/xue-er
+      edition: Analects 1.1; James Legge, The Chinese Classics, vol. 1 (1861)
+      note: New learner explanation; pinyin remains separately aligned and unreviewed.

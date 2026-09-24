@@ -7,3 +7,6 @@ dist/
 !.env.example
 .vercel
 .env*
+
+# Rebuilt from the shared content package
+public/texts/books/

@@ -1,0 +1,3 @@
+import type {Aid} from '../content/src/types';
+import {safeURL} from './data';
+export function AidCredits({aids,english=false}:{aids:Aid[];english?:boolean}){return <>{aids.map(a=><details key={a.id}><summary>{a.id} · {a.kind}</summary><p>{a.rights.author}</p>{a.rights.edition&&<p>{a.rights.edition}</p>}<p>{a.rights.license} · {a.review.status}</p>{a.rights.note&&<p>{a.rights.note}</p>}{safeURL(a.rights.source||'')&&<p><a href={a.rights.source} target="_blank" rel="noreferrer">{english?'Specific reference material':'查看具体参考材料'}</a></p>}<p className="muted">{a.target} @ {a.version}{a.start!==undefined?` · [${a.start}, ${a.end})`:''}</p></details>)}</>;}

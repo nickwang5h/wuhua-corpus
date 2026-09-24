@@ -1,0 +1,660 @@
+[
+  {
+    "id": "practice-and-joy",
+    "version": "1",
+    "title": "Practice and joy",
+    "level": "Starting",
+    "goal": "Recognise 学 (learn) and 习 (practise), and understand the idea of returning to learning.",
+    "prerequisites": [],
+    "intro": "Confucius asks about the pleasure of returning to what we learn; start with 学 (learn) and 习 (practise).",
+    "refs": [
+      {
+        "id": "p-lunyu-2058123-1-1",
+        "version": "1",
+        "start": 4,
+        "end": 15,
+        "label": "Analects 1.1"
+      }
+    ],
+    "aids": [
+      {
+        "id": "practice-meaning",
+        "target": "p-lunyu-2058123-1-1",
+        "version": "1",
+        "start": 4,
+        "end": 15,
+        "text": "Isn’t it a pleasure to learn and keep practising what you have learned?",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/analects/xue-er",
+          "edition": "Wuhua learner explanation, draft",
+          "note": "AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed."
+        },
+        "kind": "translation-en"
+      },
+      {
+        "id": "practice-culture",
+        "target": "p-lunyu-2058123-1-1",
+        "version": "1",
+        "start": 4,
+        "end": 15,
+        "text": "The question invites us to share the pleasure of learning. Zhu Xi’s discussions include returning to a passage and thinking it through again as forms of practice; this is more than repeating sounds. The rest of Analects 1.1 turns to friendship and remaining untroubled when others do not recognise us.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/text.pl?if=gb&node=588555",
+          "edition": "Zhu Xi, Zhuzi yulei, compiled by Li Jingde, vol. 20, 學而時習之章; CText links the Siku Quanshu edition",
+          "note": "Independent English summary of an ancient discussion; no CText AI/crowdsourced English translation is reproduced. Link for comparison only."
+        },
+        "kind": "culture-en"
+      },
+      {
+        "id": "practice-adaptation",
+        "target": "p-lunyu-2058123-1-1",
+        "version": "1",
+        "start": 4,
+        "end": 15,
+        "text": "学习之后，常常练习，会让人感到快乐。",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%B8%E8%80%8C%E7%AC%AC%E4%B8%80?oldid=2058123",
+          "edition": "Wuhua teaching paraphrase of the pinned source excerpt",
+          "note": "Existing Chinese teaching paraphrase checked against its source excerpt; retained as a separate draft layer. This is Wuhua wording, not a quotation from a historical commentator."
+        },
+        "kind": "adaptation-zh"
+      },
+      {
+        "id": "practice-words",
+        "target": "p-lunyu-2058123-1-1",
+        "version": "1",
+        "start": 4,
+        "end": 15,
+        "text": "学 (xué) means “learn”; 习 (xí) means “practise”, and 之 points back to what was learned. Here 说 is read yuè and means “pleasure”, rather than shuō, “speak”.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/analects/xue-er",
+          "edition": "Analects 1.1; James Legge, The Chinese Classics, vol. 1 (1861)",
+          "note": "New learner explanation; pinyin remains separately aligned and unreviewed."
+        },
+        "kind": "vocabulary-en"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "learn-word",
+        "type": "meaning",
+        "prompt": "Match 学 (xué) with its meaning.",
+        "options": [
+          "Learn",
+          "Forget",
+          "Travel"
+        ],
+        "answer": 0,
+        "feedback": "学 means “learn”. You met it at the start of the line. 习 (xí) is “practise”. Return to the words whenever you need help."
+      },
+      {
+        "id": "practice-idea",
+        "type": "context",
+        "prompt": "Which action fits the idea in this passage?",
+        "options": [
+          "Read once and never return",
+          "Return to practise what you learned",
+          "Memorise without thinking"
+        ],
+        "answer": 1,
+        "feedback": "The line links learning with returning to practise. The final question presents that practice as a pleasure. 说 is read yuè here, meaning pleasure, not shuō (“speak”)."
+      }
+    ],
+    "reflection": "What is one small thing you would like to practise again? You may answer in English or simply think about it.",
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted draft)",
+      "textVersion": "1"
+    },
+    "compatibleVersions": [],
+    "pinyinAidIds": [
+      "practice-pinyin"
+    ]
+  },
+  {
+    "id": "learning-from-others",
+    "version": "1",
+    "title": "A teacher beside you",
+    "level": "Starting",
+    "goal": "Recognise 人 (person) and 师 (teacher), and notice how learning can begin with the people around us.",
+    "prerequisites": [],
+    "intro": "Who can we learn from? Look for 人 (person) and 师 (teacher) in this line about walking with others.",
+    "refs": [
+      {
+        "id": "p-lunyu-2177439-7-21",
+        "version": "1",
+        "start": 4,
+        "end": 14,
+        "label": "Analects · Shu Er"
+      }
+    ],
+    "aids": [
+      {
+        "id": "learning-from-others-meaning",
+        "target": "p-lunyu-2177439-7-21",
+        "version": "1",
+        "start": 4,
+        "end": 14,
+        "text": "Walking with others, I am sure to find someone I can learn from.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+          "edition": "Wuhua learner explanation, draft",
+          "note": "AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed."
+        },
+        "kind": "translation-en"
+      },
+      {
+        "id": "learning-from-others-words",
+        "target": "p-lunyu-2177439-7-21",
+        "version": "1",
+        "start": 4,
+        "end": 14,
+        "text": "人 (rén) means “person”, and 师 (shī) means “teacher”; 我师 means “my teacher”. 三人行 pictures three people walking together: 三 is “three”, and 行 is read xíng, “walk”, here.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+          "edition": "James Legge, The Chinese Classics, vol. 1 (1861); Project Gutenberg eBook 3330, Book VII (Shu R), chapter XXI",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "vocabulary-en"
+      },
+      {
+        "id": "learning-from-others-context",
+        "target": "p-lunyu-2177439-7-21",
+        "version": "1",
+        "start": 4,
+        "end": 14,
+        "text": "The next part of the same passage explains how to learn from others: follow what is good, and use their mistakes to examine and correct oneself. Calling someone a teacher here need not give them a formal title. The emphasis is on noticing opportunities to learn, not copying everything a person does.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+          "edition": "James Legge, The Chinese Classics, vol. 1 (1861); Project Gutenberg eBook 3330, Book VII (Shu R), chapter XXI",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "culture-en"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "teacher-word",
+        "type": "meaning",
+        "prompt": "Which character means “teacher” in this line?",
+        "options": [
+          "人 (rén)",
+          "行 (xíng)",
+          "师 (shī)"
+        ],
+        "answer": 2,
+        "feedback": "师 means “teacher”. 人 means “person”, and 行 is “walk” in this sentence; 我师 means “my teacher”."
+      },
+      {
+        "id": "teacher-context",
+        "type": "context",
+        "prompt": "Which action follows the wider passage’s idea of learning from others?",
+        "options": [
+          "Copy everything someone does",
+          "Learn from good qualities and reflect on mistakes",
+          "Only learn from people with a formal title"
+        ],
+        "answer": 1,
+        "feedback": "The following sentence makes a distinction: follow good qualities and use mistakes as a reason to examine oneself. Learning from someone is not the same as copying everything they do."
+      }
+    ],
+    "reflection": "Think of someone you learned from outside a classroom. What did you notice, and how did it change what you do? You may answer in English.",
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted editorial draft)",
+      "textVersion": "1"
+    },
+    "compatibleVersions": [],
+    "pinyinAidIds": [
+      "learning-from-others-pinyin"
+    ]
+  },
+  {
+    "id": "knowing-yourself",
+    "version": "1",
+    "title": "Knowing others, knowing yourself",
+    "level": "Starting",
+    "goal": "Recognise 知 (know) and 自 (self), and notice a contrast in a classical line.",
+    "prerequisites": [],
+    "intro": "This line turns from knowing other people to knowing ourselves; look for 知 (know) and 自 (self).",
+    "refs": [
+      {
+        "id": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 0,
+        "end": 10,
+        "label": "Daodejing 33"
+      }
+    ],
+    "aids": [
+      {
+        "id": "knowing-yourself-translation-en",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 0,
+        "end": 10,
+        "text": "To understand other people is to be wise; to understand yourself is to see clearly.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/dao-de-jing",
+          "edition": "Wuhua learner explanation, draft",
+          "note": "AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed."
+        },
+        "kind": "translation-en"
+      },
+      {
+        "id": "knowing-yourself-culture-en",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 0,
+        "end": 10,
+        "text": "Chapter 33 compares understanding others with understanding ourselves, then makes a similar comparison between overcoming others and overcoming ourselves. Reading the paired phrases together draws attention inward. Here “clarity” is a way of describing self-understanding, rather than a score or a claim that someone knows everything.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/dao-de-jing",
+          "edition": "James Legge, The Tao Te Ching (1891), chapter 33",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "culture-en"
+      },
+      {
+        "id": "knowing-yourself-adaptation-zh",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 0,
+        "end": 10,
+        "text": "了解别人是一种智慧，了解自己会让人更清醒。",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+          "edition": "Wuhua teaching paraphrase of the pinned source excerpt",
+          "note": "Existing Chinese teaching paraphrase checked against its source excerpt; retained as a separate draft layer. This is Wuhua wording, not a quotation from a historical commentator."
+        },
+        "kind": "adaptation-zh"
+      },
+      {
+        "id": "knowing-yourself-words",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 0,
+        "end": 10,
+        "text": "知 (zhī) means “know” or “understand”; 人 (rén) means “person”, while 自 (zì) turns the phrase toward oneself. 者 (zhě) points to the person who does this, and 明 (míng) suggests clarity here.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/dao-de-jing",
+          "edition": "James Legge, The Tao Te Ching (1891), chapter 33",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "vocabulary-en"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "know-word",
+        "type": "meaning",
+        "prompt": "Which character means “know” in this line?",
+        "options": [
+          "知 (zhī)",
+          "人 (rén)",
+          "明 (míng)"
+        ],
+        "answer": 0,
+        "feedback": "知 means “know”. 人 means “person”; 自知 directs knowing back toward oneself."
+      },
+      {
+        "id": "know-contrast",
+        "type": "context",
+        "prompt": "What is being compared?",
+        "options": [
+          "Knowing others and knowing yourself",
+          "Yesterday and tomorrow",
+          "Learning and forgetting"
+        ],
+        "answer": 0,
+        "feedback": "知人 points to knowing other people. 自知 points to knowing yourself. English translations such as “wisdom” and “clarity” help us notice the contrast without claiming there is only one interpretation."
+      }
+    ],
+    "reflection": "Think of something you understand about another person, and something you are still learning about yourself. You may write a thought or a question in English.",
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted draft)",
+      "textVersion": "1"
+    },
+    "compatibleVersions": [],
+    "pinyinAidIds": [
+      "knowing-yourself-pinyin"
+    ]
+  },
+  {
+    "id": "knowing-enough",
+    "version": "1",
+    "title": "What counts as enough?",
+    "level": "Starting",
+    "goal": "Recognise 足 (enough) and 富 (rich), and explore a different meaning of being rich.",
+    "prerequisites": [],
+    "intro": "What makes someone rich? Explore how 知足 (knowing enough) changes the meaning of 富 (rich).",
+    "refs": [
+      {
+        "id": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 21,
+        "end": 26,
+        "label": "Daodejing 33"
+      }
+    ],
+    "aids": [
+      {
+        "id": "knowing-enough-meaning",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 21,
+        "end": 26,
+        "text": "A person who knows when they have enough is rich.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/dao-de-jing",
+          "edition": "Wuhua learner explanation, draft",
+          "note": "AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed."
+        },
+        "kind": "translation-en"
+      },
+      {
+        "id": "knowing-enough-words",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 21,
+        "end": 26,
+        "text": "足 (zú) means “enough” here, and 知足 (zhī zú) means being content with enough. 富 (fù) means “rich”; 足 can also mean “foot”, but that is not its meaning in this phrase.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/dao-de-jing",
+          "edition": "James Legge, The Tao Te Ching (1891), chapter 33",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "vocabulary-en"
+      },
+      {
+        "id": "knowing-enough-context",
+        "target": "p-laozi-2354026-33-1",
+        "version": "1",
+        "start": 21,
+        "end": 26,
+        "text": "The same chapter has just compared knowing others with knowing oneself. This short claim presents contentment as a kind of richness; it does not count possessions or say that everyone already has what they need. For this lesson, we notice how the meaning of 富 changes when it is paired with 知足.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/dao-de-jing",
+          "edition": "James Legge, The Tao Te Ching (1891), chapter 33",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "culture-en"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "enough-word",
+        "type": "meaning",
+        "prompt": "In 知足 (zhī zú), what does 足 mean?",
+        "options": [
+          "Enough",
+          "Foot",
+          "Teacher"
+        ],
+        "answer": 0,
+        "feedback": "Here 足 means “enough”. Together, 知足 describes recognising enough and feeling content; the everyday meaning “foot” does not fit this phrase."
+      },
+      {
+        "id": "enough-context",
+        "type": "context",
+        "prompt": "What does this line connect with being rich?",
+        "options": [
+          "Owning more than everyone else",
+          "Knowing when one has enough",
+          "Always getting more"
+        ],
+        "answer": 1,
+        "feedback": "The line connects 富, “rich”, with 知足, knowing enough. It invites us to consider contentment as a kind of richness, rather than a comparison of possessions."
+      }
+    ],
+    "reflection": "Think of one moment when something felt sufficient. What made it feel like enough? English is welcome; this is a personal reflection.",
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted editorial draft)",
+      "textVersion": "1"
+    },
+    "compatibleVersions": [],
+    "pinyinAidIds": [
+      "knowing-enough-pinyin"
+    ]
+  },
+  {
+    "id": "one-with-things",
+    "version": "1",
+    "title": "A different view of “I”",
+    "level": "Building",
+    "goal": "Recognise 我 (I/me) and 与 (with), and connect the line to its questioning context.",
+    "prerequisites": [],
+    "intro": "Zhuangzi brings 我 (I/me) together with all things; follow 与 (with), then explore why the passage keeps questioning this claim.",
+    "refs": [
+      {
+        "id": "p-zhuangzi-9852855-2-6",
+        "version": "1",
+        "start": 178,
+        "end": 193,
+        "label": "Zhuangzi · Discussion on Making All Things Equal"
+      }
+    ],
+    "aids": [
+      {
+        "id": "one-with-things-translation-en",
+        "target": "p-zhuangzi-9852855-2-6",
+        "version": "1",
+        "start": 178,
+        "end": 193,
+        "text": "Heaven and earth come into being with me, and all things form one with me.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/zhuangzi/adjustment-of-controversies",
+          "edition": "Wuhua learner explanation, draft",
+          "note": "AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed."
+        },
+        "kind": "translation-en"
+      },
+      {
+        "id": "one-with-things-culture-en",
+        "target": "p-zhuangzi-9852855-2-6",
+        "version": "1",
+        "start": 178,
+        "end": 193,
+        "text": "The surrounding passage unsettles familiar comparisons of size and length of life. After joining “me” with all things, it asks what happens when we put “one” into words: does naming it create another distinction? This learner explanation follows that turn in the argument, rather than treating the short quotation as its final answer.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/zhuangzi/adjustment-of-controversies",
+          "edition": "James Legge, The Writings of Chuang Tzu (1891), book II, The Adjustment of Controversies",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "culture-en"
+      },
+      {
+        "id": "one-with-things-adaptation-zh",
+        "target": "p-zhuangzi-9852855-2-6",
+        "version": "1",
+        "start": 178,
+        "end": 193,
+        "text": "从这个角度看，我与天地万物并不是截然分开的。",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted draft)",
+          "license": "unreleased editorial draft",
+          "source": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90%2F%E9%BD%8A%E7%89%A9%E8%AB%96?oldid=9852855",
+          "edition": "Wuhua teaching paraphrase of the pinned source excerpt",
+          "note": "Existing Chinese teaching paraphrase checked against its source excerpt; retained as a separate draft layer. This is Wuhua wording, not a quotation from a historical commentator."
+        },
+        "kind": "adaptation-zh"
+      },
+      {
+        "id": "one-with-things-words",
+        "target": "p-zhuangzi-9852855-2-6",
+        "version": "1",
+        "start": 178,
+        "end": 193,
+        "text": "我 (wǒ) means “I” or “me”, and 与 (yǔ) means “with”; 万物 (wàn wù) means all the many things in the world. 为 (wéi) is read wéi here in 为一, “form one”, rather than wèi, “for”.",
+        "review": {
+          "status": "draft",
+          "author": "Wuhua (AI-assisted editorial draft)",
+          "textVersion": "1"
+        },
+        "rights": {
+          "author": "Wuhua (AI-assisted editorial explanation)",
+          "license": "unreleased editorial draft",
+          "source": "https://ctext.org/zhuangzi/adjustment-of-controversies",
+          "edition": "James Legge, The Writings of Chuang Tzu (1891), book II, The Adjustment of Controversies",
+          "note": "Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending."
+        },
+        "kind": "vocabulary-en"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "with-word",
+        "type": "meaning",
+        "prompt": "Match 与 (yǔ) in this line with its English meaning.",
+        "options": [
+          "With",
+          "Before",
+          "Without"
+        ],
+        "answer": 0,
+        "feedback": "与 links two sides: 天地与我 (heaven and earth with me). 我 means “I” or “me”, according to its role in an English sentence."
+      },
+      {
+        "id": "one-context",
+        "type": "context",
+        "prompt": "How does the surrounding passage affect our reading?",
+        "options": [
+          "It removes all possible questions",
+          "It continues questioning even the claim of “one”",
+          "It gives a modern scientific measurement"
+        ],
+        "answer": 1,
+        "feedback": "After asserting “one”, the text questions what happens when we say it. Returning to context keeps a memorable quotation from becoming an oversimplified final answer."
+      }
+    ],
+    "reflection": "Look back at 我 (I/me) and 与 (with). What question does the line raise for you about your relationship with the world? English is welcome; there is no single required answer.",
+    "review": {
+      "status": "draft",
+      "author": "Wuhua (AI-assisted draft)",
+      "textVersion": "1"
+    },
+    "compatibleVersions": [],
+    "pinyinAidIds": [
+      "one-with-things-pinyin"
+    ]
+  }
+]

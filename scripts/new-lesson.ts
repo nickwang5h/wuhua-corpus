@@ -1,0 +1,13 @@
+import {readFile,writeFile,readdir} from 'node:fs/promises';
+import {parseDocument} from 'yaml';
+const [id,...extra]=process.argv.slice(2);
+if(!id||extra.length||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(id))throw new Error('用法：npm run lessons:new -- my-lesson（小写字母、数字和连字符）');
+const root=new URL('../content/learning/',import.meta.url);
+const names=(await readdir(root)).filter(n=>n.endsWith('.yaml'));
+const orders=await Promise.all(names.map(async n=>{const doc=parseDocument(await readFile(new URL(n,root),'utf8'));if(doc.errors.length)throw new Error(`${n}: 请先修正 YAML 语法`);return Number(doc.get('order'));}));
+if(orders.some(n=>!Number.isSafeInteger(n)||n<0))throw new Error('现有课程 order 无效');
+const order=Math.max(0,...orders)+10;
+const template=await readFile(new URL('templates/lesson.yaml',root),'utf8');
+const output=template.replaceAll('new-lesson',id).replace(/^order: \d+$/m,`order: ${order}`);
+await writeFile(new URL(`${id}.yaml`,root),output,{flag:'wx'});
+console.log(`Created content/learning/${id}.yaml. Fill TODO fields and verify references, then run npm run lessons:generate. Existing files are never overwritten.`);

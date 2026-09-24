@@ -1,0 +1,96 @@
+# 编辑来源：一课一文件；生成的 JSON 由 lessons:generate 更新。
+schemaVersion: 1
+order: 20
+lesson:
+  id: learning-from-others
+  version: "1"
+  title: A teacher beside you
+  level: Starting
+  goal: Recognise 人 (person) and 师 (teacher), and notice how learning can begin with the people around us.
+  prerequisites: []
+  intro: Who can we learn from? Look for 人 (person) and 师 (teacher) in this line about walking with others.
+  refs:
+    - id: p-lunyu-2177439-7-21
+      version: "1"
+      start: 4
+      end: 14
+      label: Analects · Shu Er
+  exercises:
+    - id: teacher-word
+      type: meaning
+      prompt: Which character means “teacher” in this line?
+      options:
+        - 人 (rén)
+        - 行 (xíng)
+        - 师 (shī)
+      answer: 2
+      feedback: 师 means “teacher”. 人 means “person”, and 行 is “walk” in this sentence; 我师 means “my teacher”.
+    - id: teacher-context
+      type: context
+      prompt: Which action follows the wider passage’s idea of learning from others?
+      options:
+        - Copy everything someone does
+        - Learn from good qualities and reflect on mistakes
+        - Only learn from people with a formal title
+      answer: 1
+      feedback: "The following sentence makes a distinction: follow good qualities and use mistakes as a reason to examine oneself. Learning from someone is not the same as copying everything they do."
+  reflection: Think of someone you learned from outside a classroom. What did you notice, and how did it change what you do? You may answer in English.
+  review:
+    status: draft
+    author: Wuhua (AI-assisted editorial draft)
+    textVersion: "1"
+  compatibleVersions: []
+  pinyinAidIds:
+    - learning-from-others-pinyin
+sections:
+  meaning:
+    id: learning-from-others-meaning
+    target: p-lunyu-2177439-7-21
+    version: "1"
+    start: 4
+    end: 14
+    text: Walking with others, I am sure to find someone I can learn from.
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted draft)
+      license: unreleased editorial draft
+      source: https://www.gutenberg.org/cache/epub/3330/pg3330.txt
+      edition: Wuhua learner explanation, draft
+      note: AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed.
+  wordsToNotice:
+    id: learning-from-others-words
+    target: p-lunyu-2177439-7-21
+    version: "1"
+    start: 4
+    end: 14
+    text: "人 (rén) means “person”, and 师 (shī) means “teacher”; 我师 means “my teacher”. 三人行 pictures three people walking together: 三 is “three”, and 行 is read xíng, “walk”, here."
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted editorial explanation)
+      license: unreleased editorial draft
+      source: https://www.gutenberg.org/cache/epub/3330/pg3330.txt
+      edition: James Legge, The Chinese Classics, vol. 1 (1861); Project Gutenberg eBook 3330, Book VII (Shu R), chapter XXI
+      note: Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending.
+  context:
+    id: learning-from-others-context
+    target: p-lunyu-2177439-7-21
+    version: "1"
+    start: 4
+    end: 14
+    text: "The next part of the same passage explains how to learn from others: follow what is good, and use their mistakes to examine and correct oneself. Calling someone a teacher here need not give them a formal title. The emphasis is on noticing opportunities to learn, not copying everything a person does."
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted editorial explanation)
+      license: unreleased editorial draft
+      source: https://www.gutenberg.org/cache/epub/3330/pg3330.txt
+      edition: James Legge, The Chinese Classics, vol. 1 (1861); Project Gutenberg eBook 3330, Book VII (Shu R), chapter XXI
+      note: Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending.

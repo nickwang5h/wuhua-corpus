@@ -1,0 +1,113 @@
+# 编辑来源：一课一文件；生成的 JSON 由 lessons:generate 更新。
+schemaVersion: 1
+order: 50
+lesson:
+  id: one-with-things
+  version: "1"
+  title: A different view of “I”
+  level: Building
+  goal: Recognise 我 (I/me) and 与 (with), and connect the line to its questioning context.
+  prerequisites: []
+  intro: Zhuangzi brings 我 (I/me) together with all things; follow 与 (with), then explore why the passage keeps questioning this claim.
+  refs:
+    - id: p-zhuangzi-9852855-2-6
+      version: "1"
+      start: 178
+      end: 193
+      label: Zhuangzi · Discussion on Making All Things Equal
+  exercises:
+    - id: with-word
+      type: meaning
+      prompt: Match 与 (yǔ) in this line with its English meaning.
+      options:
+        - With
+        - Before
+        - Without
+      answer: 0
+      feedback: "与 links two sides: 天地与我 (heaven and earth with me). 我 means “I” or “me”, according to its role in an English sentence."
+    - id: one-context
+      type: context
+      prompt: How does the surrounding passage affect our reading?
+      options:
+        - It removes all possible questions
+        - It continues questioning even the claim of “one”
+        - It gives a modern scientific measurement
+      answer: 1
+      feedback: After asserting “one”, the text questions what happens when we say it. Returning to context keeps a memorable quotation from becoming an oversimplified final answer.
+  reflection: Look back at 我 (I/me) and 与 (with). What question does the line raise for you about your relationship with the world? English is welcome; there is no single required answer.
+  review:
+    status: draft
+    author: Wuhua (AI-assisted draft)
+    textVersion: "1"
+  compatibleVersions: []
+  pinyinAidIds:
+    - one-with-things-pinyin
+sections:
+  meaning:
+    id: one-with-things-translation-en
+    target: p-zhuangzi-9852855-2-6
+    version: "1"
+    text: Heaven and earth come into being with me, and all things form one with me.
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted draft)
+      license: unreleased editorial draft
+      source: https://ctext.org/zhuangzi/adjustment-of-controversies
+      edition: Wuhua learner explanation, draft
+      note: AI-assisted learner wording pending human review. The external link is comparison material only; no verified attribution to, or adaptation of, the linked translator is claimed.
+    start: 178
+    end: 193
+  context:
+    id: one-with-things-culture-en
+    target: p-zhuangzi-9852855-2-6
+    version: "1"
+    text: "The surrounding passage unsettles familiar comparisons of size and length of life. After joining “me” with all things, it asks what happens when we put “one” into words: does naming it create another distinction? This learner explanation follows that turn in the argument, rather than treating the short quotation as its final answer."
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted editorial explanation)
+      license: unreleased editorial draft
+      source: https://ctext.org/zhuangzi/adjustment-of-controversies
+      edition: James Legge, The Writings of Chuang Tzu (1891), book II, The Adjustment of Controversies
+      note: Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending.
+    start: 178
+    end: 193
+  teachingParaphrase:
+    id: one-with-things-adaptation-zh
+    target: p-zhuangzi-9852855-2-6
+    version: "1"
+    text: 从这个角度看，我与天地万物并不是截然分开的。
+    review:
+      status: draft
+      author: Wuhua (AI-assisted draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted draft)
+      license: unreleased editorial draft
+      source: https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90%2F%E9%BD%8A%E7%89%A9%E8%AB%96?oldid=9852855
+      edition: Wuhua teaching paraphrase of the pinned source excerpt
+      note: Existing Chinese teaching paraphrase checked against its source excerpt; retained as a separate draft layer. This is Wuhua wording, not a quotation from a historical commentator.
+    start: 178
+    end: 193
+  wordsToNotice:
+    id: one-with-things-words
+    target: p-zhuangzi-9852855-2-6
+    version: "1"
+    start: 178
+    end: 193
+    text: 我 (wǒ) means “I” or “me”, and 与 (yǔ) means “with”; 万物 (wàn wù) means all the many things in the world. 为 (wéi) is read wéi here in 为一, “form one”, rather than wèi, “for”.
+    review:
+      status: draft
+      author: Wuhua (AI-assisted editorial draft)
+      textVersion: "1"
+    rights:
+      author: Wuhua (AI-assisted editorial explanation)
+      license: unreleased editorial draft
+      source: https://ctext.org/zhuangzi/adjustment-of-controversies
+      edition: James Legge, The Writings of Chuang Tzu (1891), book II, The Adjustment of Controversies
+      note: Independently written learner material; historical source linked for comparison. Modern website adaptations are not reproduced. Content and teaching review pending.

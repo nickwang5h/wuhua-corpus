@@ -1,0 +1,44 @@
+[
+  {
+    "target": "p-lunyu-2058123-1-1",
+    "version": "1",
+    "start": 4,
+    "end": 15,
+    "review": {
+      "status": "draft",
+      "author": "物化间（AI 辅助整理）",
+      "textVersion": "1"
+    },
+    "id": "xue-er-opening-understanding",
+    "kind": "explanation-zh",
+    "text": "学过之后，仍常常回到所学，温习、体会并练习它，不也是一件让人欣喜的事吗？这里的“说”读 yuè，指喜悦。这是首句的白话理解；后面还谈到同道来访，以及不被人了解时的态度。",
+    "rights": {
+      "author": "物化间整理，参考朱熹《朱子语类》卷二十“学而时习之章”",
+      "license": "unreleased editorial draft",
+      "source": "https://ctext.org/text.pl?if=gb&node=588555",
+      "edition": "朱熹讲说、黎靖德编《朱子语类》卷二十；CText 对应《钦定四库全书》本",
+      "note": "本段为独立白话整理，不是朱熹原话；古注与电子版仅提供外链，不宣称获得 CText 转载许可。"
+    }
+  },
+  {
+    "target": "p-lunyu-2058123-1-1",
+    "version": "1",
+    "start": 4,
+    "end": 15,
+    "review": {
+      "status": "draft",
+      "author": "物化间（AI 辅助整理）",
+      "textVersion": "1"
+    },
+    "id": "xue-er-opening-commentary",
+    "kind": "commentary-zh",
+    "text": "朱熹在这一章的讨论中，把隔日回想、反复思索一段文字，也看作“时习”；学习不只在初次接触时发生。这里概括的是古注的一条理解路径，并不把它当作唯一解释。",
+    "rights": {
+      "author": "物化间整理，参考朱熹讲说、黎靖德编《朱子语类》",
+      "license": "unreleased editorial draft",
+      "source": "https://ctext.org/text.pl?if=gb&node=588555",
+      "edition": "卷二十，论语二，学而篇上，学而时习之章",
+      "note": "古代注家材料与现代整理区分标示；仅概括和链接，不收录 CText 的现代译文或整页转录。"
+    }
+  }
+]

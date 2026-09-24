@@ -1,0 +1,4111 @@
+{
+  "id": "laozi",
+  "chapters": [
+    {
+      "id": "chapter-laozi-1",
+      "number": 1,
+      "title": "一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-1-1",
+          "version": "1",
+          "text": "道可道，非常道，名可名，非常名；無名，天地之始，有名，萬物之母。故常無欲，以觀其妙，常有欲，以觀其徼；此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-1-1-1",
+              "start": 0,
+              "end": 32,
+              "version": "1",
+              "text": "道可道，非常道，名可名，非常名；無名，天地之始，有名，萬物之母。"
+            },
+            {
+              "id": "ws-laozi-2354026-1-1-2",
+              "start": 32,
+              "end": 66,
+              "version": "1",
+              "text": "故常無欲，以觀其妙，常有欲，以觀其徼；此兩者，同出而異名，同謂之玄。"
+            },
+            {
+              "id": "ws-laozi-2354026-1-1-3",
+              "start": 66,
+              "end": 76,
+              "version": "1",
+              "text": "玄之又玄，眾妙之門。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-2",
+      "number": 2,
+      "title": "二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-2-1",
+          "version": "1",
+          "text": "天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。是以聖人處無為之事，行不言之教；萬物作焉而不辭，生而不有，為而不恃，功成而弗居。夫唯弗居，是以不去。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-2-1-1",
+              "start": 0,
+              "end": 13,
+              "version": "1",
+              "text": "天下皆知美之為美，斯惡已。"
+            },
+            {
+              "id": "ws-laozi-2354026-2-1-2",
+              "start": 13,
+              "end": 25,
+              "version": "1",
+              "text": "皆知善之為善，斯不善已。"
+            },
+            {
+              "id": "ws-laozi-2354026-2-1-3",
+              "start": 25,
+              "end": 56,
+              "version": "1",
+              "text": "故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+            },
+            {
+              "id": "ws-laozi-2354026-2-1-4",
+              "start": 56,
+              "end": 96,
+              "version": "1",
+              "text": "是以聖人處無為之事，行不言之教；萬物作焉而不辭，生而不有，為而不恃，功成而弗居。"
+            },
+            {
+              "id": "ws-laozi-2354026-2-1-5",
+              "start": 96,
+              "end": 106,
+              "version": "1",
+              "text": "夫唯弗居，是以不去。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-3",
+      "number": 3,
+      "title": "三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-3-1",
+          "version": "1",
+          "text": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。是以聖人之治，虛其心，實其腹，弱其志，強其骨。常使民無知無欲。使夫智者不敢為也。為無為，則無不治。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-3-1-1",
+              "start": 0,
+              "end": 33,
+              "version": "1",
+              "text": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。"
+            },
+            {
+              "id": "ws-laozi-2354026-3-1-2",
+              "start": 33,
+              "end": 56,
+              "version": "1",
+              "text": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。"
+            },
+            {
+              "id": "ws-laozi-2354026-3-1-3",
+              "start": 56,
+              "end": 64,
+              "version": "1",
+              "text": "常使民無知無欲。"
+            },
+            {
+              "id": "ws-laozi-2354026-3-1-4",
+              "start": 64,
+              "end": 73,
+              "version": "1",
+              "text": "使夫智者不敢為也。"
+            },
+            {
+              "id": "ws-laozi-2354026-3-1-5",
+              "start": 73,
+              "end": 82,
+              "version": "1",
+              "text": "為無為，則無不治。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-4",
+      "number": 4,
+      "title": "四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-4-1",
+          "version": "1",
+          "text": "道沖而用之或不盈，淵兮似萬物之宗；挫其銳，解其紛，和其光，同其塵，湛兮似或存。吾不知誰之子，象帝之先。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-4-1-1",
+              "start": 0,
+              "end": 39,
+              "version": "1",
+              "text": "道沖而用之或不盈，淵兮似萬物之宗；挫其銳，解其紛，和其光，同其塵，湛兮似或存。"
+            },
+            {
+              "id": "ws-laozi-2354026-4-1-2",
+              "start": 39,
+              "end": 51,
+              "version": "1",
+              "text": "吾不知誰之子，象帝之先。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-5",
+      "number": 5,
+      "title": "五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-5-1",
+          "version": "1",
+          "text": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗。天地之間，其猶橐籥乎？虛而不屈，動而愈出。多言數窮，不如守中。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-5-1-1",
+              "start": 0,
+              "end": 24,
+              "version": "1",
+              "text": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗。"
+            },
+            {
+              "id": "ws-laozi-2354026-5-1-2",
+              "start": 24,
+              "end": 35,
+              "version": "1",
+              "text": "天地之間，其猶橐籥乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-5-1-3",
+              "start": 35,
+              "end": 45,
+              "version": "1",
+              "text": "虛而不屈，動而愈出。"
+            },
+            {
+              "id": "ws-laozi-2354026-5-1-4",
+              "start": 45,
+              "end": 55,
+              "version": "1",
+              "text": "多言數窮，不如守中。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-6",
+      "number": 6,
+      "title": "六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-6-1",
+          "version": "1",
+          "text": "谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-6-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "谷神不死，是謂玄牝。"
+            },
+            {
+              "id": "ws-laozi-2354026-6-1-2",
+              "start": 10,
+              "end": 21,
+              "version": "1",
+              "text": "玄牝之門，是謂天地根。"
+            },
+            {
+              "id": "ws-laozi-2354026-6-1-3",
+              "start": 21,
+              "end": 31,
+              "version": "1",
+              "text": "緜緜若存，用之不勤。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-7",
+      "number": 7,
+      "title": "七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-7-1",
+          "version": "1",
+          "text": "天長地久。天地所以能長且久者，以其不自生，故能長生。是以聖人後其身而身先；外其身而身存。非以其無私邪，故能成其私。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-7-1-1",
+              "start": 0,
+              "end": 5,
+              "version": "1",
+              "text": "天長地久。"
+            },
+            {
+              "id": "ws-laozi-2354026-7-1-2",
+              "start": 5,
+              "end": 26,
+              "version": "1",
+              "text": "天地所以能長且久者，以其不自生，故能長生。"
+            },
+            {
+              "id": "ws-laozi-2354026-7-1-3",
+              "start": 26,
+              "end": 44,
+              "version": "1",
+              "text": "是以聖人後其身而身先；外其身而身存。"
+            },
+            {
+              "id": "ws-laozi-2354026-7-1-4",
+              "start": 44,
+              "end": 57,
+              "version": "1",
+              "text": "非以其無私邪，故能成其私。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-8",
+      "number": 8,
+      "title": "八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-8-1",
+          "version": "1",
+          "text": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。夫唯不爭，故無尤。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-8-1-1",
+              "start": 0,
+              "end": 5,
+              "version": "1",
+              "text": "上善若水。"
+            },
+            {
+              "id": "ws-laozi-2354026-8-1-2",
+              "start": 5,
+              "end": 26,
+              "version": "1",
+              "text": "水善利萬物而不爭，處眾人之所惡，故幾於道。"
+            },
+            {
+              "id": "ws-laozi-2354026-8-1-3",
+              "start": 26,
+              "end": 54,
+              "version": "1",
+              "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。"
+            },
+            {
+              "id": "ws-laozi-2354026-8-1-4",
+              "start": 54,
+              "end": 63,
+              "version": "1",
+              "text": "夫唯不爭，故無尤。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-9",
+      "number": 9,
+      "title": "九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-9-1",
+          "version": "1",
+          "text": "持而盈之，不如其已；揣而梲之，不可長保。金玉滿堂，莫之能守；富貴而驕，自遺其咎。功遂身退，天之道。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-9-1-1",
+              "start": 0,
+              "end": 20,
+              "version": "1",
+              "text": "持而盈之，不如其已；揣而梲之，不可長保。"
+            },
+            {
+              "id": "ws-laozi-2354026-9-1-2",
+              "start": 20,
+              "end": 40,
+              "version": "1",
+              "text": "金玉滿堂，莫之能守；富貴而驕，自遺其咎。"
+            },
+            {
+              "id": "ws-laozi-2354026-9-1-3",
+              "start": 40,
+              "end": 49,
+              "version": "1",
+              "text": "功遂身退，天之道。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-10",
+      "number": 10,
+      "title": "十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-10-1",
+          "version": "1",
+          "text": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛國治民，能無知乎？天門開闔，能為雌乎？明白四達，能無為乎？生之，畜之。生而不有，為而不恃，長而不宰，是謂玄德。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-10-1-1",
+              "start": 0,
+              "end": 11,
+              "version": "1",
+              "text": "載營魄抱一，能無離乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-2",
+              "start": 11,
+              "end": 21,
+              "version": "1",
+              "text": "專氣致柔，能嬰兒乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-3",
+              "start": 21,
+              "end": 31,
+              "version": "1",
+              "text": "滌除玄覽，能無疵乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-4",
+              "start": 31,
+              "end": 41,
+              "version": "1",
+              "text": "愛國治民，能無知乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-5",
+              "start": 41,
+              "end": 51,
+              "version": "1",
+              "text": "天門開闔，能為雌乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-6",
+              "start": 51,
+              "end": 61,
+              "version": "1",
+              "text": "明白四達，能無為乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-7",
+              "start": 61,
+              "end": 67,
+              "version": "1",
+              "text": "生之，畜之。"
+            },
+            {
+              "id": "ws-laozi-2354026-10-1-8",
+              "start": 67,
+              "end": 87,
+              "version": "1",
+              "text": "生而不有，為而不恃，長而不宰，是謂玄德。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-11",
+      "number": 11,
+      "title": "十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-11-1",
+          "version": "1",
+          "text": "三十輻共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-11-1-1",
+              "start": 0,
+              "end": 16,
+              "version": "1",
+              "text": "三十輻共一轂，當其無，有車之用。"
+            },
+            {
+              "id": "ws-laozi-2354026-11-1-2",
+              "start": 16,
+              "end": 31,
+              "version": "1",
+              "text": "埏埴以為器，當其無，有器之用。"
+            },
+            {
+              "id": "ws-laozi-2354026-11-1-3",
+              "start": 31,
+              "end": 47,
+              "version": "1",
+              "text": "鑿戶牖以為室，當其無，有室之用。"
+            },
+            {
+              "id": "ws-laozi-2354026-11-1-4",
+              "start": 47,
+              "end": 60,
+              "version": "1",
+              "text": "故有之以為利，無之以為用。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-12",
+      "number": 12,
+      "title": "十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-12-1",
+          "version": "1",
+          "text": "五色令人目盲，五音令人耳聾，五味令人口爽，馳騁畋獵令人心發狂，難得之貨令人行妨。是以聖人為腹不為目，故去彼取此。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-12-1-1",
+              "start": 0,
+              "end": 40,
+              "version": "1",
+              "text": "五色令人目盲，五音令人耳聾，五味令人口爽，馳騁畋獵令人心發狂，難得之貨令人行妨。"
+            },
+            {
+              "id": "ws-laozi-2354026-12-1-2",
+              "start": 40,
+              "end": 56,
+              "version": "1",
+              "text": "是以聖人為腹不為目，故去彼取此。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-13",
+      "number": 13,
+      "title": "十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-13-1",
+          "version": "1",
+          "text": "寵辱若驚，貴大患若身。何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。何謂貴大患若身？吾所以有大患者，為吾有身，及吾無身，吾有何患？故貴以身為天下，若可寄天下；愛以身為天下，若可託天下。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-13-1-1",
+              "start": 0,
+              "end": 11,
+              "version": "1",
+              "text": "寵辱若驚，貴大患若身。"
+            },
+            {
+              "id": "ws-laozi-2354026-13-1-2",
+              "start": 11,
+              "end": 18,
+              "version": "1",
+              "text": "何謂寵辱若驚？"
+            },
+            {
+              "id": "ws-laozi-2354026-13-1-3",
+              "start": 18,
+              "end": 39,
+              "version": "1",
+              "text": "寵為下，得之若驚，失之若驚，是謂寵辱若驚。"
+            },
+            {
+              "id": "ws-laozi-2354026-13-1-4",
+              "start": 39,
+              "end": 47,
+              "version": "1",
+              "text": "何謂貴大患若身？"
+            },
+            {
+              "id": "ws-laozi-2354026-13-1-5",
+              "start": 47,
+              "end": 70,
+              "version": "1",
+              "text": "吾所以有大患者，為吾有身，及吾無身，吾有何患？"
+            },
+            {
+              "id": "ws-laozi-2354026-13-1-6",
+              "start": 70,
+              "end": 97,
+              "version": "1",
+              "text": "故貴以身為天下，若可寄天下；愛以身為天下，若可託天下。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-14",
+      "number": 14,
+      "title": "十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-14-1",
+          "version": "1",
+          "text": "視之不見名曰夷，聽之不聞名曰希，搏之不得名曰微。此三者，不可致詰，故混而為一。其上不皦，其下不昧。繩繩不可名，復歸於無物。是謂無狀之狀，無物之象，是謂惚恍。迎之不見其首，隨之不見其後。執古之道，以御今之有。能知古始，是謂道紀。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-14-1-1",
+              "start": 0,
+              "end": 24,
+              "version": "1",
+              "text": "視之不見名曰夷，聽之不聞名曰希，搏之不得名曰微。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-2",
+              "start": 24,
+              "end": 39,
+              "version": "1",
+              "text": "此三者，不可致詰，故混而為一。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-3",
+              "start": 39,
+              "end": 49,
+              "version": "1",
+              "text": "其上不皦，其下不昧。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-4",
+              "start": 49,
+              "end": 61,
+              "version": "1",
+              "text": "繩繩不可名，復歸於無物。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-5",
+              "start": 61,
+              "end": 78,
+              "version": "1",
+              "text": "是謂無狀之狀，無物之象，是謂惚恍。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-6",
+              "start": 78,
+              "end": 92,
+              "version": "1",
+              "text": "迎之不見其首，隨之不見其後。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-7",
+              "start": 92,
+              "end": 103,
+              "version": "1",
+              "text": "執古之道，以御今之有。"
+            },
+            {
+              "id": "ws-laozi-2354026-14-1-8",
+              "start": 103,
+              "end": 113,
+              "version": "1",
+              "text": "能知古始，是謂道紀。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-15",
+      "number": 15,
+      "title": "十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-15-1",
+          "version": "1",
+          "text": "古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。豫焉若冬涉川，猶兮若畏四鄰，儼兮其若容，渙兮若冰之將釋，敦兮其若樸，曠兮其若谷，混兮其若濁。孰能濁以靜之徐清？孰能安以久動之徐生？保此道者不欲盈，夫唯不盈，故能蔽不新成。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-15-1-1",
+              "start": 0,
+              "end": 17,
+              "version": "1",
+              "text": "古之善為士者，微妙玄通，深不可識。"
+            },
+            {
+              "id": "ws-laozi-2354026-15-1-2",
+              "start": 17,
+              "end": 29,
+              "version": "1",
+              "text": "夫唯不可識，故強為之容。"
+            },
+            {
+              "id": "ws-laozi-2354026-15-1-3",
+              "start": 29,
+              "end": 75,
+              "version": "1",
+              "text": "豫焉若冬涉川，猶兮若畏四鄰，儼兮其若容，渙兮若冰之將釋，敦兮其若樸，曠兮其若谷，混兮其若濁。"
+            },
+            {
+              "id": "ws-laozi-2354026-15-1-4",
+              "start": 75,
+              "end": 84,
+              "version": "1",
+              "text": "孰能濁以靜之徐清？"
+            },
+            {
+              "id": "ws-laozi-2354026-15-1-5",
+              "start": 84,
+              "end": 94,
+              "version": "1",
+              "text": "孰能安以久動之徐生？"
+            },
+            {
+              "id": "ws-laozi-2354026-15-1-6",
+              "start": 94,
+              "end": 114,
+              "version": "1",
+              "text": "保此道者不欲盈，夫唯不盈，故能蔽不新成。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-16",
+      "number": 16,
+      "title": "十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-16-1",
+          "version": "1",
+          "text": "致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃全，全乃天，天乃道，道乃久，沒身不殆。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-16-1-1",
+              "start": 0,
+              "end": 8,
+              "version": "1",
+              "text": "致虛極，守靜篤。"
+            },
+            {
+              "id": "ws-laozi-2354026-16-1-2",
+              "start": 8,
+              "end": 18,
+              "version": "1",
+              "text": "萬物並作，吾以觀復。"
+            },
+            {
+              "id": "ws-laozi-2354026-16-1-3",
+              "start": 18,
+              "end": 29,
+              "version": "1",
+              "text": "夫物芸芸，各復歸其根。"
+            },
+            {
+              "id": "ws-laozi-2354026-16-1-4",
+              "start": 29,
+              "end": 39,
+              "version": "1",
+              "text": "歸根曰靜，是謂復命。"
+            },
+            {
+              "id": "ws-laozi-2354026-16-1-5",
+              "start": 39,
+              "end": 49,
+              "version": "1",
+              "text": "復命曰常，知常曰明。"
+            },
+            {
+              "id": "ws-laozi-2354026-16-1-6",
+              "start": 49,
+              "end": 57,
+              "version": "1",
+              "text": "不知常，妄作凶。"
+            },
+            {
+              "id": "ws-laozi-2354026-16-1-7",
+              "start": 57,
+              "end": 86,
+              "version": "1",
+              "text": "知常容，容乃公，公乃全，全乃天，天乃道，道乃久，沒身不殆。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-17",
+      "number": 17,
+      "title": "十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-17-1",
+          "version": "1",
+          "text": "太上，下知有之，其次，親而譽之，其次，畏之，其次，侮之。信不足焉，有不信焉。悠兮其貴言，功成事遂，百姓皆謂：我自然。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-17-1-1",
+              "start": 0,
+              "end": 28,
+              "version": "1",
+              "text": "太上，下知有之，其次，親而譽之，其次，畏之，其次，侮之。"
+            },
+            {
+              "id": "ws-laozi-2354026-17-1-2",
+              "start": 28,
+              "end": 38,
+              "version": "1",
+              "text": "信不足焉，有不信焉。"
+            },
+            {
+              "id": "ws-laozi-2354026-17-1-3",
+              "start": 38,
+              "end": 58,
+              "version": "1",
+              "text": "悠兮其貴言，功成事遂，百姓皆謂：我自然。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-18",
+      "number": 18,
+      "title": "十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-18-1",
+          "version": "1",
+          "text": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-18-1-1",
+              "start": 0,
+              "end": 34,
+              "version": "1",
+              "text": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-19",
+      "number": 19,
+      "title": "十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-19-1",
+          "version": "1",
+          "text": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。此三者以為文不足，故令有所屬﹕見素抱樸，少私寡欲。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-19-1-1",
+              "start": 0,
+              "end": 30,
+              "version": "1",
+              "text": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。"
+            },
+            {
+              "id": "ws-laozi-2354026-19-1-2",
+              "start": 30,
+              "end": 55,
+              "version": "1",
+              "text": "此三者以為文不足，故令有所屬﹕見素抱樸，少私寡欲。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-20",
+      "number": 20,
+      "title": "二十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-20-1",
+          "version": "1",
+          "text": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央哉﹗眾人熙熙，如享太牢，如春登臺。我獨泊兮其未兆，如嬰兒之未孩；儽儽兮若無所歸。眾人皆有餘，而我獨若遺。我愚人之心也哉﹗沌沌兮，俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑似鄙。我獨異於人，而貴食母。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-20-1-1",
+              "start": 0,
+              "end": 15,
+              "version": "1",
+              "text": "絕學無憂，唯之與阿，相去幾何？"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-2",
+              "start": 15,
+              "end": 25,
+              "version": "1",
+              "text": "善之與惡，相去若何？"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-3",
+              "start": 25,
+              "end": 35,
+              "version": "1",
+              "text": "人之所畏，不可不畏。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-4",
+              "start": 35,
+              "end": 57,
+              "version": "1",
+              "text": "荒兮其未央哉﹗眾人熙熙，如享太牢，如春登臺。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-5",
+              "start": 57,
+              "end": 80,
+              "version": "1",
+              "text": "我獨泊兮其未兆，如嬰兒之未孩；儽儽兮若無所歸。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-6",
+              "start": 80,
+              "end": 92,
+              "version": "1",
+              "text": "眾人皆有餘，而我獨若遺。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-7",
+              "start": 92,
+              "end": 114,
+              "version": "1",
+              "text": "我愚人之心也哉﹗沌沌兮，俗人昭昭，我獨昏昏。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-8",
+              "start": 114,
+              "end": 124,
+              "version": "1",
+              "text": "俗人察察，我獨悶悶。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-9",
+              "start": 124,
+              "end": 136,
+              "version": "1",
+              "text": "澹兮其若海，飂兮若無止。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-10",
+              "start": 136,
+              "end": 149,
+              "version": "1",
+              "text": "眾人皆有以，而我獨頑似鄙。"
+            },
+            {
+              "id": "ws-laozi-2354026-20-1-11",
+              "start": 149,
+              "end": 160,
+              "version": "1",
+              "text": "我獨異於人，而貴食母。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-21",
+      "number": 21,
+      "title": "二十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-21-1",
+          "version": "1",
+          "text": "孔德之容，惟道是從。道之為物，惟恍惟惚。惚兮恍兮，其中有象；恍兮惚兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自今及古，其名不去，以閱眾甫。吾何以知眾甫之狀哉？以此。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-21-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "孔德之容，惟道是從。"
+            },
+            {
+              "id": "ws-laozi-2354026-21-1-2",
+              "start": 10,
+              "end": 20,
+              "version": "1",
+              "text": "道之為物，惟恍惟惚。"
+            },
+            {
+              "id": "ws-laozi-2354026-21-1-3",
+              "start": 20,
+              "end": 40,
+              "version": "1",
+              "text": "惚兮恍兮，其中有象；恍兮惚兮，其中有物。"
+            },
+            {
+              "id": "ws-laozi-2354026-21-1-4",
+              "start": 40,
+              "end": 60,
+              "version": "1",
+              "text": "窈兮冥兮，其中有精；其精甚真，其中有信。"
+            },
+            {
+              "id": "ws-laozi-2354026-21-1-5",
+              "start": 60,
+              "end": 75,
+              "version": "1",
+              "text": "自今及古，其名不去，以閱眾甫。"
+            },
+            {
+              "id": "ws-laozi-2354026-21-1-6",
+              "start": 75,
+              "end": 85,
+              "version": "1",
+              "text": "吾何以知眾甫之狀哉？"
+            },
+            {
+              "id": "ws-laozi-2354026-21-1-7",
+              "start": 85,
+              "end": 88,
+              "version": "1",
+              "text": "以此。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-22",
+      "number": 22,
+      "title": "二十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-22-1",
+          "version": "1",
+          "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。是以聖人抱一為天下式。不自見故明，不自是故彰，不自伐故有功，不自矜故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-22-1-1",
+              "start": 0,
+              "end": 24,
+              "version": "1",
+              "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。"
+            },
+            {
+              "id": "ws-laozi-2354026-22-1-2",
+              "start": 24,
+              "end": 35,
+              "version": "1",
+              "text": "是以聖人抱一為天下式。"
+            },
+            {
+              "id": "ws-laozi-2354026-22-1-3",
+              "start": 35,
+              "end": 60,
+              "version": "1",
+              "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。"
+            },
+            {
+              "id": "ws-laozi-2354026-22-1-4",
+              "start": 60,
+              "end": 74,
+              "version": "1",
+              "text": "夫唯不爭，故天下莫能與之爭。"
+            },
+            {
+              "id": "ws-laozi-2354026-22-1-5",
+              "start": 74,
+              "end": 88,
+              "version": "1",
+              "text": "古之所謂曲則全者，豈虛言哉！"
+            },
+            {
+              "id": "ws-laozi-2354026-22-1-6",
+              "start": 88,
+              "end": 94,
+              "version": "1",
+              "text": "誠全而歸之。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-23",
+      "number": 23,
+      "title": "二十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-23-1",
+          "version": "1",
+          "text": "希言自然。故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故從事於道者，道者同於道，德者同於德，失者同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足焉，有不信焉。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-23-1-1",
+              "start": 0,
+              "end": 5,
+              "version": "1",
+              "text": "希言自然。"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-2",
+              "start": 5,
+              "end": 18,
+              "version": "1",
+              "text": "故飄風不終朝，驟雨不終日。"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-3",
+              "start": 18,
+              "end": 23,
+              "version": "1",
+              "text": "孰為此者？"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-4",
+              "start": 23,
+              "end": 26,
+              "version": "1",
+              "text": "天地。"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-5",
+              "start": 26,
+              "end": 39,
+              "version": "1",
+              "text": "天地尚不能久，而況於人乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-6",
+              "start": 39,
+              "end": 64,
+              "version": "1",
+              "text": "故從事於道者，道者同於道，德者同於德，失者同於失。"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-7",
+              "start": 64,
+              "end": 97,
+              "version": "1",
+              "text": "同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。"
+            },
+            {
+              "id": "ws-laozi-2354026-23-1-8",
+              "start": 97,
+              "end": 107,
+              "version": "1",
+              "text": "信不足焉，有不信焉。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-24",
+      "number": 24,
+      "title": "二十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-24-1",
+          "version": "1",
+          "text": "企者不立，跨者不行，自見者不明，自是者不彰，自伐者無功，自矜者不長。其在道也，曰餘食贅行。物或惡之，故有道者不處。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-24-1-1",
+              "start": 0,
+              "end": 34,
+              "version": "1",
+              "text": "企者不立，跨者不行，自見者不明，自是者不彰，自伐者無功，自矜者不長。"
+            },
+            {
+              "id": "ws-laozi-2354026-24-1-2",
+              "start": 34,
+              "end": 45,
+              "version": "1",
+              "text": "其在道也，曰餘食贅行。"
+            },
+            {
+              "id": "ws-laozi-2354026-24-1-3",
+              "start": 45,
+              "end": 57,
+              "version": "1",
+              "text": "物或惡之，故有道者不處。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-25",
+      "number": 25,
+      "title": "二十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-25-1",
+          "version": "1",
+          "text": "有物混成，先天地生。寂兮寥兮，獨立而不改，周行而不殆，可以為天下母。吾不知其名，字之曰道，強為之名曰大。大曰逝，逝曰遠，遠曰反。故道大，天大，地大，王亦大。域中有四大，而王居其一焉。人法地，地法天，天法道，道法自然。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-25-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "有物混成，先天地生。"
+            },
+            {
+              "id": "ws-laozi-2354026-25-1-2",
+              "start": 10,
+              "end": 34,
+              "version": "1",
+              "text": "寂兮寥兮，獨立而不改，周行而不殆，可以為天下母。"
+            },
+            {
+              "id": "ws-laozi-2354026-25-1-3",
+              "start": 34,
+              "end": 52,
+              "version": "1",
+              "text": "吾不知其名，字之曰道，強為之名曰大。"
+            },
+            {
+              "id": "ws-laozi-2354026-25-1-4",
+              "start": 52,
+              "end": 64,
+              "version": "1",
+              "text": "大曰逝，逝曰遠，遠曰反。"
+            },
+            {
+              "id": "ws-laozi-2354026-25-1-5",
+              "start": 64,
+              "end": 78,
+              "version": "1",
+              "text": "故道大，天大，地大，王亦大。"
+            },
+            {
+              "id": "ws-laozi-2354026-25-1-6",
+              "start": 78,
+              "end": 91,
+              "version": "1",
+              "text": "域中有四大，而王居其一焉。"
+            },
+            {
+              "id": "ws-laozi-2354026-25-1-7",
+              "start": 91,
+              "end": 108,
+              "version": "1",
+              "text": "人法地，地法天，天法道，道法自然。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-26",
+      "number": 26,
+      "title": "二十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-26-1",
+          "version": "1",
+          "text": "重為輕根，靜為躁君。是以聖人終日行不離輜重。雖有榮觀，燕處超然。奈何萬乘之主，而以身輕天下？輕則失本，躁則失君。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-26-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "重為輕根，靜為躁君。"
+            },
+            {
+              "id": "ws-laozi-2354026-26-1-2",
+              "start": 10,
+              "end": 22,
+              "version": "1",
+              "text": "是以聖人終日行不離輜重。"
+            },
+            {
+              "id": "ws-laozi-2354026-26-1-3",
+              "start": 22,
+              "end": 32,
+              "version": "1",
+              "text": "雖有榮觀，燕處超然。"
+            },
+            {
+              "id": "ws-laozi-2354026-26-1-4",
+              "start": 32,
+              "end": 46,
+              "version": "1",
+              "text": "奈何萬乘之主，而以身輕天下？"
+            },
+            {
+              "id": "ws-laozi-2354026-26-1-5",
+              "start": 46,
+              "end": 56,
+              "version": "1",
+              "text": "輕則失本，躁則失君。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-27",
+      "number": 27,
+      "title": "二十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-27-1",
+          "version": "1",
+          "text": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。是以聖人常善救人，故無棄人；常善救物，故無棄物，是謂襲明。故善人者，不善人之師；不善人者，善人之資。不貴其師，不愛其資，雖智大迷，是謂要妙。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-27-1-1",
+              "start": 0,
+              "end": 39,
+              "version": "1",
+              "text": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。"
+            },
+            {
+              "id": "ws-laozi-2354026-27-1-2",
+              "start": 39,
+              "end": 68,
+              "version": "1",
+              "text": "是以聖人常善救人，故無棄人；常善救物，故無棄物，是謂襲明。"
+            },
+            {
+              "id": "ws-laozi-2354026-27-1-3",
+              "start": 68,
+              "end": 89,
+              "version": "1",
+              "text": "故善人者，不善人之師；不善人者，善人之資。"
+            },
+            {
+              "id": "ws-laozi-2354026-27-1-4",
+              "start": 89,
+              "end": 109,
+              "version": "1",
+              "text": "不貴其師，不愛其資，雖智大迷，是謂要妙。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-28",
+      "number": 28,
+      "title": "二十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-28-1",
+          "version": "1",
+          "text": "知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。知其白，守其黑，為天下式。為天下式，常德不忒，復歸於無極。知其榮，守其辱，為天下谷，常德乃足，復歸於樸。樸散則為器，聖人用之，則為官長，故大制不割。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-28-1-1",
+              "start": 0,
+              "end": 13,
+              "version": "1",
+              "text": "知其雄，守其雌，為天下谿。"
+            },
+            {
+              "id": "ws-laozi-2354026-28-1-2",
+              "start": 13,
+              "end": 29,
+              "version": "1",
+              "text": "為天下谿，常德不離，復歸於嬰兒。"
+            },
+            {
+              "id": "ws-laozi-2354026-28-1-3",
+              "start": 29,
+              "end": 42,
+              "version": "1",
+              "text": "知其白，守其黑，為天下式。"
+            },
+            {
+              "id": "ws-laozi-2354026-28-1-4",
+              "start": 42,
+              "end": 58,
+              "version": "1",
+              "text": "為天下式，常德不忒，復歸於無極。"
+            },
+            {
+              "id": "ws-laozi-2354026-28-1-5",
+              "start": 58,
+              "end": 81,
+              "version": "1",
+              "text": "知其榮，守其辱，為天下谷，常德乃足，復歸於樸。"
+            },
+            {
+              "id": "ws-laozi-2354026-28-1-6",
+              "start": 81,
+              "end": 103,
+              "version": "1",
+              "text": "樸散則為器，聖人用之，則為官長，故大制不割。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-29",
+      "number": 29,
+      "title": "二十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-29-1",
+          "version": "1",
+          "text": "將欲取天下而為之，吾見其不得已。天下神器，不可為也，為者敗之，執者失之。故物或行或隨，或歔或吹。或強或羸，或挫或隳。是以聖人去甚，去奢，去泰。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-29-1-1",
+              "start": 0,
+              "end": 16,
+              "version": "1",
+              "text": "將欲取天下而為之，吾見其不得已。"
+            },
+            {
+              "id": "ws-laozi-2354026-29-1-2",
+              "start": 16,
+              "end": 36,
+              "version": "1",
+              "text": "天下神器，不可為也，為者敗之，執者失之。"
+            },
+            {
+              "id": "ws-laozi-2354026-29-1-3",
+              "start": 36,
+              "end": 48,
+              "version": "1",
+              "text": "故物或行或隨，或歔或吹。"
+            },
+            {
+              "id": "ws-laozi-2354026-29-1-4",
+              "start": 48,
+              "end": 58,
+              "version": "1",
+              "text": "或強或羸，或挫或隳。"
+            },
+            {
+              "id": "ws-laozi-2354026-29-1-5",
+              "start": 58,
+              "end": 71,
+              "version": "1",
+              "text": "是以聖人去甚，去奢，去泰。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-30",
+      "number": 30,
+      "title": "三十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-30-1",
+          "version": "1",
+          "text": "以道佐人主者，不以兵強天下。其事好還。師之所處，荊棘生焉。大軍之後，必有凶年。善有果而已，不敢以取強。果而勿矜，果而勿伐，果而勿驕。果而不得已，果而勿強。物壯則老，是謂不道，不道早已。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-30-1-1",
+              "start": 0,
+              "end": 14,
+              "version": "1",
+              "text": "以道佐人主者，不以兵強天下。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-2",
+              "start": 14,
+              "end": 19,
+              "version": "1",
+              "text": "其事好還。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-3",
+              "start": 19,
+              "end": 29,
+              "version": "1",
+              "text": "師之所處，荊棘生焉。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-4",
+              "start": 29,
+              "end": 39,
+              "version": "1",
+              "text": "大軍之後，必有凶年。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-5",
+              "start": 39,
+              "end": 51,
+              "version": "1",
+              "text": "善有果而已，不敢以取強。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-6",
+              "start": 51,
+              "end": 66,
+              "version": "1",
+              "text": "果而勿矜，果而勿伐，果而勿驕。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-7",
+              "start": 66,
+              "end": 77,
+              "version": "1",
+              "text": "果而不得已，果而勿強。"
+            },
+            {
+              "id": "ws-laozi-2354026-30-1-8",
+              "start": 77,
+              "end": 92,
+              "version": "1",
+              "text": "物壯則老，是謂不道，不道早已。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-31",
+      "number": 31,
+      "title": "三十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-31-1",
+          "version": "1",
+          "text": "夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。吉事尚左，凶事尚右。偏將軍居左，上將軍居右，言以喪禮處之。殺人之眾，以哀悲泣之，戰勝，以喪禮處之。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-31-1-1",
+              "start": 0,
+              "end": 22,
+              "version": "1",
+              "text": "夫佳兵者，不祥之器，物或惡之，故有道者不處。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-2",
+              "start": 22,
+              "end": 35,
+              "version": "1",
+              "text": "君子居則貴左，用兵則貴右。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-3",
+              "start": 35,
+              "end": 60,
+              "version": "1",
+              "text": "兵者不祥之器，非君子之器，不得已而用之，恬淡為上。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-4",
+              "start": 60,
+              "end": 75,
+              "version": "1",
+              "text": "勝而不美，而美之者，是樂殺人。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-5",
+              "start": 75,
+              "end": 92,
+              "version": "1",
+              "text": "夫樂殺人者，則不可以得志於天下矣。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-6",
+              "start": 92,
+              "end": 102,
+              "version": "1",
+              "text": "吉事尚左，凶事尚右。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-7",
+              "start": 102,
+              "end": 121,
+              "version": "1",
+              "text": "偏將軍居左，上將軍居右，言以喪禮處之。"
+            },
+            {
+              "id": "ws-laozi-2354026-31-1-8",
+              "start": 121,
+              "end": 141,
+              "version": "1",
+              "text": "殺人之眾，以哀悲泣之，戰勝，以喪禮處之。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-32",
+      "number": 32,
+      "title": "三十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-32-1",
+          "version": "1",
+          "text": "道常無名，樸雖小，天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦將知止，知止所以不殆。譬道之在天下，猶川谷之於江海。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-32-1-1",
+              "start": 0,
+              "end": 16,
+              "version": "1",
+              "text": "道常無名，樸雖小，天下莫能臣也。"
+            },
+            {
+              "id": "ws-laozi-2354026-32-1-2",
+              "start": 16,
+              "end": 29,
+              "version": "1",
+              "text": "侯王若能守之，萬物將自賓。"
+            },
+            {
+              "id": "ws-laozi-2354026-32-1-3",
+              "start": 29,
+              "end": 47,
+              "version": "1",
+              "text": "天地相合，以降甘露，民莫之令而自均。"
+            },
+            {
+              "id": "ws-laozi-2354026-32-1-4",
+              "start": 47,
+              "end": 70,
+              "version": "1",
+              "text": "始制有名，名亦既有，夫亦將知止，知止所以不殆。"
+            },
+            {
+              "id": "ws-laozi-2354026-32-1-5",
+              "start": 70,
+              "end": 85,
+              "version": "1",
+              "text": "譬道之在天下，猶川谷之於江海。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-33",
+      "number": 33,
+      "title": "三十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-33-1",
+          "version": "1",
+          "text": "知人者智，自知者明。勝人者有力，自勝者強。知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-33-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "知人者智，自知者明。"
+            },
+            {
+              "id": "ws-laozi-2354026-33-1-2",
+              "start": 10,
+              "end": 21,
+              "version": "1",
+              "text": "勝人者有力，自勝者強。"
+            },
+            {
+              "id": "ws-laozi-2354026-33-1-3",
+              "start": 21,
+              "end": 26,
+              "version": "1",
+              "text": "知足者富。"
+            },
+            {
+              "id": "ws-laozi-2354026-33-1-4",
+              "start": 26,
+              "end": 32,
+              "version": "1",
+              "text": "強行者有志。"
+            },
+            {
+              "id": "ws-laozi-2354026-33-1-5",
+              "start": 32,
+              "end": 39,
+              "version": "1",
+              "text": "不失其所者久。"
+            },
+            {
+              "id": "ws-laozi-2354026-33-1-6",
+              "start": 39,
+              "end": 46,
+              "version": "1",
+              "text": "死而不亡者壽。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-34",
+      "number": 34,
+      "title": "三十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-34-1",
+          "version": "1",
+          "text": "大道氾兮，其可左右。萬物恃之而生而不辭，功成不名有。衣養萬物而不為主，常無欲，可名於小；萬物歸焉而不為主，可名為大。以其終不自為大，故能成其大。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-34-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "大道氾兮，其可左右。"
+            },
+            {
+              "id": "ws-laozi-2354026-34-1-2",
+              "start": 10,
+              "end": 26,
+              "version": "1",
+              "text": "萬物恃之而生而不辭，功成不名有。"
+            },
+            {
+              "id": "ws-laozi-2354026-34-1-3",
+              "start": 26,
+              "end": 58,
+              "version": "1",
+              "text": "衣養萬物而不為主，常無欲，可名於小；萬物歸焉而不為主，可名為大。"
+            },
+            {
+              "id": "ws-laozi-2354026-34-1-4",
+              "start": 58,
+              "end": 72,
+              "version": "1",
+              "text": "以其終不自為大，故能成其大。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-35",
+      "number": 35,
+      "title": "三十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-35-1",
+          "version": "1",
+          "text": "執大象，天下往。往而不害，安平太。樂與餌，過客止。道之出口，淡乎其無味，視之不足見，聽之不足聞，用之不足既。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-35-1-1",
+              "start": 0,
+              "end": 8,
+              "version": "1",
+              "text": "執大象，天下往。"
+            },
+            {
+              "id": "ws-laozi-2354026-35-1-2",
+              "start": 8,
+              "end": 17,
+              "version": "1",
+              "text": "往而不害，安平太。"
+            },
+            {
+              "id": "ws-laozi-2354026-35-1-3",
+              "start": 17,
+              "end": 25,
+              "version": "1",
+              "text": "樂與餌，過客止。"
+            },
+            {
+              "id": "ws-laozi-2354026-35-1-4",
+              "start": 25,
+              "end": 54,
+              "version": "1",
+              "text": "道之出口，淡乎其無味，視之不足見，聽之不足聞，用之不足既。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-36",
+      "number": 36,
+      "title": "三十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-36-1",
+          "version": "1",
+          "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。柔弱勝剛強。魚不可脫於淵，國之利器不可以示人。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-36-1-1",
+              "start": 0,
+              "end": 40,
+              "version": "1",
+              "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。"
+            },
+            {
+              "id": "ws-laozi-2354026-36-1-2",
+              "start": 40,
+              "end": 45,
+              "version": "1",
+              "text": "是謂微明。"
+            },
+            {
+              "id": "ws-laozi-2354026-36-1-3",
+              "start": 45,
+              "end": 51,
+              "version": "1",
+              "text": "柔弱勝剛強。"
+            },
+            {
+              "id": "ws-laozi-2354026-36-1-4",
+              "start": 51,
+              "end": 68,
+              "version": "1",
+              "text": "魚不可脫於淵，國之利器不可以示人。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-37",
+      "number": 37,
+      "title": "三十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-37-1",
+          "version": "1",
+          "text": "道常無為而無不為。侯王若能守之，萬物將自化。化而欲作，吾將鎮之以無名之樸。無名之樸，夫亦將無欲。不欲以靜，天下將自定。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-37-1-1",
+              "start": 0,
+              "end": 9,
+              "version": "1",
+              "text": "道常無為而無不為。"
+            },
+            {
+              "id": "ws-laozi-2354026-37-1-2",
+              "start": 9,
+              "end": 22,
+              "version": "1",
+              "text": "侯王若能守之，萬物將自化。"
+            },
+            {
+              "id": "ws-laozi-2354026-37-1-3",
+              "start": 22,
+              "end": 37,
+              "version": "1",
+              "text": "化而欲作，吾將鎮之以無名之樸。"
+            },
+            {
+              "id": "ws-laozi-2354026-37-1-4",
+              "start": 37,
+              "end": 48,
+              "version": "1",
+              "text": "無名之樸，夫亦將無欲。"
+            },
+            {
+              "id": "ws-laozi-2354026-37-1-5",
+              "start": 48,
+              "end": 59,
+              "version": "1",
+              "text": "不欲以靜，天下將自定。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-38",
+      "number": 38,
+      "title": "三十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-38-1",
+          "version": "1",
+          "text": "上德不德，是以有德；下德不失德，是以無德。上德無為而無以為，下德為之而有以為。上仁為之而無以為，上義為之而有以為。上禮為之而莫之應，則攘臂而扔之。故失道而後德，失德而後仁，失仁而後義，失義而後禮。夫禮者，忠信之薄，而亂之首。前識者，道之華，而愚之始。是以大丈夫處其厚，不居其薄；處其實，不居其華。故去彼取此。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-38-1-1",
+              "start": 0,
+              "end": 21,
+              "version": "1",
+              "text": "上德不德，是以有德；下德不失德，是以無德。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-2",
+              "start": 21,
+              "end": 39,
+              "version": "1",
+              "text": "上德無為而無以為，下德為之而有以為。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-3",
+              "start": 39,
+              "end": 57,
+              "version": "1",
+              "text": "上仁為之而無以為，上義為之而有以為。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-4",
+              "start": 57,
+              "end": 73,
+              "version": "1",
+              "text": "上禮為之而莫之應，則攘臂而扔之。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-5",
+              "start": 73,
+              "end": 98,
+              "version": "1",
+              "text": "故失道而後德，失德而後仁，失仁而後義，失義而後禮。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-6",
+              "start": 98,
+              "end": 112,
+              "version": "1",
+              "text": "夫禮者，忠信之薄，而亂之首。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-7",
+              "start": 112,
+              "end": 125,
+              "version": "1",
+              "text": "前識者，道之華，而愚之始。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-8",
+              "start": 125,
+              "end": 148,
+              "version": "1",
+              "text": "是以大丈夫處其厚，不居其薄；處其實，不居其華。"
+            },
+            {
+              "id": "ws-laozi-2354026-38-1-9",
+              "start": 148,
+              "end": 154,
+              "version": "1",
+              "text": "故去彼取此。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-39",
+      "number": 39,
+      "title": "三十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-39-1",
+          "version": "1",
+          "text": "昔之得一者，天得一以清，地得一以寧，神得一以靈，谷得一以盈，萬物得一以生，侯王得一以為天下貞。其致之，天無以清將恐裂，地無以寧將恐發，神無以靈將恐歇，谷無以盈將恐竭，萬物無以生將恐滅，侯王無以貴高將恐蹶。故貴以賤為本，高以下為基。是以侯王自稱孤﹑寡﹑不穀。此非以賤為本邪？非乎？故致數輿無輿，不欲琭琭如玉，珞珞如石。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-39-1-1",
+              "start": 0,
+              "end": 47,
+              "version": "1",
+              "text": "昔之得一者，天得一以清，地得一以寧，神得一以靈，谷得一以盈，萬物得一以生，侯王得一以為天下貞。"
+            },
+            {
+              "id": "ws-laozi-2354026-39-1-2",
+              "start": 47,
+              "end": 102,
+              "version": "1",
+              "text": "其致之，天無以清將恐裂，地無以寧將恐發，神無以靈將恐歇，谷無以盈將恐竭，萬物無以生將恐滅，侯王無以貴高將恐蹶。"
+            },
+            {
+              "id": "ws-laozi-2354026-39-1-3",
+              "start": 102,
+              "end": 115,
+              "version": "1",
+              "text": "故貴以賤為本，高以下為基。"
+            },
+            {
+              "id": "ws-laozi-2354026-39-1-4",
+              "start": 115,
+              "end": 128,
+              "version": "1",
+              "text": "是以侯王自稱孤﹑寡﹑不穀。"
+            },
+            {
+              "id": "ws-laozi-2354026-39-1-5",
+              "start": 128,
+              "end": 136,
+              "version": "1",
+              "text": "此非以賤為本邪？"
+            },
+            {
+              "id": "ws-laozi-2354026-39-1-6",
+              "start": 136,
+              "end": 139,
+              "version": "1",
+              "text": "非乎？"
+            },
+            {
+              "id": "ws-laozi-2354026-39-1-7",
+              "start": 139,
+              "end": 158,
+              "version": "1",
+              "text": "故致數輿無輿，不欲琭琭如玉，珞珞如石。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-40",
+      "number": 40,
+      "title": "四十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-40-1",
+          "version": "1",
+          "text": "反者道之動，弱者道之用。天下萬物生於有，有生於無。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-40-1-1",
+              "start": 0,
+              "end": 12,
+              "version": "1",
+              "text": "反者道之動，弱者道之用。"
+            },
+            {
+              "id": "ws-laozi-2354026-40-1-2",
+              "start": 12,
+              "end": 25,
+              "version": "1",
+              "text": "天下萬物生於有，有生於無。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-41",
+      "number": 41,
+      "title": "四十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-41-1",
+          "version": "1",
+          "text": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。不笑不足以為道。故建言有之﹕明道若昧，進道若退，夷道若纇，上德若谷，大白若辱，廣德若不足，建德若偷，質真若渝，大方無隅，大器晚成，大音希聲，大象無形，道隱無名。夫唯道，善貸且成。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-41-1-1",
+              "start": 0,
+              "end": 29,
+              "version": "1",
+              "text": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。"
+            },
+            {
+              "id": "ws-laozi-2354026-41-1-2",
+              "start": 29,
+              "end": 37,
+              "version": "1",
+              "text": "不笑不足以為道。"
+            },
+            {
+              "id": "ws-laozi-2354026-41-1-3",
+              "start": 37,
+              "end": 109,
+              "version": "1",
+              "text": "故建言有之﹕明道若昧，進道若退，夷道若纇，上德若谷，大白若辱，廣德若不足，建德若偷，質真若渝，大方無隅，大器晚成，大音希聲，大象無形，道隱無名。"
+            },
+            {
+              "id": "ws-laozi-2354026-41-1-4",
+              "start": 109,
+              "end": 118,
+              "version": "1",
+              "text": "夫唯道，善貸且成。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-42",
+      "number": 42,
+      "title": "四十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-42-1",
+          "version": "1",
+          "text": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以為和。人之所惡，唯孤﹑寡﹑不穀，而王公以為稱。故物或損之而益，或益之而損。人之所教，我亦教之。強梁者不得其死，吾將以為教父。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-42-1-1",
+              "start": 0,
+              "end": 17,
+              "version": "1",
+              "text": "道生一，一生二，二生三，三生萬物。"
+            },
+            {
+              "id": "ws-laozi-2354026-42-1-2",
+              "start": 17,
+              "end": 31,
+              "version": "1",
+              "text": "萬物負陰而抱陽，沖氣以為和。"
+            },
+            {
+              "id": "ws-laozi-2354026-42-1-3",
+              "start": 31,
+              "end": 51,
+              "version": "1",
+              "text": "人之所惡，唯孤﹑寡﹑不穀，而王公以為稱。"
+            },
+            {
+              "id": "ws-laozi-2354026-42-1-4",
+              "start": 51,
+              "end": 65,
+              "version": "1",
+              "text": "故物或損之而益，或益之而損。"
+            },
+            {
+              "id": "ws-laozi-2354026-42-1-5",
+              "start": 65,
+              "end": 75,
+              "version": "1",
+              "text": "人之所教，我亦教之。"
+            },
+            {
+              "id": "ws-laozi-2354026-42-1-6",
+              "start": 75,
+              "end": 90,
+              "version": "1",
+              "text": "強梁者不得其死，吾將以為教父。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-43",
+      "number": 43,
+      "title": "四十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-43-1",
+          "version": "1",
+          "text": "天下之至柔，馳騁天下之至堅。無有入無間，吾是以知無為之有益。不言之教，無為之益，天下希及之。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-43-1-1",
+              "start": 0,
+              "end": 14,
+              "version": "1",
+              "text": "天下之至柔，馳騁天下之至堅。"
+            },
+            {
+              "id": "ws-laozi-2354026-43-1-2",
+              "start": 14,
+              "end": 30,
+              "version": "1",
+              "text": "無有入無間，吾是以知無為之有益。"
+            },
+            {
+              "id": "ws-laozi-2354026-43-1-3",
+              "start": 30,
+              "end": 46,
+              "version": "1",
+              "text": "不言之教，無為之益，天下希及之。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-44",
+      "number": 44,
+      "title": "四十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-44-1",
+          "version": "1",
+          "text": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費，多藏必厚亡，知足不辱，知止不殆，可以長久。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-44-1-1",
+              "start": 0,
+              "end": 6,
+              "version": "1",
+              "text": "名與身孰親？"
+            },
+            {
+              "id": "ws-laozi-2354026-44-1-2",
+              "start": 6,
+              "end": 12,
+              "version": "1",
+              "text": "身與貨孰多？"
+            },
+            {
+              "id": "ws-laozi-2354026-44-1-3",
+              "start": 12,
+              "end": 18,
+              "version": "1",
+              "text": "得與亡孰病？"
+            },
+            {
+              "id": "ws-laozi-2354026-44-1-4",
+              "start": 18,
+              "end": 47,
+              "version": "1",
+              "text": "是故甚愛必大費，多藏必厚亡，知足不辱，知止不殆，可以長久。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-45",
+      "number": 45,
+      "title": "四十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-45-1",
+          "version": "1",
+          "text": "大成若缺，其用不弊。大盈若沖，其用不窮。大直若屈，其用不居。大巧若拙，其用不輟。大辯若訥，其用不差。躁勝寒，靜勝熱。清靜為天下正。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-45-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "大成若缺，其用不弊。"
+            },
+            {
+              "id": "ws-laozi-2354026-45-1-2",
+              "start": 10,
+              "end": 20,
+              "version": "1",
+              "text": "大盈若沖，其用不窮。"
+            },
+            {
+              "id": "ws-laozi-2354026-45-1-3",
+              "start": 20,
+              "end": 30,
+              "version": "1",
+              "text": "大直若屈，其用不居。"
+            },
+            {
+              "id": "ws-laozi-2354026-45-1-4",
+              "start": 30,
+              "end": 40,
+              "version": "1",
+              "text": "大巧若拙，其用不輟。"
+            },
+            {
+              "id": "ws-laozi-2354026-45-1-5",
+              "start": 40,
+              "end": 50,
+              "version": "1",
+              "text": "大辯若訥，其用不差。"
+            },
+            {
+              "id": "ws-laozi-2354026-45-1-6",
+              "start": 50,
+              "end": 58,
+              "version": "1",
+              "text": "躁勝寒，靜勝熱。"
+            },
+            {
+              "id": "ws-laozi-2354026-45-1-7",
+              "start": 58,
+              "end": 65,
+              "version": "1",
+              "text": "清靜為天下正。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-46",
+      "number": 46,
+      "title": "四十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-46-1",
+          "version": "1",
+          "text": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-46-1-1",
+              "start": 0,
+              "end": 11,
+              "version": "1",
+              "text": "天下有道，卻走馬以糞。"
+            },
+            {
+              "id": "ws-laozi-2354026-46-1-2",
+              "start": 11,
+              "end": 22,
+              "version": "1",
+              "text": "天下無道，戎馬生於郊。"
+            },
+            {
+              "id": "ws-laozi-2354026-46-1-3",
+              "start": 22,
+              "end": 37,
+              "version": "1",
+              "text": "禍莫大於不知足；咎莫大於欲得。"
+            },
+            {
+              "id": "ws-laozi-2354026-46-1-4",
+              "start": 37,
+              "end": 47,
+              "version": "1",
+              "text": "故知足之足，常足矣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-47",
+      "number": 47,
+      "title": "四十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-47-1",
+          "version": "1",
+          "text": "不出戶，知天下；不闚牖，見天道。其出彌遠，其知彌少。是以聖人不行而知，不見而名，不為而成。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-47-1-1",
+              "start": 0,
+              "end": 16,
+              "version": "1",
+              "text": "不出戶，知天下；不闚牖，見天道。"
+            },
+            {
+              "id": "ws-laozi-2354026-47-1-2",
+              "start": 16,
+              "end": 26,
+              "version": "1",
+              "text": "其出彌遠，其知彌少。"
+            },
+            {
+              "id": "ws-laozi-2354026-47-1-3",
+              "start": 26,
+              "end": 45,
+              "version": "1",
+              "text": "是以聖人不行而知，不見而名，不為而成。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-48",
+      "number": 48,
+      "title": "四十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-48-1",
+          "version": "1",
+          "text": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事，不足以取天下。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-48-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "為學日益，為道日損。"
+            },
+            {
+              "id": "ws-laozi-2354026-48-1-2",
+              "start": 10,
+              "end": 21,
+              "version": "1",
+              "text": "損之又損，以至於無為。"
+            },
+            {
+              "id": "ws-laozi-2354026-48-1-3",
+              "start": 21,
+              "end": 28,
+              "version": "1",
+              "text": "無為而無不為。"
+            },
+            {
+              "id": "ws-laozi-2354026-48-1-4",
+              "start": 28,
+              "end": 48,
+              "version": "1",
+              "text": "取天下常以無事，及其有事，不足以取天下。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-49",
+      "number": 49,
+      "title": "四十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-49-1",
+          "version": "1",
+          "text": "聖人無常心，以百姓心為心。善者，吾善之；不善者，吾亦善之，德善。信者，吾信之；不信者，吾亦信之，德信。聖人在天下歙歙，為天下渾其心，百姓皆注其耳目,聖人皆孩之。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-49-1-1",
+              "start": 0,
+              "end": 13,
+              "version": "1",
+              "text": "聖人無常心，以百姓心為心。"
+            },
+            {
+              "id": "ws-laozi-2354026-49-1-2",
+              "start": 13,
+              "end": 32,
+              "version": "1",
+              "text": "善者，吾善之；不善者，吾亦善之，德善。"
+            },
+            {
+              "id": "ws-laozi-2354026-49-1-3",
+              "start": 32,
+              "end": 51,
+              "version": "1",
+              "text": "信者，吾信之；不信者，吾亦信之，德信。"
+            },
+            {
+              "id": "ws-laozi-2354026-49-1-4",
+              "start": 51,
+              "end": 80,
+              "version": "1",
+              "text": "聖人在天下歙歙，為天下渾其心，百姓皆注其耳目,聖人皆孩之。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-50",
+      "number": 50,
+      "title": "五十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-50-1",
+          "version": "1",
+          "text": "出生入死。生之徒，十有三；死之徒，十有三；人之生，動之死地，亦十有三。夫何故？以其生生之厚。蓋聞善攝生者，陸行不遇兕虎，入軍不被甲兵；兕無所投其角，虎無所措其爪，兵無所容其刃。夫何故？以其無死地。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-50-1-1",
+              "start": 0,
+              "end": 5,
+              "version": "1",
+              "text": "出生入死。"
+            },
+            {
+              "id": "ws-laozi-2354026-50-1-2",
+              "start": 5,
+              "end": 35,
+              "version": "1",
+              "text": "生之徒，十有三；死之徒，十有三；人之生，動之死地，亦十有三。"
+            },
+            {
+              "id": "ws-laozi-2354026-50-1-3",
+              "start": 35,
+              "end": 39,
+              "version": "1",
+              "text": "夫何故？"
+            },
+            {
+              "id": "ws-laozi-2354026-50-1-4",
+              "start": 39,
+              "end": 46,
+              "version": "1",
+              "text": "以其生生之厚。"
+            },
+            {
+              "id": "ws-laozi-2354026-50-1-5",
+              "start": 46,
+              "end": 88,
+              "version": "1",
+              "text": "蓋聞善攝生者，陸行不遇兕虎，入軍不被甲兵；兕無所投其角，虎無所措其爪，兵無所容其刃。"
+            },
+            {
+              "id": "ws-laozi-2354026-50-1-6",
+              "start": 88,
+              "end": 92,
+              "version": "1",
+              "text": "夫何故？"
+            },
+            {
+              "id": "ws-laozi-2354026-50-1-7",
+              "start": 92,
+              "end": 98,
+              "version": "1",
+              "text": "以其無死地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-51",
+      "number": 51,
+      "title": "五十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-51-1",
+          "version": "1",
+          "text": "道生之，德畜之，物形之，勢成之。是以萬物莫不尊道而貴德。道之尊，德之貴，夫莫之命而常自然。故道生之，德畜之。長之育之，亭之毒之，蓋之覆之。生而不有，為而不恃，長而不宰。是謂玄德。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-51-1-1",
+              "start": 0,
+              "end": 16,
+              "version": "1",
+              "text": "道生之，德畜之，物形之，勢成之。"
+            },
+            {
+              "id": "ws-laozi-2354026-51-1-2",
+              "start": 16,
+              "end": 28,
+              "version": "1",
+              "text": "是以萬物莫不尊道而貴德。"
+            },
+            {
+              "id": "ws-laozi-2354026-51-1-3",
+              "start": 28,
+              "end": 45,
+              "version": "1",
+              "text": "道之尊，德之貴，夫莫之命而常自然。"
+            },
+            {
+              "id": "ws-laozi-2354026-51-1-4",
+              "start": 45,
+              "end": 54,
+              "version": "1",
+              "text": "故道生之，德畜之。"
+            },
+            {
+              "id": "ws-laozi-2354026-51-1-5",
+              "start": 54,
+              "end": 69,
+              "version": "1",
+              "text": "長之育之，亭之毒之，蓋之覆之。"
+            },
+            {
+              "id": "ws-laozi-2354026-51-1-6",
+              "start": 69,
+              "end": 84,
+              "version": "1",
+              "text": "生而不有，為而不恃，長而不宰。"
+            },
+            {
+              "id": "ws-laozi-2354026-51-1-7",
+              "start": 84,
+              "end": 89,
+              "version": "1",
+              "text": "是謂玄德。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-52",
+      "number": 52,
+      "title": "五十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-52-1",
+          "version": "1",
+          "text": "天下有始，以為天下母。既得其母，以知其子，既知其子，復守其母，沒身不殆。塞其兌，閉其門，終身不勤。開其兌，濟其事，終身不救。見小曰明，守柔曰強。用其光，復歸其明，無遺身殃，是為習常。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-52-1-1",
+              "start": 0,
+              "end": 11,
+              "version": "1",
+              "text": "天下有始，以為天下母。"
+            },
+            {
+              "id": "ws-laozi-2354026-52-1-2",
+              "start": 11,
+              "end": 36,
+              "version": "1",
+              "text": "既得其母，以知其子，既知其子，復守其母，沒身不殆。"
+            },
+            {
+              "id": "ws-laozi-2354026-52-1-3",
+              "start": 36,
+              "end": 49,
+              "version": "1",
+              "text": "塞其兌，閉其門，終身不勤。"
+            },
+            {
+              "id": "ws-laozi-2354026-52-1-4",
+              "start": 49,
+              "end": 62,
+              "version": "1",
+              "text": "開其兌，濟其事，終身不救。"
+            },
+            {
+              "id": "ws-laozi-2354026-52-1-5",
+              "start": 62,
+              "end": 72,
+              "version": "1",
+              "text": "見小曰明，守柔曰強。"
+            },
+            {
+              "id": "ws-laozi-2354026-52-1-6",
+              "start": 72,
+              "end": 91,
+              "version": "1",
+              "text": "用其光，復歸其明，無遺身殃，是為習常。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-53",
+      "number": 53,
+      "title": "五十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-53-1",
+          "version": "1",
+          "text": "使我介然有知，行於大道，唯施是畏。大道甚夷，而民好徑。朝甚除，田甚蕪，倉甚虛；服文綵，帶利劍，厭飲食，財貨有餘；是為盜夸。非道也哉！",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-53-1-1",
+              "start": 0,
+              "end": 17,
+              "version": "1",
+              "text": "使我介然有知，行於大道，唯施是畏。"
+            },
+            {
+              "id": "ws-laozi-2354026-53-1-2",
+              "start": 17,
+              "end": 27,
+              "version": "1",
+              "text": "大道甚夷，而民好徑。"
+            },
+            {
+              "id": "ws-laozi-2354026-53-1-3",
+              "start": 27,
+              "end": 61,
+              "version": "1",
+              "text": "朝甚除，田甚蕪，倉甚虛；服文綵，帶利劍，厭飲食，財貨有餘；是為盜夸。"
+            },
+            {
+              "id": "ws-laozi-2354026-53-1-4",
+              "start": 61,
+              "end": 66,
+              "version": "1",
+              "text": "非道也哉！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-54",
+      "number": 54,
+      "title": "五十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-54-1",
+          "version": "1",
+          "text": "善建者不拔，善抱者不脫，子孫以祭祀不輟。修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普。故以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下。吾何以知天下然哉？以此。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-54-1-1",
+              "start": 0,
+              "end": 20,
+              "version": "1",
+              "text": "善建者不拔，善抱者不脫，子孫以祭祀不輟。"
+            },
+            {
+              "id": "ws-laozi-2354026-54-1-2",
+              "start": 20,
+              "end": 71,
+              "version": "1",
+              "text": "修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普。"
+            },
+            {
+              "id": "ws-laozi-2354026-54-1-3",
+              "start": 71,
+              "end": 99,
+              "version": "1",
+              "text": "故以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下。"
+            },
+            {
+              "id": "ws-laozi-2354026-54-1-4",
+              "start": 99,
+              "end": 108,
+              "version": "1",
+              "text": "吾何以知天下然哉？"
+            },
+            {
+              "id": "ws-laozi-2354026-54-1-5",
+              "start": 108,
+              "end": 111,
+              "version": "1",
+              "text": "以此。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-55",
+      "number": 55,
+      "title": "五十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-55-1",
+          "version": "1",
+          "text": "含德之厚，比於赤子。蜂蠆虺蛇不螫，猛獸不據，攫鳥不搏。骨弱筋柔而握固。未知牝牡之合而全作，精之至也。終日號而不嗄，和之至也。知和曰常，知常曰明。益生曰祥。心使氣曰強。物壯則老，謂之不道，不道早已。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-55-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "含德之厚，比於赤子。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-2",
+              "start": 10,
+              "end": 27,
+              "version": "1",
+              "text": "蜂蠆虺蛇不螫，猛獸不據，攫鳥不搏。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-3",
+              "start": 27,
+              "end": 35,
+              "version": "1",
+              "text": "骨弱筋柔而握固。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-4",
+              "start": 35,
+              "end": 50,
+              "version": "1",
+              "text": "未知牝牡之合而全作，精之至也。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-5",
+              "start": 50,
+              "end": 62,
+              "version": "1",
+              "text": "終日號而不嗄，和之至也。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-6",
+              "start": 62,
+              "end": 72,
+              "version": "1",
+              "text": "知和曰常，知常曰明。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-7",
+              "start": 72,
+              "end": 77,
+              "version": "1",
+              "text": "益生曰祥。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-8",
+              "start": 77,
+              "end": 83,
+              "version": "1",
+              "text": "心使氣曰強。"
+            },
+            {
+              "id": "ws-laozi-2354026-55-1-9",
+              "start": 83,
+              "end": 98,
+              "version": "1",
+              "text": "物壯則老，謂之不道，不道早已。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-56",
+      "number": 56,
+      "title": "五十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-56-1",
+          "version": "1",
+          "text": "知者不言，言者不知。塞其兌，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。故不可得而親，不可得而疏；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-56-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "知者不言，言者不知。"
+            },
+            {
+              "id": "ws-laozi-2354026-56-1-2",
+              "start": 10,
+              "end": 39,
+              "version": "1",
+              "text": "塞其兌，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。"
+            },
+            {
+              "id": "ws-laozi-2354026-56-1-3",
+              "start": 39,
+              "end": 76,
+              "version": "1",
+              "text": "故不可得而親，不可得而疏；不可得而利，不可得而害；不可得而貴，不可得而賤。"
+            },
+            {
+              "id": "ws-laozi-2354026-56-1-4",
+              "start": 76,
+              "end": 82,
+              "version": "1",
+              "text": "故為天下貴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-57",
+      "number": 57,
+      "title": "五十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-57-1",
+          "version": "1",
+          "text": "以正治國，以奇用兵，以無事取天下。吾何以知其然哉？以此。天下多忌諱，而民彌貧；民多利器，國家滋昬；人多伎巧，奇物滋起；法令滋彰，盜賊多有。故聖人云﹕「我無為而民自化，我好靜而民自正，我無事而民自富，我無欲而民自樸。」",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-57-1-1",
+              "start": 0,
+              "end": 17,
+              "version": "1",
+              "text": "以正治國，以奇用兵，以無事取天下。"
+            },
+            {
+              "id": "ws-laozi-2354026-57-1-2",
+              "start": 17,
+              "end": 25,
+              "version": "1",
+              "text": "吾何以知其然哉？"
+            },
+            {
+              "id": "ws-laozi-2354026-57-1-3",
+              "start": 25,
+              "end": 28,
+              "version": "1",
+              "text": "以此。"
+            },
+            {
+              "id": "ws-laozi-2354026-57-1-4",
+              "start": 28,
+              "end": 69,
+              "version": "1",
+              "text": "天下多忌諱，而民彌貧；民多利器，國家滋昬；人多伎巧，奇物滋起；法令滋彰，盜賊多有。"
+            },
+            {
+              "id": "ws-laozi-2354026-57-1-5",
+              "start": 69,
+              "end": 108,
+              "version": "1",
+              "text": "故聖人云﹕「我無為而民自化，我好靜而民自正，我無事而民自富，我無欲而民自樸。」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-58",
+      "number": 58,
+      "title": "五十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-58-1",
+          "version": "1",
+          "text": "其政悶悶，其民淳淳；其政察察，其民缺缺。禍兮福之所倚，福兮禍之所伏。孰知其極？其無正。正復為奇，善復為妖。人之迷，其日固久。是以聖人方而不割，廉而不劌，直而不肆，光而不燿。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-58-1-1",
+              "start": 0,
+              "end": 20,
+              "version": "1",
+              "text": "其政悶悶，其民淳淳；其政察察，其民缺缺。"
+            },
+            {
+              "id": "ws-laozi-2354026-58-1-2",
+              "start": 20,
+              "end": 34,
+              "version": "1",
+              "text": "禍兮福之所倚，福兮禍之所伏。"
+            },
+            {
+              "id": "ws-laozi-2354026-58-1-3",
+              "start": 34,
+              "end": 39,
+              "version": "1",
+              "text": "孰知其極？"
+            },
+            {
+              "id": "ws-laozi-2354026-58-1-4",
+              "start": 39,
+              "end": 43,
+              "version": "1",
+              "text": "其無正。"
+            },
+            {
+              "id": "ws-laozi-2354026-58-1-5",
+              "start": 43,
+              "end": 53,
+              "version": "1",
+              "text": "正復為奇，善復為妖。"
+            },
+            {
+              "id": "ws-laozi-2354026-58-1-6",
+              "start": 53,
+              "end": 62,
+              "version": "1",
+              "text": "人之迷，其日固久。"
+            },
+            {
+              "id": "ws-laozi-2354026-58-1-7",
+              "start": 62,
+              "end": 86,
+              "version": "1",
+              "text": "是以聖人方而不割，廉而不劌，直而不肆，光而不燿。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-59",
+      "number": 59,
+      "title": "五十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-59-1",
+          "version": "1",
+          "text": "治人事天，莫若嗇。夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克，無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久；是謂深根固柢，長生久視之道。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-59-1-1",
+              "start": 0,
+              "end": 9,
+              "version": "1",
+              "text": "治人事天，莫若嗇。"
+            },
+            {
+              "id": "ws-laozi-2354026-59-1-2",
+              "start": 9,
+              "end": 77,
+              "version": "1",
+              "text": "夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克，無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久；是謂深根固柢，長生久視之道。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-60",
+      "number": 60,
+      "title": "六十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-60-1",
+          "version": "1",
+          "text": "治大國，若烹小鮮。以道莅天下，其鬼不神；非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人。夫兩不相傷，故德交歸焉。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-60-1-1",
+              "start": 0,
+              "end": 9,
+              "version": "1",
+              "text": "治大國，若烹小鮮。"
+            },
+            {
+              "id": "ws-laozi-2354026-60-1-2",
+              "start": 9,
+              "end": 46,
+              "version": "1",
+              "text": "以道莅天下，其鬼不神；非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人。"
+            },
+            {
+              "id": "ws-laozi-2354026-60-1-3",
+              "start": 46,
+              "end": 58,
+              "version": "1",
+              "text": "夫兩不相傷，故德交歸焉。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-61",
+      "number": 61,
+      "title": "六十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-61-1",
+          "version": "1",
+          "text": "大國者下流，天下之交。天下之牝，牝常以靜勝牡，以靜為下。故大國以下小國，則取小國；小國以下大國，則取大國。故或下以取，或下而取。大國不過欲兼畜人，小國不過欲入事人。夫兩者各得其所欲，大者宜為下。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-61-1-1",
+              "start": 0,
+              "end": 11,
+              "version": "1",
+              "text": "大國者下流，天下之交。"
+            },
+            {
+              "id": "ws-laozi-2354026-61-1-2",
+              "start": 11,
+              "end": 28,
+              "version": "1",
+              "text": "天下之牝，牝常以靜勝牡，以靜為下。"
+            },
+            {
+              "id": "ws-laozi-2354026-61-1-3",
+              "start": 28,
+              "end": 53,
+              "version": "1",
+              "text": "故大國以下小國，則取小國；小國以下大國，則取大國。"
+            },
+            {
+              "id": "ws-laozi-2354026-61-1-4",
+              "start": 53,
+              "end": 64,
+              "version": "1",
+              "text": "故或下以取，或下而取。"
+            },
+            {
+              "id": "ws-laozi-2354026-61-1-5",
+              "start": 64,
+              "end": 82,
+              "version": "1",
+              "text": "大國不過欲兼畜人，小國不過欲入事人。"
+            },
+            {
+              "id": "ws-laozi-2354026-61-1-6",
+              "start": 82,
+              "end": 97,
+              "version": "1",
+              "text": "夫兩者各得其所欲，大者宜為下。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-62",
+      "number": 62,
+      "title": "六十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-62-1",
+          "version": "1",
+          "text": "道者萬物之奧。善人之寶，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之有？故立天子，置三公，雖有拱璧以先駟馬，不如坐進此道。古之所以貴此道者何？不曰以求得，有罪以免邪？故為天下貴。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-62-1-1",
+              "start": 0,
+              "end": 7,
+              "version": "1",
+              "text": "道者萬物之奧。"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-2",
+              "start": 7,
+              "end": 19,
+              "version": "1",
+              "text": "善人之寶，不善人之所保。"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-3",
+              "start": 19,
+              "end": 32,
+              "version": "1",
+              "text": "美言可以市，尊行可以加人。"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-4",
+              "start": 32,
+              "end": 42,
+              "version": "1",
+              "text": "人之不善，何棄之有？"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-5",
+              "start": 42,
+              "end": 67,
+              "version": "1",
+              "text": "故立天子，置三公，雖有拱璧以先駟馬，不如坐進此道。"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-6",
+              "start": 67,
+              "end": 77,
+              "version": "1",
+              "text": "古之所以貴此道者何？"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-7",
+              "start": 77,
+              "end": 89,
+              "version": "1",
+              "text": "不曰以求得，有罪以免邪？"
+            },
+            {
+              "id": "ws-laozi-2354026-62-1-8",
+              "start": 89,
+              "end": 95,
+              "version": "1",
+              "text": "故為天下貴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-63",
+      "number": 63,
+      "title": "六十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-63-1",
+          "version": "1",
+          "text": "為無為，事無事，味無味。大小多少，報怨以德。圖難於其易，為大於其細；天下難事必作於易，天下大事必作於細。是以聖人終不為大，故能成其大。夫輕諾必寡信，多易必多難。是以聖人猶難之，故終無難矣",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-63-1-1",
+              "start": 0,
+              "end": 12,
+              "version": "1",
+              "text": "為無為，事無事，味無味。"
+            },
+            {
+              "id": "ws-laozi-2354026-63-1-2",
+              "start": 12,
+              "end": 22,
+              "version": "1",
+              "text": "大小多少，報怨以德。"
+            },
+            {
+              "id": "ws-laozi-2354026-63-1-3",
+              "start": 22,
+              "end": 52,
+              "version": "1",
+              "text": "圖難於其易，為大於其細；天下難事必作於易，天下大事必作於細。"
+            },
+            {
+              "id": "ws-laozi-2354026-63-1-4",
+              "start": 52,
+              "end": 67,
+              "version": "1",
+              "text": "是以聖人終不為大，故能成其大。"
+            },
+            {
+              "id": "ws-laozi-2354026-63-1-5",
+              "start": 67,
+              "end": 80,
+              "version": "1",
+              "text": "夫輕諾必寡信，多易必多難。"
+            },
+            {
+              "id": "ws-laozi-2354026-63-1-6",
+              "start": 80,
+              "end": 93,
+              "version": "1",
+              "text": "是以聖人猶難之，故終無難矣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-64",
+      "number": 64,
+      "title": "六十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-64-1",
+          "version": "1",
+          "text": "其安易持，其未兆易謀。其脆易泮，其微易散。為之於未有，治之於未亂。合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。為者敗之，執者失之。是以聖人無為故無敗，無執故無失。民之從事，常於幾成而敗之。慎終如始，則無敗事。是以聖人欲不欲，不貴難得之貨；學不學，復眾人之所過。以輔萬物之自然，而不敢為。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-64-1-1",
+              "start": 0,
+              "end": 11,
+              "version": "1",
+              "text": "其安易持，其未兆易謀。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-2",
+              "start": 11,
+              "end": 21,
+              "version": "1",
+              "text": "其脆易泮，其微易散。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-3",
+              "start": 21,
+              "end": 33,
+              "version": "1",
+              "text": "為之於未有，治之於未亂。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-4",
+              "start": 33,
+              "end": 63,
+              "version": "1",
+              "text": "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-5",
+              "start": 63,
+              "end": 73,
+              "version": "1",
+              "text": "為者敗之，執者失之。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-6",
+              "start": 73,
+              "end": 89,
+              "version": "1",
+              "text": "是以聖人無為故無敗，無執故無失。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-7",
+              "start": 89,
+              "end": 102,
+              "version": "1",
+              "text": "民之從事，常於幾成而敗之。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-8",
+              "start": 102,
+              "end": 112,
+              "version": "1",
+              "text": "慎終如始，則無敗事。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-9",
+              "start": 112,
+              "end": 138,
+              "version": "1",
+              "text": "是以聖人欲不欲，不貴難得之貨；學不學，復眾人之所過。"
+            },
+            {
+              "id": "ws-laozi-2354026-64-1-10",
+              "start": 138,
+              "end": 151,
+              "version": "1",
+              "text": "以輔萬物之自然，而不敢為。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-65",
+      "number": 65,
+      "title": "六十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-65-1",
+          "version": "1",
+          "text": "古之善為道者，非以明民，將以愚之。民之難治，以其智多。故以智治國，國之賊，不以智治國，國之福。知此兩者亦稽式。常知稽式，是謂玄德。玄德深矣，遠矣，與物反矣，然後乃至大順。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-65-1-1",
+              "start": 0,
+              "end": 17,
+              "version": "1",
+              "text": "古之善為道者，非以明民，將以愚之。"
+            },
+            {
+              "id": "ws-laozi-2354026-65-1-2",
+              "start": 17,
+              "end": 27,
+              "version": "1",
+              "text": "民之難治，以其智多。"
+            },
+            {
+              "id": "ws-laozi-2354026-65-1-3",
+              "start": 27,
+              "end": 47,
+              "version": "1",
+              "text": "故以智治國，國之賊，不以智治國，國之福。"
+            },
+            {
+              "id": "ws-laozi-2354026-65-1-4",
+              "start": 47,
+              "end": 55,
+              "version": "1",
+              "text": "知此兩者亦稽式。"
+            },
+            {
+              "id": "ws-laozi-2354026-65-1-5",
+              "start": 55,
+              "end": 65,
+              "version": "1",
+              "text": "常知稽式，是謂玄德。"
+            },
+            {
+              "id": "ws-laozi-2354026-65-1-6",
+              "start": 65,
+              "end": 85,
+              "version": "1",
+              "text": "玄德深矣，遠矣，與物反矣，然後乃至大順。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-66",
+      "number": 66,
+      "title": "六十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-66-1",
+          "version": "1",
+          "text": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以欲上民，必以言下之。欲先民，必以身後之。是以聖人處上而民不重，處前而民不害。是以天下樂推而不厭，以其不爭，故天下莫能與之爭。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-66-1-1",
+              "start": 0,
+              "end": 24,
+              "version": "1",
+              "text": "江海所以能為百谷王者，以其善下之，故能為百谷王。"
+            },
+            {
+              "id": "ws-laozi-2354026-66-1-2",
+              "start": 24,
+              "end": 36,
+              "version": "1",
+              "text": "是以欲上民，必以言下之。"
+            },
+            {
+              "id": "ws-laozi-2354026-66-1-3",
+              "start": 36,
+              "end": 46,
+              "version": "1",
+              "text": "欲先民，必以身後之。"
+            },
+            {
+              "id": "ws-laozi-2354026-66-1-4",
+              "start": 46,
+              "end": 64,
+              "version": "1",
+              "text": "是以聖人處上而民不重，處前而民不害。"
+            },
+            {
+              "id": "ws-laozi-2354026-66-1-5",
+              "start": 64,
+              "end": 88,
+              "version": "1",
+              "text": "是以天下樂推而不厭，以其不爭，故天下莫能與之爭。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-67",
+      "number": 67,
+      "title": "六十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-67-1",
+          "version": "1",
+          "text": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖，久矣其細也夫！我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇，儉故能廣，不敢為天下先，故能成器長。今舍慈且勇，舍儉且廣，舍後且先，死矣！夫慈以戰則勝，以守則固。天將救之，以慈衛之。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-67-1-1",
+              "start": 0,
+              "end": 12,
+              "version": "1",
+              "text": "天下皆謂我道大，似不肖。"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-2",
+              "start": 12,
+              "end": 21,
+              "version": "1",
+              "text": "夫唯大，故似不肖。"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-3",
+              "start": 21,
+              "end": 31,
+              "version": "1",
+              "text": "若肖，久矣其細也夫！"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-4",
+              "start": 31,
+              "end": 41,
+              "version": "1",
+              "text": "我有三寶，持而保之。"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-5",
+              "start": 41,
+              "end": 58,
+              "version": "1",
+              "text": "一曰慈，二曰儉，三曰不敢為天下先。"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-6",
+              "start": 58,
+              "end": 81,
+              "version": "1",
+              "text": "慈故能勇，儉故能廣，不敢為天下先，故能成器長。"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-7",
+              "start": 81,
+              "end": 100,
+              "version": "1",
+              "text": "今舍慈且勇，舍儉且廣，舍後且先，死矣！"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-8",
+              "start": 100,
+              "end": 112,
+              "version": "1",
+              "text": "夫慈以戰則勝，以守則固。"
+            },
+            {
+              "id": "ws-laozi-2354026-67-1-9",
+              "start": 112,
+              "end": 122,
+              "version": "1",
+              "text": "天將救之，以慈衛之。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-68",
+      "number": 68,
+      "title": "六十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-68-1",
+          "version": "1",
+          "text": "善為士者不武，善戰者不怒，善勝敵者不與，善用人者為之下，是謂不爭之德，是謂用人之力，是謂配天古之極。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-68-1-1",
+              "start": 0,
+              "end": 50,
+              "version": "1",
+              "text": "善為士者不武，善戰者不怒，善勝敵者不與，善用人者為之下，是謂不爭之德，是謂用人之力，是謂配天古之極。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-69",
+      "number": 69,
+      "title": "六十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-69-1",
+          "version": "1",
+          "text": "用兵有言﹕「吾不敢為主而為客，不敢進寸而退尺。」是謂行無行，攘無臂，扔無敵，執無兵。禍莫大於輕敵，輕敵幾喪吾寶。故抗兵相加，哀者勝矣。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-69-1-1",
+              "start": 0,
+              "end": 24,
+              "version": "1",
+              "text": "用兵有言﹕「吾不敢為主而為客，不敢進寸而退尺。」"
+            },
+            {
+              "id": "ws-laozi-2354026-69-1-2",
+              "start": 24,
+              "end": 42,
+              "version": "1",
+              "text": "是謂行無行，攘無臂，扔無敵，執無兵。"
+            },
+            {
+              "id": "ws-laozi-2354026-69-1-3",
+              "start": 42,
+              "end": 56,
+              "version": "1",
+              "text": "禍莫大於輕敵，輕敵幾喪吾寶。"
+            },
+            {
+              "id": "ws-laozi-2354026-69-1-4",
+              "start": 56,
+              "end": 67,
+              "version": "1",
+              "text": "故抗兵相加，哀者勝矣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-70",
+      "number": 70,
+      "title": "七十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-70-1",
+          "version": "1",
+          "text": "吾言甚易知，甚易行。天下莫能知，莫能行。言有宗，事有君。夫唯無知，是以不我知。知我者希，則我者貴。是以聖人被褐懷玉。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-70-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "吾言甚易知，甚易行。"
+            },
+            {
+              "id": "ws-laozi-2354026-70-1-2",
+              "start": 10,
+              "end": 20,
+              "version": "1",
+              "text": "天下莫能知，莫能行。"
+            },
+            {
+              "id": "ws-laozi-2354026-70-1-3",
+              "start": 20,
+              "end": 28,
+              "version": "1",
+              "text": "言有宗，事有君。"
+            },
+            {
+              "id": "ws-laozi-2354026-70-1-4",
+              "start": 28,
+              "end": 39,
+              "version": "1",
+              "text": "夫唯無知，是以不我知。"
+            },
+            {
+              "id": "ws-laozi-2354026-70-1-5",
+              "start": 39,
+              "end": 49,
+              "version": "1",
+              "text": "知我者希，則我者貴。"
+            },
+            {
+              "id": "ws-laozi-2354026-70-1-6",
+              "start": 49,
+              "end": 58,
+              "version": "1",
+              "text": "是以聖人被褐懷玉。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-71",
+      "number": 71,
+      "title": "七十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-71-1",
+          "version": "1",
+          "text": "知不知上，不知知病。夫唯病病，是以不病。聖人不病，以其病病，是以不病。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-71-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "知不知上，不知知病。"
+            },
+            {
+              "id": "ws-laozi-2354026-71-1-2",
+              "start": 10,
+              "end": 20,
+              "version": "1",
+              "text": "夫唯病病，是以不病。"
+            },
+            {
+              "id": "ws-laozi-2354026-71-1-3",
+              "start": 20,
+              "end": 35,
+              "version": "1",
+              "text": "聖人不病，以其病病，是以不病。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-72",
+      "number": 72,
+      "title": "七十二章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-72-1",
+          "version": "1",
+          "text": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自見，自愛不自貴；故去彼取此。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-72-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "民不畏威，則大威至。"
+            },
+            {
+              "id": "ws-laozi-2354026-72-1-2",
+              "start": 10,
+              "end": 22,
+              "version": "1",
+              "text": "無狎其所居，無厭其所生。"
+            },
+            {
+              "id": "ws-laozi-2354026-72-1-3",
+              "start": 22,
+              "end": 32,
+              "version": "1",
+              "text": "夫唯不厭，是以不厭。"
+            },
+            {
+              "id": "ws-laozi-2354026-72-1-4",
+              "start": 32,
+              "end": 54,
+              "version": "1",
+              "text": "是以聖人自知不自見，自愛不自貴；故去彼取此。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-73",
+      "number": 73,
+      "title": "七十三章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-73-1",
+          "version": "1",
+          "text": "勇於敢則殺，勇於不敢則活。此兩者，或利或害。天之所惡，孰知其故？是以聖人猶難之。天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀。天網恢恢，疏而不失。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-73-1-1",
+              "start": 0,
+              "end": 13,
+              "version": "1",
+              "text": "勇於敢則殺，勇於不敢則活。"
+            },
+            {
+              "id": "ws-laozi-2354026-73-1-2",
+              "start": 13,
+              "end": 22,
+              "version": "1",
+              "text": "此兩者，或利或害。"
+            },
+            {
+              "id": "ws-laozi-2354026-73-1-3",
+              "start": 22,
+              "end": 32,
+              "version": "1",
+              "text": "天之所惡，孰知其故？"
+            },
+            {
+              "id": "ws-laozi-2354026-73-1-4",
+              "start": 32,
+              "end": 40,
+              "version": "1",
+              "text": "是以聖人猶難之。"
+            },
+            {
+              "id": "ws-laozi-2354026-73-1-5",
+              "start": 40,
+              "end": 68,
+              "version": "1",
+              "text": "天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀。"
+            },
+            {
+              "id": "ws-laozi-2354026-73-1-6",
+              "start": 68,
+              "end": 78,
+              "version": "1",
+              "text": "天網恢恢，疏而不失。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-74",
+      "number": 74,
+      "title": "七十四章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-74-1",
+          "version": "1",
+          "text": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺，夫代司殺者殺，是謂代大匠斲。夫代大匠斲者，希有不傷其手矣。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-74-1-1",
+              "start": 0,
+              "end": 12,
+              "version": "1",
+              "text": "民不畏死，奈何以死懼之？"
+            },
+            {
+              "id": "ws-laozi-2354026-74-1-2",
+              "start": 12,
+              "end": 34,
+              "version": "1",
+              "text": "若使民常畏死，而為奇者，吾得執而殺之，孰敢？"
+            },
+            {
+              "id": "ws-laozi-2354026-74-1-3",
+              "start": 34,
+              "end": 55,
+              "version": "1",
+              "text": "常有司殺者殺，夫代司殺者殺，是謂代大匠斲。"
+            },
+            {
+              "id": "ws-laozi-2354026-74-1-4",
+              "start": 55,
+              "end": 70,
+              "version": "1",
+              "text": "夫代大匠斲者，希有不傷其手矣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-75",
+      "number": 75,
+      "title": "七十五章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-75-1",
+          "version": "1",
+          "text": "民之饑，以其上食稅之多，是以饑。民之難治，以其上之有為，是以難治。民之輕死，以其上求生之厚，是以輕死。夫唯無以生為者，是賢於貴生。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-75-1-1",
+              "start": 0,
+              "end": 16,
+              "version": "1",
+              "text": "民之饑，以其上食稅之多，是以饑。"
+            },
+            {
+              "id": "ws-laozi-2354026-75-1-2",
+              "start": 16,
+              "end": 33,
+              "version": "1",
+              "text": "民之難治，以其上之有為，是以難治。"
+            },
+            {
+              "id": "ws-laozi-2354026-75-1-3",
+              "start": 33,
+              "end": 51,
+              "version": "1",
+              "text": "民之輕死，以其上求生之厚，是以輕死。"
+            },
+            {
+              "id": "ws-laozi-2354026-75-1-4",
+              "start": 51,
+              "end": 65,
+              "version": "1",
+              "text": "夫唯無以生為者，是賢於貴生。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-76",
+      "number": 76,
+      "title": "七十六章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-76-1",
+          "version": "1",
+          "text": "人之生也柔弱，其死也堅強。萬物草木之生也柔脆，其死也枯槁。故堅強者死之徒，柔弱者生之徒。是以兵強則不勝，木強則兵。強大處下，柔弱處上。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-76-1-1",
+              "start": 0,
+              "end": 13,
+              "version": "1",
+              "text": "人之生也柔弱，其死也堅強。"
+            },
+            {
+              "id": "ws-laozi-2354026-76-1-2",
+              "start": 13,
+              "end": 29,
+              "version": "1",
+              "text": "萬物草木之生也柔脆，其死也枯槁。"
+            },
+            {
+              "id": "ws-laozi-2354026-76-1-3",
+              "start": 29,
+              "end": 44,
+              "version": "1",
+              "text": "故堅強者死之徒，柔弱者生之徒。"
+            },
+            {
+              "id": "ws-laozi-2354026-76-1-4",
+              "start": 44,
+              "end": 57,
+              "version": "1",
+              "text": "是以兵強則不勝，木強則兵。"
+            },
+            {
+              "id": "ws-laozi-2354026-76-1-5",
+              "start": 57,
+              "end": 67,
+              "version": "1",
+              "text": "強大處下，柔弱處上。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-77",
+      "number": 77,
+      "title": "七十七章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-77-1",
+          "version": "1",
+          "text": "天之道，其猶張弓與？高者抑之，下者舉之；有餘者損之，不足者補之。天之道，損有餘而補不足。人之道則不然，損不足以奉有餘。孰能有餘以奉天下？唯有道者。是以聖人為而不恃，功成而不處，其不欲見賢。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-77-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "天之道，其猶張弓與？"
+            },
+            {
+              "id": "ws-laozi-2354026-77-1-2",
+              "start": 10,
+              "end": 32,
+              "version": "1",
+              "text": "高者抑之，下者舉之；有餘者損之，不足者補之。"
+            },
+            {
+              "id": "ws-laozi-2354026-77-1-3",
+              "start": 32,
+              "end": 44,
+              "version": "1",
+              "text": "天之道，損有餘而補不足。"
+            },
+            {
+              "id": "ws-laozi-2354026-77-1-4",
+              "start": 44,
+              "end": 59,
+              "version": "1",
+              "text": "人之道則不然，損不足以奉有餘。"
+            },
+            {
+              "id": "ws-laozi-2354026-77-1-5",
+              "start": 59,
+              "end": 68,
+              "version": "1",
+              "text": "孰能有餘以奉天下？"
+            },
+            {
+              "id": "ws-laozi-2354026-77-1-6",
+              "start": 68,
+              "end": 73,
+              "version": "1",
+              "text": "唯有道者。"
+            },
+            {
+              "id": "ws-laozi-2354026-77-1-7",
+              "start": 73,
+              "end": 94,
+              "version": "1",
+              "text": "是以聖人為而不恃，功成而不處，其不欲見賢。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-78",
+      "number": 78,
+      "title": "七十八章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-78-1",
+          "version": "1",
+          "text": "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。弱之勝強，柔之勝剛，天下莫不知莫能行。是以聖人云﹕「受國之垢，是謂社稷主；受國不祥，是為天下王。」正言若反。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-78-1-1",
+              "start": 0,
+              "end": 25,
+              "version": "1",
+              "text": "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+            },
+            {
+              "id": "ws-laozi-2354026-78-1-2",
+              "start": 25,
+              "end": 44,
+              "version": "1",
+              "text": "弱之勝強，柔之勝剛，天下莫不知莫能行。"
+            },
+            {
+              "id": "ws-laozi-2354026-78-1-3",
+              "start": 44,
+              "end": 74,
+              "version": "1",
+              "text": "是以聖人云﹕「受國之垢，是謂社稷主；受國不祥，是為天下王。」"
+            },
+            {
+              "id": "ws-laozi-2354026-78-1-4",
+              "start": 74,
+              "end": 79,
+              "version": "1",
+              "text": "正言若反。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-79",
+      "number": 79,
+      "title": "七十九章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-79-1",
+          "version": "1",
+          "text": "和大怨，必有餘怨，安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天道無親，常與善人。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-79-1-1",
+              "start": 0,
+              "end": 15,
+              "version": "1",
+              "text": "和大怨，必有餘怨，安可以為善？"
+            },
+            {
+              "id": "ws-laozi-2354026-79-1-2",
+              "start": 15,
+              "end": 29,
+              "version": "1",
+              "text": "是以聖人執左契，而不責於人。"
+            },
+            {
+              "id": "ws-laozi-2354026-79-1-3",
+              "start": 29,
+              "end": 39,
+              "version": "1",
+              "text": "有德司契，無德司徹。"
+            },
+            {
+              "id": "ws-laozi-2354026-79-1-4",
+              "start": 39,
+              "end": 49,
+              "version": "1",
+              "text": "天道無親，常與善人。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-80",
+      "number": 80,
+      "title": "八十章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-80-1",
+          "version": "1",
+          "text": "小國寡民，使有什伯之器而不用，使民重死而不遠徙。雖有舟輿，無所乘之；雖有甲兵，無所陳之。使人復結繩而用之，甘其食，美其服，安其居，樂其俗。鄰國相望，雞犬之聲相聞，民至老死，不相往來。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-80-1-1",
+              "start": 0,
+              "end": 24,
+              "version": "1",
+              "text": "小國寡民，使有什伯之器而不用，使民重死而不遠徙。"
+            },
+            {
+              "id": "ws-laozi-2354026-80-1-2",
+              "start": 24,
+              "end": 44,
+              "version": "1",
+              "text": "雖有舟輿，無所乘之；雖有甲兵，無所陳之。"
+            },
+            {
+              "id": "ws-laozi-2354026-80-1-3",
+              "start": 44,
+              "end": 69,
+              "version": "1",
+              "text": "使人復結繩而用之，甘其食，美其服，安其居，樂其俗。"
+            },
+            {
+              "id": "ws-laozi-2354026-80-1-4",
+              "start": 69,
+              "end": 91,
+              "version": "1",
+              "text": "鄰國相望，雞犬之聲相聞，民至老死，不相往來。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-laozi-81",
+      "number": 81,
+      "title": "八十一章",
+      "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+      "paragraphs": [
+        {
+          "id": "p-laozi-2354026-81-1",
+          "version": "1",
+          "text": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。",
+          "aliases": [
+            {
+              "id": "ws-laozi-2354026-81-1-1",
+              "start": 0,
+              "end": 10,
+              "version": "1",
+              "text": "信言不美，美言不信。"
+            },
+            {
+              "id": "ws-laozi-2354026-81-1-2",
+              "start": 10,
+              "end": 20,
+              "version": "1",
+              "text": "善者不辯，辯者不善。"
+            },
+            {
+              "id": "ws-laozi-2354026-81-1-3",
+              "start": 20,
+              "end": 30,
+              "version": "1",
+              "text": "知者不博，博者不知。"
+            },
+            {
+              "id": "ws-laozi-2354026-81-1-4",
+              "start": 30,
+              "end": 51,
+              "version": "1",
+              "text": "聖人不積，既以為人己愈有，既以與人己愈多。"
+            },
+            {
+              "id": "ws-laozi-2354026-81-1-5",
+              "start": 51,
+              "end": 70,
+              "version": "1",
+              "text": "天之道，利而不害；聖人之道，為而不爭。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
