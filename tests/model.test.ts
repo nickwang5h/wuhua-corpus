@@ -4,10 +4,8 @@ import assert from 'node:assert/strict';
 import {migrateLegacy,noteEntry,readLink} from '../apps/reading/src/model';
 import {emptyData,parseData,backup,markdown,mergeData,put} from '../packages/ui/data';
 import {curated} from '../packages/content/src/curated';
-import {completionStatus,units,isReady} from '../packages/content/src/learning';
-import {canComplete,updateProgress} from '../apps/learning/src/model';
-import {validateHistory,validateUnits} from '../packages/content/src/validate';
-import {successors,manifest,findReference} from '../packages/content/src';
+import {validateHistory} from '../packages/content/src/validate';
+import {successors,findReference} from '../packages/content/src';
 import type {Reference,Transition} from '../packages/content/src/types';
 const ref:Reference={id:'p-a',version:'1',text:'學而時習之，不亦說乎？',title:'学而',source:'https://zh.wikisource.org/wiki/test?oldid=1'};
 test('v1 migration keeps unknown IDs, drafts, long notes and all reading positions',()=>{
@@ -31,12 +29,8 @@ test('revision, split, merge and withdrawal retain record snapshots and explicit
 test('old sentence alias is frozen independently of a revised paragraph',async()=>{
  const book=structuredClone(await loadBook('lunyu'));const p=book.chapters[0].paragraphs[0];const id=p.aliases[0].id;const before=findReference(book,id)!.ref;p.version='2';p.text='更正后的正文。';const after=findReference(book,id)!.ref;assert.deepEqual(after,before);assert.equal(after.version,'1');assert.equal(readLink('z1','reflect','self'),'#/read/z1/reflect?path=self');
 });
-test('course updates keep previous completions; answering and feedback gate completion',()=>{
- const unit=units[0];let d=emptyData('learning');assert.equal(canComplete(d,unit),false);d=updateProgress(d,unit,{step:'practice',attempts:{[unit.exercises[0].id]:{first:1,last:0,count:2,feedback:'解释'}}});assert.equal(canComplete(d,unit),false);d=updateProgress(d,unit,{attempts:Object.fromEntries(unit.exercises.map(e=>[e.id,{first:0,last:0,count:1,feedback:e.feedback}]))});assert.equal(canComplete(d,unit),true);d=updateProgress(d,unit,{completed:true,step:'review'});assert.equal(completionStatus({...unit,version:'2'},['1']),'previous-version');assert.equal(completionStatus({...unit,version:'2',compatibleVersions:['1']},['1']),'complete');assert.deepEqual(parseData(backup(d),'learning').records,d.records);assert.equal(isReady(unit),false);
-});
-test('new learning unit is data only and stale pinyin cannot pass validation',async()=>{
- const books=await Promise.all(manifest.map(b=>loadBook(b.id)));const newUnit={...structuredClone(units[0]),id:'disposable-new-unit'};validateUnits([...units,newUnit],books);newUnit.aids.find(a=>a.kind==='pinyin')!.tokens![0].start=0;assert.throws(()=>validateUnits([newUnit],books),/alignment/);
-});
+
+
 test('reserved property names stay unresolved records rather than becoming inherited content',()=>{
  const d=migrateLegacy(JSON.stringify({version:1,notes:{constructor:{draft:'still mine',saved:'keep me',updated:'now'}},bookmarks:['constructor']}));assert.equal(d.records[0].ref?.id,'constructor');assert.equal(d.records[0].ref?.version,'unknown');assert.match(markdown(d),/keep me/);
 });

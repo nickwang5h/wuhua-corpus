@@ -1,31 +1,49 @@
-import {UnitSummary} from './UnitSummary';
-import {AidCredits} from '../../../packages/ui/AidCredits';
+import {useEffect,useState} from 'react';
 import {BrandMark} from '../../../packages/ui/BrandMark';
 import {ThemeToggle} from '../../../packages/ui/ThemeToggle';
-import {lazy,Suspense,useEffect,useState} from 'react';
-import {units,isReady,isReleased,completionStatus} from '../../../packages/content/src/learning';
-import {daily,manifest,works} from '../../../packages/content/src';
 import {useLocalData} from '../../../packages/ui/useLocalData';
-import {BackupPanel,Dialog,SaveStatus,SettingsPanel,useAppearance} from '../../../packages/ui/components';
-import {storageKey} from './model';
-const HomeButterfly=lazy(()=>import('../../../packages/ui/HomeButterfly'));
-const UnitReader=lazy(()=>import('./UnitReader'));
-export default function App(){
- const [hash,setHash]=useState(location.hash||'#/'),[level,setLevel]=useState('all'),[about,setAbout]=useState(false),[settings,setSettings]=useState(false);const local=useLocalData('learning',storageKey);useAppearance(local.data.settings);
- useEffect(()=>{const f=()=>{setHash(location.hash||'#/');window.scrollTo(0,0);document.getElementById('main')?.focus({preventScroll:true});};window.addEventListener('hashchange',f);return()=>window.removeEventListener('hashchange',f);},[]);
- let parts:string[];try{parts=hash.slice(2).split('/').map(decodeURIComponent);}catch{parts=['missing'];}const [page,id]=parts;
- const preview=(import.meta.env.DEV||import.meta.env.VITE_CONTENT_PREVIEW==='true')&&new URLSearchParams(location.search).get('preview')==='1';
- const available=units.filter(u=>isReleased(u)||isReady(u)||preview);const unit=available.find(u=>u.id===id);const completed=(uid:string)=>local.data.records.filter(r=>r.kind==='progress'&&r.unitId===uid&&r.completed).map(r=>r.unitVersion!);
- const eligible=available.filter(u=>u.prerequisites.every(p=>completed(p).length)&&completionStatus(u,completed(u.id))!=='complete');const today=daily(eligible);const last=[...local.data.records].filter(r=>r.kind==='progress'&&!r.completed).sort((a,b)=>b.updated.localeCompare(a.updated))[0];
- const resume=last&&available.find(u=>u.id===last.unitId&&u.version===last.unitVersion);
- const startUnit=resume||today||available[0];
- const catalog=<><div className="actions" aria-label="Level filter">{['all','Starting','Building'].map(l=><button key={l} aria-pressed={level===l} onClick={()=>setLevel(l)}>{l==='all'?'All levels':l}</button>)}</div><p className="muted">Starting: no Chinese reading required. Building: revisit ideas introduced in earlier units. These are learning guides, not exam levels.</p>{!available.length?<section className="empty"><h2>Lessons are being reviewed.</h2><p>There are no approved units to start yet. Each one needs clear English guidance, checked pronunciation and useful feedback.</p><p>You can read how to use the learning aids below, or return later.</p>{import.meta.env.DEV&&<a className="button" href="?preview=1#/units">Open local draft preview</a>}</section>:<div className="unit-list">{available.filter(u=>level==='all'||u.level===level).map(u=><a key={u.id} href={`#/unit/${u.id}`}><div><small>{u.level} · About 5–10 minutes </small><UnitSummary unit={u} script={local.data.settings.script}/><span>{completionStatus(u,completed(u.id))==='complete'?'Completed — revisit':completionStatus(u,completed(u.id))==='previous-version'?'Previous version completed — review update':u.prerequisites.some(p=>!completed(p).length)?'Read the suggested earlier unit first':'Start with English help'}</span></div><span aria-hidden="true">↗</span></a>)}</div>}</>;
- return <><button className="skip" onClick={()=>document.getElementById('main')?.focus()}>Skip to content</button><header className="site-header"><a href="#/" className="brand"><BrandMark/>Wuhua Learn</a><nav aria-label="Main navigation">{[['','Start here'],['units','Units'],['notes','My learning']].map(([p,t])=><a key={p} href={`#/${p}`} aria-current={(page||'')===p?'page':undefined}>{t}</a>)}</nav><div className="header-settings"><button onClick={()=>setSettings(true)}>Settings</button><ThemeToggle english settings={local.data.settings} onChange={settings=>local.update(d=>({...d,settings}))}/></div></header>{!['saved','pending'].includes(local.status)&&page!=='unit'&&<SaveStatus local={local} english/>}<main id="main" tabIndex={-1}>
- {!page&&<section className="page learning-home"><div className="learning-opening"><a className="home-logo" href="#/" aria-label="Wuhua Learn home"><Suspense fallback={<BrandMark large/>}><HomeButterfly/></Suspense></a><h1>A few words.<br/>A new way to see.</h1><p className="home-description">Explore Chinese classics, one small step at a time.</p>{!available.length&&<p className="preparing">Lessons are being reviewed. You don’t need to read Chinese to begin when they’re ready.</p>}<a className="button primary" href={startUnit?`#/unit/${startUnit.id}`:'#/units'}>{resume?'Continue your lesson':startUnit?'Start a lesson':'Browse units'}</a>{startUnit&&<UnitSummary unit={startUnit} script={local.data.settings.script}/>}</div><details className="start-guide"><summary>How it works</summary><ol><li><strong>Read.</strong> Explore the Chinese with pinyin and English help.</li><li><strong>Try it.</strong> Check an answer and read its explanation.</li><li><strong>Reflect.</strong> Keep a thought and come back another day.</li></ol><p className="muted">No audio is provided yet. Your progress stays in this browser on this site.</p></details><section className="home-units"><h2>Small beginnings</h2>{catalog}</section></section>}
- {page==='units'&&<section className="page"><h1>Find your next unit</h1><p>Follow the suggested order, or revisit a familiar idea.</p>{catalog}</section>}
- {page==='unit'&&(unit?<Suspense fallback={<section className="page" role="status">Loading the lesson…</section>}><UnitReader key={unit.id} unit={unit} local={local} preview={!isReady(unit)} publicLesson={isReleased(unit)||isReady(unit)}/></Suspense>:<section className="page narrow"><h1>This unit is not available.</h1><p>It may still be under review or have changed. Your saved records are kept.</p><a href="#/units">Choose another unit</a> · <a href="#/notes">See saved records</a></section>)}
- {page==='notes'&&<section className="page narrow"><h1>My learning</h1><p>Progress, saved passages and reflections on this device.</p>{!['saved','pending'].includes(local.status)&&<SaveStatus local={local} english/>}{!local.data.records.length&&<div className="empty"><h2>Your next beginning belongs here.</h2><a href="#/units">Explore units</a></div>}{local.data.records.filter(r=>r.kind!=='position').map(r=><article key={r.recordId} className="record"><small>{r.kind} · {r.updated.slice(0,10)} {r.conflictOf?'· Conflict copy':''}</small><h2>{units.find(u=>u.id===r.unitId)?.title||r.ref?.title||r.unitId||'Historical record'}</h2>{r.kind==='progress'&&<><p>{r.completed?'Completed':'In progress'} · version {r.unitVersion} · {r.step}</p>{Object.values(r.attempts||{}).map((a,i)=><details key={i}><summary>Saved feedback {i+1}</summary><p>{a.feedback}</p></details>)}</>}{r.ref&&<blockquote lang="zh">{r.ref.text||'Original text unavailable; your record is kept.'}</blockquote>}{r.kind==='note'&&<><h3>Saved reflection</h3><p className="note-copy">{r.saved||'Not submitted yet'}</p>{r.draft!==r.saved&&<><h3>Draft</h3><p className="note-copy">{r.draft}</p></>}</>}<div className="actions">{r.unitId&&available.some(u=>u.id===r.unitId)&&<a className="button" href={`#/unit/${r.unitId}`}>Return to unit</a>}<button onClick={()=>{if(window.confirm('Delete this record on this device? Other conflict copies are kept.'))local.update(d=>({...d,records:d.records.filter(x=>x.recordId!==r.recordId)}));}}>Delete this record</button></div></article>)}<BackupPanel local={local} english/></section>}
- {page==='sources'&&<section className="page narrow"><h1>Sources and credits</h1><p>Classical text is shared with the Chinese reading site. Both sites use the same pinned Wikisource source snapshots, preserving the original characters separately from display conversion.</p><p>Imported electronic text is credited to Chinese Wikisource contributors and supplied under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Navigation, modern notes and variant tooltips are removed; primary readings are retained. These statements do not assign the same licence to independent teaching material or your personal notes.</p><p><a href="/texts/wikisource.json" download>Download the pinned source snapshots and credits</a></p>{units.map(u=><section key={u.id} className="record"><h2>{u.title}</h2><p>Original classical text, historical translations and Wuhua explanations have separate attribution and review status.</p><AidCredits aids={u.aids} english/><p>Reference: {u.refs.map(r=>`${r.id} @ ${r.version}`).join(', ')}</p></section>)}<h2>Reference policy</h2><p>English learner explanations are AI-assisted Wuhua drafts awaiting human review. External materials are linked for comparison; these links do not establish authorship, adaptation or permission to reproduce the linked text.</p><h2>Shared classical sources</h2>{manifest.map(b=><details key={b.id}><summary>{works.find(w=>w.id===b.id)?.title}</summary><ul>{[...new Map(b.chapters.map(c=>[c.source,c])).values()].map(c=><li key={c.source}><a href={c.source} target="_blank" rel="noreferrer">{c.title} · pinned revision</a></li>)}</ul></details>)}<p>Character display uses <a href="https://github.com/nk2028/opencc-js">OpenCC JS</a> (MIT code and Apache 2.0 dictionary data; <a href="/licenses/opencc.txt">licences</a>). Chinese learning text uses self-hosted LXGW WenKai GB Screen web subsets under SIL OFL 1.1 (<a href="/fonts/lxgw-wenkai-gb-screen/OFL.txt">font licence</a>, <a href="https://github.com/lxgw/LxgwWenKai-Screen">official source</a>). English uses your system font. No audio is distributed.</p><a href="https://wuhua.app/#/sources">Chinese source catalogue</a></section>}
- {page&&!['units','unit','notes','sources'].includes(page)&&<section className="page"><h1>Page not found.</h1><a href="#/units">Return to units</a></section>}
- </main><footer className="site-footer"><span>Wuhua Learn · A companion to the classics</span><a href="#/sources">Sources</a><button onClick={()=>setAbout(true)}>About and making</button><a href="https://wuhua.app/">中文阅读</a></footer>{settings&&<Dialog title="Settings" onClose={()=>setSettings(false)}><SettingsPanel english showPinyin={false} value={local.data.settings} onChange={settings=>local.update(d=>({...d,settings}))}/><p className="muted">These preferences apply across Wuhua Learn on this device. Chinese text uses WenKai; English uses your system font.</p></Dialog>}{about&&<Dialog title="About Wuhua Learn" onClose={()=>setAbout(false)}><p>Wuhua Learn is an independent project for exploring Chinese language and culture through classical texts. English support comes first, so beginners can take part.</p><p>Classical quotations are not presented as everyday spoken Chinese. Teaching paraphrases, translations and cultural notes are labelled separately. Editorial review status and source details are listed in Sources.</p><p>The Chinese site and learning site share texts, but keep personal records separately. There is no account or cloud sync.</p><a href="https://github.com/nickwang5h/wuhua">Project and making</a></Dialog>}</>;
+import {Dialog,SaveStatus,SettingsPanel,useAppearance} from '../../../packages/ui/components';
+import {availableReadings,preview} from './reading/registry';
+import {storageKey} from './reading/records';
+import {routeReadingId} from './reading/legacy';
+import {HomePage} from './pages/HomePage';
+import {ExplorePage} from './pages/ExplorePage';
+import {ReadingPage} from './pages/ReadingPage';
+import {SourcesPage} from './pages/SourcesPage';
+import {SavedPage} from './pages/SavedPage';
+export default function App() {
+  const [hash,setHash] = useState(location.hash || '#/');
+  const [settings,setSettings] = useState(false);
+  const local = useLocalData('learning',storageKey);
+  useAppearance(local.data.settings);
+  useEffect(() => {
+    const change = () => {setHash(location.hash || '#/');window.scrollTo(0,0);document.getElementById('main')?.focus({preventScroll:true});};
+    window.addEventListener('hashchange',change);
+    return () => window.removeEventListener('hashchange',change);
+  },[]);
+  let parts: string[];
+  try {parts = hash.slice(2).split('/').map(decodeURIComponent);} catch {parts = ['missing'];}
+  const [page,id] = parts;
+  const readingId = routeReadingId(page,id);
+  const reading = availableReadings.find(r => r.id === readingId);
+  useEffect(() => {document.title = reading ? `${reading.title} · Wuhua Learn` : 'Wuhua Learn · A few words. A new way to see.';},[reading]);
+  let content;
+  if (!page) content = <HomePage readings={availableReadings}/>;
+  else if (page === 'explore' || page === 'units') content = <ExplorePage readings={availableReadings}/>;
+  else if (page === 'saved' || page === 'notes') content = <SavedPage local={local} readings={availableReadings}/>;
+  else if (page === 'sources') content = <SourcesPage readings={availableReadings}/>;
+  else if (reading) content = <ReadingPage key={reading.id} reading={reading} readings={availableReadings} local={local} preview={preview}/>;
+  else content = <section className="page"><h1>This reading is not available.</h1><p><a href="#/explore">Find another reading</a>, or visit <a href="#/saved">your saved notes</a>.</p></section>;
+  return <>
+    <button className="skip" onClick={() => document.getElementById('main')?.focus()}>Skip to content</button>
+    <header className="site-header"><a href="#/" className="brand"><BrandMark/>Wuhua Learn</a>
+      <nav aria-label="Main navigation">{[['','Home'],['explore','Explore'],['saved','Saved']].map(([route,label]) => <a key={route} href={`#/${route}`} aria-current={page === route ? 'page' : undefined}>{label}</a>)}</nav>
+      <div className="header-settings"><button onClick={() => setSettings(true)}>Settings</button><ThemeToggle english settings={local.data.settings} onChange={settings => local.update(d => ({...d,settings}))}/></div>
+    </header>
+    {!['saved','pending'].includes(local.status) && <SaveStatus local={local} english/>}
+    {preview && <p className="preview-notice">Author preview — includes unreleased readings.</p>}
+    <main id="main" tabIndex={-1}>{content}</main>
+    <footer className="site-footer"><span>Wuhua Learn</span><a href="#/sources">Sources and writing</a><a href="https://wuhua.app/">中文阅读</a></footer>
+    {settings && <Dialog title="Reading settings" onClose={() => setSettings(false)}><SettingsPanel english value={local.data.settings} onChange={settings => local.update(d => ({...d,settings}))}/></Dialog>}
+  </>;
 }

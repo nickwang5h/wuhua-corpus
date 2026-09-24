@@ -1,7 +1,22 @@
 [
-  {"id":"practice-and-joy","version":"1"},
-  {"id":"learning-from-others","version":"1"},
-  {"id":"knowing-yourself","version":"1"},
-  {"id":"knowing-enough","version":"1"},
-  {"id":"one-with-things","version":"1"}
+  {
+    "id": "knowing-enough",
+    "version": "2"
+  },
+  {
+    "id": "knowing-yourself",
+    "version": "2"
+  },
+  {
+    "id": "learning-from-others",
+    "version": "2"
+  },
+  {
+    "id": "one-with-things",
+    "version": "2"
+  },
+  {
+    "id": "practice-and-joy",
+    "version": "2"
+  }
 ]
