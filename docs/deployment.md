@@ -9,3 +9,14 @@ Corpus 不部署业务服务。编辑并审核后，在本仓库根将 `package.
 将 tarball 和 release metadata 提供给两个产品，各自验证哈希、复制至 vendor 并更新依赖和 corpus-lock。它们不需要同时升级。release 文件也可在授权后作为 GitHub Release 附件上传，但本次没有创建远程仓库、tag、附件或执行 publish。
 
 回滚由产品恢复上一份锁和部署完成；保留已经发布的 tarball 供旧产品重建。无 CDN 或数据库需要协调。
+
+## 授权后远程操作示例
+
+本地分支为 `split/standalone`，无 remote。用户创建或授权创建目标 GitHub 仓库后，在本仓库执行以下命令；本次未执行：
+
+```sh
+git remote add origin git@github.com:nickwang5h/wuhua-corpus.git
+git push -u origin split/standalone:main
+```
+
+若要上传 release 附件，另需匹配该动作的授权；推送源码不会自动升级任一产品。

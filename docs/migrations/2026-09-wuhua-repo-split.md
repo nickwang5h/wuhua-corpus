@@ -104,3 +104,39 @@ Corpus 导出的共享项目均属于数据或身份契约；没有 shared UI。
 未创建或删除任何远程 repo/branch，未 force push，未推送，未改 Vercel 项目或域名，没有操作真实用户数据。目标仍为 nickwang5h/wuhua、nickwang5h/wuhua-learn、nickwang5h/wuhua-corpus。需要单独授权远程创建/推送/绑定/生产切换。
 
 各仓库 docs/deployment.md 提供 root directory、install/build/output、preview、域名保留与回滚步骤。内容仍保留原 draft 审核状态，未把迁移验证当作教学或文义审核。刻意保留中文 legacy 兼容资料与两个产品的旧存档结构。
+
+## Phase 2 / final independent checkouts
+
+Phase 1 全部检查及浏览器走查完成后，才提升目录树形成独立仓库。中文仓库继续使用原 checkout，Learn 和 Corpus 是同级独立 Git clone（禁用 hardlink），不依赖原仓库的对象文件或 worktree。两个新仓库无 remote；中文原 remote 保留但未使用。
+
+拆分采用新提交的 tree 指向对应子目录，parent 保留 Phase 1 提交。没有 filter/rebase/force push，原 main 和 backup/pre-product-corpus-split 未变。保留完整祖先意味着历史仍可查阅拆分前其他产品文件；这属于冻结历史，不是当前编辑源。以后 canonical 编辑只在 wuhua-corpus/src/books 进行。
+
+实际在三个最终 checkout 分别执行：
+
+| Repository | Commands | Result |
+| --- | --- | --- |
+| wuhua-corpus | `npm ci --offline --no-audit --no-fund`、`npm run release` | 安装、无 DOM 类型检查、canonical/provenance/history/pinyin 校验、边界检查、测试、JS/类型声明构建与 release 生成全部通过 |
+| wuhua | `npm ci --offline --no-audit --no-fund`、`npm test`、`npm run build` | 独立安装、存档/迁移/引用/catalog/display 测试、内容检查、类型和生产构建通过 |
+| wuhua-learn | `npm ci --offline --no-audit --no-fund`、`npm test`、`npm run build` | 独立安装、MDX/发布过滤/旧记录/分享文字/打印测试、内容检查、类型和生产构建通过 |
+
+最终 Corpus release 补入正式 README 后，两个产品运行 `npm install --offline --no-audit --no-fund` 更新发布包的 integrity；包内代码与数据不变。两个 vendor tarball、Corpus 独立生成的 tarball 和 release.json SHA-256 一致，避免把同名但不同包装的候选当成最终发布物。
+
+额外负例实测：有效但不在发布清单的临时 MDX 可通过 authoring 校验，其 metadata/body 标记不进入生产 JS；fixture 已删除并重新生成正常生产输出。重复运行 release writer 拒绝覆盖已有发布目录，原 tarball 保持不变。两站最终构建文件与 Phase 1 浏览器验证产物逐文件一致；storage 的非 import 代码与拆分前相同。
+
+npm 当前本机 install-scripts 策略提示 esbuild/fsevents 脚本尚未单独批准；本次没有修改该策略，安装、类型检查和实际构建均成功，不作为功能失败。现有大 chunk 告警仍存在。
+
+## Browser verification
+
+使用 Ego Browser 在隔离 localhost 生产预览检查，先确认 localStorage 为空，再写合成笔记；未访问生产或修改真实存档。
+
+- 中文：首页、论语书架、学而 Reader canonical 原文、clear/explain/reflect、首句白话解读、保存笔记及刷新后“我的回味”、paths、Sources。
+- Learn：Home、Explore 无声调 `xue xi` 搜索、Starting/Building Reading、Phrase/ClassicQuote 与拼音、Saved 收藏/笔记和刷新、Sources；旧 `#/unit/one-with-things` 可打开当前 Reading，生产 `?preview=1` 不启用作者预览。
+- 实际网络资源来自同站 `/releases/2026-09-24-d1/books/`，并加载了三部经典的对应引用。打开了桌面 Reader/Learn 和 390px Learn 截图，移动端无横向溢出。
+- 旧存档完整性由原有合成自动测试验证；本次未重复全部浏览器导入/冲突矩阵、分享 PNG 下载、实体打印或开发草稿浏览器流程。它们的源码除 import 外不变，分享文字与打印布局测试保留通过。开发/生产 release 判断与 MDX 编译测试通过，生产未公开内容排除另有实际构建负例。
+- 测试浏览器空间和两份本地预览服务已关闭。
+
+## Final state
+
+当前独立分支：中文为 `refactor/product-corpus-split`，Learn/Corpus 为 `split/standalone`。每个仓库包含自己的 README、architecture/development/content-authoring/deployment 文档、迁移记录与专属项目 Skill。原 monorepo docs 与旧 Skill 已在 Phase 1 标记历史并保留于祖先提交，未让旧说明冒充当前规范。
+
+此为本地完成状态。远程仓库创建、推送、Vercel Git 绑定及生产切换仍须授权；详见 deployment 文档。
