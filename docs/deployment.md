@@ -20,3 +20,7 @@ git push -u origin split/standalone:main
 ```
 
 若要上传 release 附件，另需匹配该动作的授权；推送源码不会自动升级任一产品。
+
+## 2026-09-24 · Private GitHub 仓库
+
+用户已授权创建并推送独立 private 仓库。`nickwang5h/wuhua-corpus` 已创建，当前 checkout 已配置 origin；远程使用 `main`，本地保留 `split/standalone` 并跟踪 origin/main。以上“未执行/无 remote”的段落是拆分完成时的记录，本段更新 GitHub 操作状态。Vercel 绑定、生产部署及 release 附件上传没有包含在本次推送授权中。
