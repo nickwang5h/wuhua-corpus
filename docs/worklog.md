@@ -444,3 +444,40 @@
 线上浏览器实际验证：中文首页完整引文及 Wuhua Learn 互链；学习首页五张原句／释义卡片，无预览提示；知足课直接 Read · 1 of 3、拼音及三按钮可用，Share 生成真实PNG，Print生成练习纸且不含Draft标记。[线上学习页手机截图](screenshots/five-units/live-learning-release.png)已打开检查。线上只读浏览及打开分享／打印预览，未写收藏、笔记、答题记录，未发起系统打印。
 未运行与限制：没有重做全部浏览器平台、长文分享及多页打印矩阵。内容仍待人工教学／读音审核，Sources 如实保留；公开授权不等于审核完成。
 影响与下一步：两站已上线，学习子域与证书生效，用户数据结构未改；后续内容发布明确指定清单版本。README、product、architecture、ui-plan 和入库指引同步现状。本地改动未提交或推送。
+
+## 2026-09-24 · Learn 改为独立 MDX Reading
+
+开始 commit：`f64cda34f72df4d587e40585c39c572f29b975a2`。
+结束实现 commit：`374ac2aba07d2e93430610f6a8fa048ea7ddd7fe`。本条执行记录作为后续文档提交补齐，不再改变实现。
+
+本轮依据为用户的 MDX Reading 架构任务卡，取代旧课程目标；理由见 [决策记录](decisions/2026-09-24-learning-mdx-readings.md)，当前实现见 architecture，不在此复制设计。
+
+实际变更：
+
+- 删除 Unit / Exercise 内容类型、UnitReader、UnitSummary、LessonPassage、PracticeQuestion 强制流程、旧 Learning model、五个 YAML、课程模板、lesson schema / generator / new 命令、learning-units.json、learning.ts 以及强制课程测试。没有保留双轨内容源。
+- 新增 MDX 元数据 schema、Vite 编译与构建校验、自动 registry、Home / Explore / Reading / Saved / Sources、统一 ReadingLayout、Phrase / ClassicQuote、新记录操作和只读 legacy adapter。
+- knowing-enough、knowing-yourself、learning-from-others、one-with-things、practice-and-joy 全部重写为独立英文小短文，Reading version 2；经典节选仍引用原 ID / version / code-point range。五个原公开主题的清单对应到新版本；review 保持 draft，没有宣称人工审核完成。
+- 原 wuhua:learning:v1 和共享 Data 编解码未改；新 Reading 记录使用独立身份。旧 progress、答案、反馈、笔记及草稿保留，进度不再控制页面。
+- architecture、README、product、ui-plan 已按当前实现重写；新增决策记录，两份项目 Skill 移除旧课程指引。文档相对链接检查通过。
+
+实际程序验证：
+
+- `npm run check:types` 通过；`npm test` 通过（22 项）。保留中文来源／旧引用／存档／显示／分享打印测试，新增 MDX 自由正文、元数据／语法／引用失败、五篇真实渲染和旧数据保留验证。新增普通文章不会要求修改测试中的文章总数。
+- `npm run check:content` 通过。根 `npm run build` 完成共享检查、中文构建与 Learning 构建；最终 Learning 改动又执行 `npm run build:learning`，通过。
+- 用一次性 MDX fixture 实际执行 Vite 构建：有效未发布文章的标题／摘要／正文标记不出现在生产 JS；不存在的经典 source 使构建失败。fixture 已删除。
+- 用纯段落 MDX fixture 启动开发预览，未改 App 或 React 页面即可读取；编辑文字自动刷新；未开 preview 的访问被阻止。fixture 已删除。
+- 最终 diff 检查通过。中文应用、共享 UI、canonical books、history 和 Wikisource snapshot 均无源码改动，中文生产资源保持原内容。
+
+浏览器走查（Agent 实际操作与截图检查，并非人工编辑审核）：
+
+- Ego TaskSpace 内检查 Learn 的 Home、Explore 搜索、五篇 Reading、Saved 和 Sources。采用本地 production preview，五篇均呈现现代词句、正文、共享经典引句及对齐拼音，无强制阶段或进度条；切换五篇未捕获到 error / unhandledrejection。
+- 检查 1440px 桌面、390px 手机视口、日夜模式、大字号、简繁与拼音开关。页面无横向溢出；刷新后设置保持。最终截图见 `docs/screenshots/reading-mdx/`。
+- 起初 4575 来源已有本地存档，未读取／清理／改写它；转到确认为空的 48735 来源注入合成旧记录。新收藏、笔记、设置和刷新均保留旧 progress / first / last / count / feedback 与旧笔记草稿。实际下载的完整 JSON 包含全部新旧记录。
+- 阻断本地经典 JSON 请求后出现可见错误，解除阻断并点击 Try again 成功恢复。Sources 的固定来源、许可、文章审核信息及字体／OpenCC 署名入口可见。
+- 实际下载 Share PNG，与弹窗预览字节校验一致；图片的经典节选、出处与新 Reading 链接正常。打印预览已打开，调用浏览器打印引擎生成一页 A4 PDF（测试中抑制原生打印对话框）；检查字形、格线、页码与白色外边距。Letter 分页由保留的自动测试覆盖，未做实体打印。
+- 中文本地生产预览的首页与《论语·学而》原文可正常打开。本轮没有重写中文页面。
+- 本次浏览器空间已关闭，启动的开发与预览服务已结束；未访问或迁移生产用户数据。
+
+已知限制：内容、现代例句与读音仍待人工审核；手机检查是浏览器视口模拟，未使用实体手机；既有按需加载的 OpenCC 大字典仍产生 Vite 分块体积告警，中文蝴蝶渲染块也保留原告警。没有未解决的构建或已复现功能失败。
+
+部署状态：仅本地提交，未推送、未部署。线上 Learn 尚未因本轮工作切换为 MDX Reading。
