@@ -1,4 +1,4 @@
-@import '../../../packages/ui/base.css';
+@import './ui/base.css';
 :root { --learning-han:"LXGW WenKai GB Screen","Kaiti SC","STKaiti",serif; }
 body { font-size:18px; }
 .brand { font-size:24px; }

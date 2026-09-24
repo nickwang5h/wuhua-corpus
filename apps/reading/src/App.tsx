@@ -1,12 +1,12 @@
-import {BrandMark} from '../../../packages/ui/BrandMark';
-import {ThemeToggle} from '../../../packages/ui/ThemeToggle';
+import {BrandMark} from './ui/BrandMark';
+import {ThemeToggle} from './ui/ThemeToggle';
 import {lazy,Suspense,useEffect,useRef,useState} from 'react';
-import {works,paths,concepts,daily} from '../../../packages/content/src';
-import {curated,curatedById} from '../../../packages/content/src/curated';
-import {useLocalData} from '../../../packages/ui/useLocalData';
-import {Dialog,SaveStatus,useAppearance} from '../../../packages/ui/components';
+import {works,paths,concepts,daily} from './content';
+import {curated,curatedById} from './content/curated';
+import {useLocalData} from './ui/useLocalData';
+import {Dialog,SaveStatus,useAppearance} from './ui/components';
 import {storageKey,legacyKey,migrateLegacyWithReferences,readLink} from './model';
-const HomeButterfly=lazy(()=>import('../../../packages/ui/HomeButterfly'));
+const HomeButterfly=lazy(()=>import('./ui/HomeButterfly'));
 const Library=lazy(()=>import('./Library'));const Reader=lazy(()=>import('./Reader'));const Records=lazy(()=>import('./Records'));const Sources=lazy(()=>import('./Sources'));
 function useRoute(){const [hash,setHash]=useState(location.hash||(location.pathname==='/sources'?'#/sources':'#/'));useEffect(()=>{const f=()=>setHash(location.hash||'#/');window.addEventListener('hashchange',f);return()=>window.removeEventListener('hashchange',f);},[]);const [path,query]=hash.slice(1).split('?');let parts:string[];try{parts=path.split('/').filter(Boolean).map(decodeURIComponent);}catch{parts=['not-found'];}return {parts,query:new URLSearchParams(query),hash};}
 export default function App(){

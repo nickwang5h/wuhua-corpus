@@ -1,8 +1,8 @@
 import {useEffect,useState,lazy,Suspense,type ComponentType} from 'react';
 import type {MDXProps} from 'mdx/types';
-import type {Reference} from '../../../../packages/content/src/types';
-import type {LocalData} from '../../../../packages/ui/useLocalData';
-import {ShareCard} from '../../../../packages/ui/ShareCard';
+import type {Reference} from '@wuhua/corpus/types';
+import type {LocalData} from '../ui/useLocalData';
+import {ShareCard} from '../ui/ShareCard';
 import {ReadingContext,mdxComponents} from '../mdx/components';
 import type {RegisteredReading} from '../reading/registry';
 import {ReadingLayout} from '../reading/ReadingLayout';

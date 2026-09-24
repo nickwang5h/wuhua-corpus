@@ -1,3 +1,5 @@
+> 历史记录：本文描述拆分前的产品或架构。当前工程入口见各仓库 README 和 architecture；迁移依据见 docs/migrations/2026-09-wuhua-repo-split.md。
+
 # 物化间界面约定
 
 更新：2026-09-24。中文界面沿用现状；Learn 已改为独立 MDX Reading。产品范围见 [product](product.md)，实际契约见 [architecture](architecture.md)，各版实施事实保存在 [worklog](worklog.md)。

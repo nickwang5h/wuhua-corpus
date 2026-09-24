@@ -1,78 +1,10 @@
 ---
 name: wuhua-content-intake
-description: 为物化间与 Wuhua Learn 维护固定经典来源、中文解读、MDX Reading 与拼音。用于新增篇章、编写初学者哲学短阅读、核对引用和审核信息；页面实现使用 wuhua-development。
+description: 拆分 staging 的入口指引；具体操作使用对应独立项目 Skill。
 ---
 
-# 物化间内容入库
+# 拆分后入口
 
-先读 [README 作者入口](../../../README.md#新增一篇-reading) 和相近内容。经典与记录契约见 [architecture](../../../docs/architecture.md)，Learn 产品目标见 [product](../../../docs/product.md)。检查目标 diff，保留已有工作。
+本分支仅保留迁移历史。中文任务读 `apps/reading/.agents/skills/`，Learn 任务读 `apps/learning/.agents/skills/`，canonical 来源/拼音/release 任务读 `packages/corpus/.agents/skills/`。每份 Skill 的相对路径以所在独立项目为根。
 
-## 内容归属
-
-| 内容 | 事实源 |
-| --- | --- |
-| 固定 wikitext、oldid、贡献者与许可 | `public/texts/wikisource.json` |
-| 当前经典正文与稳定 ID | `packages/content/src/books/*.json` |
-| 历史引用／修订／拆合 | `packages/content/src/history.json` |
-| 中文独立说明 | `packages/content/src/editorial-aids.json` |
-| Learn 短文 | `content/learning/*.mdx` |
-| 经典对齐拼音 | `packages/content/src/pinyin-aids.json` |
-| Learn 公开版本 | `packages/content/src/learning-release.json` |
-
-旧精选和兼容档案留在 `packages/content/src/legacy/`。目录与静态正文是可重建产物，不当作人工编辑源。
-
-## 来源与经典入库
-
-1. 核实作品、版本、Wikisource 固定 oldid、贡献历史、许可及实际处理方式，保存原始快照。
-2. 更新来源时用 `content:import -- --download` 获取候选，不直接覆盖既有快照／正文。普通 `content:import` 从固定快照离线转换，未知模板报错。
-3. 现有段落 ID 不因排序或标题变化重分配。更正原文前保存旧引用、版本及明确 history 映射；校订记录 sourceText、原因和实际审核。
-4. 拼音与原文版本、Unicode 码点范围对齐。不能用字形转换结果覆盖底文，也不猜测多音字或缺失读音。
-5. 外部译文、古注、字体、音频分别核实作者、版本、具体链接与权利；查阅链接不等于采用该译者的文字。CText 的古典正文、历史译本和现代改写分别判断，不批量复制现代说明。
-
-## 编写 MDX Reading
-
-先检查共享 `concepts`（当前为 `legacy/concepts.ts`）、`editorial-aids.json`、旧精选解读与 canonical passages，再选一个初学者能进入的思想。不得默认先生成英文主题，再寻找古文装饰。
-
-工作顺序：Inspect philosophy data → choose one teachable idea → identify one Chinese focus → create one beginner entry point → anchor it to the classic → keep explanation minimal。
-
-每篇必须回答：
-
-- What philosophical idea is this about?
-- What is the Chinese focus?
-- What simple modern Chinese helps the learner?
-- Where is the idea grounded in the classical source?
-- What is the minimum explanation needed?
-
-新增一个 `.mdx` 即可，参考 README 与当前内容。frontmatter 必填 focus（chinese / pinyin / gloss）与非空 sources；可选 concepts 只引用现有共享中文键，不复制定义或建立 Learn 词库。没有合适 concept 时直接锚定稳定段落，不制造牵强关联。related 是继续阅读建议。
-
-默认顺序：页头问题 → `<Phrase />` 读取 focus → 带三个属性的 Phrase 现代例句 → ClassicQuote → 少量 Markdown 解释或问题。无需 Question / Example / Thought 或多个 h2。Starting 通常约 1–2 分钟，Building 约 2–3 分钟；能删而不损失理解的段落倾向删除，不机械限字数。
-
-- 简单现代汉语语法 + 可能较难的哲学关键词 + 作为思想来源的古文。不能仅因知足、无为等超出 beginner 词汇表而拒绝；一次通常只教一个核心表达。
-- 不默认写 essay，不写泛泛人生鸡汤，不把哲学压成 slogan，不制造牵强古文联系。经典不是 optional decoration，也不要求读者掌握文言语法。
-- Phrase 用于现代词句、显式拼音和英文解释；无属性时复用 focus，避免列表与正文分叉。现代拼音采用字典声调，与 Sources 页一致。
-- ClassicQuote 通过 source 引用 ID / version / start / end，从共享数据读取经典。禁止在 MDX 再次硬编码经典原句。
-- 现代例句、独立英文解释属于 Wuhua，不冒充原典或参考译者文字。references 只保留与本篇实际关系明确的材料，由来源 UI 统一呈现。
-- AI 起稿仍标 draft 和真实 author；实际人工审阅后才能写 reviewer / reviewedAt。词义、文化解释和读音分别核对，结构校验不能代替教学或哲学审核。
-
-```sh
-npm run check:content
-npm run dev:learning
-# http://127.0.0.1:4175/?preview=1#/reading/文章ID
-```
-
-修改 MDX 后自动加载，无 JSON generator 或课程模板。未发布草稿在生产不可用；公开清单只在匹配发布决定下更新，保留真实 review。新版本不会自动延续公开状态。
-
-## 验证和交付
-
-检查文章能被直接读懂、现代词句和拼音正确、经典范围及版本准确、具体材料的使用关系清楚。用桌面和手机实际阅读，核对来源区与文章对应；不要检查已经删除的课程三阶段。
-
-```sh
-npm run content:catalog  # 仅正文／目录改变时
-npm run check:content
-npm test                # 契约、新形态或兼容改变时
-npm run build           # 共享内容变化验证两站
-```
-
-正文修订保留历史与旧引用；记录升级用合成旧数据检查，不操作真实用户数据。分享打印触及新引用形态时检查实际产物。
-
-按任务要求同步当前文档及实际 worklog，区分已编写、已校验、已审核、已配置公开和已部署。不要用旧课程类型或失效命令指导下一位作者。
+不要再使用 packages/ui、packages/content 或根共享内容检查作为产品开发契约。完成物理拆仓后本入口随 staging 留存，不复制到独立产品。

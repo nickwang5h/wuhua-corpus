@@ -1,5 +1,5 @@
-import {put,type Data,type Entry} from '../../../../packages/ui/data';
-import type {Reference} from '../../../../packages/content/src/types';
+import {put,type Data,type Entry} from '../ui/data';
+import type {Reference} from '@wuhua/corpus/types';
 import type {Reading} from './schema';
 export const storageKey = 'wuhua:learning:v1';
 export function readingReference(reading: Reading): Reference {

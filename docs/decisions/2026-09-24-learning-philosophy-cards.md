@@ -1,3 +1,5 @@
+> 历史记录：本文描述拆分前的产品或架构。当前工程入口见各仓库 README 和 architecture；迁移依据见 docs/migrations/2026-09-wuhua-repo-split.md。
+
 # Learn 默认采用 philosophy learning card
 
 日期：2026-09-24。状态：已实现，本地验收；未部署。延续 [MDX Reading 决策](2026-09-24-learning-mdx-readings.md)，替代其中 essay-first 与经典可选的产品约定。

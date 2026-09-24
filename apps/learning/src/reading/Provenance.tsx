@@ -1,5 +1,5 @@
-import {works,workForId} from '../../../../packages/content/src';
-import {pinyinFor} from '../../../../packages/content/src/pinyin';
+import {works,workForId} from '../content';
+import {pinyinFor} from '@wuhua/corpus/pinyin';
 import type {Reading} from './schema';
 export function Provenance({reading}: {reading:Reading}) {
   return <div className="provenance">

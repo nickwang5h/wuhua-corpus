@@ -1,5 +1,5 @@
-import {BackupPanel} from '../../../../packages/ui/components';
-import type {LocalData} from '../../../../packages/ui/useLocalData';
+import {BackupPanel} from '../ui/components';
+import type {LocalData} from '../ui/useLocalData';
 import type {Reading} from '../reading/schema';
 import {recordReadingId,legacyProgressCount} from '../reading/legacy';
 export function SavedPage({local,readings}: {local:LocalData;readings:Reading[]}) {

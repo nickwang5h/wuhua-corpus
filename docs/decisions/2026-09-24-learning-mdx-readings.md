@@ -1,3 +1,5 @@
+> 历史记录：本文描述拆分前的产品或架构。当前工程入口见各仓库 README 和 architecture；迁移依据见 docs/migrations/2026-09-wuhua-repo-split.md。
+
 # Learn 从课程系统转向 MDX Reading
 
 日期：2026-09-24。状态：按用户任务卡采纳。当前实施契约见 [architecture](../architecture.md)。

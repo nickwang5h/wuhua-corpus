@@ -1,3 +1,5 @@
+> 历史记录：本文描述拆分前的产品或架构。当前工程入口见各仓库 README 和 architecture；迁移依据见 docs/migrations/2026-09-wuhua-repo-split.md。
+
 # 物化间与 Wuhua Learn
 
 更新：2026-09-24。Learn 定位为 Beginner-friendly Chinese philosophy learning。技术契约见 [architecture](architecture.md)，设计理由见 [哲学卡片决策](decisions/2026-09-24-learning-philosophy-cards.md)。

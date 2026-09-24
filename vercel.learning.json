@@ -1,12 +1,13 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "vite",
-  "buildCommand": "npm run check:content && npm test && npm run build:learning",
-  "outputDirectory": "dist/learning",
+  "buildCommand": "npm run test:learning && npm run build:learning",
+  "outputDirectory": "apps/learning/dist",
   "rewrites": [
     {
       "source": "/sources",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "installCommand": "npm --prefix apps/learning ci"
 }

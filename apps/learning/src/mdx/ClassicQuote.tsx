@@ -1,4 +1,4 @@
-import {Original} from '../../../../packages/ui/components';
+import {Original} from '../ui/components';
 import {pinyinForSource} from '../reading/references';
 import {useReading} from './components';
 export function ClassicQuote({source}: {source:string}) {

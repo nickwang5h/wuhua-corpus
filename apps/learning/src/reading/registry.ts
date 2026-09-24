@@ -3,10 +3,10 @@ import type {MDXProps} from 'mdx/types';
 import type {Reading} from './schema';
 import {isReleased} from './release';
 
-const metadata = import.meta.glob<Reading | null>('../../../../content/learning/*.mdx', {
+const metadata = import.meta.glob<Reading | null>('../../content/learning/*.mdx', {
   eager: true, query: '?reading-meta', import: 'default',
 });
-const bodies = import.meta.glob<{default: ComponentType<MDXProps>}>('../../../../content/learning/*.mdx');
+const bodies = import.meta.glob<{default: ComponentType<MDXProps>}>('../../content/learning/*.mdx');
 export type RegisteredReading = Reading & {load: () => Promise<{default: ComponentType<MDXProps>}>};
 export const readings: RegisteredReading[] = Object.entries(metadata)
   .flatMap(([path, data]) => data ? [{...data, load: bodies[path]}] : [])

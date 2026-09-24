@@ -1,6 +1,6 @@
 import {useState} from 'react';
-import {BackupPanel,SaveStatus} from '../../../packages/ui/components';
-import type {LocalData} from '../../../packages/ui/useLocalData';
+import {BackupPanel,SaveStatus} from './ui/components';
+import type {LocalData} from './ui/useLocalData';
 import {readLink} from './model';
 export default function Records({local}:{local:LocalData}){
  const [filter,setFilter]=useState('all');const records=local.data.records.filter(r=>r.kind!=='position'&&(filter==='all'||filter==='draft'?filter!=='draft'||(r.kind==='note'&&r.draft!==r.saved):r.kind===filter));

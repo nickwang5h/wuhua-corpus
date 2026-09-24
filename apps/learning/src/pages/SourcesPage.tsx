@@ -1,6 +1,6 @@
 import type {Reading} from '../reading/schema';
 import {Provenance} from '../reading/Provenance';
-import {works} from '../../../../packages/content/src';
+import {works} from '../content';
 export function SourcesPage({readings}: {readings:Reading[]}) {
   return <section className="page sources-page"><h1>Sources and writing</h1>
     <p>These short readings connect everyday questions with Chinese words and classical texts. English explanations are Wuhua's own editorial writing; classical quotations come from the shared Chinese library.</p>

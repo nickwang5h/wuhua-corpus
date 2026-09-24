@@ -1,3 +1,5 @@
+> 历史记录：本文描述拆分前的产品或架构。当前工程入口见各仓库 README 和 architecture；迁移依据见 docs/migrations/2026-09-wuhua-repo-split.md。
+
 # Wuhua 古籍内容管理：现状与路线讨论
 
 日期：2026-09-23  

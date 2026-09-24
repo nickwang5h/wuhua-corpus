@@ -1,49 +1,24 @@
 {
-  "name": "wuhua",
+  "name": "wuhua-split-staging",
   "private": true,
-  "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --config apps/reading/vite.config.ts",
-    "build": "npm run check:content && npm run build:reading && npm run build:learning",
-    "preview": "vite preview --config apps/reading/vite.config.ts",
-    "test": "node --import tsx --test tests/*.test.ts",
-    "content:import": "node --import tsx scripts/import-wikisource.ts",
-    "dev:learning": "vite --config apps/learning/vite.config.ts",
-    "build:reading": "npm run content:assets && tsc --noEmit -p apps/reading/tsconfig.json && vite build --config apps/reading/vite.config.ts",
-    "build:learning": "npm run content:assets && tsc --noEmit -p apps/learning/tsconfig.json && vite build --config apps/learning/vite.config.ts",
-    "preview:learning": "vite preview --config apps/learning/vite.config.ts",
-    "check:content": "node --import tsx scripts/check-content.ts",
-    "content:catalog": "node --import tsx scripts/catalog-content.ts",
-    "check:types": "tsc --noEmit",
-    "content:assets": "node --import tsx scripts/build-content-assets.ts",
-    "predev": "npm run content:assets",
-    "predev:learning": "npm run content:assets"
-  },
-  "dependencies": {
-    "lucide-react": "^0.468.0",
-    "opencc-js": "1.4.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "three": "0.186.0"
-  },
-  "devDependencies": {
-    "@mdx-js/mdx": "^3.1.1",
-    "@mdx-js/rollup": "^3.1.1",
-    "@types/node": "^24.0.0",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "@types/three": "0.183.1",
-    "@vitejs/plugin-react": "^5.0.0",
-    "remark-frontmatter": "^5.0.0",
-    "tsx": "^4.20.0",
-    "typescript": "^5.9.0",
-    "vite": "^7.0.0",
-    "yaml": "^2.9.1",
-    "zod": "^4.6.5"
-  },
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ]
+    "build": "npm run build:reading && npm run build:learning",
+    "test": "npm run test:corpus && npm run test:reading && npm run test:learning && npm run check:boundaries",
+    "check:content": "npm run check:corpus && npm run check:reading && npm run check:learning",
+    "check:types": "npm --prefix packages/corpus run check:types && npm --prefix apps/reading run check:types && npm --prefix apps/learning run check:types",
+    "check:corpus": "npm --prefix packages/corpus run check:corpus",
+    "test:corpus": "npm --prefix packages/corpus test",
+    "check:boundaries": "node scripts/check-boundaries.mjs",
+    "build:reading": "npm --prefix apps/reading run build",
+    "test:reading": "npm --prefix apps/reading run test",
+    "check:reading": "npm --prefix apps/reading run check:content",
+    "build:learning": "npm --prefix apps/learning run build",
+    "test:learning": "npm --prefix apps/learning run test",
+    "check:learning": "npm --prefix apps/learning run check:content",
+    "dev": "npm --prefix apps/reading run dev",
+    "dev:learning": "npm --prefix apps/learning run dev",
+    "preview": "npm --prefix apps/reading run preview",
+    "preview:learning": "npm --prefix apps/learning run preview"
+  }
 }

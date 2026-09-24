@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vercel/
+.env*
+public/releases/
+public/texts/
+.DS_Store

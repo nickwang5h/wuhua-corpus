@@ -1,6 +1,6 @@
 import {createContext, useContext} from 'react';
-import type {Reference} from '../../../../packages/content/src/types';
-import type {Settings} from '../../../../packages/ui/data';
+import type {Reference} from '@wuhua/corpus/types';
+import type {Settings} from '../ui/data';
 import type {Reading} from '../reading/schema';
 import {Phrase} from './Phrase';
 import {ClassicQuote} from './ClassicQuote';

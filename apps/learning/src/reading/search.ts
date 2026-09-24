@@ -1,4 +1,4 @@
-import {works, workForId} from '../../../../packages/content/src';
+import {works, workForId} from '../content';
 import type {Reading} from './schema';
 export function sourceNames(reading:Reading) {
   return [...new Set(Object.values(reading.sources).map(s => s.label || works.find(w => w.id === workForId(s.id))?.title || s.id))];

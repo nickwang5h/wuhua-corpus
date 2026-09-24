@@ -1,14 +1,14 @@
-import {PassageActions} from '../../../packages/ui/PassageActions';
-import {editorialFor} from '../../../packages/content/src/editorial';
-import {ShareCard} from '../../../packages/ui/ShareCard';
+import {PassageActions} from './ui/PassageActions';
+import {editorialFor} from '@wuhua/corpus/editorial';
+import {ShareCard} from './ui/ShareCard';
 import {useEffect,useRef,useState} from 'react';
-import {loadBook,findReference,workForId,successors,paths,historicalReference} from '../../../packages/content/src';
-import {pinyinFor} from '../../../packages/content/src/pinyin';
-import {curated,curatedById} from '../../../packages/content/src/curated';
-import type {Chapter,Reference,TextBook} from '../../../packages/content/src/types';
-import {put,safeURL} from '../../../packages/ui/data';
-import type {LocalData} from '../../../packages/ui/useLocalData';
-import {Dialog,Original,SettingsPanel,SaveStatus} from '../../../packages/ui/components';
+import {loadBook,findReference,workForId,successors,paths,historicalReference} from './content';
+import {pinyinFor} from '@wuhua/corpus/pinyin';
+import {curated,curatedById} from './content/curated';
+import type {Chapter,Reference,TextBook} from '@wuhua/corpus/types';
+import {put,safeURL} from './ui/data';
+import type {LocalData} from './ui/useLocalData';
+import {Dialog,Original,SettingsPanel,SaveStatus} from './ui/components';
 import {noteFor,noteEntry,readLink,linkNoteCopy} from './model';
 export default function Reader({id,mode,pathId,version,local}:{id:string;mode:string;pathId:string|null;version:string|null;local:LocalData}){
  const legacy=curatedById[id];const [book,setBook]=useState<TextBook>(),[error,setError]=useState(''),[retry,setRetry]=useState(0),[active,setActive]=useState(id),[settings,setSettings]=useState(false),[contents,setContents]=useState(false),[share,setShare]=useState(false),[depth,setDepth]=useState(1),[term,setTerm]=useState(''),[focus,setFocus]=useState(false),[linkError,setLinkError]=useState('');

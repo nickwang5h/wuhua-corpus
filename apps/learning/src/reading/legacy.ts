@@ -1,4 +1,4 @@
-import type {Entry} from '../../../../packages/ui/data';
+import type {Entry} from '../ui/data';
 /** Read-only bridge: old unit records retain all fields and remain exportable. */
 export function recordReadingId(entry: Entry): string | undefined {
   return entry.ref?.id.startsWith('reading:') ? entry.ref.id.slice('reading:'.length) : entry.unitId;

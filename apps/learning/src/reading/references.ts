@@ -1,7 +1,7 @@
-import {findReference, loadBook, workForId} from '../../../../packages/content/src';
-import type {Reference, TextBook} from '../../../../packages/content/src/types';
+import {findReference, loadBook, workForId} from '../content';
+import type {Reference, TextBook} from '@wuhua/corpus/types';
 import type {SourceRef} from './schema';
-import {pinyinAids} from '../../../../packages/content/src/pinyin';
+import {pinyinAids} from '@wuhua/corpus/pinyin';
 
 export function resolveSource(book: TextBook, source: SourceRef): Reference {
   const found = findReference(book, source.id);

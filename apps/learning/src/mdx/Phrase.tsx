@@ -1,7 +1,7 @@
 import {createContext, useContext, useEffect, useState} from 'react';
-import {convert} from '../../../../packages/content/src/display';
-import type {Settings} from '../../../../packages/ui/data';
-import {emptyData} from '../../../../packages/ui/data';
+import {convert} from '../content/display';
+import type {Settings} from '../ui/data';
+import {emptyData} from '../ui/data';
 import type {Reading} from '../reading/schema';
 import {useReading} from './components';
 export const DisplaySettings = createContext<Settings>(emptyData('learning').settings);

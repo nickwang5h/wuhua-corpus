@@ -1,7 +1,7 @@
 import {useEffect,useState} from 'react';
-import {works,manifest,loadBook} from '../../../packages/content/src';
-import {curated} from '../../../packages/content/src/curated';
-import {searchText} from '../../../packages/content/src/display';
+import {works,manifest,loadBook} from './content';
+import {curated} from './content/curated';
+import {searchText} from './content/display';
 import {readLink} from './model';
 export default function Library(){
  const [collection,setCollection]=useState('full'),[book,setBook]=useState(new URLSearchParams(location.hash.split('?')[1]).get('book')||'all'),[query,setQuery]=useState(''),[limit,setLimit]=useState(24),[results,setResults]=useState<{id:string;title:string;text:string}[]>([]),[loading,setLoading]=useState(false),[error,setError]=useState(''),[retry,setRetry]=useState(0);

@@ -1,7 +1,7 @@
-import {emptyData,put,type Data,type Entry} from '../../../packages/ui/data';
-import {loadBook,findReference,workForId} from '../../../packages/content/src';
-import {curatedById} from '../../../packages/content/src/curated';
-import type {Reference} from '../../../packages/content/src/types';
+import {emptyData,put,type Data,type Entry} from './ui/data';
+import {loadBook,findReference,workForId} from './content';
+import {curatedById} from './content/curated';
+import type {Reference} from '@wuhua/corpus/types';
 export const storageKey='wuhua:reading:v2';
 export const legacyKey='wuhua:reading:v1';
 export function oldReference(id:string):Reference {const p=curatedById[id];return p?{id,version:p.version,text:p.text,title:p.title,source:p.source}:{id,version:'unknown',text:'',title:'原文待找回',source:''};}

@@ -1,9 +1,9 @@
 import {useEffect,useState,type CSSProperties} from 'react';
 import {createPortal} from 'react-dom';
-import {Dialog} from '../../../packages/ui/components';
-import {loadTextFont} from '../../../packages/ui/share-image';
-import {convert,type Script} from '../../../packages/content/src/display';
-import type {Aid,Reference} from '../../../packages/content/src/types';
+import {Dialog} from './ui/components';
+import {loadTextFont} from './ui/share-image';
+import {convert,type Script} from './content/display';
+import type {Aid,Reference} from '@wuhua/corpus/types';
 import {defaultPrintOptions,paginatePractice,type PrintOptions,type PracticeCell} from './print-layout';
 import {scriptLabels} from './writing';
 export type PrintablePassage={reference:Reference;caption:string;aid?:Aid};
