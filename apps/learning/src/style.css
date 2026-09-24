@@ -84,3 +84,18 @@ body { font-size:18px; }
  #practice-print .practice-sheet-heading p{font:9pt/1.5 Arial,sans-serif;margin:0}
  #practice-print .practice-page-number{left:0;bottom:0;margin:0;font:9pt/1.4 Arial,sans-serif}
 }
+/* One question, a Chinese focus, an example, and a classical anchor. */
+.reading-card .phrase { border:0;padding:0;margin:14px 0; }
+.reading-card .phrase [lang^=zh] { font-size:32px;line-height:1.35; }
+.reading-card .phrase-pinyin { color:var(--accent);font-size:16px;margin:5px 0; }
+.reading-card .phrase figcaption { display:none; }
+.reading-card .reading-source { font-size:15px;color:var(--muted);margin:12px 0 4px; }
+.featured-reading .phrase [lang^=zh] { font-size:44px; }
+.reading-header { margin-bottom:24px; }
+.reading-body { line-height:1.7; }
+.reading-body > .phrase { margin:24px 0;padding:0 0 0 20px;border-color:var(--line); }
+.reading-body > .phrase-focus { border:0;padding:16px 0 24px;margin:0; }
+.reading-body > .phrase-focus [lang^=zh] { font-size:clamp(42px,8vw,56px);line-height:1.35; }
+.reading-body .classic-quote { margin:28px 0 20px;padding:20px 0; }
+.classic-quote figcaption { margin:0 0 12px; }
+.reading-provenance { margin-top:28px; }

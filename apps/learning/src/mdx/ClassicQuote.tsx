@@ -6,8 +6,8 @@ export function ClassicQuote({source}: {source:string}) {
   const ref = references[source];
   if (!ref) return <p role="alert">This quotation is unavailable. Reload the reading to try again.</p>;
   return <figure className="classic-quote">
+    <figcaption>From <a href={ref.source} target="_blank" rel="noreferrer">{ref.title}</a></figcaption>
     <blockquote><Original text={ref.text} offset={ref.start} settings={settings}
       aid={pinyinForSource(ref)} preview={showDraftPinyin}/></blockquote>
-    <figcaption><a href={ref.source} target="_blank" rel="noreferrer">{ref.title}</a></figcaption>
   </figure>;
 }

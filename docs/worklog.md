@@ -481,3 +481,45 @@
 已知限制：内容、现代例句与读音仍待人工审核；手机检查是浏览器视口模拟，未使用实体手机；既有按需加载的 OpenCC 大字典仍产生 Vite 分块体积告警，中文蝴蝶渲染块也保留原告警。没有未解决的构建或已复现功能失败。
 
 部署状态：仅本地提交，未推送、未部署。线上 Learn 尚未因本轮工作切换为 MDX Reading。
+
+## 2026-09-24 · Learn philosophy learning cards
+
+已完成本地代码、五篇内容、实际页面与双站构建；未提交、推送或部署。
+
+### 数据与连接
+
+现有 philosophy data 并非单个数据库服务：共享 index 导出的 concepts 来自 legacy/concepts.ts，以中文键标识；legacy annotations 将 concepts 关联旧精选，paths 组织旧精选 ID。editorial-aids.json 用独立 aid ID、target / version / range、review / rights 关联 canonical；books/*.json 是三书唯一现行原文。
+
+新增必填 focus（chinese / pinyin / gloss），用于 Home / Explore 与无属性 Phrase；新增可选 concepts，校验已有键和去重。sources 从可空变为必需经典锚点，继续验证 ID / version / 码点范围。concepts 和 sources 在 Reading 内连接思想与出处；没有复制定义、底文或建立新数据库。知足没有现成 concept，直接连接经典；未勉强借用自知概念。
+
+### 页面与内容
+
+Home 表达 through Chinese classics 的双重目标，首卡同时显示问题、中文、拼音、来源与时长。Explore 同样呈现并搜索标题、摘要、中文、拼音（可不带声调）、概念及共享作品／来源。Reading 去除重复摘要，以较大中文 focus、现代例句、来源在前的引句及简短解释形成节奏。没有新增正文组件或 Reading 类型重命名。
+
+| Reading | Philosophy question | Chinese focus | Modern example | Classical anchor |
+| --- | --- | --- | --- | --- |
+| knowing-enough | What counts as enough? | 知足；无现成 concept | 我很知足。 | 道德经 33：知足者富；p-laozi-2354026-33-1@1 [21,26) |
+| knowing-yourself | How well do we know ourselves? | 自知；concept 自知 | 我想了解自己。 | 道德经 33：知人者智，自知者明；同段 [0,10) |
+| learning-from-others | Who can be your teacher? | 三人行；concept 学思 | 我向你学习。 | 论语述而：三人行，必有我师焉；p-lunyu-2177439-7-21@1 [4,14) |
+| practice-and-joy | Why return to what you have learned? | 学习；concept 学思 | 我在学习中文。 | 论语 1.1：学而时习之，不亦说乎；p-lunyu-2058123-1-1@1 [4,15) |
+| one-with-things | Where do “I” end and things begin? | 万物；concepts 物我、齐物 | 我也是自然的一部分。 | 庄子齐物论：天地与我并生，而万物与我为一；p-zhuangzi-9852855-2-6@1 [178,193) |
+
+上表仅为记录中的节选说明；MDX 不复制经典。四篇 Starting 为约 1 分钟，万物保持 Building、约 2 分钟。
+
+删除：知足的聚餐故事及反复生活劝告；自知的疲劳／饥饿习惯铺垫；向他人学习的长场景与末尾行为练习；学习的旋律／菜谱铺垫和朱熹延伸（相应移除该参考项）；万物的春天场景换成直接关联人与世界的现代句。统一删除多个 h2 及重复 reflection。保留知足不要求他人接受匮乏、择善而学、学习与温习之乐，以及齐物论并非“万物相同”的限制，使简短仍有真实理解。
+
+### 验证
+
+- 实际浏览器：390px Home、Explore、Starting、Building；1440px Home 与 Reading，日间和夜间截图已打开检查。五篇实际加载 canonical 引句，无横向溢出。
+- 操作：拼音开关；简繁切换（學習／萬物）；无声调 xue xi 与 Daodejing 搜索；Save / Note 保存后刷新，Saved 显示正确。127.0.0.1 旧合成记录原样保留，写入检查改用确认空白的 localhost origin。
+- 分享：实际下载 PNG 并打开检查；打印：手机预览、实际 A4 PDF 单页生成后用系统 PDFKit 渲染检查，标题、来源、字形与练习格完整。未调用物理打印机。
+- 开发 preview=1 显示作者预览；生产同参数不启用预览，五篇 version 3 正常可用。release 验证与错误版本拒绝测试通过。没有外部部署。
+- `check:types`、`npm test`、`check:content`（含在 build 内）、双站生产 `npm run build` 通过。测试覆盖新 focus／概念／非空来源契约、搜索、列表与正文、旧存档保留。生产浏览器检查未捕获运行时异常。Vite 仍有现有大于 500 kB chunk 提示，构建成功。
+
+### 文档、技能和审核边界
+
+页面验收后更新 README、product、architecture，新增 philosophy-cards decision；按实际契约更新 development Skill；content-intake 改为先查哲学资料、再选题、再形成现代中文入口与经典锚点。
+
+五篇均升级 version 3；本地 release manifest 仅承接原五主题。全部仍是 Wuhua AI-assisted editorial draft；现代汉语、英文解释、拼音及哲学教学均未声称人工审核。既有中文辅助资料的 draft 状态未改动。
+
+未做：HSK 课程、词库、进度／先修、quiz、SRS、账户、CMS、后台数据库、反向推荐、中文站重构或部署。本轮只提供稳定连接，为后续发现主题和双向入口保留基础，不宣称这些后续功能已完成。

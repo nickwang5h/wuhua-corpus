@@ -12,10 +12,13 @@ export const sourceSchema = z.object({
 
 export const readingSchema = z.object({
   id, version, title: text, summary: text,
+  focus: z.object({chinese: text, pinyin: text, gloss: text}).strict(),
+  // These are the existing shared concept keys, not a Learn-owned vocabulary.
+  concepts: z.array(text).default([]),
   level: z.enum(['starting', 'building']),
   minutes: z.number().int().positive().max(60),
   order: z.number().int().nonnegative(),
-  sources: z.record(id, sourceSchema).default({}),
+  sources: z.record(id, sourceSchema).refine(s => Object.keys(s).length > 0, 'A classical anchor is required'),
   related: z.array(id).default([]),
   review: z.object({
     status: z.enum(['draft', 'reviewed', 'published', 'withdrawn']),

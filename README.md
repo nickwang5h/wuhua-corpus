@@ -1,9 +1,9 @@
 # 物化间 · Wuhua
 
-一个仓库、两个独立前端、一套经典原文。中文站供全文阅读与回味；Wuhua Learn 是几分钟的英文小短文，从想法和词语自然走近中文与经典。没有课程完成要求、账户、后台或云同步，个人记录保存在当前浏览器。
+一个仓库、两个独立前端、一套经典原文。中文站供全文阅读与回味；Wuhua Learn 是面向初学者的哲学短阅读：从一个中国哲学问题认识一点中文，再回到真实经典。没有课程完成要求、账户、后台或云同步，个人记录保存在当前浏览器。
 
 - [产品](docs/product.md) · [当前架构](docs/architecture.md) · [界面约定](docs/ui-plan.md)
-- [MDX Reading 决策](docs/decisions/2026-09-24-learning-mdx-readings.md) · [实际执行记录](docs/worklog.md)
+- [哲学卡片决策](docs/decisions/2026-09-24-learning-philosophy-cards.md) · [MDX Reading 决策](docs/decisions/2026-09-24-learning-mdx-readings.md) · [实际执行记录](docs/worklog.md)
 - 项目 Skill：[开发](.agents/skills/wuhua-development/SKILL.md) · [内容入库](.agents/skills/wuhua-content-intake/SKILL.md)
 
 ## 本地运行
@@ -24,8 +24,8 @@ npm run build             # 内容检查及双站构建
 
 ## 新增一篇 Reading
 
-1. 新建 `content/learning/foo.mdx`，文件名与 id 一致。
-2. 填 frontmatter，正文直接写 Markdown；无需 React 页面或生成 JSON。
+1. 先查共享 concepts、editorial aids 和 canonical passages，选一个可教思想；再新建 `content/learning/foo.mdx`，文件名与 id 一致。
+2. 填 frontmatter，默认围绕一个问题、一个中文 focus、现代例句与经典锚点，解释使用 Markdown；无需 React 页面或生成 JSON。
 3. 执行 `npm run check:content`。
 4. `npm run dev:learning`，访问 `http://127.0.0.1:4175/?preview=1#/reading/foo`。
 5. 核对文章、现代汉语、经典引用、来源及读音，按真实情况填写 review。
@@ -37,8 +37,20 @@ npm run build             # 内容检查及双站构建
 ---
 id: foo
 version: "1"
-title: A small moment of attention
-summary: Something ordinary, seen a little differently.
+title: What counts as enough?
+summary: Contentment as a kind of wealth.
+focus:
+  chinese: 知足
+  pinyin: zhī zú
+  gloss: knowing what is enough
+concepts: []
+sources:
+  main:
+    id: p-laozi-2354026-33-1
+    version: "1"
+    start: 21
+    end: 26
+    label: Daodejing 33
 level: starting
 minutes: 2
 order: 60
@@ -46,16 +58,21 @@ review:
   status: draft
   author: Wuhua
 ---
-What did you notice on your way home today?
+<Phrase />
 
-A familiar place can feel different when you give it a little attention.
+<Phrase chinese="我很知足。" pinyin="wǒ hěn zhī zú." gloss="I am content." />
+
+<ClassicQuote source="main" />
+
+The Daodejing treats knowing what is enough as a kind of wealth.
+Why might these ideas belong together?
 ```
 
-不要求 exercise、reflection、context 或任何固定正文栏目。`level` 为 starting / building；`order` 仅是编辑排序。`related` 可列其他 Reading ID，不是先修关系。人工审核状态 reviewed / published 需实际 reviewer 和 reviewedAt（YYYY-MM-DD）。新文件、审核通过或新版本均不会自动加入公开集合。
+focus 与非空 sources 必填；concepts 只引用现有共享中文键，找不到合适概念时可省略并直接锚定段落。不要求 exercise、reflection、context 等固定栏目。`level` 为 starting / building；`order` 仅是编辑排序。`related` 可列其他 Reading ID，不是先修关系。人工审核状态 reviewed / published 需实际 reviewer 和 reviewedAt（YYYY-MM-DD）。新文件、审核通过或新版本均不会自动加入公开集合。
 
 ### 词语与经典引句
 
-现代词句可直接写入 Phrase：
+`<Phrase />` 读取 focus；现代例句用三个显式属性。现代词句可直接写入 Phrase：
 
 ```mdx
 <Phrase chinese="知足" pinyin="zhī zú" gloss="to be content with what is enough" />
@@ -93,7 +110,7 @@ sources:
 
 `check:content` 检查来源、正文、历史、拼音和 MDX；Learning 的 Vite 构建也会检查全部 MDX。缺失引用、错误版本／范围、重复 ID、不匹配文件名、无效元数据或组件会使构建失败。校验通过不代表人工内容审核完成。
 
-五个主题已迁移：knowing-enough、knowing-yourself、learning-from-others、one-with-things、practice-and-joy。当前为 Reading version 2，均保留 draft 编辑状态和具体参考材料，发布清单承接原公开主题。
+五个主题已迁移：knowing-enough、knowing-yourself、learning-from-others、one-with-things、practice-and-joy。当前为 Reading version 3，均保留 draft 编辑状态和具体参考材料，发布清单承接原公开主题。
 
 ## 本机记录
 

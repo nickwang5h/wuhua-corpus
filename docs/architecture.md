@@ -1,12 +1,12 @@
 # 物化间与 Wuhua Learn 当前架构
 
-更新：2026-09-24。本文描述仓库当前实现；Learn 的产品依据是 [Reading / MDX 决策](decisions/2026-09-24-learning-mdx-readings.md)。历史任务记录不构成当前设计约束。
+更新：2026-09-24。本文描述仓库当前实现；Learn 的产品依据是 [philosophy card 决策](decisions/2026-09-24-learning-philosophy-cards.md)。历史任务记录不构成当前设计约束。
 
 ## 一个仓库、两个静态应用
 
 ```text
 apps/reading                 中文全文阅读、解读、回味、续读
-apps/learning                英文短文 Home / Explore / Reading / Saved / Sources
+apps/learning                哲学短阅读 Home / Explore / Reading / Saved / Sources
 packages/content             经典原文、固定来源、稳定引用、历史与辅助数据
 packages/ui                  共享主题、基础组件、本地存储、备份、分享
 content/learning/*.mdx        Learn 唯一正文编辑源
@@ -36,11 +36,24 @@ public                       固定来源快照、字体、生成的静态正文
 
 稳定 ID 与顺序、标题分开。正文更正、拆合或撤回需保留历史及明确映射；旧记录保留自己的引用快照，不按相似度静默关联新版本。`legacy/` 是旧精选与兼容档案，不是第二份现行底文。OpenCC 只改变显示字形；共享拼音继续锚定底本码点。
 
-## Reading：自由的 MDX 表达层
+## Reading：哲学短阅读的 MDX 表达层
 
-一个 `content/learning/{id}.mdx` 就是一篇 Reading。frontmatter 保存机器需要的元数据：身份、版本、标题、摘要、级别、时长、排序、命名经典引用、编辑状态，以及可选相关推荐和参考材料。正文用普通 Markdown，自由决定段落、标题、列表与内容顺序；没有固定释义、练习、回想栏目。
+一个 `content/learning/{id}.mdx` 就是一篇 Reading。frontmatter 保存机器需要的元数据：身份、版本、问题标题、摘要、focus（chinese / pinyin / gloss）、级别、时长、排序、至少一个命名经典引用、编辑状态，以及可选 concepts、相关推荐和参考材料。正文用普通 Markdown，自由决定段落、标题、列表与内容顺序；没有固定释义、练习、回想栏目。
 
-`Reading` 类型定义在 `apps/learning/src/reading/schema.ts`，不含 step、completion、exercise 或 prerequisite。`related` 只是阅读建议；`order` 只是编辑排序。新增纯段落文章不需要经典引用、专用 React 页面或 App 修改。
+`Reading` 类型定义在 `apps/learning/src/reading/schema.ts`，不含 step、completion、exercise 或 prerequisite。`related` 只是阅读建议；`order` 只是编辑排序。新增 Reading 需要明确的经典锚点，但不需要专用 React 页面或 App 修改。
+
+知识层仍是共享内容：`index.ts` 导出的 `concepts` 来自 `legacy/concepts.ts`，现有中文键（如自知、学思、物我）就是引用 ID；`legacy/annotations.ts` 将概念关联旧精选，`paths.ts` 是旧精选 ID 路径。`editorial-aids.json` 则通过 target / version / start / end 关联 canonical 段落，并有自己的 ID、review 与 rights。不存在独立 interpretation 服务或 Learn 概念库。
+
+```text
+共享 concepts（现有中文键） / editorial aids / canonical passages
+               ↓ 作者选题
+MDX concepts（可选现有键） + sources（必需段落 ID / version / range）
+               ↓ 构建期验证
+metadata-only registry → Home / Explore / Reading
+MDX body → Phrase / ClassicQuote → React 阅读体验
+```
+
+`concepts` 不复制定义，校验拒绝未知或重复键；与 `sources` 同属一篇 Reading，表达该思想在这篇内容中的经典落点，并非宣称共享概念有唯一出处。知足尚无现成概念条目，因此保留空 concepts，直接锚定《道德经》33。没有新增第二份知识层，也没有实现反向推荐。MDX 是表达层，共享 philosophy / canonical data 是知识层，React 是体验层。
 
 ```text
 MDX frontmatter ── Zod / source validation ── metadata-only module
@@ -53,30 +66,30 @@ MDX body        ── @mdx-js/rollup            ── lazy React module
 
 没有 YAML 课程文件、正文 JSON 生成物或中间内容数据库。frontmatter 仍采用 YAML 语法，但它只是 MDX 文件的元数据区。`scripts/readings.ts` 共用于内容检查和 Vite 构建检查；`reading-plugin.ts` 提供元数据查询模块，使首页无需加载所有文章正文。元数据模块只存在于构建过程中，不产生需要维护的 JSON 文件。
 
-构建检查覆盖严格字段类型、ID 唯一、文件名与 ID 一致、正整数版本、来源身份／版本／码点范围、相关推荐、发布清单和 MDX 语法。所有草稿同样检查。拼音与中文辅助继续由共享检查器独立验证，不依赖课程类型。
+构建检查覆盖严格字段类型、ID 唯一、文件名与 ID 一致、正整数版本、focus、现有概念键、非空来源身份／版本／码点范围、相关推荐、发布清单和 MDX 语法。所有草稿同样检查。拼音与中文辅助继续由共享检查器独立验证，不依赖课程类型。
 
-第一阶段只注册两个作者组件：
+只注册两个作者组件：
 
-- `Phrase`：现代汉语词句、显式拼音、英文解释；字形跟随设置。
+- `Phrase`：无属性时读取 frontmatter.focus 并突出显示；三个显式属性用于现代例句。首页和列表共用字形与拼音展示逻辑，避免重复维护 focus。
 - `ClassicQuote`：按 `source="main"` 查当前 frontmatter 的命名引用，由共享经典数据得到正文；复用原文展示、OpenCC 和已有对齐拼音。
 
-普通文章不需要组件。作者组件只接受指定的字面字符串属性；拼错名称、漏参、不存在的 source、任意脚本／表达式在编译阶段报错。MDX 不负责路由、全站页头、主题、布局或来源 UI。不是通用页面构建器。
+默认短阅读用 Phrase 与 ClassicQuote，解释用 Markdown；没有新增 Question / Example / Thought。作者组件只接受指定的字面字符串属性；拼错名称、漏参、不存在的 source、任意脚本／表达式在编译阶段报错。MDX 不负责路由、全站页头、主题、布局或来源 UI。不是通用页面构建器。
 
 ## 页面职责与加载
 
-`App` 负责站点页头、导航、设置、路由和存档实例。`HomePage` 提供一个编辑排序靠前的 Reading 和更多入口；`ExplorePage` 按标题／摘要检索。`ReadingPage` 并行加载正文模块和所需经典正文，负责错误重试、收藏、笔记、分享与打印。
+`App` 负责站点页头、导航、设置、路由和存档实例。`HomePage` 提供一个编辑排序靠前的 Reading 和更多入口；`ExplorePage` 按标题、摘要、focus 中文／拼音、concepts、来源 label 与共享作品信息检索；拼音搜索忽略声调组合符。`ReadingPage` 并行加载正文模块和所需经典正文，负责错误重试、收藏、笔记、分享与打印。
 
-`ReadingLayout` 统一呈现标题／摘要／级别与时长、正文、来源说明、可选动作和相关推荐。文章使用约 680px 的单列正文宽度，手机自然折行。经典出现在文章需要的位置，不要求读者先读古文。没有强制阶段导航、进度条或完成动作。
+`ReadingLayout` 统一呈现问题标题／级别与时长、正文、来源说明、可选动作和相关推荐。文章使用约 680px 的单列正文宽度，手机自然折行。经典出现在文章需要的位置，不要求读者先读古文。没有强制阶段导航、进度条或完成动作。
 
 来源说明在页面框架中展示编写者、真实 review、经典链接和具体参考材料；公开与审阅通过不是一回事。正文中的现代例句与独立英文解释不冒充古典原话或外部译者译文。
 
-分享复用 `packages/ui/ShareCard`，只分享解析出的经典节选，不包含私人笔记。预览和下载复用 PNG Blob。学习站保留通用 `PrintPreview`、`print-layout` 和字体加载：整句保留重复与标点，单字模式才去重；A4 / Letter 预览与打印共用分页数据。文章没有经典引用时不显示引句分享／打印按钮。
+分享复用 `packages/ui/ShareCard`，只分享解析出的经典节选，不包含私人笔记。预览和下载复用 PNG Blob。学习站保留通用 `PrintPreview`、`print-layout` 和字体加载：整句保留重复与标点，单字模式才去重；A4 / Letter 预览与打印共用分页数据。来源非空由元数据校验保证；动作仍只使用实际解析成功的引句。
 
 ## 编辑状态与公开状态
 
 `review` 表达编辑状态和真实编写／审阅者。`packages/content/src/learning-release.json` 只记录允许公开的 Reading ID 与版本。是否 reviewed 不会绕过发布清单，新增 MDX 也不会自动公开。
 
-五篇迁移文章改为 Reading version 2，清单承接这五个现有公开主题；旧课程 version 1 的个人记录没有升级或改写。此处是仓库发布配置，实际部署仍需授权。
+五篇短阅读改为 Reading version 3，清单承接这五个现有公开主题；旧课程 version 1 的个人记录没有升级或改写。此处是仓库发布配置，实际部署仍需授权。
 
 开发环境 `?preview=1#/explore` 可以查看未发布草稿，撤回内容除外。生产构建忽略 preview 参数，registry 只含发布清单内文章；未发布元数据返回空模块，草稿正文不进入可公开下载的 JS 产物。所有文章在过滤前仍经过构建校验。
 
@@ -94,6 +107,6 @@ MDX body        ── @mdx-js/rollup            ── lazy React module
 
 ## 构建与部署
 
-根 `npm run build` 执行共享与 MDX 内容检查，再构建两站。直接 `build:learning` 也由 Vite 插件强制检查 MDX，不依赖作者记住额外命令。`npm test` 覆盖正文来源、旧引用、存档保留、MDX 自由正文、编译错误与来源契约；类型检查使用 `npm run check:types`。
+根 `npm run build` 执行共享与 MDX 内容检查，再构建两站。直接 `build:learning` 也由 Vite 插件强制检查 MDX，不依赖作者记住额外命令。`npm test` 覆盖正文来源、旧引用、存档保留、MDX 短阅读与自由正文、编译错误与来源契约；类型检查使用 `npm run check:types`。
 
 本次任务前已核实：GitHub main 推送触发中文 Vercel 项目 wuhua 生产部署，学习项目 wuhua-learn 未绑定 Git。学习站需单独发布；根 `.vercel` 仍绑定中文项目，不能用它误覆盖中文站。重构本地完成不表示线上已切换架构。

@@ -7,7 +7,7 @@ import remarkFrontmatter from 'remark-frontmatter';
 import type {Root} from 'mdast';
 import type {VFile} from 'vfile';
 import {readingSchema, type Reading} from '../apps/learning/src/reading/schema';
-import {manifest, findReference} from '../packages/content/src';
+import {manifest, findReference, concepts} from '../packages/content/src';
 import type {TextBook} from '../packages/content/src/types';
 import {readBook} from './read-book';
 import release from '../packages/content/src/learning-release.json';
@@ -22,6 +22,8 @@ export function parseReading(source: string, filename: string, books: TextBook[]
   try { reading = readingSchema.parse(parse(match[1], {uniqueKeys: true})); }
   catch (error) { throw new Error(`${filename}: ${String(error)}`); }
   if (basename(filename, '.mdx') !== reading.id) throw new Error(`${filename}: filename must match id ${reading.id}`);
+  if (new Set(reading.concepts).size !== reading.concepts.length || reading.concepts.some(key => !Object.hasOwn(concepts, key)))
+    throw new Error(`${filename}: unknown or duplicate philosophy concept`);
   for (const [name, ref] of Object.entries(reading.sources)) {
     const found = books.map(b => findReference(b, ref.id)).find(Boolean);
     if (!found || found.ref.version !== ref.version || ref.end > Array.from(found.ref.text).length)
@@ -50,7 +52,7 @@ export function readingSyntax() {
             throw new Error(`${file.path}: ${name} attributes must be unique literal strings`);
           attrs[a.name] = a.value;
         }
-        const expected = name === 'Phrase' ? ['chinese', 'pinyin', 'gloss'] : ['source'];
+        const expected = name === 'Phrase' ? (Object.keys(attrs).length ? ['chinese', 'pinyin', 'gloss'] : []) : ['source'];
         if (Object.keys(attrs).some(k => !expected.includes(k)) || expected.some(k => !attrs[k]?.trim()))
           throw new Error(`${file.path}: ${name} requires ${expected.join(', ')}`);
         if (name === 'ClassicQuote' && !Object.hasOwn(meta.sources, attrs.source))

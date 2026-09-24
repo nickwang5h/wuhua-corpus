@@ -1,10 +1,10 @@
 # 物化间与 Wuhua Learn
 
-更新：2026-09-24。Learn 以本轮 MDX Reading 任务卡为准，旧课程设计不再约束产品。技术契约见 [architecture](architecture.md)，设计理由见 [决策记录](decisions/2026-09-24-learning-mdx-readings.md)。
+更新：2026-09-24。Learn 定位为 Beginner-friendly Chinese philosophy learning。技术契约见 [architecture](architecture.md)，设计理由见 [哲学卡片决策](decisions/2026-09-24-learning-philosophy-cards.md)。
 
 ## 两个入口，共享经典
 
-物化间供中文读者安静读经典，并保存自己的理解。Wuhua Learn 供初学者随手读一篇英文短文，通过一个想法、词语或问题接触一点中文，再自然发现经典联系。
+物化间供中文读者安静读经典，并保存自己的理解。Wuhua Learn 让初学者从日常问题进入中国哲学，在理解一个小思想的同时认识少量中文。中国哲学与汉语是同时存在的目标：Learn a little Chinese through ideas from the Chinese classics。
 
 经典是稳定知识来源。Learn 不要求读者先攻克文言文，不要求按顺序阅读，不强调完成课程。
 
@@ -14,31 +14,33 @@
 
 简繁、字号、字体、主题、现有拼音、原文图片分享及本地记录保持原行为。本轮不重写中文站。
 
-## Learn 的独立短文
+## Learn 的 philosophy learning card
 
-每篇称为 Reading，以内容主题作为标题。文章自由组织：可以从一个日常问题进入，介绍一个词或短句，说明文化含义，再给出经典出处；不把这个顺序变成强制 schema。
+底层仍称 Reading，默认体验是短小、完整的哲学学习卡片：一个可理解的问题、一个核心中文概念、一句简单现代汉语、一个真实经典锚点，以及足够形成理解的简短说明或问题。经典是思想来源，不是文言语法考试，也不是可选装饰。
+
+内容从共享 concepts、editorial aids 和 canonical passages 向外生长：先找到可教的思想，再找到日常问题与现代汉语入口。没有合适现成概念 ID 时直接引用经典段落，不制造第二套哲学数据库。
+
+语言采用简单现代汉语骨架，允许提前认识知足、自知、万物等较难关键词；每篇通常只承担一个核心表达。Starting 约 1–2 分钟，Building 约 2–3 分钟，不设机械字数门槛；两者描述辅助程度，不是 HSK 等级、课程阶段或先修关系。
 
 | 页面 | 用户得到什么 |
 | --- | --- |
-| Home | 一句简短介绍、一个可立即开始的推荐 Reading，以及更多阅读入口 |
-| Explore | 全部可用 Reading，按标题和摘要搜索，随时选择任何一篇 |
-| Reading | 标题、摘要、时长与级别、自然展开的正文、来源、可选收藏／笔记和经典分享打印、相关推荐 |
+| Home | 清晰的双重定位；推荐问题与中文 focus、拼音、经典来源、时长一起出现 |
+| Explore | 按问题、摘要、中文、带或不带声调的拼音、概念键与经典来源搜索 |
+| Reading | 问题 → 醒目的中文关键词 → 现代例句 → canonical 引句 → 简短理解；来源、收藏与笔记在其后 |
 | Saved | 收藏、新旧笔记、草稿与引用快照，完整备份与恢复 |
-| Sources and writing | 固定经典来源、贡献者与许可、文章编写者、参考材料与真实审核状态 |
+| Sources and writing | 固定经典来源、贡献者与许可、编写者、参考材料与真实审核状态 |
 
-导航为 Home / Explore / Saved。Starting / Building 仅描述阅读辅助程度，不表示课程编号或门槛；order 仅是编辑排序。相关推荐不构成 prerequisite，也不依赖旧完成记录。
-
-不存在必须完成的 Read / Practice / Reflect 流程、题目数量或进度条。第一阶段只有 Phrase 与 ClassicQuote 两个正文组件，尚未实现可选练习组件；普通段落文章本身就是有效 Reading。
+保持安静的单列与清楚分块，不要求多个 h2 或完整随笔章节。仍只有 Phrase 和 ClassicQuote 两个作者组件；普通 Markdown 承载必要解释。Learn 不是完整 HSK 课程、普通词汇卡网站或英文哲学博客。不建立完成门禁、测验引擎或进度条。
 
 ## 设置和可选动作
 
-顶栏 Settings 统一管理字形、字号、明暗和拼音。中文词句与经典引用使用现有文楷和 OpenCC，英文以清晰的长文排版呈现。经典引句显示共享来源，不在 MDX 复制底文。
+顶栏 Settings 统一管理字形、字号、明暗和拼音。中文词句与经典引用使用现有文楷和 OpenCC，英文以简短、清楚的段落呈现。经典引句显示共享来源，不在 MDX 复制底文。
 
-文章结尾可以 Save reading 或写一条个人笔记。具有经典来源的文章还能 Share a quote / Print a quote，使用现有 PNG 和字帖能力；没有来源的文章也能独立阅读和保存。分享不包含私人笔记。
+文章结尾可以 Save reading 或写一条个人笔记。每篇都具有经典来源，可用 Share a quote / Print a quote 生成 PNG 和字帖。分享不包含私人笔记。
 
 ## 内容和公开状态
 
-Learn 正文由 MDX 编辑。当前五个主题已改写成 Reading version 2；作者为 Wuhua 的 AI-assisted draft，英文、现代例句、文化解释与拼音仍待人工审核。
+Learn 正文由 MDX 编辑。当前五个主题已改写成 Reading version 3；作者为 Wuhua 的 AI-assisted draft，英文、现代例句、文化解释与拼音仍待人工审核。
 
 编辑状态和公开决定分开。review 表达实际编辑审核情况，release manifest 决定哪些 ID / version 公开；新文件或审核状态变化不会自行发布。开发者可在本地查看未发布文章。产品不以技术校验成功冒充文义正确。
 

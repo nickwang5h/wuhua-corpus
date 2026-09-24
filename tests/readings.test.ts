@@ -9,6 +9,7 @@ import {createElement} from 'react';
 import {renderToStaticMarkup} from 'react-dom/server';
 import {stringify} from 'yaml';
 import {checkReadings,parseReading,validateRegistry,sourceBooks,mdxOptions,readingsDirectory} from '../scripts/readings';
+import {matchesReading} from '../apps/learning/src/reading/search';
 import {isReleased} from '../apps/learning/src/reading/release';
 import {resolveSource,pinyinForSource} from '../apps/learning/src/reading/references';
 import {ReadingContext,mdxComponents} from '../apps/learning/src/mdx/components';
@@ -22,15 +23,15 @@ import {validateAids} from '../packages/content/src/validate';
 import {pinyinAids} from '../packages/content/src/pinyin';
 const books = await sourceBooks();
 const readings = await checkReadings();
-const base = {id:'tiny-reading',version:'1',title:'A small idea',summary:'A moment of attention.',level:'starting',minutes:1,order:100,review:{status:'draft',author:'Test fixture'}};
+const base = {id:'tiny-reading',version:'1',title:'A small idea',summary:'A moment of attention.',level:'starting',minutes:1,order:100,focus:{chinese:'知足',pinyin:'zhī zú',gloss:'knowing enough'},concepts:[],sources:readings[0].sources,review:{status:'draft',author:'Test fixture'}};
 const source = (metadata:unknown,body='Just a paragraph. No fixed sections required.') => `---\n${stringify(metadata)}---\n\n${body}\n`;
 
-test('a new prose-only MDX file is a complete reading without React edits or generated JSON',async()=>{
+test('a new anchored MDX file needs no React edits or generated JSON',async()=>{
  const dir = await mkdtemp(join(tmpdir(),'wuhua-reading-'));
  try {
   await writeFile(join(dir,'tiny-reading.mdx'),source(base));
   const result = await checkReadings(dir,[]);
-  assert.equal(result.length,1);assert.deepEqual(result[0].sources,{});
+  assert.equal(result.length,1);assert.deepEqual(result[0].sources,base.sources);
   assert.equal(isReleased(result[0]),false);
   const code = await compile(source(base),{...mdxOptions,outputFormat:'function-body'});
   const {default:Body} = await run(String(code),{...runtime,baseUrl:import.meta.url});
@@ -42,7 +43,7 @@ test('metadata, identity, versions, source ranges and release errors fail author
  const original = await readFile(join(readingsDirectory,'knowing-enough.mdx'),'utf8');
  const reading = parseReading(original,'knowing-enough.mdx',books);
  assert.throws(()=>parseReading(original,'wrong-name.mdx',books),/filename/);
- for(const change of [{version:'0'},{minutes:-1},{typo:'ignored?'},{review:{status:'reviewed',author:'Test'}}])
+ for(const change of [{sources:{}},{concepts:['invented']},{concepts:['自知','自知']},{focus:{chinese:'字'}},{version:'0'},{minutes:-1},{typo:'ignored?'},{review:{status:'reviewed',author:'Test'}}])
   assert.throws(()=>parseReading(source({...base,...change}),'tiny-reading.mdx',books));
  for(const ref of [{...reading.sources.main,id:'p-missing'},{...reading.sources.main,version:'99'},
   {...reading.sources.main,start:-1},{...reading.sources.main,end:99999},{...reading.sources.main,end:21},
@@ -113,3 +114,15 @@ test('new saves, notes, backup and merge preserve old learning records verbatim'
  assert.equal(routeReadingId('reading',reading.id),reading.id);
  assert.deepEqual(toggleSaved(next,reading).records.filter(r=>old.some(o=>o.recordId===r.recordId)),old);
 });
+
+test('philosophy cards expose their question, focus and source without loading MDX',()=>{
+  const enough=readings.find(r=>r.id==='knowing-enough')!;
+  for(const query of ['知足','zhī zú','zhi zu','Daodejing','enough']) assert.ok(matchesReading(enough,query),query);
+  assert.ok(!matchesReading(enough,'unrelated word'));
+  for(const Page of [HomePage,ExplorePage]) {
+    const html=renderToStaticMarkup(createElement(Page,{readings}));
+    for(const text of [enough.title,enough.focus.chinese,'Daodejing']) assert.ok(html.includes(text));
+  }
+  assert.equal(readings.find(r=>r.id==='one-with-things')?.level,'building');
+  assert.ok(readings.every(r=>r.review.status==='draft'));
+ });

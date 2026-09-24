@@ -6,6 +6,7 @@ import {Dialog,SaveStatus,SettingsPanel,useAppearance} from '../../../packages/u
 import {availableReadings,preview} from './reading/registry';
 import {storageKey} from './reading/records';
 import {routeReadingId} from './reading/legacy';
+import {DisplaySettings} from './mdx/Phrase';
 import {HomePage} from './pages/HomePage';
 import {ExplorePage} from './pages/ExplorePage';
 import {ReadingPage} from './pages/ReadingPage';
@@ -26,7 +27,7 @@ export default function App() {
   const [page,id] = parts;
   const readingId = routeReadingId(page,id);
   const reading = availableReadings.find(r => r.id === readingId);
-  useEffect(() => {document.title = reading ? `${reading.title} · Wuhua Learn` : 'Wuhua Learn · A few words. A new way to see.';},[reading]);
+  useEffect(() => {document.title = reading ? `${reading.title} · Wuhua Learn` : 'Wuhua Learn · Chinese through philosophy';},[reading]);
   let content;
   if (!page) content = <HomePage readings={availableReadings}/>;
   else if (page === 'explore' || page === 'units') content = <ExplorePage readings={availableReadings}/>;
@@ -42,7 +43,7 @@ export default function App() {
     </header>
     {!['saved','pending'].includes(local.status) && <SaveStatus local={local} english/>}
     {preview && <p className="preview-notice">Author preview — includes unreleased readings.</p>}
-    <main id="main" tabIndex={-1}>{content}</main>
+    <DisplaySettings.Provider value={local.data.settings}><main id="main" tabIndex={-1}>{content}</main></DisplaySettings.Provider>
     <footer className="site-footer"><span>Wuhua Learn</span><a href="#/sources">Sources and writing</a><a href="https://wuhua.app/">中文阅读</a></footer>
     {settings && <Dialog title="Reading settings" onClose={() => setSettings(false)}><SettingsPanel english value={local.data.settings} onChange={settings => local.update(d => ({...d,settings}))}/></Dialog>}
   </>;

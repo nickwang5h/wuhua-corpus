@@ -23,12 +23,14 @@ description: 在物化间中文阅读站、Wuhua Learn MDX Reading 和共享 UI 
 | 原文分享 | `packages/ui/ShareCard.tsx`、`share-image.ts`、`text-layout.ts` |
 | 字帖 | `apps/learning/src/PrintPreview.tsx`、`print-layout.ts` |
 
-Learn 的 Reading 是独立 MDX 短文，没有课程阶段、完成门禁或 prerequisite。先判断既有代码是否服务当前目标，不为保留旧页面而重建课程框架。
+Learn 的 Reading 是独立 MDX 哲学短阅读，没有课程阶段、完成门禁或 prerequisite。先判断既有代码是否服务当前目标，不为保留旧页面而重建课程框架。
 
 ## 实施
 
 - 经典仍只有 `packages/content/src/books` 一份 canonical source；MDX 用 ID / version / start / end 引用，不复制底文。范围为 Unicode 码点。
-- MDX 正文不负责页头、路由、主题或来源 UI。普通文章无需固定栏目；第一阶段只有 Phrase 和 ClassicQuote 两个作者组件。
+- MDX 正文不负责页头、路由、主题或来源 UI。默认短阅读只有 Phrase 和 ClassicQuote 两个作者组件；Markdown 承担简短说明，不要求固定章节。
+- focus 是列表和正文共用的中文表达；无属性 Phrase 读取它。Home / Explore 消费元数据而非 MDX 正文，字形与拼音跟随显示设置。
+- concepts 可引用共享内容层已有概念键；sources 必须非空且引用 canonical 段落。MDX 是表达层，哲学定义、原文及辅助资料留在共享知识层，不新建 Learn 概念库。
 - 元数据变动在构建期验证。新 MDX 自动发现，不修改 App 或生成正文 JSON。review 与 release manifest 分开。
 - Learn 保留 `wuhua:learning:v1`。新记录用 Reading 身份，旧 progress 等字段只留在兼容存档和导出，不能污染新 Reading 类型。
 - 写入继续用 local.update 函数式更新；失败状态和多标签冲突可见，未知／损坏存档不可被空数据覆盖。

@@ -7,7 +7,7 @@ export function ReadingLayout({reading,related,children,actions}: {
 }) {
   return <article className="page reading-page">
     <a className="back-link" href="#/explore">Explore readings</a>
-    <header className="reading-header"><h1>{reading.title}</h1><p>{reading.summary}</p>
+    <header className="reading-header"><h1>{reading.title}</h1>
       <span className="reading-meta">{reading.level === 'starting' ? 'Starting' : 'Building'} · About {reading.minutes} min</span>
     </header>
     <div className="reading-body">{children}</div>
