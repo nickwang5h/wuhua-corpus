@@ -1,8 +1,0 @@
-import {useState} from 'react';
-import {BackupPanel,SaveStatus} from './ui/components';
-import type {LocalData} from './ui/useLocalData';
-import {readLink} from './model';
-export default function Records({local}:{local:LocalData}){
- const [filter,setFilter]=useState('all');const records=local.data.records.filter(r=>r.kind!=='position'&&(filter==='all'||filter==='draft'?filter!=='draft'||(r.kind==='note'&&r.draft!==r.saved):r.kind===filter));
- return <section className="page narrow"><h1>我的回味</h1><p>自己的理解、还没写完的问题，以及想再读的文字。</p>{local.status==='saved'&&<SaveStatus local={local}/>}<div className="actions">{[['all','全部'],['note','理解'],['draft','草稿'],['bookmark','收藏']].map(([v,t])=><button key={v} aria-pressed={filter===v} onClick={()=>setFilter(v)}>{t}</button>)}</div>{!records.length&&<div className="empty"><h2>给一句话留个位置。</h2><p>读到有感触的地方，可以留下疑问或收藏。</p><a href="#/library">去书架看看</a></div>}{records.map(r=><article className="record" key={r.recordId}><small>{r.ref?.title||'历史引用'} · {r.updated.slice(0,10)}{r.conflictOf?' · 冲突副本':''}</small><blockquote>{r.ref?.text||'原文待找回；你的记录仍被保留。'}</blockquote>{r.kind==='note'&&<><h3>已保存</h3><div className="note-copy">{r.saved||'尚未提交理解'}</div>{r.draft!==r.saved&&<><h3>草稿</h3><div className="note-copy">{r.draft}</div></>}</>}<p className="muted">引用版本：{r.ref?.version||'unknown'}</p><div className="actions">{r.ref&&<a className="button" href={`${readLink(r.ref.id,'reflect')}?version=${encodeURIComponent(r.ref.version)}`}>回到原文／历史引用</a>}<button onClick={()=>{if(window.confirm('删除这条本机记录？其他冲突副本不会删除。建议先导出备份。'))local.update(d=>({...d,records:d.records.filter(x=>x.recordId!==r.recordId)}));}}>删除这条记录</button></div></article>)}<BackupPanel local={local}/></section>;
-}

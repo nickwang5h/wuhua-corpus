@@ -1,12 +1,4 @@
 node_modules/
-dist/
-.DS_Store
-.env
-.vercel/
-.env.*
-!.env.example
-.vercel
-.env*
-
-# Rebuilt from the shared content package
-public/texts/books/
+releases/
+content/incoming/
+lib/
