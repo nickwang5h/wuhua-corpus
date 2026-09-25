@@ -1,0 +1,39 @@
+{
+  "work": "gongyang",
+  "provider": "gujilab",
+  "rootTitle": "春秋公羊傳",
+  "pages": [
+    {
+      "title": "output/shisanjing/gongyang.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/gongyang.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "6655df3172f93ae167548c88d8b0a2c5b5fced935347940634351ded63c4ca24"
+    }
+  ],
+  "metadata": {
+    "author": "公羊高",
+    "era": "战国",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+    "source-missing-glyph: 僖公",
+    "source-missing-glyph: 成公",
+    "source-missing-glyph: 昭公"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "12070b524c5c58fd5c23421863080912f50ea76ca275f420b7249c07addb5984",
+  "stats": {
+    "chapters": 12,
+    "paragraphs": 2545,
+    "characters": 67288,
+    "emptyChapters": 0
+  }
+}

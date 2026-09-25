@@ -1,0 +1,41 @@
+{
+  "work": "chunqiufanlu",
+  "provider": "daizhige",
+  "rootTitle": "春秋繁露",
+  "pages": [
+    {
+      "title": "儒藏/春秋/春秋繁露.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E6%98%A5%E7%A7%8B/%E6%98%A5%E7%A7%8B%E7%B9%81%E9%9C%B2.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "ce8004a30d96e0adbcf2c1b2c22289c2a937f19a82d44f157a90f479e6a5691c"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "short-unit: 春秋繁露",
+    "source-missing-glyph: 卷第五",
+    "source-missing-glyph: 卷第七",
+    "source-missing-glyph: 卷第九",
+    "source-missing-glyph: 卷第十三",
+    "source-missing-glyph: 卷第十四",
+    "source-missing-glyph: 卷第十六",
+    "source-missing-glyph: 卷第十七"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E6%98%A5%E7%A7%8B/%E6%98%A5%E7%A7%8B%E7%B9%81%E9%9C%B2.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "6d823108e89893366b6d4ed8f1af314385e585fb09bbacbef1ac8220c7e506b8",
+  "stats": {
+    "chapters": 18,
+    "paragraphs": 249,
+    "characters": 71777,
+    "emptyChapters": 0
+  }
+}

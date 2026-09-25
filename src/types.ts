@@ -1,9 +1,10 @@
+export type SourceImage = {id:string; version:string; fileTitle:string; caption:string; source:string; url:string; asset:string; mime:'image/jpeg'|'image/png'; width:number; height:number; sha256:string; fileTimestamp:string; fileSha1:string; rights:{license:string;attribution:string;url?:string}};
 export type Review = { status:'draft'|'reviewed'|'published'|'withdrawn'; author:string; reviewer?:string; reviewedAt?:string; textVersion?:string };
 export type Reference = { id:string; version:string; text:string; title:string; source:string; start?:number; end?:number };
 export type Alias = {id:string; version:string; text:string; start:number; end:number};
-export type Paragraph = {id:string; version:string; text:string; sourceText?:string; correction?:{reason:string;review:Review}; aliases:Alias[]};
-export type Chapter = {id:string; number:number; title:string; source:string; paragraphs:Paragraph[]};
-export type TextBook = {id:string; chapters:Chapter[]};
+export type Paragraph = {id:string; version:string; text:string; sourceText?:string; correction?:{reason:string;review:Review}; headingPath?:string[]; role?:'source-commentary'; aliases:Alias[]};
+export type Chapter = {id:string; number:number; title:string; source:string; kind?:'work'|'chapter'|'anthology-item'|'image'; images?:SourceImage[]; path?:string[]; paragraphs:Paragraph[]};
+export type TextBook = {id:string; metadata?:{title:string; author?:string; era?:string; genre?:string[]; metadataMethod:'source-fields'; needsReview:boolean; kind?:'anthology'}; chapters:Chapter[]};
 export type Transition = {from:{id:string;version:string}; kind:'revision'|'split'|'merge'|'withdrawn'; reason:string; targets:{id:string;version:string;start?:number;end?:number}[]};
 export type PinyinToken = {start:number;end:number;text:string;pinyin:string};
 export type Aid = {id:string;target:string;version:string;kind:'pinyin'|'translation-en'|'culture-en'|'adaptation-zh'|'vocabulary-en'|'explanation-zh'|'commentary-zh'; review:Review; start?:number; end?:number; text?:string; tokens?:PinyinToken[]; rights:{author:string;license:string;source?:string;edition?:string;note?:string}};

@@ -1,0 +1,45 @@
+{
+  "work": "wanganshiji",
+  "provider": "guopop",
+  "rootTitle": "臨川文集",
+  "pages": [
+    {
+      "title": "集/别集类/王安石集.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E5%88%AB%E9%9B%86%E7%B1%BB/%E7%8E%8B%E5%AE%89%E7%9F%B3%E9%9B%86.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "bd416dfc87a661efd298864801ebd631a536605e550cb6fda6cfcacf5d011152"
+    }
+  ],
+  "metadata": {
+    "author": "北宋・王安石",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 臨川先生文集卷第七",
+    "source-missing-glyph: 臨川先生文集卷第十一",
+    "source-missing-glyph: 臨川先生文集卷第三十六",
+    "source-missing-glyph: 臨川先生文集卷第四十六",
+    "source-missing-glyph: 臨川先生文集卷第四十九",
+    "source-missing-glyph: 臨川先生文集卷第五十九",
+    "source-missing-glyph: 臨川先生文集卷第八十",
+    "source-missing-glyph: 臨川先生文集卷第八十九",
+    "source-missing-glyph: 臨川先生文集卷第九十六"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E5%88%AB%E9%9B%86%E7%B1%BB/%E7%8E%8B%E5%AE%89%E7%9F%B3%E9%9B%86.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "8e420775db732a91abeffb0669483642aff680fdff3ae040ad197d4e336c2bc7",
+  "stats": {
+    "chapters": 106,
+    "paragraphs": 11749,
+    "characters": 503971,
+    "emptyChapters": 0
+  }
+}

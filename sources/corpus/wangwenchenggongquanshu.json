@@ -1,0 +1,42 @@
+{
+  "work": "wangwenchenggongquanshu",
+  "provider": "daizhige",
+  "rootTitle": "王文成公全書",
+  "pages": [
+    {
+      "title": "集藏/四库别集/王文成全书.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%8E%8B%E6%96%87%E6%88%90%E5%85%A8%E4%B9%A6.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "e9b2efc6d70f32dbb1f48290900918f25ad6380ac979fcf2a873496fc34fb383"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 王文成全书卷一 明 王守仁 撰语録一 【传习録上】",
+    "source-missing-glyph: 王文成全书卷四",
+    "source-missing-glyph: 王文成全书卷七",
+    "source-missing-glyph: 王文成全书卷八",
+    "source-missing-glyph: 王文成全书卷十 明 王守仁 撰别録二",
+    "source-missing-glyph: 王文成全书卷十三 明 王守仁 撰别録",
+    "source-missing-glyph: 王文成全书卷十四 明 王守仁 撰别録",
+    "source-missing-glyph: 王文成全书卷二十五",
+    "volume-number-gap: 2, 3, 5, 6, 9, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 (text may be present without headings; check upstream structure)"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%8E%8B%E6%96%87%E6%88%90%E5%85%A8%E4%B9%A6.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "327ba69058c180f7f9400e60e848a1d78f7a45e9cd40eebadfaf212c696f30d4",
+  "stats": {
+    "chapters": 9,
+    "paragraphs": 4232,
+    "characters": 678268,
+    "emptyChapters": 0
+  }
+}

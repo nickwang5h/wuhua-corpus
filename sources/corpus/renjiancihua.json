@@ -1,0 +1,33 @@
+{
+  "work": "renjiancihua",
+  "provider": "daizhige",
+  "rootTitle": "人間詞話",
+  "pages": [
+    {
+      "title": "诗藏/词话/人间词话.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E8%AF%8D%E8%AF%9D/%E4%BA%BA%E9%97%B4%E8%AF%8D%E8%AF%9D.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "2a8bd4803ca93a5eb902e82db69c6d525520ea9704440ca54c6105b4033a7d94"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E8%AF%8D%E8%AF%9D/%E4%BA%BA%E9%97%B4%E8%AF%8D%E8%AF%9D.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "92ecf099cd9dc9394f40b1145bbb5c290e20a775f95904e3627e4f2ee78e6f07",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 130,
+    "characters": 5311,
+    "emptyChapters": 0
+  }
+}

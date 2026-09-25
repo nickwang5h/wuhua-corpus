@@ -1,0 +1,37 @@
+{
+  "work": "liji",
+  "provider": "gujilab",
+  "rootTitle": "禮記",
+  "pages": [
+    {
+      "title": "output/wujing/liji.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "412168336ec266a309876db68b0ee8731cde25e011c8063d9c6b79959787b065"
+    }
+  ],
+  "metadata": {
+    "author": "戴圣（汉）",
+    "era": "汉",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+    "source-missing-glyph: 投壶"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "4d4539b08cacc9c2801edee7e570089eb7ae93c9ac5e69698c766e63ff07a98b",
+  "stats": {
+    "chapters": 47,
+    "paragraphs": 1732,
+    "characters": 121126,
+    "emptyChapters": 0
+  }
+}

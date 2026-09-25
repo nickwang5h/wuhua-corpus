@@ -1,0 +1,32 @@
+{
+  "work": "mengziziyishuzheng",
+  "provider": "daizhige",
+  "rootTitle": "孟子字義疏證",
+  "pages": [
+    {
+      "title": "儒藏/四书/孟子字义疏证.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E5%9B%9B%E4%B9%A6/%E5%AD%9F%E5%AD%90%E5%AD%97%E4%B9%89%E7%96%8F%E8%AF%81.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "e1ed10beb7ef3436971538860ce01e06026daccac4a2bae978adb2684d437a94"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E5%9B%9B%E4%B9%A6/%E5%AD%9F%E5%AD%90%E5%AD%97%E4%B9%89%E7%96%8F%E8%AF%81.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "1e7aad6d3c1cd487ed93fb2e6cc19f559e38bc9651b559e6c5c518ca828a4612",
+  "stats": {
+    "chapters": 4,
+    "paragraphs": 92,
+    "characters": 37887,
+    "emptyChapters": 0
+  }
+}

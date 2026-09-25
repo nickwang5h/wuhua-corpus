@@ -1,0 +1,37 @@
+{
+  "work": "yuanqiang",
+  "provider": "zhwikisource",
+  "rootTitle": "原強",
+  "pages": [
+    {
+      "title": "原強",
+      "pageId": 110114,
+      "revisionId": 2019510,
+      "revision": "2019510",
+      "timestamp": "2021-03-06T23:24:17Z",
+      "fetchedAt": "2026-09-24T20:04:31.889Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2019510",
+      "sha256": "26d0a68a9349c25eca54a387d2096a37f4c8017f3f4af87ce1e1c02204db9461"
+    }
+  ],
+  "metadata": {
+    "author": "嚴復",
+    "times": "1896年"
+  },
+  "warnings": [
+    "source-missing-glyph: 原強"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "b0fa7d57f3e952be2c629e17916aa47d496da8d795726c681a7fc714feddf333",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 48,
+    "characters": 20622,
+    "emptyChapters": 0
+  }
+}

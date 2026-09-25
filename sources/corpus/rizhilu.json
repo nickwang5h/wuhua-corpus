@@ -1,0 +1,64 @@
+{
+  "work": "rizhilu",
+  "provider": "daizhige",
+  "rootTitle": "日知錄",
+  "pages": [
+    {
+      "title": "儒藏/语录/日知录.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%97%A5%E7%9F%A5%E5%BD%95.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "c145c9c93f89e1818430b07fb8f102b6a88827689c5e2a6bf2ccd9f163f4f7a7"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "source-missing-glyph: 卷一",
+    "source-missing-glyph: 卷二",
+    "source-missing-glyph: 卷三",
+    "source-missing-glyph: 卷四",
+    "source-missing-glyph: 卷五",
+    "source-missing-glyph: 卷六",
+    "source-missing-glyph: 卷七",
+    "source-missing-glyph: 卷八",
+    "source-missing-glyph: 卷九",
+    "source-missing-glyph: 卷十",
+    "source-missing-glyph: 卷十一",
+    "source-missing-glyph: 卷十二",
+    "source-missing-glyph: 卷十三",
+    "source-missing-glyph: 卷十四",
+    "source-missing-glyph: 卷十五",
+    "source-missing-glyph: 卷十六",
+    "source-missing-glyph: 卷十七",
+    "source-missing-glyph: 卷十八",
+    "source-missing-glyph: 卷十九",
+    "source-missing-glyph: 卷二十",
+    "source-missing-glyph: 卷二十一",
+    "source-missing-glyph: 卷二十二",
+    "source-missing-glyph: 卷二十三",
+    "source-missing-glyph: 卷二十四",
+    "source-missing-glyph: 卷二十五",
+    "source-missing-glyph: 卷二十六",
+    "source-missing-glyph: 卷二十七",
+    "source-missing-glyph: 卷二十八",
+    "source-missing-glyph: 卷二十九",
+    "source-missing-glyph: 卷三十",
+    "source-missing-glyph: 卷三十一",
+    "source-missing-glyph: 卷三十二"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%97%A5%E7%9F%A5%E5%BD%95.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "a95758ef5a3de62b79f41cfeef4c36cf4af14a78fff831275d1884b8f0b0b6ec",
+  "stats": {
+    "chapters": 33,
+    "paragraphs": 2268,
+    "characters": 497601,
+    "emptyChapters": 0
+  }
+}

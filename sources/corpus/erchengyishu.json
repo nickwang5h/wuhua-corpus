@@ -1,0 +1,35 @@
+{
+  "work": "erchengyishu",
+  "provider": "daizhige",
+  "rootTitle": "河南程氏遺書",
+  "pages": [
+    {
+      "title": "儒藏/语录/河南程氏遗书.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%B2%B3%E5%8D%97%E7%A8%8B%E6%B0%8F%E9%81%97%E4%B9%A6.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "fa4c8d8544c4cdcb06446b6b6e53a6696d7587d4026ccb1c7a1795edc714a97f"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "short-unit: 河南程氏遺書",
+    "volume-number-gap: 23 (text may be present without headings; check upstream structure)"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%B2%B3%E5%8D%97%E7%A8%8B%E6%B0%8F%E9%81%97%E4%B9%A6.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "d64b35ac6b736af5cfda2fba0688ce43abf116c8e47175229194e461de1c4f5e",
+  "stats": {
+    "chapters": 25,
+    "paragraphs": 2206,
+    "characters": 185778,
+    "emptyChapters": 0
+  }
+}

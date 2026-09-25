@@ -1,0 +1,48 @@
+{
+  "work": "yanyuanji",
+  "provider": "daizhige",
+  "rootTitle": "顏元集",
+  "pages": [
+    {
+      "title": "儒藏/语录/颜元集.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "1db6299a207ff06672be43880852d7dccbddcc2bc192cb2f906e54b9082fb1b4"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "short-unit: 顏元集",
+    "short-unit: 存性编卷一",
+    "short-unit: 存性编卷二",
+    "short-unit: 存学编卷二",
+    "short-unit: 存学编卷三",
+    "short-unit: 存人编卷一",
+    "short-unit: 存人编卷二",
+    "short-unit: 存人编卷三",
+    "short-unit: 卷上",
+    "short-unit: 卷下",
+    "source-missing-glyph: 存学编卷一",
+    "source-missing-glyph: 存人编卷一",
+    "source-missing-glyph: 四书正误卷一 大学",
+    "source-missing-glyph: 四书正误卷四 论语下",
+    "source-missing-glyph: 卷四 丧礼"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "838661c5f028db791d69aeac0d4645594a4ed665c895e162a23df34645df8554",
+  "stats": {
+    "chapters": 29,
+    "paragraphs": 1598,
+    "characters": 233534,
+    "emptyChapters": 0
+  }
+}

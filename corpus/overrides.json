@@ -1,0 +1,141 @@
+{
+  "daxue": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "zhongyong": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "mengzi": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "zhouyi": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "shangshu": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "shijing": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "liji": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "zuozhuan": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "gongyang": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "guliang": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "xiaojing": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "erya": {
+    "provider": "gujilab",
+    "reason": "Reuse structured classics bootstrap; avoid reimplementing classics segmentation."
+  },
+  "chunqiu": {
+    "rootTitle": "春秋經"
+  },
+  "chuanxilu": {
+    "expectedUnits": 3
+  },
+  "shiji": {
+    "expectedUnits": 130
+  },
+  "liuzongyuanji": {
+    "rootTitle": "柳河東全集",
+    "aliases": [
+      "柳宗元集"
+    ]
+  },
+  "hanyuji": {
+    "aliases": [
+      "韩愈集"
+    ]
+  },
+  "ouyangxiuji": {
+    "aliases": [
+      "欧阳修集"
+    ]
+  },
+  "sushiji": {
+    "aliases": [
+      "苏轼集"
+    ]
+  },
+  "wanganshiji": {
+    "aliases": [
+      "王安石集"
+    ]
+  },
+  "zenggongji": {
+    "aliases": [
+      "曾巩集"
+    ]
+  },
+  "baopuzi": {
+    "provider": "daizhige",
+    "archivePath": "道藏/藏外/抱朴子内篇.txt",
+    "reason": "Two matching archive editions; select the separately indexed inner chapters."
+  },
+  "dutongjianlun": {
+    "rootTitle": "讀通鑒論"
+  },
+  "shangjunshu": {
+    "aliases": [
+      "商子"
+    ]
+  },
+  "mengziziyishuzheng": {
+    "provider": "daizhige",
+    "reason": "Wikisource contains unresolved template delimiters in body; use one complete archive source."
+  },
+  "guwenguanzhi": {
+    "provider": "guopop",
+    "expectedUnits": 225,
+    "reason": "Structured anthology contains 222 items plus three prefatory units; avoids treating Wiki volumes as articles."
+  },
+  "wangwenchenggongquanshu": {
+    "aliases": [
+      "王文成全书"
+    ]
+  },
+  "lujiuyuanji": {
+    "provider": "daizhige",
+    "archivePath": "集藏/四库别集/象山集象山语录.txt",
+    "reason": "The file named 陆九渊集 has numbered-volume gaps; use the fuller collected-work archive."
+  },
+  "guguolunheng": {
+    "excludePages": [
+      "國故論衡/上卷",
+      "國故論衡/中卷",
+      "國故論衡/下卷"
+    ],
+    "expectedUnits": 26,
+    "reason": "Root lists three aggregate volumes and the same 26 individual essays; retain the individual essays only."
+  },
+  "rizhilu": {
+    "provider": "daizhige",
+    "archivePath": "儒藏/语录/日知录.txt",
+    "reason": "Wiki rendered body has template residue; select the punctuated whole-work archive among two same-title files."
+  },
+  "zhengmeng": {
+    "provider": "zhwikisource",
+    "expectedUnits": 19,
+    "reason": "Archive contains a modern philosophical essay and lacks a body chapter; use the Wiki prefaces plus 17 original chapters."
+  }
+}

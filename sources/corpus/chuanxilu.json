@@ -1,0 +1,68 @@
+{
+  "work": "chuanxilu",
+  "provider": "zhwikisource",
+  "rootTitle": "傳習錄",
+  "pages": [
+    {
+      "title": "傳習錄",
+      "pageId": 29432,
+      "revisionId": 1557064,
+      "revision": "1557064",
+      "timestamp": "2019-04-08T01:50:59Z",
+      "fetchedAt": "2026-09-24T19:40:11.546Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1557064",
+      "sha256": "b66133078db83f4e7e56caa9dddf295115d1b31c212a23161109b414937581f1"
+    },
+    {
+      "title": "傳習錄/卷上",
+      "pageId": 888115,
+      "revisionId": 2603592,
+      "revision": "2603592",
+      "timestamp": "2025-10-05T05:47:40Z",
+      "fetchedAt": "2026-09-24T19:42:17.862Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2603592",
+      "parent": "傳習錄",
+      "sha256": "3d982af81f915731ec3f309f3bad02b825aad065ebb63e9124a56f5d4322c081"
+    },
+    {
+      "title": "傳習錄/卷中",
+      "pageId": 888118,
+      "revisionId": 2509125,
+      "revision": "2509125",
+      "timestamp": "2024-12-22T14:22:25Z",
+      "fetchedAt": "2026-09-24T19:42:17.862Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2509125",
+      "parent": "傳習錄",
+      "sha256": "9bf2cf1025557606df447915b1d4bf491874631efd2a3bd81dac2559d1bcd896"
+    },
+    {
+      "title": "傳習錄/卷下",
+      "pageId": 888119,
+      "revisionId": 2063633,
+      "revision": "2063633",
+      "timestamp": "2021-08-07T15:05:10Z",
+      "fetchedAt": "2026-09-24T19:42:17.862Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2063633",
+      "parent": "傳習錄",
+      "sha256": "b1906cf4fce063ac7c6bfa8d12fbc5cbb8cd65a5d95641e26172de5af99287b2"
+    }
+  ],
+  "metadata": {
+    "author": "王守仁",
+    "times": "明"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "90c10a435308ae454aad748f8c598509a7d6ee8c757897102349e600ac0d42b2",
+  "stats": {
+    "chapters": 3,
+    "paragraphs": 955,
+    "characters": 80532,
+    "emptyChapters": 0
+  }
+}

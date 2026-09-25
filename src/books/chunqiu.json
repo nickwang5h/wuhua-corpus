@@ -1,0 +1,3826 @@
+{
+  "id": "chunqiu",
+  "metadata": {
+    "title": "春秋",
+    "metadataMethod": "source-fields",
+    "needsReview": true
+  },
+  "chapters": [
+    {
+      "id": "chapter-chunqiu-aa4b49c59bd601fe",
+      "number": 1,
+      "title": "隱公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184546",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0001",
+          "version": "sha256:ca5ea00e00b9a90e510fb3ff2def787d76070777bacc87be2d74c5ed282ab47e",
+          "text": "元年春，王正月。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0002",
+          "version": "sha256:0aa0a4132f28abd5fcaca5a0df070558d49dcf050263841cecc71e957e533803",
+          "text": "三月，公及邾儀父盟于蔑。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0003",
+          "version": "sha256:b3d6928aec6ab5adada333eea0370be6d7d0bd166620d5f3bed3054ca33b1593",
+          "text": "夏五月，鄭伯克段于鄢。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0004",
+          "version": "sha256:7ad9d2b38148647adc2a7c37d0d44beecb437fde35f2eb549e63dbef9d21bde5",
+          "text": "秋七月，天王使宰咺來歸惠公、仲子之賵。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0005",
+          "version": "sha256:1c4e7d097db1d92e0b67ec740cc26618d750b3060fd559825ac4ff0af11b39f2",
+          "text": "九月，及宋人盟于宿。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0006",
+          "version": "sha256:8fa38c864bf1d793168a9d62a66da0fc2682d8b66dd177d961508ffcd3e53055",
+          "text": "冬十有二月，祭伯來。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0007",
+          "version": "sha256:e403250868de4a0a77d2375d7bceb57f0557ce30fe1bcc0d09d1889c9ec4fa7b",
+          "text": "公子益師卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公元年〈周平王四十九年 己未 前722〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0008",
+          "version": "sha256:97d93f7877e435ccd18169283bf97fe6a141f485d634b131966064bba5b59076",
+          "text": "二年春，公會戎于潛。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0009",
+          "version": "sha256:2ea1953a7a39b11b68745cf14c61b1b337f956d2c65d223c11449b71c97270d0",
+          "text": "夏五月，莒人入向。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0010",
+          "version": "sha256:dfa0463038f3f1cb49a5a8707d18327e70ce6e4b482fd5511f958cd4a834b819",
+          "text": "無駭帥師入極。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0011",
+          "version": "sha256:52963a261e54d2d7ea0b6a095c0a9715eb6842d07c45db63fbfbb8888712990d",
+          "text": "秋八月庚辰，公及戎盟于唐。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0012",
+          "version": "sha256:69f744138e370aa5f27a84955940fb8921e603c20858789a04aacd58808a8bc6",
+          "text": "九月，紀裂繻來逆女。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0013",
+          "version": "sha256:bb5218e8cf3e8835db69d047cbc47391d8b155a5cb636f61cd8ecc3edacb9580",
+          "text": "冬十月，伯姬歸于紀。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0014",
+          "version": "sha256:6de902856db9f25ec8af6fed6beae820b4bc12b1fa040fbd030352dac85ad9bb",
+          "text": "紀子帛、莒子盟于密。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0015",
+          "version": "sha256:46b73aac26d4e280fa1b742c416e6d04390ebfc96d36d04de425cbf5cfe99522",
+          "text": "十有二月乙卯，夫人子氏薨。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0016",
+          "version": "sha256:be1ef429340d5de34ce0ef5044eceb2bda8190268eae62b7348c23d54a5db0a0",
+          "text": "鄭人伐衛。",
+          "aliases": [],
+          "headingPath": [
+            "隱公二年〈周平王五十年 庚申 前721〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0017",
+          "version": "sha256:5f3ad867a7752598b82284a0b004399793f268a7aa94e315a614e4d6a5ed8d2a",
+          "text": "三年，春，王二月，己巳，日有食之。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0018",
+          "version": "sha256:07d71a2ae8472f03316496157828d19837be323ad18adc977dc05d5999d642f6",
+          "text": "三月，庚戌，天王崩。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0019",
+          "version": "sha256:90dd85385033beeb52f02ed59adf1268c48ebedfe0dea0d7a6c835ec34cb4d0f",
+          "text": "夏，四月，辛卯，君氏卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0020",
+          "version": "sha256:997007988abd6f925daebcfad7edc1c577d61791facb976108b936841a973638",
+          "text": "秋，武氏子來求賻。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0021",
+          "version": "sha256:30ebf959105d5fbfcb0a75a01414b1ee543b2745d83ded0eb64a88fc5d8e36eb",
+          "text": "八月庚辰，宋公和卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0022",
+          "version": "sha256:d8ba028fdd97fe2fbaa62cd3fb63a40af99f6e96c86670a98eda3d889a0dfc26",
+          "text": "冬十有二月，齊侯，鄭伯盟于石門。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0023",
+          "version": "sha256:79b44d1071bb07b1391ab04612ceaf407a71b468010346a1741eeb09f8cb8e11",
+          "text": "癸未，葬宋穆公。",
+          "aliases": [],
+          "headingPath": [
+            "隱公三年〈周平王五十一年 辛酉 前720〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0024",
+          "version": "sha256:180fe296a6767ea30e3b759f9bc2b2e4cddf18636a3a079df590695cf62ae371",
+          "text": "四年，春，王二月，莒人伐杞，取牟婁。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0025",
+          "version": "sha256:0f8cc81019c43a2e3da61bd463e58a948e1c152429f8d1d4a2817030a5960d37",
+          "text": "戊申，衛州吁弒其君完。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0026",
+          "version": "sha256:1d74f62d08fdac93a9508b658ab3e740a00b2982378bcb3148fdd199ce1dac18",
+          "text": "夏，公及宋公遇于清。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0027",
+          "version": "sha256:ef2d23216fce80475d538ad9977dc5d713d596852fa557ead88747acf9c29ade",
+          "text": "宋公、陳侯、蔡人、衛人伐鄭。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0028",
+          "version": "sha256:572e987f10c51497b2dedc1735499f1b228b3be81e3b11fd0bc27f3a39a089f9",
+          "text": "秋，翬帥師會宋公、陳侯、蔡人、衛人伐鄭。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0029",
+          "version": "sha256:c52847bd5aec469c1fadd9aabe01622990f7ab84a041f6a54ce574de62ce827b",
+          "text": "九月，衛人殺州吁于濮。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0030",
+          "version": "sha256:91f1b334b80a8b216586153bca8f8abb8f1958bb4008b4cad009b172c14bd5c4",
+          "text": "冬十有二月，衛人立晉。",
+          "aliases": [],
+          "headingPath": [
+            "隱公四年〈周桓王林元年 壬戌 前719〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0031",
+          "version": "sha256:7cfce3a4f1ea413fe4a6d2cba2870f914d4fc9620b7e378906a092a01bdaf8e9",
+          "text": "五年，春，公矢魚于棠。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0032",
+          "version": "sha256:7ac52437c374a7a70e5ddb2ed92a783f0c50962d9172a6a1ca6caee0eb382106",
+          "text": "夏四月，葬衛桓公。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0033",
+          "version": "sha256:e3a49f3268df8802fdd8100b6fefa4aa9bc8ee63ddbed3741d0c80595c89d102",
+          "text": "秋，衛師入郕。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0034",
+          "version": "sha256:4696b54cd0f523a6ee92f6580ff9b819bcbd41bbb52d8740e717d0c715706193",
+          "text": "九月，考仲子之宮。初獻六羽。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0035",
+          "version": "sha256:395c0f70f342c9ca559a112c6f480c5ddb1f20871d7ed8b8e0a0358bc03cf1fd",
+          "text": "邾人、鄭人伐宋。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0036",
+          "version": "sha256:89d2ff47159417e8f8b42d13cfdf206a9f4cb5381d600c27454495c9da5bb5b2",
+          "text": "螟。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0037",
+          "version": "sha256:c61b187aab7366c20b9ce7fe62b44d97521715bab18c751d182e72d5c8a5a82f",
+          "text": "冬十有二月，辛巳，公子彄卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0038",
+          "version": "sha256:1afd74efb66fb9439a60e4adb3825c05dddf5042808445d79649f9745b282818",
+          "text": "宋人伐鄭，圍長葛。",
+          "aliases": [],
+          "headingPath": [
+            "隱公五年〈周桓王二年 癸亥 前718〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0039",
+          "version": "sha256:2f122e50be940d44fc86537a6180d146a377237336cc1986eaaab80a7c5c2d9a",
+          "text": "六年，春，鄭人來渝平。",
+          "aliases": [],
+          "headingPath": [
+            "隱公六年〈周桓王三年 甲子 前717〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0040",
+          "version": "sha256:cb842210269d99f075bf920d50f58c03ec2f4e2077faa735a9df26e84753f966",
+          "text": "夏，五月，辛酉，公會齊侯盟于艾。",
+          "aliases": [],
+          "headingPath": [
+            "隱公六年〈周桓王三年 甲子 前717〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0041",
+          "version": "sha256:1c8bd7ee9dd38e42b92d1460a12808bb9dc2ff42728e502154b4374af2eda367",
+          "text": "秋，七月。",
+          "aliases": [],
+          "headingPath": [
+            "隱公六年〈周桓王三年 甲子 前717〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0042",
+          "version": "sha256:5e53d853cf8cd2d998bcfb9250900f2f49b9ea070a890bf9b3470b2f4affcc97",
+          "text": "冬，宋人取長葛。",
+          "aliases": [],
+          "headingPath": [
+            "隱公六年〈周桓王三年 甲子 前717〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0043",
+          "version": "sha256:126aacf80740b10696fbc95b8db7d7d323c607ceb10f92ec8d3c123d3db1a96c",
+          "text": "七年，春，王三月，叔姬歸于紀。",
+          "aliases": [],
+          "headingPath": [
+            "隱公七年〈周桓王四年 乙丑 前716〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0044",
+          "version": "sha256:1f99e7e4bf79a8798436a624ef1b1b418df1c555a36e0b5d1350d7b2c4659aff",
+          "text": "滕侯卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公七年〈周桓王四年 乙丑 前716〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0045",
+          "version": "sha256:8844faaf974dc29637bb450c70a59dce649940e7edb928aea2d567693c6b2477",
+          "text": "夏，城中丘。",
+          "aliases": [],
+          "headingPath": [
+            "隱公七年〈周桓王四年 乙丑 前716〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0046",
+          "version": "sha256:45075d9ecdff5b605a998d04a2b7ab94fae5003174f9a9945d5ca20575f5588c",
+          "text": "齊侯使其弟年來聘。",
+          "aliases": [],
+          "headingPath": [
+            "隱公七年〈周桓王四年 乙丑 前716〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0047",
+          "version": "sha256:44284f4e67a66b7738a57bb9e431119f44908ba488d154a0131645ec6739652d",
+          "text": "秋，公伐邾。",
+          "aliases": [],
+          "headingPath": [
+            "隱公七年〈周桓王四年 乙丑 前716〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0048",
+          "version": "sha256:c07bc7274c761f52f01f6aa1f8d1021078a9b58b78a9f68df103698545027de1",
+          "text": "冬，天王使凡伯來聘。戎伐凡伯于楚丘，以歸。",
+          "aliases": [],
+          "headingPath": [
+            "隱公七年〈周桓王四年 乙丑 前716〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0049",
+          "version": "sha256:d5560311060fbc0b14bea4ac0ccdc747abc1b15a6b3d100751c5d0f8ce8fa5e5",
+          "text": "八年，春，宋公、衛侯遇于垂。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0050",
+          "version": "sha256:1e305ee34f3300a111d98276fccd6d123958d308bf928220a71c68f71310cac0",
+          "text": "三月，鄭伯使宛來歸祊。庚寅，我入祊。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0051",
+          "version": "sha256:117618cc52b3c6540adc605e070a0645d8e61b507a0ab9a2859cada5b2a17683",
+          "text": "夏，六月，己亥，蔡侯考父卒。辛亥，宿男卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0052",
+          "version": "sha256:4e269d01c71010b037d438ee0739948e4a6c09e99f8afed300e990d5d7770ab7",
+          "text": "秋，七月，庚午，宋公、齊侯、衛侯盟于瓦屋。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0053",
+          "version": "sha256:fffd19906b436a2a43e91b68b4fe9b9d5d4563046849743a1693b746790fb60b",
+          "text": "八月，葬蔡宣公。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0054",
+          "version": "sha256:fbcbbae0b4ab5b5710571d2c1aa52e28a3f6fab9054943bd2c4ba99024405e6e",
+          "text": "九月辛卯，公及莒人盟于浮來。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0055",
+          "version": "sha256:89d2ff47159417e8f8b42d13cfdf206a9f4cb5381d600c27454495c9da5bb5b2",
+          "text": "螟。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0056",
+          "version": "sha256:79a88771a423d7ae5f8f308e16d757b935654e96ca93f5f39279b112116e2c14",
+          "text": "冬十有二月，無駭卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公八年〈周桓王五年 丙寅 前715〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0057",
+          "version": "sha256:033d46c37db95b84e0408b11a2484d4f0a7c471477a34a63c080a62d8e4dded0",
+          "text": "九年，春，天子使南季來聘。",
+          "aliases": [],
+          "headingPath": [
+            "隱公九年〈周桓王六年 丁卯 前714〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0058",
+          "version": "sha256:817abe76c3ef1c7c8a95811e354758b007c75fdc8520fb9a1583143782691eff",
+          "text": "三月癸酉，大雨，震電。庚辰，大雨雪。",
+          "aliases": [],
+          "headingPath": [
+            "隱公九年〈周桓王六年 丁卯 前714〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0059",
+          "version": "sha256:9f11bdd6a7258a66a1bae18eca587212242de32bf796bb682d3a05680dfcc7cb",
+          "text": "挾卒。",
+          "aliases": [],
+          "headingPath": [
+            "隱公九年〈周桓王六年 丁卯 前714〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0060",
+          "version": "sha256:6ad33ccb08caf5dfac086edf295307bd2201c39e9ea973686f9a0fa15bd7dd4c",
+          "text": "夏，城郎。",
+          "aliases": [],
+          "headingPath": [
+            "隱公九年〈周桓王六年 丁卯 前714〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0061",
+          "version": "sha256:2e95ed24d56245616d530071f43a0edff3c647a994706a6a6faa98fecbd42a28",
+          "text": "秋七月。",
+          "aliases": [],
+          "headingPath": [
+            "隱公九年〈周桓王六年 丁卯 前714〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0062",
+          "version": "sha256:0fbce2b87fcfbbf9f8fc772006c7ba591201625013ec73483232f4c062b58bc3",
+          "text": "冬，公會齊侯于防。",
+          "aliases": [],
+          "headingPath": [
+            "隱公九年〈周桓王六年 丁卯 前714〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0063",
+          "version": "sha256:0e5b041af56de615501290db04bb56856dd380ae5eef794aacccd1607a430405",
+          "text": "十年，春，王二月，公會齊侯、鄭伯于中丘。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十年〈周桓王七年 戊辰 前713〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0064",
+          "version": "sha256:be9009480f647bc78a30175f144f724844ce0959b968de7ae833a39e3d6a3627",
+          "text": "夏，翬帥師會齊人、鄭人伐宋。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十年〈周桓王七年 戊辰 前713〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0065",
+          "version": "sha256:7e6856c63823241d007bea09357cc3e55e95213c787804010fea49a3b58e0823",
+          "text": "六月，壬戌，公敗宋師于菅。辛未，取郜。辛巳，取防。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十年〈周桓王七年 戊辰 前713〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0066",
+          "version": "sha256:2e4ede8077564fd45c9b9b3fb22f0703e205a18fea976e86c4df0f5be3a75c95",
+          "text": "秋，宋人、衛人入鄭。宋人、蔡人、衛人伐戴。鄭伯伐取之。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十年〈周桓王七年 戊辰 前713〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0067",
+          "version": "sha256:a81d77a99c991cfee15bc17c737977c6c62888550189c6937ff95eb799f90dab",
+          "text": "冬，十月，壬午，齊人、鄭人入郕。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十年〈周桓王七年 戊辰 前713〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0068",
+          "version": "sha256:91a1accba2b9e20ca2b696736baa2da9a682a3483c31f80c81651504542bc559",
+          "text": "十有一年，春，滕侯、薛侯來朝。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十一年〈周桓王八年 己巳 前712〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0069",
+          "version": "sha256:f40989961b59028e3dfaca7689e21a86027a3684be639eac69443459743b8ba2",
+          "text": "夏，公會鄭伯于時來。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十一年〈周桓王八年 己巳 前712〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0070",
+          "version": "sha256:651df4c19f403370c801ed18295cccfbb72a31eada1a36798b08b0ba628a5337",
+          "text": "秋，七月，壬午，公及齊侯、鄭伯入許。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十一年〈周桓王八年 己巳 前712〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-aa4b49c59bd601fe-0071",
+          "version": "sha256:532d97f763ddb1520aeb4c25770d1527939379705d4524c5b4f2fc066fdaced6",
+          "text": "冬十有一月，壬辰，公薨。",
+          "aliases": [],
+          "headingPath": [
+            "隱公十一年〈周桓王八年 己巳 前712〉"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-abd11e0f51ba502a",
+      "number": 2,
+      "title": "桓公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184579",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0001",
+          "version": "sha256:785a5eca9ac5f775db520908542356cad3b6de96a3668910fc643cdb86b3ef67",
+          "text": "元年，春，王正月，公即位。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元年〈周桓王九年 庚午 前711〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0002",
+          "version": "sha256:172ade45f50d0a36fa755973e7c8be688962c6c7418d14c906f575db834a4ae8",
+          "text": "三月，公會鄭伯于垂，鄭伯以璧假許田。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元年〈周桓王九年 庚午 前711〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0003",
+          "version": "sha256:2f4e472290a30dc4111c3faec24433f4f7752dfeec07c2b09108fb1805178396",
+          "text": "夏，四月，丁未，公及鄭伯盟于越。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元年〈周桓王九年 庚午 前711〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0004",
+          "version": "sha256:2396472830a2a99e5a30dbe9b7c4c5d92abd555393118ae97d44851e560cd78d",
+          "text": "秋，大水。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元年〈周桓王九年 庚午 前711〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0005",
+          "version": "sha256:5bce8e67fb4b661a64f6107391260769595bbd7fcb3f2849ca63ebb445c892bf",
+          "text": "冬，十月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元年〈周桓王九年 庚午 前711〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0006",
+          "version": "sha256:215d50792ee56c2d513cc7b78b83652081c6faa89278a13d87df5dd04f761811",
+          "text": "二年，春，王正月戊申，宋督弒其君與夷及其大夫孔父。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0007",
+          "version": "sha256:57e135ea041ef89a600ff60b541a5ff39573cf85e2dd0140a475dc29c8e2f35f",
+          "text": "滕子來朝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0008",
+          "version": "sha256:939f18608112cedde842e736f8935f597ec16db3e17362df2c64cb848e72885d",
+          "text": "三月，公會齊侯、陳侯、鄭伯于稷，以成宋亂。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0009",
+          "version": "sha256:776c48f01d00ba097a72a39e45c9b4fc61b7a000181b5334ec573ae71bf67096",
+          "text": "夏，四月，取郜大鼎于宋。戊申，納于大廟。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0010",
+          "version": "sha256:41ec07a6728d4bad2c768854e9023261c0e128d5f6d1109d51ede63489f0b193",
+          "text": "秋，七月，杞侯來朝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0011",
+          "version": "sha256:2de6fb00dbb2f3ac28957e74f887d58aa2e015bac19e1eb3eef35ea57f0d04cc",
+          "text": "蔡侯、鄭伯會于鄧。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0012",
+          "version": "sha256:777769a2e177008d6460b6d00891ab8a49e7fa981d17c87ca4e1cda9f1dad517",
+          "text": "九月，入杞。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0013",
+          "version": "sha256:46a904968e27dcb443944e446433f001b397c5c284b9cfa8e2a8366043169165",
+          "text": "公及戎盟于唐。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0014",
+          "version": "sha256:291cacb2d36f60c87f30b57b0df5ae41acfa6793328e89c9f14fea2e9ec3d8fb",
+          "text": "冬，公至自唐。",
+          "aliases": [],
+          "headingPath": [
+            "桓公二年〈周桓王十年 辛未 前710〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0015",
+          "version": "sha256:aa16e29188e21d2fedc182f01745f8bfabcf2c98c0ae4e171fd86d67eb950b37",
+          "text": "三年，春，正月，公會齊侯于嬴。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0016",
+          "version": "sha256:ac45ffc81724d89deae82f1fc882e5aded34a43fcfa5a0da109825591a9a00b4",
+          "text": "夏，齊侯、衛侯胥命于蒲。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0017",
+          "version": "sha256:2a2dea26a659d08a8d9a4f1124829c9ad53fed675e6ef4c609194ef65d9c1180",
+          "text": "六月，公會杞侯于郕。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0018",
+          "version": "sha256:99050f1b0473a5ff740caf44070a0499c990a14e2ac2590893ea99cecc31ac81",
+          "text": "秋七月壬辰朔，日有食之，既。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0019",
+          "version": "sha256:1448e4d0115fa2da9faaa3e4a185d4616caba501d32ae7c2ca6ea2363fd12f6f",
+          "text": "公子翬如齊逆女。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0020",
+          "version": "sha256:54e3d938c7dc0427556b1f1031eb4a3cb212644ac2e62e2efb942b4b70e80622",
+          "text": "九月，齊侯送姜氏于讙。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0021",
+          "version": "sha256:7ec8ab28c7c511da3dbb68aec7b6747ed72ea3e37e78158efa79a186d750f03d",
+          "text": "公會齊侯於讙。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0022",
+          "version": "sha256:c82e6a40ff87cac81755ada8b2656826b688b81f43c2562df3df16cf5dbdf4d2",
+          "text": "夫人姜氏至自齊。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0023",
+          "version": "sha256:0dbe03e4bc8dc0b2f580b6982c297dde58616b2498777f0edeba17e2b598d8c1",
+          "text": "冬，齊侯使其弟年來聘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0024",
+          "version": "sha256:865f6f0de4dc7e7e18022acbb521ca765ee57fd75214bf800068d748356d6934",
+          "text": "有年。",
+          "aliases": [],
+          "headingPath": [
+            "桓公三年〈周桓王十一年 壬申 前709〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0025",
+          "version": "sha256:0f7eb11f775af83833c59a8db98ed9893fe00fb4bc907fc6d57c9e673db62efb",
+          "text": "四年，春，正月，公狩于郎。",
+          "aliases": [],
+          "headingPath": [
+            "桓公四年〈周桓王十二年 癸酉 前708〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0026",
+          "version": "sha256:9954f47e15ab4f0a0adea62198e5d090bc477902c0c46e500679e4eeb0684f2c",
+          "text": "夏，天王使宰渠伯糾來聘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公四年〈周桓王十二年 癸酉 前708〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0027",
+          "version": "sha256:4396ea855d1e0d875a2dae4699052f6a92043a02cad2a72eb6d5ace23a68ce05",
+          "text": "五年春正月，甲戌、己丑，陳侯鮑卒。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元五年〈周桓王十三年 甲戌 前707〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0028",
+          "version": "sha256:7749414f38c24e5abaf475c3f0152b27efc0a2e06f3e8d6e3bbb8e3aa40da2ad",
+          "text": "夏，齊侯鄭伯如紀。天王使仍叔之子來聘。葬陳桓公。城祝丘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元五年〈周桓王十三年 甲戌 前707〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0029",
+          "version": "sha256:e4817ffef414b8819bf6a8d7b303fbad0582693cc8c6cd9c7f886cd05005b348",
+          "text": "秋，蔡人、衛人、陳人從王伐鄭。大雩。螽。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元五年〈周桓王十三年 甲戌 前707〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0030",
+          "version": "sha256:35ab6b669ecd4f322d004f17178f97edfcef4e9e51103c8ed10b9924b9593dbe",
+          "text": "冬，州公如曹。",
+          "aliases": [],
+          "headingPath": [
+            "桓公元五年〈周桓王十三年 甲戌 前707〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0031",
+          "version": "sha256:52ef61c12d924a41051936e8806ebe3910dd30cd76e0766ae58e17d94b11ca32",
+          "text": "六年，春，正月，寔來。",
+          "aliases": [],
+          "headingPath": [
+            "桓公六年〈周桓王十四年 乙亥 前706〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0032",
+          "version": "sha256:740f7cc47a4ce3bece1880156f3ef3ec1b4005f238f0b572ae91456e6c05a35b",
+          "text": "夏，四月，公會紀侯于成。",
+          "aliases": [],
+          "headingPath": [
+            "桓公六年〈周桓王十四年 乙亥 前706〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0033",
+          "version": "sha256:d290e78a36ed5da59470d0a7eec1676a3679cca21253ee7e15b9633ed4fa1463",
+          "text": "秋，八月，壬午，大閱，蔡人殺陳佗。",
+          "aliases": [],
+          "headingPath": [
+            "桓公六年〈周桓王十四年 乙亥 前706〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0034",
+          "version": "sha256:d0b986c68b5248edc6b296f0c0c199e9557142dcd3d41813930d805a52cfee66",
+          "text": "九月，丁卯，子同生。",
+          "aliases": [],
+          "headingPath": [
+            "桓公六年〈周桓王十四年 乙亥 前706〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0035",
+          "version": "sha256:f61ab0c53624988d2b3caed1ff572b1c555ff8f562f8d60809a66734751f8c3c",
+          "text": "冬，紀侯來朝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公六年〈周桓王十四年 乙亥 前706〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0036",
+          "version": "sha256:6a698f2da3c3e14509f0a4d4500f863adf8a8a9a6ce28e4ab920fdd9bc316634",
+          "text": "七年，春，二月己亥，焚咸丘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公七年〈周桓十五年 丙子 前705〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0037",
+          "version": "sha256:8acbcf6baf8c553c0311eb9c7747c8a65618ccd50dd85a9e2d1a6f5925d2cbe2",
+          "text": "夏，穀伯綏來朝，鄧侯吾離來朝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公七年〈周桓十五年 丙子 前705〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0038",
+          "version": "sha256:7266044dabde35701857b5a0c6659514fe74c19bd90694a3ebf9ca065e5dd4ed",
+          "text": "八年，春，正月己卯，烝。天王使家父來聘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公八年〈周桓王十六年 丁丑 前704〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0039",
+          "version": "sha256:7276f62b8a4d113ad790209a99c4a8a3871b5bb25bf67268250b27ea9d3c5acd",
+          "text": "夏，五月丁丑，烝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公八年〈周桓王十六年 丁丑 前704〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0040",
+          "version": "sha256:1b81586693caff24d65da22473e8a31dd2760ab08216041920bb97ad844e751d",
+          "text": "秋，伐邾。",
+          "aliases": [],
+          "headingPath": [
+            "桓公八年〈周桓王十六年 丁丑 前704〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0041",
+          "version": "sha256:4937535a14b718749a44822cf97e137dc4484ebd1ddf2c68f56537030b16a398",
+          "text": "冬，十月，雨雪。祭公來，遂逆王后于紀。",
+          "aliases": [],
+          "headingPath": [
+            "桓公八年〈周桓王十六年 丁丑 前704〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0042",
+          "version": "sha256:2645f5d04c936919e01a5c980b00afc4d1483d8c1764c9389358076342bffcef",
+          "text": "九年，春，紀季姜歸於京師。",
+          "aliases": [],
+          "headingPath": [
+            "桓公九年〈周桓王十七年 戊寅 前703〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0043",
+          "version": "sha256:ea7cf693173a71ead76797542c2c547582b8131458f9c391c743743581802241",
+          "text": "夏，四月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公九年〈周桓王十七年 戊寅 前703〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0044",
+          "version": "sha256:1c8bd7ee9dd38e42b92d1460a12808bb9dc2ff42728e502154b4374af2eda367",
+          "text": "秋，七月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公九年〈周桓王十七年 戊寅 前703〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0045",
+          "version": "sha256:2253044e4ef284ab09be74775c983ab95899034749ee949ce34e94ba749ebc78",
+          "text": "冬，曹伯使其世子射姑來朝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公九年〈周桓王十七年 戊寅 前703〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0046",
+          "version": "sha256:18f242ad82baeaa6c72d556978cb4ecd0861c36cc5bac6f87ec544456b088f9d",
+          "text": "十年，春，王正月。庚申，曹伯終生卒。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十年〈周桓王十八年 己卯 前702〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0047",
+          "version": "sha256:66ac3e6478b5e0e9a02777b0fd10de0af46d919e7f5aa4b1ad76cb431a492ce1",
+          "text": "夏，五月，葬曹桓公。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十年〈周桓王十八年 己卯 前702〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0048",
+          "version": "sha256:5b5bf85a928b2ba85ffd9b61a0f9437ef6c1e149b473ac3a5317342815f2cf4c",
+          "text": "秋，公會衛侯於桃丘，弗遇。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十年〈周桓王十八年 己卯 前702〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0049",
+          "version": "sha256:0913f80889f37a54ebc50bea66e6cc46b04c984927ef550d345dcc89b27f7a71",
+          "text": "冬，十有二月丙午，齊侯、衛侯、鄭伯來戰于郎。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十年〈周桓王十八年 己卯 前702〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0050",
+          "version": "sha256:257b769f49fc50bc2d39f8b3870ab591ee9438e384bd5f58055392181629ce59",
+          "text": "十有一年，春，正月，齊人、衛人、鄭人盟于惡曹。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十一年〈周桓王十九年 庚辰 前701〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0051",
+          "version": "sha256:35ba42810d9fa2729fe17b99a7fe8650d5e3b2ab7c70051cce8ef6e760e5e90f",
+          "text": "夏，五月癸未，鄭伯寤生卒。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十一年〈周桓王十九年 庚辰 前701〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0052",
+          "version": "sha256:1e787b2b1073cfbbd4c84a9832770d39f2d495484fcc5ce160bc186dc65b37d8",
+          "text": "秋，七月，葬鄭莊公。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十一年〈周桓王十九年 庚辰 前701〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0053",
+          "version": "sha256:14d424afe1bdce64dc99c32dbeb22b1e24e56d08ba96f9aa25a5101b7bc0cff6",
+          "text": "九月，宋人執鄭祭仲。突歸於鄭。鄭忽出奔衛。柔會宋公、陳侯、蔡叔盟于折。公會宋公于夫鐘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十一年〈周桓王十九年 庚辰 前701〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0054",
+          "version": "sha256:8ff996add066c395e6d2338486e68f8dd06375745fb64cee254eb2f6aa466784",
+          "text": "冬，十有二月，公會宋公于闞。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十一年〈周桓王十九年 庚辰 前701〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0055",
+          "version": "sha256:72a6c9b138b138019e6c6fb78cbccdc082560aea8f1b2879a315540145e0dbd3",
+          "text": "十有二年，春，正月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十二年〈周桓王二十年 辛巳 前700〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0056",
+          "version": "sha256:847b3a24b4b91f060904156efa2e1a028037e5605ba5409d08c9a316183941b1",
+          "text": "夏，六月壬寅，公會杞侯、莒子盟于曲池。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十二年〈周桓王二十年 辛巳 前700〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0057",
+          "version": "sha256:2ed413c0fbf0d9d954ba8ca6452d3231f2f9833f88580a178a745337c53cb1ce",
+          "text": "秋，七月丁亥，公會宋公、燕人盟于穀丘。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十二年〈周桓王二十年 辛巳 前700〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0058",
+          "version": "sha256:d664f8d2b9826f763b9c5005bb3968f2b13b793e511c24d2062fec6d40730746",
+          "text": "八月壬辰，陳侯躍卒。公會宋公於虛。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十二年〈周桓王二十年 辛巳 前700〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0059",
+          "version": "sha256:6fb9fda5b1ca1da91cc489987c7d6625d391f3b19ee6927db92ff2a2ce04c0ed",
+          "text": "冬，十有一月，公會宋公於龜。丙戌，公會鄭伯，盟于武父。丙戌，衛侯晉卒。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十二年〈周桓王二十年 辛巳 前700〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0060",
+          "version": "sha256:5739ba42c021e73e4cccab3f8db515cc0157a463b2f86f6df5fe6508c830cb09",
+          "text": "十有二月，及鄭師伐宋。丁未，戰于宋。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十二年〈周桓王二十年 辛巳 前700〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0061",
+          "version": "sha256:f64e2d399cd8222f9052048a6c9e50eedf327f759ee452abea96307ca4f14da0",
+          "text": "十有三年，春二月，公會紀侯、鄭伯。己巳，及齊侯、宋公、衛侯、燕人戰。齊師、宋師、衛師、燕師敗績。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十三年〈周桓王二十一年 壬午 前699〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0062",
+          "version": "sha256:e8dbc98b3fa75ec6a702f3bd1530816330aa19c642857b083f489e59c8f2e19d",
+          "text": "三月，葬衛宣公。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十三年〈周桓王二十一年 壬午 前699〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0063",
+          "version": "sha256:95c0c33786862d09f8da43a1c20be7d43ea89585e3bef9376fdfdfe9e62dad04",
+          "text": "夏，大水。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十三年〈周桓王二十一年 壬午 前699〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0064",
+          "version": "sha256:1c8bd7ee9dd38e42b92d1460a12808bb9dc2ff42728e502154b4374af2eda367",
+          "text": "秋，七月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十三年〈周桓王二十一年 壬午 前699〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0065",
+          "version": "sha256:0ed2e04882b24451dc64a08a56ff35fb113020f2b0cd73d3bc895ae6a0dbc5c8",
+          "text": "冬十月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十三年〈周桓王二十一年 壬午 前699〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0066",
+          "version": "sha256:60279e6f44a4d6491313e98d7d139f84d93d4f908a721e83f89ef5be72b95c5f",
+          "text": "十有四年，春，正月，公會鄭伯于曹。無冰。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十四年〈周桓王二十二年 癸未 前698〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0067",
+          "version": "sha256:557cde6013c39adbda18cd457e27641387c691ec1f08d916cdedade86e52410f",
+          "text": "夏，五，鄭伯使其弟語來盟。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十四年〈周桓王二十二年 癸未 前698〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0068",
+          "version": "sha256:daed6d03e4739311924b235dc7edab04d9094a554ad2fd5b7c62a5d65da9f5f9",
+          "text": "秋，八月壬申，御廩災。乙亥，嘗。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十四年〈周桓王二十二年 癸未 前698〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0069",
+          "version": "sha256:8b5245448f5bc0c3a6ee2323daa8053e9fabd30d2d7a53041a92a35fb34c4079",
+          "text": "冬，十有二月丁巳，齊侯祿父卒。宋人以齊人、蔡人、衛人、陳人伐鄭。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十四年〈周桓王二十二年 癸未 前698〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0070",
+          "version": "sha256:dbcf416bb36a50f6b0fbcffa54ba5cef27c0279797d07ee6d23a95d079ecafd9",
+          "text": "十有五年，春，二月，天王使家父來求車。 三月乙未，天王崩。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十五年〈周桓王二十三年 甲申 前697〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0071",
+          "version": "sha256:bb4ba94af601b9c5acd6aec2fedecf60dbde0cbc1ed029b44b6c4254a56b03a7",
+          "text": "夏，四月己巳，葬齊僖公。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十五年〈周桓王二十三年 甲申 前697〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0072",
+          "version": "sha256:3f65b95ef00e1c52a2672a10816e5a1b60109b0b2b2e8afbbc250c8a52064b3a",
+          "text": "五月，鄭伯突出奔蔡。鄭世子忽複歸於鄭。許叔入于許。公會齊侯于艾。邾人、牟人、葛人來朝。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十五年〈周桓王二十三年 甲申 前697〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0073",
+          "version": "sha256:a47820d6f0a0ff1344e2530c6e271f681852b4bfc96bb36adf334067bed60f88",
+          "text": "秋，九月，鄭伯突入于櫟。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十五年〈周桓王二十三年 甲申 前697〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0074",
+          "version": "sha256:a6756c9f999a729cfae2d55edd72b5a570049c61e9bb25bb5bc53fcc51b8297d",
+          "text": "冬，十有一月，公會宋公、衛侯、陳侯於衰，伐鄭。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十五年〈周桓王二十三年 甲申 前697〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0075",
+          "version": "sha256:b3230bae0c8a8cfdd68ddf01cb4f79f6f597e0f9e3b75805ef7ed99278fade17",
+          "text": "十有六年，春，正月，公會宋公、蔡侯、衛侯于曹。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十六年〈周莊王佗元年 乙酉 前696〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0076",
+          "version": "sha256:6d4247ee06c40f2739008fc5b7d5f58d0be7fd4fddef23b120a51c62f275a985",
+          "text": "夏，四月，公會宋公、衛侯、陳侯、蔡侯伐鄭。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十六年〈周莊王佗元年 乙酉 前696〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0077",
+          "version": "sha256:6278a343f99c8b8620bacc85faeeaf81f7554686700abfe13e7206e8b74632a8",
+          "text": "秋，七月，公至自伐鄭。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十六年〈周莊王佗元年 乙酉 前696〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0078",
+          "version": "sha256:dd6b392f92505afbedb6517adbcfdeaf6ddffa225284af14a33aaf02194d302d",
+          "text": "冬，城向。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十六年〈周莊王佗元年 乙酉 前696〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0079",
+          "version": "sha256:f2ddcc5886919c47f0a89d861d8e89331438997d4486315121548511ff72e224",
+          "text": "十有一月，衛侯朔出奔齊。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十六年〈周莊王佗元年 乙酉 前696〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0080",
+          "version": "sha256:21b62966bd50660d424e337ef7eb868e53c2ad134d3f6cebd792a362c45fb151",
+          "text": "十有七年，春，正月丙辰，公會齊侯、紀侯盟于黃。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十七年〈周莊王二年 丙戌 前695〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0081",
+          "version": "sha256:e6356c6b9a11de6f580b1b253fbe17ec80b68027717be21b20b9965cfd36dff7",
+          "text": "二月丙午，公會邾儀父，盟于趡。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十七年〈周莊王二年 丙戌 前695〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0082",
+          "version": "sha256:af9ef9e9199479ee28bd19e0464a30785b871331c401f402b516f5d2e3084f23",
+          "text": "夏，五月丙午，及齊師戰于奚。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十七年〈周莊王二年 丙戌 前695〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0083",
+          "version": "sha256:78ec954d9a73baf557b8fda99314fb4d5dc8c65559c585f226dbbf961a18d1bf",
+          "text": "六月丁丑，蔡侯封人卒。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十七年〈周莊王二年 丙戌 前695〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0084",
+          "version": "sha256:74981cc309af9eac19a0ba102e299ad009bf164b68b0783554bc344ff95d0396",
+          "text": "秋，八月，蔡季自陳歸於蔡。癸巳，葬蔡桓侯。及宋人、衛人伐邾。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十七年〈周莊王二年 丙戌 前695〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0085",
+          "version": "sha256:ee00b61d3556c9316c44ca0acb58d27ab375ef29fc4f723999c2ca94fc5dc4b0",
+          "text": "冬，十月朔，日有食之。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十七年〈周莊王二年 丙戌 前695〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0086",
+          "version": "sha256:76a65060da6fc4cba6d4783512b3ce80b63dddbe1eac5ef9fb55cd6cb5ff4260",
+          "text": "十有八年，春，王正月，公會齊侯於濼。公與夫人姜氏遂如齊。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十八年〈周莊王三年 丁亥 前694〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0087",
+          "version": "sha256:fc7670f5cff885c1ae5a8939c338f761b2e95bf2c55ac1d170235a78d5cffbe3",
+          "text": "夏，四月丙子，公薨于齊。丁酉，公之喪至自齊。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十八年〈周莊王三年 丁亥 前694〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0088",
+          "version": "sha256:1c8bd7ee9dd38e42b92d1460a12808bb9dc2ff42728e502154b4374af2eda367",
+          "text": "秋，七月。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十八年〈周莊王三年 丁亥 前694〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-abd11e0f51ba502a-0089",
+          "version": "sha256:74c3c9b0463ada3ae9fd678e66e67d30cb5a4ee791ebad516f8d4e33a4916467",
+          "text": "冬，十有二月己丑，葬我君桓公。",
+          "aliases": [],
+          "headingPath": [
+            "桓公十八年〈周莊王三年 丁亥 前694〉"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-196146cdc9ec06a3",
+      "number": 3,
+      "title": "莊公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184394",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0001",
+          "version": "sha256:ca5ea00e00b9a90e510fb3ff2def787d76070777bacc87be2d74c5ed282ab47e",
+          "text": "元年春，王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0002",
+          "version": "sha256:c3e5584f5a9428101739f6382183fcf326931fbb52f96d1676c8f8b4eead4994",
+          "text": "三月，夫人孫于齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0003",
+          "version": "sha256:c20103ec972073acd9d5c64663fd469a4ff9db2b1c34eacfaedba20c30b81eaa",
+          "text": "夏，單伯送王姬。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0004",
+          "version": "sha256:b7c95196945129b9581d6b6910ab68b7e9a34efd68a74e6f052218f217f99b3f",
+          "text": "秋，築王姬之館於外。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0005",
+          "version": "sha256:d0c3a74ee5ab5393684f01d2786cb76b83fd2927e56242af855a11b7d3c29240",
+          "text": "冬十月乙亥，陳侯林卒。王使榮叔來錫桓公命。王姬歸於齊。齊師遷紀、郱、鄑、郚。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0006",
+          "version": "sha256:df80e8fd23e4b6ce8f78136192df84273d2c3ea23a23bc92d2ebb7271a39852c",
+          "text": "二年春王二月，葬陳莊公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0007",
+          "version": "sha256:589424397350b14db441b9c87a6246951ad44ee790be246d60284457d22952e6",
+          "text": "夏，公子慶父帥師伐于餘丘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0008",
+          "version": "sha256:7219d007d29a36396fb6433c12f8119290177cc1595e8cdb7ee5c67b1bdf1a43",
+          "text": "秋七月，齊王姬卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0009",
+          "version": "sha256:53b554ce99d5a10cc4bf24e806658acf5d33e02f386a8f966468781d7fe81ecd",
+          "text": "冬十有二月，夫人姜氏會齊侯於禚。乙酉，宋公馮卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0010",
+          "version": "sha256:c0207f92d35dea58b364c65701332fef942af803c4e8e25d735e82077e418dac",
+          "text": "三年春王正月，溺會齊師伐衛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0011",
+          "version": "sha256:ebdd7ddb1870ac106450b4418490a1b48168ddcf671f67f8911dc43b404bb7ce",
+          "text": "夏亖月，葬宋莊公。五月，葬桓王。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0012",
+          "version": "sha256:6a5fb92a7b3a54c3aea98a0dcbdd7cfaa8cf46e81ac9b414d1ce221a4ca6e8cc",
+          "text": "秋，紀季以酅入于齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0013",
+          "version": "sha256:097a653787014dd623f6ed7bf49abfabb3254aa2233f60bf566d75d4cebfa871",
+          "text": "冬，公次於滑。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0014",
+          "version": "sha256:633aa34e0991320596660dc8315f8273d76660e41eab12a5b046b44511101487",
+          "text": "四年春王二月，夫人姜氏享齊侯于祝丘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0015",
+          "version": "sha256:09523fbeeead1aea3d9f9c624ad53ee1b1600917585e44ed869e4463d0041115",
+          "text": "三月，紀伯姬卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0016",
+          "version": "sha256:90446bd6a8be3d5650c72d8a17f8b2dc1678a44e250af6a0da5481f2af34f895",
+          "text": "夏，齊侯、陳侯、鄭伯遇于垂。紀侯大去其國。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0017",
+          "version": "sha256:6f55a3ca85332501fabf69440f057ce7ec2b5a3445eecc3a9abee91300218601",
+          "text": "六月乙丑，齊侯葬紀伯姬。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0018",
+          "version": "sha256:2e95ed24d56245616d530071f43a0edff3c647a994706a6a6faa98fecbd42a28",
+          "text": "秋七月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0019",
+          "version": "sha256:4c70ba2ccc4d1ab835a360472928ec5194c8020faa5dd554f62ef615ddbe1c70",
+          "text": "冬，公及齊人狩於禚。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0020",
+          "version": "sha256:0ac50b5fef8a1920b746d45bacf6ce896c917ed6354e893ce279920ec5ad3a6e",
+          "text": "五年春，王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0021",
+          "version": "sha256:48550b92f7eb9a331d01798b4a6c3ab006434354b67a0928fbcdaf98965358d5",
+          "text": "夏，夫人姜氏如齊師。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0022",
+          "version": "sha256:8124d550717745f066fb201a8306c665942096be2d20e9288365122109fe8fd8",
+          "text": "秋，郳犁來來朝。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0023",
+          "version": "sha256:a8dbabf7ea84ede1bf897f882ca6ae3489ccb4c1e5dbe16bf10a8d7da08afe66",
+          "text": "冬，公會齊人、宋人、陳人、蔡人伐衛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0024",
+          "version": "sha256:c86d3b9d73b9a44d5805ec11e72fafe5d91257faf2429c98b1eeb33b663f9c65",
+          "text": "六年春王正月，王人子突救衛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0025",
+          "version": "sha256:62907f9694c0d41a0529e5344138d9203910a3f402ff3a913a4eacbf06bd62f9",
+          "text": "夏六月，衛侯朔入于衛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0026",
+          "version": "sha256:7f43aa95cfeccbe93457a5b56a7534d1339e4f20ae8aa8471859ce26f486ba45",
+          "text": "秋，公至自伐衛。螟。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0027",
+          "version": "sha256:b38aa70dd3227594c95c2a8cd3edbde47b7467b4b20019f42a9d5a4ba7558460",
+          "text": "冬，齊人來歸衛俘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0028",
+          "version": "sha256:b7baa6593a1ce3ec0f7a88158fbf974b9cdaeb576add7bad4780406e28d96010",
+          "text": "七年春，夫人姜氏會齊侯於防。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0029",
+          "version": "sha256:7c8d9d2b60ba54cd8f6a449ac26c5fe780c551b3773c6238427bfed6d13e3ddb",
+          "text": "夏亖月辛卯，夜，恒星不見。夜中，星隕如雨。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0030",
+          "version": "sha256:6a23440ffa0ae21cfa5f0b6aca570800bfa8d84387f31a0264389805a502820d",
+          "text": "秋，大水。無麥、苗。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0031",
+          "version": "sha256:6a92e819cadb135dc16f3fd46c7a3a35ce104f9b79f09d2c331ee7ca24d13c0b",
+          "text": "冬，夫人姜氏會齊侯于穀。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0032",
+          "version": "sha256:48ba05c9db7c4cf90b371fc2f970ccc5ce45f65d25c6bf21b61eed5460a857b7",
+          "text": "八年春王正月，師次於郎，以俟陳人，蔡人。甲午，治兵。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0033",
+          "version": "sha256:579fd38fc44152adadbb224acae68310a85663967fe46a9066bb05b4201dc384",
+          "text": "夏，師及齊師圍郕，郕降于齊師。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0034",
+          "version": "sha256:92d61033409bcb4f5fefc4cbfa7a02b28833c5d5ffe7f684afbbd5a3ec618229",
+          "text": "秋，師還。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0035",
+          "version": "sha256:8ec23935cd5158b19e6a6d39c5be057c8113e2a0ff4c8cad21cc3c7301fba50f",
+          "text": "冬十有一月癸未，齊無知弑其君諸兒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0036",
+          "version": "sha256:53c72ca0782790d2a7deddeec50d0c4d7bf8e49043bea2cf716cc8404b741008",
+          "text": "九秂萅，齊人殺無知。公及齊大夫盟于既。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0037",
+          "version": "sha256:49bc1c7df8718da1b8d39f53a55306c79be241d825d4e66e092ac1ef9ca218af",
+          "text": "夏，公伐齊納子糾。齊小白入于齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0038",
+          "version": "sha256:94f776e89c3ed625a95f8c384b3573851a09539da493ac5cd66862c0e34ae077",
+          "text": "秋七月丁酉，葬齊襄公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0039",
+          "version": "sha256:2db0b8e852a0eadbc2bd911bdefc74e31b4772a00ad2d3d3225118560baa7f63",
+          "text": "八月庚申，及齊師戰于乾時，我師敗績。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0040",
+          "version": "sha256:e4bb6a328216f7b8912e3e2cdd1bddc9ecba57c5c971e04331e1456646ce6ca1",
+          "text": "九月，齊人取子糾殺之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0041",
+          "version": "sha256:6201bb0fe5cb25789f2fd51485f5298eae366e54ad94ad2842c5e8cd6900ffc2",
+          "text": "冬，浚洙。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0042",
+          "version": "sha256:388f08c79ed1007fde84d86efee1ee4ed8db40d555ab686860f4600b724e744a",
+          "text": "十秂萅王正月，公敗齊師於長勺。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0043",
+          "version": "sha256:1cdf6f341d32fbb8dd03827791aa157ee12dc811993212fb54055e2e5ad82d6f",
+          "text": "二月，公侵宋。三月，宋人遷宿。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0044",
+          "version": "sha256:940b7cf4143821f470af5226033533fe5c4c12699c813507794d651fd0a7e655",
+          "text": "夏六月，齊師、宋師次於郎。公敗宋師於乘丘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0045",
+          "version": "sha256:4b07cc9318af6cde438509ef379f28e31941592228a868a6f3341f0ae323b78b",
+          "text": "秋九月，荊敗蔡師於莘，以蔡侯獻舞歸。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0046",
+          "version": "sha256:790c41e7c38420531ce6fa4396cf6e7f9aa987d354c429e0311beb9a0a61e624",
+          "text": "冬十月，齊師滅譚，譚子奔莒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0047",
+          "version": "sha256:f828289d6270ac8dd060035be5d6a2783c44ff7a8d8ff82139b9e95f54ce1cd1",
+          "text": "十有一秂萅王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0048",
+          "version": "sha256:1a1a978f8aef67242a78468030f250c92c818261e72c6a6c81146ede74519641",
+          "text": "夏五月，戊寅，公敗宋師於鄑。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0049",
+          "version": "sha256:b60377fdb3a42324fd6514353389a7f6262d0276cff8c1b2f82636453db214c1",
+          "text": "秋，宋大水。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0050",
+          "version": "sha256:4b913fcf77b5a265140375239d023fa6c4ad7c9f9bff2ee3261012dee5d9d123",
+          "text": "冬，王姬歸於齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0051",
+          "version": "sha256:a83b4f887d8325d1ba72aa7f396cf84f81457f98534c2317c2d980d387262b73",
+          "text": "十有二秂萅王三月，紀叔姬歸於酅。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0052",
+          "version": "sha256:86d79dd5707396b13cb35de5711a0e0af6aa44bdd03ddcd54cc59255150b46d3",
+          "text": "夏亖月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0053",
+          "version": "sha256:34f0861afc10c06ecd6f5b6477bcca8bcb84e748224b90217f3a55026ecdc61d",
+          "text": "秋八月甲午，宋萬弑其君捷及其大夫仇牧。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0054",
+          "version": "sha256:87e78291b20f5c7d6574637591c6777ed9a81987c66ea90b3b9872a5bb2578c3",
+          "text": "十月，宋萬出奔陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0055",
+          "version": "sha256:0f06191dee1935aad5600739ee3a141461b36342eb5ba56d606a2deeb17328bf",
+          "text": "十有三秂萅，齊侯、宋人、陳人、蔡人、邾人會於北杏。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0056",
+          "version": "sha256:766e1027885988c12d02ac1aab29e19a7dc7a10d7ce7a45e86dea99e5d109675",
+          "text": "夏六月，齊人滅遂。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0057",
+          "version": "sha256:2e95ed24d56245616d530071f43a0edff3c647a994706a6a6faa98fecbd42a28",
+          "text": "秋七月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0058",
+          "version": "sha256:ab97a6ba146b4716317d7f9f7ae05aaab66ca8a2e6fa6fd68b67fd384a7b3446",
+          "text": "冬，公會齊侯盟于柯。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0059",
+          "version": "sha256:c93b6d537f780dcf4942cc17297d281d7b7b4439f5b7de0d97aa02b26515e4b5",
+          "text": "十有亖秂萅，齊人、陳人、曹人伐宋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0060",
+          "version": "sha256:6dd328663a1d7d2c1fab806025af1c67e7ccc760b746bafe5132ba363816c3b9",
+          "text": "夏，單伯會伐宋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0061",
+          "version": "sha256:c5b693cc564edda3d80db87db20fb45ce01ed42f9c9538cee581ad687b4cfa3e",
+          "text": "秋七月，荊入蔡。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0062",
+          "version": "sha256:8565d432fb838dc6822e8f85f53eee16d518aba9d8b17a92580956f6e40654a5",
+          "text": "冬，單伯會齊侯、宋公、衛侯、鄭伯于鄄。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0063",
+          "version": "sha256:6ed490190890daa0136b4fbb862e898108aa1904e4177f8d1ebed310b7160319",
+          "text": "十有五秂萅，齊侯、宋公、陳侯、衛侯、鄭伯會于鄄。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0064",
+          "version": "sha256:4e1623be6be7f3186624349b4d075ce28e53af6aa535d2dd9822a90daaaa54b7",
+          "text": "夏，夫人姜氏如齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0065",
+          "version": "sha256:636debf6669a561af051aa090352ce9ebcb4371d9155e11820fc30af8d97e68f",
+          "text": "秋，宋人、齊人、邾人伐郳。鄭人侵宋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0066",
+          "version": "sha256:0ed2e04882b24451dc64a08a56ff35fb113020f2b0cd73d3bc895ae6a0dbc5c8",
+          "text": "冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0067",
+          "version": "sha256:96b962dda02845f265f2e4ff85f87653d04ad2e3ec6ecbd70e56fce65de746f4",
+          "text": "十有六秂萅王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0068",
+          "version": "sha256:6ef5e523b9cad33eaf294fb4e9492c2be688ca36c8f0de11bb1f4e698973b2c4",
+          "text": "夏，宋人、齊人、衛人伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0069",
+          "version": "sha256:a73636c4b2585a0f436f4b01088c2398489d95923aa5135557c29591cc71a544",
+          "text": "秋，荊伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0070",
+          "version": "sha256:d4d7f19ac5882689a68f336739437954036ce5f12e10606368133ef638798c29",
+          "text": "冬十有二月，會齊侯、宋公、陳侯、衛侯、鄭伯、許男、滑伯、滕子同盟於幽。邾子克卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0071",
+          "version": "sha256:0390c3d48f1c2202e83697fe3a6f86883ce80f4100aa50fcab4950b33fe4fba2",
+          "text": "十有七秂萅，齊人執鄭詹。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0072",
+          "version": "sha256:ed7923435811b16472ddb0d6e5857325681f619cf9577bf500ffe2f503c4fa15",
+          "text": "夏，齊人殲於遂。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0073",
+          "version": "sha256:3e42ce1016826f7f090d31b3fefb3205112ee794904e7208c3b49491d4df44ec",
+          "text": "秋，鄭詹自齊逃來。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0074",
+          "version": "sha256:875eceea582ddcbd43f74068a78f3189417de66a67bbf363add6e5309a172893",
+          "text": "冬，多麋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0075",
+          "version": "sha256:fa35fbcced2dbed5b890bd4b29529623e30ffc6ed6d31405625c68ab97f6d4f1",
+          "text": "十有八秂萅王三月，日有食之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0076",
+          "version": "sha256:085daa5ebb195db9bc24569203754da41ee522509e6d8504c413e975b617f2a3",
+          "text": "夏，公追戎於濟西。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0077",
+          "version": "sha256:d62f2f89500b332befffb940962c1941daf74521567b1e89b5762c75c92f31d0",
+          "text": "秋，有蜮。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0078",
+          "version": "sha256:0ed2e04882b24451dc64a08a56ff35fb113020f2b0cd73d3bc895ae6a0dbc5c8",
+          "text": "冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0079",
+          "version": "sha256:97a0e19070314f0e1443f5c4ff7f0a0ea49e46cc6fc930ebc7c6daa333e60809",
+          "text": "十有九秂萅王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0080",
+          "version": "sha256:86d79dd5707396b13cb35de5711a0e0af6aa44bdd03ddcd54cc59255150b46d3",
+          "text": "夏亖月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0081",
+          "version": "sha256:a3f4946b047f689809dba847cd9ceb150b87ab634d0615554969c7ea1dd1fca7",
+          "text": "秋，公子結媵陳人之婦於鄄，遂及齊侯、宋公盟。夫人姜氏如莒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0082",
+          "version": "sha256:253042fbf3a52cd26b1654790e884ed3adb19d4a4fb8739915bfec71ca68bc6d",
+          "text": "冬，齊人、宋人、陳人伐我西鄙。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0083",
+          "version": "sha256:e1215352bb6df6e198bc8285045f47096f7e6f752e669243701af46ca95d2c36",
+          "text": "二十秂萅王二月，夫人姜氏如莒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0084",
+          "version": "sha256:f127aa0ebd3ab11451ef416ba23541a61ec0ef7c7d791a9ee5f1794dd8fffb74",
+          "text": "夏，齊大災。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0085",
+          "version": "sha256:2e95ed24d56245616d530071f43a0edff3c647a994706a6a6faa98fecbd42a28",
+          "text": "秋七月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0086",
+          "version": "sha256:c4d9f22b327bb714719dc0a052bc7ddcf263c27d8a87a69d93348cb7a53a59a0",
+          "text": "冬，齊人伐戎。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0087",
+          "version": "sha256:a58211f0c2d7ea34ed1184078a66f597fae9d3c51d1455082dc59c1662d5747c",
+          "text": "二十有一秂萅，王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0088",
+          "version": "sha256:70597e3b5089bbe982f0675c4dabc059d4839a329973ca4844f1e73fc744d30d",
+          "text": "夏五月辛酉，鄭伯突卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0089",
+          "version": "sha256:81ef2e7ee999a5e2719dbe2025f6706b7faf051e1ca7dc5766f1a0f6d6b25f46",
+          "text": "秋七月戊戌，夫人姜氏薨。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0090",
+          "version": "sha256:8d40bb7441be966b013d0a335ee5d4891ea4b64547e9c4feb27e9ef7d46a7de5",
+          "text": "冬十有二月，葬鄭厲公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0091",
+          "version": "sha256:1f513794ee6b5d2f04fc1da571492a2e00ed663ad1a73b0ef730154c92ac8291",
+          "text": "二十二秂萅王正月，肆大眚。癸丑，葬我小君文姜。陳人殺其公子禦寇。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0092",
+          "version": "sha256:320b7469dce941b9b4d1fc0904c8589353f6882ebd43a52fd0fe31d079ac293b",
+          "text": "夏五月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0093",
+          "version": "sha256:cbb9b1a06bdcad3efc0493f83a8c6bba7a5aeafc2d9476e4dd9f5a5e5ae1e1a4",
+          "text": "秋七月丙申，及齊髙傒盟於防。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0094",
+          "version": "sha256:b5d4f551d1cc31feceaa9419b58a9d3ad566362c270eed8a3ab7fb89bbb0b12b",
+          "text": "冬，公如齊納幣。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0095",
+          "version": "sha256:92fe45889985b657cf742049b6fd0a52e64c96bb3469b5ab71c8d82f6f1d5b0a",
+          "text": "二十有三秂萅，公至自齊。祭叔來聘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0096",
+          "version": "sha256:a101b5f7722b921aceae09eca08202f9828b25ce32135af1184bd25fe4c35bd8",
+          "text": "夏，公如齊觀社。公至自齊。荊人來聘。公及齊侯遇于穀。蕭叔朝公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0097",
+          "version": "sha256:bf4ddfe6e01a57e60c27dce3b223563743d2c02ad15470e1d3d957272f53a785",
+          "text": "秋，丹桓宮楹。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0098",
+          "version": "sha256:321e9ebbdace81ab59215d46684601acb6899146902db80dcb5b2eacf81e1e88",
+          "text": "冬十有一月，曹伯射姑卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0099",
+          "version": "sha256:804a5bb84a6f725f3f5cf9bd24e40cfd1bd1e7a15c30acfdcfd3bce6be7dacd4",
+          "text": "十有二月甲寅，公會齊侯盟于扈。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0100",
+          "version": "sha256:4a9ad109ebafeba026ea9a31cde22e3b05e87f7f4ddd74aad8fc12568c1a0f56",
+          "text": "二十有亖秂萅王三月，刻桓宮桷。葬曹莊公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0101",
+          "version": "sha256:523cac7f88e1dd7654c37c5b0a37a34b946583169d3c35eda5984dc1a4784710",
+          "text": "夏，公如齊逆女。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0102",
+          "version": "sha256:15e446a9372c0054a29209971883ce74f5988417e397b79f6ff40b1f88240f19",
+          "text": "秋，公至自齊。八月丁丑，夫人姜氏入。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0103",
+          "version": "sha256:e5bcea59bb4db309f1b25227fb763266d166de5d93e1a02cf379b2e6d20b469f",
+          "text": "戊寅，大夫宗婦覿，用幣。大水。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0104",
+          "version": "sha256:1c98a813c8cc5a12e27cda4c945f1c95f18ebfa1c57e8e22a475a28ff3011839",
+          "text": "冬，戎侵曹。曹羈出奔陳。赤歸於曹。郭公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0105",
+          "version": "sha256:168439f6f396a8a865273e3401b0ca49684cedc6376ea8475464d8d74f81e346",
+          "text": "二十有五秂萅，陳侯使女叔來聘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0106",
+          "version": "sha256:1331ae927e19dd51d314e84b7e0420ffd65cab68df4b5027635ad176abca103b",
+          "text": "夏五月癸丑，衛侯朔卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0107",
+          "version": "sha256:29e4d65325a6f346c9905717575b76ef2c5045a62bbcf5836f2e0836b6a93eec",
+          "text": "六月辛未，朔，日有食之，鼓、用牲於社。伯姬歸於杞。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0108",
+          "version": "sha256:7aee2ee690c4a6c27047daea3b18b62ba81abdde9714f23391ed9dda01521264",
+          "text": "秋，大水，鼓、用牲于社、於門。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0109",
+          "version": "sha256:2ca7730e70e686dbdaa8e772fccdb70090e4240c986186bdeaf35cae115d7a9e",
+          "text": "冬，公子友如陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0110",
+          "version": "sha256:d314ab1413a3d6d54dc5edc3eefbfffdbaecf63a4f3df200806f15b888a669e5",
+          "text": "二十有六秂萅，公伐戎。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0111",
+          "version": "sha256:84c153c2c920da869e6e185d97b057e4c94be84d72446522cfeaaeedc6160552",
+          "text": "夏，公至自伐戎。曹殺其大夫。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0112",
+          "version": "sha256:ad61b3e31f547efd842179cb2768a789fd05ab1a16055c509e398a0e72eb1b11",
+          "text": "秋，公會宋人、齊人，伐徐。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0113",
+          "version": "sha256:85f79bd5382181a337e1b572830903815124b529b48ff663c5abba78845689a5",
+          "text": "冬十有二月癸亥，朔，日有食之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0114",
+          "version": "sha256:3661ecd60ec68b5f32106e6083850ba877c50b2737108a064301733f24411c0c",
+          "text": "二十有七秂萅，公會杞伯姬于洮。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0115",
+          "version": "sha256:b46a1bb5dcdde85b1c116a775d03936a103819213db8e5092ce463011792a437",
+          "text": "夏六月，公會齊侯、宋公、陳侯、鄭伯同盟于幽。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0116",
+          "version": "sha256:dabb4e0d09a2370925912d70f9a946a4b5f1b460dc64bd19ff04ebaf27627e43",
+          "text": "秋，公子友如陳，葬原仲。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0117",
+          "version": "sha256:6772d3ffee5dd4696d529fa36cd572831df2ee9614116df82d73ab2c10409517",
+          "text": "冬，杞伯姬來。莒慶來逆叔姬。杞伯來朝。公會齊侯於城濮。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0118",
+          "version": "sha256:fd750fd6c5cfb404ac1928e8fce896436db696665ca40c2db89383882ef924e4",
+          "text": "二十有八秂萅，王三月甲寅，齊人伐衛。衛人及齊人戰，衛人敗績。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0119",
+          "version": "sha256:2a2d3d8d916e040cace8d00a5c328aa76e9db32c7e7d78664cd518264e5a9a77",
+          "text": "夏亖月丁未，邾子瑣卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0120",
+          "version": "sha256:5d94f7ba68f714dbdfdc3c6f0c3b71f9945bc6fe0e7156ad972d6d4688e450bb",
+          "text": "秋，荊伐鄭，公會齊人、宋人救鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0121",
+          "version": "sha256:b8557b935ccc09d9216140c796236c5400627ba870a7566b37bc963ca4fca66d",
+          "text": "冬，築郿。大無麥、禾，臧孫辰告糴于齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0122",
+          "version": "sha256:93b85dbdcead910ca692d25ff011b263d4eb6fe46df31f25a4741709e30cda4a",
+          "text": "二十有九秂萅，新延既。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0123",
+          "version": "sha256:6cdf6c8df735e82132467c11112d6940a1f1e6bfddc3a1259b364d9dc37ce984",
+          "text": "夏，鄭人侵許。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0124",
+          "version": "sha256:dc6e282f995e2979cb5b11c33a93f2392e05664208dfa0131ac6c07d8ddab6ea",
+          "text": "秋，有蜚。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0125",
+          "version": "sha256:4b17247a5619ade5d2835d1fcc6c1812ce2da003f05cd606c3829994de98dec5",
+          "text": "冬十有二月，紀叔姬卒。城諸及防。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0126",
+          "version": "sha256:62cb0e7b8aea09821c2fd90a2ab320aa381a580ad7c83ffec05d472f1cc8a57b",
+          "text": "三十秂萅王正月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0127",
+          "version": "sha256:c92cdacc4782b833e46bd47d7abb533aa1952e1dea58feb7ec58457f81a4a226",
+          "text": "夏，次於成。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0128",
+          "version": "sha256:da87f79bfc82458aa44bc91d95169184d259f0287e0c6409c7144b25a74b69e8",
+          "text": "秋七月，齊人降鄣。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0129",
+          "version": "sha256:5b9d788fe9c01b2ee67e68b3b9f512dcb6809d1f7baea99313a82167e3b88bc6",
+          "text": "八月癸亥，葬紀叔姬。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0130",
+          "version": "sha256:e8005166f9ecc5a24e31cd3070784bc314098299287e1e1a8e2dacf86e1338dc",
+          "text": "九月庚午朔，日有食之。鼓，用牲於社。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0131",
+          "version": "sha256:5e64026c575d43a92f555ec9cd5ca49c4bd9042c5409de5801cd82bf7a7645a5",
+          "text": "冬，公及齊侯遇于魯濟。齊人伐山戎。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0132",
+          "version": "sha256:246e5414d6a06f0525f548ef459e71d0815d18373d8e0ea23b61bcd80ea2cf5a",
+          "text": "三十有一秂萅，築台于郎。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0133",
+          "version": "sha256:2a75be4fb21f6e65dfa06cf4102180552ebaad13fc04ef749a07f4024489622c",
+          "text": "夏亖月，薛伯卒。築台于薛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0134",
+          "version": "sha256:17987df16bb068ddf5fb6ffa54e0a7526bf65058c5e879ee00b55bc0e119ead4",
+          "text": "六月，齊侯來獻戎捷。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0135",
+          "version": "sha256:29a1130ab2b64ba288fe4611f581ac069f20862d702cec244d67c29922dcaab0",
+          "text": "秋，築台于秦。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0136",
+          "version": "sha256:b193ce78c9cd5d5469bdd4af9e37667a883f1883fe268c6c121c2b7cf5109b80",
+          "text": "冬，不雨。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0137",
+          "version": "sha256:18029f324578cb8e811a432dbf2a8f295708a3caf9545eec279d67a168be172b",
+          "text": "三十有二秂萅，城小穀。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0138",
+          "version": "sha256:ab7f00db58c850b17083d8aab6242329181a1c432ce17b3b9c65bfd218d401c5",
+          "text": "夏，宋公、齊侯遇于梁丘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0139",
+          "version": "sha256:9749c0518b5e5e00cc3db067a9aad040265e4e03b8af910bbc8291e36598f303",
+          "text": "秋七月癸巳，公子牙卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0140",
+          "version": "sha256:2730c7b93fd57210caf8642c3254f5e97dedce3eacdd45b0644ac401eca0d157",
+          "text": "八月癸亥，公薨于路寢。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0141",
+          "version": "sha256:8afe300bd03599882ebfe46ec00a311453f13553b4b584e16492e041cb0cf4bb",
+          "text": "冬十月己未，子般卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-196146cdc9ec06a3-0142",
+          "version": "sha256:24f12ae868645cb8cd6ed9447dbc118280dbd6c526b623192b69d5d87fe1e5cc",
+          "text": "公子慶父如齊。狄伐邢。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-4188482d5b8cd778",
+      "number": 4,
+      "title": "閔公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184293",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0001",
+          "version": "sha256:ca5ea00e00b9a90e510fb3ff2def787d76070777bacc87be2d74c5ed282ab47e",
+          "text": "元年春，王正月。",
+          "aliases": [],
+          "headingPath": [
+            "閔公元年〈周惠王十六年 庚申 前661〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0002",
+          "version": "sha256:f9d2c2e9e3f829e943aebe6f270c30858610ddcfdfc3a7a9f407a7e7e22b12f2",
+          "text": "齊人救邢。",
+          "aliases": [],
+          "headingPath": [
+            "閔公元年〈周惠王十六年 庚申 前661〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0003",
+          "version": "sha256:bf1aa4a6dcdd2d30ff6cb453b7c377693e55803c0f73141b7a1278db56b497e5",
+          "text": "夏六月，辛酉，葬我君莊公。",
+          "aliases": [],
+          "headingPath": [
+            "閔公元年〈周惠王十六年 庚申 前661〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0004",
+          "version": "sha256:a0c50c81c8c7be714b8e2277f52641b4ca3052a58d0164eddbd83f2ec0e13d5e",
+          "text": "秋八月，公及齊侯盟于落姑。季子來歸。",
+          "aliases": [],
+          "headingPath": [
+            "閔公元年〈周惠王十六年 庚申 前661〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0005",
+          "version": "sha256:c9429805b440552ae14640e90827c2ac2fbfb4648a2d479b4148908300066923",
+          "text": "冬，齊仲孫來。",
+          "aliases": [],
+          "headingPath": [
+            "閔公元年〈周惠王十六年 庚申 前661〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0006",
+          "version": "sha256:6b29edabf35290be03ff3373adb62ea563d2142c7e66d472bf1f6fdc7ac617a2",
+          "text": "二年春，王正月，齊人遷陽。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0007",
+          "version": "sha256:53cd954a1fce9f987a3283a6585b34837876dbbde6f2fc4316f662f2f4553673",
+          "text": "夏，五月，乙酉，吉禘于莊公。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0008",
+          "version": "sha256:cb7b99a428b102b4825db9e05c881d9d93c206ec888cfe876991bd619c234ee4",
+          "text": "秋，八月，辛丑，公薨。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0009",
+          "version": "sha256:01012baea795a52f985b5b39120e49f9816b9e85b24777190db5f3c6f03cf438",
+          "text": "九月，夫人姜氏孫于邾。公子慶父出奔莒。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0010",
+          "version": "sha256:92f07b4160db90927d75a7c63ec8e6190210e3ac6080a9f06106c6423e850cdb",
+          "text": "冬，齊高子來盟。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0011",
+          "version": "sha256:b2eda8c05fdfccb0fdf04f30904de24c354e3f0059f9afe60b22fbcc64cf41e7",
+          "text": "十有二月，狄入衛。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        },
+        {
+          "id": "p-chunqiu-4188482d5b8cd778-0012",
+          "version": "sha256:a2ac28fac6a3069887ef5bc9a18aeb0e3d55fe4d9b8ec5d3bac81ac6fe6dd807",
+          "text": "鄭棄其師。",
+          "aliases": [],
+          "headingPath": [
+            "閔公二年〈周惠王十七年 辛酉 前660〉"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-3e9d9854839405ec",
+      "number": 5,
+      "title": "僖公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2691889",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0001",
+          "version": "sha256:9028af91d0b5627e0b641df28c55ee0cd4b890e92acda5ff63fb6bfb813feef8",
+          "text": "元年春王正月。齊師、宋師、曹伯次於聶北，救邢。夏六月，邢遷於夷儀。齊師、宋師、曹師城邢。 秋七月戊辰，夫人姜氏薨於夷，齊人以歸。 楚人伐鄭。 八月，公會齊侯、宋公、鄭伯、曹伯、邾人於檉。 九月，公敗邾師於偃。 冬十月壬午，公子友帥師敗莒於酈。獲莒拏。 十有二月丁巳，夫人氏之喪至自齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0002",
+          "version": "sha256:4cfce78a02796f2846213dc5fd47c751e155bd44f9fdd1244723f2cc4fb0fc81",
+          "text": "二年春王正月，城楚丘。 夏五月辛巳，葬我小君哀姜。虞師、晉師滅下陽。 秋九月，齊侯、宋公、江人、黃人盟於貫。 冬十月，不雨。 楚人侵鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0003",
+          "version": "sha256:afb01213829f510a0640fcd818a15e3f35840c93919b3a339c669756cc7e8d5d",
+          "text": "三年春王正月，不雨。 夏四月不雨。 徐人取舒。 六月雨。 秋，齊侯、宋公、江人、黃人會於陽谷。 冬，公子友如齊涖盟。 楚人伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0004",
+          "version": "sha256:2c6478afc5f4d201ad2d5ec025beb1d455d52b90293fc95b38658887a159bd1f",
+          "text": "四年春王正月，公會齊侯、宋公、陳侯、衛侯、鄭伯，許男、曹伯侵蔡。蔡潰，遂伐楚，次於陘。 夏，許男新臣卒。 楚屈完來盟於師，盟於召陵。 齊人執陳轅濤塗。 秋，及江人、黃人伐陳。 八月，公至自伐楚。葬許穆公。 冬十有二月，公孫茲帥師會齊人、宋人、衛人、鄭人、許人、曹人侵陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0005",
+          "version": "sha256:ff1c7cb9fde15e9df6f711ba2b08fc4095ea9f5ec628fcb6b9657650515c085d",
+          "text": "五年春，晉侯殺其世子申生。 杞伯姬來朝其子。 夏，公孫茲如牟。公及齊侯、宋公、陳侯、衛侯、鄭伯、許男、曹伯會王世子於首止。 秋八月，諸侯盟於首止。 鄭伯逃歸不盟。 楚人滅弦，弦子奔黃。 九月戊申朔，日有食之。 冬，晉人執虞公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0006",
+          "version": "sha256:1ee50dd746172b9d9049f3f9e674a878553a2168a16b461ce277afe878f100af",
+          "text": "六年春王正月。 夏，公會齊侯、宋公、陳侯、衛侯、曹伯伐鄭，圍新城。 秋，楚人圍許，諸侯遂救許。 冬，公至自伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0007",
+          "version": "sha256:fbbe6919ef7a3e2845fd48837ea3bc65f5914d9cf48c09b0a609444a17f5d42a",
+          "text": "七年春，齊人伐鄭。 夏，小邾子來朝。 鄭殺其大夫申侯。 秋七月，公會齊侯、宋公、陳世子款、鄭世子華盟於寧母。 曹伯班卒。 公子友如齊。 冬，葬曹昭公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0008",
+          "version": "sha256:3fb02fa514e2c63b58eb79168d270ea8ca692458231c24180b1d97a9089c86b5",
+          "text": "八年春王正月，公會王人、齊侯、宋公、衛侯、許男、曹伯、陳世子款盟於洮。 鄭伯乞盟。 夏，狄伐晉。 秋七月，禘於大廟，用致夫人。 冬十有二月丁未，天王崩。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0009",
+          "version": "sha256:b589a0484dd8c32a192d0e737d807b9a3e397bc86f08ca49927c9046053c47bb",
+          "text": "九年春王三月丁丑，宋公禦說卒。 夏，公會宰周公、齊侯、宋子、衛侯、鄭伯、許男、曹伯於葵丘。 秋七月乙酉，伯姬卒。 九月戊辰，諸侯盟於葵丘。甲子，晉侯佹諸卒。 冬，晉里克殺其君之子奚齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0010",
+          "version": "sha256:085fb0efff64e5cb0e48686b40812022cfdb58288ab729717817400f3a9e9169",
+          "text": "十年春王正月，公如齊。 狄滅溫，溫子奔衛。 晉裏克弑其君卓及其大夫荀息。 夏，齊侯、許男伐北戎。 晉殺其大夫里克。 秋七月。冬，大雨雪。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0011",
+          "version": "sha256:ed468eac620abcc5e7e0a618fc66ec9f34befdb44426dd30a032a08afe699683",
+          "text": "十有一年春。 晉殺其大夫鄭父。 夏，公及夫人姜氏會齊侯於陽谷。 秋八月，大雩。 冬，楚人伐黃。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0012",
+          "version": "sha256:2e542a9ef7573160bb819597851d81f048e14b8db61a4c30774b2404bd68cb17",
+          "text": "十有二年春王三月庚午，日有食之。 夏，楚人滅黃。 秋七月。 冬十有二月丁丑，陳侯杵臼卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0013",
+          "version": "sha256:2fd1905ef3eeaf9bb20eeb51506bef1f46cae4f37fd1f0fa1b0ef1d836f4ca67",
+          "text": "十有三年春，狄侵衛。 夏四月，葬陳宣公。 公會齊侯、宋公、陳侯、鄭伯、許男、曹伯於咸。 秋九月，大雩。 冬，公子友如齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0014",
+          "version": "sha256:a2d77cf7c114dd416a3dd96f3494afa9ea8645cb1e05d414a35746c7e8574b62",
+          "text": "十有四年春，諸侯城緣陵。 夏六月，季姬及鄫子遇於防。 使鄫子來朝。 秋八月辛卯，沙鹿崩。 狄侵鄭。 冬，蔡侯肝卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0015",
+          "version": "sha256:b349f18eedcb1a89f65880b7c6d7d4307dfdd93b8ec1815dd95f6405c7e7de0d",
+          "text": "十有五年春王正月，公如齊。 楚人伐徐。 三月，公會齊侯、宋公、陳侯、衛候、鄭伯、許男、曹伯盟於牡丘，遂次於匡。 公孫敖帥師及諸侯之大夫救徐。 夏五月，日有食之。 秋七月，齊師、曹師伐厲。 八月，螽。 九月，公至自會。 季姬歸於鄫。 己卯晦，震夷伯之廟。 冬，宋人伐曹。 楚人敗徐於婁林。 十有一月壬戌，晉侯及秦伯戰於韓，獲晉侯。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0016",
+          "version": "sha256:3d2a8b6059c76dd5eb10d587e28b3d4e4bc0b31832e3b68df7af0fae81facddb",
+          "text": "十有六年春王正月戊申朔，隕石於宋五。 是月，六鷁退飛，過宋都。 三月壬申，公子季友卒。 夏四月丙申，鄫季姬卒。 秋七月甲子，公孫茲卒。 冬十有二月，公會齊侯、宋公、陳侯、衛侯、鄭伯、許男、邢侯、曹伯於淮。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0017",
+          "version": "sha256:50436ef7a88da65290c18868f8afa7f1f3e15eb37560d0b1b080750a0de61503",
+          "text": "十有七年春，齊人、徐人伐英氏。 夏，滅項。 秋，夫人姜氏會齊侯於卞。 九月，公至自會。 冬十有二月乙亥，齊侯小白卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0018",
+          "version": "sha256:e5fb4ece8504d2dc5b7b964d114902140152799cefb9b28329cf6636806d6075",
+          "text": "十有八年春王正月，宋公、曹伯、衛人、邾人伐齊。 夏，師救齊。 五月戊寅，宋師及齊師戰於甗，齊師敗績。 狄救齊。 秋八月丁亥，葬齊桓公。 冬，邢人，狄人伐衛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0019",
+          "version": "sha256:ec79a30c1b097520439f7e53b6f9620431d1f9894824b4a4d690542a22adbf69",
+          "text": "十有九年春王三月，宋人執滕子嬰齊。 夏六月，宋公、曹人、邾人盟於曹南。 鄫子會盟於邾。 己酉，邾人執鄶子，用之。秋，宋人圍曹。衛人伐邢。 冬，會陳人、蔡人、楚人、鄭人盟於齊。 梁亡。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0020",
+          "version": "sha256:9167b5f93c9bbd3bb3fe959ed304b50efbba48b074e86b58e40d67cb4ddaf88e",
+          "text": "二十年春，新作南門。 夏，郜子來朝。 五月乙巳，西宮災。 鄭人入滑。 秋，齊人、狄人盟於邢。 冬，楚人伐隨。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0021",
+          "version": "sha256:b3ecfdbb5435c6117c6774d1e6c376e67556bffe0cbdcda658dc4a5ed293f10c",
+          "text": "二十有一年春，狄侵衛。宋人、齊人、楚人盟於鹿上。 夏，大旱。 秋，宋公、楚子、陳侯、蔡侯、鄭伯、許男、曹伯會於盂。執宋公以伐宋。 冬，公伐邾。 楚人使宜申來獻捷。 十有二月癸丑，公會諸侯盟於薄，釋宋公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0022",
+          "version": "sha256:995047ce228822b891a03f37a7e353055ee366a9ccc967597b5e0dbee9b5dd88",
+          "text": "二十有二年春，公伐邾，取須句。 夏，宋公、衛侯、許男、滕子伐鄭。 秋八月丁未，及邾人戰於升陘。 冬十有一月己巳朔，宋公及楚人戰於泓，宋師敗績。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0023",
+          "version": "sha256:af591b2126a2ef137a8e2061cc441bfe7c55857068bdd1c8d942fabd64942268",
+          "text": "二十有三年春，齊侯伐宋，圍緍。 夏五月庚寅，宋公茲父卒。 秋，楚人伐陳。 冬十有一月，杞子卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0024",
+          "version": "sha256:937ec858c8fd1c9e1daaeefff4fdfc881fc0aa00cf3b3f9d37192c107d702e79",
+          "text": "二十有四年春王正月。 夏，狄伐鄭。 秋七月。 冬，天王出居於鄭。 晉侯夷吾卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0025",
+          "version": "sha256:1df0dd09730ac72df12b70c1b264f8d859b035c806d1018a6b25ed5f27cb13b3",
+          "text": "二十有五年春王正月，丙午，衛侯燬滅邢。 夏四月癸酉，衛侯燬卒。 宋蕩伯姬來逆婦。 宋殺其大夫。 秋，楚人圍陳，納頓子於頓。 葬衛文公。 冬十有二月癸亥，公會衛子、莒慶盟於洮。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0026",
+          "version": "sha256:12c7507c85cbe2551f5c3b3eef6953259cd7d2c8f905da4dfe9614a1d22f9fd8",
+          "text": "二十有六年春王正月，己未，公會莒子、衛甯速盟於向。 齊人侵我西鄙。 公追齊師，至酅，不及。 夏，齊人伐我北鄙。 衛人伐齊。公子遂如楚乞師。 秋，楚人滅夔，以夔子歸。 冬，楚人伐宋，圍緍。 公以楚師伐齊，取谷。公至自伐齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0027",
+          "version": "sha256:e17d77d0e7a3c998f840d7b94b6720426f95256c8e317267069b2b57ad1b1971",
+          "text": "二十有七年春，杞子來朝。 夏六月庚寅，齊侯昭卒。 秋八月乙未，葬齊孝公。 乙巳，公子遂帥師入杞。 冬，楚人、陳侯、蔡侯、鄭伯、許男圍宋。 十有二月甲戌，公會諸侯，盟於宋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0028",
+          "version": "sha256:c7baa5a57709b7f4d4710ec7a1280d4bd8e8b7777992e4eb2801ebe948026b6e",
+          "text": "二十有八年春，晉侯侵曹，晉侯伐衛。 公子買戍衛，不卒戍，刺之。 楚人救衛。 三月丙午，晉侯入曹，執曹伯，畀宋人。 夏四月己巳，晉侯、齊師、宋師、秦師及楚人戰於城濮，楚師敗績。 楚殺其大夫得臣。 衛侯出奔楚。 五月癸丑，公會晉侯、齊侯、宋公、蔡侯、鄭伯、衛子、莒子，盟於踐土。 陳侯如會。 公朝於王所。 六月，衛侯鄭自楚複歸於衛。 衛元咺出奔晉。 陳侯款卒。 秋，杞伯姬來。 公子遂如齊。 冬，公會晉侯、齊侯、宋公、蔡侯、鄭伯、陳子、莒子、邾人、秦人於溫。 天王狩於河陽。 壬申，公朝於王所。 晉人執衛侯，歸之於京師。 衛元咺自晉複歸於衛。 諸侯遂圍許。 曹伯襄複歸於曹，遂會諸侯圍許。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0029",
+          "version": "sha256:bf1f6d971d7f07fbe24862e659db50bf99198e90e5faf8859d801057b06b5103",
+          "text": "二十有九年春，介葛盧來。 公至自圍許。 夏六月，會王人、晉人、宋人、齊人、陳人、蔡人、秦人盟於翟泉。 秋，大雨雹。 冬，介葛盧來。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0030",
+          "version": "sha256:ba34c8643d3ff18aaad101e06dc03fe2f675674d55fced44faed51832bea61e6",
+          "text": "三十年春王正月。 夏，狄侵齊。 秋，衛殺其大夫元咺及公子瑕。 衛侯鄭歸於衛。 晉人、秦人圍鄭。 介人侵蕭。 冬，天王使宰周公來聘。 公子遂如京師，遂如晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0031",
+          "version": "sha256:3592e276173f955daae56164d7a152ba96c3983a7c9c42dfd3dfbd66ae8d9c8b",
+          "text": "三十有一年春，取濟西田。 公子遂如晉。 夏四月，四蔔郊，不從，乃免牲。猶三望。 秋七月。 冬，杞伯姬來求婦。 狄圍衛。 十有二月，衛遷於帝丘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0032",
+          "version": "sha256:85f0d33119d6be9205e11c02b3246913c1dcde30426c944b6c03abe8f7729ce3",
+          "text": "三十有二年春王正月。 夏四月己丑，鄭伯捷卒。 衛人侵狄。 秋，衛人及狄盟。 冬十有二月己卯，晉侯重耳卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3e9d9854839405ec-0033",
+          "version": "sha256:2d56f18b4a3aff149509d8de0c6d983971125eb6784ec8624456f28967137e1d",
+          "text": "三十有三年春王二月，秦人入滑。 齊侯使國歸父來聘。 夏四月辛巳，晉人及姜戎敗秦師於殽。 癸巳，葬晉文公。 狄侵齊。 公伐邾，取訾婁。 秋，公子遂帥師伐邾。 晉人敗狄於箕。 冬十月，公如齊。 十有二月，公至自齊。 乙巳，公薨於小寢。 隕霜不殺草。 李梅實。 晉人、陳人、鄭人伐許。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-7e331100e82052a6",
+      "number": 6,
+      "title": "文公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978344",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0001",
+          "version": "sha256:be690f03285a061d879bc44901f94520086d3d19c2fe85663c731104910c5728",
+          "text": "元年春王正月，公即位。 二月癸亥，日有食之。天王使叔服來會葬。 夏四月丁巳，葬我君僖公。天王使毛伯來錫公命。晉侯伐衛。叔孫得臣如京師。衛人伐晉。秋，公孫敖會晉侯於戚。 冬十月丁未，楚世子商臣弑其君頵。公孫敖如齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0002",
+          "version": "sha256:277910b797a56074005f54e194e63cfef5e08b96137dbbf2351d8770c353be42",
+          "text": "二年春王二月甲子，晉侯及秦師戰於彭衙，秦師敗績。丁丑，作僖公主。 三月乙巳，及晉處父盟。 夏六月，公孫敖會宋公、陳侯、鄭伯、晉士縠盟於垂隴。 自十有二月不雨，至於秋七月。 八月丁卯，大事於大廟，躋僖公。冬，晉人、宋人、陳人、鄭人伐秦。公子遂如齊納幣。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0003",
+          "version": "sha256:7877fc26ce6842deda2fd33cf9249b7366d3fbfb1925a41b102743f3e32173b2",
+          "text": "三年春王正月，叔孫得臣會晉人、宋人、陳人、衛人、鄭人伐沈。沈潰。 夏五月，王子虎卒。秦人伐晉。秋，楚人圍江。雨螽於宋。冬，公如晉。 十有二月己巳，公及晉侯盟。晉陽處父帥師伐楚以救江。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0004",
+          "version": "sha256:068d423d0aed43d6915b515c05514ebf72ceac9365de86ce62f676f2c4ab332d",
+          "text": "四年春，公至自晉。夏，逆婦姜於齊。狄侵齊。秋，楚人滅江。晉侯伐秦。衛侯使甯俞來聘。 冬十有一月壬寅，夫人風氏薨。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0005",
+          "version": "sha256:df6d1cf298bdf733f0a64bb74341840c5c84c2022e167e47d1850725864a6f50",
+          "text": "五年春王正月，王使榮叔歸含，且賵。三月辛亥，葬我小君成風。王使召伯來會葬。夏，公孫敖如晉。秦人入鄀。秋，楚人滅六。冬十月甲申，許男業卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0006",
+          "version": "sha256:593494f7ec7bd6ec1eb500efec305b7564794c564d373d4f4d4a8ba9f1336319",
+          "text": "六年春，葬許僖公。 夏，季孫行父如陳。 秋，季孫行父如晉。 八月乙亥，晉侯歡卒。 冬十月，公子遂如晉。葬晉襄公。晉殺其大夫陽處父。晉狐射姑出奔狄。 閏月不告月，猶朝於廟。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0007",
+          "version": "sha256:5a35dfbf0ba52cbc6d8cb1536c59ba1e59824c438ae97074b9a707af83bd1346",
+          "text": "七年春，公伐邾。 三月甲戌，取須句。遂城郚。 夏四月，宋公王臣卒。宋人殺其大夫。戊子，晉人及秦人戰於令狐。晉先蔑奔秦。狄侵我西鄙。 秋八月，公會諸侯、晉大夫盟於扈。 冬，徐伐莒。公孫敖如莒蒞盟。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0008",
+          "version": "sha256:e7deaf0ecd36c3359dd74f4f2b67e5804f50e7b1982241f9d6ba41696d767e4d",
+          "text": "八年春王正月。 夏四月。 秋八月戊申，天王崩。 冬十月壬午，公子遂會晉趙盾盟於衡雍。乙酉，公子遂會洛戎盟於暴。公孫敖如京師，不至而複。丙戌，奔莒。螽。宋人殺其大夫司馬。宋司城來奔。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0009",
+          "version": "sha256:cd42e51f3f193d4f2bc6da3a31d932e283b553b4992a2048243ba332949c6787",
+          "text": "九年春，毛伯來求金。夫人姜氏如齊。 二月，叔孫得臣如京師。 辛丑，葬襄王。晉人殺其大夫先都。 三月，夫人姜氏至自齊。晉人殺其大夫士縠及箕鄭父。楚人伐鄭。公子遂會晉人、宋人、衛人、許人救鄭。夏，狄侵齊。 秋八月，曹伯襄卒。 九月癸西，地震。冬，楚子使椒來聘。秦人來歸僖公、成風之襚。葬曹共公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0010",
+          "version": "sha256:f62770218b30e8857f3030a8529aa63ab0ba1b22b4ada9f17e2ddc9733da2fc7",
+          "text": "十年春王三月辛卯，臧孫辰卒。夏，秦伐晉。楚殺其大夫宜申。 自正月不雨，至於秋七月。及蘇子盟於女栗。冬，狄侵宋。楚子、蔡侯次於厥貉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0011",
+          "version": "sha256:72214d89035ac2b7cdb22661a51da75c3eb9892956a7fd96d9f079b28093e9df",
+          "text": "十有一年春，楚子伐麋。夏，叔仲彭生會晉郤缺於承筐。 秋，曹伯來朝。公子遂如宋。狄侵齊。 冬十月甲午，叔孫得臣敗狄於咸。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0012",
+          "version": "sha256:3128f4613c245d298de16ccdc415debe127451f4909228fee90a78965382eaef",
+          "text": "十有二年春王正月，郕伯來奔。杞伯來朝。 二月庚子，子叔姬卒。 夏，楚人圍巢。 秋，滕子來朝。秦伯使術來聘。 冬十有二戊午，晉人、秦人戰於河曲。季孫行父帥師城諸及鄆。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0013",
+          "version": "sha256:b8fb9a0723a1a1c79cc815d7c62d0f98a544b889b987c9e917bbd1a184bbe48f",
+          "text": "十有三春王正月。 夏五月壬午，陳侯朔卒。邾子蘧蒢卒。 自正月不雨，至於秋七月。大室屋壞。 冬，公如晉。衛侯會公於遝。狄侵衛。 十有二月己丑，公及晉侯盟。公還自晉，鄭伯會公於棐。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0014",
+          "version": "sha256:3d1e480dca8eba43be9db1be6b3f316f9aa3bfd38f9d4287ee14f955a794fb17",
+          "text": "十有四年春王正月，公至自晉。邾人伐我南鄙，叔彭生帥師伐邾。 夏五月乙亥，齊侯潘卒。 六月，公會宋公、陳侯、衛侯、鄭伯、許男、曹伯、晉趙盾。 癸酉，同盟於新城。 秋七月，有星孛入於北斗。公至自會。晉人納捷菑於邾。弗克納。 九月甲申，公孫敖卒於齊。齊公子商人弑其君舍。宋子哀來奔。 冬，單伯如齊。齊人執單伯。齊人執子叔姬。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0015",
+          "version": "sha256:832d48d5d7a8d9ef5ac9214e6b612defd2532fcca98dd409215beb87e06870f5",
+          "text": "十有五年春，季孫行父如晉。 三月，宋司馬華孫來盟。夏，曹伯來朝。齊人歸公孫敖之喪。 六月辛丑朔，日有食之。鼓，用牲於社。單伯至自齊。晉郤缺帥師伐蔡。戊申，入蔡。齊人侵我西鄙。季孫行父如晉。 冬十有一月，諸侯盟於扈。 十有二月，齊人來歸子叔姬。齊侯侵我西鄙，遂伐曹，入其郛。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0016",
+          "version": "sha256:6820b89c1ca8cc2f05b6179f56b5fbc3838ee993ba7b6c1b40d5525a4224c982",
+          "text": "十有六年春，季孫行父會齊侯於陽谷，齊侯弗及盟。 夏五月，公四不視朔。 六月戊辰，公子遂及齊侯盟於郪丘。 秋八月辛未，夫人姜氏薨。毀泉臺。楚人、秦人、巴人滅庸。 冬十有一月，宋人弑其君杵臼。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0017",
+          "version": "sha256:1a5ae5166c0922d1bf6b7841567bc76cb5ab2aa504fb0c03b77e7863a3e0c3c6",
+          "text": "十有七年春，晉人、衛人、陳人、鄭人伐宋。 夏四月癸亥，葬我小君聲姜。齊侯伐我西鄙。 六月癸未，公及齊侯盟於谷。諸侯會於扈。 秋，公至自谷。 冬，公子遂如齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-7e331100e82052a6-0018",
+          "version": "sha256:286cd8b60e8291d174459ce57e33e9220afea483b9a504ee3d67b9e84b9ad834",
+          "text": "十有八年春王二月丁丑，公薨於臺下。秦伯犖卒。 夏五月戊戌，齊人弑其君商人。 六月癸酉，葬我君文公。 秋，公子遂、叔孫得臣如齊。 冬十月，子卒。夫人姜氏歸於齊。季孫行父如齊。莒弑其君庶其。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-95fc4db1bad77f78",
+      "number": 7,
+      "title": "宣公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978347",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0001",
+          "version": "sha256:add8b36673738c7a36506a52b737b591f18212d561c2b03e4106d4d8a325a686",
+          "text": "元年春王正月，公即位。公子遂如齊逆女。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0002",
+          "version": "sha256:e0fb1bcec3f9fd862a4ea74dd83e2b3a7f0f86852ee8ec1e8c615b4d20f2017e",
+          "text": "三月，遂以夫人婦姜至自齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0003",
+          "version": "sha256:1bcddde3f0fea52734aff4e85d9032aa2b52dd054b9acb39643e8221983c0e0a",
+          "text": "夏，季孫行父如齊。晉放其大夫胥甲父於衛。公會齊侯於平州。公子遂如齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0004",
+          "version": "sha256:1ab31034280ac32d96e19a60b216751f698dfc8c120708f36e6f72db1a4628bc",
+          "text": "六月，齊人取濟西田。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0005",
+          "version": "sha256:9b0ec6501323a79cc98869c5c748cfcc8e420052f3badb5d00e9972886392ef3",
+          "text": "秋，邾子來朝。楚子、鄭人侵陳，遂侵宋。晉趙盾帥師救陳。宋公、陳侯、衛侯、曹伯會晉師於棐林，伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0006",
+          "version": "sha256:f3d213972c3b7e047eb70b2c121d88a5794986af59a7da1c6d9433d3cb6e8fb6",
+          "text": "冬，晉趙穿帥師侵崇。晉人、宋人伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0007",
+          "version": "sha256:a7c87b00c5e9ab975a04da1fa60dca59609eb5906e3cb0a4aaad2fd6ed18fb46",
+          "text": "二年春王二月壬子，宋華元帥師及鄭公子歸生帥師，戰於大棘，宋師敗績，獲宋華元。秦師伐晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0008",
+          "version": "sha256:7a7c6b960ef777cd2cb1ad8c5b687bc9d4ba0f4f6fdc4070574295fee24e39fc",
+          "text": "夏，晉人、宋人、衛人、陳人侵鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0009",
+          "version": "sha256:52d6aa25cfbc48fcfcf319fdb7d988bcb393d13e52f52290a6c49d5e1b6ce8a6",
+          "text": "秋九月乙丑，晉趙盾弑其君夷皋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0010",
+          "version": "sha256:2b5bce56444d6463a6d95d41f9716674324482979966156aba892c8a162861d6",
+          "text": "冬十月乙亥，天王崩。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0011",
+          "version": "sha256:656ffc2570ff28a39ab0ca3ba6eb2c88bd6adb594fbd07849c9cd232505929f7",
+          "text": "三年春王正月，郊牛之口傷，改卜牛。牛死，乃不郊。猶三望。葬匡王。楚子伐陸渾之戎。夏，楚人侵鄭。秋，赤狄侵齊。宋師圍曹。冬十月丙戌。鄭伯蘭卒。葬鄭穆公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0012",
+          "version": "sha256:a7cae44c3307b720e740750bc5772fdd0876e95af29a750038691fd4940bef80",
+          "text": "四年春王正月，公及齊侯平莒及郯。莒人不肯。公伐莒，取向。秦伯稻卒。夏六月乙酉，鄭公子歸生弑其君夷。赤狄侵齊。秋，公如齊。公至自齊。冬，楚子伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0013",
+          "version": "sha256:fd77d409e7b0aeff023c893a6e8a992f2fe1a31e5892019ee5f4def2d44aa92f",
+          "text": "五年春，公如齊。夏，公至自齊。秋九月，齊高固來逆叔姬。叔孫得臣卒。冬，齊高固及子叔姬來。楚人伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0014",
+          "version": "sha256:14cce1f457b5fadaa52d2137eab244a55414b1d70b974ec793f09b299abd25ae",
+          "text": "六年春，晉趙盾、衛孫免侵陳。夏四月。秋八月，螽。冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0015",
+          "version": "sha256:369081e514a0777dafc2d4a21ba9a8f56df0549cc78f8863369fdb5ecc7e61c8",
+          "text": "七年春，衛侯使孫良夫來盟。夏，公會齊侯伐萊。秋，公至自伐萊。大旱。冬，公會晉侯、宋公、衛侯、鄭伯、曹伯於黑壤。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0016",
+          "version": "sha256:f01c39f0109b7cc5d7d0b8eb5fc5614c9a6bfb8f8e588ffc991bdb1e229b3db0",
+          "text": "八年春，公至自會。夏六月，公子遂如齊，至黃乃複。辛巳，有事於大廟，仲遂卒於垂。壬午，猶繹。萬入，去籥。戊子，夫人贏氏薨。晉師、白狄伐秦。楚人滅舒蓼。秋七月甲子，日有食之，既。冬十月己丑，葬我小君敬贏。雨，不克葬。庚寅，日中而克葬。城平陽。楚師伐陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0017",
+          "version": "sha256:183a6a2195bc5ffa9ea7d9881ab61d3ace421315e96920cd6c8c4662010ec602",
+          "text": "九年春王正月，公如齊。公至自齊。夏，仲孫蔑如京師。齊侯伐萊。秋，取根牟。八月，滕子卒。九月，晉侯、宋公、衛侯、鄭伯、曹伯會於扈。晉荀林父帥師伐陳。辛酉，晉侯黑臀卒於扈。冬十月癸酉，衛侯鄭卒。宋人圍滕。楚子伐鄭。晉郤缺帥師救鄭。陳殺其大夫洩冶。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0018",
+          "version": "sha256:6cf17e015f7f710c11977e7806bd57e39518bb1609a114c058bd20b0444b1960",
+          "text": "十年春，公如齊。公至自齊。齊人歸我濟西田。夏四月丙辰，日有食之。己巳，齊侯元卒。齊崔氏出奔衛。公如齊。五月，公至自齊。癸巳，陳夏征舒弑其君平國。六月，宋師伐滕。公孫歸父如齊，葬齊惠公。晉人、宋人、衛人、曹人伐鄭。秋，天王使王季子來聘。公孫歸父帥師伐邾，取繹。大水。季孫行父如齊。冬，公孫歸父如齊。齊侯使國佐來聘。饑。楚子伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0019",
+          "version": "sha256:9e55a1884d89ded0e38b5d27ebf598dc1637b124227c41c15b318a70f1e5d1c9",
+          "text": "十有一年春王正月。夏，楚子、陳侯、鄭伯盟於辰陵。公孫歸父會齊人伐莒。秋，晉侯會狄於欑函。冬十月，楚人殺陳夏征舒。丁亥，楚子入陳。納公孫甯、儀行父於陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0020",
+          "version": "sha256:381eca67706944fbed6318de396aa18d6c75a5761d591734cbf6940e01d4f4f3",
+          "text": "十有二年春，葬陳靈公。楚子圍鄭。夏六月乙卯，晉荀林父帥師及楚子戰於邲，晉師敗績。秋七月。冬十有二月戊寅，楚子滅蕭。晉人、宋人、衛人、曹人同盟於清丘。宋師伐陳。衛人救陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0021",
+          "version": "sha256:e494bf065b0af9981fb9b5dacb3d2ff160f274cf07e992473e6889afb4e3d820",
+          "text": "十有三年春，齊師伐莒。夏，楚子伐宋。秋，螽。冬，晉殺其大夫先縠。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0022",
+          "version": "sha256:338aa0cba83ca8e0d9f407a9c0c67fe384b7c72702c5a00db55e4cb7b8cb2c78",
+          "text": "十有四年春，衛殺其大夫孔達。夏五月壬申，曹伯壽卒。晉侯伐鄭。秋九月，楚子圍宋。葬曹文公。冬，公孫歸父會齊侯於谷。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0023",
+          "version": "sha256:658262ad8a6b3884d433e5096a0896a160675c1f1ad836f8e9ce52112f2ce56d",
+          "text": "十有五年春，公孫歸父會楚子於宋。夏五月，宋人及楚人平。六月癸卯，晉師滅赤狄潞氏，以潞子嬰兒歸。秦人伐晉。王劄子殺召伯、毛伯。秋，螽。仲孫蔑會齊高固於無婁。初稅畝。冬，蝝生。饑。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0024",
+          "version": "sha256:b46d18c09373a1cd5e98f993709b33d9a6fb775b8b93dc28f9719aa6a984ae42",
+          "text": "十有六年春王正月。晉人滅赤狄甲氏及留籲。夏，成周宣榭火。秋，郯伯姬來歸。冬，大有年。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0025",
+          "version": "sha256:2891df05efc24d2f7da2aa3e1097555d6abb77c2e63781af955551f4e67c71da",
+          "text": "十有七年春王正月庚子，許男錫我卒。丁未，蔡侯申卒。夏，葬許昭公。葬蔡文公。六月癸卯，日有食之。己未，公會晉侯、衛侯、曹伯、邾子同盟於斷道。秋，公至自會。冬十有一月壬午，公弟叔肸卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-95fc4db1bad77f78-0026",
+          "version": "sha256:191dcfc6a7b35f1297817e1ed9d8dd004bf49e9db648eecf8fc3de6aa6ed3f07",
+          "text": "十有八年春，晉侯、衛世子臧伐齊。公伐杞。夏四月。秋七月，邾人伐鄫子於鄫。甲戌，楚子旅卒。公孫歸父如晉。冬十月壬戌，公薨於路寢。歸父還自晉，至笙。遂奔齊。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-30b44684414d4601",
+      "number": 8,
+      "title": "成公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=9458629",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-30b44684414d4601-0001",
+          "version": "sha256:b8befb1d3b4528bdebd693e7235c81b2faed4e7ba9107923a8f654c12ea7dfa6",
+          "text": "元年春王正月，公即位。二月辛酉，葬我君宣公。無冰。三月，作丘甲。夏，臧孫許及晉侯盟於赤棘。秋，王師敗績於茅戎。冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0002",
+          "version": "sha256:525a62f166be3a79a8f748925ed8fde4c2fa1b827d939c911adc1783e3c8f06b",
+          "text": "二年春，齊侯伐我北鄙。夏四月丙戌，衛孫良夫帥師及齊師戰於新築，衛師敗績。六月癸酉，季孫行父、臧孫許、叔孫僑如、公孫嬰齊帥師會晉郤克、衛孫良夫、曹公子首及齊侯戰於鞍，齊師敗績。秋七月，齊侯使國佐如師。己酉，及國佐盟於袁婁。八月壬卒。宋公鮑卒。庚寅，衛侯速卒。取汶陽田。冬，楚師、鄭師侵衛。十有一月，公會楚公子嬰齊於蜀。丙申，公及楚人、秦人、宋人、陳人、衛人、鄭人、齊人、曹人、邾人、薛人、鄫人盟於蜀。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0003",
+          "version": "sha256:9dc7169b96792c043543635dfe78c26bcaf01f686d7bff3d9b989d1f207363fb",
+          "text": "三年春王正月，公會晉侯、宋公、衛侯、曹伯伐鄭。辛亥，葬衛穆公。二月，公至自伐鄭。甲子，新宮災。三日哭。乙亥，葬宋文公。夏，公如晉。鄭公子去疾帥師伐許。公至自晉。秋，叔孫僑如帥師圍棘。大雩。晉郤克、衛孫良夫伐嗇咎如。冬十有一月，晉侯使荀庚來聘。衛侯使孫良夫來聘。丙午，及荀庚盟。丁未，及孫良夫盟。鄭伐許。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0004",
+          "version": "sha256:6e345e16cb1f3b895dfc15d34a33c5515b17c6a7ce0e5be99ab3aa16868dd5fc",
+          "text": "四年春，宋公使華元來聘。三月壬申，鄭伯堅卒。杞伯來朝。夏四月甲寅，臧孫許卒。公如晉。葬鄭襄公。秋，公至自晉。冬，城鄆。鄭伯伐許。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0005",
+          "version": "sha256:e1e11b8acc2fa0bc29296158b6531277efd3e07d94f76b295e7d5c0682459aae",
+          "text": "五年春王正月，杞叔姬來歸。仲孫蔑如宋。夏，叔孫僑如會晉荀首於谷。梁山崩。秋，大水。冬十有一月己酉，天王崩。十有二月己丑，公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、邾子、杞伯同盟於蟲牢。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0006",
+          "version": "sha256:b003d01c5076e815ed7ed5fe6f988c8e29e241f9ec5a2ca7cc9794ef2dcbc65b",
+          "text": "六年春王正月，公至自會。二月辛巳，立武宮。取鄟。衛孫良夫帥師侵宋。夏六月，邾子來朝。公孫嬰齊如晉。壬申，鄭伯費卒。秋，仲孫蔑、叔孫僑如帥師侵宋。楚公子嬰齊帥師伐鄭。冬，季孫行父如晉。晉欒書帥師救鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0007",
+          "version": "sha256:0ed101bdad76a6d82c1c1a94a37853f9fdeaf066099664c7df962e92e2cd8782",
+          "text": "七年春王正月，鼷鼠食郊牛角，改卜牛。鼷鼠又食其角，乃免牛。吳伐郯。夏五月，曹伯來朝。不郊，猶三望。秋，楚公子嬰齊帥師伐鄭。公會晉侯、齊侯、宋公、衛侯、曹伯、莒子、邾子、杞伯救鄭。八月戊辰，同盟於馬陵。公至自會。吳入州來。冬，大雩。衛孫林父出奔晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0008",
+          "version": "sha256:a4cfd3845094062ead8eb26420af5e7531de34bc3833f0bf959e295b21f4e508",
+          "text": "八年春，晉侯使韓穿來言汶陽之田，歸之於齊。晉欒書帥師侵蔡。公孫嬰齊如莒。宋公使華元來聘。夏，宋公使公孫壽來納幣。晉殺其大夫趙同、趙括。秋七月，天子使召伯來賜公命。冬十月癸卯，杞叔姬卒。晉侯使士燮來聘。叔孫僑如會晉士燮、齊人、邾人代郯。衛人來媵。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0009",
+          "version": "sha256:f362758ff69d91cab9924a0347cb772671a346c627f38dd93cd83c232e6df832",
+          "text": "九年春王正月，杞伯來逆叔姬之喪以歸。公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、杞伯，同盟於蒲。公至自會。二月伯姬歸於宋。夏，季孫行父如宋致女。晉人來媵。秋七月丙子，齊侯無野卒。晉人執鄭伯。晉欒書帥師伐鄭。冬十有一月，葬齊頃公。楚公子嬰齊帥師伐莒。庚申，莒潰。楚人入鄆。秦人、白狄伐晉。鄭人圍許。城中城。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0010",
+          "version": "sha256:9e6a8c6a90296b755fa926b68ed7a24aed5c912d53435629c65fab587fb0fcec",
+          "text": "十年春，衛侯之弟黑背帥師侵鄭。夏四月，五蔔郊，不從，乃不郊。五月，公會晉侯、齊侯、宋公、衛侯、曹伯伐鄭。齊人來媵。丙午，晉侯獳卒。秋七月，公如晉。冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0011",
+          "version": "sha256:c92ac0fe1b5e80e25b2cf4802f9f1e3e826f34086c93c73aecbc73c563b9e5bc",
+          "text": "十有一年春王三月，公至自晉。晉侯使郤犨來聘，己丑，及郤犨盟。夏，季孫行父如晉。秋，叔孫僑如如齊。冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0012",
+          "version": "sha256:d0a898bde8f2d780c9adf042a6074f961503ba5502e48b0d437bb9c0a44103e5",
+          "text": "十有二年春，周公出奔晋。夏，公会晋侯、卫侯於琐泽。秋，晋人败狄於交刚。冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0013",
+          "version": "sha256:6d05215624864bec34b7fe822a073e2a7608effb58a7dd40c666bed46f765523",
+          "text": "十有三年春，晋侯使郤锜来乞师。三月，公如京师。夏五月，公自京师，遂会晋侯、齐侯、宋公、卫侯、郑伯、曹伯、邾人、滕人伐秦。曹伯卢卒於师。秋七月，公至自伐秦。冬，葬曹宣公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0014",
+          "version": "sha256:85de406d47120a35a2dfd81de6f795dbb7b85eb131ba219f4e09d29a291fd205",
+          "text": "十有四年春王正月，莒子朱卒。夏，卫孙林父自晋归於卫。秋，叔孙侨如如齐逆女。郑公子喜帅师伐许。九月，侨如以夫人妇姜氏至自齐。冬十月庚寅，卫侯臧卒。秦伯卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0015",
+          "version": "sha256:036d2a94eb43b81d9a0e40322e431da99cda5a97f58602b53852d3c31ee4da8b",
+          "text": "十有五年春王二月，葬卫定公。三月乙巳，仲婴齐卒。癸丑，公会晋侯、卫侯、郑伯、曹伯、宋世子成、齐国佐，邾人同盟於戚。晋侯执曹伯归於京师。公至自会。夏六月，宋公固卒。楚子伐郑。秋八月庚辰，葬宋共公。宋华元出奔晋。宋华元自晋归於宋。宋杀其大夫山。宋鱼石出奔楚。冬十有一月，叔孙侨如会晋士燮、齐高无咎、宋华元、卫孙林父、郑公子鰌、邾人会吴於钟离。许迁於叶。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0016",
+          "version": "sha256:52123bd2cc77ea6a2d9b624e01bc315ad34f0df3d086690233d5fed9b78d7470",
+          "text": "十有六年春王正月，雨，木冰。夏四月辛未，滕子卒。郑公子喜帅师侵宋。六月丙寅朔，日有食之。晋侯使栾黡来乞师。甲午晦，晋侯及楚子、郑伯战於鄢陵。楚子、郑师败绩。楚杀其大夫公子侧。秋，公会晋侯、齐侯、卫侯、宋华元、邾人於沙随，不见公。公至自会。公会尹子、晋侯、齐国佐、邾人伐郑。曹伯归自京师。九月，晋人执季孙行父，舍之於苕丘。冬十月乙亥，叔孙侨如出奔齐。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0017",
+          "version": "sha256:bb5e1959592287f56c8f44fba4d022981f681b467ec351d77df196aef6e5fddf",
+          "text": "十有七年春，卫北宫括帅师侵郑。夏，公会尹子、单子、晋侯、齐侯、宋公、卫侯、曹伯、邾人伐郑。六月乙酋，同盟於柯陵。秋，公至自会。齐高无咎出奔莒。九月辛丑，用郊。晋侯使荀罃来乞师。冬，公会单子、晋侯、宋公、卫侯、曹伯、齐人、邾人伐郑。十有一月，公至自伐郑。壬申，公孙婴卒於貍脤。十有二月丁巳朔，日有食之。邾子玃且卒。晋杀其大夫郤锜、郤犨、郤至。楚人灭舒庸。二月乙丑，季孙行父及晋郤犨盟於扈。公至自会。乙酉，刺公子偃。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-30b44684414d4601-0018",
+          "version": "sha256:f419155ac79fcbc2d6e68176933ee3b07711b246a3185098554b433f3cd57e8a",
+          "text": "十有八年春王正月，晋杀其大夫胥童。庚申，晋弑其君州蒲。齐杀其大夫国佐。公如晋。夏，楚子、郑伯伐宋。宋鱼石复入於彭城。公至自晋。晋侯使士匄来聘。秋，杞伯来朝。八月，邾子来朝，筑鹿囿。己丑，公薨於路寝。冬，楚人、郑人侵宋。晋侯使士鲂来乞师。十有二月，仲孙蔑会晋侯、宋公、卫侯、邾子、齐崔杼同盟於虚朾。丁未，葬我君成公。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-43c90b668932395e",
+      "number": 9,
+      "title": "襄公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978350",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-43c90b668932395e-0001",
+          "version": "sha256:f18a2c719841847b6e4e9205d387b6a23f83740531569e7b0dde384de3b6ee18",
+          "text": "元年春王正月，公即位。仲孫蔑會晉欒黶、宋華元、衛甯殖、曹人、莒人、邾人、滕人、薛人圍宋彭城。夏，晉韓厥帥師伐鄭，仲孫蔑會齊崔杼、曹人、邾人、杞人次於鄫。秋，楚公子壬夫帥師侵宋。九月辛酉，天王崩。邾子來朝。冬，衛侯使公孫剽來聘。晉侯使荀罃來聘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0002",
+          "version": "sha256:c842693c044a8e844990ad05c101318868423b3ca302a979dcde9a4875ed1c6e",
+          "text": "二年春王正月，葬簡王。鄭師伐宋。夏五月庚寅，夫人姜氏薨。六月庚辰，鄭伯侖卒。晉師、宋師、衛甯殖侵鄭。秋七月，仲孫蔑會晉荀罃、宋華元、衛孫林父、曹人、邾人於戚。己丑，葬我小君齊姜。叔孫豹如宋。冬，仲孫蔑會晉荀罃、齊崔杼、宋華元、衛孫林父、曹人、邾人、滕人、薛人、小邾人於戚，遂城虎牢。楚殺其大夫公子申。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0003",
+          "version": "sha256:33f62471d5d6c50e4759b93698a00a514e384719e69bfe75c4fd868dde4b177c",
+          "text": "三年春，楚公子嬰齊帥師伐吳。公如晉。夏四月壬戌，公及晉侯盟於長樗。公至自晉。六月，公會單子、晉侯、宋公、衛侯、鄭伯、莒子、邾子、齊世子光。己未，同盟於雞澤。陳侯使袁僑如會。戊寅，叔孫豹及諸侯之大夫及陳袁僑盟。秋，公至自會。冬，晉荀罃帥師伐許。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0004",
+          "version": "sha256:b94e45cb0b4cfd2d285deea061b69cb3f793eb1aa5a1277118794c3c337e1c08",
+          "text": "四年春王三月己酉，陳侯午卒。夏，叔孫豹如晉。秋七月戊子，夫人姒氏薨。葬陳成公。八月辛亥，葬我小君定姒。冬，公如晉。陳人圍頓。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0005",
+          "version": "sha256:7c2f47915fd41766659f2458263e39cf7dfe90fa5f8beb57ad04283f6452cd89",
+          "text": "五年春，公至自晉。夏，鄭伯使公子發來聘。叔孫豹、鄫世子巫如晉。仲孫蔑、衛孫林父子會吳於善道。秋，大雩。楚殺其大夫公子壬夫。公會晉侯、宋公、陳侯、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、齊世子光、吳人、鄫人於戚。公至自會。冬，戍陳。楚公子貞帥師伐陳。公會晉侯、宋公、衛侯、鄭伯、曹伯、齊世子光救陳。十有二月，公至自救陳。辛未，季孫行父卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0006",
+          "version": "sha256:2e7edd1232abd9a62b8f3ad75d3aaf8db57285cb57bd5820a15abf0c1745d204",
+          "text": "六年春王三月，壬午，杞伯姑容卒。夏，宋華弱來奔。秋，杞葬桓公。滕子來朝。莒人滅鄫。冬，叔孫豹如邾，季孫宿如晉。十有二月，齊侯滅萊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0007",
+          "version": "sha256:56cc69c45cf1086ba2d87afab6065610c5f4ee3d19009558fa1c98de9da00477",
+          "text": "七年春，郯子來朝。夏四月，三蔔郊，不從，乃免牲。小邾子來朝。城費。秋，季孫宿如衛。八月，螽。冬十月，衛侯使孫林父來聘。壬戌，及孫林父盟。楚公子貞帥師圍陳。十有二月，公會晉侯、宋公、陳侯、衛侯、曹伯、莒子、邾子於鄬。鄭伯髡頑如會，未見諸侯，丙戌，卒於鄵。陳侯逃歸。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0008",
+          "version": "sha256:7391f2031a4b3d25d6b670c21476fdaf72bf4a75988c29e79c097a91fd10cb89",
+          "text": "八年春王正月，公如晉。夏，葬鄭僖公。鄭人侵蔡，獲蔡公子燮。季孫宿會晉侯、鄭伯、齊人、宋人、衛人、邾人於邢丘。公至自晉。莒人伐我東鄙。秋九月，大雩。冬，楚公子貞帥師伐鄭。晉侯使士匄來聘。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0009",
+          "version": "sha256:0f7075a823cdb81474b67ee4d989da6707aca7437c642e0f7365f3f9a37cc284",
+          "text": "九年春，宋災。夏，季孫宿如晉。五月辛酉，夫人姜氏薨。秋八月癸未，葬我小君穆姜。冬，公會晉侯、宋公、衛侯、曹伯、莒子、邾子、滕子、薛伯、杞伯，小邾子、齊世子光伐鄭。十有二月己亥，同盟於戲。楚子伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0010",
+          "version": "sha256:1f5254c2a1bb3502743cfd44924d6b2723cd107aab53eba7ec92f45a9ade22b6",
+          "text": "十年春，公會晉侯、宋公、衛侯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子、齊世子光會吳於柤。夏，五月甲午，遂滅偪陽。公至自會。楚公子貞、鄭公孫輒帥師伐宋。晉師伐秦。秋，莒人伐我東鄙。公會晉侯、宋公、衛侯、曹伯、莒子、邾子、齊世子光、滕子、薛伯、杞伯、小邾子伐鄭。冬，盜殺鄭公子騑、公子發、公孫輒。戍鄭虎牢。楚公子貞帥師救鄭。公至自伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0011",
+          "version": "sha256:3853d2004eb1ee3d4518f4e1fc9af94c2b121a27edeef8dbd0a0342ac9034386",
+          "text": "十有一年春王正月，作三軍。夏四月，四蔔郊，不從，乃不郊。鄭公孫舍之帥師侵宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭。秋七月己未，同盟於亳城北。公至自伐鄭。楚子、鄭伯伐宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭，會於蕭魚。公至自會。楚執鄭行人良霄。冬，秦人伐晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0012",
+          "version": "sha256:ffb0db5f122cff4ef23fe9815ced0798387d88053e2a05f7d8e52bd1bd2aec68",
+          "text": "十有二年春王二月，莒人伐我東鄙，圍臺。季孫宿帥師救臺，遂入鄆。夏，晉侯使士魴來聘。秋九月，吳子乘卒。冬，楚公子貞帥師侵宋。公如晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0013",
+          "version": "sha256:77c29f345f7cc926dc453996f1765eef0c5d378c46c6099fde63ae011dc2f203",
+          "text": "十有三年春，公至自晉。夏，取邿。秋九月庚辰，楚子審卒。冬，城防。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0014",
+          "version": "sha256:e90a3e7f20a6c8ac0e3c73ef6979a8e1d2524d0057d7a6aa5b751d0af029e49a",
+          "text": "十有四年春王正月，季孫宿、叔老會晉士匄、齊人、宋人、衛人、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人會吳於向。二月乙朔，日有食之。夏四月，叔孫豹會晉荀偃、齊人、宋人、衛北宮括、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人伐秦。己未，衛侯出奔齊。莒人侵我東鄙。秋，楚公子貞帥師伐吳。冬，季孫宿會晉士匄、宋華閱、衛孫林父、鄭公孫蠆、莒人、邾人於戚。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0015",
+          "version": "sha256:9a34413735f3d2e93d87415b53652d80d09670fdaa46c92f961ea1e36a5f46f6",
+          "text": "十有五年春，宋公使向戌來聘。二月己亥，及向戌盟於劉。劉夏逆王后於齊。夏，齊侯伐我北鄙，圍成。公救成，至遇。季孫宿、叔孫豹帥師城成郛。秋八月丁巳，日有食之。邾人伐我南鄙。冬十有一月癸亥，晉侯周卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0016",
+          "version": "sha256:2f1d204fe63b97ba14e3cdad72d3f70c7cab82c16f879cea089a2c58741a8572",
+          "text": "十有六年春王正月，葬晉悼公。三月，公會晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、薛伯、杞伯、小邾子，於湨梁。戊寅，大夫盟。晉人執莒子、邾子以歸。齊侯伐我北鄙。夏，公至自會。五月甲子，地震。叔老會鄭伯、晉荀偃、衛甯殖、宋人伐許。秋，齊侯伐我北鄙，圍郕。大雩。冬，叔孫豹如晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0017",
+          "version": "sha256:d0bd5603481ed67fba9b2c11f6774d67c380f199e867e146a634d78b998b71fc",
+          "text": "十有七年春王二月庚午，邾子卒。宋人伐陳。夏，衛石買帥師伐曹。秋，齊侯伐我北鄙，圍桃。高厚帥師伐我北鄙，圍防。九月，大雩。宋華臣出奔陳。冬，邾人伐我南鄙。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0018",
+          "version": "sha256:bfe89e13fd9c94c7aae46611de2d396771d8c8278a54ed94e7693d9a7138deb6",
+          "text": "十有八年春，白狄來。夏，晉人執衛行人石買。秋，齊師伐我北鄙。冬十月，公會晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子同圍齊。曹伯負芻卒於師。楚公子午帥師伐鄭。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0019",
+          "version": "sha256:53481869339a0011efff2fb4ecffbc21b117912404ed8e3d4b006af9fb0227b4",
+          "text": "十有九年春王正月，諸侯盟於祝柯。晉人執邾子，公至自伐齊。取邾田，自漷水。季孫宿如晉。葬曹成公。夏，衛孫林父帥師伐齊。秋七月辛卯，齊侯環卒。晉士匄帥師侵齊，至谷，聞齊侯卒，乃還。八月丙辰，仲孫蔑卒。齊殺其大夫高厚。鄭殺其大夫公子嘉。冬，葬齊靈公。城西郛。叔孫豹會晉士匄於柯。城武城。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0020",
+          "version": "sha256:9a93854e8179fe95bb5630b4106492f9150c16a3d4b72b0c3023b51fa99123fb",
+          "text": "二十年春王正月辛亥，仲孫速會莒人盟於向。夏六月庚申，公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯，小邾子盟於澶淵。秋，公至自會。仲孫速帥師伐邾。蔡殺其大夫公子燮。蔡公子履出奔楚。陳侯之弟黃出奔楚。叔老如齊。冬十月丙辰朔，日有食之。季孫宿如宋。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0021",
+          "version": "sha256:951e46b7686ae0440532288f97a0c0590e4d3b985a63ef562bf1b077793c24ca",
+          "text": "二十有一年春王正月，公如晉。邾庶其以漆、閭丘來奔。夏，公至自晉。秋，晉盈出奔楚。九月庚戌朔，日有食之。冬十月庚辰朔，日有食之。曹伯來朝。公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子於商任。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0022",
+          "version": "sha256:5d3e6ce16dfd10cf0f95be091d2bd0a0f3d4508962873f0e5bc4d86e5df3fc72",
+          "text": "二十有二年春王正月，公至自會。夏四月。秋七月辛酉，叔老卒。冬，公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、薛伯、杞伯、小邾子於沙隨。公至自會。楚殺其大夫公子追舒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0023",
+          "version": "sha256:eeaa713fa8b4cc457c2836bf74be183504001de3962c9f580a56ee068e7ef63f",
+          "text": "二十有三年春王二月癸酉朔，日有食之。三月己巳，杞伯匄卒。夏，邾畀我來奔。葬杞孝公。陳殺其大夫慶虎及慶寅。陳侯之弟黃自楚歸於陳。晉欒盈複入於晉，入於曲沃。秋，齊侯伐衛，遂伐晉。八月，叔孫豹帥師救晉，次於雍榆。己卯，仲孫速卒。冬十月乙亥，臧孫紇出奔邾。晉人殺欒盈。齊侯襲莒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0024",
+          "version": "sha256:cb2adff3fc7f21ff33dffb7c9eb644a2648f1355e4e28aefa8212275301cc3cd",
+          "text": "二十有四年春，叔孫豹如晉。仲孫羯帥師侵齊。夏，楚子伐吳。秋七月甲子朔，日有食之，既。齊崔杼帥師伐莒。大水。八月癸巳朔，日有食之。公會晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子於夷儀。冬，楚子、蔡侯、陳侯、許男伐鄭。公至自會。陳鍼宜咎出奔楚。叔孫豹如京師。大饑。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0025",
+          "version": "sha256:b7eff66b7247f495d771fbcebf38173666ec4c8f01444e595798dad60a1b07a9",
+          "text": "二十有五年春，齊崔杼帥師伐我北鄙。夏五月乙亥，齊崔杼弑其君光。公會晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子於夷儀。六月壬子，鄭公孫舍之帥師入陳。秋八月己巳，諸侯同盟於重丘。公至自會。衛侯入於夷儀。楚屈建帥師滅舒鳩。冬，鄭公孫夏帥師伐陳。十有二月，吳子遏伐楚，門於巢，卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0026",
+          "version": "sha256:584d229b8b34899dffa8985defe3554b56a9f42f02edc07b69ea7e3fdcde3d67",
+          "text": "二十有六年春王二月辛卯，衛寧喜弑其君剽。衛孫林父入於戚以叛。甲午，衛侯衎複歸於衛。夏，晉侯使荀吳來聘。公會晉人、鄭良霄、宋人、曹人於澶淵。秋，宋公殺其世子痤。晉人執衛寧喜。八月壬午，許男甯卒於楚。冬，楚子、蔡侯、陳侯伐鄭。葬許靈公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0027",
+          "version": "sha256:2f5e53f32e451b6b8d6cae53f787405789aa9c9b8e1b95f5be5034338fda6e6c",
+          "text": "二十有七春，齊侯使慶封聘。夏，叔孫豹會晉趙武、楚屈建、蔡公孫歸生、衛石惡、陳孔奐、鄭良霄、許人、曹人於宋。衛殺其大夫甯喜。衛侯之弟鱄出奔晉。秋七月辛巳，豹及諸侯之大夫盟於宋。冬十有二月乙卯朔，日有食之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0028",
+          "version": "sha256:20cbddaf016fbe08d0bfc00280508a84d1189d0f58f195999eba1364da2c5d01",
+          "text": "二十有八年春，無冰。夏，衛石惡出奔晉。邾子來朝。秋八月，大雩。仲孫羯如晉。冬，齊慶封來奔。十有一月，公如楚。十有二月甲寅，天王崩。乙未，楚子昭卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0029",
+          "version": "sha256:752f60aa9d609e238d48bbb3afae836daa2ddaad467c277f53ac550f120d7ba8",
+          "text": "二十有九年春王正月，公在楚。夏五月，公至自楚。庚午，衛侯衎卒，閽弑吳子餘祭。仲孫羯會晉荀盈、齊高止、宋華定、衛世叔儀、鄭公孫段、曹人、莒人、滕子、薛人、小邾人城杞。晉侯使士鞅來聘。杞子來盟。吳子使劄來聘。秋九月，葬衛獻公。齊高止出奔北燕。冬，仲孫羯如晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0030",
+          "version": "sha256:66a26471c4e8b1db892419b5b405c1de894a408f4cf8ec46365234311c62817c",
+          "text": "三十年春王正月，楚子使薳罷來聘。夏四月，蔡世子般弑其君固。五月甲午。宋災。宋伯姬卒。天王殺其弟佞夫。王子瑕奔晉。秋七月，叔弓如宋，葬宋共姬。鄭良霄出奔許，自許入於鄭，鄭人殺良霄。冬十月，葬蔡景公。晉人、齊人、宋人、衛人、鄭人、曹人、莒人、邾人、滕子、薛人、杞人、小邾人會於澶淵，宋災故。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-43c90b668932395e-0031",
+          "version": "sha256:4a739f268023f7b9b5c98c5c277120942a1811c86850272bf1a03c2086547a23",
+          "text": "三十有一年春王正月。夏六月辛巳，公薨於楚宮。秋九月癸巳，子野卒。己亥，仲孫羯卒。冬十月，滕子來會葬。癸酉，葬我君襄公。十有一月，莒人殺其君密州。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-3dc038df39036699",
+      "number": 10,
+      "title": "昭公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978358",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-3dc038df39036699-0001",
+          "version": "sha256:56eb491154ed65242658536e732d57cb2820ff8092fd42f6282f1e1e13a923e0",
+          "text": "元年春王正月，公即位。叔孫豹會晉趙武、楚公子圍、齊國弱、宋向戌、衛齊惡、陳公子招、蔡公孫歸生、鄭罕虎、許人、曹人於虢。三月，取鄆。夏，秦伯之弟鍼出奔晉。六月丁巳，邾子華卒。晉荀吳帥師敗狄於大鹵。秋，莒去疾自齊入於莒。莒展輿出奔吳。叔弓帥師疆鄆田。葬邾悼公。冬十有一月己酉，楚子麇卒。公子比出奔晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0002",
+          "version": "sha256:c72bf4b5438e64657145c53c718ce0f19d9d99d6782a170b6b203cd274757291",
+          "text": "二年春，晉侯使韓起來聘。夏，叔弓如晉。秋，鄭殺其大夫公孫黑。冬，公如晉，至河乃複。季孫宿如晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0003",
+          "version": "sha256:bc119a02b6f69840c87ce22fcabb009c8a7f0905a88e978eab47f0335170846b",
+          "text": "三年春王正月丁未，滕子原卒。夏，叔弓如滕。五月，葬滕成公。秋，小邾子來朝。八月，大雩。冬，大雨雹。北燕伯款出奔齊。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0004",
+          "version": "sha256:abd66124090d2ac2935dc3de56684c1be93c677001fbd500a5cc4af407889401",
+          "text": "四年春王正月，大雨雹。夏，楚子、蔡侯、陳侯、鄭伯、許男、徐子、滕子、頓子、胡子、沈子、小邾子、宋世子佐、淮夷會於申。楚子執徐子。秋七月，楚子、蔡侯、陳侯、許男、頓子、胡子、沈子、淮夷伐吳，執齊慶封，殺之。遂滅賴。九月，取鄫。冬十有二月乙卯，叔孫豹卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0005",
+          "version": "sha256:57fef69085a0b0c64ec48d3a8efa7fc0e71015875877399236ed273a178717aa",
+          "text": "五年春王正月，舍中軍。楚殺其大夫屈申。公如晉。夏，莒牟夷以牟婁及防、茲來奔。秋七月，公至自晉。戊辰，叔弓帥師敗莒師於蚡泉。秦伯卒。冬，楚子、蔡侯、陳侯、許男、頓子、沈子、徐人、越人伐吳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0006",
+          "version": "sha256:efde0a0b317dc988bb0e7a3dd9b176912df31c0cdbd8db63b0d86357655c5541",
+          "text": "六年春王正月，杞伯益姑卒。葬秦景公。夏，季孫宿如晉。葬杞文公。宋華合比出奔衛。秋九月，大雩。楚薳罷帥師伐吳。冬，叔弓如楚。齊侯伐北燕。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0007",
+          "version": "sha256:8214f21c94b29988a4746b96a336203bef75ac9c560c0fa0542a2cb39249be04",
+          "text": "七年春王正月，暨齊平。三月，公如楚。叔孫婼如齊蒞盟。夏四月甲辰朔，日有食之。秋八月戊辰，衛侯惡卒。九月，公至自楚。冬十有一月癸未，季孫宿卒。十有二月癸亥，葬衛襄公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0008",
+          "version": "sha256:cb13a5d2bdd76bd60b1ca623b64c4ce366fded69d144d40505e5d928ffbf3d58",
+          "text": "八年春，陳侯之弟招殺陳世子偃師。夏四月辛丑，陳侯溺卒。叔弓如晉。楚人執陳行人幹征師殺之。陳公子留出奔鄭。秋，蒐於紅。陳人殺其大夫公子過。大雩，冬十月壬午，楚師滅陳。執陳公子招，放之於越。殺陳孔奐。葬陳哀公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0009",
+          "version": "sha256:c7a8df4bdc70948cab0083bacb6f3b8784133e99d3e523a2688bb1252c0cfae8",
+          "text": "九年春，叔弓會楚子於陳。許遷於夷。夏四月，陳災。秋，仲孫玃如齊。冬，築郎囿。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0010",
+          "version": "sha256:39481fe0a5f1434d8743fc6c68eecc66980eca7987a925ffac5a9e9b57b3bdfa",
+          "text": "十年春王正月。夏，齊欒施來奔。秋七月，季孫意如、叔弓、仲孫玃帥師伐莒。戊子，晉侯彪卒。九月，叔孫婼如晉，葬晉平公。十有二月甲子，宋公成卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0011",
+          "version": "sha256:7a0c57829b9166c3483307807fce6cd50397e2d4f2f01cb03fc02dd8ea80bd45",
+          "text": "十有一年春王二月，叔弓如宋。葬宋平公。夏四月丁巳，楚子虔誘蔡侯般，殺之於申。楚公子棄疾帥師圍蔡。五月甲申，夫人歸氏薨。大蒐於比蒲。仲孫玃會邾子，盟於祲祥。秋，季孫意如會晉韓起、齊國弱、宋華亥、衛北宮佗、鄭罕虎、曹人、杞人於厥憖。九月己亥，葬我小君齊歸。冬十有一月丁酉，楚師滅蔡，執蔡世子有以歸，用之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0012",
+          "version": "sha256:fcdc3b3696caf37da385b2bc1106d310b28bd5782bfe0d7d1298c628e735a84f",
+          "text": "十有二年春，齊高偃帥師納北燕伯於陽。三月壬申，鄭伯嘉卒。夏，宋公使華定來聘。公如晉，至河乃複。五月，葬鄭簡公。楚殺其大夫成熊。秋七月。冬十月，公子憖出奔齊。楚子伐徐。晉伐鮮虞。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0013",
+          "version": "sha256:98b91812010048b492a73f021ff1fd194e2e9f9c4988de4def62103f3eade34d",
+          "text": "十有三年春，叔弓帥師圍費。夏四月，楚公子比自晉歸於楚，殺其君虔於乾溪。楚公子棄疾殺公子比。秋，公會劉子、晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子於平丘。八月甲戌，同盟於平丘。公不與盟。晉人執季孫意如以歸。公至自會。蔡侯廬歸於蔡。陳侯吳歸於陳。冬十月，葬蔡靈公。公如晉，至河乃複。吳滅州來。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0014",
+          "version": "sha256:22e06a5bcf2a9bdbbb3ca4ab020b90766213ece9bf1c1e093f6a6fe66cf56a38",
+          "text": "十有四年春，意如至自晉。三月，曹伯滕卒。夏四月。秋，葬曹武公。八月，莒子去疾卒。冬，莒殺其公子意恢。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0015",
+          "version": "sha256:a80482d026e77450730be760fe9a9b8d7c5268d3f6a8ccc4e7ea5374a6ed3a86",
+          "text": "十有五年春王正月，吳子夷末卒。二月癸酉，有事於武宮。籥入，叔弓卒。去樂，卒事。夏，蔡朝吳出奔鄭。六月丁巳朔，日有食之。秋，晉荀吳帥師伐鮮虞。冬，公如晉。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0016",
+          "version": "sha256:585f0e59a4e21ddff191baa6b2fdbf7fed10a2bb3bf997f5308a9e773d20130b",
+          "text": "十有六年春，齊侯伐徐。楚子誘戎蠻子殺之。夏，公至自晉。秋八月己亥，晉侯夷卒。九月，大雩。季孫意如如晉。冬十月，葬晉昭公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0017",
+          "version": "sha256:2bcd5dba3c49b161b20ca21ba37f1a9e8a86cdfb1eb1bdbfe9b49d42eb120de5",
+          "text": "十有七年春，小邾子來朝。夏六月甲戌朔，日有食之。秋，郯子來朝。八月，晉荀吳帥師滅陸渾之戎。冬，有星孛於大辰。楚人及吳戰於長岸。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0018",
+          "version": "sha256:948493e592a07ff372c3b7c9568b6f7b20fe300daeb188434d257ec4713b8673",
+          "text": "十有八年春王三月，曹伯須卒。夏五月壬午，宋、衛、陳、鄭災。六月，邾人入鄅。秋，葬曹平公。冬，許遷於白羽。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0019",
+          "version": "sha256:0f2bd5179234bfdab27ffb672462a9fcf20752d1a3541880ca727cc1cf7d5164",
+          "text": "十有九年春，宋公伐邾。夏五月戊辰，許世子止弑其君買。己卯，地震。秋，齊高發帥師伐莒。冬，葬許悼公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0020",
+          "version": "sha256:bb3ee2560ceb1cdf1601c4b344af435f4c870ed6c4d6daed76e7dca03e51d6f9",
+          "text": "二十年春王正月。夏，曹公孫會自鄸出奔宋。秋，盜殺衛侯之兄縶。冬十月，宋華亥、向甯、華定出奔陳。十有一月辛卯，蔡侯盧卒。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0021",
+          "version": "sha256:ea45d25ca99310d4379e1c2ccc466c5f7c66141f1c75e0eb63d2de94daaa38f8",
+          "text": "二十有一年春王三月，葬蔡平公。夏，晉侯使士鞅來聘。宋華亥、向甯、華定自陳入於宋南裏以叛。秋七月壬午朔，日有食之。八月乙亥，叔輒卒。冬，蔡侯朱出奔楚。公如晉，至河乃複。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0022",
+          "version": "sha256:a763877b52b30272ef9a753052e6aa8f59cb4cf81a75097962d8d9bc7fa15025",
+          "text": "二十有二年春，齊侯伐莒。宋華亥、向甯、華定自宋南裏出奔楚。大蒐於昌間。夏四月乙丑，天王崩。六月，叔鞅如京師，葬景王，王室亂。劉子、單子以王猛居於皇。秋，劉子、單子以王猛入於王城。冬十月，王子猛卒。十有二月癸酉朔，日有食之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0023",
+          "version": "sha256:659b5352a18dceaae5d25e5ef6b9e0daa0615c3515ed5c8b5ff1ac9a35c46041",
+          "text": "二十有三年春王正月，叔孫婼如晉。癸丑，叔鞅卒。晉人執我行人叔孫婼。晉人圍郊。夏六月，蔡侯東國卒於楚。秋七月，莒子庚輿來奔。戊辰，吳敗頓、胡、沈、蔡、陳、許之師於雞父，胡子髡、沈子逞滅，獲陳夏齧。天王居於狄泉。尹氏立王子朝。八月乙未，地震。冬，公如晉，至河，有疾，乃複。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0024",
+          "version": "sha256:1255425a8021e3a97a5d71544bef2123e52395582380278f9c28bfc0f32d54f9",
+          "text": "二十四年春王三月丙戌，仲孫玃卒。婼至自晉。夏五月乙未朔，日有食之。秋八月，大雩。丁酉，杞伯郁厘卒。冬，吳滅巢。葬杞平公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0025",
+          "version": "sha256:5e3148ac2e7fc1ab7e8258809a8780a924789f88f1cab25fa8d937b786c7bba7",
+          "text": "二十五年春，叔孫婼如宋。夏，叔詣會晉趙鞅、宋樂大心，衛北宮喜、鄭遊吉、曹人、邾人、滕人、薛人、小邾人於黃父。有鴝鵒來巢。秋七月上辛，大雩；季辛，又雩。九月己亥，公孫於齊，次於陽州。齊侯唁公於野井。冬十月戊辰，叔孫婼卒。十有一月己亥，宋公佐卒於曲棘。十有二月，齊侯取鄆。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0026",
+          "version": "sha256:a7390695038a216a9ee4a775813040b7a8e62edfe5deae062317ccd983b1769f",
+          "text": "二十有六年春王正月，葬宋元公。三月，公至自齊，居於鄆。夏，公圍成。秋，公會齊侯、莒子、邾子、杞伯，盟於鄟陵。公至自會，居於鄆。九月庚申，楚子居卒。冬十月，天王入於成周。尹氏、召伯、毛伯以王子朝奔楚。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0027",
+          "version": "sha256:a7751ea0b6a6af4b6bcacc3e9a713afb4a25b82d7be40aef4c7bda9a639f58de",
+          "text": "二十有七年春，公如齊。公至自齊，居於鄆。夏四月，吳弑其君僚。楚殺其大夫郤宛。秋，晉士鞅、宋樂祁犁、衛北宮喜、曹人、邾人、滕人會於扈。冬十月，曹伯午卒。邾快來奔。公如齊。公至自齊，居於鄆。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0028",
+          "version": "sha256:a9cd150ecf44ba2487c9855f43748530af5469f30f1ed54254dfda07aed5afb5",
+          "text": "二十有八年春王三月，葬曹悼公。公如晉，次於乾侯。夏四月丙戌，鄭伯甯卒。六月，葬鄭定公。秋七月癸巳，滕子寧卒。冬，葬滕悼公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0029",
+          "version": "sha256:d33a1bdbf4654ecebb3992ddf822c04966782ad4e9b4a2d8e7bc94c8862ffef0",
+          "text": "二十有九年春，公至自乾侯，居於鄆，齊侯使高張來唁公。公如晉，次於乾侯。夏四月庚子，叔詣卒。秋七月。冬十月，鄆潰。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0030",
+          "version": "sha256:82385acaaa6bc9e85967dde0b3348dd7cdf7e1144e341a903729ee9e5317bc5e",
+          "text": "三十年春王正月，公在乾侯。夏六月庚辰，晉侯去疾卒。秋八月，葬晉頃公。冬十有二月，吳滅徐，徐子章羽奔楚。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0031",
+          "version": "sha256:03e81f0cc09f99c4f9eae4433af181af08dba9ee590602d2590670a1ba183cc7",
+          "text": "三十有一年春王正月，公在乾侯。季孫意如會晉荀躒於適曆。夏四月丁巳，薛伯谷卒。晉侯使荀躒唁公於乾侯。秋，葬薛獻公。冬，黑肱以濫來奔。十有二月辛亥朔，日有食之。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-3dc038df39036699-0032",
+          "version": "sha256:9fc5ab6137a8e0e218f11cdf2172895809d245856b7373ed1bd538efa64f617e",
+          "text": "三十有二年春王正月，公在乾侯。取闞。夏，吳伐越。秋七月。冬，仲孫何忌會晉韓不信、齊高張、宋仲幾、衛世叔申、鄭國參、曹人、莒人、薛人、杞人、小邾人城成周。十有二月己未，公薨於乾侯。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-696c43ce6528a1c5",
+      "number": 11,
+      "title": "定公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978359",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0001",
+          "version": "sha256:5f7f9f7a3e26656ff07d7768bff49e43922559614f1eac35e9656de251c5575e",
+          "text": "元年春王三月。晉人執宋仲幾於京師。夏六月癸亥，公之喪至自乾侯。戊辰，公即位。秋七月癸巳，葬我君昭公。九月，大雩。立煬宮。冬十月，隕霜殺菽。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0002",
+          "version": "sha256:a24d07e98124c7485f5626cc485e90556154be8d3ed1f6b54d520821fc5f9a95",
+          "text": "二年春王正月。夏五月壬辰，雉門及兩觀滅。秋，楚人伐吳。冬十月，新作雉門及兩觀。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0003",
+          "version": "sha256:5df77dd1b50c62403cfb6dc7812a90f88746e9ca09719ec6f468c58be8c4f7fa",
+          "text": "三年春王正月，公如晉，至河，乃複。二月辛卯，邾子穿卒。夏四月。秋，葬邾莊公。冬，仲孫何忌及邾子盟於拔。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0004",
+          "version": "sha256:b1a6f4a8066d3b81f0126a4ed7b3710cc9ba6ff69c2a4c3beb74e01f83952a86",
+          "text": "四年春王二月癸巳，陳侯吳卒。三月，公會劉子、晉侯、宋公、蔡侯、衛侯、陳子、鄭伯、許男、曹伯、莒子、邾子、頓子、胡子、滕子、薛伯、杞伯、小邾子、齊國夏於召陵，侵楚。夏四月庚辰，蔡公孫姓帥師滅沈，以沈子嘉歸，殺之。五月，公及諸侯盟於皋鼬。杞伯成卒於會。六月，葬陳惠公。許遷於容城。秋七月，至自會。劉卷卒。葬杞悼公。楚人圍蔡。晉士鞅、衛孔圍帥師伐鮮虞。葬劉文公。冬十有一月庚午，蔡侯以吳子及楚人戰於柏舉，楚師敗績。楚囊瓦出奔鄭。庚辰，吳入郢。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0005",
+          "version": "sha256:59a548f04dc1de2b2311001666275a0dccbb52d85947981b90a16c7c47c23859",
+          "text": "五年春王三月辛亥朔，日有食之。夏，歸粟於蔡。於越入吳。六月丙申，季孫意如卒。秋七月壬子，叔孫不敢卒。冬，晉士鞅帥師圍鮮虞。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0006",
+          "version": "sha256:17ca8043f22722b5dca21b8e6b4f13945d68b6b11ce0e72a8a28b75f83b88dc5",
+          "text": "六年春王正月癸亥，鄭遊速帥師滅許，以許男斯歸。二月，公侵鄭。公至自侵鄭。夏，季孫斯、仲孫何忌如晉。秋，晉人執宋行人樂祁犁。冬，城中城。季孫斯、仲孫忌帥師圍鄆。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0007",
+          "version": "sha256:c78dea7fb91eedf04098de35d803b5f12152554852d9eca7e78837c9dcad7831",
+          "text": "七年春王正月。夏四月。秋，齊侯、鄭伯盟於咸。齊人執衛行人北宮結以侵衛。齊侯、衛侯盟於沙。大雩。齊國夏帥師伐我西鄙。九月，大雩。冬十月。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0008",
+          "version": "sha256:6677c02063c01b8e9efe91b01c0a6c84b227f49a2eb062dd56642d0d5ff3e2cb",
+          "text": "八年春王正月，公侵齊。公至自侵齊。二月，公侵齊。三月，公至自侵齊。曹伯露卒。夏，齊國夏帥師伐我西鄙。公會晉師於瓦。公至自瓦。秋七月戊辰，陳侯柳卒。晉士鞅帥師侵鄭，遂侵衛。葬曹靖公。九月，葬陳懷公。季孫斯、仲孫何忌帥師侵衛。冬，衛侯、鄭伯盟於曲濮。從祀先公。盜竊寶玉、大弓。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0009",
+          "version": "sha256:e7390aaa4badb8574c82f46a1a96e7c5a1e8190b29b2118c0a4430ed69fc2039",
+          "text": "九年春王正月。夏四月戊申，鄭伯蠆卒。得寶玉、大弓。六月，葬鄭獻公。秋，齊侯、衛侯次於五氏。秦伯卒。冬，葬秦哀公。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0010",
+          "version": "sha256:4a231a45a4b7645e627dcac1ae37b137af7249113a43c9ebc815bab3332349b0",
+          "text": "十年春王三月，乃齊平。夏，公會齊侯於夾谷。公至自夾谷。晉趙鞅帥師圍衛。齊人來歸鄆、讙、龜陰田。叔孫州仇、仲孫何忌帥師圍郈。秋，叔孫州仇、仲孫何忌帥師圍郈。宋樂大心出奔曹。宋公子地出奔陳。冬，齊侯、衛侯、鄭遊速會於安甫。叔孫州仇如齊。宋公之弟辰暨仲佗、石彄出奔陳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0011",
+          "version": "sha256:ab83e9ee23243e7bae93f5cc5f233c24540dfbbe2d72f2f6253cc32a1f627092",
+          "text": "十有一年春，宋公之弟辰及仲佗、石彄、公子地自陳入於蕭以叛。夏四月。秋，宋樂大心自曹入於蕭。冬，及鄭平。叔還如鄭蒞盟。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0012",
+          "version": "sha256:fbff121d344d691f4382fe08a19b951223037e6583f86e0bc9d4e76d87907f2a",
+          "text": "十有二年春，薛伯定卒。夏，葬薛襄公。叔孫州仇帥師墮郈。衛公孟彄帥師伐曹。季孫斯、仲孫何忌帥師墮費。秋，大雩。冬十月癸亥，公會齊侯盟於黃。十有一月丙寅朔，日有食之。公至自黃。十有二月，公圍成。公至自圍成。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0013",
+          "version": "sha256:9d013391b83cf7f48448c9aebf84445523f3a16d9e53a59ff50e27fe5d201d48",
+          "text": "十有三年春，齊侯、衛侯次於垂葭。夏，築蛇淵囿。大蒐於比蒲。衛公孟彄帥師伐曹。晉趙鞅入於晉陽以叛。冬，晉荀寅、士吉射入於朝歌以叛。晉趙鞅歸於晉。薛弑其君比。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0014",
+          "version": "sha256:ee81cfc4ea7010191f6ed6ac1e0e42ee5a413e9541e4eebc841d5276eb4104dd",
+          "text": "十有四年春，衛公叔戌來奔。衛趙陽出奔宋。二月辛巳，楚公子結、陳公孫佗人帥師滅頓，以頓子牂歸。夏，衛北宮結來奔。五月，於越敗吳於槜李。吳子光卒。公會齊侯、衛侯於牽。公至自會。秋，齊侯、宋公會於洮。天王使石尚來歸脤。衛世子蒯聵出奔宋。衛公孟彄出奔鄭。宋公之弟辰自蕭來奔。大蒐於比蒲。邾子來會公。城莒父及霄。",
+          "aliases": []
+        },
+        {
+          "id": "p-chunqiu-696c43ce6528a1c5-0015",
+          "version": "sha256:0a4e0ecba35b4ee0c8f2995d29d9e9a275cc0971374d4670719e3f951393c57b",
+          "text": "十有五年春王正月，邾子來朝。鼷鼠食郊牛，牛死，改卜牛。二月辛丑，楚子滅胡，以胡子豹歸。夏五辛亥，郊。壬申，公薨於高寢。鄭罕達帥師伐宋。齊侯、衛侯次於渠蒢。邾子來奔喪。秋七月壬申，姒氏卒。八月庚辰朔，日有食之。九月，滕子來會葬。丁巳，葬我君定公，雨不克葬。戊午，日下昃，乃克葬。辛巳，葬定姒。冬，城漆。",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-chunqiu-c36173b2e6ea0f11",
+      "number": 12,
+      "title": "哀公",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2620452",
+      "kind": "chapter",
+      "paragraphs": [
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0001",
+          "version": "sha256:fe8ea2719482c68b143ce8aadaaf29ed1ddd0d0f15469fa97126fa1fd5a5f574",
+          "text": "元年春王正月，公即位。楚子、陳侯、隨侯、許男圍蔡。鼷鼠食郊牛角，改卜牛。夏四月辛巳，郊。秋，齊侯，衛侯伐晉。冬，仲孫何忌帥師伐邾。",
+          "aliases": [],
+          "headingPath": [
+            "元年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0002",
+          "version": "sha256:6533f488af15f1cd4e24e6859a16c05b1a39241796503c11de9976d9602b5ec5",
+          "text": "二年春王二月，季孫斯、叔孫州仇、仲孫何忌帥師伐邾，取漷東田及沂西田。癸巳，叔孫州仇、仲孫何忌及邾子盟於句繹。夏四月丙子，衛侯元卒。滕子來朝。晉趙鞅帥師納衛世子蒯聵於戚。秋八月甲戌，晉趙鞅帥師及鄭罕達帥師戰於鐵，鄭師敗績。冬十月，葬衛靈公。十有一月，蔡遷於州來。蔡殺其大夫公子駟。",
+          "aliases": [],
+          "headingPath": [
+            "二年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0003",
+          "version": "sha256:1c008341eb20e0988faec8cb6a04cf687608242ea1752172faf195afc78062da",
+          "text": "三年春，齊國夏、衛石曼姑帥師圍戚。夏四月甲午，地震。五月辛卯，桓宮、僖宮災。季孫斯、叔孫州仇帥師城啟陽。宋樂髡帥師伐曹。秋七月丙子，季孫斯卒。蔡人放其大夫公孫獵於吳。冬十月癸卯，秦伯卒。叔孫州仇、仲孫何忌帥師圍邾。",
+          "aliases": [],
+          "headingPath": [
+            "三年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0004",
+          "version": "sha256:b6aaca28e46346821fe1b7203c7c06c7cd90f03af0ceae4f252f5e461beb8d36",
+          "text": "四年春王二月庚戌，盜殺蔡侯申。蔡公孫辰出奔吳。葬秦惠公。宋人執小邾子。夏，蔡殺其大夫公孫姓、公孫霍。晉人執戎蠻子赤歸於楚。城西郛。六月辛丑，亳社災。秋八月甲寅，滕子結卒。冬十有二月，葬蔡昭公。葬滕頃公。",
+          "aliases": [],
+          "headingPath": [
+            "四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0005",
+          "version": "sha256:63e26a7fbf2dfc6210a3b08af00c701f70f29167b7412be5630b078378fdda5a",
+          "text": "五年春，城毗。夏，齊侯伐宋。晉趙鞅帥師伐衛。秋九月癸酉，齊侯杵臼卒。冬，叔還如齊。閏月，葬齊景公。",
+          "aliases": [],
+          "headingPath": [
+            "五年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0006",
+          "version": "sha256:6705a2d6669a75d050fa85855844f83609db5480d0c29de699963a365d6dd10f",
+          "text": "六年春，城邾瑕。晉趙鞅帥師伐鮮虞。吳伐陳。夏，齊國夏及高張來奔。叔還公吳於柤。秋七月庚寅，楚子軫卒。齊陽生入齊。齊陳乞弑其君荼。冬，仲孫何忌帥師伐邾。宋向巢帥師伐曹。",
+          "aliases": [],
+          "headingPath": [
+            "六年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0007",
+          "version": "sha256:f070335214baab98577a2f4cf7246112cee42f74841d7899b4e2bcdbdd151c3e",
+          "text": "七年春，宋皇瑗帥師侵鄭。晉魏曼多帥師侵衛。夏，公會吳於鄫。秋，公伐邾。八月己酉，入邾，以邾子益來。宋人圍曹。冬，鄭駟弘帥師救曹。",
+          "aliases": [],
+          "headingPath": [
+            "七年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0008",
+          "version": "sha256:efea89c4e0f96431fcd66dfade29f40440fd25df50749fb998ee8080441c5ba3",
+          "text": "八年春王正月，宋公入曹，以曹伯陽歸。吳伐我。夏，齊人取讙及闡。歸邾子益子邾。秋七月。冬十有二月癸亥，杞伯過卒。齊人歸讙及闡。",
+          "aliases": [],
+          "headingPath": [
+            "八年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0009",
+          "version": "sha256:eee4fb3ffb7cf623d7b0935d2363586c44f4b63106bb3fac5aa24ad12408cf44",
+          "text": "九年春王二月，葬杞僖公。宋皇瑗帥師取鄭師於雍丘。夏，楚人伐陳。秋，宋公伐鄭。冬十月。",
+          "aliases": [],
+          "headingPath": [
+            "九年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0010",
+          "version": "sha256:c36af7f7b27f0dff69db7b2452a20c44d16af827612ad5c0ae27abf3e00ee0a7",
+          "text": "十年春王二月，邾子益來奔。公會吳伐齊。三月戊戌，齊侯陽生卒。夏，宋人伐鄭。晉趙鞅帥師侵齊。五月，公至自伐齊。葬齊悼公。衛公孟彄自齊歸於衛。薛伯夷卒。秋，葬薛惠公。冬，楚公子結帥師伐陳。吳救陳。",
+          "aliases": [],
+          "headingPath": [
+            "十年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0011",
+          "version": "sha256:ae82e40272b4fe500aba646d6d620b98b75517587e240fe35c8255753d4b6491",
+          "text": "十有一年春，齊國書帥師伐我。夏，陳轅頗出奔鄭。五月，公會吳伐齊。甲戌，齊國書帥師及吳戰於艾陵，齊師敗績，獲齊國書。秋七月辛酉，滕子虞母卒。冬十有一月，葬滕隱公。衛世叔齊出奔宋。",
+          "aliases": [],
+          "headingPath": [
+            "十一年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0012",
+          "version": "sha256:e851ab41f6c0a1d71b15b83d70bb2446556556c22febd694fcdf8981f8ca12c3",
+          "text": "十有二年春，用田賦。夏五月甲辰，孟子卒。公會吳於皋阜。秋，公會衛侯、宋皇瑗於鄖。宋向巢帥師伐鄭。冬十有二月，螽。",
+          "aliases": [],
+          "headingPath": [
+            "十二年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0013",
+          "version": "sha256:519c310499770b2476ddaa8b34c910f5df28780f93b455a49af572921e5b388a",
+          "text": "十有三年春，鄭罕達帥師取宋師於岩。夏，許男成卒。公會晉侯及吳子於黃池。楚公子申帥師伐陳。於越入吳。秋，公至自會。晉魏曼多帥師侵衛。葬許元公。九月，螽。冬十有一月，有星孛於東方。盜殺陳夏區夫。十有二月，螽。",
+          "aliases": [],
+          "headingPath": [
+            "十三年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0014",
+          "version": "sha256:e00d4b67b7f81f1002398fdd45410c5ecbdf82757ec6743c881b95fd8fa84931",
+          "text": "十有四年春，西狩獲麟。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0015",
+          "version": "sha256:1a9e3b2358e20de5f545ef08d90a438988bfa66348731e5740e06bc98de5d5bd",
+          "text": "小邾射以句繹來奔。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0016",
+          "version": "sha256:1b8acb03823a7332471e06484aa6b80d3af5747379a7c6c8219001c0f28d2a0f",
+          "text": "夏四月，齊陳恆執其君，置於舒州。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0017",
+          "version": "sha256:d1d65e25ba9a54b2dcca831a203c64ce3054e7d84b4cabfed461551db331e795",
+          "text": "庚戌，叔還卒。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0018",
+          "version": "sha256:8fd2817878c337d6ca8e35b589116bdc9c1a5627d722fcd068e97c6868afd982",
+          "text": "五月庚申朔，日有食之。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0019",
+          "version": "sha256:76559588f21549dd510497795f86872732145beada957946a8900a679c2cfbb8",
+          "text": "陳宗豎出奔楚。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0020",
+          "version": "sha256:23919f525efbfd490f7b357fe9fffab623d31d9cf122e6ed1054c2a8b2b51e28",
+          "text": "宋向魋入於曹以叛。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0021",
+          "version": "sha256:66d89a5988f91ca9864f121ed54504627c0d5d9eec634e8724fc7c697ca2c817",
+          "text": "莒子狂卒。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0022",
+          "version": "sha256:384e70b7ba80d7b20c6a038518bf6dbb5d6241cc03445cb0a0cdc58fc197e91e",
+          "text": "六月，宋向魋自曹出奔衛。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0023",
+          "version": "sha256:aae32293ee7e73ce4d70849e0b7f4731e1920800ffaad8244d573ff426ba49b7",
+          "text": "宋向巢來奔。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0024",
+          "version": "sha256:2b9cd9bc4715dc4a03f5139abfbae0403ea8bf34e126c95e14d6ff338c8ff4ae",
+          "text": "齊人弑其君壬於舒州。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0025",
+          "version": "sha256:79d5ed5e0339e50a7b51218eefe5bd41a702c4bac43e891d1213677d08c6a70a",
+          "text": "秋，晉趙鞅帥師伐衛。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0026",
+          "version": "sha256:9a8320b8d76eed5aa1a77f8a86f6059aee25d7b9cb633a3f1adb9be6dab49aca",
+          "text": "八月辛丑，仲孫何忌卒。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0027",
+          "version": "sha256:c084bdd6d0aab6649032bf0f25d67951beca285249028ba11d69300be0a0453d",
+          "text": "冬，陳宗豎自楚復入於陳，陳人殺之。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0028",
+          "version": "sha256:f8f67456cb1f30bc7a1849d20d3f66d9bf2f53f3951428e1e0b191179f24058c",
+          "text": "陳轅買出奔楚。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0029",
+          "version": "sha256:54be4e3f4e45975c206638272ddabddcee96f0c50112206924212d8fca7fa9a1",
+          "text": "有星孛。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        },
+        {
+          "id": "p-chunqiu-c36173b2e6ea0f11-0030",
+          "version": "sha256:6417e31bea4a0b484d269881f2bf21d9c3a392f739d92f5675f82a6ae79674e5",
+          "text": "饑。",
+          "aliases": [],
+          "headingPath": [
+            "哀公十四年"
+          ]
+        }
+      ]
+    }
+  ]
+}

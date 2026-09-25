@@ -1,0 +1,47 @@
+{
+  "work": "shishuoxinyu",
+  "provider": "guopop",
+  "rootTitle": "世說新語",
+  "pages": [
+    {
+      "title": "子/小说类/世说新语.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "0de78558063e77f1b0c9cb22b1608bd10f31bb15852bddcaf845ed19e2b20601"
+    }
+  ],
+  "metadata": {
+    "author": "南朝宋・劉義慶",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 品藻第九",
+    "short-unit: 捷悟第十一",
+    "short-unit: 夙惠第十二",
+    "source-missing-glyph: 容止第十四",
+    "short-unit: 自新第十五",
+    "short-unit: 企羨第十六",
+    "source-missing-glyph: 傷逝第十七",
+    "short-unit: 寵禮第二十二",
+    "short-unit: 儉嗇第二十九",
+    "short-unit: 忿狷第三十一",
+    "short-unit: 讒險第三十二"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "406ff2995e6f4743ce73d71d0cfd88feb1d0d9a655749020258f7a81d37965a4",
+  "stats": {
+    "chapters": 74,
+    "paragraphs": 2880,
+    "characters": 83204,
+    "emptyChapters": 0
+  }
+}

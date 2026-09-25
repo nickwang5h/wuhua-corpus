@@ -1,0 +1,36 @@
+{
+  "work": "shuoyuan",
+  "provider": "guopop",
+  "rootTitle": "說苑",
+  "pages": [
+    {
+      "title": "子/儒家类/说苑.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E8%AF%B4%E8%8B%91.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "6fb0c7953e2f10ebc62362aef76d9efb79220884cb0162717af1dcf4f19327cc"
+    }
+  ],
+  "metadata": {
+    "author": "西汉・劉向",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E8%AF%B4%E8%8B%91.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "cd0300dcf15ddc151a7895a082ef857141c125ac5ccfcc647f6a9f271999fe9f",
+  "stats": {
+    "chapters": 21,
+    "paragraphs": 746,
+    "characters": 130410,
+    "emptyChapters": 0
+  }
+}

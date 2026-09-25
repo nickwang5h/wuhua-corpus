@@ -1,0 +1,38 @@
+{
+  "work": "zuozhuan",
+  "provider": "gujilab",
+  "rootTitle": "春秋左氏傳",
+  "pages": [
+    {
+      "title": "output/wujing/zuozhuan.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zuozhuan.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "582d5c64a8b0847c1fc6fddfa66622f6d00c3b597b024e1207a173a20d4ed2b5"
+    }
+  ],
+  "metadata": {
+    "author": "左丘明",
+    "era": "春秋",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+    "source-missing-glyph: 成公（元年～十八年）",
+    "source-missing-glyph: 定公（元年～十五年）"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "d69f4651a2c968bf0f5f7e2e7628f3e258272b7a37579be48fa8f3874beae020",
+  "stats": {
+    "chapters": 12,
+    "paragraphs": 3296,
+    "characters": 252286,
+    "emptyChapters": 0
+  }
+}

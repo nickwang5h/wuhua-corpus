@@ -1,0 +1,35 @@
+{
+  "work": "tongshu",
+  "provider": "zhwikisource",
+  "rootTitle": "通書",
+  "pages": [
+    {
+      "title": "通書",
+      "pageId": 43359,
+      "revisionId": 1505160,
+      "revision": "1505160",
+      "timestamp": "2018-10-15T11:45:17Z",
+      "fetchedAt": "2026-09-24T19:40:00.749Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1505160",
+      "sha256": "e6a663ec1537be7cd4ff0ff734da764b2aeb2e30c77966946b63264e862df1ed"
+    }
+  ],
+  "metadata": {
+    "author": "周敦頤",
+    "times": "北宋"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "53210daec7aded5c5b46b4c52dd5b2e29a04d85b5aaae51b51347efda1d2a4b4",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 40,
+    "characters": 3380,
+    "emptyChapters": 0
+  }
+}

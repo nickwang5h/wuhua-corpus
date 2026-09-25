@@ -1,0 +1,799 @@
+{
+  "id": "renjiancihua",
+  "metadata": {
+    "title": "人間詞話",
+    "metadataMethod": "source-fields",
+    "needsReview": true
+  },
+  "chapters": [
+    {
+      "id": "chapter-renjiancihua-df0e1d604453d812",
+      "number": 1,
+      "title": "人間詞話",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E8%AF%8D%E8%AF%9D/%E4%BA%BA%E9%97%B4%E8%AF%8D%E8%AF%9D.txt",
+      "kind": "work",
+      "paragraphs": [
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0001",
+          "version": "sha256:2c6856c21ca66bcd73dfd2f5d0640b86a26f98ef288e7163e7cfd1b4b506e447",
+          "text": "人间词话",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0002",
+          "version": "sha256:5f38c9fe1c50126acbb01b316f5559cbf58c0c4f9cc494f93349c34fef45ff85",
+          "text": "王国维",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0003",
+          "version": "sha256:51a75f4634dfa8598a0a1436da0b7764830edd1f3a97661222387da2fe2b38d1",
+          "text": "一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0004",
+          "version": "sha256:535672c956a17d01238edb9742fd1610065227148b246442ec533614bc67b19c",
+          "text": "词以境界为最上。有境界则自成高格，自有名句。五代、北宋之词所以独绝者在此。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0005",
+          "version": "sha256:084b42f6e95e4e6545e236975ade8e205383fefe1021c9d793f758c21f9377dc",
+          "text": "二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0006",
+          "version": "sha256:8e23c616f2f7344550dc98bced87c33ea307142151e533eb3b70823526978218",
+          "text": "有造境，有写境，此\"理想\"与\"写实\"二派之所由分。然二者颇难分别。因大诗人所造之境，必合乎自然，所写之境，亦必邻于理想故也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0007",
+          "version": "sha256:a4c3313deb180960469d0e79a770b9deee47fdeed74fe0f74d0bf51006fcc4f0",
+          "text": "三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0008",
+          "version": "sha256:b4ae1110818172a9ffb0f2554f76ed17066aee6b9145860cc2c7e79b0fb20d32",
+          "text": "有有我之境，有无我之境。\"泪眼问花花不语，乱红飞过秋千去。\"\"可堪孤馆闭春寒，杜鹃声里斜阳暮。\"有我之境也。\"采菊东篱下，悠然见南山。\"\"寒波澹澹起，白鸟悠悠下。\"无我之境也。有我之境，以我观物，故物皆着我之色彩。无我之境，以物观物，故不知何者为我，何者为物。古人为词，写有我之境者为多，然未始不能写无我之境，此在豪杰之士能自树立耳。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0009",
+          "version": "sha256:754a9d5828d502f19ae91df8f089811d9affe9e0a487b20528975700f7c90f75",
+          "text": "四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0010",
+          "version": "sha256:fcd9148f5581d2ce937a67236d734b1fdec46189ce7eff6555b538789700eced",
+          "text": "无我之境，人惟于静中得之。有我之境，于由动之静时得之。故一优美，一宏壮也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0011",
+          "version": "sha256:c9b87f516a38ea36a0ca35f5137d4676a0705b6af36302cac4b68927a1e42c60",
+          "text": "五",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0012",
+          "version": "sha256:0bd1e5696a1ae11bbca8f72b5d7899b9c4b4eba2723029d83a566c805d4378e2",
+          "text": "自然中之物，互相关系，互相限制。然其写之于文学及美术中也，必遗其关系、限制之处。故虽写实家，亦理想家也。又虽如何虚构之境，其材料必求之于自然，而其构造，亦必从自然之法则。故虽理想家，亦写实家也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0013",
+          "version": "sha256:de07b5383874b2a32bd141d2655a9e8b01ea1b8fc2bed8195e27fc6848864163",
+          "text": "六",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0014",
+          "version": "sha256:9ce53681b3afcdbec1b00ef6e1e179fc56f1687055bee02b8564934e68e19875",
+          "text": "境非独谓景物也。喜怒哀乐，亦人心中之一境界。故能写真景物、真感情者，谓之有境界。否则谓之无境界。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0015",
+          "version": "sha256:1b0542878c67f6cdf30e23c175cdcfc8c341b835e66bbf1596a823812397b2a3",
+          "text": "七",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0016",
+          "version": "sha256:06260d60b50841185ccf659fc5d695088468ef761eed319d77e8aee8a142cc3e",
+          "text": "\"红杏枝头春意闹\"，着一\"闹\"字，而境界全出。\"云破月来花弄影\"，着一\"弄\"字，而境界全出矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0017",
+          "version": "sha256:2c467d3673926b209f49dc3b46f97a30126a1d3470e5844052fade66fb2ce332",
+          "text": "八",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0018",
+          "version": "sha256:bea1cfa0d51e62904d10d4bba69851098e5133bd5d93d557d3df1f89c7acd620",
+          "text": "境界有大小，不以是而分优劣。\"细雨鱼儿出，微风燕子斜。\"何遽不若\"落日照大旗，马鸣风萧萧。\"\"宝帘闲挂小银钩\"，何遽不若\"雾失楼台，月迷津渡\"也？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0019",
+          "version": "sha256:df897da6e02ecd3093c3c539ad905323f4b8413473f4e6abec237cec612542c0",
+          "text": "九",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0020",
+          "version": "sha256:a34c1540c163cc58b2145dd1d2dad17510d5f7424b513adece7217df4bdffd99",
+          "text": "严沧浪《诗话》谓：\"盛唐诸公，唯在兴趣。羚羊挂角，无迹可求。故其妙处，透澈玲珑，不可凑拍。如空中之音、相中之色、水中之影、镜中之象，言有尽而意无穷。\"余谓北宋以前之词，亦复如是。然沧浪所谓\"兴趣\"，阮亭所谓\"神韵\"，犹不过道其面目；不若鄙人拈出\"境界\"二字，为探其本也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0021",
+          "version": "sha256:fc7edd399a5c4b93723eb0c091bf64e56e24c30195c1519067c68513a4d2c8fb",
+          "text": "十",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0022",
+          "version": "sha256:223e02c742f93ac08b3afa8791afac5c80a0953831500506a41e278c93f12e78",
+          "text": "太白纯以气象胜。\"西风残照，汉家陵阙\"，寥寥八字，遂关千古登临之口。后世唯范文正之《渔家傲》，夏英公之《喜迁莺》，差足继武，然气象已不逮矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0023",
+          "version": "sha256:41cbc3e287cbeb5581532e5ce509a62c991a99eadfa9d6276e41eacbbda4d3f5",
+          "text": "十一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0024",
+          "version": "sha256:a56bb84615cf43fdb895ce781a0edf73aee0dbb77aa709ede096ca7ced0234d1",
+          "text": "张皋文谓：\"飞卿之词，深美闳约。\"余谓\"此四字唯冯正中足以当之。刘融斋谓：\"飞卿精艳绝人\"，差近之耳。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0025",
+          "version": "sha256:80b044f1afc988e190cb0b200f3c2bc63554109f22803000ca0ee0fa9f440729",
+          "text": "十二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0026",
+          "version": "sha256:fe8d07a9ac52bc4565e3085712685fa258aef88febedbedfe14129b30ebb07ba",
+          "text": "\"画屏金鹧鸪\"，飞卿语也，其词品似之。\"弦上黄莺语\"，端己语也，其词品亦似之。正中词品，若欲于其词句中求之，则\"和泪试严妆\"，殆近之欤？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0027",
+          "version": "sha256:a91b9ac3ed0dfdc450f45fb2b83046ce5a9a8ec70b9cdde20825a99c1b41fb9c",
+          "text": "十三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0028",
+          "version": "sha256:71f91c51e20eeb73320af15479fa158546de906018e6190d58708573d6cbb65b",
+          "text": "南唐中主词：\"菡萏香销翠叶残，西风愁起绿波间。\"大有众芳芜秽，美人迟暮之感。乃古今独赏其\"细雨梦回鸡塞远，小楼吹彻玉笙寒。\"故知解人正不易得。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0029",
+          "version": "sha256:29473899eff56892a47924f15290ca4d02a6b5900c4deb190c594181213de9bf",
+          "text": "十四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0030",
+          "version": "sha256:942cacacd1151d825e5b33ccb3f8753e7ff33b4b0f5e98a31b5759e19fe7d47b",
+          "text": "温飞卿之词，句秀也。韦端己之词，骨秀也。李重光之词，神秀也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0031",
+          "version": "sha256:2f740e1769682233943b30f27a78ac290ef48df4d07c7803fe6c98dc82efc3ce",
+          "text": "十五",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0032",
+          "version": "sha256:9e38914446b0a71793987d944d32226229c087ce47f5d918807e6a62565a38c8",
+          "text": "词至李后主而眼界始大，感慨遂深，遂变伶工之词而为士大夫之词。周介存置诸温、韦之下，可谓颠倒黑白矣。\"自是人生长恨水长东\"，\"流水落花春去也，天上人间。\"《金荃》、《浣花》，能有此气象耶？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0033",
+          "version": "sha256:adff0166a2f6a97a411c858da24f45fe65c1e742e6322e224eca7737de8534e7",
+          "text": "十六",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0034",
+          "version": "sha256:4082f97c39288feff02f10e0e896851b17ff8dce4bf2abf148e9a15b0a822c7b",
+          "text": "词人者，不失其赤子之心者也。故生于深宫之中，长于妇人之手，是后主为人君所短处，亦即为词人所长处。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0035",
+          "version": "sha256:9e27d43472e7138f608c54020a2bb392b10cb3e8651c0bb68eb8c5b0649dfc72",
+          "text": "十七",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0036",
+          "version": "sha256:c24dc82783daad4f1d9fc4b6a07ba19b05b192cbb102bea9f7b7d1a338cc0176",
+          "text": "客观之诗人，不可不多阅世。阅世愈深，则材料愈丰富，愈变化，《水浒传》、《红楼梦》之作者是也。主观之诗人，不必多阅世。阅世愈浅，则性情愈真，李后主是也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0037",
+          "version": "sha256:078c45851449bef08411f664692f1bbc1ff052d23a607d382f80aadd54f6ccec",
+          "text": "十八",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0038",
+          "version": "sha256:d6a1fff45657fac126ce3d0c606aa6de48bdb53bfe5eeb53d0f4f54dfaf0a1f6",
+          "text": "尼采谓：\"一切文学，余爱以血书者。\"后主之词，真所谓以血书者也。宋道君皇帝《燕山亭》词亦略似之。然道君不过自道身世之戚，后主则俨有释迦、基督担荷人类罪恶之意，其大小固不同矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0039",
+          "version": "sha256:9340996fc6c404c0ff856bacaed35ee78791a147a2c7e1eb2a4e61cbdc984deb",
+          "text": "十九",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0040",
+          "version": "sha256:99ac6d257ad212a751939afb1b4561c04bffbe957e6486615f992d0476dd4a20",
+          "text": "冯正中词虽不失五代风格，而堂庑特大，开北宋一代风气。与中、后二主词皆在《花间》范围之外，宜《花间集》中不登其只字也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0041",
+          "version": "sha256:e5ec573b3977ce9d55cb8e5fde4b730d653f8ab5b5d8dd377a7d97bbadfb0be3",
+          "text": "二十",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0042",
+          "version": "sha256:5d9a014fa3301664eb2a6c82a99019330ddcf37138db1ece9042072d0e99e966",
+          "text": "正中词除《鹊踏枝》、《菩萨蛮》十数阕最煊赫外，如《醉花间》之\"高树鹊衔巢，斜月明寒草。\"余谓：韦苏州之\"流萤渡高阁\"，孟襄阳之\"疏雨滴梧桐\"，不能过也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0043",
+          "version": "sha256:808c5204f908d145f5db792b6a6b644b53e9941843a371a4b45a3c0702cfdd52",
+          "text": "二一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0044",
+          "version": "sha256:06189ac0c02d712244748a8811b6307a91af671d26581d9f1afaac6624dd71d9",
+          "text": "欧九《浣溪沙》词\"绿杨楼外出秋千。\"晁补之谓：只一\"出\"字，便后人所不能道。余谓：此本于正中《上行杯》词\"柳外秋千出画墙\"，但欧语尤工耳。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0045",
+          "version": "sha256:80abb18e6de810e7f33c941456251d28bfaff73c9b4790317c5e5d8ac44f636e",
+          "text": "二二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0046",
+          "version": "sha256:91099bb3a5edcb2d9b28839990526d33d68f8d2c4c5837970c1a0ad19139cba9",
+          "text": "梅圣俞《苏幕遮》词：\"落尽梨花春事了。满地斜阳，翠色和烟老。\"刘融斋谓：少游一生似专学此种。余谓：冯正中《玉楼春》词：\"芳菲次第长相续，自是情多无处足，尊前百计得春归，莫为伤春眉黛促。\"永叔一生似专学此种。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0047",
+          "version": "sha256:ce68b94c4f457376e1750809f51ccaed7044133751a88d86d694e1a0eca12293",
+          "text": "二三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0048",
+          "version": "sha256:3743e37d3eec48808c7aedd88b536a3b50d94547aff1a05ceb4c30db7ca0f130",
+          "text": "人知和靖《点绛唇》、圣俞《苏幕遮》、永叔《少年游》三阕为咏春草绝调，不知先有正中\"细雨湿流光\"五字，皆能摄春草之魂者也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0049",
+          "version": "sha256:45b4d632af79f257aae9238474f91cb385dd8d1458b8990dd048f06ebc551e63",
+          "text": "二四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0050",
+          "version": "sha256:70d86885d7130d26971aad9a0e9340320f411407af27fefe7b8c15eed746ed21",
+          "text": "《诗o蒹葭》一篇，最得风人深致。晏同叔之\"昨夜西风凋碧树。独上高楼，望尽天涯路。\"意颇近之。但一洒落，一悲壮耳。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0051",
+          "version": "sha256:6616ed5117d1f66cb4ea71d69f6b3f81673c8b0361d4ff0b2196331ffbed092a",
+          "text": "二五",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0052",
+          "version": "sha256:bd2e2fae849f20c5859c5007516a24291976999f04e0dfc37b9bd56bd82aeff1",
+          "text": "\"我瞻四方，蹙蹙靡所骋。\"诗人之忧生也。\"昨夜西风凋碧树。独上高楼，望尽天涯路\"似之。\"终日驰车走，不见所问津。\"诗人之忧世也。\"百草千花寒食路。香车系在谁家树\"似之。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0053",
+          "version": "sha256:2259c27fae88b8e979b47f052e4859f97d371db855ff9ab57fda9c209c0bb880",
+          "text": "二六",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0054",
+          "version": "sha256:312846af6298b71250284c7f37bcfb2977fa13f4b08567b3c68ae7e65e3b4ad1",
+          "text": "古今之成大事业、大学问者，必经过三种之境界：\"昨夜西风凋碧树。独上高楼，望尽天涯路。\"此第一境也。\"衣带渐宽终不悔，为伊消得人憔悴。\"此第二境也。\"众里寻他千百度，回头蓦见，那人正在，灯火阑珊处。\"此第三境也。此等语皆非大词人不能道。然遽以此意解释诸词，恐为晏、欧诸公所不许也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0055",
+          "version": "sha256:b0c911327a2e3d93f08dc1db5b0cf47714fb752f327a50f045971f9696842abe",
+          "text": "二七",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0056",
+          "version": "sha256:9ffe0ada97dfffbb0b72ad0ae6ac8508fbb7a8ab08e126339c67e18d27c19d59",
+          "text": "永叔\"人间自是有情痴，此恨不关风与月。\"\"直须看尽洛城花，始与东风容易别。\"于豪放之中有沉着之致，所以尤高。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0057",
+          "version": "sha256:42f9f5182bdb0ab462921a89e972b0b4c8fc7fc04d312952b7775f45c4c83270",
+          "text": "二八",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0058",
+          "version": "sha256:383e6abca000c32fb48e6ac41cee3a44b242f0f8941c099d7a12d6a9161ef99a",
+          "text": "冯梦华《宋六十一家词选o序例》谓：\"淮海、小山，古之伤心人也。其淡语皆有味，浅语皆有致。\"余谓此唯淮海足以当之。小山矜贵有余，但可方驾子野、方回，未足抗衡淮海也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0059",
+          "version": "sha256:e06d150daff87be2a4d64a45ed3ddeb9d00c3d950cbc3a9a20a4e6b20021731d",
+          "text": "二九",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0060",
+          "version": "sha256:2f9cc792e7b1c85bfa1bccd15e407b4906bb995780ef5277684444731cf57d7d",
+          "text": "少游词境最为凄婉。至\"可堪孤馆闭春寒，杜鹃声里斜阳暮。\"则变而凄厉矣。东坡赏其后二语，犹为皮相。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0061",
+          "version": "sha256:a70676fba2a260e89793ebcc9d613314244fbe982cbd0b62eabf558cf95ef778",
+          "text": "三十",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0062",
+          "version": "sha256:1bf53b958921bb3a175497aa2d8abfff4b7a3fd09612472c760daf6736ea1336",
+          "text": "\"风雨如晦，鸡鸣不已。\"\"山峻高以蔽日兮，下幽晦以多雨。霰雪纷其无垠兮，云霏霏而承宇。\"\"树树皆秋色，山山尽落晖。\"\"可堪孤馆闭春寒，杜鹃声里斜阳暮。\"气象皆相似。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0063",
+          "version": "sha256:965e86a53e8a879900233dac5bac0993969ad6ba524d8db35d7b64283b881b6a",
+          "text": "三一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0064",
+          "version": "sha256:45553cbffded4a61ae8fe80cdebe9ffb320842d638221a84381d91533a59de81",
+          "text": "昭明太子称：陶渊明诗\"跌宕昭彰，独超众类。抑扬爽朗，莫之与京。\"王无功称：薛收赋\"韵趣高奇，词义晦远。嵯峨萧瑟，真不可言。\"词中惜少此二种气象，前者唯东坡，后者唯白石，略得一二耳。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0065",
+          "version": "sha256:203abb8aa8bde4243ecd759a8f8fc50d727e14ed8ac31b755be48c1ecd2a0001",
+          "text": "三二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0066",
+          "version": "sha256:c5eaeed988d5156cdcc85ceadb41fd42a091095700fa744314bab06e18ae3bf7",
+          "text": "词之雅郑，在神不在貌。永叔、少游虽作艳语，终有品格。方之美成，便有淑女与倡伎之别。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0067",
+          "version": "sha256:da6951a5f9ce3fd64f29ad39fa6faa229cb0d07728bef72a0d90f0a18d44f1b3",
+          "text": "三三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0068",
+          "version": "sha256:49a9cf317dd8fcf175fdc5029be0958b1e839a622cd8a53b34e75293afdff5d5",
+          "text": "美成深远之致不及欧、秦。唯言情体物，穷极工巧，故不失为第一流之作者。但恨创调之才多，创意之才少耳。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0069",
+          "version": "sha256:cf25192593fd04b8afcbd3b7f4c0e60c05fda5b695811215db4acce371ca0406",
+          "text": "三四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0070",
+          "version": "sha256:3a5d2e0db0d95ae17f902cb647c0f6262b5c6cf611b6ad380c5b7b2722795f88",
+          "text": "词忌用替代字。美成《解语花》之\"桂华流瓦\"，境界极妙。惜以\"桂华\"二字代\"月\"耳。梦窗以下，则用代字更多。其所以然者，非意不足，则语不妙也。盖意足则不暇代，语妙则不必代。此少游之\"小楼连苑\"，\"绣毂雕鞍\"，所以为东坡所讥也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0071",
+          "version": "sha256:e1a6128865bd12774cd7a7992c2e0577c5d6026ef50eee59831d79b36775d077",
+          "text": "三五",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0072",
+          "version": "sha256:ced74f6a9e5c1f231f1b90d8b41e0590e38a3d6fd553d1e450a78cd4a1df9c3b",
+          "text": "沈伯时《乐府指迷》云：\"说桃不可直说破桃，须用'红雨'、'刘郎'等字。咏柳不可直说破柳，须用'章台'、'灞岸'等字。\"若惟恐人不用代字者。果以是为工，则古今类书具在，又安用词为耶？宜其为《提要》所讥也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0073",
+          "version": "sha256:ba6510b7389fa5f233c40bdc2a87d5f4b05ac9de50f207d73f43fb353000a46a",
+          "text": "三六",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0074",
+          "version": "sha256:ba4e10e5faf8542f019befc1dd1cd5bbe9cdd5e325629c60b55e64ab05be3d6a",
+          "text": "美成《青玉案》词：\"叶上初阳干宿雨。水面清圆，一一风荷举。\"此真能得荷之神理者。觉白石《念奴娇》、《惜红衣》二词，犹有隔雾看花之恨。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0075",
+          "version": "sha256:e4ad40e3e4b4c922f7482a6086f86d406d783250a8f069cf28d2a0a5bc173e68",
+          "text": "三七",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0076",
+          "version": "sha256:803a28e2f5a36eb6e1e6364cd74798a90b7bdde06116657bb7cd23d1999e3cea",
+          "text": "东坡《水龙吟》咏杨花，和均而似元唱。章质夫词，原唱而似和均。才之不可强也如是！",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0077",
+          "version": "sha256:e3ccfba2d62d1f1373bda88c1fc3947afe5b8aac88bb8703a009be4ce545f399",
+          "text": "三八",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0078",
+          "version": "sha256:ec3db7327f94280e9f80971605ba962b6c5e5520a1fd1ca1949f9b64b3d480d7",
+          "text": "咏物之词，自以东坡《水龙吟》为最工，邦卿《双双燕》次之。白石《暗香》、《疏影》，格调虽高，然无一语道着，视古人\"江边一树垂垂发\"等句何如耶？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0079",
+          "version": "sha256:cbe76dfd98a618228075689425d3d20bb7f4638fbc3e06597d379eb348f16bfa",
+          "text": "三九",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0080",
+          "version": "sha256:927b503db5fe02b2c893dc6a02df1e2d7bbded4ae76349b0bb10c43251214941",
+          "text": "白石写景之作，如\"二十四桥仍在，波心荡、冷月无声。\"\"数峰清苦，商略黄昏雨。\"\"高树晚蝉，说西风消息。\"虽格韵高绝，然如雾里看花，终隔一层。梅溪、梦窗诸家写景之病，皆在一\"隔\"字。北宋风流，渡江遂绝。抑真有运会存乎其间耶？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0081",
+          "version": "sha256:f4d26ac94ae3b1c7fa675c2a024de100401a993813ef1071b5a8e857a63607ea",
+          "text": "四十",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0082",
+          "version": "sha256:e33874bdacfc21b59029ed5c18c044da9538ead8bbae612f43f9c2b04cf99bf1",
+          "text": "问\"隔\"与\"不隔\"之别，曰：陶、谢之诗不隔，延年则稍隔矣。东坡之诗不隔，山谷则稍隔矣。\"池塘生春草\"、\"空梁落燕泥\"等二句，妙处唯在不隔。词亦如是。即以一人一词论，如欧阳公《少年游》咏春草，上半阙云：\"阑干十二独凭春，晴碧远连云。千里万里，二月三月，行色苦愁人。\"语语都在目前，便是不隔。至云\"谢家池上，江淹浦畔。\"则隔矣。白石《翠楼吟》：\"此地。宜有词仙，拥素云黄鹤，与君游戏。玉梯凝望久，叹芳草、萋萋千里。\"便是不隔。至\"酒祓清愁，花消英气。\"则隔矣。然南宋词虽不隔处，比之前人，自有浅深厚薄之别。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0083",
+          "version": "sha256:631f53cbc01e984447a27dfbb150d9d0b21abd2ff7ed3f28d85c53a16fc8745b",
+          "text": "四一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0084",
+          "version": "sha256:c408a257a7b9a0b21d28a46cb0dc3cf0349cb9de1f3bc755180a9befb268030b",
+          "text": "\"生年不满百，常怀千岁忧。昼短苦夜长，何不秉烛游？\"\"服食求神仙，多为药所误。不如饮美酒，被服纨与素。\"写情如此，方为不隔。\"采菊东篱下，悠然见南山。山气日夕佳，飞鸟相与还。\"\"天似穹庐，笼盖四野。天苍苍，野茫茫。风吹草低见牛羊。\"写景如此，方为不隔。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0085",
+          "version": "sha256:8237b05aac0dab174e3ec9ecdc927c3038ba1fdec85d2888eb19982d590101ca",
+          "text": "四二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0086",
+          "version": "sha256:3fb2c30951d32bc981172bbc5c2cdfa36f2206a11db564c3ca1ff86fa2e31235",
+          "text": "古今词人格调之高，无如白石。惜不于意境上用力，故觉无言外之味，弦外之响，终不能与于第一流之作者也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0087",
+          "version": "sha256:d803ade52a057c0499353251199b6d4a79ebbe39c50b0fef538c41c2a127cb86",
+          "text": "四三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0088",
+          "version": "sha256:3e7babf96b908ee35fb23ab7c4f951c987e33fcf6cc6f86c97b6d657ab65a789",
+          "text": "南宋词人，白石有格而无情，剑南有气而乏韵。其堪与北宋人颉颃者，唯一幼安耳。近人祖南宋而祧北宋，以南宋之词可学，北宋不可学也。学南宋者，不祖白石，则祖梦窗，以白石、梦窗可学，幼安不可学也。学幼安者率祖其粗犷、滑稽，以其粗犷、滑稽处可学，佳处不可学也。幼安之佳处，在有性情，有境界。即以气象论，亦有\"横素波、干青云\"之概，宁后世龌龊小生所可拟耶？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0089",
+          "version": "sha256:68b90d50e4e8dbf79f67ee2c5fdb43b001191909a7abb95cbe3f2204d0957a9a",
+          "text": "四四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0090",
+          "version": "sha256:a4e07f8631e5e54a134d1b02346ec511f18fc401d55ec7e8655bf66751e116a1",
+          "text": "东坡之词旷，稼轩之词豪。无二人之胸襟而学其词，犹东施之效捧心也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0091",
+          "version": "sha256:cf18970aa39e0fda501999c5bc7598319b8a12081385ca298dcc59e247107255",
+          "text": "四五",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0092",
+          "version": "sha256:167af41e154420e019b7d866618a59466d1bdaed4e537872a1785538857fd9f1",
+          "text": "读东坡、稼轩词，须观其雅量高致，有伯夷、柳下惠之风。白石虽似蝉蜕尘埃，然终不免局促辕下。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0093",
+          "version": "sha256:7dca9d6c3679a375247c23590a2159b2cb4036498d7bfeec4cae7be26fcb6cdd",
+          "text": "四六",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0094",
+          "version": "sha256:5119b83d263f3d180f801e07cc59a959807a0dd7175cc72efb1c068262a940f4",
+          "text": "苏、辛，词中之狂。白石犹不失为狷。若梦窗、梅溪、玉田、草窗、中麓辈，面目不同，同归于乡愿而已。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0095",
+          "version": "sha256:02fe8649321ead96b9f60658262260543883af6f2c6d444e91b58b093b9b409e",
+          "text": "四七",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0096",
+          "version": "sha256:465ddb39b21f09b0730fa5d5f81e6921639bdb7ac44da677e493e4f7042af150",
+          "text": "稼轩中秋饮酒达旦，用《天问》体作《木兰花慢》以送月，曰：\"可怜今夕月，向何处、去悠悠？是别有人间，那边才见，光景东头。\"词人想象，直悟月轮绕地之理，与科学家密合，可谓神悟。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0097",
+          "version": "sha256:f77da5f2a00b2dbbe34fc3953d44ed75c8b7ee908da48231e63e84a8dbb2d710",
+          "text": "四八",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0098",
+          "version": "sha256:55ec5772325838db70429b0d7e5da043732be220ea0a52bf33ae7ce3f17b6908",
+          "text": "周介存谓\"梅溪词中喜用'偷'字，足以定其品格。\"刘融斋谓\"周旨荡而史意贪。\"此二语令人解颐。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0099",
+          "version": "sha256:8f3ba09517e2e2dea3935afb5de74b078da7e74528dfcf6ea416a2875783fc82",
+          "text": "四九",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0100",
+          "version": "sha256:01f70c8a448e8030cf10972149a78d49a2e5250e492dbc8bb5087af428ebb61d",
+          "text": "介存谓：梦窗词之佳者，如\"水光云影，摇荡绿波，抚玩无极，迫寻已远。\"余览《梦窗甲乙丙丁稿》中，实无足当此者。有之，其\"隔江人在雨声中，晚风菰叶生秋怨\"二语乎？",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0101",
+          "version": "sha256:7c848f5005f0ee86169157879311ac899248fd94430927095e64e07a79a8c6d2",
+          "text": "五十",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0102",
+          "version": "sha256:8e30012b304e0c8d92ab872833004ec44901cdb513d3a32e3f898c2a4041c02f",
+          "text": "梦窗之词，吾得取其词中之一语以评之，曰：\"映梦窗凌乱碧。\"玉田之词，余得取其词中之一语以评之，曰：\"玉老田荒。\"",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0103",
+          "version": "sha256:3e6411eaae4b6a49dba0b2f6d5c5779cb64989b312e678c4bb3064380add3b5c",
+          "text": "五一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0104",
+          "version": "sha256:3567e4a78fecd44a5948d3b1e91fd87bd72f041016d8a854d008c14d434abc44",
+          "text": "\"明月照积雪\"、\"大江流日夜\"、\"中天悬明月\"、\"黄河落日圆\"，此种境界，可谓千古壮观。求之于词，唯纳兰容若塞上之作，如《长相思》之\"夜深千帐灯\"，《如梦令》之\"万帐穹庐人醉，星影摇摇欲坠\"差近之。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0105",
+          "version": "sha256:3ae530900fe3a4dcfc1b4c48be42bfdb8c8d8c24bd34ca6cc6114299198c5225",
+          "text": "五二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0106",
+          "version": "sha256:a02f8ce7962e479a3a3d76ab07df23c672d124dceb8d76a4666c4ccf2dca1398",
+          "text": "纳兰容若以自然之眼观物，以自然之舌言情。此由初入中原，未染汉人风气，故能真切如此。北宋以来，一人而已。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0107",
+          "version": "sha256:7c5959fb45b38831602b297307038f91629355ff2d70b090a0f0e6d1ebfd26f4",
+          "text": "五三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0108",
+          "version": "sha256:8b0c69b33dfd7a843881297991b42d8fa582057419a3981ed6b8dc92610902d5",
+          "text": "陆放翁跋《花间集》，谓：\"唐季五代，诗愈卑，而倚声者辄简古可爱。能此不能彼，未可以理推也。\"《提要》驳之，谓：\"犹能举七十斤者，举百斤则蹶，举五十斤则运掉自如。\"其言甚辨。然谓词必易于诗，余未敢信。善乎陈卧子之言曰：\"宋人不知诗而强作诗，故终宋之世无诗。然其欢愉愁苦之致，动于中而不能抑者，类发于诗余，故其所造独工。\"五代词之所以独胜，亦以此也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0109",
+          "version": "sha256:c0f2d66ab2e3482868d4ccf875d5d2c90e5dbc33b18f3a25467d936e6dc75891",
+          "text": "五四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0110",
+          "version": "sha256:087f1a288d749d7ecf7617166e5d18761e69efd31525899a36c868e36bdf88fb",
+          "text": "四言敝而有《楚辞》，《楚辞》敝而有五言，五言敝而有七言，古诗敝而有律绝，律绝敝而有词。盖文体通行既久，染指遂多，自成习套。豪杰之士，亦难于其中自出新意，故遁而作他体，以自解脱。一切文体所以始盛终衰者，皆由于此。故谓文学后不如前，余未敢信。但就一体论，则此说固无以易也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0111",
+          "version": "sha256:8a8162c062af0f6d92e40f3f1643bd909587cc6de642ad78d239f18ae136f4c8",
+          "text": "五五",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0112",
+          "version": "sha256:6b8255bb50fcbd9ce28d65a64a06cd978389fe5a5d17a6dd741150a00df70add",
+          "text": "诗之《三百篇》、《十九首》，词之五代、北宋，皆无题也。非无题也，诗词中之意，不能以题尽之也。自《花庵》、《草堂》每调立题，并古人无题之词亦为之作题。如观一幅佳山水，而即曰此某山某河，可乎？诗有题而诗亡，词有题而词亡。然中材之士，鲜能知此而自振拔者矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0113",
+          "version": "sha256:38b50b1200c286d855f4c2b55e7b8093df0ac660dbd5df5f768424ab9b73be0f",
+          "text": "五六",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0114",
+          "version": "sha256:e1e84bd5d45d204db0989583ca8cc7ad4e49e1e3fa927d6f1523babe67ceb550",
+          "text": "大家之作，其言情也必沁人心脾，其写景也必豁人耳目。其辞脱口而出，无矫揉妆束之态。以其所见者真，所知者深也。诗词皆然。持此以衡古今之作者，可无大误矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0115",
+          "version": "sha256:d791fe32a3b816ab90e6879888fbc0e9774df0773f149c3c055717d5ce6abd7b",
+          "text": "五七",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0116",
+          "version": "sha256:c84e6ddfe78d10a357edbdd861a598d9d06c732c9a86da70c5603fcf30e222fe",
+          "text": "人能于诗词中不为美刺投赠之篇，不使隶事之句，不用粉饰之字，则于此道已过半矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0117",
+          "version": "sha256:3ea168a259dee28cd675ba49f472137b7f4bc7b425b144eb081df3a2b4cfd61a",
+          "text": "五八",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0118",
+          "version": "sha256:409862e1432cc028c3b559bcffe90bbb83a73709207a0b0069414f7fcdb36446",
+          "text": "以《长恨歌》之壮采，而所隶之事，只\"小玉双成\"四字，才有余也。梅村歌行，则非隶事不办。白、吴优劣，即于此见。不独作诗为然，填词家亦不可不知也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0119",
+          "version": "sha256:541dfc18a5b3722dd91e702b38de219332dcc54597004efe22529dc87c19f7c9",
+          "text": "五九",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0120",
+          "version": "sha256:3e590c1a42db6f9d7631a233b5b4a618dc1601c9f294be68d46c5236dfd9992a",
+          "text": "近体诗体制，以五七言绝句为最尊，律诗次之，排律最下。盖此体于寄兴言情，两无所当，殆有均之骈体文耳。词中小令如绝句，长调似律诗，若长调之《百字令》、《沁园春》等，则近于排律矣。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0121",
+          "version": "sha256:55138c1a1ab8119bb65366c9aef0c9aed533fa388d31f57fcb28ec53372f8074",
+          "text": "六十",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0122",
+          "version": "sha256:1c8ee3aa85262b48cd18dd0b8f73c0d65156cba328209216c1919b409ece91fc",
+          "text": "诗人对宇宙人生，须入乎其内，又须出乎其外。入乎其内，故能写之。出乎其外，故能观之。入乎其内，故有生气。出乎其外，故有高致。美成能入而不能出。白石以降，于此二事皆未梦见。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0123",
+          "version": "sha256:9b8eec63778281030d6530297f94b3e536e07f00e23ef1a3e46d51cfda3bade5",
+          "text": "六一",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0124",
+          "version": "sha256:acd61892e81a5cf73496073a462660a585e5ad3b289a107c24dab79ea68817d9",
+          "text": "诗人必有轻视外物之意，故能以奴仆命风月。又必有重视外物之意，故能与花鸟共忧乐。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0125",
+          "version": "sha256:156487bed8f54dbcb704d5834f6f67a80b239498c925a36dc147c95119c143eb",
+          "text": "六二",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0126",
+          "version": "sha256:1bca0a054a9666cc02b9153b574bab3c8fbaf9586ddd9a8bfa2177e8e1154982",
+          "text": "\"昔为倡家女，今为荡子妇。荡子行不归，空床难独守。\"\"何不策高足，先据要路津？无为久贫贱，轗轲长苦辛。\"可谓淫鄙之尤。然无视为淫词、鄙词者，以其真也。五代、北宋之大词人亦然。非无淫词，读之者但觉其亲切动人。非无鄙词，但觉其精力弥满。可知淫词与鄙词之病，非淫与鄙之病，而游词之病也。\"岂不尔思，室是远而。\"而子曰：\"未之思也，夫何远之有？\"恶其游也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0127",
+          "version": "sha256:6fec87ba7cf3591832bbb6faa42807c0bf5e7760b246f0ac58145e9e9c53c3f1",
+          "text": "六三",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0128",
+          "version": "sha256:460a11baa24118c071b174f2d173182dbc5c690812650566cc483cc1460d33ef",
+          "text": "\"枯藤老树昏鸦。小桥流水平沙。古道西风瘦马。夕阳西下。断肠人在天涯。\"此元人马东篱《天净沙》小令也。寥寥数语，深得唐人绝句妙境。有元一代词家，皆不能办此也。",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0129",
+          "version": "sha256:e16cae5e69d94a65dc464849698566f99dbaace2754b48e279b79fc34ea1f2e2",
+          "text": "六四",
+          "aliases": []
+        },
+        {
+          "id": "p-renjiancihua-df0e1d604453d812-0130",
+          "version": "sha256:ddd006c37d95107a8bf8b3822e81ca801663c12a202829fbf1d3afeffecd9a3c",
+          "text": "白仁甫《秋夜梧桐雨》剧，沈雄悲壮，为元曲冠冕。然所作《天籁词》，粗浅之甚，不足为稼轩奴隶，岂创者易工，而因者难巧欤？抑人各有能有不能也？读者观欧、秦之诗远不如词，足透此中消息",
+          "aliases": []
+        }
+      ]
+    }
+  ]
+}

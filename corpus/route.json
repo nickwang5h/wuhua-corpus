@@ -1,0 +1,164 @@
+[
+  {
+    "stage": 0,
+    "title": "既有基础",
+    "question": "从日常伦理、道与逍遥建立三种不同的提问方式。",
+    "reading": "论语选章 → 老子选章 → 庄子内篇；旧引用保持冻结。",
+    "works": [
+      "lunyu",
+      "laozi",
+      "zhuangzi"
+    ],
+    "extensions": []
+  },
+  {
+    "stage": 1,
+    "title": "四书五经",
+    "question": "修身如何连接政治？先获得仁义、诚、中和、礼与天命的共同语言。",
+    "reading": "大学全文 → 中庸全文 → 孟子梁惠王、尽心 → 诗经国风选篇 → 尚书政治篇章 → 周易系辞选段 → 礼记学记、礼运 → 春秋与左传对读。",
+    "works": [
+      "daxue",
+      "zhongyong",
+      "mengzi",
+      "zhouyi",
+      "shangshu",
+      "shijing",
+      "liji",
+      "chunqiu",
+      "zuozhuan"
+    ],
+    "extensions": []
+  },
+  {
+    "stage": 2,
+    "title": "先秦诸子",
+    "question": "当儒家主张受到挑战，兼爱、礼法和权力各自如何解释秩序？",
+    "reading": "墨子兼爱、非攻 → 荀子劝学、性恶 → 韩非子五蠹、显学；与论语、孟子、老庄比较。",
+    "works": [
+      "mozi",
+      "xunzi",
+      "hanfeizi"
+    ],
+    "extensions": [
+      "liezi",
+      "guanzi",
+      "sunzi",
+      "gongsunlongzi",
+      "shangjunshu",
+      "lvshichunqiu"
+    ]
+  },
+  {
+    "stage": 3,
+    "title": "秦汉思想与帝国",
+    "question": "思想进入统一帝国后，个人选择、历史评价和治理如何相互牵动？",
+    "reading": "史记伯夷列传、项羽本纪、廉颇蔺相如列传选读 → 淮南子原道训、主术训；史记全文只是 corpus 范围。",
+    "works": [
+      "shiji",
+      "huainanzi"
+    ],
+    "extensions": [
+      "yantielun",
+      "lunheng",
+      "chunqiufanlu",
+      "shuoyuan",
+      "xinxu"
+    ]
+  },
+  {
+    "stage": 4,
+    "title": "魏晋人格与文学",
+    "question": "从公共秩序转向人物的言语、姿态、自然观与文学自觉。",
+    "reading": "世说新语德行、言语、任诞、容止选则 → 陶渊明归去来兮辞 → 文心雕龙原道选段。",
+    "works": [
+      "shishuoxinyu"
+    ],
+    "extensions": [
+      "baopuzi",
+      "wenxindiaolong",
+      "taoyuanmingji"
+    ]
+  },
+  {
+    "stage": 5,
+    "title": "唐宋古文",
+    "question": "训练如何叙事、说理、抒情，并辨认同一思想在不同文章形式中的力量。",
+    "reading": "古文观止中师说、捕蛇者说、醉翁亭记、前赤壁赋、岳阳楼记；再到原作者文集扩展。",
+    "works": [
+      "guwenguanzhi"
+    ],
+    "extensions": [
+      "hanyuji",
+      "liuzongyuanji",
+      "ouyangxiuji",
+      "sushiji"
+    ]
+  },
+  {
+    "stage": 6,
+    "title": "宋明理学的前提",
+    "question": "从孟子的心性进入理、气、敬、格物的体系，理解心学争论为何发生。",
+    "reading": "太极图说 → 通书 → 西铭 → 正蒙选章 → 近思录道体与为学 → 四书章句集注中大学章句；陆九渊作为进入阳明前的桥梁。",
+    "works": [
+      "taijitushuo",
+      "tongshu",
+      "zhengmeng",
+      "ximing",
+      "jinsilu",
+      "sishuzhangjujizhu"
+    ],
+    "extensions": [
+      "erchengyishu",
+      "lujiuyuanji",
+      "zhuziyulei"
+    ]
+  },
+  {
+    "stage": 7,
+    "title": "王阳明",
+    "question": "心即理、知行合一与致良知如何成为修养实践，而非只是一组口号？",
+    "reading": "传习录卷上徐爱所录 → 卷中答顾东桥书 → 卷下选段；对照朱熹格物说，回到实际行动中的分歧。",
+    "works": [
+      "chuanxilu"
+    ],
+    "extensions": [
+      "wangwenchenggongquanshu"
+    ]
+  },
+  {
+    "stage": 8,
+    "title": "明清思想转向",
+    "question": "易代经验如何推动制度反思、经世、史论与概念考辨？",
+    "reading": "明夷待访录原君、原臣、原法、学校 → 日知录经世选条 → 读通鉴论史论选篇 → 孟子字义疏证理与欲。",
+    "works": [
+      "mingyidaifanglu",
+      "rizhilu",
+      "dutongjianlun",
+      "mengziziyishuzheng"
+    ],
+    "extensions": [
+      "fenshu",
+      "yanyuanji",
+      "zengguofanjiashu",
+      "gongzizhenji"
+    ]
+  },
+  {
+    "stage": 9,
+    "title": "晚清至近代",
+    "question": "古文如何承载进化、国家、国民与世界等新问题？",
+    "reading": "天演论导言与严复按语选段 → 新民说公德、国家思想、自由 → 少年中国说；以人间词话观察近代批评语言。",
+    "works": [
+      "tianyanlun",
+      "xinminshuo"
+    ],
+    "extensions": [
+      "shaonianzhongguoshuo",
+      "yuanqiang",
+      "datongshu",
+      "renjiancihua",
+      "haiguotuzhi",
+      "guguolunheng"
+    ]
+  }
+]

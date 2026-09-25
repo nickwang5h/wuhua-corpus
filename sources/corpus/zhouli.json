@@ -1,0 +1,38 @@
+{
+  "work": "zhouli",
+  "provider": "guopop",
+  "rootTitle": "周禮",
+  "pages": [
+    {
+      "title": "经/礼类/周礼.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E7%A4%BC%E7%B1%BB/%E5%91%A8%E7%A4%BC.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "f6fa7f5da7f6738cbd20e10b3bbcb10caa0a345b3c0cd7ae8903c6564979dde1"
+    }
+  ],
+  "metadata": {
+    "author": "東漢・鄭玄",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 天官冢宰第一",
+    "source-missing-glyph: 冬官考工記第十一"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E7%A4%BC%E7%B1%BB/%E5%91%A8%E7%A4%BC.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "137d1ba73521671df0469bbf9fc3737dfbc7ebe34cf0f3a91450ebe0a0cb326f",
+  "stats": {
+    "chapters": 12,
+    "paragraphs": 2966,
+    "characters": 61024,
+    "emptyChapters": 0
+  }
+}

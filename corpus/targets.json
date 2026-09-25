@@ -1,0 +1,357 @@
+[
+  {
+    "id": "daxue",
+    "title": "大學",
+    "priority": "P0"
+  },
+  {
+    "id": "zhongyong",
+    "title": "中庸",
+    "priority": "P0"
+  },
+  {
+    "id": "mengzi",
+    "title": "孟子",
+    "priority": "P0"
+  },
+  {
+    "id": "zhouyi",
+    "title": "周易",
+    "priority": "P0"
+  },
+  {
+    "id": "shangshu",
+    "title": "尚書",
+    "priority": "P0"
+  },
+  {
+    "id": "shijing",
+    "title": "詩經",
+    "priority": "P0"
+  },
+  {
+    "id": "liji",
+    "title": "禮記",
+    "priority": "P0"
+  },
+  {
+    "id": "chunqiu",
+    "title": "春秋",
+    "priority": "P0"
+  },
+  {
+    "id": "zuozhuan",
+    "title": "春秋左氏傳",
+    "priority": "P0"
+  },
+  {
+    "id": "mozi",
+    "title": "墨子",
+    "priority": "P0"
+  },
+  {
+    "id": "xunzi",
+    "title": "荀子",
+    "priority": "P0"
+  },
+  {
+    "id": "hanfeizi",
+    "title": "韓非子",
+    "priority": "P0"
+  },
+  {
+    "id": "liezi",
+    "title": "列子",
+    "priority": "P1"
+  },
+  {
+    "id": "guanzi",
+    "title": "管子",
+    "priority": "P1"
+  },
+  {
+    "id": "sunzi",
+    "title": "孫子兵法",
+    "priority": "P1"
+  },
+  {
+    "id": "gongsunlongzi",
+    "title": "公孫龍子",
+    "priority": "P1"
+  },
+  {
+    "id": "shangjunshu",
+    "title": "商君書",
+    "priority": "P1"
+  },
+  {
+    "id": "lvshichunqiu",
+    "title": "呂氏春秋",
+    "priority": "P1"
+  },
+  {
+    "id": "shiji",
+    "title": "史記",
+    "priority": "P0"
+  },
+  {
+    "id": "huainanzi",
+    "title": "淮南子",
+    "priority": "P0"
+  },
+  {
+    "id": "yantielun",
+    "title": "鹽鐵論",
+    "priority": "P1"
+  },
+  {
+    "id": "lunheng",
+    "title": "論衡",
+    "priority": "P1"
+  },
+  {
+    "id": "chunqiufanlu",
+    "title": "春秋繁露",
+    "priority": "P1"
+  },
+  {
+    "id": "shuoyuan",
+    "title": "說苑",
+    "priority": "P1"
+  },
+  {
+    "id": "xinxu",
+    "title": "新序",
+    "priority": "P1"
+  },
+  {
+    "id": "hanshu",
+    "title": "漢書",
+    "priority": "P2"
+  },
+  {
+    "id": "shishuoxinyu",
+    "title": "世說新語",
+    "priority": "P0"
+  },
+  {
+    "id": "baopuzi",
+    "title": "抱朴子內篇",
+    "priority": "P1"
+  },
+  {
+    "id": "wenxindiaolong",
+    "title": "文心雕龍",
+    "priority": "P1"
+  },
+  {
+    "id": "taoyuanmingji",
+    "title": "陶淵明集",
+    "priority": "P1"
+  },
+  {
+    "id": "guwenguanzhi",
+    "title": "古文觀止",
+    "priority": "P0"
+  },
+  {
+    "id": "hanyuji",
+    "title": "昌黎先生集",
+    "priority": "P1"
+  },
+  {
+    "id": "liuzongyuanji",
+    "title": "柳河東集",
+    "priority": "P1"
+  },
+  {
+    "id": "ouyangxiuji",
+    "title": "歐陽文忠公集",
+    "priority": "P1"
+  },
+  {
+    "id": "sushiji",
+    "title": "東坡全集",
+    "priority": "P1"
+  },
+  {
+    "id": "taijitushuo",
+    "title": "太極圖說",
+    "priority": "P0"
+  },
+  {
+    "id": "tongshu",
+    "title": "通書",
+    "priority": "P0"
+  },
+  {
+    "id": "zhengmeng",
+    "title": "正蒙",
+    "priority": "P0"
+  },
+  {
+    "id": "ximing",
+    "title": "西銘",
+    "priority": "P0"
+  },
+  {
+    "id": "jinsilu",
+    "title": "近思錄",
+    "priority": "P0"
+  },
+  {
+    "id": "sishuzhangjujizhu",
+    "title": "四書章句集注",
+    "priority": "P0"
+  },
+  {
+    "id": "erchengyishu",
+    "title": "河南程氏遺書",
+    "priority": "P1"
+  },
+  {
+    "id": "lujiuyuanji",
+    "title": "陸九淵集",
+    "priority": "P1"
+  },
+  {
+    "id": "zhuziyulei",
+    "title": "朱子語類",
+    "priority": "P1"
+  },
+  {
+    "id": "chuanxilu",
+    "title": "傳習錄",
+    "priority": "P0"
+  },
+  {
+    "id": "wangwenchenggongquanshu",
+    "title": "王文成公全書",
+    "priority": "P1"
+  },
+  {
+    "id": "mingyidaifanglu",
+    "title": "明夷待訪錄",
+    "priority": "P0"
+  },
+  {
+    "id": "rizhilu",
+    "title": "日知錄",
+    "priority": "P0"
+  },
+  {
+    "id": "dutongjianlun",
+    "title": "讀通鑑論",
+    "priority": "P0"
+  },
+  {
+    "id": "mengziziyishuzheng",
+    "title": "孟子字義疏證",
+    "priority": "P0"
+  },
+  {
+    "id": "fenshu",
+    "title": "焚書",
+    "priority": "P1"
+  },
+  {
+    "id": "yanyuanji",
+    "title": "顏元集",
+    "priority": "P1"
+  },
+  {
+    "id": "zengguofanjiashu",
+    "title": "曾國藩家書",
+    "priority": "P1"
+  },
+  {
+    "id": "gongzizhenji",
+    "title": "龔自珍集",
+    "priority": "P1"
+  },
+  {
+    "id": "tianyanlun",
+    "title": "天演論",
+    "priority": "P0"
+  },
+  {
+    "id": "xinminshuo",
+    "title": "新民說",
+    "priority": "P0"
+  },
+  {
+    "id": "shaonianzhongguoshuo",
+    "title": "少年中國說",
+    "priority": "P1"
+  },
+  {
+    "id": "yuanqiang",
+    "title": "原強",
+    "priority": "P1"
+  },
+  {
+    "id": "datongshu",
+    "title": "大同書",
+    "priority": "P1"
+  },
+  {
+    "id": "renjiancihua",
+    "title": "人間詞話",
+    "priority": "P1"
+  },
+  {
+    "id": "haiguotuzhi",
+    "title": "海國圖志",
+    "priority": "P1"
+  },
+  {
+    "id": "guguolunheng",
+    "title": "國故論衡",
+    "priority": "P1"
+  },
+  {
+    "id": "gongyang",
+    "title": "春秋公羊傳",
+    "priority": "P2"
+  },
+  {
+    "id": "guliang",
+    "title": "春秋穀梁傳",
+    "priority": "P2"
+  },
+  {
+    "id": "xiaojing",
+    "title": "孝經",
+    "priority": "P2"
+  },
+  {
+    "id": "erya",
+    "title": "爾雅",
+    "priority": "P2"
+  },
+  {
+    "id": "zhouli",
+    "title": "周禮",
+    "priority": "P2"
+  },
+  {
+    "id": "yili",
+    "title": "儀禮",
+    "priority": "P2"
+  },
+  {
+    "id": "wanganshiji",
+    "title": "臨川文集",
+    "priority": "P2"
+  },
+  {
+    "id": "zenggongji",
+    "title": "元豐類稿",
+    "priority": "P2"
+  },
+  {
+    "id": "zhanguoce",
+    "title": "戰國策",
+    "priority": "P2"
+  }
+]

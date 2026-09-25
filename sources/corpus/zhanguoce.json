@@ -1,0 +1,38 @@
+{
+  "work": "zhanguoce",
+  "provider": "guopop",
+  "rootTitle": "戰國策",
+  "pages": [
+    {
+      "title": "史/杂史类/战国策.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%8F%B2/%E6%9D%82%E5%8F%B2%E7%B1%BB/%E6%88%98%E5%9B%BD%E7%AD%96.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "815f1ad2d9e53d995aefe7a2414f302b3c065582c72b3fe0b33cd18f90726e15"
+    }
+  ],
+  "metadata": {
+    "author": "南宋・鮑彪",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Structured whole-work bootstrap selected after discovering 46 Wikisource pages."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%8F%B2/%E6%9D%82%E5%8F%B2%E7%B1%BB/%E6%88%98%E5%9B%BD%E7%AD%96.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "a2f288de7ef617ceec9df5bb213f2d41df8b9be31cb87b007bd920b12a7d79a1",
+  "stats": {
+    "chapters": 13,
+    "paragraphs": 7420,
+    "characters": 156017,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

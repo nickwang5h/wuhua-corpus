@@ -1,0 +1,36 @@
+{
+  "work": "hanfeizi",
+  "provider": "guopop",
+  "rootTitle": "韓非子",
+  "pages": [
+    {
+      "title": "子/法家类/韩非子.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%B3%95%E5%AE%B6%E7%B1%BB/%E9%9F%A9%E9%9D%9E%E5%AD%90.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "7b860a10a1e40ee75e8d1a36a15937a44e26c9779bc03a59320c5406c6857bd5"
+    }
+  ],
+  "metadata": {
+    "author": "戰國・韓非",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Structured whole-work bootstrap selected after discovering 76 Wikisource pages."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%B3%95%E5%AE%B6%E7%B1%BB/%E9%9F%A9%E9%9D%9E%E5%AD%90.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "6dbb6728c9c870759b5862f4cd875eeb270835889e30aad2f6c7cb3a365b84db",
+  "stats": {
+    "chapters": 57,
+    "paragraphs": 1258,
+    "characters": 129143,
+    "emptyChapters": 0
+  }
+}

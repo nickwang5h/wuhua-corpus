@@ -1,0 +1,36 @@
+{
+  "work": "huainanzi",
+  "provider": "guopop",
+  "rootTitle": "淮南子",
+  "pages": [
+    {
+      "title": "子/杂家类/淮南子.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E6%B7%AE%E5%8D%97%E5%AD%90.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "eff83aeeda3e96013c58150b3d094a1d3469a99acacb0e9baf597b8b72d6721e"
+    }
+  ],
+  "metadata": {
+    "author": "西漢・劉安",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E6%B7%AE%E5%8D%97%E5%AD%90.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "3e29571188d2c312e37d035c110a16498e83c883191cab406c3683b327f28887",
+  "stats": {
+    "chapters": 22,
+    "paragraphs": 4834,
+    "characters": 158387,
+    "emptyChapters": 0
+  }
+}

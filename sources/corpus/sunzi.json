@@ -1,0 +1,34 @@
+{
+  "work": "sunzi",
+  "provider": "zhwikisource",
+  "rootTitle": "孫子兵法",
+  "pages": [
+    {
+      "title": "孫子兵法",
+      "pageId": 11779,
+      "revisionId": 7906064,
+      "revision": "7906064",
+      "timestamp": "2026-07-02T02:39:46Z",
+      "fetchedAt": "2026-09-24T19:56:04.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+      "sha256": "d9dd1e4e87e030527c0a96dd5898c39f00e8148e17c787a277e20eb2f39b365a"
+    }
+  ],
+  "metadata": {
+    "author": "孫武"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "945a5254b2a7f55658576c56f591837703e63eee157f1d55f36f1af7c6013835",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 90,
+    "characters": 10164,
+    "emptyChapters": 0
+  }
+}

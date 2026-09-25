@@ -1,0 +1,36 @@
+{
+  "work": "zhongyong",
+  "provider": "gujilab",
+  "rootTitle": "中庸",
+  "pages": [
+    {
+      "title": "output/sishu/zhongyong.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/zhongyong.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "9a290f74897ed0e38abe979a1ff6538ca64236945b5c01822a41d2ddc53283fb"
+    }
+  ],
+  "metadata": {
+    "author": "子思",
+    "era": "春秋",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "4f541f67b9fb27430844e33e9c621b13a4a735945c79333a96771757e05c144b",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 39,
+    "characters": 4456,
+    "emptyChapters": 0
+  }
+}

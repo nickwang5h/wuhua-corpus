@@ -1,0 +1,36 @@
+{
+  "work": "xiaojing",
+  "provider": "gujilab",
+  "rootTitle": "孝經",
+  "pages": [
+    {
+      "title": "output/shisanjing/xiaojing.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/xiaojing.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "66c5cc73eb34536a6a2c0e7a6f7f3c3db86cfa20ad984f9d5210d1abff3b8476"
+    }
+  ],
+  "metadata": {
+    "author": "孔子门徒（传）",
+    "era": "春秋",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "913b050a9305e5c41a633335aaf59e9f9bef0e216cf308b8b2014fdd0799eb75",
+  "stats": {
+    "chapters": 18,
+    "paragraphs": 23,
+    "characters": 2267,
+    "emptyChapters": 0
+  }
+}

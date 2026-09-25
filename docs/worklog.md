@@ -1,0 +1,28 @@
+# 历史工作记录
+
+本文保留当时的阶段结果；数量、版本和操作入口以当前源码、机器报告及 README 为准。
+
+## 2026-09-24 · 自动 corpus 与中国思想阅读路线
+
+检查独立 Corpus、中文站 main 与 Learn 的固定包边界后，沿用 src/books、TextBook/Chapter/Paragraph、manifest 和旧引用体系。旧三书、历史、拼音和辅助资料未修改。
+
+实现小型 targets/overrides、Wikisource 自动发现和固定修订抓取、Gujilab 结构转换、必要的整书 JSON/TXT bootstrap、确定性清洗、来源清单、schema/完整性检查及六个 corpus 命令。Raw 缓存忽略于 Git；已有 canonical 变更仍进入候选而非静默覆盖。
+
+实际新增 69 部：P0 29/29、P1 31/32、P2/bonus 9。新文本 13,078,104 码点，总 corpus 13,186,182 码点，含标点与保留的古注。唯一未入库的国故论衡因成均图为图像页而报告异常。[逐书来源、固定修订、数量及路线](corpus-route.md) 与 [机器报告](../corpus/report.json) 保留详细结果。
+
+代表性检查覆盖目录模板、重复卷页、古注字段、现代附文、空正文和 UI 污染。四书章句集注保留朱熹注；正蒙改用 Wiki 两序十七篇，排除备用源现代附文。缓存重建检查确定性。Corpus 的 check:content、check:types、test、build 通过；两个站点在隔离副本中使用扩展后的本地包完成内容检查、测试及构建。
+
+新增独立 Stage 0–9 编辑路线；更新 README、architecture、content-authoring、development、deployment 以及拆仓后实际存在的 wuhua-corpus-intake skill。未新建同义 wuhua-content-intake skill。没有发布新 release、升级产品 vendor 或部署站点。
+
+后续优先处理图像页表达和有明确证据的来源异常，再从大学、世说新语和传习录各选少量篇章验证阅读路线；不需要先迁移旧三书或批量生成译注。
+
+
+## 2026-09-24 · 图像页表达与路线试读
+
+重新验证老子、论语、庄子的 UTF-8 JSON、chapter/paragraph 结构、固定来源、版本及别名：分别为 81/20/33 章、81/507/882 段。三个文件无需迁移，正文和身份均未修改。
+
+增加图像专页类型和原图资产校验，成均图以真实图像入库。国故论衡现有 26 个单元，其中 25 个文字单元、1 个图像单元；未将图片识读结果或占位文字冒充原文。总 corpus 为 73 部，13,281,582 个文字码点，另有 1 张原图；unresolved 清零。
+
+大学、世说新语、传习录各选两段，共六个样本、1,131 字符，保存固定引用并生成可阅读预览。样本围绕概念与诚意、人物叙事、知行问答推进；阳明部分明确以 Stage 6 为前置。世说的段落与故事边界不一致，选编不能机械照搬段号。未进行真实读者学习效果测试，也未改产品 UI 或发布。
+
+本轮 `check:content`、`check:types`、`npm test`、`npm run build` 均通过。图像入库从固定缓存重建无差异，打包预检确认原图包含在包内，文档图片链接有效；未生成或覆盖已发布 release。

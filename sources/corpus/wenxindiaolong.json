@@ -1,0 +1,37 @@
+{
+  "work": "wenxindiaolong",
+  "provider": "guopop",
+  "rootTitle": "文心雕龍",
+  "pages": [
+    {
+      "title": "集/诗文评类/文心雕龙.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E8%AF%97%E6%96%87%E8%AF%84%E7%B1%BB/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%99.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "d60df497d4d7a982d81a7e1d91f9279e5c566e5652111aa0345085344f89f017"
+    }
+  ],
+  "metadata": {
+    "author": "南北朝・刘勰",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 隱秀篇闕文補"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E8%AF%97%E6%96%87%E8%AF%84%E7%B1%BB/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%99.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "83333d3b67e4d1d8ffba11def7a254202853b03351d67d1a97103653653f68ae",
+  "stats": {
+    "chapters": 51,
+    "paragraphs": 101,
+    "characters": 45662,
+    "emptyChapters": 0
+  }
+}

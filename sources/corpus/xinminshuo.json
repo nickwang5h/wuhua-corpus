@@ -1,0 +1,264 @@
+{
+  "work": "xinminshuo",
+  "provider": "zhwikisource",
+  "rootTitle": "新民說",
+  "pages": [
+    {
+      "title": "新民說",
+      "pageId": 25323,
+      "revisionId": 2105290,
+      "revision": "2105290",
+      "timestamp": "2022-02-13T05:55:53Z",
+      "fetchedAt": "2026-09-24T19:42:42.330Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2105290",
+      "sha256": "1299f70e03744c37e46c284aa52b9576588c51a6a3e3e676f4c32efe78e89a68"
+    },
+    {
+      "title": "新民說/第一節",
+      "pageId": 25324,
+      "revisionId": 126512,
+      "revision": "126512",
+      "timestamp": "2008-09-13T15:05:01Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126512",
+      "parent": "新民說",
+      "sha256": "46ecaec2adf13af292879e7464df3169d0a6929e85587dd1ecebfb7ea5f8f3ee"
+    },
+    {
+      "title": "新民說/第二節",
+      "pageId": 25325,
+      "revisionId": 126513,
+      "revision": "126513",
+      "timestamp": "2008-09-13T15:06:50Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126513",
+      "parent": "新民說",
+      "sha256": "f3c3c468e3120d6ae12c39574ae2a11a1f908a06768e6c2d70fcaf9aef79ef72"
+    },
+    {
+      "title": "新民說/第三節",
+      "pageId": 25326,
+      "revisionId": 126514,
+      "revision": "126514",
+      "timestamp": "2008-09-13T15:07:49Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126514",
+      "parent": "新民說",
+      "sha256": "ca51e03e528afd63f132facb1252e2909d406ec188fd88b1127259442006b8ec"
+    },
+    {
+      "title": "新民說/第四節",
+      "pageId": 25329,
+      "revisionId": 1337957,
+      "revision": "1337957",
+      "timestamp": "2018-01-08T07:50:51Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1337957",
+      "parent": "新民說",
+      "sha256": "5fb8d7c645fa6c7efcc960252f6a8cfdc4a7e2fe31badc1137288fd46d657fd8"
+    },
+    {
+      "title": "新民說/第五節",
+      "pageId": 25330,
+      "revisionId": 126516,
+      "revision": "126516",
+      "timestamp": "2008-09-13T15:10:45Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126516",
+      "parent": "新民說",
+      "sha256": "5360ba3f1d6b95ac74afa0fe0a4c52497609becedee51304e2c722888364aad8"
+    },
+    {
+      "title": "新民說/第六節",
+      "pageId": 25331,
+      "revisionId": 2008409,
+      "revision": "2008409",
+      "timestamp": "2020-12-15T03:46:22Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2008409",
+      "parent": "新民說",
+      "sha256": "c891aa9efb97431d2bf96ff8b83096fc589295e338c69f585a5a291452b9d618"
+    },
+    {
+      "title": "新民說/第七節",
+      "pageId": 25332,
+      "revisionId": 126520,
+      "revision": "126520",
+      "timestamp": "2008-09-13T15:12:25Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126520",
+      "parent": "新民說",
+      "sha256": "6327ff57de17a6b9e2b26f08f9921fecb4b9dfb98cc9ea8b82b14500a38e21c9"
+    },
+    {
+      "title": "新民說/第八節",
+      "pageId": 25333,
+      "revisionId": 2132673,
+      "revision": "2132673",
+      "timestamp": "2022-05-08T08:40:12Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2132673",
+      "parent": "新民說",
+      "sha256": "257fea65de4ca9dd901c253d4ecd51d1988ab85a46d1516b126f5e8013c4d717"
+    },
+    {
+      "title": "新民說/第九節",
+      "pageId": 25338,
+      "revisionId": 126527,
+      "revision": "126527",
+      "timestamp": "2008-09-13T15:21:11Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126527",
+      "parent": "新民說",
+      "sha256": "62e54efe06577d70a633bc7d63d9fdbc3c9579efbeac4f45a3e4cda8913fb937"
+    },
+    {
+      "title": "新民說/第十節",
+      "pageId": 25339,
+      "revisionId": 126601,
+      "revision": "126601",
+      "timestamp": "2008-09-13T15:53:47Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126601",
+      "parent": "新民說",
+      "sha256": "782e30b78edc3cfdfd462530d9bb83a8a46efda952a097f960946abeb0b24f15"
+    },
+    {
+      "title": "新民說/第十一節",
+      "pageId": 25340,
+      "revisionId": 126608,
+      "revision": "126608",
+      "timestamp": "2008-09-13T15:59:38Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126608",
+      "parent": "新民說",
+      "sha256": "fe8416351715848a515df3f84334b6874b0fad9f9eb0e6df7b7c51a21852b451"
+    },
+    {
+      "title": "新民說/第十二節",
+      "pageId": 25349,
+      "revisionId": 126610,
+      "revision": "126610",
+      "timestamp": "2008-09-13T16:00:29Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126610",
+      "parent": "新民說",
+      "sha256": "abbb7eabc19ff3dced4f6b8bf23665555672cbfb2bdb3196def8508a932c3571"
+    },
+    {
+      "title": "新民說/第十三節",
+      "pageId": 25350,
+      "revisionId": 126613,
+      "revision": "126613",
+      "timestamp": "2008-09-13T16:04:37Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126613",
+      "parent": "新民說",
+      "sha256": "8aa20ade04042a38bc61fcc0d9b7c5c97f99d294b4fb9f5e56915a7f48a36984"
+    },
+    {
+      "title": "新民說/第十四節",
+      "pageId": 25357,
+      "revisionId": 1997070,
+      "revision": "1997070",
+      "timestamp": "2020-11-11T11:08:20Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1997070",
+      "parent": "新民說",
+      "sha256": "5704df27f0c125c1ebab14c62e0a22901e0d3012e0edf487fbb785a0903fbe7d"
+    },
+    {
+      "title": "新民說/第十五節",
+      "pageId": 25401,
+      "revisionId": 365698,
+      "revision": "365698",
+      "timestamp": "2012-12-01T01:00:00Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=365698",
+      "parent": "新民說",
+      "sha256": "a9825204cc484d7a7e076e127a0144b2f87d752490f5ca86b2ec5b59e0d307b3"
+    },
+    {
+      "title": "新民說/第十六節",
+      "pageId": 25402,
+      "revisionId": 126630,
+      "revision": "126630",
+      "timestamp": "2008-09-13T16:18:06Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126630",
+      "parent": "新民說",
+      "sha256": "abbe7009ba335266b858f0eb335d42202b9244cc4eadabf4630b2f68a11b7277"
+    },
+    {
+      "title": "新民說/第十七節",
+      "pageId": 25403,
+      "revisionId": 2143937,
+      "revision": "2143937",
+      "timestamp": "2022-06-03T02:44:26Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2143937",
+      "parent": "新民說",
+      "sha256": "dffdc2f3db347b3ab98838b1bba95846b0535b6eabff0ecc68a83ae4f39fbc60"
+    },
+    {
+      "title": "新民說/第十八節",
+      "pageId": 25404,
+      "revisionId": 2132699,
+      "revision": "2132699",
+      "timestamp": "2022-05-08T08:51:16Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2132699",
+      "parent": "新民說",
+      "sha256": "29863c0d76ab8f8f6172840120ae4d054bea23dd89240aaf5e85bfedb9d43d97"
+    },
+    {
+      "title": "新民說/第十九節",
+      "pageId": 25406,
+      "revisionId": 126646,
+      "revision": "126646",
+      "timestamp": "2008-09-13T16:36:52Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126646",
+      "parent": "新民說",
+      "sha256": "8f6c6879d58ebab89e5ce8ab1c5b650cd0890ccfc9bf9863b8c64910aad9f026"
+    },
+    {
+      "title": "新民說/第二十節",
+      "pageId": 25407,
+      "revisionId": 126645,
+      "revision": "126645",
+      "timestamp": "2008-09-13T16:36:26Z",
+      "fetchedAt": "2026-09-24T19:43:03.484Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=126645",
+      "parent": "新民說",
+      "sha256": "e9e93046dee09e5af712c46a0f8eaba5ff58523013099b557f9f20ec2bb0eb6c"
+    }
+  ],
+  "metadata": {
+    "author": "梁啟超"
+  },
+  "warnings": [
+    "source-missing-glyph: 第二節",
+    "source-missing-glyph: 第八節",
+    "source-missing-glyph: 第十一節",
+    "source-missing-glyph: 第十二節",
+    "source-missing-glyph: 第十三節",
+    "source-missing-glyph: 第十四節",
+    "source-missing-glyph: 第十七節",
+    "source-missing-glyph: 第十八節",
+    "source-missing-glyph: 第二十節"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "0ed92b9d1b80da71e941e7d61420859d9d03a28c9c3e93e7c9612235cadc4c56",
+  "stats": {
+    "chapters": 20,
+    "paragraphs": 299,
+    "characters": 116918,
+    "emptyChapters": 0
+  }
+}

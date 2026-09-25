@@ -1,0 +1,123 @@
+{
+  "work": "liezi",
+  "provider": "zhwikisource",
+  "rootTitle": "列子",
+  "pages": [
+    {
+      "title": "列子",
+      "pageId": 12108,
+      "revisionId": 2176036,
+      "revision": "2176036",
+      "timestamp": "2022-09-03T14:07:13Z",
+      "fetchedAt": "2026-09-24T19:49:22.280Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2176036",
+      "sha256": "99619cef831216e4ba49e393ee838f641198da74032dec0a83a677b67b30a603"
+    },
+    {
+      "title": "列子/天瑞篇",
+      "pageId": 12109,
+      "revisionId": 2269059,
+      "revision": "2269059",
+      "timestamp": "2023-03-18T14:36:57Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2269059",
+      "parent": "列子",
+      "sha256": "af6235210183659fe68c094965924b0167a3566d9c3519b4e0e0024f4dd7a7fe"
+    },
+    {
+      "title": "列子/黃帝篇",
+      "pageId": 12110,
+      "revisionId": 2200525,
+      "revision": "2200525",
+      "timestamp": "2022-12-08T01:36:31Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200525",
+      "parent": "列子",
+      "sha256": "6e804e018084f89848570f8050de8f1f4bdaa6a8b1fa2092b38465c0ca502cc2"
+    },
+    {
+      "title": "列子/周穆王篇",
+      "pageId": 12111,
+      "revisionId": 2200526,
+      "revision": "2200526",
+      "timestamp": "2022-12-08T01:37:02Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200526",
+      "parent": "列子",
+      "sha256": "8033639849a3e5004dd609d20545ea11a3fda809519fac99d1a57af09b4af69b"
+    },
+    {
+      "title": "列子/仲尼篇",
+      "pageId": 12112,
+      "revisionId": 2200527,
+      "revision": "2200527",
+      "timestamp": "2022-12-08T01:37:39Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200527",
+      "parent": "列子",
+      "sha256": "9c0abea638a8dccde994539c728dbd1e82844b8e33c5c4d3606a46250eaa553d"
+    },
+    {
+      "title": "列子/湯問篇",
+      "pageId": 12113,
+      "revisionId": 2608932,
+      "revision": "2608932",
+      "timestamp": "2025-10-22T14:10:39Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2608932",
+      "parent": "列子",
+      "sha256": "04159bec108d034489a5e7aefdf685e0f45db50d33c160bf41ac13ede2c73d9f"
+    },
+    {
+      "title": "列子/力命篇",
+      "pageId": 12114,
+      "revisionId": 2200529,
+      "revision": "2200529",
+      "timestamp": "2022-12-08T01:38:32Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200529",
+      "parent": "列子",
+      "sha256": "ba408f94fcaef055e04d38b43c953fe08458509619f924ba384b67c54d316efb"
+    },
+    {
+      "title": "列子/楊朱篇",
+      "pageId": 12115,
+      "revisionId": 2200530,
+      "revision": "2200530",
+      "timestamp": "2022-12-08T01:38:59Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200530",
+      "parent": "列子",
+      "sha256": "5c7970d5caa0b3b3d99f2bb45e190aa3a8d98122096a8f0807eefd55d70f739d"
+    },
+    {
+      "title": "列子/說符篇",
+      "pageId": 12117,
+      "revisionId": 2200531,
+      "revision": "2200531",
+      "timestamp": "2022-12-08T01:39:27Z",
+      "fetchedAt": "2026-09-24T19:49:32.856Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200531",
+      "parent": "列子",
+      "sha256": "1317674f992bbe1ed29b7b793003f3eae0ee17afae66baf71fe34f8b41bf213d"
+    }
+  ],
+  "metadata": {
+    "author": "列禦寇",
+    "times": "戰國"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "1cc22f9320cb32738df1268263148a2334dbc2a9f37177dcfc28565780d6fba4",
+  "stats": {
+    "chapters": 8,
+    "paragraphs": 139,
+    "characters": 37948,
+    "emptyChapters": 0
+  }
+}

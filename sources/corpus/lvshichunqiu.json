@@ -1,0 +1,324 @@
+{
+  "work": "lvshichunqiu",
+  "provider": "zhwikisource",
+  "rootTitle": "呂氏春秋",
+  "pages": [
+    {
+      "title": "呂氏春秋",
+      "pageId": 35754,
+      "revisionId": 2246331,
+      "revision": "2246331",
+      "timestamp": "2022-12-26T11:53:41Z",
+      "fetchedAt": "2026-09-24T19:56:35.686Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2246331",
+      "sha256": "0237bc7bd9e5c7edf159abda9cd743d1443816267e47954ae0e59ce3fc033342"
+    },
+    {
+      "title": "呂氏春秋注/孟春紀",
+      "pageId": 56366,
+      "revisionId": 2178555,
+      "revision": "2178555",
+      "timestamp": "2022-09-12T13:27:56Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2178555",
+      "parent": "呂氏春秋",
+      "sha256": "97136003e17e19b8c5b0c636ddca8a67a396af6acd6b05ba1d0efdea1b15cbaa"
+    },
+    {
+      "title": "呂氏春秋注/仲春紀",
+      "pageId": 56367,
+      "revisionId": 2178553,
+      "revision": "2178553",
+      "timestamp": "2022-09-12T13:27:12Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2178553",
+      "parent": "呂氏春秋",
+      "sha256": "2e477ab4d2cfa9b1e9fe797ee282854ad27fe4611633f24a2ca8a91a9f44aecc"
+    },
+    {
+      "title": "呂氏春秋/卷三",
+      "pageId": 56368,
+      "revisionId": 2327713,
+      "revision": "2327713",
+      "timestamp": "2023-10-29T10:07:26Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327713",
+      "parent": "呂氏春秋",
+      "sha256": "767602117bc5965bb547f9231f11a844b3381b8f8aaaf55205112fc0b065881a"
+    },
+    {
+      "title": "呂氏春秋/卷四",
+      "pageId": 56369,
+      "revisionId": 2327726,
+      "revision": "2327726",
+      "timestamp": "2023-10-29T10:08:02Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327726",
+      "parent": "呂氏春秋",
+      "sha256": "16e9facdf1cd3b2a2ef2efd8ddacf9b9626686586b838a9e607999569a5d6eff"
+    },
+    {
+      "title": "呂氏春秋/卷五",
+      "pageId": 56370,
+      "revisionId": 2327715,
+      "revision": "2327715",
+      "timestamp": "2023-10-29T10:07:31Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327715",
+      "parent": "呂氏春秋",
+      "sha256": "7ebcdc382637d949c6bd0c9a31549c17278ff299525203ef7f4e92b6ef27083e"
+    },
+    {
+      "title": "呂氏春秋/卷六",
+      "pageId": 56371,
+      "revisionId": 2327717,
+      "revision": "2327717",
+      "timestamp": "2023-10-29T10:07:37Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327717",
+      "parent": "呂氏春秋",
+      "sha256": "c159e988653cf44d148bce8010e9a14cc08805c79e4ed2b721c9e14040e05856"
+    },
+    {
+      "title": "呂氏春秋/卷七",
+      "pageId": 56372,
+      "revisionId": 2327712,
+      "revision": "2327712",
+      "timestamp": "2023-10-29T10:07:23Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327712",
+      "parent": "呂氏春秋",
+      "sha256": "d9d067b8ad4f0e47d87e7d9ab6e985f19f14896fcccc012ca37e80d113bc5db1"
+    },
+    {
+      "title": "呂氏春秋/卷八",
+      "pageId": 56373,
+      "revisionId": 2327716,
+      "revision": "2327716",
+      "timestamp": "2023-10-29T10:07:34Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327716",
+      "parent": "呂氏春秋",
+      "sha256": "35556cffa5e1f6f3af4b175e8d8412a7d630dcae9106769d0cca6c8d8f9b47bc"
+    },
+    {
+      "title": "呂氏春秋/卷九",
+      "pageId": 56374,
+      "revisionId": 2327714,
+      "revision": "2327714",
+      "timestamp": "2023-10-29T10:07:29Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327714",
+      "parent": "呂氏春秋",
+      "sha256": "9936d23772433a1085eeb3767546f6bb1b68c04cac158bca3869cb6eb9d2bf31"
+    },
+    {
+      "title": "呂氏春秋/卷十",
+      "pageId": 56375,
+      "revisionId": 2327718,
+      "revision": "2327718",
+      "timestamp": "2023-10-29T10:07:39Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327718",
+      "parent": "呂氏春秋",
+      "sha256": "4d93005e670e3b0b4ac4765009694b952803a354ca929a83f43292d17be995e9"
+    },
+    {
+      "title": "呂氏春秋/卷十一",
+      "pageId": 56377,
+      "revisionId": 2327719,
+      "revision": "2327719",
+      "timestamp": "2023-10-29T10:07:42Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327719",
+      "parent": "呂氏春秋",
+      "sha256": "3328e83c20156928609781be85079b3c7906f721adfdd87f02bb7fb87b189959"
+    },
+    {
+      "title": "呂氏春秋/卷十二",
+      "pageId": 56376,
+      "revisionId": 2327721,
+      "revision": "2327721",
+      "timestamp": "2023-10-29T10:07:47Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327721",
+      "parent": "呂氏春秋",
+      "sha256": "e98c5f6af48fa0b89b38b9dac0ac1872a626f9fa42f6775f1ab7f678d9e4f8ab"
+    },
+    {
+      "title": "呂氏春秋/卷十三",
+      "pageId": 56380,
+      "revisionId": 2327720,
+      "revision": "2327720",
+      "timestamp": "2023-10-29T10:07:45Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327720",
+      "parent": "呂氏春秋",
+      "sha256": "9876dda73851dc11b631227b6f05e937f79fa457d3899d0a852e96c25be12a8c"
+    },
+    {
+      "title": "呂氏春秋/卷十四",
+      "pageId": 56378,
+      "revisionId": 2327725,
+      "revision": "2327725",
+      "timestamp": "2023-10-29T10:07:59Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327725",
+      "parent": "呂氏春秋",
+      "sha256": "739ba8c10e9ed233e3ff1fd131661a22c282191034e15d63be0d2d68675e70f3"
+    },
+    {
+      "title": "呂氏春秋/卷十五",
+      "pageId": 56379,
+      "revisionId": 2327722,
+      "revision": "2327722",
+      "timestamp": "2023-10-29T10:07:50Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327722",
+      "parent": "呂氏春秋",
+      "sha256": "f069d58489e6ac8c68f36bd1ac723d2a81e593bb2a3ddd973dc3c8b9598b7fbc"
+    },
+    {
+      "title": "呂氏春秋/卷十六",
+      "pageId": 134835,
+      "revisionId": 2327724,
+      "revision": "2327724",
+      "timestamp": "2023-10-29T10:07:56Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327724",
+      "parent": "呂氏春秋",
+      "sha256": "cf25d54d156c4ee78fa76d86e7359f35d0bbc1073c56945d4efccafce97afce8"
+    },
+    {
+      "title": "呂氏春秋/卷十七",
+      "pageId": 136849,
+      "revisionId": 392580,
+      "revision": "392580",
+      "timestamp": "2013-09-04T19:25:57Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=392580",
+      "parent": "呂氏春秋",
+      "sha256": "596c3a1914674db26df51af3246aa737d935dc34b17e7af4561f28400d21d8fc"
+    },
+    {
+      "title": "呂氏春秋/卷十八",
+      "pageId": 177531,
+      "revisionId": 2327723,
+      "revision": "2327723",
+      "timestamp": "2023-10-29T10:07:53Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327723",
+      "parent": "呂氏春秋",
+      "sha256": "fa63cc48a0e196bcd45bdacf3b1fb1640c2148b965756921362a27329eb86503"
+    },
+    {
+      "title": "呂氏春秋/卷十九",
+      "pageId": 177532,
+      "revisionId": 394746,
+      "revision": "394746",
+      "timestamp": "2013-09-30T11:11:36Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=394746",
+      "parent": "呂氏春秋",
+      "sha256": "b670428dcc315758d824eacc83d5057fa618e3347ba23f7f6c895d1ddc98ff39"
+    },
+    {
+      "title": "呂氏春秋/卷二十",
+      "pageId": 177533,
+      "revisionId": 418909,
+      "revision": "418909",
+      "timestamp": "2014-10-21T08:32:05Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=418909",
+      "parent": "呂氏春秋",
+      "sha256": "81087a08c05c1084472fabc111ef9d426f777bd288ebb8a66316b39c018a3b96"
+    },
+    {
+      "title": "呂氏春秋/卷二十一",
+      "pageId": 177534,
+      "revisionId": 418921,
+      "revision": "418921",
+      "timestamp": "2014-10-21T08:35:48Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=418921",
+      "parent": "呂氏春秋",
+      "sha256": "c439c9286a113e44cfe162cb6f7e939e0d582b1295d692fc175c137a46f78324"
+    },
+    {
+      "title": "呂氏春秋/卷二十二",
+      "pageId": 177535,
+      "revisionId": 2497183,
+      "revision": "2497183",
+      "timestamp": "2024-12-02T15:36:11Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2497183",
+      "parent": "呂氏春秋",
+      "sha256": "ebdf2b8caf15ca0fda33bacd79d9378ddc20ad1c3d0cd4c3c020b9d99efa3a37"
+    },
+    {
+      "title": "呂氏春秋/卷二十三",
+      "pageId": 177536,
+      "revisionId": 418941,
+      "revision": "418941",
+      "timestamp": "2014-10-21T08:41:24Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=418941",
+      "parent": "呂氏春秋",
+      "sha256": "9b0403af87ac0fe7a8a407f2e546334ead27d010a310168a5d5f49a48d4188be"
+    },
+    {
+      "title": "呂氏春秋/卷二十四",
+      "pageId": 177537,
+      "revisionId": 1513826,
+      "revision": "1513826",
+      "timestamp": "2018-11-16T04:32:40Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1513826",
+      "parent": "呂氏春秋",
+      "sha256": "8351afefca0310963b5732c27a15ec14b52b5e2f313bdcec5696cae707cd412f"
+    },
+    {
+      "title": "呂氏春秋/卷二十五",
+      "pageId": 177538,
+      "revisionId": 419010,
+      "revision": "419010",
+      "timestamp": "2014-10-21T12:34:09Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=419010",
+      "parent": "呂氏春秋",
+      "sha256": "93a280d8bac03d2ec91445b21dbf3ed1b59a97b6c1296ed4b58f4b13cd2ec432"
+    },
+    {
+      "title": "呂氏春秋/卷二十六",
+      "pageId": 177539,
+      "revisionId": 416058,
+      "revision": "416058",
+      "timestamp": "2014-09-12T10:54:51Z",
+      "fetchedAt": "2026-09-24T19:57:07.318Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=416058",
+      "parent": "呂氏春秋",
+      "sha256": "d6ce2d08c14d9cdf9a4c885048429f1c8c9cd97bc46daa3fc95bd6f3a5f66889"
+    }
+  ],
+  "metadata": {
+    "author": "呂不韋",
+    "times": "戰國",
+    "type": "雜家"
+  },
+  "warnings": [
+    "volume-number-gap: 1, 2 (text may be present without headings; check upstream structure)"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "5fccaafd0c845d59484cf5a8f730fec7ff7973acd732a2561c32f6ee7d6d11f7",
+  "stats": {
+    "chapters": 26,
+    "paragraphs": 749,
+    "characters": 131537,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work": "zhouyi",
+  "provider": "gujilab",
+  "rootTitle": "周易",
+  "pages": [
+    {
+      "title": "output/wujing/zhouyi.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zhouyi.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "16662508559d1fbc0ce6e4227d23082bd0ac2a8b78e0b71e45c7e9c4d8935cbb"
+    }
+  ],
+  "metadata": {
+    "author": "佚名（周）",
+    "era": "周",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+    "source-missing-glyph: 47. 困（卦四十七）"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "5e2746a15b4ba77a3b5f689c486e6b00bcad504ab185dbbebc8cbd1a20c2a1ad",
+  "stats": {
+    "chapters": 69,
+    "paragraphs": 1270,
+    "characters": 33339,
+    "emptyChapters": 0
+  }
+}

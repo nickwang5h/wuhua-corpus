@@ -1,0 +1,36 @@
+{
+  "work": "liuzongyuanji",
+  "provider": "guopop",
+  "rootTitle": "柳河東集",
+  "pages": [
+    {
+      "title": "集/别集类/柳宗元集.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E5%88%AB%E9%9B%86%E7%B1%BB/%E6%9F%B3%E5%AE%97%E5%85%83%E9%9B%86.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "bba439fa0ef0e666b8098e2af4ef0611b82677c3ae77ac2c7e32b1e2db720fee"
+    }
+  ],
+  "metadata": {
+    "author": "唐・柳宗元",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E5%88%AB%E9%9B%86%E7%B1%BB/%E6%9F%B3%E5%AE%97%E5%85%83%E9%9B%86.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "4cd3becb44e8ef4551a31bd73c7960bc9569f1b4804fae2755a29c8a81efd93a",
+  "stats": {
+    "chapters": 53,
+    "paragraphs": 7212,
+    "characters": 260637,
+    "emptyChapters": 0
+  }
+}

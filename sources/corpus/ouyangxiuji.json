@@ -1,0 +1,60 @@
+{
+  "work": "ouyangxiuji",
+  "provider": "guopop",
+  "rootTitle": "歐陽文忠公集",
+  "pages": [
+    {
+      "title": "集/别集类/欧阳修集.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E5%88%AB%E9%9B%86%E7%B1%BB/%E6%AC%A7%E9%98%B3%E4%BF%AE%E9%9B%86.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "34fbb7ccdad3ed215522efd5b9d29edf39cf76721ec5d557545e591922184cfb"
+    }
+  ],
+  "metadata": {
+    "author": "北宋・歐陽修",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 居士集卷第九  歐陽文忠公集九",
+    "source-missing-glyph: 居士集卷第二十四   歐陽文忠公集二十四",
+    "source-missing-glyph: 外集卷第七  歐陽文忠公集五十七",
+    "source-missing-glyph: 外集卷第二十四  歐陽文忠公集七十四",
+    "source-missing-glyph: 外集卷第二十五  歐陽文忠公集七十五",
+    "source-missing-glyph: 外制集卷第三  歐陽文忠公集八十一",
+    "source-missing-glyph: 表奏書啓四六集卷第二 歐陽文忠公集九十一",
+    "source-missing-glyph: 奏議卷第十一  歐陽文忠公集一百七",
+    "source-missing-glyph: 河東奉使奏草卷上  歐陽文忠公集一百十五",
+    "source-missing-glyph: 河北奉使奏草卷上  歐陽文忠公集一百十七",
+    "source-missing-glyph: 近體樂府卷第二   歐陽文忠公集一百三十二",
+    "source-missing-glyph: 集古録跋尾卷第一  歐陽文忠公文集一百三十四",
+    "source-missing-glyph: 集古録跋尾卷第二  歐陽文忠公集一百三十五",
+    "source-missing-glyph: 集古録跋尾卷第十  歐陽文忠公集一百四十三",
+    "source-missing-glyph: 書簡卷第二  歐陽文忠公集一百四十五",
+    "source-missing-glyph: 書簡卷第四  歐陽文忠公集一百四十七",
+    "source-missing-glyph: 書簡卷第五  歐陽文忠公集一百四十八",
+    "source-missing-glyph: 書簡卷第六  歐陽文忠公集一百四十九",
+    "source-missing-glyph: 書簡卷第九  歐陽文忠公集一百五十二",
+    "source-missing-glyph: 附録卷第一",
+    "source-missing-glyph: 附録卷第二",
+    "source-missing-glyph: 附録卷第三",
+    "source-missing-glyph: 附録卷第四",
+    "source-missing-glyph: 附録卷第五"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E5%88%AB%E9%9B%86%E7%B1%BB/%E6%AC%A7%E9%98%B3%E4%BF%AE%E9%9B%86.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "5c2b8d67bac930222d76712856bd5d06fb348658d48623433ac6c79532f81eac",
+  "stats": {
+    "chapters": 168,
+    "paragraphs": 19236,
+    "characters": 976548,
+    "emptyChapters": 0
+  }
+}

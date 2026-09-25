@@ -1,0 +1,35 @@
+{
+  "work": "taijitushuo",
+  "provider": "zhwikisource",
+  "rootTitle": "太極圖說",
+  "pages": [
+    {
+      "title": "太極圖說",
+      "pageId": 29461,
+      "revisionId": 2327006,
+      "revision": "2327006",
+      "timestamp": "2023-10-27T07:41:43Z",
+      "fetchedAt": "2026-09-24T19:40:01.945Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2327006",
+      "sha256": "a08078b8b5eb4c534c60c9e64c4b547bf1e51294cf46d12562561032115c38e7"
+    }
+  ],
+  "metadata": {
+    "author": "周敦頤",
+    "times": "北宋"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "85b0ceb78009d908ae153972f9f92a8bb326fd0b21684e715bc3425cebea14e7",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 1,
+    "characters": 341,
+    "emptyChapters": 0
+  }
+}

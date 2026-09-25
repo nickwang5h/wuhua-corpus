@@ -1,0 +1,36 @@
+{
+  "work": "yantielun",
+  "provider": "guopop",
+  "rootTitle": "鹽鐵論",
+  "pages": [
+    {
+      "title": "子/儒家类/盐铁论.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E7%9B%90%E9%93%81%E8%AE%BA.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "3a8102fa6f2cb674f8471ca80e389b31142ea414dec6dd72add39c44b7ed2855"
+    }
+  ],
+  "metadata": {
+    "author": "西漢・桓寬",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E7%9B%90%E9%93%81%E8%AE%BA.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "ed71cf0aaa7b0e95beaed7463150c67e2b874991d1d7d8dd1ec63e10d6ae59e2",
+  "stats": {
+    "chapters": 61,
+    "paragraphs": 62,
+    "characters": 59546,
+    "emptyChapters": 0
+  }
+}

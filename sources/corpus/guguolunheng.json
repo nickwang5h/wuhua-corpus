@@ -1,0 +1,354 @@
+{
+  "work": "guguolunheng",
+  "provider": "zhwikisource",
+  "rootTitle": "國故論衡",
+  "pages": [
+    {
+      "title": "國故論衡",
+      "pageId": 56036,
+      "revisionId": 2392596,
+      "revision": "2392596",
+      "timestamp": "2024-04-16T08:59:13Z",
+      "fetchedAt": "2026-09-24T20:05:24.375Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2392596",
+      "sha256": "79b419a89f138da88a2bbdd40c9fc091a0fbdfaaafd799530715c52190445c37"
+    },
+    {
+      "title": "國故論衡/小學略說",
+      "pageId": 114665,
+      "revisionId": 2610481,
+      "revision": "2610481",
+      "timestamp": "2025-10-30T06:56:56Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2610481",
+      "parent": "國故論衡",
+      "sha256": "69fc76001a3e394d11d87f1d7169a5f9f5fe846e870fb1d7cad9ba68d57100ca"
+    },
+    {
+      "title": "國故論衡/成均圖",
+      "pageId": 1147647,
+      "revisionId": 2362297,
+      "revision": "2362297",
+      "timestamp": "2024-02-03T11:53:16Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2362297",
+      "parent": "國故論衡",
+      "sha256": "442a721e591c2ff7e9eb1484acd490d4a83975ff219ccfc2fdafdf565f511799",
+      "images": [
+        {
+          "id": "image-guguolunheng-070a8632cd0f22e8",
+          "version": "sha256:e7b3c9bfd418e230bd0b4f573997ea969878e8a61d8f806857dbafa65cf510d6",
+          "fileTitle": "File:《成均圖》.jpg",
+          "caption": "《成均圖》",
+          "source": "https://zh.wikisource.org/w/index.php?oldid=2362297",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%E3%80%8A%E6%88%90%E5%9D%87%E5%9C%96%E3%80%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "asset": "assets/e7b3c9bfd418e230bd0b4f573997ea969878e8a61d8f806857dbafa65cf510d6.jpg",
+          "mime": "image/jpeg",
+          "width": 421,
+          "height": 548,
+          "sha256": "e7b3c9bfd418e230bd0b4f573997ea969878e8a61d8f806857dbafa65cf510d6",
+          "fileTimestamp": "2024-02-03T11:52:17Z",
+          "fileSha1": "effb18bd1ccddd41893ec9a4fa42b0379ab16307",
+          "rights": {
+            "license": "CC BY-SA 4.0",
+            "attribution": "Sowhat666",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        }
+      ]
+    },
+    {
+      "title": "國故論衡/一字重音說",
+      "pageId": 114666,
+      "revisionId": 1474159,
+      "revision": "1474159",
+      "timestamp": "2018-05-31T10:46:08Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1474159",
+      "parent": "國故論衡",
+      "sha256": "fdb8ac76cd540508716ef4f4a884dd7de50991f574f661ca0f47b9117abfb072"
+    },
+    {
+      "title": "國故論衡/古今音損益說",
+      "pageId": 114667,
+      "revisionId": 2618499,
+      "revision": "2618499",
+      "timestamp": "2025-11-16T03:22:50Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2618499",
+      "parent": "國故論衡",
+      "sha256": "1a89ad3467c1bdbeb07c65871a97f2fce51ea4e87c9f08cfb6077a48555e2a8d"
+    },
+    {
+      "title": "國故論衡/古音娘日二紐歸泥說",
+      "pageId": 114668,
+      "revisionId": 2600752,
+      "revision": "2600752",
+      "timestamp": "2025-09-28T11:05:27Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2600752",
+      "parent": "國故論衡",
+      "sha256": "2d2b81209167fb20ffa6297d978f5abf225cbf1796c71ae6ac57c091ae86ebec"
+    },
+    {
+      "title": "國故論衡/古雙音說",
+      "pageId": 114669,
+      "revisionId": 1474162,
+      "revision": "1474162",
+      "timestamp": "2018-05-31T10:49:20Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1474162",
+      "parent": "國故論衡",
+      "sha256": "bb97f4c277748095cc4fdd53e16d887287405430933e4510fc543888ce599b26"
+    },
+    {
+      "title": "國故論衡/語言緣起說",
+      "pageId": 114670,
+      "revisionId": 2402005,
+      "revision": "2402005",
+      "timestamp": "2024-05-01T08:53:17Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2402005",
+      "parent": "國故論衡",
+      "sha256": "4796cfb1cffe4c23d7709e22d65afddf3a1ee84d2db178302ca1facabb474cd2"
+    },
+    {
+      "title": "國故論衡/轉注假借說",
+      "pageId": 114671,
+      "revisionId": 2631834,
+      "revision": "2631834",
+      "timestamp": "2025-12-14T04:03:16Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2631834",
+      "parent": "國故論衡",
+      "sha256": "76d147838f790f7808732a741d1f49d3dcf1b7bb44096919d0a568db5345561a"
+    },
+    {
+      "title": "國故論衡/理惑論",
+      "pageId": 114672,
+      "revisionId": 1373115,
+      "revision": "1373115",
+      "timestamp": "2018-02-22T01:07:34Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1373115",
+      "parent": "國故論衡",
+      "sha256": "364db915fc095850f6beae073eabd105f9a0f8c11bfd453f6f7f0b8bae081f1a"
+    },
+    {
+      "title": "國故論衡/正言論",
+      "pageId": 114673,
+      "revisionId": 846379,
+      "revision": "846379",
+      "timestamp": "2017-03-31T08:08:07Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=846379",
+      "parent": "國故論衡",
+      "sha256": "8074cd415f742a2b50ea82ed37bc5dbdda2c6f376a84a8d0eccd6bf5d6452f5f"
+    },
+    {
+      "title": "國故論衡/文學總論",
+      "pageId": 106867,
+      "revisionId": 2081157,
+      "revision": "2081157",
+      "timestamp": "2021-10-07T10:29:37Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2081157",
+      "parent": "國故論衡",
+      "sha256": "5b45853bc12498d108ba12cf0869fd39ba8bb0fbbf980953dcac4b4dcd67043e"
+    },
+    {
+      "title": "國故論衡/原經",
+      "pageId": 106868,
+      "revisionId": 1502096,
+      "revision": "1502096",
+      "timestamp": "2018-09-25T06:13:52Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1502096",
+      "parent": "國故論衡",
+      "sha256": "fcf55b2f334a2ac4bc60a8b3261e1e622836c8f345ce15f587369340691b872d"
+    },
+    {
+      "title": "國故論衡/明解故上",
+      "pageId": 106869,
+      "revisionId": 2178134,
+      "revision": "2178134",
+      "timestamp": "2022-09-10T03:48:36Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2178134",
+      "parent": "國故論衡",
+      "sha256": "926cb80a96415c2cf5fb00fb4b9d43cdc5eec2b4edc0a78f3cdd81b7f0589164"
+    },
+    {
+      "title": "國故論衡/明解故下",
+      "pageId": 106870,
+      "revisionId": 1377531,
+      "revision": "1377531",
+      "timestamp": "2018-03-01T15:14:39Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1377531",
+      "parent": "國故論衡",
+      "sha256": "1024d1ed50782c45b99ee67aa83f166019faea4cd61b8ccf8cc0b3805a61fd73"
+    },
+    {
+      "title": "國故論衡/論式",
+      "pageId": 106872,
+      "revisionId": 1474161,
+      "revision": "1474161",
+      "timestamp": "2018-05-31T10:48:24Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1474161",
+      "parent": "國故論衡",
+      "sha256": "eca77b20495b097fb5ec6ea8c0f2d069129ee472f9191593b7dd9ca2aff30363"
+    },
+    {
+      "title": "國故論衡/辨詩",
+      "pageId": 106873,
+      "revisionId": 2401972,
+      "revision": "2401972",
+      "timestamp": "2024-05-01T08:42:34Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2401972",
+      "parent": "國故論衡",
+      "sha256": "96197073b476984808837951eaebe6c0a3f563ddab97bfb6a4bec0c476a6a8e8"
+    },
+    {
+      "title": "國故論衡/正賫送",
+      "pageId": 106871,
+      "revisionId": 2631720,
+      "revision": "2631720",
+      "timestamp": "2025-12-13T14:19:26Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2631720",
+      "parent": "國故論衡",
+      "sha256": "2810821594851ed308c2d4e8ba0f094c0a829e0384c8130c0c8bcb6072d73ddb"
+    },
+    {
+      "title": "國故論衡/原學",
+      "pageId": 106874,
+      "revisionId": 1405714,
+      "revision": "1405714",
+      "timestamp": "2018-04-10T04:30:08Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1405714",
+      "parent": "國故論衡",
+      "sha256": "7c3e630e57f1c81650a0e5d023a3bb5947c3fd577dada8ed265e5a28c98adf7f"
+    },
+    {
+      "title": "國故論衡/原儒",
+      "pageId": 106875,
+      "revisionId": 1151427,
+      "revision": "1151427",
+      "timestamp": "2017-07-20T22:36:15Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1151427",
+      "parent": "國故論衡",
+      "sha256": "2b33a8149b6f9965e8784645d2244efce1e2734ab0a8556a4b6a7a10a522187d"
+    },
+    {
+      "title": "國故論衡/原道上",
+      "pageId": 106883,
+      "revisionId": 2401983,
+      "revision": "2401983",
+      "timestamp": "2024-05-01T08:45:07Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2401983",
+      "parent": "國故論衡",
+      "sha256": "e5a94c348093280589d1296b2957b7cf3993b389048412308b8feb350481a9d5"
+    },
+    {
+      "title": "國故論衡/原道中",
+      "pageId": 106877,
+      "revisionId": 519412,
+      "revision": "519412",
+      "timestamp": "2016-09-28T01:08:41Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=519412",
+      "parent": "國故論衡",
+      "sha256": "b77cbd6e3c3a2ba0742bef1237beec717e6727645c46445ce99474e34e43aa14"
+    },
+    {
+      "title": "國故論衡/原道下",
+      "pageId": 106878,
+      "revisionId": 203354,
+      "revision": "203354",
+      "timestamp": "2009-03-06T12:05:02Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=203354",
+      "parent": "國故論衡",
+      "sha256": "e8bfde98a11a11485ab8c65f5da8fca7e84a7f90dd0a8b717ff6a2cc6e25b6c9"
+    },
+    {
+      "title": "國故論衡/原名",
+      "pageId": 106879,
+      "revisionId": 2632900,
+      "revision": "2632900",
+      "timestamp": "2025-12-14T22:04:07Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2632900",
+      "parent": "國故論衡",
+      "sha256": "d54a42229680fc8cb4e65490d0ef7d4e5deee1f7a390f677962a032213edb17d"
+    },
+    {
+      "title": "國故論衡/明見",
+      "pageId": 106880,
+      "revisionId": 2632989,
+      "revision": "2632989",
+      "timestamp": "2025-12-14T22:31:00Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2632989",
+      "parent": "國故論衡",
+      "sha256": "6dae5754228c64ad80edfd99ad85d11bd537b1911ea22e6ab4512368446196bd"
+    },
+    {
+      "title": "國故論衡/辨性上",
+      "pageId": 106881,
+      "revisionId": 203359,
+      "revision": "203359",
+      "timestamp": "2009-03-06T12:07:04Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=203359",
+      "parent": "國故論衡",
+      "sha256": "1f511045c96d29fafbf78a0c543cc506df7da1a13e7b25c87aa55777bca92acc"
+    },
+    {
+      "title": "國故論衡/辨性下",
+      "pageId": 106882,
+      "revisionId": 519409,
+      "revision": "519409",
+      "timestamp": "2016-09-28T01:07:41Z",
+      "fetchedAt": "2026-09-24T20:05:31.696Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=519409",
+      "parent": "國故論衡",
+      "sha256": "14815bfb490a3ab8c7c96edf5a55bf9a5aaa6de6f82fcbdd54b7225b3ce8fe9a"
+    }
+  ],
+  "metadata": {
+    "author": "章太炎",
+    "times": "1910年"
+  },
+  "warnings": [
+    "source-missing-glyph: 小學略說",
+    "source-missing-glyph: 一字重音說",
+    "source-missing-glyph: 古雙音說",
+    "source-missing-glyph: 轉注假借說",
+    "source-missing-glyph: 理惑論",
+    "source-missing-glyph: 原經",
+    "source-missing-glyph: 明解故下",
+    "source-missing-glyph: 原儒"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "edbad4de7538465f39315ecf0587c2373fa63147f623a21cd1ccb2b1a3e301af",
+  "stats": {
+    "chapters": 26,
+    "paragraphs": 411,
+    "characters": 95400,
+    "emptyChapters": 0,
+    "images": 1,
+    "imageChapters": 1
+  }
+}

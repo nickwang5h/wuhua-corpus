@@ -1,0 +1,33 @@
+{
+  "work": "haiguotuzhi",
+  "provider": "daizhige",
+  "rootTitle": "海國圖志",
+  "pages": [
+    {
+      "title": "史藏/地理/海国图志.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%B7%E5%9B%BD%E5%9B%BE%E5%BF%97.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "2cabd4b87c81aca473d7a74b8034d02597854c188c579d32a81b9696e4474487"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%B7%E5%9B%BD%E5%9B%BE%E5%BF%97.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "88d77b5701c4ea31602462f3eb34b3f097e0392619fe083081d9b73a86355741",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 9031,
+    "characters": 202072,
+    "emptyChapters": 0
+  }
+}

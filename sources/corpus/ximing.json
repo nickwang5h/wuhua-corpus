@@ -1,0 +1,34 @@
+{
+  "work": "ximing",
+  "provider": "zhwikisource",
+  "rootTitle": "西銘",
+  "pages": [
+    {
+      "title": "西銘",
+      "pageId": 29863,
+      "revisionId": 2051481,
+      "revision": "2051481",
+      "timestamp": "2021-06-25T12:35:17Z",
+      "fetchedAt": "2026-09-24T19:40:03.138Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2051481",
+      "sha256": "36e09f8c6c4a631424c5442fb823b16244d3bc90ae7d754cf48423ad0084e95f"
+    }
+  ],
+  "metadata": {
+    "author": "張載"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "2984966d714d8e2db1b2c179d8b081686d13b9f419f417a2d48e8c9ec8f31c06",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 1,
+    "characters": 320,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "work": "zhengmeng",
+  "provider": "zhwikisource",
+  "rootTitle": "正蒙",
+  "pages": [
+    {
+      "title": "正蒙",
+      "pageId": 29860,
+      "revisionId": 2589388,
+      "revision": "2589388",
+      "timestamp": "2025-08-10T08:49:05Z",
+      "fetchedAt": "2026-09-24T20:16:36.911Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589388",
+      "sha256": "a3db32a47f6e6b3d393010cbf5765c3ad92cc2809db86ed5e04c91e6d5367c4c"
+    },
+    {
+      "title": "正蒙/蘇昺序",
+      "pageId": 1212057,
+      "revisionId": 2589336,
+      "revision": "2589336",
+      "timestamp": "2025-08-10T05:43:50Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589336",
+      "parent": "正蒙",
+      "sha256": "0737bf4ba554b07331a6a0224d48df2f48944d9a0b6367bdbe3496bc81ba85df"
+    },
+    {
+      "title": "正蒙/范育序",
+      "pageId": 1212058,
+      "revisionId": 2589368,
+      "revision": "2589368",
+      "timestamp": "2025-08-10T08:23:50Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589368",
+      "parent": "正蒙",
+      "sha256": "63b7712907bf3b3bd824980362b002e80ec1a18f72c20d4d655cab7acc4c0c98"
+    },
+    {
+      "title": "正蒙/01",
+      "pageId": 1212059,
+      "revisionId": 2589369,
+      "revision": "2589369",
+      "timestamp": "2025-08-10T08:36:56Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589369",
+      "parent": "正蒙",
+      "sha256": "ac0127d833ab95564d12e1ac76d727796a6393fde62befad3b61b1788b510b70"
+    },
+    {
+      "title": "正蒙/02",
+      "pageId": 1212060,
+      "revisionId": 2589370,
+      "revision": "2589370",
+      "timestamp": "2025-08-10T08:37:35Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589370",
+      "parent": "正蒙",
+      "sha256": "1c213eec5c723a545a618d06bde75c70d65a2d958b513d29edfb4d7ed38d0a88"
+    },
+    {
+      "title": "正蒙/03",
+      "pageId": 1212061,
+      "revisionId": 2589371,
+      "revision": "2589371",
+      "timestamp": "2025-08-10T08:38:01Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589371",
+      "parent": "正蒙",
+      "sha256": "9fe6590652d6f185e1a01f5fa8361704fd555021e7150cd83a9ce6d3e6754433"
+    },
+    {
+      "title": "正蒙/04",
+      "pageId": 1212062,
+      "revisionId": 2589372,
+      "revision": "2589372",
+      "timestamp": "2025-08-10T08:38:28Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589372",
+      "parent": "正蒙",
+      "sha256": "8393b9215b97e2b91f024ca1eb767424dff3f5986dd1676bc64083f7e9a97334"
+    },
+    {
+      "title": "正蒙/05",
+      "pageId": 1212063,
+      "revisionId": 2589373,
+      "revision": "2589373",
+      "timestamp": "2025-08-10T08:38:56Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589373",
+      "parent": "正蒙",
+      "sha256": "0d18554a6c10d9ef54550ce7d82c59fba256608543f41b3328bbcd5aaf613eb3"
+    },
+    {
+      "title": "正蒙/06",
+      "pageId": 1212064,
+      "revisionId": 2589374,
+      "revision": "2589374",
+      "timestamp": "2025-08-10T08:39:29Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589374",
+      "parent": "正蒙",
+      "sha256": "934014a330b1feadffb6189a9a197759fd14e6993a22ff260454450f9827e743"
+    },
+    {
+      "title": "正蒙/07",
+      "pageId": 1212065,
+      "revisionId": 2589375,
+      "revision": "2589375",
+      "timestamp": "2025-08-10T08:41:51Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589375",
+      "parent": "正蒙",
+      "sha256": "f9e06b0f6a74c5508377e506e525691e6f154c423aa2ec13c728905c6645f3f6"
+    },
+    {
+      "title": "正蒙/08",
+      "pageId": 1212066,
+      "revisionId": 2589376,
+      "revision": "2589376",
+      "timestamp": "2025-08-10T08:42:24Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589376",
+      "parent": "正蒙",
+      "sha256": "1debb2ab59dc4a1107d72db9aaaa5107f88e6b8d45c948fc8d2f99d01f5becda"
+    },
+    {
+      "title": "正蒙/09",
+      "pageId": 1212067,
+      "revisionId": 2589377,
+      "revision": "2589377",
+      "timestamp": "2025-08-10T08:42:56Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589377",
+      "parent": "正蒙",
+      "sha256": "57f189c5260b4c6807c8d9bc182073c769f2d681381c35b19f0b49ec0580cac9"
+    },
+    {
+      "title": "正蒙/10",
+      "pageId": 1212068,
+      "revisionId": 2589378,
+      "revision": "2589378",
+      "timestamp": "2025-08-10T08:43:20Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589378",
+      "parent": "正蒙",
+      "sha256": "9cebadcf5bbcd59e81a44ed11171ddf5bb00558d2f87ea65e6fac871d86465fd"
+    },
+    {
+      "title": "正蒙/11",
+      "pageId": 1212069,
+      "revisionId": 2589379,
+      "revision": "2589379",
+      "timestamp": "2025-08-10T08:43:49Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589379",
+      "parent": "正蒙",
+      "sha256": "22f6725354bdb4f675abb9e3d58263e577c819258593e0b8090af389bf4503ae"
+    },
+    {
+      "title": "正蒙/12",
+      "pageId": 1212070,
+      "revisionId": 2589380,
+      "revision": "2589380",
+      "timestamp": "2025-08-10T08:44:21Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589380",
+      "parent": "正蒙",
+      "sha256": "15a8275053b58225d048374a6bb33dd783e1c4d4e979c9aeee13a40267cd2ee2"
+    },
+    {
+      "title": "正蒙/13",
+      "pageId": 1212071,
+      "revisionId": 2589381,
+      "revision": "2589381",
+      "timestamp": "2025-08-10T08:44:43Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589381",
+      "parent": "正蒙",
+      "sha256": "97dc892ea19d4b27ea2d765b45c35c6929c9fa453fde732f25847d5743ffd377"
+    },
+    {
+      "title": "正蒙/14",
+      "pageId": 1212072,
+      "revisionId": 2589382,
+      "revision": "2589382",
+      "timestamp": "2025-08-10T08:45:13Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589382",
+      "parent": "正蒙",
+      "sha256": "c24935a06fb450f8d3bcb224451e9c4f43beadb7f5f6cee034a9458f8bfd84d7"
+    },
+    {
+      "title": "正蒙/15",
+      "pageId": 1212073,
+      "revisionId": 2589383,
+      "revision": "2589383",
+      "timestamp": "2025-08-10T08:45:44Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589383",
+      "parent": "正蒙",
+      "sha256": "8f797ed348ea9befcad15a9165f223f3e6e7f729e5005354c6a38d34fbea60e2"
+    },
+    {
+      "title": "正蒙/16",
+      "pageId": 1212074,
+      "revisionId": 2589386,
+      "revision": "2589386",
+      "timestamp": "2025-08-10T08:47:20Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589386",
+      "parent": "正蒙",
+      "sha256": "fb2470462a41b59fe3f869863efa228f5d76b1efcc37d238de589084a63a5dde"
+    },
+    {
+      "title": "正蒙/17",
+      "pageId": 1212075,
+      "revisionId": 2589385,
+      "revision": "2589385",
+      "timestamp": "2025-08-10T08:47:06Z",
+      "fetchedAt": "2026-09-24T20:16:40.432Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2589385",
+      "parent": "正蒙",
+      "sha256": "67f37a1b0d28e77243cbea129f7062d392f042c6d8dc53307cdb866acfcb2b73"
+    }
+  ],
+  "metadata": {
+    "author": "張載 (子厚)",
+    "times": "北宋"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "0c454ac11d5729f9ae9e00e01c2429e6e245be77a83fc94bd61e0f2f68adb91f",
+  "stats": {
+    "chapters": 19,
+    "paragraphs": 539,
+    "characters": 27321,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "work": "baopuzi",
+  "provider": "daizhige",
+  "rootTitle": "抱朴子內篇",
+  "pages": [
+    {
+      "title": "道藏/藏外/抱朴子内篇.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%81%93%E8%97%8F/%E8%97%8F%E5%A4%96/%E6%8A%B1%E6%9C%B4%E5%AD%90%E5%86%85%E7%AF%87.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "bfbc61a3d8e3975db574fa5a1e04339611df16462e6dffd9448af293ec904f21"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "source-missing-glyph: 抱朴子內篇"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%81%93%E8%97%8F/%E8%97%8F%E5%A4%96/%E6%8A%B1%E6%9C%B4%E5%AD%90%E5%86%85%E7%AF%87.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "5daf9192cfa2ae5f48f948da79d69d64159493e1672e06294d65889cd1e5d182",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 426,
+    "characters": 103147,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "work": "shaonianzhongguoshuo",
+  "provider": "zhwikisource",
+  "rootTitle": "少年中國說",
+  "pages": [
+    {
+      "title": "少年中國說",
+      "pageId": 12918,
+      "revisionId": 10294249,
+      "revision": "10294249",
+      "timestamp": "2026-09-23T22:45:56Z",
+      "fetchedAt": "2026-09-24T20:04:00.377Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=10294249",
+      "sha256": "497c7223d650c2d24361b0cff0f5aabef544c90e5db9daedbf9d96ecdceaaf90"
+    }
+  ],
+  "metadata": {
+    "author": "梁啟超"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "7f391c4d857e6462438ba630be47279988078deeebcec11dded4742c1143bca0",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 11,
+    "characters": 3790,
+    "emptyChapters": 0
+  }
+}

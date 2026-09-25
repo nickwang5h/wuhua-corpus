@@ -1,0 +1,35 @@
+{
+  "work": "mingyidaifanglu",
+  "provider": "zhwikisource",
+  "rootTitle": "明夷待訪錄",
+  "pages": [
+    {
+      "title": "明夷待訪錄",
+      "pageId": 11346,
+      "revisionId": 2583858,
+      "revision": "2583858",
+      "timestamp": "2025-07-31T02:17:56Z",
+      "fetchedAt": "2026-09-24T19:42:10.948Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2583858",
+      "sha256": "a265988fdee6892028fb7f539b62cbf0e5424c4875029d39b2b7bc9e08225320"
+    }
+  ],
+  "metadata": {
+    "author": "黃宗羲",
+    "times": "清"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "9504a630debebda74cebe59ad0f39608585622ebfd0ff4def06b5103ece28b91",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 115,
+    "characters": 22766,
+    "emptyChapters": 0
+  }
+}

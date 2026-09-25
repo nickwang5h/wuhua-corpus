@@ -1,0 +1,36 @@
+{
+  "work": "daxue",
+  "provider": "gujilab",
+  "rootTitle": "大學",
+  "pages": [
+    {
+      "title": "output/sishu/daxue.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/daxue.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "d850e601c1639c718078b9417c2558f249d6f4b7dd063a5f5628e379990dbd61"
+    }
+  ],
+  "metadata": {
+    "author": "曾子（传）",
+    "era": "春秋",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "2c27e729c5c6b27cb04326305e7f694ef7d53b209ee16cc0fef1675e5a68fab9",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 16,
+    "characters": 2209,
+    "emptyChapters": 0
+  }
+}

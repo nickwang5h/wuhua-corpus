@@ -1,0 +1,64 @@
+{
+  "work": "zhuziyulei",
+  "provider": "daizhige",
+  "rootTitle": "朱子語類",
+  "pages": [
+    {
+      "title": "儒藏/语录/朱子语类.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "bf9907a5cd407e65ee7c2b2eac809212f98819a835626ad6cceb680e3e59f63e"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "short-unit: 朱子語類",
+    "source-missing-glyph: 朱子语类卷第三",
+    "source-missing-glyph: 朱子语类卷第八",
+    "source-missing-glyph: 朱子语类卷第十",
+    "source-missing-glyph: 朱子语类卷第十二",
+    "source-missing-glyph: 朱子语类卷第十三",
+    "source-missing-glyph: 朱子语类卷第十八",
+    "source-missing-glyph: 朱子语类卷第二十",
+    "source-missing-glyph: 朱子语类卷第四十",
+    "source-missing-glyph: 朱子语类卷第四十五",
+    "source-missing-glyph: 朱子语类卷第五十二",
+    "source-missing-glyph: 朱子语类卷第五十九",
+    "source-missing-glyph: 朱子语类卷第六十",
+    "source-missing-glyph: 朱子语类卷第六十二",
+    "source-missing-glyph: 朱子语类卷第六十七",
+    "source-missing-glyph: 朱子语类卷第六十九",
+    "source-missing-glyph: 朱子语类卷第七十二",
+    "source-missing-glyph: 朱子语类卷第七十三",
+    "source-missing-glyph: 朱子语类卷第八十九",
+    "source-missing-glyph: 朱子语类卷第九十六",
+    "source-missing-glyph: 朱子语类卷第一百二",
+    "source-missing-glyph: 朱子语类卷第一百四",
+    "source-missing-glyph: 朱子语类卷第一百一十六",
+    "source-missing-glyph: 朱子语类卷第一百一十七",
+    "source-missing-glyph: 朱子语类卷第一百一十八",
+    "source-missing-glyph: 朱子语类卷第一百二十八",
+    "source-missing-glyph: 朱子语类卷第一百三十",
+    "source-missing-glyph: 朱子语类卷第一百三十二",
+    "source-missing-glyph: 朱子语类卷第一百三十三",
+    "source-missing-glyph: 朱子语类卷第一百三十五",
+    "source-missing-glyph: 朱子语类卷第一百三十八"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "80eab79de03233cbda4b6e141d90157c81ab6c4c26f3783633356db03bc410df",
+  "stats": {
+    "chapters": 141,
+    "paragraphs": 15653,
+    "characters": 1933088,
+    "emptyChapters": 0
+  }
+}

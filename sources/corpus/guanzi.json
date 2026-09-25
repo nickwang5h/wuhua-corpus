@@ -1,0 +1,48 @@
+{
+  "work": "guanzi",
+  "provider": "guopop",
+  "rootTitle": "管子",
+  "pages": [
+    {
+      "title": "子/法家类/管子.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%B3%95%E5%AE%B6%E7%B1%BB/%E7%AE%A1%E5%AD%90.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "ce1388ed524c8e2482d6e3cbfdc149f8f8f7169e1f3b3e52632d5276a2a6a2fe"
+    }
+  ],
+  "metadata": {
+    "author": "春秋・管仲",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Wikisource discovery failed: Error: Missing Wikisource page: 管子/王言",
+    "short-unit: 王言第二十一",
+    "short-unit: 謀失第二十五",
+    "short-unit: 正言第三十四",
+    "source-missing-glyph: 白心第三十八",
+    "short-unit: 言昭第六十",
+    "short-unit: 脩身第六十一",
+    "short-unit: 問霸第六十二",
+    "short-unit: 牧民解第六十三",
+    "short-unit: 問乗馬第七十",
+    "short-unit: 輕重丙第八十二",
+    "short-unit: 輕重庚第八十六",
+    "short-unit: 音释"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%B3%95%E5%AE%B6%E7%B1%BB/%E7%AE%A1%E5%AD%90.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "7fe5263ce3e43c2098d910b4a16c02fa349d481296592fc309af158a665e9131",
+  "stats": {
+    "chapters": 89,
+    "paragraphs": 5140,
+    "characters": 155524,
+    "emptyChapters": 0
+  }
+}

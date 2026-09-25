@@ -1,0 +1,153 @@
+{
+  "introduction": "这是 Stage 1、4、7 的六个编辑试读样本，不是一条跳过其他阶段的速成路线。进入传习录前仍需 Stage 6 的理、气、心、性、格物背景，尤其要对照朱熹的大学章句。选文从 canonical 固定段落按 Unicode 码点范围提取，保留来源字形与标点。",
+  "steps": [
+    {
+      "id": "daxue-purpose",
+      "stage": 1,
+      "work": "daxue",
+      "title": "大学之道：先读出层次",
+      "purpose": "以短段建立“目标—工夫—次序”的语言框架。",
+      "readingFocus": "圈出三次“在”与连续的“而后”，辨认总纲和递进句。",
+      "question": "“知止”为什么放在“定、静、安、虑、得”之前？",
+      "requiresStages": [],
+      "refs": [
+        {
+          "id": "p-daxue-ec3fa9f16b3930a2-0001",
+          "version": "sha256:0833a4fff64ad9664be8757ae18bca0529cfe13f68c736c979c8ada0a5de1689",
+          "start": 0,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "daxue-sincerity",
+      "stage": 1,
+      "work": "daxue",
+      "title": "诚意与慎独：把概念放回自身",
+      "purpose": "为阳明借用“如好好色、如恶恶臭”准备原始语境。",
+      "readingFocus": "区分“所谓”“此谓”的解释作用；留意“诚于中，形于外”的内外关系。",
+      "question": "“毋自欺”与“慎独”在这一段如何相连？",
+      "requiresStages": [],
+      "refs": [
+        {
+          "id": "p-daxue-ec3fa9f16b3930a2-0003",
+          "version": "sha256:97ae6bd9a116d35e70c2c5cacaa5925ebdfde6f50df5e7ce31fb6748b78af918",
+          "start": 0,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "shishuo-trust",
+      "stage": 4,
+      "work": "shishuoxinyu",
+      "title": "陈太丘与友期行：在冲突中读信与礼",
+      "purpose": "把伦理概念转成可讨论的人物言行，不预先替读者裁决人物。",
+      "readingFocus": "追踪“君、家君、尊君、之”的指代，复述约定、迟到、责骂、答辩的顺序。",
+      "question": "元方以“无信、无礼”回应，最后“入门不顾”又留下什么可讨论之处？",
+      "requiresStages": [],
+      "refs": [
+        {
+          "id": "p-shishuoxinyu-72736fff72a0f908-0001",
+          "version": "sha256:13abe3e23229beff806c4d707acd3dc57c2c18adf4d100634baaeeda635d66fa",
+          "start": 0,
+          "end": 38
+        },
+        {
+          "id": "p-shishuoxinyu-72736fff72a0f908-0002",
+          "version": "sha256:b312ff77c7ba4a5f9039c44d820df8d6d313edfbf4a52d64b552b6c413e2e078",
+          "start": 0,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "shishuo-listening",
+      "stage": 4,
+      "work": "shishuoxinyu",
+      "title": "听书忘炊：读出家庭中的人物与回应",
+      "purpose": "沿用陈太丘一家的熟悉人物，降低背景负担，练习从动作读人物态度。",
+      "readingFocus": "按“窃听—忘炊—被问—复述—回应”复述故事；辨认“识、志、更相”的语境意义。",
+      "question": "太丘为什么以“但糜自可，何必饭也”收束？如果只摘最后一句，会丢掉哪些判断依据？",
+      "requiresStages": [],
+      "refs": [
+        {
+          "id": "p-shishuoxinyu-f4949738e0bc420b-0001",
+          "version": "sha256:7ec41500d9c93f9f8fcc4d6dfdb58b867013b54741ad94924dd24b14e0659554",
+          "start": 0,
+          "end": 146
+        }
+      ]
+    },
+    {
+      "id": "chuanxilu-knowing",
+      "stage": 7,
+      "work": "chuanxilu",
+      "title": "徐爱问知行：为什么知道了还做不到",
+      "purpose": "回到《大学》的诚意段，观察阳明如何用身体经验重新解释“知”。",
+      "readingFocus": "先保留徐爱的反问，再读阳明答语；比较“晓得说”与“已曾行”。",
+      "question": "阳明用“如好好色、如恶恶臭”作例，和《大学》的原段有什么呼应？",
+      "requiresStages": [
+        6
+      ],
+      "refs": [
+        {
+          "id": "p-chuanxilu-135038bb053d8892-0018",
+          "version": "sha256:c781d62a81fd4030f3f1ee5bcd83b37cb3397fc2f9b16683ef64d3cca49c1dcc",
+          "start": 0,
+          "end": 36
+        },
+        {
+          "id": "p-chuanxilu-135038bb053d8892-0019",
+          "version": "sha256:f1bd57d4b0f3c96af872e78257eb318ce4e6d71005e0199b6ed6c475c364c01c",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "id": "p-chuanxilu-135038bb053d8892-0020",
+          "version": "sha256:d3a9a7d50d87167c4cb2a2668cc455847dafbc85286f13843d634584b07871c7",
+          "start": 0,
+          "end": 41
+        },
+        {
+          "id": "p-chuanxilu-135038bb053d8892-0021",
+          "version": "sha256:c448759bb16bd59c1495b466bf44b67d36bef594602e1ecf487d1bf2c64e3f35",
+          "start": 0,
+          "end": 410
+        }
+      ]
+    },
+    {
+      "id": "chuanxilu-intention",
+      "stage": 7,
+      "work": "chuanxilu",
+      "title": "一念发动：回看知行合一的用意",
+      "purpose": "避免把知行合一读成一句抽象口号，转向它所针对的自我开脱。",
+      "readingFocus": "圈出“只因”“故”“正要”的论证关系；把“立言宗旨”放在解释中心。",
+      "question": "这一段要纠正的借口是什么？它与“毋自欺”能否互相说明？",
+      "requiresStages": [
+        6
+      ],
+      "refs": [
+        {
+          "id": "p-chuanxilu-12028f010549b791-0086",
+          "version": "sha256:475fe9336d9f7a89bc8d2a897fdd0fbcbc70bed0394869629e2b84f801c00ed1",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "id": "p-chuanxilu-12028f010549b791-0087",
+          "version": "sha256:ab11a4c36cdedbdd77965a3e4d8295823686db6857aaee2ef81e43130b926b36",
+          "start": 0,
+          "end": 127
+        }
+      ]
+    }
+  ],
+  "findings": [
+    "大学可以用短段建立概念与递进句式；诚意段为后面的知行讨论提供了明确原文回指。",
+    "世说新语适合短叙事和指代训练，但上游段落不等于故事边界，个别条目还有不配对引号。本轮选入两则边界完整的故事；以后选其他条目须核对前后文，不能按段号机械生成 Reading。",
+    "传习录保留提问与答语才足以支持理解。卷上较长答语与卷下短问答形成不同负担的样本。",
+    "技术验证证明选段能定位、版本能校验、上下文可回溯；教学适切性是编辑判断，尚未进行真实读者学习效果测试。"
+  ]
+}

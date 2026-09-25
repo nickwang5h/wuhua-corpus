@@ -1,0 +1,112 @@
+{
+  "work": "gongsunlongzi",
+  "provider": "zhwikisource",
+  "rootTitle": "公孫龍子",
+  "pages": [
+    {
+      "title": "公孫龍子",
+      "pageId": 54755,
+      "revisionId": 2440795,
+      "revision": "2440795",
+      "timestamp": "2024-07-27T09:17:28Z",
+      "fetchedAt": "2026-09-24T19:56:07.645Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2440795",
+      "sha256": "d7cc4a471b3c3843f7ca745a021b112c7f2c1606209b0a3dda739493ba3490a9"
+    },
+    {
+      "title": "公孫龍子/原序",
+      "pageId": 1123846,
+      "revisionId": 2440796,
+      "revision": "2440796",
+      "timestamp": "2024-07-27T09:20:03Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2440796",
+      "parent": "公孫龍子",
+      "sha256": "d484fddb992af98f6e3519d82683dec197ff265f5f17e95a5424e46dcc8b0f28"
+    },
+    {
+      "title": "公孫龍子/1",
+      "pageId": 54756,
+      "revisionId": 2440798,
+      "revision": "2440798",
+      "timestamp": "2024-07-27T09:35:24Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2440798",
+      "parent": "公孫龍子",
+      "sha256": "f4d81b6c5a0c76e41eaa1168f7546ca5b9ae88421b3b1d83e8c2ca3d60f38849"
+    },
+    {
+      "title": "公孫龍子/2",
+      "pageId": 54757,
+      "revisionId": 2440799,
+      "revision": "2440799",
+      "timestamp": "2024-07-27T09:53:29Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2440799",
+      "parent": "公孫龍子",
+      "sha256": "567785ff1e2ff94c3fe23b3aa02d6552f87c9cb07def8464ab3566270f4a1876"
+    },
+    {
+      "title": "公孫龍子/3",
+      "pageId": 54758,
+      "revisionId": 2440800,
+      "revision": "2440800",
+      "timestamp": "2024-07-27T10:07:52Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2440800",
+      "parent": "公孫龍子",
+      "sha256": "042282aa784a28f744a81d40fb88e532a4cf370dac6e2659e01c2c2c1b4cbdfe"
+    },
+    {
+      "title": "公孫龍子/4",
+      "pageId": 54759,
+      "revisionId": 2441221,
+      "revision": "2441221",
+      "timestamp": "2024-07-28T04:13:49Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2441221",
+      "parent": "公孫龍子",
+      "sha256": "a9a85cb9ade826bd9cf2ce4ece6154713bfcf0ff9d5d927dc015f1459241a0a0"
+    },
+    {
+      "title": "公孫龍子/5",
+      "pageId": 54760,
+      "revisionId": 2441230,
+      "revision": "2441230",
+      "timestamp": "2024-07-28T04:56:09Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2441230",
+      "parent": "公孫龍子",
+      "sha256": "febb2080840d213c47d96c05fe8b4e11c180724ec2e3a5c9bc39c6c32026efe7"
+    },
+    {
+      "title": "公孫龍子/6",
+      "pageId": 54761,
+      "revisionId": 2441233,
+      "revision": "2441233",
+      "timestamp": "2024-07-28T05:05:15Z",
+      "fetchedAt": "2026-09-24T19:56:18.172Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2441233",
+      "parent": "公孫龍子",
+      "sha256": "fbaa8478463c9e3749f90d06891789d280c381f3d4b8ae4a2afb4e8f9cd5b0f8"
+    }
+  ],
+  "metadata": {
+    "author": "公孫龍",
+    "times": "戰國"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "cbf4c5c80a50901b68458805d0373cc7fc4750d9a3747ea58b114a9e90f88a8a",
+  "stats": {
+    "chapters": 7,
+    "paragraphs": 37,
+    "characters": 11460,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,1963 @@
+{
+  "targets": 71,
+  "resolved": 71,
+  "unresolved": 0,
+  "coreWorks": 29,
+  "coreResolved": 29,
+  "sourcePages": 197,
+  "fetchedPages": 197,
+  "images": 1,
+  "imageChapters": 1,
+  "emptyChapters": 0,
+  "warnings": 549,
+  "legacyWorks": 3,
+  "newCharacters": 13329521,
+  "characters": 13437599,
+  "rows": [
+    {
+      "id": "daxue",
+      "title": "大學",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 16,
+      "characters": 2209,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+      ]
+    },
+    {
+      "id": "zhongyong",
+      "title": "中庸",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 39,
+      "characters": 4456,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+      ]
+    },
+    {
+      "id": "mengzi",
+      "title": "孟子",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 14,
+      "paragraphs": 690,
+      "characters": 44844,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+      ]
+    },
+    {
+      "id": "zhouyi",
+      "title": "周易",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 69,
+      "paragraphs": 1270,
+      "characters": 33339,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "source-missing-glyph: 47. 困（卦四十七）"
+      ]
+    },
+    {
+      "id": "shangshu",
+      "title": "尚書",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 57,
+      "paragraphs": 460,
+      "characters": 35027,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+      ]
+    },
+    {
+      "id": "shijing",
+      "title": "詩經",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 305,
+      "paragraphs": 1319,
+      "characters": 36941,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "short-unit: 维清"
+      ]
+    },
+    {
+      "id": "liji",
+      "title": "禮記",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 47,
+      "paragraphs": 1732,
+      "characters": 121126,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "source-missing-glyph: 投壶"
+      ]
+    },
+    {
+      "id": "chunqiu",
+      "title": "春秋",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2184578",
+        "2184546",
+        "2184579",
+        "2184394",
+        "2184293",
+        "2691889",
+        "5978344",
+        "5978347",
+        "9458629",
+        "5978350",
+        "5978358",
+        "5978359",
+        "2620452"
+      ],
+      "sourcePages": 13,
+      "fetchedPages": 13,
+      "chapters": 12,
+      "paragraphs": 517,
+      "characters": 20921,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "zuozhuan",
+      "title": "春秋左氏傳",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 12,
+      "paragraphs": 3296,
+      "characters": 252286,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "source-missing-glyph: 成公（元年～十八年）",
+        "source-missing-glyph: 定公（元年～十五年）"
+      ]
+    },
+    {
+      "id": "mozi",
+      "title": "墨子",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 63,
+      "paragraphs": 67,
+      "characters": 92322,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Wikisource discovery failed: Error: Missing Wikisource page: 墨子/節用下",
+        "short-unit: 節用下第二十二",
+        "short-unit: 節葬上第二十三",
+        "short-unit: 節葬中第二十四",
+        "short-unit: 明鬼上第二十九",
+        "short-unit: 明鬼中第三十",
+        "short-unit: 非樂中第三十三",
+        "short-unit: 非樂下第三十四",
+        "short-unit: 非儒上第三十八"
+      ]
+    },
+    {
+      "id": "xunzi",
+      "title": "荀子",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 34,
+      "paragraphs": 3590,
+      "characters": 95263,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Structured whole-work bootstrap selected after discovering 34 Wikisource pages.",
+        "source-missing-glyph: 王霸篇第十一",
+        "source-missing-glyph: 堯問篇第三十二"
+      ]
+    },
+    {
+      "id": "hanfeizi",
+      "title": "韓非子",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 57,
+      "paragraphs": 1258,
+      "characters": 129143,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Structured whole-work bootstrap selected after discovering 76 Wikisource pages."
+      ]
+    },
+    {
+      "id": "liezi",
+      "title": "列子",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2176036",
+        "2269059",
+        "2200525",
+        "2200526",
+        "2200527",
+        "2608932",
+        "2200529",
+        "2200530",
+        "2200531"
+      ],
+      "sourcePages": 9,
+      "fetchedPages": 9,
+      "chapters": 8,
+      "paragraphs": 139,
+      "characters": 37948,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "guanzi",
+      "title": "管子",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 89,
+      "paragraphs": 5140,
+      "characters": 155524,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Wikisource discovery failed: Error: Missing Wikisource page: 管子/王言",
+        "short-unit: 王言第二十一",
+        "short-unit: 謀失第二十五",
+        "short-unit: 正言第三十四",
+        "source-missing-glyph: 白心第三十八",
+        "short-unit: 言昭第六十",
+        "short-unit: 脩身第六十一",
+        "short-unit: 問霸第六十二",
+        "short-unit: 牧民解第六十三",
+        "short-unit: 問乗馬第七十",
+        "short-unit: 輕重丙第八十二",
+        "short-unit: 輕重庚第八十六",
+        "short-unit: 音释"
+      ]
+    },
+    {
+      "id": "sunzi",
+      "title": "孫子兵法",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "7906064"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 90,
+      "characters": 10164,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "gongsunlongzi",
+      "title": "公孫龍子",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2440795",
+        "2440796",
+        "2440798",
+        "2440799",
+        "2440800",
+        "2441221",
+        "2441230",
+        "2441233"
+      ],
+      "sourcePages": 8,
+      "fetchedPages": 8,
+      "chapters": 7,
+      "paragraphs": 37,
+      "characters": 11460,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "shangjunshu",
+      "title": "商君書",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2593685",
+        "850643",
+        "850644",
+        "850645",
+        "1741809",
+        "2648348"
+      ],
+      "sourcePages": 6,
+      "fetchedPages": 6,
+      "chapters": 5,
+      "paragraphs": 128,
+      "characters": 24209,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "lvshichunqiu",
+      "title": "呂氏春秋",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2246331",
+        "2178555",
+        "2178553",
+        "2327713",
+        "2327726",
+        "2327715",
+        "2327717",
+        "2327712",
+        "2327716",
+        "2327714",
+        "2327718",
+        "2327719",
+        "2327721",
+        "2327720",
+        "2327725",
+        "2327722",
+        "2327724",
+        "392580",
+        "2327723",
+        "394746",
+        "418909",
+        "418921",
+        "2497183",
+        "418941",
+        "1513826",
+        "419010",
+        "416058"
+      ],
+      "sourcePages": 27,
+      "fetchedPages": 27,
+      "chapters": 26,
+      "paragraphs": 749,
+      "characters": 131537,
+      "emptyChapters": 0,
+      "warnings": [
+        "volume-number-gap: 1, 2 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "shiji",
+      "title": "史記",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 130,
+      "paragraphs": 4348,
+      "characters": 1094693,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "Wikisource discovery failed: Error: HTTP 429 https://zh.wikisource.org/w/api.php?format=json&formatversion=2&maxlag=5&action=query&list=search&srsearch=%E5%8F%B2%E8%A8%98&srnamespace=0&srlimit=5",
+        "source-missing-glyph: 史记卷一",
+        "source-missing-glyph: 史记卷二",
+        "source-missing-glyph: 史记卷三",
+        "source-missing-glyph: 史记卷四",
+        "source-missing-glyph: 史记卷五",
+        "source-missing-glyph: 史记卷六",
+        "source-missing-glyph: 史记卷七",
+        "source-missing-glyph: 史记卷八",
+        "source-missing-glyph: 史记卷九",
+        "source-missing-glyph: 史记卷十",
+        "source-missing-glyph: 史记卷十一",
+        "source-missing-glyph: 史记卷十二",
+        "source-missing-glyph: 史记卷十三",
+        "source-missing-glyph: 史记卷十四",
+        "source-missing-glyph: 史记卷十五",
+        "source-missing-glyph: 史记卷十六",
+        "source-missing-glyph: 史记卷十七",
+        "source-missing-glyph: 史记卷十八",
+        "source-missing-glyph: 史记卷十九",
+        "source-missing-glyph: 史记卷二十",
+        "source-missing-glyph: 史记卷二十一",
+        "source-missing-glyph: 史记卷二十二",
+        "source-missing-glyph: 史记卷二十三",
+        "source-missing-glyph: 史记卷二十四",
+        "source-missing-glyph: 史记卷二十五",
+        "source-missing-glyph: 史记卷二十六",
+        "source-missing-glyph: 史记卷二十七",
+        "source-missing-glyph: 史记卷二十八",
+        "source-missing-glyph: 史记卷二十九",
+        "source-missing-glyph: 史记卷三十",
+        "source-missing-glyph: 史记卷三十一",
+        "source-missing-glyph: 史记卷三十二",
+        "source-missing-glyph: 史记卷三十三",
+        "source-missing-glyph: 史记卷三十四",
+        "source-missing-glyph: 史记卷三十五",
+        "source-missing-glyph: 史记卷三十六",
+        "source-missing-glyph: 史记卷三十七",
+        "source-missing-glyph: 史记卷三十八",
+        "source-missing-glyph: 史记卷三十九",
+        "source-missing-glyph: 史记卷四十",
+        "source-missing-glyph: 史记卷四十一",
+        "source-missing-glyph: 史记卷四十二",
+        "source-missing-glyph: 史记卷四十三",
+        "source-missing-glyph: 史记卷四十四",
+        "source-missing-glyph: 史记卷四十五",
+        "source-missing-glyph: 史记卷四十六",
+        "source-missing-glyph: 史记卷四十七",
+        "source-missing-glyph: 史记卷四十八",
+        "source-missing-glyph: 史记卷四十九",
+        "source-missing-glyph: 史记卷五十",
+        "source-missing-glyph: 史记卷五十一",
+        "source-missing-glyph: 史记卷五十二",
+        "source-missing-glyph: 史记卷五十三",
+        "source-missing-glyph: 史记卷五十四",
+        "source-missing-glyph: 史记卷五十五",
+        "source-missing-glyph: 史记卷五十六",
+        "source-missing-glyph: 史记卷五十七",
+        "source-missing-glyph: 史记卷五十八",
+        "source-missing-glyph: 史记卷五十九",
+        "source-missing-glyph: 史记卷六十",
+        "source-missing-glyph: 史记卷六十一",
+        "source-missing-glyph: 史记卷六十二",
+        "source-missing-glyph: 史记卷六十三",
+        "source-missing-glyph: 史记卷六十四",
+        "source-missing-glyph: 史记卷六十五",
+        "source-missing-glyph: 史记卷六十六",
+        "source-missing-glyph: 史记卷六十七",
+        "source-missing-glyph: 史记卷六十八",
+        "source-missing-glyph: 史记卷六十九",
+        "source-missing-glyph: 史记卷七十",
+        "source-missing-glyph: 史记卷七十一",
+        "source-missing-glyph: 史记卷七十二",
+        "source-missing-glyph: 史记卷七十三",
+        "source-missing-glyph: 史记卷七十四",
+        "source-missing-glyph: 史记卷七十五",
+        "source-missing-glyph: 史记卷七十六",
+        "source-missing-glyph: 史记卷七十七",
+        "source-missing-glyph: 史记卷七十八",
+        "source-missing-glyph: 史记卷七十九",
+        "source-missing-glyph: 史记卷八十",
+        "source-missing-glyph: 史记卷八十一",
+        "source-missing-glyph: 史记卷八十二",
+        "source-missing-glyph: 史记卷八十三",
+        "source-missing-glyph: 史记卷八十四",
+        "source-missing-glyph: 史记卷八十五",
+        "source-missing-glyph: 史记卷八十六",
+        "source-missing-glyph: 史记卷八十七",
+        "source-missing-glyph: 史记卷八十八",
+        "source-missing-glyph: 史记卷八十九",
+        "source-missing-glyph: 史记卷九十",
+        "source-missing-glyph: 史记卷九十一",
+        "source-missing-glyph: 史记卷九十二",
+        "source-missing-glyph: 史记卷九十三",
+        "source-missing-glyph: 史记巻九十四",
+        "source-missing-glyph: 史记巻九十五",
+        "source-missing-glyph: 史记卷九十六",
+        "source-missing-glyph: 史记巻九十七",
+        "source-missing-glyph: 史记巻九十八",
+        "source-missing-glyph: 史记巻九十九",
+        "source-missing-glyph: 史记巻一百",
+        "source-missing-glyph: 史记巻一百一",
+        "source-missing-glyph: 史记巻一百二",
+        "source-missing-glyph: 史记卷一百三",
+        "source-missing-glyph: 史记巻一百四",
+        "source-missing-glyph: 史记卷一百五",
+        "source-missing-glyph: 史记卷一百六",
+        "source-missing-glyph: 史记卷一百七",
+        "source-missing-glyph: 史记卷一百八",
+        "source-missing-glyph: 史记卷一百九",
+        "source-missing-glyph: 史记卷一百十",
+        "source-missing-glyph: 史记卷一百十一",
+        "source-missing-glyph: 史记卷一百十二",
+        "source-missing-glyph: 史记卷一百十三",
+        "source-missing-glyph: 史记卷一百十四",
+        "source-missing-glyph: 史记卷一百十五",
+        "source-missing-glyph: 史记卷一百十六",
+        "source-missing-glyph: 史记卷一百十七",
+        "source-missing-glyph: 史记卷一百十八",
+        "source-missing-glyph: 史记卷一百十九",
+        "source-missing-glyph: 史记卷一百二十",
+        "source-missing-glyph: 史记卷一百二十一",
+        "source-missing-glyph: 史记卷一百二十二",
+        "source-missing-glyph: 史记卷一百二十三",
+        "source-missing-glyph: 史记卷一百二十四",
+        "source-missing-glyph: 史记卷一百二十五",
+        "source-missing-glyph: 史记卷一百二十六",
+        "source-missing-glyph: 史讫卷一百二十七",
+        "source-missing-glyph: 史记卷一百二十八",
+        "source-missing-glyph: 史记卷一百二十九",
+        "source-missing-glyph: 史记卷一百三十",
+        "volume-number-gap: 94, 95, 97, 98, 99, 100, 101, 102, 104 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "huainanzi",
+      "title": "淮南子",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 22,
+      "paragraphs": 4834,
+      "characters": 158387,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "yantielun",
+      "title": "鹽鐵論",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 61,
+      "paragraphs": 62,
+      "characters": 59546,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "lunheng",
+      "title": "論衡",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 85,
+      "paragraphs": 194,
+      "characters": 257342,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "chunqiufanlu",
+      "title": "春秋繁露",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 18,
+      "paragraphs": 249,
+      "characters": 71777,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 春秋繁露",
+        "source-missing-glyph: 卷第五",
+        "source-missing-glyph: 卷第七",
+        "source-missing-glyph: 卷第九",
+        "source-missing-glyph: 卷第十三",
+        "source-missing-glyph: 卷第十四",
+        "source-missing-glyph: 卷第十六",
+        "source-missing-glyph: 卷第十七"
+      ]
+    },
+    {
+      "id": "shuoyuan",
+      "title": "說苑",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 21,
+      "paragraphs": 746,
+      "characters": 130410,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "xinxu",
+      "title": "新序",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 11,
+      "paragraphs": 211,
+      "characters": 57985,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "hanshu",
+      "title": "漢書",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 101,
+      "paragraphs": 3808,
+      "characters": 891475,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "Wikisource discovery failed: Error: HTTP 429 https://zh.wikisource.org/w/api.php?format=json&formatversion=2&maxlag=5&action=query&list=search&srsearch=%E6%BC%A2%E6%9B%B8&srnamespace=0&srlimit=5",
+        "source-missing-glyph: 卷六  武帝纪第六",
+        "source-missing-glyph: 卷七  昭帝纪第七",
+        "source-missing-glyph: 卷十  成帝纪第十",
+        "source-missing-glyph: 卷十一\n哀帝纪第十一",
+        "source-missing-glyph: 卷十四\n诸侯王表第二",
+        "source-missing-glyph: 卷十五上\n王子侯表第三上",
+        "source-missing-glyph: 卷十五下\n王子侯表第三下",
+        "source-missing-glyph: 卷十六\n高惠高后文功臣表第四",
+        "source-missing-glyph: 卷二十一上\n律历志第一上",
+        "source-missing-glyph: 卷二十一下\n律历志第一下",
+        "source-missing-glyph: 卷二十二\n礼乐志第二",
+        "source-missing-glyph: 卷二十五上\n郊祀志第五上",
+        "source-missing-glyph: 卷二十五下\n郊祀志第五下",
+        "source-missing-glyph: 卷二十六\n天文志第六",
+        "source-missing-glyph: 卷二十七上\n五行志第七上",
+        "source-missing-glyph: 卷二十七中之上\n五行志第七中之上",
+        "source-missing-glyph: 卷二十七中之下\n五行志第七中之下",
+        "source-missing-glyph: 卷二十七下之下\n五行志第七下之下",
+        "source-missing-glyph: 卷二十八上\n地理志第八上",
+        "source-missing-glyph: 卷二十八下\n地理志第八下",
+        "source-missing-glyph: 卷二十九\n沟洫志第九",
+        "source-missing-glyph: 卷三十\n艺文志第十",
+        "source-missing-glyph: 卷四十九\n爰盎晁错传第十九",
+        "source-missing-glyph: 卷五十\n张冯汲郑传第二十",
+        "source-missing-glyph: 卷五十一\n贾邹枚路传第二十一",
+        "source-missing-glyph: 卷五十二\n窦田灌韩传第二十二",
+        "source-missing-glyph: 卷五十三\n景十三王传第二十三",
+        "source-missing-glyph: 卷五十四\n李广苏建传第二十四",
+        "source-missing-glyph: 卷五十五\n卫青霍去病传第二十五",
+        "source-missing-glyph: 卷五十六\n董仲舒传第二十六",
+        "source-missing-glyph: 卷五十七上\n司马相如传第二十七上",
+        "source-missing-glyph: 卷五十八\n公孙弘卜式儿宽传第二十八",
+        "source-missing-glyph: 卷六十一\n张骞李广利传第三十一",
+        "source-missing-glyph: 卷六十二\n司马迁传第三十二",
+        "source-missing-glyph: 卷六十三\n武五子传第三十三",
+        "source-missing-glyph: 卷六十四上\n严朱吾丘主父徐严终王贾传第三十四上",
+        "source-missing-glyph: 卷六十五\n东方朔传第三十五",
+        "source-missing-glyph: 卷六十六\n公孙刘田王杨蔡陈郑传第三十六",
+        "source-missing-glyph: 卷六十八\n霍光金日磾传第三十八",
+        "source-missing-glyph: 卷六十九\n赵充国辛庆忌传第三十九",
+        "source-missing-glyph: 卷七十二\n王贡两龚鲍传第四十二",
+        "source-missing-glyph: 卷七十四\n魏相丙吉传第四十四",
+        "source-missing-glyph: 卷七十六\n赵尹韩张两王传第四十六",
+        "source-missing-glyph: 卷七十七\n盖诸葛刘郑孙毋将何传第四十七",
+        "source-missing-glyph: 卷七十八\n萧望之传第四十八",
+        "source-missing-glyph: 卷七十九\n冯奉世传第四十九",
+        "source-missing-glyph: 卷八十五\n谷永杜邺传第五十五",
+        "source-missing-glyph: 卷八十六\n何武王嘉师丹传第五十六",
+        "source-missing-glyph: 卷八十七上\n扬雄传第五十七上",
+        "source-missing-glyph: 卷八十八\n儒林传第五十八",
+        "source-missing-glyph: 卷九十一\n货殖传第六十一",
+        "source-missing-glyph: 卷九十二\n游侠传第六十二",
+        "source-missing-glyph: 卷九十五\n西南夷两粤朝鲜传第六十五",
+        "source-missing-glyph: 卷九十六上\n西域传第六十六上",
+        "source-missing-glyph: 卷九十六下\n西域传第六十六下",
+        "source-missing-glyph: 卷九十七上\n外戚传第六十七上",
+        "source-missing-glyph: 卷九十七下\n外戚传第六十七下",
+        "source-missing-glyph: 卷九十八\n元后传第六十八",
+        "source-missing-glyph: 卷九十九中\n王莽传第六十九中",
+        "source-missing-glyph: 卷九十九下\n王莽传第六十九下",
+        "source-missing-glyph: 卷一百上\n叙传第七十上",
+        "source-missing-glyph: 卷一百下\n叙传第七十下",
+        "volume-number-gap: 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "shishuoxinyu",
+      "title": "世說新語",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 74,
+      "paragraphs": 2880,
+      "characters": 83204,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 品藻第九",
+        "short-unit: 捷悟第十一",
+        "short-unit: 夙惠第十二",
+        "source-missing-glyph: 容止第十四",
+        "short-unit: 自新第十五",
+        "short-unit: 企羨第十六",
+        "source-missing-glyph: 傷逝第十七",
+        "short-unit: 寵禮第二十二",
+        "short-unit: 儉嗇第二十九",
+        "short-unit: 忿狷第三十一",
+        "short-unit: 讒險第三十二"
+      ]
+    },
+    {
+      "id": "baopuzi",
+      "title": "抱朴子內篇",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 426,
+      "characters": 103147,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "source-missing-glyph: 抱朴子內篇"
+      ]
+    },
+    {
+      "id": "wenxindiaolong",
+      "title": "文心雕龍",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 51,
+      "paragraphs": 101,
+      "characters": 45662,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 隱秀篇闕文補"
+      ]
+    },
+    {
+      "id": "taoyuanmingji",
+      "title": "陶淵明集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 13,
+      "paragraphs": 1145,
+      "characters": 44651,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "guwenguanzhi",
+      "title": "古文觀止",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 225,
+      "paragraphs": 8035,
+      "characters": 129676,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
+      ]
+    },
+    {
+      "id": "hanyuji",
+      "title": "昌黎先生集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 58,
+      "paragraphs": 8927,
+      "characters": 249243,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 昌黎先生集諸家姓氏"
+      ]
+    },
+    {
+      "id": "liuzongyuanji",
+      "title": "柳河東集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 53,
+      "paragraphs": 7212,
+      "characters": 260637,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "ouyangxiuji",
+      "title": "歐陽文忠公集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 168,
+      "paragraphs": 19236,
+      "characters": 976548,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 居士集卷第九  歐陽文忠公集九",
+        "source-missing-glyph: 居士集卷第二十四   歐陽文忠公集二十四",
+        "source-missing-glyph: 外集卷第七  歐陽文忠公集五十七",
+        "source-missing-glyph: 外集卷第二十四  歐陽文忠公集七十四",
+        "source-missing-glyph: 外集卷第二十五  歐陽文忠公集七十五",
+        "source-missing-glyph: 外制集卷第三  歐陽文忠公集八十一",
+        "source-missing-glyph: 表奏書啓四六集卷第二 歐陽文忠公集九十一",
+        "source-missing-glyph: 奏議卷第十一  歐陽文忠公集一百七",
+        "source-missing-glyph: 河東奉使奏草卷上  歐陽文忠公集一百十五",
+        "source-missing-glyph: 河北奉使奏草卷上  歐陽文忠公集一百十七",
+        "source-missing-glyph: 近體樂府卷第二   歐陽文忠公集一百三十二",
+        "source-missing-glyph: 集古録跋尾卷第一  歐陽文忠公文集一百三十四",
+        "source-missing-glyph: 集古録跋尾卷第二  歐陽文忠公集一百三十五",
+        "source-missing-glyph: 集古録跋尾卷第十  歐陽文忠公集一百四十三",
+        "source-missing-glyph: 書簡卷第二  歐陽文忠公集一百四十五",
+        "source-missing-glyph: 書簡卷第四  歐陽文忠公集一百四十七",
+        "source-missing-glyph: 書簡卷第五  歐陽文忠公集一百四十八",
+        "source-missing-glyph: 書簡卷第六  歐陽文忠公集一百四十九",
+        "source-missing-glyph: 書簡卷第九  歐陽文忠公集一百五十二",
+        "source-missing-glyph: 附録卷第一",
+        "source-missing-glyph: 附録卷第二",
+        "source-missing-glyph: 附録卷第三",
+        "source-missing-glyph: 附録卷第四",
+        "source-missing-glyph: 附録卷第五"
+      ]
+    },
+    {
+      "id": "sushiji",
+      "title": "東坡全集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 63,
+      "paragraphs": 3811,
+      "characters": 291492,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 經進東坡文集事略卷之十五",
+        "source-missing-glyph: 經進東坡文集事略卷第五十五",
+        "volume-number-gap: 34 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "taijitushuo",
+      "title": "太極圖說",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2327006"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 1,
+      "characters": 341,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "tongshu",
+      "title": "通書",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "1505160"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 40,
+      "characters": 3380,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "zhengmeng",
+      "title": "正蒙",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2589388",
+        "2589336",
+        "2589368",
+        "2589369",
+        "2589370",
+        "2589371",
+        "2589372",
+        "2589373",
+        "2589374",
+        "2589375",
+        "2589376",
+        "2589377",
+        "2589378",
+        "2589379",
+        "2589380",
+        "2589381",
+        "2589382",
+        "2589383",
+        "2589386",
+        "2589385"
+      ],
+      "sourcePages": 20,
+      "fetchedPages": 20,
+      "chapters": 19,
+      "paragraphs": 539,
+      "characters": 27321,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "ximing",
+      "title": "西銘",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2051481"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 1,
+      "characters": 320,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "jinsilu",
+      "title": "近思錄",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 15,
+      "paragraphs": 585,
+      "characters": 101206,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 近思録卷一 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思録卷二 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思録卷三 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思録卷四 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思录卷五 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思录卷七 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思录卷八 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思録卷十 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思録卷十一 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思録卷十三 宋朱子吕祖谦同编",
+        "source-missing-glyph: 近思录卷十四 宋朱子吕祖谦同编"
+      ]
+    },
+    {
+      "id": "sishuzhangjujizhu",
+      "title": "四書章句集注",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 40,
+      "paragraphs": 4330,
+      "characters": 251299,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 離婁章句下"
+      ]
+    },
+    {
+      "id": "erchengyishu",
+      "title": "河南程氏遺書",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 25,
+      "paragraphs": 2206,
+      "characters": 185778,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 河南程氏遺書",
+        "volume-number-gap: 23 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "lujiuyuanji",
+      "title": "陸九淵集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 6,
+      "paragraphs": 1755,
+      "characters": 207620,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "source-missing-glyph: 卷六",
+        "source-missing-glyph: 象山集卷八",
+        "source-missing-glyph: 象山集卷二十",
+        "source-missing-glyph: 象山集卷二十三",
+        "volume-number-gap: 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "zhuziyulei",
+      "title": "朱子語類",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 141,
+      "paragraphs": 15653,
+      "characters": 1933088,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 朱子語類",
+        "source-missing-glyph: 朱子语类卷第三",
+        "source-missing-glyph: 朱子语类卷第八",
+        "source-missing-glyph: 朱子语类卷第十",
+        "source-missing-glyph: 朱子语类卷第十二",
+        "source-missing-glyph: 朱子语类卷第十三",
+        "source-missing-glyph: 朱子语类卷第十八",
+        "source-missing-glyph: 朱子语类卷第二十",
+        "source-missing-glyph: 朱子语类卷第四十",
+        "source-missing-glyph: 朱子语类卷第四十五",
+        "source-missing-glyph: 朱子语类卷第五十二",
+        "source-missing-glyph: 朱子语类卷第五十九",
+        "source-missing-glyph: 朱子语类卷第六十",
+        "source-missing-glyph: 朱子语类卷第六十二",
+        "source-missing-glyph: 朱子语类卷第六十七",
+        "source-missing-glyph: 朱子语类卷第六十九",
+        "source-missing-glyph: 朱子语类卷第七十二",
+        "source-missing-glyph: 朱子语类卷第七十三",
+        "source-missing-glyph: 朱子语类卷第八十九",
+        "source-missing-glyph: 朱子语类卷第九十六",
+        "source-missing-glyph: 朱子语类卷第一百二",
+        "source-missing-glyph: 朱子语类卷第一百四",
+        "source-missing-glyph: 朱子语类卷第一百一十六",
+        "source-missing-glyph: 朱子语类卷第一百一十七",
+        "source-missing-glyph: 朱子语类卷第一百一十八",
+        "source-missing-glyph: 朱子语类卷第一百二十八",
+        "source-missing-glyph: 朱子语类卷第一百三十",
+        "source-missing-glyph: 朱子语类卷第一百三十二",
+        "source-missing-glyph: 朱子语类卷第一百三十三",
+        "source-missing-glyph: 朱子语类卷第一百三十五",
+        "source-missing-glyph: 朱子语类卷第一百三十八"
+      ]
+    },
+    {
+      "id": "chuanxilu",
+      "title": "傳習錄",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "1557064",
+        "2603592",
+        "2509125",
+        "2063633"
+      ],
+      "sourcePages": 4,
+      "fetchedPages": 4,
+      "chapters": 3,
+      "paragraphs": 955,
+      "characters": 80532,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "wangwenchenggongquanshu",
+      "title": "王文成公全書",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 9,
+      "paragraphs": 4232,
+      "characters": 678268,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 王文成全书卷一 明 王守仁 撰语録一 【传习録上】",
+        "source-missing-glyph: 王文成全书卷四",
+        "source-missing-glyph: 王文成全书卷七",
+        "source-missing-glyph: 王文成全书卷八",
+        "source-missing-glyph: 王文成全书卷十 明 王守仁 撰别録二",
+        "source-missing-glyph: 王文成全书卷十三 明 王守仁 撰别録",
+        "source-missing-glyph: 王文成全书卷十四 明 王守仁 撰别録",
+        "source-missing-glyph: 王文成全书卷二十五",
+        "volume-number-gap: 2, 3, 5, 6, 9, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "mingyidaifanglu",
+      "title": "明夷待訪錄",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2583858"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 115,
+      "characters": 22766,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "rizhilu",
+      "title": "日知錄",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 33,
+      "paragraphs": 2268,
+      "characters": 497601,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "source-missing-glyph: 卷一",
+        "source-missing-glyph: 卷二",
+        "source-missing-glyph: 卷三",
+        "source-missing-glyph: 卷四",
+        "source-missing-glyph: 卷五",
+        "source-missing-glyph: 卷六",
+        "source-missing-glyph: 卷七",
+        "source-missing-glyph: 卷八",
+        "source-missing-glyph: 卷九",
+        "source-missing-glyph: 卷十",
+        "source-missing-glyph: 卷十一",
+        "source-missing-glyph: 卷十二",
+        "source-missing-glyph: 卷十三",
+        "source-missing-glyph: 卷十四",
+        "source-missing-glyph: 卷十五",
+        "source-missing-glyph: 卷十六",
+        "source-missing-glyph: 卷十七",
+        "source-missing-glyph: 卷十八",
+        "source-missing-glyph: 卷十九",
+        "source-missing-glyph: 卷二十",
+        "source-missing-glyph: 卷二十一",
+        "source-missing-glyph: 卷二十二",
+        "source-missing-glyph: 卷二十三",
+        "source-missing-glyph: 卷二十四",
+        "source-missing-glyph: 卷二十五",
+        "source-missing-glyph: 卷二十六",
+        "source-missing-glyph: 卷二十七",
+        "source-missing-glyph: 卷二十八",
+        "source-missing-glyph: 卷二十九",
+        "source-missing-glyph: 卷三十",
+        "source-missing-glyph: 卷三十一",
+        "source-missing-glyph: 卷三十二"
+      ]
+    },
+    {
+      "id": "dutongjianlun",
+      "title": "讀通鑑論",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 6,
+      "paragraphs": 3662,
+      "characters": 555399,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 讀通鑑論",
+        "source-missing-glyph: 卷一",
+        "source-missing-glyph: 卷二十七",
+        "source-missing-glyph: 卷二十八",
+        "source-missing-glyph: 卷三十",
+        "volume-number-gap: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "mengziziyishuzheng",
+      "title": "孟子字義疏證",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 4,
+      "paragraphs": 92,
+      "characters": 37887,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
+      ]
+    },
+    {
+      "id": "fenshu",
+      "title": "焚書",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 9,
+      "paragraphs": 1498,
+      "characters": 159423,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 焚書",
+        "short-unit: 自序",
+        "source-missing-glyph: 卷五 读史",
+        "source-missing-glyph: 自序"
+      ]
+    },
+    {
+      "id": "yanyuanji",
+      "title": "顏元集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 29,
+      "paragraphs": 1598,
+      "characters": 233534,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 顏元集",
+        "short-unit: 存性编卷一",
+        "short-unit: 存性编卷二",
+        "short-unit: 存学编卷二",
+        "short-unit: 存学编卷三",
+        "short-unit: 存人编卷一",
+        "short-unit: 存人编卷二",
+        "short-unit: 存人编卷三",
+        "short-unit: 卷上",
+        "short-unit: 卷下",
+        "source-missing-glyph: 存学编卷一",
+        "source-missing-glyph: 存人编卷一",
+        "source-missing-glyph: 四书正误卷一 大学",
+        "source-missing-glyph: 四书正误卷四 论语下",
+        "source-missing-glyph: 卷四 丧礼"
+      ]
+    },
+    {
+      "id": "zengguofanjiashu",
+      "title": "曾國藩家書",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 883,
+      "characters": 102723,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "gongzizhenji",
+      "title": "龔自珍集",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 908,
+      "characters": 138539,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 龔自珍集"
+      ]
+    },
+    {
+      "id": "tianyanlun",
+      "title": "天演論",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 39,
+      "paragraphs": 339,
+      "characters": 115173,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "short-unit: 天演論",
+        "source-missing-glyph: 论三 教源",
+        "source-missing-glyph: 论十 佛法"
+      ]
+    },
+    {
+      "id": "xinminshuo",
+      "title": "新民說",
+      "priority": "P0",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2105290",
+        "126512",
+        "126513",
+        "126514",
+        "1337957",
+        "126516",
+        "2008409",
+        "126520",
+        "2132673",
+        "126527",
+        "126601",
+        "126608",
+        "126610",
+        "126613",
+        "1997070",
+        "365698",
+        "126630",
+        "2143937",
+        "2132699",
+        "126646",
+        "126645"
+      ],
+      "sourcePages": 21,
+      "fetchedPages": 21,
+      "chapters": 20,
+      "paragraphs": 299,
+      "characters": 116918,
+      "emptyChapters": 0,
+      "warnings": [
+        "source-missing-glyph: 第二節",
+        "source-missing-glyph: 第八節",
+        "source-missing-glyph: 第十一節",
+        "source-missing-glyph: 第十二節",
+        "source-missing-glyph: 第十三節",
+        "source-missing-glyph: 第十四節",
+        "source-missing-glyph: 第十七節",
+        "source-missing-glyph: 第十八節",
+        "source-missing-glyph: 第二十節"
+      ]
+    },
+    {
+      "id": "shaonianzhongguoshuo",
+      "title": "少年中國說",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "10294249"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 11,
+      "characters": 3790,
+      "emptyChapters": 0,
+      "warnings": []
+    },
+    {
+      "id": "yuanqiang",
+      "title": "原強",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2019510"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 48,
+      "characters": 20622,
+      "emptyChapters": 0,
+      "warnings": [
+        "source-missing-glyph: 原強"
+      ]
+    },
+    {
+      "id": "datongshu",
+      "title": "大同書",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 979,
+      "characters": 189737,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "renjiancihua",
+      "title": "人間詞話",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 130,
+      "characters": 5311,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "haiguotuzhi",
+      "title": "海國圖志",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "daizhige",
+      "revisions": [
+        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 1,
+      "paragraphs": 9031,
+      "characters": 202072,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
+      ]
+    },
+    {
+      "id": "guguolunheng",
+      "title": "國故論衡",
+      "priority": "P1",
+      "status": "resolved",
+      "provider": "zhwikisource",
+      "revisions": [
+        "2392596",
+        "2610481",
+        "2362297",
+        "1474159",
+        "2618499",
+        "2600752",
+        "1474162",
+        "2402005",
+        "2631834",
+        "1373115",
+        "846379",
+        "2081157",
+        "1502096",
+        "2178134",
+        "1377531",
+        "1474161",
+        "2401972",
+        "2631720",
+        "1405714",
+        "1151427",
+        "2401983",
+        "519412",
+        "203354",
+        "2632900",
+        "2632989",
+        "203359",
+        "519409"
+      ],
+      "sourcePages": 27,
+      "fetchedPages": 27,
+      "chapters": 26,
+      "paragraphs": 411,
+      "characters": 95400,
+      "emptyChapters": 0,
+      "images": 1,
+      "imageChapters": 1,
+      "warnings": [
+        "source-missing-glyph: 小學略說",
+        "source-missing-glyph: 一字重音說",
+        "source-missing-glyph: 古雙音說",
+        "source-missing-glyph: 轉注假借說",
+        "source-missing-glyph: 理惑論",
+        "source-missing-glyph: 原經",
+        "source-missing-glyph: 明解故下",
+        "source-missing-glyph: 原儒"
+      ]
+    },
+    {
+      "id": "gongyang",
+      "title": "春秋公羊傳",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 12,
+      "paragraphs": 2545,
+      "characters": 67288,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "source-missing-glyph: 僖公",
+        "source-missing-glyph: 成公",
+        "source-missing-glyph: 昭公"
+      ]
+    },
+    {
+      "id": "guliang",
+      "title": "春秋穀梁傳",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 12,
+      "paragraphs": 735,
+      "characters": 40740,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+      ]
+    },
+    {
+      "id": "xiaojing",
+      "title": "孝經",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 18,
+      "paragraphs": 23,
+      "characters": 2267,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+      ]
+    },
+    {
+      "id": "erya",
+      "title": "爾雅",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "gujilab",
+      "revisions": [
+        "09a6873e46760f20027e20bf48814f5c5cc05d66"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 19,
+      "paragraphs": 1605,
+      "characters": 15306,
+      "emptyChapters": 0,
+      "warnings": [
+        "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+        "source-missing-glyph: 释言第二",
+        "source-missing-glyph: 释器第六",
+        "source-missing-glyph: 释草第十三",
+        "source-missing-glyph: 释鸟第十七"
+      ]
+    },
+    {
+      "id": "zhouli",
+      "title": "周禮",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 12,
+      "paragraphs": 2966,
+      "characters": 61024,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 天官冢宰第一",
+        "source-missing-glyph: 冬官考工記第十一"
+      ]
+    },
+    {
+      "id": "yili",
+      "title": "儀禮",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 17,
+      "paragraphs": 3471,
+      "characters": 72362,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 大射儀第七",
+        "source-missing-glyph: 聘禮第八"
+      ]
+    },
+    {
+      "id": "wanganshiji",
+      "title": "臨川文集",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 106,
+      "paragraphs": 11749,
+      "characters": 503971,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 臨川先生文集卷第七",
+        "source-missing-glyph: 臨川先生文集卷第十一",
+        "source-missing-glyph: 臨川先生文集卷第三十六",
+        "source-missing-glyph: 臨川先生文集卷第四十六",
+        "source-missing-glyph: 臨川先生文集卷第四十九",
+        "source-missing-glyph: 臨川先生文集卷第五十九",
+        "source-missing-glyph: 臨川先生文集卷第八十",
+        "source-missing-glyph: 臨川先生文集卷第八十九",
+        "source-missing-glyph: 臨川先生文集卷第九十六"
+      ]
+    },
+    {
+      "id": "zenggongji",
+      "title": "元豐類稿",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 56,
+      "paragraphs": 3704,
+      "characters": 299904,
+      "emptyChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+        "source-missing-glyph: 南豐先生年譜序",
+        "source-missing-glyph: 南豊𩔖藁目錄",
+        "source-missing-glyph: 元豐𩔖藁卷第四",
+        "source-missing-glyph: 元豐𩔖藁卷第五",
+        "source-missing-glyph: 元豐𩔖藁卷第八",
+        "source-missing-glyph: 元豐𩔖藁卷第九",
+        "source-missing-glyph: 元豊𩔖藁卷第十",
+        "source-missing-glyph: 元豐𩔖藁卷第十一",
+        "source-missing-glyph: 元豊𩔖藁卷第十二",
+        "source-missing-glyph: 元豊𩔖藁卷第十四",
+        "source-missing-glyph: 元豊𩔖藁卷第十五",
+        "source-missing-glyph: 元豊𩔖藁卷第十六",
+        "source-missing-glyph: 元豊𩔗藁卷第十七",
+        "source-missing-glyph: 元豊𩔖藁卷第十八",
+        "source-missing-glyph: 元豊𩔖藁卷第十九",
+        "source-missing-glyph: 元豊𩔖藁卷苐二十",
+        "source-missing-glyph: 元豊𩔖藁卷第二十二",
+        "source-missing-glyph: 元豊𩔖藁卷第三十二",
+        "source-missing-glyph: 元豊𩔖藁卷第三十三",
+        "source-missing-glyph: 元豊𩔖藁卷第三十四",
+        "source-missing-glyph: 元豊𩔖藁卷第三十六",
+        "source-missing-glyph: 元豊𩔖藁卷第三十七",
+        "source-missing-glyph: 元豊𩔖藁卷第三十八",
+        "source-missing-glyph: 元豊𩔖藁卷第四十",
+        "source-missing-glyph: 元豊𩔖藁卷第四十二",
+        "source-missing-glyph: 元豊𩔖藁卷第四十三",
+        "volume-number-gap: 20 (text may be present without headings; check upstream structure)"
+      ]
+    },
+    {
+      "id": "zhanguoce",
+      "title": "戰國策",
+      "priority": "P2",
+      "status": "resolved",
+      "provider": "guopop",
+      "revisions": [
+        "8619f79cb168d8c6ad852f2ac4bec877665f4fed"
+      ],
+      "sourcePages": 1,
+      "fetchedPages": 1,
+      "chapters": 13,
+      "paragraphs": 7420,
+      "characters": 156017,
+      "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
+      "warnings": [
+        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Structured whole-work bootstrap selected after discovering 46 Wikisource pages."
+      ]
+    }
+  ]
+}

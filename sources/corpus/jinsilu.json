@@ -1,0 +1,44 @@
+{
+  "work": "jinsilu",
+  "provider": "daizhige",
+  "rootTitle": "近思錄",
+  "pages": [
+    {
+      "title": "儒藏/语录/近思录.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E8%BF%91%E6%80%9D%E5%BD%95.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "2ccd13df1a809ed8f16690d068f6aff41328dfd0db1b727387a85e7b007ab6b3"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 近思録卷一 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思録卷二 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思録卷三 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思録卷四 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思录卷五 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思录卷七 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思录卷八 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思録卷十 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思録卷十一 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思録卷十三 宋朱子吕祖谦同编",
+    "source-missing-glyph: 近思录卷十四 宋朱子吕祖谦同编"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E8%BF%91%E6%80%9D%E5%BD%95.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "e90a75cd365dd285c90905fe30016714b432d3b0fc7738a2a8a0c509c946b994",
+  "stats": {
+    "chapters": 15,
+    "paragraphs": 585,
+    "characters": 101206,
+    "emptyChapters": 0
+  }
+}

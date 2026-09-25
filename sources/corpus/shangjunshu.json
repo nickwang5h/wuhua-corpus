@@ -1,0 +1,90 @@
+{
+  "work": "shangjunshu",
+  "provider": "zhwikisource",
+  "rootTitle": "商君書",
+  "pages": [
+    {
+      "title": "商君書",
+      "pageId": 24830,
+      "revisionId": 2593685,
+      "revision": "2593685",
+      "timestamp": "2025-08-25T06:51:12Z",
+      "fetchedAt": "2026-09-24T19:56:21.671Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2593685",
+      "sha256": "7cf694bba8091dc6a48470021e4ad4031a56fe9f9f2162f70089a53563b4acff"
+    },
+    {
+      "title": "商君書/卷一",
+      "pageId": 171992,
+      "revisionId": 850643,
+      "revision": "850643",
+      "timestamp": "2017-04-05T04:20:02Z",
+      "fetchedAt": "2026-09-24T19:56:32.198Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850643",
+      "parent": "商君書",
+      "sha256": "1487bb5fcc2737f3087bf3eec1f4ae3b96c08954d26cf688a28eea6fbb728ce4"
+    },
+    {
+      "title": "商君書/卷二",
+      "pageId": 171993,
+      "revisionId": 850644,
+      "revision": "850644",
+      "timestamp": "2017-04-05T04:20:13Z",
+      "fetchedAt": "2026-09-24T19:56:32.198Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850644",
+      "parent": "商君書",
+      "sha256": "ee58a693fd8f10f6c9c129363820a697c718e780de7829484f2201ea34bbb358"
+    },
+    {
+      "title": "商君書/卷三",
+      "pageId": 171994,
+      "revisionId": 850645,
+      "revision": "850645",
+      "timestamp": "2017-04-05T04:20:23Z",
+      "fetchedAt": "2026-09-24T19:56:32.198Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "parent": "商君書",
+      "sha256": "5ef744700518c41351cb1d6e9811cbd6f2c6a9bfdd34ac9311558f1686eb65a3"
+    },
+    {
+      "title": "商君書/卷四",
+      "pageId": 171995,
+      "revisionId": 1741809,
+      "revision": "1741809",
+      "timestamp": "2019-09-11T11:22:42Z",
+      "fetchedAt": "2026-09-24T19:56:32.198Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1741809",
+      "parent": "商君書",
+      "sha256": "026fd5c64e1fe451eda7088d49ad67c273015e9d91217a7596b163a9a513d635"
+    },
+    {
+      "title": "商君書/卷五",
+      "pageId": 171996,
+      "revisionId": 2648348,
+      "revision": "2648348",
+      "timestamp": "2026-02-11T11:52:47Z",
+      "fetchedAt": "2026-09-24T19:56:32.198Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "parent": "商君書",
+      "sha256": "63d88fb19b27dceeef6cdd5ce5035f8c728babb40b6df859dc1809951734c495"
+    }
+  ],
+  "metadata": {
+    "author": "商鞅",
+    "times": "戰國"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "fb915c83113f45484d5e4955823b1b7bedf7248f54cfdc24b963bb9e81c89258",
+  "stats": {
+    "chapters": 5,
+    "paragraphs": 128,
+    "characters": 24209,
+    "emptyChapters": 0
+  }
+}

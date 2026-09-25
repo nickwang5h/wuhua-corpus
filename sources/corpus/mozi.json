@@ -1,0 +1,44 @@
+{
+  "work": "mozi",
+  "provider": "guopop",
+  "rootTitle": "墨子",
+  "pages": [
+    {
+      "title": "子/杂家类/墨子.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E5%A2%A8%E5%AD%90.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "9023bf712df90a51667a3aa18fab10f51989febe01ae4b5dbf3b88c5889c4929"
+    }
+  ],
+  "metadata": {
+    "author": "战国・墨翟",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Wikisource discovery failed: Error: Missing Wikisource page: 墨子/節用下",
+    "short-unit: 節用下第二十二",
+    "short-unit: 節葬上第二十三",
+    "short-unit: 節葬中第二十四",
+    "short-unit: 明鬼上第二十九",
+    "short-unit: 明鬼中第三十",
+    "short-unit: 非樂中第三十三",
+    "short-unit: 非樂下第三十四",
+    "short-unit: 非儒上第三十八"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E5%A2%A8%E5%AD%90.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "2b9cf8ce7e54a230a0ce99132386d36ba9e6aa2c24c42e4712a3fe1437cc8608",
+  "stats": {
+    "chapters": 63,
+    "paragraphs": 67,
+    "characters": 92322,
+    "emptyChapters": 0
+  }
+}

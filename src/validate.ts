@@ -1,7 +1,40 @@
 import type {TextBook,Aid,Reference,Transition} from './types.js';
+export function pinnedSource(value:string){
+ const source=new URL(value);
+ if(source.protocol!=='https:')return false;
+ if(source.hostname==='zh.wikisource.org')return /^[1-9]\d*$/.test(source.searchParams.get('oldid')??'');
+ return source.hostname==='raw.githubusercontent.com'&&/^\/(?:gujilab\/chinese-classical-corpus|Guopop\/chinese-philosophy|garychowcmu\/daizhigev20|nk2028\/lzh-collection)\/[a-f0-9]{40}\/.+\.(?:json|txt)$/.test(source.pathname);
+}
 export function validateBooks(books:TextBook[]){
- const ids=new Set<string>();const add=(id:string)=>{if(!id||ids.has(id))throw new Error(`Duplicate/empty identity ${id}`);ids.add(id);};
- for(const b of books){add(b.id);for(const c of b.chapters){add(c.id);const source=new URL(c.source);if(source.protocol!=='https:'||source.hostname!=='zh.wikisource.org'||!source.searchParams.get('oldid'))throw new Error(`Unpinned source ${c.id}`);for(const p of c.paragraphs){add(p.id);if(!p.text||!p.version)throw new Error(`Empty text ${p.id}`);for(const a of p.aliases){add(a.id);if(!a.version||!a.text||a.start<0||a.end<=a.start)throw new Error(`Invalid alias ${a.id}`);if(a.version===p.version&&Array.from(p.text).slice(a.start,a.end).join('')!==a.text)throw new Error(`Alias alignment ${a.id}`);}}}}
+ const ids=new Set<string>();
+ const add=(id:string)=>{if(typeof id!=='string'||!id||ids.has(id))throw new Error(`Duplicate/empty identity ${id}`);ids.add(id);};
+ const strings=(value:unknown)=>Array.isArray(value)&&value.every(x=>typeof x==='string'&&x.trim());
+ for(const b of books){
+  add(b.id);
+  if(!Array.isArray(b.chapters)||!b.chapters.length)throw new Error(`Empty book ${b.id}`);
+  if(b.metadata&&(!b.metadata.title||typeof b.metadata.needsReview!=='boolean'||b.metadata.metadataMethod!=='source-fields'||b.metadata.genre!==undefined&&!strings(b.metadata.genre)))throw new Error(`Invalid metadata ${b.id}`);
+  for(const c of b.chapters){
+   add(c.id);
+   if(!pinnedSource(c.source))throw new Error(`Unpinned source ${c.id}`);
+   if(!Number.isInteger(c.number)||c.number<1||!c.title||!Array.isArray(c.paragraphs)||(!c.paragraphs.length&&!(c.kind==='image'&&c.images?.length))||c.path!==undefined&&!strings(c.path)||c.kind!==undefined&&!['work','chapter','anthology-item','image'].includes(c.kind))throw new Error(`Invalid chapter ${c.id}`);
+   if(c.kind==='image'&&c.paragraphs.length)throw new Error(`Image page cannot contain placeholder text ${c.id}`);
+   if(c.images!==undefined&&!Array.isArray(c.images))throw new Error(`Invalid images ${c.id}`);
+   for(const im of c.images??[]){
+    add(im.id);
+    const url=new URL(im.url);
+    if(!['image/jpeg','image/png'].includes(im.mime)||!Number.isInteger(im.width)||!Number.isInteger(im.height)||im.width<=0||im.height<=0||!im.fileTitle?.startsWith('File:')||!im.caption||!im.rights?.license||!im.rights.attribution||!Number.isFinite(Date.parse(im.fileTimestamp))||!(/^[a-f0-9]{40}$/).test(im.fileSha1)||!(/^[a-f0-9]{64}$/).test(im.sha256)||im.version!==`sha256:${im.sha256}`||im.asset!==`assets/${im.sha256}.${im.mime==='image/jpeg'?'jpg':'png'}`||im.source!==c.source||url.protocol!=='https:'||url.hostname!=='upload.wikimedia.org'||!url.pathname.startsWith('/wikipedia/commons/'))throw new Error(`Invalid image ${im.id}`);
+   }
+   for(const p of c.paragraphs){
+    add(p.id);
+    if(typeof p.text!=='string'||!p.text.trim()||!p.version||!Array.isArray(p.aliases)||p.role!==undefined&&p.role!=='source-commentary'||p.headingPath!==undefined&&!strings(p.headingPath))throw new Error(`Empty/invalid text ${p.id}`);
+    for(const a of p.aliases){
+     add(a.id);
+     if(!a.version||!a.text||a.start<0||a.end<=a.start)throw new Error(`Invalid alias ${a.id}`);
+     if(a.version===p.version&&Array.from(p.text).slice(a.start,a.end).join('')!==a.text)throw new Error(`Alias alignment ${a.id}`);
+    }
+   }
+  }
+ }
  return ids;
 }
 export function validateHistory(records:Reference[],transitions:Transition[],current:Reference[]){

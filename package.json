@@ -1,6 +1,6 @@
 {
   "name": "@wuhua/corpus",
-  "version": "2026.9.24-d1",
+  "version": "2026.9.24-concepts1",
   "private": true,
   "type": "module",
   "exports": {
@@ -23,12 +23,23 @@
     "test": "npm run check:boundaries && node --import tsx --test tests/*.test.ts",
     "content:import": "node --import tsx scripts/import-wikisource.ts",
     "content:catalog": "node --import tsx scripts/catalog-content.ts",
-    "release": "npm run check:types && npm run check:corpus && npm test && npm run build && node --import tsx scripts/release.ts",
+    "release": "npm run check:types && npm run check:content && npm test && npm run build && node --import tsx scripts/release.ts",
     "check:boundaries": "node scripts/check-boundaries.mjs",
-    "build": "tsc -p tsconfig.build.json && node scripts/copy-books.mjs"
+    "build": "tsc -p tsconfig.build.json && node scripts/copy-books.mjs",
+    "check:content": "npm run check:corpus && npm run corpus:check && npm run corpus:route:check",
+    "corpus:discover": "node --import tsx scripts/corpus.ts discover",
+    "corpus:fetch": "node --import tsx scripts/corpus.ts fetch",
+    "corpus:build": "node --import tsx scripts/corpus.ts build",
+    "corpus:check": "node --import tsx scripts/corpus.ts check",
+    "corpus:sync": "node --import tsx scripts/corpus.ts sync",
+    "corpus:report": "node --import tsx scripts/corpus.ts report",
+    "corpus:route:check": "node --import tsx scripts/corpus-route-pilot.ts",
+    "corpus:route:preview": "node --import tsx scripts/corpus-route-pilot.ts --write"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
+    "opencc-js": "^1.4.2",
+    "parse5": "^8.0.1",
     "tsx": "^4.20.0",
     "typescript": "^5.9.0"
   }

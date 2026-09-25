@@ -1,0 +1,37 @@
+{
+  "work": "fenshu",
+  "provider": "daizhige",
+  "rootTitle": "焚書",
+  "pages": [
+    {
+      "title": "集藏/四库别集/焚书.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "66f73f7b9fbcaaa56f38b2df06028b844ded48e6a7c72b701b396c6318033ede"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "short-unit: 焚書",
+    "short-unit: 自序",
+    "source-missing-glyph: 卷五 读史",
+    "source-missing-glyph: 自序"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "a213556f582c118106c44c8cabf63d0b161c639a380279fbad83f21a4abb2365",
+  "stats": {
+    "chapters": 9,
+    "paragraphs": 1498,
+    "characters": 159423,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "work": "erya",
+  "provider": "gujilab",
+  "rootTitle": "爾雅",
+  "pages": [
+    {
+      "title": "output/shisanjing/erya.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/erya.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "5b82f3b7e7845c07d7b64b9abf1d11ad1e29b5458c0632198d2839fd90f24b1a"
+    }
+  ],
+  "metadata": {
+    "author": "佚名（先秦）",
+    "era": "周",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
+    "source-missing-glyph: 释言第二",
+    "source-missing-glyph: 释器第六",
+    "source-missing-glyph: 释草第十三",
+    "source-missing-glyph: 释鸟第十七"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "6cf0a1287871d66a460e01f4e469bf336d8f55a25e23e3bd59d6caa6e8784af2",
+  "stats": {
+    "chapters": 19,
+    "paragraphs": 1605,
+    "characters": 15306,
+    "emptyChapters": 0
+  }
+}

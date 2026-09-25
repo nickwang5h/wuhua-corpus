@@ -1,0 +1,36 @@
+{
+  "work": "mengzi",
+  "provider": "gujilab",
+  "rootTitle": "孟子",
+  "pages": [
+    {
+      "title": "output/sishu/mengzi.json",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/mengzi.json",
+      "revision": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+      "timestamp": "2026-06-10T00:55:06Z",
+      "fetchedAt": "2026-09-24T19:38:36.843Z",
+      "sha256": "8b0db564b32348676556487761378c0786cc087d119fae1e4282d09f99c2aa78"
+    }
+  ],
+  "metadata": {
+    "author": "孟子",
+    "era": "战国",
+    "category": "经"
+  },
+  "warnings": [
+    "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "CC0-1.0 (upstream dataset declaration)",
+    "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
+    "attribution": "gujilab"
+  },
+  "normalizedSha256": "6620b2f2f150ea5d41d58039c874cdae64df7abd13688d5ff0c2b8034c29b4f3",
+  "stats": {
+    "chapters": 14,
+    "paragraphs": 690,
+    "characters": 44844,
+    "emptyChapters": 0
+  }
+}

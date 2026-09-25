@@ -1,4 +1,4 @@
-import {mkdir,readFile,writeFile,rename,mkdtemp,rm} from 'node:fs/promises';
+import {cp,mkdir,readFile,writeFile,rename,mkdtemp,rm} from 'node:fs/promises';
 import {spawnSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {join} from 'node:path';
@@ -15,6 +15,7 @@ try {
  const archive=await readFile(join(staging,filename));
  const sha256=createHash('sha256').update(archive).digest('hex');
  await mkdir(join(staging,'books'));
+ await cp(join(root,'src/assets'),join(staging,'assets'),{recursive:true});
  for(const entry of manifest)await writeFile(join(staging,'books',`${entry.id}.json`),JSON.stringify({...await readBook(entry.id),release:contentRelease})+'\n');
  await writeFile(join(staging,'manifest.json'),JSON.stringify({release:contentRelease,books:manifest},null,2)+'\n');
  await writeFile(join(staging,'release.json'),JSON.stringify({release:contentRelease,filename,sha256},null,2)+'\n');

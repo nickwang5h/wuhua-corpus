@@ -1,0 +1,36 @@
+{
+  "work": "tianyanlun",
+  "provider": "daizhige",
+  "rootTitle": "天演論",
+  "pages": [
+    {
+      "title": "子藏/笔记/天演论.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%AD%90%E8%97%8F/%E7%AC%94%E8%AE%B0/%E5%A4%A9%E6%BC%94%E8%AE%BA.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "342b8e88246f87ba0afb89c85f89bca0e0bbb1ef53bf4e24d4c317674ef34f3d"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "short-unit: 天演論",
+    "source-missing-glyph: 论三 教源",
+    "source-missing-glyph: 论十 佛法"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%AD%90%E8%97%8F/%E7%AC%94%E8%AE%B0/%E5%A4%A9%E6%BC%94%E8%AE%BA.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "ecb1b0ee732a580ab883dcfb3b371187cad20cab1248b95d8fc3cbeb152d0b4d",
+  "stats": {
+    "chapters": 39,
+    "paragraphs": 339,
+    "characters": 115173,
+    "emptyChapters": 0
+  }
+}

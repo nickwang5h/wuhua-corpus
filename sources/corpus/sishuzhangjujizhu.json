@@ -1,0 +1,37 @@
+{
+  "work": "sishuzhangjujizhu",
+  "provider": "guopop",
+  "rootTitle": "四書章句集注",
+  "pages": [
+    {
+      "title": "经/四书类/四书章句集注.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "fddabeb9e86a804a20095972de22d163f44471633275b2e29531f034fcc51c07"
+    }
+  ],
+  "metadata": {
+    "author": "南宋・朱熹",
+    "annotationPolicy": "include-source-commentary"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
+    "source-missing-glyph: 離婁章句下"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "ca73b73beb7d9c320f265b2215e47ba939f7bf2bd6f38b38caba0b8564e68fe6",
+  "stats": {
+    "chapters": 40,
+    "paragraphs": 4330,
+    "characters": 251299,
+    "emptyChapters": 0
+  }
+}

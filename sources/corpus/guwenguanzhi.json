@@ -1,0 +1,35 @@
+{
+  "work": "guwenguanzhi",
+  "provider": "guopop",
+  "rootTitle": "古文觀止",
+  "pages": [
+    {
+      "title": "集/总集类/古文观止.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E6%80%BB%E9%9B%86%E7%B1%BB/%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "20f6ebbe52af77a0aa5b2473b58a3f443cd31ca8bcec742b25c15599de3ec5ba"
+    }
+  ],
+  "metadata": {
+    "author": "清・吳楚材",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E6%80%BB%E9%9B%86%E7%B1%BB/%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "1c60a015bbac3de5b4cde2cb0f5dccf6c11b137865b4dc064f8a961d0d067fae",
+  "stats": {
+    "chapters": 225,
+    "paragraphs": 8035,
+    "characters": 129676,
+    "emptyChapters": 0
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "work": "chunqiu",
+  "provider": "zhwikisource",
+  "rootTitle": "春秋經",
+  "pages": [
+    {
+      "title": "春秋經",
+      "pageId": 1113385,
+      "revisionId": 2184578,
+      "revision": "2184578",
+      "timestamp": "2022-10-06T10:02:20Z",
+      "fetchedAt": "2026-09-24T19:38:37.372Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184578",
+      "sha256": "23788973118f789da382f7a3f3ad95c0b76c58bafeb2ab22ec4734b69f328636"
+    },
+    {
+      "title": "春秋經/隱公",
+      "pageId": 1113387,
+      "revisionId": 2184546,
+      "revision": "2184546",
+      "timestamp": "2022-10-06T06:07:24Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184546",
+      "parent": "春秋經",
+      "sha256": "5e7c32fb06490878b049be4fa73e05aa7d3b1a50406ce4da4c70d1c32871fb66"
+    },
+    {
+      "title": "春秋經/桓公",
+      "pageId": 1113430,
+      "revisionId": 2184579,
+      "revision": "2184579",
+      "timestamp": "2022-10-06T10:08:13Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184579",
+      "parent": "春秋經",
+      "sha256": "c47224c8817ee2529c5fb0c24728aa2ad18fa838aad5da7ef66ca0b960e7abb5"
+    },
+    {
+      "title": "春秋經/莊公",
+      "pageId": 1113433,
+      "revisionId": 2184394,
+      "revision": "2184394",
+      "timestamp": "2022-10-05T06:35:18Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184394",
+      "parent": "春秋經",
+      "sha256": "d1713eee4e3c7746dc8d0dd505fd3314045c6bbd835a4da206fed6cd16bf4631"
+    },
+    {
+      "title": "春秋經/閔公",
+      "pageId": 1113386,
+      "revisionId": 2184293,
+      "revision": "2184293",
+      "timestamp": "2022-10-04T04:07:31Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2184293",
+      "parent": "春秋經",
+      "sha256": "08fca4fb7e9118d5002796338fa8382bf65f38e605954b96cb950ba59a32a5de"
+    },
+    {
+      "title": "春秋經/僖公",
+      "pageId": 1113460,
+      "revisionId": 2691889,
+      "revision": "2691889",
+      "timestamp": "2026-04-10T13:29:19Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2691889",
+      "parent": "春秋經",
+      "sha256": "29d1fa2946477b8c3c9e95f8fb23d7936717424378e50e0830d01c15746b2bbc"
+    },
+    {
+      "title": "春秋經/文公",
+      "pageId": 1113461,
+      "revisionId": 5978344,
+      "revision": "5978344",
+      "timestamp": "2026-06-01T06:31:40Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978344",
+      "parent": "春秋經",
+      "sha256": "1e8fca25dbbcb6749835dcce55600ff007aa13ab2389c96915b9d99362e9622d"
+    },
+    {
+      "title": "春秋經/宣公",
+      "pageId": 1113462,
+      "revisionId": 5978347,
+      "revision": "5978347",
+      "timestamp": "2026-06-01T06:56:31Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978347",
+      "parent": "春秋經",
+      "sha256": "af387b8184085b57b7d0c07ecb5f2f5ca60656196d5f46f645e7074348f0e5ec"
+    },
+    {
+      "title": "春秋經/成公",
+      "pageId": 1113463,
+      "revisionId": 9458629,
+      "revision": "9458629",
+      "timestamp": "2026-09-09T15:48:19Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=9458629",
+      "parent": "春秋經",
+      "sha256": "128ac7d16a3c06c41548ecf36ec8f27653c5e5c60d654b3f89bd2f33c83f8ed3"
+    },
+    {
+      "title": "春秋經/襄公",
+      "pageId": 1113464,
+      "revisionId": 5978350,
+      "revision": "5978350",
+      "timestamp": "2026-06-01T07:10:44Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978350",
+      "parent": "春秋經",
+      "sha256": "7a544b8b33bbc4b9005d24327c7d7813f01a43ab8459defb3f0a2f4535c716f5"
+    },
+    {
+      "title": "春秋經/昭公",
+      "pageId": 1113465,
+      "revisionId": 5978358,
+      "revision": "5978358",
+      "timestamp": "2026-06-01T07:19:07Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978358",
+      "parent": "春秋經",
+      "sha256": "d6552bf03bdc1e1a4c7ea36479670f33c232c7e378120a86729164af92c9bd1d"
+    },
+    {
+      "title": "春秋經/定公",
+      "pageId": 1113466,
+      "revisionId": 5978359,
+      "revision": "5978359",
+      "timestamp": "2026-06-01T07:19:56Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978359",
+      "parent": "春秋經",
+      "sha256": "5967732175ccd81a574af073b6cca1d70a91badce6877c123a841dbab089ac9c"
+    },
+    {
+      "title": "春秋經/哀公",
+      "pageId": 1113467,
+      "revisionId": 2620452,
+      "revision": "2620452",
+      "timestamp": "2025-11-19T11:31:33Z",
+      "fetchedAt": "2026-09-24T19:45:27.245Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2620452",
+      "parent": "春秋經",
+      "sha256": "1cfa773fcc92c89e8077b4b34987817bf951031b72d16b277d7d05f5c263a8e6"
+    }
+  ],
+  "metadata": {},
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "5016d2ff2ad13f6aaf70b905ff6d2c19d0db903d6ffd289fe52ee51b6739b5bb",
+  "stats": {
+    "chapters": 12,
+    "paragraphs": 517,
+    "characters": 20921,
+    "emptyChapters": 0
+  }
+}

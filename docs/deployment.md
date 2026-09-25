@@ -1,26 +1,27 @@
-# 发布与分发
+# Corpus 发布与分发
 
-Corpus 不部署业务服务。编辑并审核后，在本仓库根将 `package.json` 的版本和 `src/index.ts` 的 contentRelease 一起升级，运行 `npm install --package-lock-only` 更新锁文件，再执行 `npm run release`。
+Corpus 远程为 `nickwang5h/wuhua-corpus`，主分支 `main`。它不部署业务服务。当前包版本以 `package.json` 为准，数据 release 以 `src/index.ts` 的 contentRelease 为准；仓库提交与产品上线分别进行。
 
-当前首个拆分 release 为 `2026-09-24-d1`，包版本 `2026.9.24-d1`。三本书的原始 ID 和文本 version 不因这次打包而改变。
+## 生成新包
 
-发布输出为 `releases/{release}/`：三个 books JSON（附 release）、manifest.json、wuhua-corpus-{packageVersion}.tgz、release.json。最后一项包含 tarball SHA-256。输出目录存在时拒绝覆盖：已分发版本不能重写；修复需要新 release。未发布的本地候选失败时可删除其输出后重新生成，但不得这样替换已分发版本。
-
-将 tarball 和 release metadata 提供给两个产品，各自验证哈希、复制至 vendor 并更新依赖和 corpus-lock。它们不需要同时升级。release 文件也可在授权后作为 GitHub Release 附件上传，但本次没有创建远程仓库、tag、附件或执行 publish。
-
-回滚由产品恢复上一份锁和部署完成；保留已经发布的 tarball 供旧产品重建。无 CDN 或数据库需要协调。
-
-## 授权后远程操作示例
-
-本地分支为 `split/standalone`，无 remote。用户创建或授权创建目标 GitHub 仓库后，在本仓库执行以下命令；本次未执行：
+在本仓库根完成内容修订与检查后，同时升级 package.json 版本和 contentRelease；用 `npm install --package-lock-only` 同步锁文件，再执行：
 
 ```sh
-git remote add origin git@github.com:nickwang5h/wuhua-corpus.git
-git push -u origin split/standalone:main
+npm run release
 ```
 
-若要上传 release 附件，另需匹配该动作的授权；推送源码不会自动升级任一产品。
+该命令依次检查类型、内容、边界和测试，构建后生成 `releases/{release}/`，包含 books JSON、manifest、原图 assets、npm tarball 和记录 SHA-256 的 release.json。没有内容变化的文档清理不需要新 release。
 
-## 2026-09-24 · Private GitHub 仓库
+已分发目录和 tarball 不可覆盖。修复需要新版本。生成失败、尚未分发的临时候选可清理重做，但不得以此替换已被产品使用的版本。正文版本只因真实底文更正而变化，不随打包日期变化。
 
-用户已授权创建并推送独立 private 仓库。`nickwang5h/wuhua-corpus` 已创建，当前 checkout 已配置 origin；远程使用 `main`，本地保留 `split/standalone` 并跟踪 origin/main。以上“未执行/无 remote”的段落是拆分完成时的记录，本段更新 GitHub 操作状态。Vercel 绑定、生产部署及 release 附件上传没有包含在本次推送授权中。
+## 产品消费
+
+产品先核对 release.json 的 SHA-256，再复制 `.tgz` 到自己的 vendor，更新依赖锁和 corpus-lock，并运行各自检查。源码提交、生成包、产品升级、网站部署是四个不同动作；Learn 和中文产品可以使用不同版本。
+
+保留已分发包供回滚和重建。本地 releases 被 Git 忽略；产品提交自己实际依赖的包。需要持久外部分发时，按明确授权上传 Release 附件，不自动执行 npm publish、创建 tag 或上传整个缓存。
+
+## Git 与回滚
+
+提交前检查改动范围和远程 main；正常快进，不强推或自动合并真实分叉。源码提交不要求两个产品同步升级。
+
+网站回滚由产品恢复上一完整部署，或恢复原提交与原锁重建。Corpus 不需要 DNS、数据库迁移或 CDN 服务切换。
