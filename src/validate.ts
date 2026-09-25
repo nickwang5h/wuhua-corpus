@@ -1,4 +1,5 @@
 import type {TextBook,Aid,Reference,Transition} from './types.js';
+import {alignReference} from './pinyin-core.js';
 export function pinnedSource(value:string){
  const source=new URL(value);
  if(source.protocol!=='https:')return false;
@@ -47,6 +48,7 @@ export function validateHistory(records:Reference[],transitions:Transition[],cur
 // Auxiliary data remains independent of Learn's editorial format.
 export function validateAids(aids:Aid[],books:TextBook[]) {
  const ids=new Set<string>();
+ const activePinyin:Aid[]=[];
  const paragraphs=new Map(books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>[p.id,p] as const))));
  for(const aid of aids){
   const p=paragraphs.get(aid.target);
@@ -58,12 +60,13 @@ export function validateAids(aids:Aid[],books:TextBook[]) {
    if(!Number.isInteger(aid.start)||!Number.isInteger(aid.end)||aid.start!<0||aid.end!<=aid.start!||aid.end!>Array.from(p.text).length)throw new Error(`Invalid aid range ${aid.id}`);
   }
   if(aid.kind==='pinyin'){
-   let end=-1;
-   if(!aid.tokens?.length)throw new Error(`Missing pinyin tokens ${aid.id}`);
-   for(const t of aid.tokens){
-    if(!Number.isInteger(t.start)||!Number.isInteger(t.end)||t.start<0||t.start<end||t.end<=t.start||t.end>Array.from(p.text).length||!t.pinyin||Array.from(p.text).slice(t.start,t.end).join('')!==t.text)throw new Error(`Pinyin alignment ${aid.id}`);
-    end=t.end;
+   if(aid.review.status!=='withdrawn'){
+    const lo=aid.start??Math.min(...(aid.tokens??[]).map(t=>t.start)),hi=aid.end??Math.max(...(aid.tokens??[]).map(t=>t.end));
+    if(activePinyin.some(a=>a.target===aid.target&&a.version===aid.version&&(a.start??Math.min(...a.tokens!.map(t=>t.start)))<hi&&(a.end??Math.max(...a.tokens!.map(t=>t.end)))>lo))throw new Error(`Overlapping active pinyin ${aid.id}`);
+    activePinyin.push(aid);
    }
+   const result=alignReference({id:p.id,version:p.version,text:p.text,title:'',source:''},p.text,aid,true);
+   if(result.status==='invalid'||result.status==='unalignable')throw new Error(`Pinyin alignment ${aid.id}: ${result.issues.join('; ')}`);
   }else if(!aid.text)throw new Error(`Empty aid ${aid.id}`);
  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@wuhua/corpus",
-  "version": "2026.9.24-concepts1",
+  "version": "2026.9.25-pinyin2",
   "private": true,
   "type": "module",
   "exports": {
@@ -11,7 +11,10 @@
     "./editorial": "./lib/src/editorial.js",
     "./node": "./lib/scripts/read-book.js",
     "./sources/wikisource.json": "./sources/wikisource.json",
-    "./package.json": "./package.json"
+    "./package.json": "./package.json",
+    "./pinyin-core": "./lib/src/pinyin-core.js",
+    "./pinyin-generator": "./lib/src/pinyin-generator.js",
+    "./pinyin-workflow": "./lib/src/pinyin-workflow.js"
   },
   "files": [
     "lib",
@@ -34,13 +37,18 @@
     "corpus:sync": "node --import tsx scripts/corpus.ts sync",
     "corpus:report": "node --import tsx scripts/corpus.ts report",
     "corpus:route:check": "node --import tsx scripts/corpus-route-pilot.ts",
-    "corpus:route:preview": "node --import tsx scripts/corpus-route-pilot.ts --write"
+    "corpus:route:preview": "node --import tsx scripts/corpus-route-pilot.ts --write",
+    "pinyin:prepare": "node --import tsx scripts/pinyin.ts prepare",
+    "pinyin:apply": "node --import tsx scripts/pinyin.ts apply"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
-    "opencc-js": "^1.4.2",
     "parse5": "^8.0.1",
     "tsx": "^4.20.0",
     "typescript": "^5.9.0"
+  },
+  "dependencies": {
+    "pinyin-pro": "3.29.4",
+    "opencc-js": "1.4.2"
   }
 }

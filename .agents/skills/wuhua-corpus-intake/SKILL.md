@@ -11,8 +11,10 @@ description: 自动扩展古文 corpus、修订固定来源和共享定点拼音
 
 Raw 缓存在 `.cache/wuhua-corpus`，不提交 Git。正文、来源 manifest 和覆盖报告保留；`corpus:report` 生成统计，`corpus:check` 离线核验。来源与许可缺失记为 warning，不阻塞基础语料建设。LLM 只能帮助 metadata 和异常判断，不能补写 canonical 原文。
 
-ID 不随目录、标题重分配。已入库正文发生变化时保留缓存候选；真实更正仍须保留旧 version、引用、sourceText、理由和 history。不要用繁简转换覆盖底文。本阶段不批量生成拼音、注释、译文或 embedding。
+ID 不随目录、标题重分配。已入库正文发生变化时保留缓存候选；真实更正仍须保留旧 version、引用、sourceText、理由和 history。不要用繁简转换覆盖底文。本阶段不批量保存整书机器拼音、注释、译文或 embedding；选定范围的拼音候选按来源文档生成、核对后合并。
 
 完成后运行 `npm run check:content`、`npm run check:types`、`npm test`、`npm run build`，检查报告与代表性原文。发布另按 [发布文档](../../../docs/deployment.md) 升级版本；生成包不授权上传、部署或修改两个产品 vendor。产品各自决定何时升级。
+
+拼音先用 `pinyin:prepare` 生成带上下文的候选，核对读音、位置及旧标注差异后用 `pinyin:apply` 增量合并。旧 token 不自动覆盖，生成规则与对齐核心由 Corpus 统一维护；技术通过不能冒充读音审核。
 
 共享 aid 写入 `src/pinyin-aids.json` 或 `src/editorial-aids.json`，遵循来源文档的定点写入步骤。先查已有 target/version，扩展时保留原 token，避免重叠活动候选；保持真实 review 与 rights。现代例句拼音留在产品。产品 MDX、curated、推荐、中文路径和 Learn release 不进入 Corpus。Corpus 入库工作流停用时删除本 Skill。

@@ -43,5 +43,5 @@ const config=JSON.parse(await readFile(resolve(root,'tsconfig.json'),'utf8'));
 if(config.extends)checkPath(config.extends,resolve(root,'tsconfig.json'));
 for(const pattern of config.include||[])if(pattern.startsWith('..'))throw new Error('Typecheck escapes repository');
 for(const command of Object.values(pkg.scripts))if(/\.\.\/|(?:apps|packages)\//.test(command))throw new Error('Command escapes repository');
-if(corpus&&(pkg.dependencies||Object.keys(pkg.exports).some(k=>/learning|curated|legacy|display/.test(k))))throw new Error('Product dependencies in Corpus');
+if(corpus&&(Object.keys(pkg.dependencies||{}).some(name=>!['pinyin-pro','opencc-js'].includes(name))||Object.keys(pkg.exports).some(k=>/learning|curated|legacy|display/.test(k))))throw new Error('Product dependencies in Corpus');
 console.log(`${pkg.name}: dependency boundaries pass`);

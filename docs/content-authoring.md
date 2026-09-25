@@ -12,7 +12,27 @@
 
 ## 定点拼音写入
 
-目标是给选定原文增加可核验的现代普通话阅读辅助，不批量生成整书注音，也不把拼音写回 canonical 正文。
+目标是给选定原文增加可核验的现代普通话阅读辅助，不批量保存整书机器注音，也不把拼音写回 canonical 正文。
+
+### 候选生成与合并
+
+产品提交通用 JSON 请求数组，每项为 `{target, version, start, end}`；target 必须是规范段落 ID，范围是该段原文的 Unicode 码点。产品先解析别名和节选，只请求实际展示且缺覆盖的范围。Corpus 不解析 MDX 或产品清单。
+
+```sh
+npm run pinyin:prepare -- /tmp/pinyin-requests.json /tmp/pinyin-candidates.json
+npm run pinyin:apply -- /tmp/pinyin-candidates.json
+```
+
+prepare 用整段提供语境，只输出请求范围的 tokens、疑难项、生成器版本和现有标注快照；输出必须是新文件。读完整上下文、核对候选，并在接受的项中填写 `decision.author` 和 `decision.note`（判断依据、具体来源及待审状态），再 apply。没有 decision 的项不写入。未知字或读音规则冲突必须在候选中解决，不能仅凭音节数量通过便接受。
+
+apply 是增量操作：保留旧 token，不自动改读音；重复应用无变化，版本或原文变更、旧标注被改、范围冲突则拒绝。扩展已审标注或修改既有读音需单独编辑及说明，不用生成器覆盖。跨多条活动标注的请求需拆分；同一段多份候选应逐次 prepare/apply，避免依据过期快照写入。通过全部校验后才原子写入 aids。
+
+`@wuhua/corpus/pinyin-core` 统一解析、选择、对齐及节选检查，无 UI 或生成词典依赖；`pinyin-generator` 独立提供候选生成和临时字符串生成；`pinyin-workflow` 提供准备与合并的纯函数。旧 `pinyin` 数据及 `pinyinFor` 接口保持兼容。消费者需显式更新发布包；普通阅读只加载核心与已存标注，生成器仅在写作命令或用户工具需要时加载。
+
+生成器锁定依赖及规则版本，关闭一／不语流变调，保留有依据的词语轻声。规则按词句限定、记录来源，不把一个古文用法推广为单字默认读音。繁体归一化只用于生成输入，原文、token.text 与码点不变；原字的多音候选也参与提示。中途未知字保持原位置，不移动后续读音。候选差异不等于旧读音错误，词典地域差异和语域须结合原句核对。已存标注始终优先。
+
+### 定点编辑
+
 
 1. 找到稳定 paragraph ID、version 与所需范围；从 `src/books` 读取原文，用 `Array.from(text)` 确认码点，先核对多音字和语境。
 2. 检查 `src/pinyin-aids.json` 是否已有同 target/version 的非 withdrawn 标注。能扩展原标注时复用该条，保留已有 token；不要追加一个与已有范围重叠的活动候选。
