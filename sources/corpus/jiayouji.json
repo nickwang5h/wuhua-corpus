@@ -1,0 +1,39 @@
+{
+  "work": "jiayouji",
+  "provider": "zhwikisource",
+  "rootTitle": "嘉祐集",
+  "pages": [
+    {
+      "title": "嘉祐集",
+      "pageId": 114403,
+      "revisionId": 7904820,
+      "revision": "7904820",
+      "timestamp": "2026-06-28T01:48:13Z",
+      "fetchedAt": "2026-09-28T03:44:28.385Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7904820",
+      "sha256": "0c8fb11ee0a1022ce488fe752b6571acc483d1b8294674545d4f0566db28402a"
+    }
+  ],
+  "metadata": {
+    "author": "蘇洵",
+    "times": "北宋"
+  },
+  "warnings": [
+    "source-missing-glyph: 嘉祐集"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "38460340bc747d6d393e95e3f44d680aa44580ccc750054eb3301a31639ff12c",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 456,
+    "characters": 98065,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

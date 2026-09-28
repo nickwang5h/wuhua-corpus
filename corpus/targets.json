@@ -353,5 +353,85 @@
     "id": "zhanguoce",
     "title": "戰國策",
     "priority": "P2"
+  },
+  {
+    "id": "liuzutanjing",
+    "title": "六祖大師法寶壇經",
+    "priority": "P1"
+  },
+  {
+    "id": "chuci",
+    "title": "楚辭",
+    "priority": "P1"
+  },
+  {
+    "id": "yanshijiaxun",
+    "title": "顏氏家訓",
+    "priority": "P1"
+  },
+  {
+    "id": "kongzijiayu",
+    "title": "孔子家語",
+    "priority": "P2"
+  },
+  {
+    "id": "linjilu",
+    "title": "鎮州臨濟慧照禪師語錄",
+    "priority": "P1"
+  },
+  {
+    "id": "wudenghuiyuan",
+    "title": "五燈會元",
+    "priority": "P2"
+  },
+  {
+    "id": "jiayouji",
+    "title": "嘉祐集",
+    "priority": "P2"
+  },
+  {
+    "id": "luanchengji",
+    "title": "欒城集",
+    "priority": "P2"
+  },
+  {
+    "id": "nanhuazhenjingzhushu",
+    "title": "南華真經註疏",
+    "priority": "P2"
+  },
+  {
+    "id": "zizhitongjian",
+    "title": "資治通鑑",
+    "priority": "P1"
+  },
+  {
+    "id": "sanguoyanyi",
+    "title": "三國演義",
+    "priority": "P2"
+  },
+  {
+    "id": "shuihuzhuan",
+    "title": "水滸傳",
+    "priority": "P2"
+  },
+  {
+    "id": "xiyouji",
+    "title": "西遊記",
+    "priority": "P2"
+  },
+  {
+    "id": "hongloumeng",
+    "title": "紅樓夢",
+    "priority": "P2"
+  },
+  {
+    "id": "hanshanlaozijie",
+    "title": "老子道德經註",
+    "priority": "P2"
+  },
+  {
+    "id": "wangbilaozizhu",
+    "title": "老子道德經注",
+    "priority": "P1"
   }
 ]

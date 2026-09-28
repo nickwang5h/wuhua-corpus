@@ -1,0 +1,35 @@
+{
+  "work": "shuihuzhuan",
+  "provider": "daizhige",
+  "rootTitle": "水滸傳",
+  "pages": [
+    {
+      "title": "集藏/小说/水浒传.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "8d00743f0c792bb733cff077ec2da8b3e593ca4be4f7319fcaf6407f54bbb6a3"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "source-missing-glyph: 水滸傳"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "cc9c4ef19b5a30063f28218faace0ad9b5ffd4d0d6636cbe57afd7a0f3e07ff4",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 4992,
+    "characters": 922951,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

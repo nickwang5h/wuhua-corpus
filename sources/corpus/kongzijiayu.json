@@ -1,0 +1,38 @@
+{
+  "work": "kongzijiayu",
+  "provider": "guopop",
+  "rootTitle": "孔子家語",
+  "pages": [
+    {
+      "title": "子/儒家类/孔子家语.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E5%AD%94%E5%AD%90%E5%AE%B6%E8%AF%AD.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "dc8119c2967c814eb5ab46c56f3f556830f37c787088ed78af6ad8f5e0421163"
+    }
+  ],
+  "metadata": {
+    "author": "魏・王肃",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Wikisource conversion failed: Error: markup-residue: 卷九"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E5%AD%94%E5%AD%90%E5%AE%B6%E8%AF%AD.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "25fc9e484cbb1b3e5069684026cbbdf51cacd6baab5d1f9789d39c940d72dd5d",
+  "stats": {
+    "chapters": 13,
+    "paragraphs": 1652,
+    "characters": 72241,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

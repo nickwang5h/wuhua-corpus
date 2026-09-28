@@ -1,0 +1,34 @@
+{
+  "work": "wangbilaozizhu",
+  "provider": "daizhige",
+  "rootTitle": "老子道德經注",
+  "pages": [
+    {
+      "title": "道藏/藏外/王弼老子注.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%81%93%E8%97%8F/%E8%97%8F%E5%A4%96/%E7%8E%8B%E5%BC%BC%E8%80%81%E5%AD%90%E6%B3%A8.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "4a93542f85e39ad12aae707a5bd1d63f327619178aa7cb865734c9954263522d"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%81%93%E8%97%8F/%E8%97%8F%E5%A4%96/%E7%8E%8B%E5%BC%BC%E8%80%81%E5%AD%90%E6%B3%A8.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "440210ccca1805aa12cf0978a68c5cad57dff59f21a46dba2951f91ae2f4237f",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 157,
+    "characters": 14526,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "work": "zizhitongjian",
+  "provider": "guopop",
+  "rootTitle": "資治通鑑",
+  "pages": [
+    {
+      "title": "史/编年类/资治通鉴.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%8F%B2/%E7%BC%96%E5%B9%B4%E7%B1%BB/%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "f7ab881e915123403ff8552674246a307c548d594b217f4948e0443f354b5c1c"
+    }
+  ],
+  "metadata": {
+    "author": "北宋・司馬光",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Structured whole-work bootstrap selected after discovering 295 Wikisource pages.",
+    "source-missing-glyph: 漢紀三十一",
+    "source-missing-glyph: 晉紀三十七",
+    "source-missing-glyph: 晉紀四十",
+    "source-missing-glyph: 齊紀七",
+    "source-missing-glyph: 梁紀五",
+    "source-missing-glyph: 梁紀六",
+    "source-missing-glyph: 梁紀十二",
+    "source-missing-glyph: 陳紀三",
+    "source-missing-glyph: 陳紀四",
+    "source-missing-glyph: 隋紀二",
+    "source-missing-glyph: 隋紀四",
+    "source-missing-glyph: 隋紀五",
+    "source-missing-glyph: 唐紀一",
+    "source-missing-glyph: 唐紀三",
+    "source-missing-glyph: 唐紀十四",
+    "source-missing-glyph: 唐紀二十一",
+    "source-missing-glyph: 唐紀二十七",
+    "source-missing-glyph: 唐紀二十九",
+    "source-missing-glyph: 唐紀三十六",
+    "source-missing-glyph: 唐紀四十四",
+    "source-missing-glyph: 唐紀五十",
+    "source-missing-glyph: 唐紀六十二",
+    "source-missing-glyph: 唐紀七十五",
+    "source-missing-glyph: 唐紀七十六",
+    "source-missing-glyph: 唐紀七十八",
+    "source-missing-glyph: 唐紀七十九",
+    "source-missing-glyph: 後晉紀三",
+    "source-missing-glyph: 後漢紀二",
+    "source-missing-glyph: 後周紀二"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%8F%B2/%E7%BC%96%E5%B9%B4%E7%B1%BB/%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "8950a5c1c7e284e0c1a32fca915216136e0002bcb0faa5405e5e1c1160de1184",
+  "stats": {
+    "chapters": 297,
+    "paragraphs": 1806,
+    "characters": 3042490,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

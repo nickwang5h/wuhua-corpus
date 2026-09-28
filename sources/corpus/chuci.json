@@ -1,0 +1,35 @@
+{
+  "work": "chuci",
+  "provider": "daizhige",
+  "rootTitle": "楚辭",
+  "pages": [
+    {
+      "title": "诗藏/楚辞/楚辞.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-09-24T19:44:29.998Z",
+      "sha256": "12541ec6fe54d6980dbbbea927c0d0562ccc07f6d58dd4886d4f792f51a0de9c"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "source-missing-glyph: 楚辭"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "6d1c397d20775a520bf9a44a2478a6a4324b3a65935b12b2209513b80cf7e8ec",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 2448,
+    "characters": 32250,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

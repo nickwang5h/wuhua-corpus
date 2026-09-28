@@ -1,0 +1,52 @@
+{
+  "work": "hongloumeng",
+  "provider": "guopop",
+  "rootTitle": "紅樓夢",
+  "pages": [
+    {
+      "title": "子/小说类/红楼梦.json",
+      "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+      "revision": "8619f79cb168d8c6ad852f2ac4bec877665f4fed",
+      "timestamp": "2026-05-11T06:46:50Z",
+      "fetchedAt": "2026-09-24T19:45:41.886Z",
+      "sha256": "697292d59c90730fe2648c820127f3eed86a1b1bba8f54f21a1d619885de4cd5"
+    }
+  ],
+  "metadata": {
+    "author": "清・曹雪芹",
+    "annotationPolicy": "primary-field-only"
+  },
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "Structured whole-work bootstrap selected after discovering 121 Wikisource pages.",
+    "source-missing-glyph: 第五囘",
+    "source-missing-glyph: 第二十四回",
+    "source-missing-glyph: 第二十五囘",
+    "source-missing-glyph: 第二十六囘",
+    "source-missing-glyph: 第三十六囬",
+    "source-missing-glyph: 第五十二回",
+    "source-missing-glyph: 第五十三囬",
+    "source-missing-glyph: 第五十五囘",
+    "source-missing-glyph: 第七十三囬",
+    "source-missing-glyph: 第八十四囬",
+    "source-missing-glyph: 第九十五囬",
+    "source-missing-glyph: 第一百十囬",
+    "source-missing-glyph: 第一百十六囬",
+    "source-missing-glyph: 第一百十七囘"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+    "attribution": "guopop"
+  },
+  "normalizedSha256": "43dbd5385825c04892e81c88c94cdd83d47103e569416fbe68b6ea1111fb905b",
+  "stats": {
+    "chapters": 123,
+    "paragraphs": 1244,
+    "characters": 823136,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

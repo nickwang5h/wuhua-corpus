@@ -137,5 +137,24 @@
     "provider": "zhwikisource",
     "expectedUnits": 19,
     "reason": "Archive contains a modern philosophical essay and lacks a body chapter; use the Wiki prefaces plus 17 original chapters."
+  },
+  "liuzutanjing": {
+    "provider": "daizhige",
+    "archivePath": "佛藏/大藏经/论藏/诸宗部/六祖大师法宝坛经.txt",
+    "reason": "The Wikisource page is incomplete and carries a maintenance notice; the archive's Taishō 诸宗部 copy is the 宗宝 edition in ten 品."
+  },
+  "chuci": {
+    "provider": "daizhige",
+    "reason": "Wikisource discovery lands on the single 遠遊 page; use a whole-work archive."
+  },
+  "shuihuzhuan": {
+    "provider": "daizhige",
+    "archivePath": "集藏/小说/水浒传.txt",
+    "reason": "Wikisource discovery lands on a single 120-回 chapter page; use the archive's whole work."
+  },
+  "wangbilaozizhu": {
+    "provider": "daizhige",
+    "archivePath": "道藏/藏外/王弼老子注.txt",
+    "reason": "Wikisource 老子道德經註 is 憨山德清's commentary (kept as hanshanlaozijie); 王弼's commentary comes from the archive."
   }
 }

@@ -1,0 +1,117 @@
+{
+  "work": "yanshijiaxun",
+  "provider": "zhwikisource",
+  "rootTitle": "顏氏家訓",
+  "pages": [
+    {
+      "title": "顏氏家訓",
+      "pageId": 7634,
+      "revisionId": 2382216,
+      "revision": "2382216",
+      "timestamp": "2024-03-30T15:41:05Z",
+      "fetchedAt": "2026-09-28T03:41:08.660Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2382216",
+      "sha256": "e15708b8ba315302748f529183aeec4f30f39bcf9615ccaf283ed552d2be141d"
+    },
+    {
+      "title": "顏氏家訓/卷第1",
+      "pageId": 12967,
+      "revisionId": 2596812,
+      "revision": "2596812",
+      "timestamp": "2025-09-08T05:44:30Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2596812",
+      "parent": "顏氏家訓",
+      "sha256": "f0147bc03cfc5acf46947729cc9dcd6703bcd99f04356477820b85710cf91f30"
+    },
+    {
+      "title": "顏氏家訓/卷第2",
+      "pageId": 12970,
+      "revisionId": 2596811,
+      "revision": "2596811",
+      "timestamp": "2025-09-08T05:43:28Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2596811",
+      "parent": "顏氏家訓",
+      "sha256": "ab64d44d420718bb1146c2a9398726c9af0d2e94ffff6b5471ca71cf490466bb"
+    },
+    {
+      "title": "顏氏家訓/卷第3",
+      "pageId": 12971,
+      "revisionId": 10678154,
+      "revision": "10678154",
+      "timestamp": "2026-09-27T15:50:04Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=10678154",
+      "parent": "顏氏家訓",
+      "sha256": "bc575158bf8689f0364934b1d902e4215b8176447df01d71e51418fc6806f329"
+    },
+    {
+      "title": "顏氏家訓/卷第4",
+      "pageId": 12972,
+      "revisionId": 10678453,
+      "revision": "10678453",
+      "timestamp": "2026-09-27T15:57:03Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=10678453",
+      "parent": "顏氏家訓",
+      "sha256": "2cae249afe926350d33e8c223dc30bc612366385f9bcb6bd615c8db701023ade"
+    },
+    {
+      "title": "顏氏家訓/卷第5",
+      "pageId": 12973,
+      "revisionId": 2596814,
+      "revision": "2596814",
+      "timestamp": "2025-09-08T05:45:37Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2596814",
+      "parent": "顏氏家訓",
+      "sha256": "8073b4ac9e9f12c478fad6d5c3a8ce7c4f5918ba1562c22714639d4e2bdd2a4a"
+    },
+    {
+      "title": "顏氏家訓/卷第6",
+      "pageId": 12974,
+      "revisionId": 2596815,
+      "revision": "2596815",
+      "timestamp": "2025-09-08T05:46:00Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2596815",
+      "parent": "顏氏家訓",
+      "sha256": "05226d0324c4cee476b028feac2ecdeac84e80b80bcffd60b58653fee51e7a32"
+    },
+    {
+      "title": "顏氏家訓/卷第7",
+      "pageId": 12975,
+      "revisionId": 10682324,
+      "revision": "10682324",
+      "timestamp": "2026-09-27T17:23:20Z",
+      "fetchedAt": "2026-09-28T03:41:19.241Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=10682324",
+      "parent": "顏氏家訓",
+      "sha256": "168f905788bae1f445ae51a1df0dd2616a641e93f97b19e4fd7cc3d40ec129d4"
+    }
+  ],
+  "metadata": {
+    "author": "顏之推",
+    "times": "北齊",
+    "type": "雜學"
+  },
+  "warnings": [
+    "source-missing-glyph: 卷第6"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "8eb2aa24a6cc6d143aa0f305f179603acd2a1f73e91f2fb47dc2aedae198994e",
+  "stats": {
+    "chapters": 7,
+    "paragraphs": 255,
+    "characters": 40773,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

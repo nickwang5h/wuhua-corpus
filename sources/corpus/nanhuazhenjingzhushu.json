@@ -1,0 +1,432 @@
+{
+  "work": "nanhuazhenjingzhushu",
+  "provider": "zhwikisource",
+  "rootTitle": "南華真經註疏",
+  "pages": [
+    {
+      "title": "南華真經註疏",
+      "pageId": 760399,
+      "revisionId": 1741325,
+      "revision": "1741325",
+      "timestamp": "2019-09-05T13:36:54Z",
+      "fetchedAt": "2026-09-28T04:40:31.507Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1741325",
+      "sha256": "89f27c7a07bc78bee6664af262cc37f0c451eaa7722836a4b750437dc493cc48"
+    },
+    {
+      "title": "南華真經註疏/序",
+      "pageId": 760400,
+      "revisionId": 7902085,
+      "revision": "7902085",
+      "timestamp": "2026-06-16T01:43:50Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7902085",
+      "parent": "南華真經註疏",
+      "sha256": "b534989e42f950aca98a9dd4bf170b353ecae2a55719ed4142cbfed024c037bf"
+    },
+    {
+      "title": "南華真經註疏/卷一",
+      "pageId": 760401,
+      "revisionId": 6351652,
+      "revision": "6351652",
+      "timestamp": "2026-06-05T07:51:03Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6351652",
+      "parent": "南華真經註疏",
+      "sha256": "2fb9376ed90a722676323b281b05919f12c1a245d5c38ffad17d9b0e1ee7541c"
+    },
+    {
+      "title": "南華真經註疏/卷二",
+      "pageId": 760402,
+      "revisionId": 5978516,
+      "revision": "5978516",
+      "timestamp": "2026-06-02T08:38:01Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978516",
+      "parent": "南華真經註疏",
+      "sha256": "3e18b5b13081e6f6c1419c55e4288a46d237f5a51d5fcd873db02b541d08f120"
+    },
+    {
+      "title": "南華真經註疏/卷三",
+      "pageId": 760403,
+      "revisionId": 6364018,
+      "revision": "6364018",
+      "timestamp": "2026-06-05T09:09:30Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6364018",
+      "parent": "南華真經註疏",
+      "sha256": "20017a63c76fa04ef1468a59bd6476181ce8df461857079dedceface2575e7d0"
+    },
+    {
+      "title": "南華真經註疏/卷四",
+      "pageId": 760404,
+      "revisionId": 6353040,
+      "revision": "6353040",
+      "timestamp": "2026-06-05T07:59:52Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6353040",
+      "parent": "南華真經註疏",
+      "sha256": "3c7952c546df7eb35ad48ed8b753e35846e6bb11c94328340d5ff256ac090b7a"
+    },
+    {
+      "title": "南華真經註疏/卷五",
+      "pageId": 760405,
+      "revisionId": 7907034,
+      "revision": "7907034",
+      "timestamp": "2026-07-06T07:06:34Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907034",
+      "parent": "南華真經註疏",
+      "sha256": "b913ed4bcb58cc92ace726b5cab06b880b106caeadd73bcde064efa97c926f83"
+    },
+    {
+      "title": "南華真經註疏/卷六",
+      "pageId": 760406,
+      "revisionId": 6353768,
+      "revision": "6353768",
+      "timestamp": "2026-06-05T08:04:36Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6353768",
+      "parent": "南華真經註疏",
+      "sha256": "ac1348bcf4919f70000376351fa6c4bdad7f8d7cab91025fc75255d01276a27d"
+    },
+    {
+      "title": "南華真經註疏/卷七",
+      "pageId": 760407,
+      "revisionId": 6011742,
+      "revision": "6011742",
+      "timestamp": "2026-06-03T07:13:31Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6011742",
+      "parent": "南華真經註疏",
+      "sha256": "79d03273aaff33c885c206cc62011ba8da7797db79af1227dca736109eaab8d9"
+    },
+    {
+      "title": "南華真經註疏/卷八",
+      "pageId": 760408,
+      "revisionId": 6354439,
+      "revision": "6354439",
+      "timestamp": "2026-06-05T08:08:50Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6354439",
+      "parent": "南華真經註疏",
+      "sha256": "a9345df71c3cf2c66b03a6d359be8617db215c67e49eefd776185f239ba2e231"
+    },
+    {
+      "title": "南華真經註疏/卷九",
+      "pageId": 760409,
+      "revisionId": 6364291,
+      "revision": "6364291",
+      "timestamp": "2026-06-05T09:11:16Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6364291",
+      "parent": "南華真經註疏",
+      "sha256": "47b86994e20ea83c36cc23156626562da46c1c7ba3da2a3c19392335774b69b2"
+    },
+    {
+      "title": "南華真經註疏/卷十",
+      "pageId": 760410,
+      "revisionId": 6364673,
+      "revision": "6364673",
+      "timestamp": "2026-06-05T09:13:39Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6364673",
+      "parent": "南華真經註疏",
+      "sha256": "3d0d06561ee2d9d81813615d727bef966446ff364f8e17a7a8695f18b2f92f65"
+    },
+    {
+      "title": "南華真經註疏/卷十一",
+      "pageId": 760411,
+      "revisionId": 6355259,
+      "revision": "6355259",
+      "timestamp": "2026-06-05T08:14:03Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6355259",
+      "parent": "南華真經註疏",
+      "sha256": "e1b797c3e2e3ad233d858f53471559e54056fc7b195b287ff514bdc168ffb22b"
+    },
+    {
+      "title": "南華真經註疏/卷十二",
+      "pageId": 760412,
+      "revisionId": 7907033,
+      "revision": "7907033",
+      "timestamp": "2026-07-06T07:05:41Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907033",
+      "parent": "南華真經註疏",
+      "sha256": "d9919122e7d7fdbb239b9c7ace4b4202696917d3438a0939537a025a1fa02396"
+    },
+    {
+      "title": "南華真經註疏/卷十三",
+      "pageId": 760413,
+      "revisionId": 7907032,
+      "revision": "7907032",
+      "timestamp": "2026-07-06T07:05:15Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907032",
+      "parent": "南華真經註疏",
+      "sha256": "3b8b40ba3e0ce4a7c1c5bfd7d880c6ce715d259a1556101cafbc593f91e4fb57"
+    },
+    {
+      "title": "南華真經註疏/卷十四",
+      "pageId": 760415,
+      "revisionId": 6356578,
+      "revision": "6356578",
+      "timestamp": "2026-06-05T08:22:12Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6356578",
+      "parent": "南華真經註疏",
+      "sha256": "47ece82c28230e4f24bb4d8c70c0da938062669b2917cc486a236dd6f2cfee6c"
+    },
+    {
+      "title": "南華真經註疏/卷十五",
+      "pageId": 760417,
+      "revisionId": 6356924,
+      "revision": "6356924",
+      "timestamp": "2026-06-05T08:24:20Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6356924",
+      "parent": "南華真經註疏",
+      "sha256": "a0637a37cc69db73bb4f3ed55b55e1eeb585dcdf5b7a36cf64651edae88e264e"
+    },
+    {
+      "title": "南華真經註疏/卷十六",
+      "pageId": 760418,
+      "revisionId": 6365115,
+      "revision": "6365115",
+      "timestamp": "2026-06-05T09:16:26Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6365115",
+      "parent": "南華真經註疏",
+      "sha256": "a9baf524d5027572489fba2283e0aff2b2eed776eed4bd6495d6dfcb0eafbdb0"
+    },
+    {
+      "title": "南華真經註疏/卷十七",
+      "pageId": 760419,
+      "revisionId": 6357396,
+      "revision": "6357396",
+      "timestamp": "2026-06-05T08:27:22Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6357396",
+      "parent": "南華真經註疏",
+      "sha256": "25f18f38ad286b5d9cceef0b074b9874623b86dc2afbc7fc85294f34f267ccc3"
+    },
+    {
+      "title": "南華真經註疏/卷十八",
+      "pageId": 760421,
+      "revisionId": 6365330,
+      "revision": "6365330",
+      "timestamp": "2026-06-05T09:17:47Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6365330",
+      "parent": "南華真經註疏",
+      "sha256": "65561e429ac70d425547d9ef8355e1f3fdad8abb5e2537ae88f61581cad5df0d"
+    },
+    {
+      "title": "南華真經註疏/卷十九",
+      "pageId": 760422,
+      "revisionId": 7907030,
+      "revision": "7907030",
+      "timestamp": "2026-07-06T07:04:23Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907030",
+      "parent": "南華真經註疏",
+      "sha256": "02e7dc33d916c356cad8970c2b23da9d7881b4ed14693bf0768bd0b7f6132d59"
+    },
+    {
+      "title": "南華真經註疏/卷二十",
+      "pageId": 760423,
+      "revisionId": 5978526,
+      "revision": "5978526",
+      "timestamp": "2026-06-02T08:53:12Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978526",
+      "parent": "南華真經註疏",
+      "sha256": "af79551574e5e0ef9e9590db3f4fd59ae1a72f48e0920be3851d7091efcc81c6"
+    },
+    {
+      "title": "南華真經註疏/卷二十一",
+      "pageId": 760424,
+      "revisionId": 7907029,
+      "revision": "7907029",
+      "timestamp": "2026-07-06T07:03:50Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907029",
+      "parent": "南華真經註疏",
+      "sha256": "f7353dce2bb3be818789c4e2cce25b7d8c062ec7cea8036cd301427c481cec53"
+    },
+    {
+      "title": "南華真經註疏/卷二十二",
+      "pageId": 760426,
+      "revisionId": 5978310,
+      "revision": "5978310",
+      "timestamp": "2026-06-01T02:55:36Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978310",
+      "parent": "南華真經註疏",
+      "sha256": "a532c73d206d0d0ebf137c248393525ec3704d68bc073f185f25818adcc40e2a"
+    },
+    {
+      "title": "南華真經註疏/卷二十三",
+      "pageId": 760428,
+      "revisionId": 7907028,
+      "revision": "7907028",
+      "timestamp": "2026-07-06T07:03:25Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907028",
+      "parent": "南華真經註疏",
+      "sha256": "7f9e641ee25afabb084d34179b5b4737827be819ace4cd18e05800114bc20bb1"
+    },
+    {
+      "title": "南華真經註疏/卷二十四",
+      "pageId": 760429,
+      "revisionId": 7907027,
+      "revision": "7907027",
+      "timestamp": "2026-07-06T07:03:02Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907027",
+      "parent": "南華真經註疏",
+      "sha256": "60f50c6b17e856bdfe35938d5b74c8d4a639ce4561c460b8dc8bc49aeb26565f"
+    },
+    {
+      "title": "南華真經註疏/卷二十五",
+      "pageId": 760431,
+      "revisionId": 6359136,
+      "revision": "6359136",
+      "timestamp": "2026-06-05T08:38:17Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6359136",
+      "parent": "南華真經註疏",
+      "sha256": "156f55971f457c36eb2bcf7970fa57eb508b29711869db98c4351df5d744fd29"
+    },
+    {
+      "title": "南華真經註疏/卷二十六",
+      "pageId": 760432,
+      "revisionId": 7907021,
+      "revision": "7907021",
+      "timestamp": "2026-07-06T07:00:28Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907021",
+      "parent": "南華真經註疏",
+      "sha256": "021662435244fc9138e5f7f0f65bc4937f32ea504c543e4ef7d2b7e92c0a6f4c"
+    },
+    {
+      "title": "南華真經註疏/卷二十七",
+      "pageId": 760434,
+      "revisionId": 5978511,
+      "revision": "5978511",
+      "timestamp": "2026-06-02T07:31:10Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978511",
+      "parent": "南華真經註疏",
+      "sha256": "e7ece987d76c5ce8510af1b7c97f2ca495fcf60e76afc716df4f50199ec1266d"
+    },
+    {
+      "title": "南華真經註疏/卷二十八",
+      "pageId": 760435,
+      "revisionId": 5978513,
+      "revision": "5978513",
+      "timestamp": "2026-06-02T08:15:32Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5978513",
+      "parent": "南華真經註疏",
+      "sha256": "367ed54aedf778304f1ce2d7139fa2a19984c10e4be5d0f38aa75318a46ba3fb"
+    },
+    {
+      "title": "南華真經註疏/卷二十九",
+      "pageId": 760436,
+      "revisionId": 7907026,
+      "revision": "7907026",
+      "timestamp": "2026-07-06T07:02:24Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907026",
+      "parent": "南華真經註疏",
+      "sha256": "0f125a2c8df2e769cbfa1247783a29ca8637685aba445fd5d276befc7f692bdf"
+    },
+    {
+      "title": "南華真經註疏/卷三十",
+      "pageId": 760437,
+      "revisionId": 5985055,
+      "revision": "5985055",
+      "timestamp": "2026-06-03T03:20:39Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5985055",
+      "parent": "南華真經註疏",
+      "sha256": "7d8fe9da163da8f434c6f3d73b056c7a81d05117ba652318842c34483836f702"
+    },
+    {
+      "title": "南華真經註疏/卷三十一",
+      "pageId": 760438,
+      "revisionId": 6005747,
+      "revision": "6005747",
+      "timestamp": "2026-06-03T06:19:22Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6005747",
+      "parent": "南華真經註疏",
+      "sha256": "ab1a88acff1295a06c7b59b09966f001682615e8f798e51a40c745c281d3b56b"
+    },
+    {
+      "title": "南華真經註疏/卷三十二",
+      "pageId": 760439,
+      "revisionId": 6006980,
+      "revision": "6006980",
+      "timestamp": "2026-06-03T06:32:13Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6006980",
+      "parent": "南華真經註疏",
+      "sha256": "49f2797a13ee8a5affe9fff961cb451d7a04e998a108ce5d225d637d067f4ef6"
+    },
+    {
+      "title": "南華真經註疏/卷三十三",
+      "pageId": 760440,
+      "revisionId": 6011291,
+      "revision": "6011291",
+      "timestamp": "2026-06-03T07:09:33Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6011291",
+      "parent": "南華真經註疏",
+      "sha256": "dccca175686272eea4fc794e57424ab7f77aad68405b0cf0c352d4249769fbd5"
+    },
+    {
+      "title": "南華真經註疏/卷三十四",
+      "pageId": 760441,
+      "revisionId": 7907025,
+      "revision": "7907025",
+      "timestamp": "2026-07-06T07:01:47Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7907025",
+      "parent": "南華真經註疏",
+      "sha256": "85cb5016e3279b6166f060757ef380847e9e656c4e54aa5fc287cbca71a4d126"
+    },
+    {
+      "title": "南華真經註疏/卷三十五",
+      "pageId": 760442,
+      "revisionId": 6366211,
+      "revision": "6366211",
+      "timestamp": "2026-06-05T09:23:23Z",
+      "fetchedAt": "2026-09-28T04:40:42.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=6366211",
+      "parent": "南華真經註疏",
+      "sha256": "93df187187ba12b6583436af4522998e3b0c4aa9ec65ff85c0e4f3d0f650fdce"
+    }
+  ],
+  "metadata": {
+    "times": "晉朝"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "7bcc91da40bf93f6abc865f1774cd141aa5ca03d566aa0be723ce853a2586730",
+  "stats": {
+    "chapters": 36,
+    "paragraphs": 11551,
+    "characters": 377372,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "work": "hanshanlaozijie",
+  "provider": "zhwikisource",
+  "rootTitle": "老子道德經註",
+  "pages": [
+    {
+      "title": "老子道德經註",
+      "pageId": 1184874,
+      "revisionId": 2506445,
+      "revision": "2506445",
+      "timestamp": "2024-12-17T09:54:19Z",
+      "fetchedAt": "2026-09-28T04:40:24.724Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2506445",
+      "sha256": "1e9279bea523166de24520bc99acd8984641f46ddf04bd1dc6b27f73b7945979"
+    },
+    {
+      "title": "老子道德經註/序",
+      "pageId": 1184875,
+      "revisionId": 2506447,
+      "revision": "2506447",
+      "timestamp": "2024-12-17T09:59:07Z",
+      "fetchedAt": "2026-09-28T04:40:35.058Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2506447",
+      "parent": "老子道德經註",
+      "sha256": "a68e6652caf007d6ca184be3bcb5d3e522c3c1551d660f235cb36a0c5ac1d6cd"
+    },
+    {
+      "title": "老子道德經註/上篇",
+      "pageId": 1206481,
+      "revisionId": 2561507,
+      "revision": "2561507",
+      "timestamp": "2025-05-16T03:27:25Z",
+      "fetchedAt": "2026-09-28T04:40:35.058Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2561507",
+      "parent": "老子道德經註",
+      "sha256": "8b8c3168ba580dc8479c3c9fa0fea92a1dfa18a0ed59abe942bd82286b1122f9"
+    },
+    {
+      "title": "老子道德經註/下篇",
+      "pageId": 1206482,
+      "revisionId": 2561508,
+      "revision": "2561508",
+      "timestamp": "2025-05-16T03:31:25Z",
+      "fetchedAt": "2026-09-28T04:40:35.058Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2561508",
+      "parent": "老子道德經註",
+      "sha256": "1bb3f8e91dbefdd4f465f374e1bfa7a0c487d8baa55d892e361d6db94897cee7"
+    }
+  ],
+  "metadata": {
+    "author": "憨山",
+    "times": "明"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "60dda35eae1e60dc3d7ba2aab59cd20b760f57e45272d26301e3b031d5748a1a",
+  "stats": {
+    "chapters": 3,
+    "paragraphs": 187,
+    "characters": 60023,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

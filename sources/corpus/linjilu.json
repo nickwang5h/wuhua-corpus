@@ -1,0 +1,38 @@
+{
+  "work": "linjilu",
+  "provider": "zhwikisource",
+  "rootTitle": "鎮州臨濟慧照禪師語錄",
+  "pages": [
+    {
+      "title": "鎮州臨濟慧照禪師語錄",
+      "pageId": 1212214,
+      "revisionId": 2601664,
+      "revision": "2601664",
+      "timestamp": "2025-09-29T04:05:24Z",
+      "fetchedAt": "2026-09-28T03:41:12.217Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2601664",
+      "sha256": "02b8c7bc1e9c1cd05a3cbeb29f4ec70d4413b1369af440a5d225202385cc09ef"
+    }
+  ],
+  "metadata": {
+    "author": "慧然",
+    "times": "唐",
+    "type": "佛經"
+  },
+  "warnings": [],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "0dc954d12201db27e6560973242d65f70189ccbe6913ee94b60782d095f71cbf",
+  "stats": {
+    "chapters": 1,
+    "paragraphs": 109,
+    "characters": 20372,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

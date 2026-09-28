@@ -1,0 +1,260 @@
+{
+  "work": "wudenghuiyuan",
+  "provider": "zhwikisource",
+  "rootTitle": "五燈會元",
+  "pages": [
+    {
+      "title": "五燈會元",
+      "pageId": 59042,
+      "revisionId": 2648369,
+      "revision": "2648369",
+      "timestamp": "2026-02-11T15:01:14Z",
+      "fetchedAt": "2026-09-28T03:42:25.652Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648369",
+      "sha256": "85a6c87eb720ec35b7fcd099b9c9d2db3b2e005031279f58c1c13f28aa2a2911"
+    },
+    {
+      "title": "五燈會元/卷第一",
+      "pageId": 61216,
+      "revisionId": 1325042,
+      "revision": "1325042",
+      "timestamp": "2017-11-23T10:16:32Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1325042",
+      "parent": "五燈會元",
+      "sha256": "c4a510c8b4b8298772a694732ad91d3196823de382561eb2a8543997f21d1edb"
+    },
+    {
+      "title": "五燈會元/卷第二",
+      "pageId": 61217,
+      "revisionId": 1541162,
+      "revision": "1541162",
+      "timestamp": "2019-02-16T07:08:41Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1541162",
+      "parent": "五燈會元",
+      "sha256": "e39c6e48989da488b807e994b48a6ad9dcafe6d304462492835c2cc5977cb866"
+    },
+    {
+      "title": "五燈會元/卷第三",
+      "pageId": 90823,
+      "revisionId": 1775561,
+      "revision": "1775561",
+      "timestamp": "2020-03-13T09:21:45Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1775561",
+      "parent": "五燈會元",
+      "sha256": "b7986985c0ce7ae7bbf05cf41347946bab0da5120255a8a4cec4de7aaf55a8e0"
+    },
+    {
+      "title": "五燈會元/卷第四",
+      "pageId": 90824,
+      "revisionId": 852905,
+      "revision": "852905",
+      "timestamp": "2017-04-13T08:37:36Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=852905",
+      "parent": "五燈會元",
+      "sha256": "8e90a130d37ce74ea70ee426567c8c961f863ee0f7e54a2693e901f8ca3b3b4d"
+    },
+    {
+      "title": "五燈會元/卷第五",
+      "pageId": 90825,
+      "revisionId": 1155692,
+      "revision": "1155692",
+      "timestamp": "2017-07-21T08:56:43Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1155692",
+      "parent": "五燈會元",
+      "sha256": "6fab30eeec1ad7ce727b711bb029296782a656a6e02305eb33d09d468194b008"
+    },
+    {
+      "title": "五燈會元/卷第六",
+      "pageId": 90826,
+      "revisionId": 1155795,
+      "revision": "1155795",
+      "timestamp": "2017-07-21T09:03:04Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1155795",
+      "parent": "五燈會元",
+      "sha256": "93a63a23bc63a5efda7e80d13c5ea753ca229128cbe805d77a57c9699d9e0e91"
+    },
+    {
+      "title": "五燈會元/卷第七",
+      "pageId": 90827,
+      "revisionId": 852908,
+      "revision": "852908",
+      "timestamp": "2017-04-13T08:38:05Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=852908",
+      "parent": "五燈會元",
+      "sha256": "b742d35878a6b26d822b937448722cb619b9a791439049bb2d72a5944e651854"
+    },
+    {
+      "title": "五燈會元/卷第八",
+      "pageId": 90828,
+      "revisionId": 1380171,
+      "revision": "1380171",
+      "timestamp": "2018-03-06T13:12:41Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1380171",
+      "parent": "五燈會元",
+      "sha256": "68df3414dc374b71865469e6e808aab088723b9c795a48fe9e173e3994197478"
+    },
+    {
+      "title": "五燈會元/卷第九",
+      "pageId": 90829,
+      "revisionId": 1168220,
+      "revision": "1168220",
+      "timestamp": "2017-07-23T10:44:55Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1168220",
+      "parent": "五燈會元",
+      "sha256": "6f1da4ee24ed4a591e9bb72f37d2646a91d3656f84cfb02bca6214d452296e4c"
+    },
+    {
+      "title": "五燈會元/卷第十",
+      "pageId": 90830,
+      "revisionId": 1161919,
+      "revision": "1161919",
+      "timestamp": "2017-07-22T14:17:18Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1161919",
+      "parent": "五燈會元",
+      "sha256": "8f9eee967549d2273e76acefd6d166ad14bd2906c1846c57eb169c812ede893f"
+    },
+    {
+      "title": "五燈會元/卷第十一",
+      "pageId": 90831,
+      "revisionId": 1381381,
+      "revision": "1381381",
+      "timestamp": "2018-03-10T12:46:28Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1381381",
+      "parent": "五燈會元",
+      "sha256": "956d977533ebc17b5e85a352a5f6a121e963ea75f2bb112c55f9d8349f70998d"
+    },
+    {
+      "title": "五燈會元/卷第十二",
+      "pageId": 90832,
+      "revisionId": 852914,
+      "revision": "852914",
+      "timestamp": "2017-04-13T08:38:52Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=852914",
+      "parent": "五燈會元",
+      "sha256": "5b98bbcc1f7b3c9ca8bf7eabb833395749dd2db259725a06873e963002077063"
+    },
+    {
+      "title": "五燈會元/卷第十三",
+      "pageId": 90833,
+      "revisionId": 1155779,
+      "revision": "1155779",
+      "timestamp": "2017-07-21T09:02:02Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1155779",
+      "parent": "五燈會元",
+      "sha256": "b4bc68ebba3397e00912d59e70f215b7775afe7e9a604423f1314aa4b6c9b886"
+    },
+    {
+      "title": "五燈會元/卷第十四",
+      "pageId": 90834,
+      "revisionId": 1430446,
+      "revision": "1430446",
+      "timestamp": "2018-04-24T02:55:52Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1430446",
+      "parent": "五燈會元",
+      "sha256": "acba441ad4f6c6572520bf3bce041e3c0321dd19963e626e203ae30585358a75"
+    },
+    {
+      "title": "五燈會元/卷第十五",
+      "pageId": 90835,
+      "revisionId": 1504244,
+      "revision": "1504244",
+      "timestamp": "2018-10-08T03:50:18Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1504244",
+      "parent": "五燈會元",
+      "sha256": "33f09ffaf7f53861df5cd6d4934a60a44229d346c3b2b69e0c11cbf6a54f130b"
+    },
+    {
+      "title": "五燈會元/卷第十六",
+      "pageId": 90836,
+      "revisionId": 1546247,
+      "revision": "1546247",
+      "timestamp": "2019-03-03T00:54:04Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1546247",
+      "parent": "五燈會元",
+      "sha256": "c86ca53747661ac21db764ed37840a440b087612d3775e09b588913dc3947520"
+    },
+    {
+      "title": "五燈會元/卷第十七",
+      "pageId": 90837,
+      "revisionId": 856678,
+      "revision": "856678",
+      "timestamp": "2017-04-18T13:34:32Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=856678",
+      "parent": "五燈會元",
+      "sha256": "cff7850bba3fe767ae8d3bc0cc9e7a82847d397d47ff413d662a715fb0254e65"
+    },
+    {
+      "title": "五燈會元/卷第十八",
+      "pageId": 90838,
+      "revisionId": 856166,
+      "revision": "856166",
+      "timestamp": "2017-04-18T11:00:40Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=856166",
+      "parent": "五燈會元",
+      "sha256": "c81e7e96618b70f68e2bb6034131977844391fa35202532b78cc40e6740e58a6"
+    },
+    {
+      "title": "五燈會元/卷第十九",
+      "pageId": 90839,
+      "revisionId": 1504251,
+      "revision": "1504251",
+      "timestamp": "2018-10-08T03:52:46Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1504251",
+      "parent": "五燈會元",
+      "sha256": "665af4c4a891e55aea51bf607c0d600417c50d52fc8e1f3240f5534228d12117"
+    },
+    {
+      "title": "五燈會元/卷第二十",
+      "pageId": 90840,
+      "revisionId": 1316448,
+      "revision": "1316448",
+      "timestamp": "2017-10-14T14:59:04Z",
+      "fetchedAt": "2026-09-28T03:43:08.305Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1316448",
+      "parent": "五燈會元",
+      "sha256": "8e193f9952e78754f5ef330a39f48d0e8248adcf58669e4b9167d980239038d1"
+    }
+  ],
+  "metadata": {
+    "author": "釋普濟"
+  },
+  "warnings": [
+    "source-missing-glyph: 卷第二",
+    "source-missing-glyph: 卷第八",
+    "source-missing-glyph: 卷第十一"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "e2302d91121570f07eb5ba01a46e34a81bbfdb66e3ab60973c6ef956beeed70b",
+  "stats": {
+    "chapters": 20,
+    "paragraphs": 20229,
+    "characters": 772794,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}
