@@ -2837,5 +2837,734 @@
             "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/zhongyong.json",
             "note": "Checked the complete Zhongyong opening paragraph and Zhu Xi commentary in installed sishuzhangjujizhu, p-sishuzhangjujizhu-15e8d0bf643d81b9-0008: 見，音現. 見/见 is xiàn (be manifest), 莫 is mò and 其 is qí in this passage. Remaining syllables follow modern Mandarin dictionary tones. Source: https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json . Not a reconstruction of historical pronunciation; human pronunciation review pending.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
         }
+    },
+    {
+        "id": "p-sunzi-e6a093d2143eee4a-0018-pinyin-3-37",
+        "target": "p-sunzi-e6a093d2143eee4a-0018",
+        "version": "sha256:5a9d15bdaa3f4c23e4ac7daee91a251a40e4b0d32aa51198ea7290a9ffa0fc92",
+        "kind": "pinyin",
+        "start": 3,
+        "end": 37,
+        "tokens": [
+            {
+                "start": 3,
+                "end": 4,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "彼",
+                "pinyin": "bǐ"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "己",
+                "pinyin": "jǐ"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "百",
+                "pinyin": "bǎi"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "戰",
+                "pinyin": "zhàn"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "殆",
+                "pinyin": "dài"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "彼",
+                "pinyin": "bǐ"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "己",
+                "pinyin": "jǐ"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "勝",
+                "pinyin": "shèng"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "負",
+                "pinyin": "fù"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "彼",
+                "pinyin": "bǐ"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "己",
+                "pinyin": "jǐ"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "每",
+                "pinyin": "měi"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "戰",
+                "pinyin": "zhàn"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "殆",
+                "pinyin": "dài"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "物化间（AI 辅助核对）",
+            "textVersion": "sha256:5a9d15bdaa3f4c23e4ac7daee91a251a40e4b0d32aa51198ea7290a9ffa0fc92"
+        },
+        "rights": {
+            "author": "物化间（AI 辅助核对）",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+            "note": "Checked in the context of 謀攻第三. Flagged 知 and 不 take their ordinary readings zhī and bù; 殆 dài (danger), 負 fù. Compared with Lionel Giles's 1910 rendering of the same lines; no reading differs from the generator.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sunzi-e6a093d2143eee4a-0003-pinyin-52-86",
+        "target": "p-sunzi-e6a093d2143eee4a-0003",
+        "version": "sha256:1ab307df995a59857f629b56bc1766c075f56f634981068b55a2d1d7402459d2",
+        "kind": "pinyin",
+        "start": 52,
+        "end": 86,
+        "tokens": [
+            {
+                "start": 52,
+                "end": 53,
+                "text": "兵",
+                "pinyin": "bīng"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "詭",
+                "pinyin": "guǐ"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 60,
+                "end": 61,
+                "text": "能",
+                "pinyin": "néng"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "text": "示",
+                "pinyin": "shì"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "能",
+                "pinyin": "néng"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "示",
+                "pinyin": "shì"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 72,
+                "end": 73,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "近",
+                "pinyin": "jìn"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "示",
+                "pinyin": "shì"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "遠",
+                "pinyin": "yuǎn"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "遠",
+                "pinyin": "yuǎn"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "示",
+                "pinyin": "shì"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "近",
+                "pinyin": "jìn"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "物化间（AI 辅助核对）",
+            "textVersion": "sha256:1ab307df995a59857f629b56bc1766c075f56f634981068b55a2d1d7402459d2"
+        },
+        "rights": {
+            "author": "物化间（AI 辅助核对）",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+            "note": "Checked in the context of 始計第一. 能 is néng (able), not nài; 遠 is the adjective yuǎn; 不 bù throughout. Compared with Lionel Giles's 1910 rendering of the same lines; no reading differs from the generator.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sunzi-e6a093d2143eee4a-0011-pinyin-60-88",
+        "target": "p-sunzi-e6a093d2143eee4a-0011",
+        "version": "sha256:4b3d0d2d3e688c0f282fd2f8173996e02d2c3e32d9b240ee1d02cf6c8b320660",
+        "kind": "pinyin",
+        "start": 60,
+        "end": 88,
+        "tokens": [
+            {
+                "start": 60,
+                "end": 61,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "text": "百",
+                "pinyin": "bǎi"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "text": "戰",
+                "pinyin": "zhàn"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "百",
+                "pinyin": "bǎi"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "勝",
+                "pinyin": "shèng"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "text": "非",
+                "pinyin": "fēi"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "善",
+                "pinyin": "shàn"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "text": "善",
+                "pinyin": "shàn"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 72,
+                "end": 73,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "text": "戰",
+                "pinyin": "zhàn"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "屈",
+                "pinyin": "qū"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "兵",
+                "pinyin": "bīng"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "善",
+                "pinyin": "shàn"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "善",
+                "pinyin": "shàn"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "物化间（AI 辅助核对）",
+            "textVersion": "sha256:4b3d0d2d3e688c0f282fd2f8173996e02d2c3e32d9b240ee1d02cf6c8b320660"
+        },
+        "rights": {
+            "author": "物化间（AI 辅助核对）",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+            "note": "Checked in the context of 謀攻第三. 勝 is shèng (victory); 善 shàn; 屈 qū (to make yield). Compared with Lionel Giles's 1910 rendering of the same lines; no reading differs from the generator.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sunzi-e6a093d2143eee4a-0012-pinyin-1-21",
+        "target": "p-sunzi-e6a093d2143eee4a-0012",
+        "version": "sha256:4d09cfc6f8fe5e17470e398ebc1953142fe9cf95f8a508f0ac3b423a53b9eed2",
+        "kind": "pinyin",
+        "start": 1,
+        "end": 21,
+        "tokens": [
+            {
+                "start": 1,
+                "end": 2,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "兵",
+                "pinyin": "bīng"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "伐",
+                "pinyin": "fá"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "謀",
+                "pinyin": "móu"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "次",
+                "pinyin": "cì"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "伐",
+                "pinyin": "fá"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "交",
+                "pinyin": "jiāo"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "次",
+                "pinyin": "cì"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "伐",
+                "pinyin": "fá"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "兵",
+                "pinyin": "bīng"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "攻",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "城",
+                "pinyin": "chéng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "物化间（AI 辅助核对）",
+            "textVersion": "sha256:4d09cfc6f8fe5e17470e398ebc1953142fe9cf95f8a508f0ac3b423a53b9eed2"
+        },
+        "rights": {
+            "author": "物化间（AI 辅助核对）",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+            "note": "Checked in the context of 謀攻第三. 上 is shàng (highest); 其 qí throughout. Compared with Lionel Giles's 1910 rendering of the same lines; no reading differs from the generator.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sunzi-e6a093d2143eee4a-0003-pinyin-126-136",
+        "target": "p-sunzi-e6a093d2143eee4a-0003",
+        "version": "sha256:1ab307df995a59857f629b56bc1766c075f56f634981068b55a2d1d7402459d2",
+        "kind": "pinyin",
+        "start": 126,
+        "end": 136,
+        "tokens": [
+            {
+                "start": 126,
+                "end": 127,
+                "text": "攻",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 127,
+                "end": 128,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 128,
+                "end": 129,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 129,
+                "end": 130,
+                "text": "備",
+                "pinyin": "bèi"
+            },
+            {
+                "start": 131,
+                "end": 132,
+                "text": "出",
+                "pinyin": "chū"
+            },
+            {
+                "start": 132,
+                "end": 133,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 133,
+                "end": 134,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 134,
+                "end": 135,
+                "text": "意",
+                "pinyin": "yì"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "物化间（AI 辅助核对）",
+            "textVersion": "sha256:1ab307df995a59857f629b56bc1766c075f56f634981068b55a2d1d7402459d2"
+        },
+        "rights": {
+            "author": "物化间（AI 辅助核对）",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+            "note": "Checked in the context of 始計第一. 其 is the pronoun qí, 無 wú, 不 bù. Compared with Lionel Giles's 1910 rendering of the same lines; no reading differs from the generator.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
     }
 ]
