@@ -3566,5 +3566,4067 @@
             "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
             "note": "Checked in the context of 始計第一. 其 is the pronoun qí, 無 wú, 不 bù. Compared with Lionel Giles's 1910 rendering of the same lines; no reading differs from the generator.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
         }
+    },
+    {
+        "id": "p-mengzi-93af714c45f1234a-0038-pinyin-17-59",
+        "target": "p-mengzi-93af714c45f1234a-0038",
+        "version": "sha256:3c0adad3c2bae620ab56d4d2fbda57835577987a22686e3136d4821e4a2bb2f4",
+        "kind": "pinyin",
+        "start": 17,
+        "end": 59,
+        "tokens": [
+            {
+                "start": 17,
+                "end": 18,
+                "text": "今",
+                "pinyin": "jīn"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "为",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "仁",
+                "pinyin": "rén"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "犹",
+                "pinyin": "yóu"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "杯",
+                "pinyin": "bēi"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "水",
+                "pinyin": "shuǐ"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "救",
+                "pinyin": "jiù"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "车",
+                "pinyin": "chē"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "薪",
+                "pinyin": "xīn"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "火",
+                "pinyin": "huǒ"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "熄",
+                "pinyin": "xī"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "则",
+                "pinyin": "zé"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "谓",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "水",
+                "pinyin": "shuǐ"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "胜",
+                "pinyin": "shèng"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "火",
+                "pinyin": "huǒ"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "此",
+                "pinyin": "cǐ"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "又",
+                "pinyin": "yòu"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "与",
+                "pinyin": "yù"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "于",
+                "pinyin": "yú"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "仁",
+                "pinyin": "rén"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "甚",
+                "pinyin": "shèn"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "sha256:3c0adad3c2bae620ab56d4d2fbda57835577987a22686e3136d4821e4a2bb2f4"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/mengzi.json",
+            "note": "Checked against the full paragraph in context. Corrected 為 in 今之為仁者 to wéi (為仁, to practise benevolence) and 與 in 與於不仁 to yù (與於, to take part in); Zhu Xi glosses the clause as aiding the non-benevolent. 車 kept as chē, the mainland reading used by Learn; Taiwan dictionaries give jū.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-64-1-pinyin-33-63",
+        "target": "p-laozi-2354026-64-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 33,
+        "end": 63,
+        "tokens": [
+            {
+                "start": 33,
+                "end": 34,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "抱",
+                "pinyin": "bào"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "木",
+                "pinyin": "mù"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "毫",
+                "pinyin": "háo"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "末",
+                "pinyin": "mò"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "九",
+                "pinyin": "jiǔ"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "層",
+                "pinyin": "céng"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "臺",
+                "pinyin": "tái"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "起",
+                "pinyin": "qǐ"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "累",
+                "pinyin": "lěi"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "土",
+                "pinyin": "tǔ"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "千",
+                "pinyin": "qiān"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "里",
+                "pinyin": "lǐ"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "始",
+                "pinyin": "shǐ"
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 60,
+                "end": 61,
+                "text": "足",
+                "pinyin": "zú"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "text": "下",
+                "pinyin": "xià"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Corrected 累 in 起於累土 to lěi (to pile up). 行 in 千里之行 is xíng.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2200702-3-8-pinyin-0-68",
+        "target": "p-lunyu-2200702-3-8",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 68,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "夏",
+                "pinyin": "xià"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "問",
+                "pinyin": "wèn"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "巧",
+                "pinyin": "qiǎo"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "笑",
+                "pinyin": "xiào"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "倩",
+                "pinyin": "qiàn"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "兮",
+                "pinyin": "xī"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "美",
+                "pinyin": "měi"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "目",
+                "pinyin": "mù"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "盼",
+                "pinyin": "pàn"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "兮",
+                "pinyin": "xī"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "素",
+                "pinyin": "sù"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "爲",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "絢",
+                "pinyin": "xuàn"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "兮",
+                "pinyin": "xī"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "何",
+                "pinyin": "hé"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "繪",
+                "pinyin": "huì"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "事",
+                "pinyin": "shì"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "後",
+                "pinyin": "hòu"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "素",
+                "pinyin": "sù"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "禮",
+                "pinyin": "lǐ"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "後",
+                "pinyin": "hòu"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "乎",
+                "pinyin": "hū"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "起",
+                "pinyin": "qǐ"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "予",
+                "pinyin": "yú"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "商",
+                "pinyin": "shāng"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "始",
+                "pinyin": "shǐ"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "與",
+                "pinyin": "yǔ"
+            },
+            {
+                "start": 60,
+                "end": 61,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "text": "詩",
+                "pinyin": "shī"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "已",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "矣",
+                "pinyin": "yǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%85%AB%E4%BD%BE%E7%AC%AC%E4%B8%89?oldid=2200702",
+            "note": "Checked against the full paragraph in context. Corrected 予 in 起予者商也 to yú (first-person pronoun). 爲 in 素以爲絢 is wéi; 與 in 可與言詩 is yǔ (with).\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-13-1-pinyin-11-39",
+        "target": "p-laozi-2354026-13-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 11,
+        "end": 39,
+        "tokens": [
+            {
+                "start": 11,
+                "end": 12,
+                "text": "何",
+                "pinyin": "hé"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "寵",
+                "pinyin": "chǒng"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "辱",
+                "pinyin": "rǔ"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "若",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "驚",
+                "pinyin": "jīng"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "寵",
+                "pinyin": "chǒng"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "為",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "得",
+                "pinyin": "dé"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "若",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "驚",
+                "pinyin": "jīng"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "失",
+                "pinyin": "shī"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "若",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "驚",
+                "pinyin": "jīng"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "寵",
+                "pinyin": "chǒng"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "辱",
+                "pinyin": "rǔ"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "若",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "驚",
+                "pinyin": "jīng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Corrected 為 in 寵為下 to wéi (copula). 得 is dé.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-mengzi-9b1867b8f1310b4c-0006-pinyin-32-59",
+        "target": "p-mengzi-9b1867b8f1310b4c-0006",
+        "version": "sha256:b48f2cca566344bbe303f8bcac0525f924817220bb63152114e8a2e479ae7435",
+        "kind": "pinyin",
+        "start": 32,
+        "end": 59,
+        "tokens": [
+            {
+                "start": 32,
+                "end": 33,
+                "text": "或",
+                "pinyin": "huò"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "百",
+                "pinyin": "bǎi"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "步",
+                "pinyin": "bù"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "后",
+                "pinyin": "hòu"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "止",
+                "pinyin": "zhǐ"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "或",
+                "pinyin": "huò"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "五",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "十",
+                "pinyin": "shí"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "步",
+                "pinyin": "bù"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "后",
+                "pinyin": "hòu"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "止",
+                "pinyin": "zhǐ"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "五",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "十",
+                "pinyin": "shí"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "步",
+                "pinyin": "bù"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "笑",
+                "pinyin": "xiào"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "百",
+                "pinyin": "bǎi"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "步",
+                "pinyin": "bù"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "则",
+                "pinyin": "zé"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "何",
+                "pinyin": "hé"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "如",
+                "pinyin": "rú"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "sha256:b48f2cca566344bbe303f8bcac0525f924817220bb63152114e8a2e479ae7435"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/mengzi.json",
+            "note": "Checked against the full paragraph in context. Checked in full context; no polyphone requires correction.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058123-1-10-pinyin-37-52",
+        "target": "p-lunyu-2058123-1-10",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 37,
+        "end": 52,
+        "tokens": [
+            {
+                "start": 37,
+                "end": 38,
+                "text": "夫",
+                "pinyin": "fū"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "溫",
+                "pinyin": "wēn"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "良",
+                "pinyin": "liáng"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "恭",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "儉",
+                "pinyin": "jiǎn"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "讓",
+                "pinyin": "ràng"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "得",
+                "pinyin": "dé"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "之",
+                "pinyin": "zhī"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%B8%E8%80%8C%E7%AC%AC%E4%B8%80?oldid=2058123",
+            "note": "Checked against the full paragraph in context. 夫子 read fū zǐ (master). 得 is dé.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-1956460-13-17-pinyin-14-40",
+        "target": "p-lunyu-1956460-13-17",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 14,
+        "end": 40,
+        "tokens": [
+            {
+                "start": 14,
+                "end": 15,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "欲",
+                "pinyin": "yù"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "速",
+                "pinyin": "sù"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "見",
+                "pinyin": "jiàn"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "小",
+                "pinyin": "xiǎo"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "利",
+                "pinyin": "lì"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "欲",
+                "pinyin": "yù"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "速",
+                "pinyin": "sù"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "達",
+                "pinyin": "dá"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "見",
+                "pinyin": "jiàn"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "小",
+                "pinyin": "xiǎo"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "利",
+                "pinyin": "lì"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "大",
+                "pinyin": "dà"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "事",
+                "pinyin": "shì"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "成",
+                "pinyin": "chéng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%90%E8%B7%AF%E7%AC%AC%E5%8D%81%E4%B8%89?oldid=1956460",
+            "note": "Checked against the full paragraph in context. Checked in full context; 見 is jiàn.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058121-2-10-pinyin-4-29",
+        "target": "p-lunyu-2058121-2-10",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 29,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "視",
+                "pinyin": "shì"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "所",
+                "pinyin": "suǒ"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "觀",
+                "pinyin": "guān"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "所",
+                "pinyin": "suǒ"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "由",
+                "pinyin": "yóu"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "察",
+                "pinyin": "chá"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "所",
+                "pinyin": "suǒ"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "安",
+                "pinyin": "ān"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "焉",
+                "pinyin": "yān"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "廋",
+                "pinyin": "sōu"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "哉",
+                "pinyin": "zāi"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "焉",
+                "pinyin": "yān"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "廋",
+                "pinyin": "sōu"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "哉",
+                "pinyin": "zāi"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E7%88%B2%E6%94%BF%E7%AC%AC%E4%BA%8C?oldid=2058121",
+            "note": "Checked against the full paragraph in context. 焉 is yān (how); 廋 sōu (to hide).\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058121-2-17-pinyin-12-28",
+        "target": "p-lunyu-2058121-2-17",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 12,
+        "end": 28,
+        "tokens": [
+            {
+                "start": 12,
+                "end": 13,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "爲",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "爲",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "知",
+                "pinyin": "zhì"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E7%88%B2%E6%94%BF%E7%AC%AC%E4%BA%8C?oldid=2058121",
+            "note": "Checked against the full paragraph in context. Corrected both 爲 to wéi (to regard as), matching Learn's focus pinyin. Final 知 in 是知也 set to zhì, read as 智 in standard school annotations; the Learn article attributes the knowledge and wisdom renderings.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2177314-4-21-pinyin-4-25",
+        "target": "p-lunyu-2177314-4-21",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 25,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "父",
+                "pinyin": "fù"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "母",
+                "pinyin": "mǔ"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "年",
+                "pinyin": "nián"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "喜",
+                "pinyin": "xǐ"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "懼",
+                "pinyin": "jù"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E9%87%8C%E4%BB%81%E7%AC%AC%E5%9B%9B?oldid=2177314",
+            "note": "Checked against the full paragraph in context. Checked in full context; no polyphone requires correction.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-17-1-pinyin-0-58",
+        "target": "p-laozi-2354026-17-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 58,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "太",
+                "pinyin": "tài"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "次",
+                "pinyin": "cì"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "親",
+                "pinyin": "qīn"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "譽",
+                "pinyin": "yù"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "次",
+                "pinyin": "cì"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "畏",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "次",
+                "pinyin": "cì"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "侮",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "足",
+                "pinyin": "zú"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "焉",
+                "pinyin": "yān"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "焉",
+                "pinyin": "yān"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "悠",
+                "pinyin": "yōu"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "兮",
+                "pinyin": "xī"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "貴",
+                "pinyin": "guì"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "功",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "成",
+                "pinyin": "chéng"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "事",
+                "pinyin": "shì"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "遂",
+                "pinyin": "suì"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "百",
+                "pinyin": "bǎi"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "姓",
+                "pinyin": "xìng"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "皆",
+                "pinyin": "jiē"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "我",
+                "pinyin": "wǒ"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "自",
+                "pinyin": "zì"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "然",
+                "pinyin": "rán"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Follows the Wang Bi wording 太上，下知有之. 親 qīn, 百姓 bǎi xìng.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058121-2-15-pinyin-4-18",
+        "target": "p-lunyu-2058121-2-15",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 18,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "學",
+                "pinyin": "xué"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "思",
+                "pinyin": "sī"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "罔",
+                "pinyin": "wǎng"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "思",
+                "pinyin": "sī"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "學",
+                "pinyin": "xué"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "殆",
+                "pinyin": "dài"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E7%88%B2%E6%94%BF%E7%AC%AC%E4%BA%8C?oldid=2058121",
+            "note": "Checked against the full paragraph in context. Checked in full context; 殆 dài.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058123-1-14-pinyin-4-38",
+        "target": "p-lunyu-2058123-1-14",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 38,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "君",
+                "pinyin": "jūn"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "求",
+                "pinyin": "qiú"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "飽",
+                "pinyin": "bǎo"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "居",
+                "pinyin": "jū"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "求",
+                "pinyin": "qiú"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "安",
+                "pinyin": "ān"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "敏",
+                "pinyin": "mǐn"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "事",
+                "pinyin": "shì"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "愼",
+                "pinyin": "shèn"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "就",
+                "pinyin": "jiù"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "正",
+                "pinyin": "zhèng"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "焉",
+                "pinyin": "yān"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "好",
+                "pinyin": "hào"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "學",
+                "pinyin": "xué"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "已",
+                "pinyin": "yǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%B8%E8%80%8C%E7%AC%AC%E4%B8%80?oldid=2058123",
+            "note": "Checked against the full paragraph in context. 食 shí; 好學 hào xué (to be fond of learning).\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-11-1-pinyin-16-60",
+        "target": "p-laozi-2354026-11-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 16,
+        "end": 60,
+        "tokens": [
+            {
+                "start": 16,
+                "end": 17,
+                "text": "埏",
+                "pinyin": "shān"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "埴",
+                "pinyin": "zhí"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "為",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "器",
+                "pinyin": "qì"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "當",
+                "pinyin": "dāng"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "器",
+                "pinyin": "qì"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "鑿",
+                "pinyin": "záo"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "戶",
+                "pinyin": "hù"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "牖",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "為",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "室",
+                "pinyin": "shì"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "當",
+                "pinyin": "dāng"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "室",
+                "pinyin": "shì"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "為",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "利",
+                "pinyin": "lì"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "為",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "用",
+                "pinyin": "yòng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. 埏埴 shān zhí (to knead clay); 當 dāng; each 為 is wéi (to make, to serve as).\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058121-2-12-pinyin-4-9",
+        "target": "p-lunyu-2058121-2-12",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 9,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "君",
+                "pinyin": "jūn"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "器",
+                "pinyin": "qì"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E7%88%B2%E6%94%BF%E7%AC%AC%E4%BA%8C?oldid=2058121",
+            "note": "Checked against the full paragraph in context. Checked; no polyphone.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-76-1-pinyin-0-44",
+        "target": "p-laozi-2354026-76-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 44,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "柔",
+                "pinyin": "róu"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "弱",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "死",
+                "pinyin": "sǐ"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "堅",
+                "pinyin": "jiān"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "強",
+                "pinyin": "qiáng"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "萬",
+                "pinyin": "wàn"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "物",
+                "pinyin": "wù"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "草",
+                "pinyin": "cǎo"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "木",
+                "pinyin": "mù"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "柔",
+                "pinyin": "róu"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "脆",
+                "pinyin": "cuì"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "死",
+                "pinyin": "sǐ"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "枯",
+                "pinyin": "kū"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "槁",
+                "pinyin": "gǎo"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "堅",
+                "pinyin": "jiān"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "強",
+                "pinyin": "qiáng"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "死",
+                "pinyin": "sǐ"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "徒",
+                "pinyin": "tú"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "柔",
+                "pinyin": "róu"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "弱",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "徒",
+                "pinyin": "tú"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. 強 in 堅強 is qiáng; 槁 gǎo.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-16-1-pinyin-8-39",
+        "target": "p-laozi-2354026-16-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 8,
+        "end": 39,
+        "tokens": [
+            {
+                "start": 8,
+                "end": 9,
+                "text": "萬",
+                "pinyin": "wàn"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "物",
+                "pinyin": "wù"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "並",
+                "pinyin": "bìng"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "作",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "吾",
+                "pinyin": "wú"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "觀",
+                "pinyin": "guān"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "復",
+                "pinyin": "fù"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "夫",
+                "pinyin": "fú"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "物",
+                "pinyin": "wù"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "芸",
+                "pinyin": "yún"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "芸",
+                "pinyin": "yún"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "各",
+                "pinyin": "gè"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "復",
+                "pinyin": "fù"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "歸",
+                "pinyin": "guī"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "根",
+                "pinyin": "gēn"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "歸",
+                "pinyin": "guī"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "根",
+                "pinyin": "gēn"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "靜",
+                "pinyin": "jìng"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "復",
+                "pinyin": "fù"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "命",
+                "pinyin": "mìng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Corrected 夫 in 夫物芸芸 to fú (sentence-initial particle). 並 bìng, 復 fù.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2200702-3-17-pinyin-0-28",
+        "target": "p-lunyu-2200702-3-17",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 28,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "貢",
+                "pinyin": "gòng"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "欲",
+                "pinyin": "yù"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "去",
+                "pinyin": "qù"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "吿",
+                "pinyin": "gù"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "朔",
+                "pinyin": "shuò"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "餼",
+                "pinyin": "xì"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "羊",
+                "pinyin": "yáng"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "賜",
+                "pinyin": "cì"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "爾",
+                "pinyin": "ěr"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "愛",
+                "pinyin": "ài"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "羊",
+                "pinyin": "yáng"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "我",
+                "pinyin": "wǒ"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "愛",
+                "pinyin": "ài"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "禮",
+                "pinyin": "lǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%85%AB%E4%BD%BE%E7%AC%AC%E4%B8%89?oldid=2200702",
+            "note": "Checked against the full paragraph in context. Corrected 吿 in 吿朔 to gù, following Zhu Xi's note (古篤反) and the Ministry of Education entry 告朔餼羊 gù shuò xì yáng. 餼 xì.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-40-1-pinyin-0-25",
+        "target": "p-laozi-2354026-40-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 25,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "反",
+                "pinyin": "fǎn"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "動",
+                "pinyin": "dòng"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "弱",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "萬",
+                "pinyin": "wàn"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "物",
+                "pinyin": "wù"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "無",
+                "pinyin": "wú"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Checked in full context; each 於 is yú.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-12-1-pinyin-0-56",
+        "target": "p-laozi-2354026-12-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 56,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "五",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "色",
+                "pinyin": "sè"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "令",
+                "pinyin": "lìng"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "目",
+                "pinyin": "mù"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "盲",
+                "pinyin": "máng"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "五",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "音",
+                "pinyin": "yīn"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "令",
+                "pinyin": "lìng"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "耳",
+                "pinyin": "ěr"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "聾",
+                "pinyin": "lóng"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "五",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "味",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "令",
+                "pinyin": "lìng"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "口",
+                "pinyin": "kǒu"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "爽",
+                "pinyin": "shuǎng"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "馳",
+                "pinyin": "chí"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "騁",
+                "pinyin": "chěng"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "畋",
+                "pinyin": "tián"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "獵",
+                "pinyin": "liè"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "令",
+                "pinyin": "lìng"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "心",
+                "pinyin": "xīn"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "發",
+                "pinyin": "fā"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "狂",
+                "pinyin": "kuáng"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "難",
+                "pinyin": "nán"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "得",
+                "pinyin": "dé"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "貨",
+                "pinyin": "huò"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "令",
+                "pinyin": "lìng"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "妨",
+                "pinyin": "fáng"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "聖",
+                "pinyin": "shèng"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "為",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "腹",
+                "pinyin": "fù"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "為",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "目",
+                "pinyin": "mù"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "去",
+                "pinyin": "qù"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "彼",
+                "pinyin": "bǐ"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "取",
+                "pinyin": "qǔ"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "此",
+                "pinyin": "cǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Corrected the first 為 in 為腹不為目 to wèi so both match (to act for); 行妨 xíng; 爽 shuǎng.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2058121-2-22-pinyin-4-32",
+        "target": "p-lunyu-2058121-2-22",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 32,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "大",
+                "pinyin": "dà"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "車",
+                "pinyin": "chē"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "輗",
+                "pinyin": "ní"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "小",
+                "pinyin": "xiǎo"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "車",
+                "pinyin": "chē"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "軏",
+                "pinyin": "yuè"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "何",
+                "pinyin": "hé"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "哉",
+                "pinyin": "zāi"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E7%88%B2%E6%94%BF%E7%AC%AC%E4%BA%8C?oldid=2058121",
+            "note": "Checked against the full paragraph in context. 車 chē in 大車 and 小車; 輗 ní, 軏 yuè; 行 xíng.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-81-1-pinyin-0-30",
+        "target": "p-laozi-2354026-81-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 30,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "美",
+                "pinyin": "měi"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "美",
+                "pinyin": "měi"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "善",
+                "pinyin": "shàn"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "辯",
+                "pinyin": "biàn"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "辯",
+                "pinyin": "biàn"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "善",
+                "pinyin": "shàn"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "博",
+                "pinyin": "bó"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "博",
+                "pinyin": "bó"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "知",
+                "pinyin": "zhī"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. 知 in 知者不博 kept as zhī (one who knows).\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-38-1-pinyin-0-21",
+        "target": "p-laozi-2354026-38-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 21,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "失",
+                "pinyin": "shī"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "德",
+                "pinyin": "dé"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Checked against the full paragraph in context. Checked in full context; no polyphone requires correction.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-2177439-7-8-pinyin-4-29",
+        "target": "p-lunyu-2177439-7-8",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 29,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "憤",
+                "pinyin": "fèn"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "啟",
+                "pinyin": "qǐ"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "悱",
+                "pinyin": "fěi"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "發",
+                "pinyin": "fā"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "擧",
+                "pinyin": "jǔ"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "隅",
+                "pinyin": "yú"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "三",
+                "pinyin": "sān"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "隅",
+                "pinyin": "yú"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "text": "反",
+                "pinyin": "fǎn"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "則",
+                "pinyin": "zé"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "復",
+                "pinyin": "fù"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Wuhua (AI-assisted draft)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Wuhua (AI-assisted draft)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E8%BF%B0%E8%80%8C%E7%AC%AC%E4%B8%83?oldid=2177439",
+            "note": "Checked against the full paragraph in context. 復 fù (to repeat the lesson); 擧 jǔ.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
     }
 ]
