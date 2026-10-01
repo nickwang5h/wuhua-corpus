@@ -1,6 +1,6 @@
 {
   "name": "@wuhua/corpus",
-  "version": "2026.10.1-pinyin1",
+  "version": "2026.10.1-pinyin2",
   "private": true,
   "type": "module",
   "exports": {
