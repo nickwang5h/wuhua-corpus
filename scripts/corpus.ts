@@ -20,14 +20,28 @@ export function convertUnits(target:Target,plan:Plan,units:Unit[]):TextBook{
  const book={id:target.id,metadata,chapters};validateBooks([book]);return book;
 }
 export function metrics(book:TextBook){const paragraphs=book.chapters.flatMap(c=>c.paragraphs);return {chapters:book.chapters.length,paragraphs:paragraphs.length,characters:paragraphs.reduce((n,p)=>n+Array.from(p.text.replace(/\s/g,'')).length,0),emptyChapters:book.chapters.filter(c=>!c.paragraphs.length&&!c.images?.length).length,images:book.chapters.reduce((n,c)=>n+(c.images?.length??0),0),imageChapters:book.chapters.filter(c=>c.kind==='image').length};}
+/**
+ * A synced book must equal what its pinned source produced. A reviewed correction
+ * keeps the paragraph ID, stores the source wording in sourceText and the old
+ * version in history; for the comparison it is restored to that source wording.
+ */
+export function asSourced(book:TextBook,records:{id:string;version:string}[]):TextBook{
+ return {...book,chapters:book.chapters.map(c=>({...c,paragraphs:c.paragraphs.map(p=>{
+  if(p.sourceText===undefined||p.sourceText===p.text)return p;
+  const review=p.correction?.review,sourceVersion=`sha256:${digest(p.sourceText)}`;
+  if(!p.correction?.reason||!review||!['reviewed','published'].includes(review.status)||!review.reviewer||!review.reviewedAt||review.textVersion!==p.version||!records.some(r=>r.id===p.id&&r.version===sourceVersion))throw new Error(`Correction needs reviewed provenance and retained history ${p.id}`);
+  return Object.fromEntries(Object.entries(p).filter(([k])=>k!=='sourceText'&&k!=='correction').map(([k,v])=>[k,k==='text'?p.sourceText:k==='version'?sourceVersion:v])) as typeof p;
+ })}))};
+}
 export async function checkCorpus(){
  const targets=await jsonFile<Target[]>('corpus/targets.json');
  const books:TextBook[]=[];
  const navigation=await jsonFile<any[]>('src/manifest.json');
+ const history=await jsonFile<{records:{id:string;version:string}[]}>('src/history.json');
  for(const t of targets){let book:TextBook;try{book=await jsonFile<TextBook>(`src/books/${t.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code==='ENOENT')continue;throw e;}
   const source=await jsonFile<any>(`sources/corpus/${t.id}.json`);
   if(JSON.stringify(navigation.find(b=>b.id===t.id)?.chapters)!==JSON.stringify(book.chapters.map(({id,number,title,source})=>({id,number,title,source}))))throw new Error(`Stale navigation ${t.id}`);
-  if(source.work!==book.id||source.normalizedSha256!==digest(JSON.stringify(book)))throw new Error(`Canonical/source mismatch: ${t.id}`);
+  if(source.work!==book.id||source.normalizedSha256!==digest(JSON.stringify(asSourced(book,history.records))))throw new Error(`Canonical/source mismatch: ${t.id}`);
   if(!source.pages?.length||source.pages.some((p:any)=>!p.revision||!p.timestamp||!p.fetchedAt))throw new Error(`Missing provenance ${t.id}`);
   const allowed=new Set(source.pages.map((p:any)=>p.source));
   for(const c of book.chapters){if(!allowed.has(c.source)||(!c.paragraphs.length&&!c.images?.length))throw new Error(`Invalid body source ${c.id}`);for(const im of c.images??[]){if(!source.pages.some((p:any)=>p.images?.some((x:any)=>JSON.stringify(x)===JSON.stringify(im))))throw new Error(`Image provenance mismatch ${im.id}`);await verifyImage(im);}for(const p of c.paragraphs){if(p.version!==`sha256:${digest(p.text)}`)throw new Error(`Text version mismatch ${p.id}`);if(residue(p.text).some(w=>w!=='source-missing-glyph'))throw new Error(`Contamination ${p.id}`);}}

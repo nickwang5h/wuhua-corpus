@@ -12822,7 +12822,7 @@
     {
         "id": "p-zhanguoce-03e06ac5664495c8-0028-pinyin-106-139",
         "target": "p-zhanguoce-03e06ac5664495c8-0028",
-        "version": "sha256:a9ffb73b56e8e3e9a1725863361187582510b08191c30d5f426f5a2a6ac0c065",
+        "version": "sha256:3e2f88e99363e9e9121ec11a008062a2f93b28f563bce2705f8d1bcdc002da7c",
         "kind": "pinyin",
         "start": 106,
         "end": 139,
@@ -12944,7 +12944,7 @@
             {
                 "start": 128,
                 "end": 129,
-                "text": "已",
+                "text": "己",
                 "pinyin": "jǐ"
             },
             {
@@ -12999,7 +12999,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:a9ffb73b56e8e3e9a1725863361187582510b08191c30d5f426f5a2a6ac0c065"
+            "textVersion": "sha256:3e2f88e99363e9e9121ec11a008062a2f93b28f563bce2705f8d1bcdc002da7c"
         },
         "rights": {
             "author": "Codex (AI)",

@@ -8,7 +8,7 @@
 
 旧三书的来源仍在 `sources/wikisource.json`。`npm run content:import` 只从固定快照重建历史转换候选，输出 `content/incoming/converted.json`，不作为新作品入口。只有明确要重新下载时才加 `-- --download`。
 
-真实底文更正保留原 ID 和旧 version、sourceText、修订理由、真实审核及 history 映射。所有范围按原文 Unicode 码点 `[start,end)`；不得用繁简转换覆盖底文。修改身份目录时用 `content:catalog` 派生 manifest，不借排序重分配已有身份。
+真实底文更正保留原 ID 和旧 version、sourceText、修订理由、真实审核及 history 映射。自动收录的书同样适用：`check:content` 把带更正的段落还原成 sourceText 再与固定来源比对，缺修订理由、审核人、审核日期或旧版本的 history 记录时拒绝。同一段已有的拼音标注要改指新 version，对应 token 的原字一并更正。所有范围按原文 Unicode 码点 `[start,end)`；不得用繁简转换覆盖底文。修改身份目录时用 `content:catalog` 派生 manifest，不借排序重分配已有身份。
 
 ## 定点拼音写入
 

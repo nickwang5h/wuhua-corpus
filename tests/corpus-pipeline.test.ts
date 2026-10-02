@@ -1,8 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {normalizeHtml,residue} from '../scripts/corpus-normalize.js';
-import {childTitles,type Plan} from '../scripts/corpus-sources.js';
-import {convertUnits} from '../scripts/corpus.js';
+import {childTitles,digest,type Plan} from '../scripts/corpus-sources.js';
+import {convertUnits,asSourced} from '../scripts/corpus.js';
 import {validateBooks} from '../src/validate.js';
 test('HTML conversion preserves original glyphs, entities, tables and section identity, excludes site UI',()=>{
  const blocks=normalizeHtml('<div class="mw-parser-output"><div class="header-container">作者</div><table class="ws-header"><tr><td>◄ 目錄</td></tr></table><h2>學<span class="mw-editsection">[编辑]</span></h2><p>學而&nbsp;時習之。<sup class="reference">[1]</sup></p><table><tr><th>年</th><td>元年</td></tr></table><div class="licenseContainer">Creative Commons</div></div>');
@@ -46,4 +46,26 @@ test('a commentary work retains upstream zhushu as identified source commentary'
  const units=archiveJsonUnits(plan,{chapters:[{name:'章',paragraphs:[{type:2,paragraph:'經文。',zhushu:'上游所載集注。'}]}]});
  assert.equal(units[0].blocks[1].text,'上游所載集注。');assert.equal(units[0].blocks[1].role,'source-commentary');
  const book=convertUnits({id:'test',title:plan.rootTitle},plan,units);assert.equal(book.chapters[0].paragraphs[1].role,'source-commentary');
+});
+
+test('a reviewed correction is compared with its source as the uncorrected text, and needs provenance',()=>{
+ const p:Plan={work:'example',provider:'zhwikisource',rootTitle:'例',pages:[],metadata:{},warnings:[]};
+ const sourced=convertUnits({id:'example',title:'例'},p,[{identity:'12',title:'甲',source:'https://zh.wikisource.org/w/index.php?oldid=123',path:[],blocks:[{text:'虎不知獸畏已而走也。',headingPath:[]}]}]);
+ const original=sourced.chapters[0].paragraphs[0];
+ const text='虎不知獸畏己而走也。';const version=`sha256:${digest(text)}`;
+ const review={status:'reviewed' as const,author:'A',reviewer:'B',reviewedAt:'2026-10-01',textVersion:version};
+ const corrected=structuredClone(sourced);
+ corrected.chapters[0].paragraphs[0]={id:original.id,version,text,sourceText:original.text,correction:{reason:'已 for 己',review},aliases:[]};
+ const records=[{id:original.id,version:original.version,text:original.text,title:'甲',source:'https://zh.wikisource.org/w/index.php?oldid=123'}];
+ // The corrected book restores to exactly what the source produced.
+ assert.equal(JSON.stringify(asSourced(corrected,records)),JSON.stringify(sourced));
+ assert.equal(JSON.stringify(asSourced(sourced,[])),JSON.stringify(sourced));
+ // Without retained history, a reviewer, or a matching text version, the correction is refused.
+ assert.throws(()=>asSourced(corrected,[]),/Correction needs reviewed provenance/);
+ for(const change of [{reviewer:undefined},{status:'draft' as const},{textVersion:original.version}]){
+  const bad=structuredClone(corrected);bad.chapters[0].paragraphs[0].correction!.review={...review,...change} as never;
+  assert.throws(()=>asSourced(bad,records),/Correction needs reviewed provenance/);
+ }
+ const silent=structuredClone(sourced);silent.chapters[0].paragraphs[0]={...original,version,text};
+ assert.notEqual(JSON.stringify(asSourced(silent,records)),JSON.stringify(sourced));
 });
