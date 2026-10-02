@@ -15945,7 +15945,7 @@
     {
         "id": "p-mozi-03fa0d78f8ae369c-0001-pinyin-217-250",
         "target": "p-mozi-03fa0d78f8ae369c-0001",
-        "version": "sha256:d4d9bb59d1f4bbc6c593348512536d82949d9f6376971c6398fac0b99faa5ef9",
+        "version": "sha256:27da789d650854abd6c24e6f4af3b48696cf5418bc8fa26a462535f07f8df340",
         "kind": "pinyin",
         "start": 217,
         "end": 250,
@@ -16061,8 +16061,8 @@
             {
                 "start": 239,
                 "end": 240,
-                "text": "何",
-                "pinyin": "hé"
+                "text": "可",
+                "pinyin": "kě"
             },
             {
                 "start": 240,
@@ -16122,7 +16122,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:d4d9bb59d1f4bbc6c593348512536d82949d9f6376971c6398fac0b99faa5ef9"
+            "textVersion": "sha256:27da789d650854abd6c24e6f4af3b48696cf5418bc8fa26a462535f07f8df340"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -19797,7 +19797,7 @@
     {
         "id": "p-hanfeizi-a4f48904aebaec39-0051-pinyin-67-99",
         "target": "p-hanfeizi-a4f48904aebaec39-0051",
-        "version": "sha256:6906df48ad31b8c7d2daf4f21e8ef0536c5f26a5a86e38b6c7a07bab19d51bc6",
+        "version": "sha256:545b5b9586b417db2122e986cbb94225ae7e8573e12f26d404e491f86b95e82c",
         "kind": "pinyin",
         "start": 67,
         "end": 99,
@@ -19913,8 +19913,8 @@
             {
                 "start": 88,
                 "end": 89,
-                "text": "令",
-                "pinyin": "lìng"
+                "text": "今",
+                "pinyin": "jīn"
             },
             {
                 "start": 89,
@@ -19968,7 +19968,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:6906df48ad31b8c7d2daf4f21e8ef0536c5f26a5a86e38b6c7a07bab19d51bc6"
+            "textVersion": "sha256:545b5b9586b417db2122e986cbb94225ae7e8573e12f26d404e491f86b95e82c"
         },
         "rights": {
             "author": "Codex (AI)",
