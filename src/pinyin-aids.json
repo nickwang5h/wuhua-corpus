@@ -15459,7 +15459,7 @@
                 "start": 496,
                 "end": 497,
                 "text": "盤",
-                "pinyin": "pán"
+                "pinyin": "bān"
             },
             {
                 "start": 497,
@@ -15555,7 +15555,7 @@
                 "start": 514,
                 "end": 515,
                 "text": "盤",
-                "pinyin": "pán"
+                "pinyin": "bān"
             },
             {
                 "start": 515,
@@ -15639,7 +15639,7 @@
             "author": "Codex (AI)",
             "license": "unreleased editorial draft",
             "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E5%A2%A8%E5%AD%90.json",
-            "note": "已按整句及相邻语境进行AI草稿核对：墨子·公输：墨子守城。核对多音、稀字、异体及轻声：解@484=jiě：解开带子义；帶@485=dài：原文帶为带的繁体字；按本句词义保留普通话dài；保留原字帶，生成器归一化字为带；爲@486=wéi：解带为城，把带子当作城，读wéi；保留原字爲，生成器归一化字为为；牒@490=dié：用以模拟器械的木片，读dié；爲@491=wéi：以牒为械，把木片当作器械，读wéi；保留原字爲，生成器归一化字为为；輸@495=shū：原文輸为输的繁体字；按本句词义保留普通话shū；保留原字輸，生成器归一化字为输；盤@496=pán：原文盤为盘的繁体字；按本句词义保留普通话pán；保留原字盤，生成器归一化字为盘；設@498=shè：原文設为设的繁体字；按本句词义保留普通话shè；保留原字設，生成器归一化字为设；機@502=jī：原文機为机的繁体字；按本句词义保留普通话jī；保留原字機，生成器归一化字为机；變@503=biàn：原文變为变的繁体字；按本句词义保留普通话biàn；保留原字變，生成器归一化字为变；距@509=jù：拒御、抵挡义，通拒；仍读jù；輸@513=shū：原文輸为输的繁体字；按本句词义保留普通话shū；保留原字輸，生成器归一化字为输；盤@514=pán：原文盤为盘的繁体字；按本句词义保留普通话pán；保留原字盤，生成器归一化字为盘；盡@518=jìn：穷尽、用完义；保留原字盡，生成器归一化字为尽；圉@525=yǔ：防御义，通御；保留原字读yǔ；有@526=yǒu：存在、拥有义；餘@527=yú：原文餘为余的繁体字；按本句词义保留普通话yú；保留原字餘，生成器归一化字为余。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://www.zdic.net/hans/圉；https://www.zdic.net/hans/牒；https://zdic.net/hans/為。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+            "note": "已按整句及相邻语境进行AI草稿核对：墨子·公输：墨子守城。核对多音、稀字、异体及轻声：解@484=jiě：解开带子义；帶@485=dài：原文帶为带的繁体字；按本句词义保留普通话dài；保留原字帶，生成器归一化字为带；爲@486=wéi：解带为城，把带子当作城，读wéi；保留原字爲，生成器归一化字为为；牒@490=dié：用以模拟器械的木片，读dié；爲@491=wéi：以牒为械，把木片当作器械，读wéi；保留原字爲，生成器归一化字为为；輸@495=shū：原文輸为输的繁体字；按本句词义保留普通话shū；保留原字輸，生成器归一化字为输；盤@496=pán：原文盤为盘的繁体字；按本句词义保留普通话pán；保留原字盤，生成器归一化字为盘；設@498=shè：原文設为设的繁体字；按本句词义保留普通话shè；保留原字設，生成器归一化字为设；機@502=jī：原文機为机的繁体字；按本句词义保留普通话jī；保留原字機，生成器归一化字为机；變@503=biàn：原文變为变的繁体字；按本句词义保留普通话biàn；保留原字變，生成器归一化字为变；距@509=jù：拒御、抵挡义，通拒；仍读jù；輸@513=shū：原文輸为输的繁体字；按本句词义保留普通话shū；保留原字輸，生成器归一化字为输；盤@514=pán：原文盤为盘的繁体字；按本句词义保留普通话pán；保留原字盤，生成器归一化字为盘；盡@518=jìn：穷尽、用完义；保留原字盡，生成器归一化字为尽；圉@525=yǔ：防御义，通御；保留原字读yǔ；有@526=yǒu：存在、拥有义；餘@527=yú：原文餘为余的繁体字；按本句词义保留普通话yú；保留原字餘，生成器归一化字为余。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://www.zdic.net/hans/圉；https://www.zdic.net/hans/牒；https://zdic.net/hans/為。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending. 2026-10-06 audit: 盤 in the name 公輸盤 stands for 般/班 and is read bān, as in school editions of 公输."
         }
     },
     {
@@ -17367,7 +17367,7 @@
                 "start": 35,
                 "end": 36,
                 "text": "教",
-                "pinyin": "jiào"
+                "pinyin": "jiāo"
             },
             {
                 "start": 36,
@@ -17547,7 +17547,7 @@
             "author": "Codex (AI)",
             "license": "unreleased editorial draft",
             "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
-            "note": "已按整句及相邻语境进行AI草稿核对：礼记·学记：教学相长。核对多音、稀字、异体及轻声：知@31=zhī：知道、认识或知识义；不@32=bù：否定副词，字典调，不记语流变调；教@35=jiào：教然后知困，教育、教导义，按汉典教字训诲义取jiào；非现代课堂口语教课的jiāo；知@38=zhī：知道、认识或知识义；知@41=zhī：知道、认识或知识义；不@42=bù：否定副词，字典调，不记语流变调；能@47=néng：能力或能够义；知@52=zhī：知道、认识或知识义；能@57=néng：能力或能够义；强@59=qiáng：自强，奋发自勉；汉典自强词条引本句，取qiáng；教@66=jiào：教学相长按现代普通话词典词条jiào xué xiāng zhǎng；长遵用用户确认zhǎng；相@68=xiāng：相互义；长@69=zhǎng：增长、长进义。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://zdic.net/hans/教；https://zdic.net/hans/教学相长；https://zdic.net/hans/自强。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+            "note": "已按整句及相邻语境进行AI草稿核对：礼记·学记：教学相长。核对多音、稀字、异体及轻声：知@31=zhī：知道、认识或知识义；不@32=bù：否定副词，字典调，不记语流变调；教@35=jiào：教然后知困，教育、教导义，按汉典教字训诲义取jiào；非现代课堂口语教课的jiāo；知@38=zhī：知道、认识或知识义；知@41=zhī：知道、认识或知识义；不@42=bù：否定副词，字典调，不记语流变调；能@47=néng：能力或能够义；知@52=zhī：知道、认识或知识义；能@57=néng：能力或能够义；强@59=qiáng：自强，奋发自勉；汉典自强词条引本句，取qiáng；教@66=jiào：教学相长按现代普通话词典词条jiào xué xiāng zhǎng；长遵用用户确认zhǎng；相@68=xiāng：相互义；长@69=zhǎng：增长、长进义。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://zdic.net/hans/教；https://zdic.net/hans/教学相长；https://zdic.net/hans/自强。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending. 2026-10-06 audit: 教 in 教然后知困 is the verb \"to teach\", read jiāo."
         }
     },
     {
