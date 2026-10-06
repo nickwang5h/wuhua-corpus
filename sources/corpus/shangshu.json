@@ -26,11 +26,417 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "1d3e35683f5c6150789379eae4142515c65691bad841e9eecfac90bfe0f14c14",
+  "normalizedSha256": "4edc0d395c5115f39a61e42585d2022bea40a2b5be2ecd5a55c6b3991d318888",
   "stats": {
     "chapters": 57,
     "paragraphs": 460,
     "characters": 35027,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "1d3e35683f5c6150789379eae4142515c65691bad841e9eecfac90bfe0f14c14",
+    "chapters": [
+      {
+        "id": "chapter-shangshu-8531dc10fe15ae0d",
+        "number": 1,
+        "title": "虞书 尧典第一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-69a32030248b7f46",
+        "number": 2,
+        "title": "虞书 舜典第二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-ed9b7dd9bc2d22ca",
+        "number": 3,
+        "title": "虞书 大禹谟第三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-ae43f56be9cec579",
+        "number": 4,
+        "title": "虞书 皋陶谟第四",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-b75dab78ac624147",
+        "number": 5,
+        "title": "夏书 甘誓第二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-fd319a202fb431da",
+        "number": 6,
+        "title": "夏书 五子之歌第三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-9df89a1a35f26275",
+        "number": 7,
+        "title": "商书 汤誓第一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-69ac382c49500f40",
+        "number": 8,
+        "title": "商书 仲虺之诰第二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-99c84aef253eeb50",
+        "number": 9,
+        "title": "商书 汤诰第三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-d8d3703a0cae1e1a",
+        "number": 10,
+        "title": "商书 伊训第四",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-fdb1b06ff8f62b64",
+        "number": 11,
+        "title": "商书 太甲上第五",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-0be323c275525fe0",
+        "number": 12,
+        "title": "商书 太甲中第六",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-0fd88ba474015b81",
+        "number": 13,
+        "title": "商书 太甲下第七",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-a00a04512c3a3207",
+        "number": 14,
+        "title": "商书 咸有一德第八",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-43ee5b19350f15ba",
+        "number": 15,
+        "title": "商书 盘庚上第九",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-cc75bbf930c9215c",
+        "number": 16,
+        "title": "商书 盘庚中第十",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-4fb9a836b7070d84",
+        "number": 17,
+        "title": "商书 盘庚下第十一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-fc054262b594f355",
+        "number": 18,
+        "title": "商书 说命上第十二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-0fd9d79ae14f8723",
+        "number": 19,
+        "title": "商书 说命中第十三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-3ca83da162803229",
+        "number": 20,
+        "title": "商书 说命下第十四",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-a9cae9aef716c6b2",
+        "number": 21,
+        "title": "商书 高宗肜日第十五",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-d3c96fce06f0b676",
+        "number": 22,
+        "title": "商书 西伯戡黎第十六",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-388a30e9721b201a",
+        "number": 23,
+        "title": "商书 微子第十七",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-ece3f547401719f3",
+        "number": 24,
+        "title": "周书 泰誓上第一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-07609116cb2128f1",
+        "number": 25,
+        "title": "周书 泰誓中第二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-bcb616477adcec11",
+        "number": 26,
+        "title": "周书 泰誓下第三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-22232211b74a46f5",
+        "number": 27,
+        "title": "周书 牧誓第四",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-456b76f8abf55114",
+        "number": 28,
+        "title": "周书 武成第五",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-c1912a1614f18ba8",
+        "number": 29,
+        "title": "周书 洪范第六",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-349c74728f6462aa",
+        "number": 30,
+        "title": "周书 旅獒第七",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-97ede396cee74fff",
+        "number": 31,
+        "title": "周书 金滕第八",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-6f271e7e2d4bcc5c",
+        "number": 32,
+        "title": "周书 大诰第九",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-62280e95816ffa13",
+        "number": 33,
+        "title": "周书 微子之命第十",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-a0ac768c564ed1f2",
+        "number": 34,
+        "title": "周书 康诰第十一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-0ee81d505e2503d8",
+        "number": 35,
+        "title": "周书 酒诰第十二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-418f49380a7a8d91",
+        "number": 36,
+        "title": "周书 梓材第十三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-3193df6bba2999e1",
+        "number": 37,
+        "title": "周书 召诰第十四",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-3b60a6c06030f177",
+        "number": 38,
+        "title": "周书 洛诰第十五",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-3409908d0fb29be9",
+        "number": 39,
+        "title": "周书 多士第十六",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-8516aa4d3a76b035",
+        "number": 40,
+        "title": "周书 无逸第十七",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-10becc54b93eb378",
+        "number": 41,
+        "title": "周书 君奭第十八",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-e0380c8eb6ff1e1b",
+        "number": 42,
+        "title": "周书 蔡仲之命第十九",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-2a93a32227fd17d0",
+        "number": 43,
+        "title": "周书 多方第二十",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-d2fc84aa49410d4c",
+        "number": 44,
+        "title": "周书 立政第二十一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-62e7aa1668d844a1",
+        "number": 45,
+        "title": "周书 周官第二十二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-98c0ffbeed61a1bd",
+        "number": 46,
+        "title": "周书 君陈第二十三",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-55584c37f4c2f2f3",
+        "number": 47,
+        "title": "周书 顾命第二十四",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-0b34148b4838297e",
+        "number": 48,
+        "title": "周书 康王之诰第二十五",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-1bba427807221f8f",
+        "number": 49,
+        "title": "周书 毕命第二十六",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-b628a52d83f14fd6",
+        "number": 50,
+        "title": "周书 君牙第二十七",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-8a6445fa932ac808",
+        "number": 51,
+        "title": "周书 冏命第二十八",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-fa1e08ce5c1cbbaa",
+        "number": 52,
+        "title": "周书 吕刑第二十九",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-dfa574d55c89c074",
+        "number": 53,
+        "title": "周书 文侯之命第三十",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-faddda69da7269d0",
+        "number": 54,
+        "title": "周书 费誓第三十一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-23be800f8c5f6d34",
+        "number": 55,
+        "title": "周书 秦誓第三十二",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-ad7bd8af95cc0820",
+        "number": 56,
+        "title": "虞书 益稷第五",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangshu-d2e650ffa1619caa",
+        "number": 57,
+        "title": "夏书 禹贡第一",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
+        "kind": "chapter"
+      }
+    ]
   }
 }

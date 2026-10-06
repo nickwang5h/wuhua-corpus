@@ -26,13 +26,25 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "0dc954d12201db27e6560973242d65f70189ccbe6913ee94b60782d095f71cbf",
+  "normalizedSha256": "35ca2185c8d3705ece38368fbb8ab9c21167909a28afc599d337d6abe0bdd41a",
   "stats": {
-    "chapters": 1,
+    "chapters": 3,
     "paragraphs": 109,
     "characters": 20372,
     "emptyChapters": 0,
     "images": 0,
     "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "0dc954d12201db27e6560973242d65f70189ccbe6913ee94b60782d095f71cbf",
+    "chapters": [
+      {
+        "id": "chapter-linjilu-91d3a837afc7c169",
+        "number": 1,
+        "title": "鎮州臨濟慧照禪師語錄",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2601664",
+        "kind": "work"
+      }
+    ]
   }
 }

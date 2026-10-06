@@ -15,7 +15,55 @@
   "metadata": {},
   "warnings": [
     "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
-    "source-missing-glyph: 水滸傳"
+    "short-unit: 水滸傳",
+    "source-missing-glyph: 第一回 张天师祈禳瘟疫 洪太尉误走妖魔",
+    "source-missing-glyph: 第二回 王教头私走延安府 九纹龙大闹史家村",
+    "source-missing-glyph: 第三回 史大郎夜走华阴县 鲁提辖拳打镇关西",
+    "source-missing-glyph: 第四回 赵员外重修文殊院 鲁智深大闹五台山",
+    "source-missing-glyph: 第六回 九纹龙剪径赤松林 鲁智深火烧瓦罐寺",
+    "source-missing-glyph: 第九回 柴进门招天下客 林冲棒打洪教头",
+    "source-missing-glyph: 第十回 林教头风雪山神庙 陆虞候火烧草料场",
+    "source-missing-glyph: 第十二回 梁山泊林冲落草 汴京城杨志卖刀",
+    "source-missing-glyph: 第十七回 花和尚单打二龙山 青面兽双夺宝珠寺",
+    "source-missing-glyph: 第十八回 美髯公智稳插翅虎 宋公明私放晁天王",
+    "source-missing-glyph: 第十九回 林冲水寨大并火 晁盖梁山小夺泊",
+    "source-missing-glyph: 第二十回 梁山泊义士尊晁盖 郓城县月夜走刘唐",
+    "source-missing-glyph: 第二十三回 横海郡柴进留宾 景阳冈武松打虎",
+    "source-missing-glyph: 第二十五回 王婆计啜西门庆 淫妇药鸩武大郎",
+    "source-missing-glyph: 第二十八回 武松威镇安平寨 施恩义夺快活林",
+    "source-missing-glyph: 第三十五回 石将军村店寄书 小李广梁山射雁",
+    "source-missing-glyph: 第三十七回 没遮拦追赶及时雨 船火儿夜闹浔阳江",
+    "source-missing-glyph: 第三十八回 及时雨会神行太保 黑旋风斗浪里白跳",
+    "source-missing-glyph: 第三十九回 浔阳楼宋江吟反诗 梁山泊戴宗传假信",
+    "source-missing-glyph: 第四十回 梁山泊好汉劫法场 白龙庙英雄小聚义",
+    "source-missing-glyph: 第四十三回 假李逵剪径劫单人 黑旋风沂岭杀四虎",
+    "source-missing-glyph: 第四十四回 锦豹子小径逢戴宗 病关索长街遇石秀",
+    "source-missing-glyph: 第四十五回 杨雄醉骂潘巧云 石秀智杀裴如海",
+    "source-missing-glyph: 第四十六回 病关索大闹翠屏山 拚命三火烧祝家庄",
+    "source-missing-glyph: 第四十九回 解珍解宝双越狱 孙立孙新大劫牢",
+    "source-missing-glyph: 第五十四回 入云龙斗法破高廉 黑旋风探穴救柴进",
+    "source-missing-glyph: 第六十二回 放冷箭燕青救主 劫法场石秀跳楼",
+    "source-missing-glyph: 第六十五回 托塔天王梦中显圣 浪里白跳水上报冤",
+    "source-missing-glyph: 第六十七回 宋江赏马步三军 关胜降水火二将",
+    "source-missing-glyph: 第七十回 没羽箭飞石打英雄 宋公明弃粮擒壮士",
+    "source-missing-glyph: 第七十二回 柴进簪花入禁院 李逵元夜闹东京",
+    "source-missing-glyph: 第七十六回 吴加亮布四斗五方旗 宋公明排九宫八卦阵",
+    "source-missing-glyph: 第七十七回 梁山泊十面埋伏 宋公明两赢童贯",
+    "source-missing-glyph: 第八十回 张顺凿漏海鳅船 宋江三败高太尉",
+    "source-missing-glyph: 第八十一回 燕青月夜遇道君 戴宗定计出乐和",
+    "source-missing-glyph: 第八十二回 梁山泊分金大买市 宋公明全伙受招安",
+    "source-missing-glyph: 第八十五回 宋公明夜度益津关 吴学究智取文安县",
+    "source-missing-glyph: 第八十七回 宋公明大战幽州 呼延灼力擒番将",
+    "source-missing-glyph: 第八十八回 颜统军阵列混天象 宋公明梦授玄女法",
+    "source-missing-glyph: 第八十九回 宋公明破阵成功 宿太尉颁恩降诏",
+    "source-missing-glyph: 第九十二回 振军威小李广神箭 打盖郡智多星密筹",
+    "source-missing-glyph: 第一百零五回 宋公明避暑疗军兵 乔道清回风烧贼寇",
+    "source-missing-glyph: 第一百零七回 宋江大胜纪山军 朱武打破六花阵",
+    "source-missing-glyph: 第一百零八回 乔道清兴雾取城 小旋风藏炮击贼",
+    "source-missing-glyph: 第一百一十一回 张顺夜伏金山寺 宋江智取润州城",
+    "source-missing-glyph: 第一百一十三回 混江龙太湖小结义 宋公明苏州大会垓",
+    "source-missing-glyph: 第一百一十四回 宁海军宋江吊孝 涌金门张顺归神",
+    "source-missing-glyph: 第一百一十九回 鲁智深浙江坐化 宋公明衣锦还乡"
   ],
   "normalizer": "wuhua-html-v1",
   "license": {
@@ -23,13 +71,25 @@
     "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
     "attribution": "daizhige"
   },
-  "normalizedSha256": "cc9c4ef19b5a30063f28218faace0ad9b5ffd4d0d6636cbe57afd7a0f3e07ff4",
+  "normalizedSha256": "42f567fb9057cb949f9f5ef5713444e0412b9dcb9b3dfd74fa1d5d69e8cce34a",
   "stats": {
-    "chapters": 1,
+    "chapters": 120,
     "paragraphs": 4992,
     "characters": 922951,
     "emptyChapters": 0,
     "images": 0,
     "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "cc9c4ef19b5a30063f28218faace0ad9b5ffd4d0d6636cbe57afd7a0f3e07ff4",
+    "chapters": [
+      {
+        "id": "chapter-shuihuzhuan-013d1ca7547c61a2",
+        "number": 1,
+        "title": "水滸傳",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+        "kind": "work"
+      }
+    ]
   }
 }

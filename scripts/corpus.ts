@@ -3,7 +3,8 @@ import {pathToFileURL} from 'node:url';
 import {adapters as primaryAdapters,digest,jsonFile,save,root,type Target,type Override,type Plan,type Unit} from './corpus-sources.js';
 import {verifyImage} from './corpus-images.js';
 import {residue,volumeNumber} from './corpus-normalize.js';
-import {validateBooks} from '../src/validate.js';
+import {validateBooks,validateHistory} from '../src/validate.js';
+import {applyStructure,retainWithdrawals,structureInput,restoreStructureInput,type Structure,type History} from './corpus-structure.js';
 import type {TextBook,Chapter} from '../src/types.js';
 import {ArchiveSource} from './corpus-archive.js';
 const adapters={...primaryAdapters,guopop:new ArchiveSource('guopop'),daizhige:new ArchiveSource('daizhige'),nk2028:new ArchiveSource('nk2028')};
@@ -37,17 +38,24 @@ export async function checkCorpus(){
  const targets=await jsonFile<Target[]>('corpus/targets.json');
  const books:TextBook[]=[];
  const navigation=await jsonFile<any[]>('src/manifest.json');
- const history=await jsonFile<{records:{id:string;version:string}[]}>('src/history.json');
+ const history=await jsonFile<History>('src/history.json');
+ const structure=await jsonFile<Structure>('corpus/structure.json');
  for(const t of targets){let book:TextBook;try{book=await jsonFile<TextBook>(`src/books/${t.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code==='ENOENT')continue;throw e;}
   const source=await jsonFile<any>(`sources/corpus/${t.id}.json`);
   if(JSON.stringify(navigation.find(b=>b.id===t.id)?.chapters)!==JSON.stringify(book.chapters.map(({id,number,title,source})=>({id,number,title,source}))))throw new Error(`Stale navigation ${t.id}`);
   if(source.work!==book.id||source.normalizedSha256!==digest(JSON.stringify(asSourced(book,history.records))))throw new Error(`Canonical/source mismatch: ${t.id}`);
+  if(structure[t.id]){
+   if(!source.structureInput)throw new Error(`Missing pre-edit layout: ${t.id}`);
+   const rebuilt=applyStructure(restoreStructureInput(asSourced(book,history.records),source.structureInput,structure,history),structure);
+   if(JSON.stringify(rebuilt.book)!==JSON.stringify(asSourced(book,history.records)))throw new Error(`Stale structure: ${t.id}`);
+   if(JSON.stringify(retainWithdrawals(history,rebuilt.withdrawn))!==JSON.stringify(history))throw new Error(`Missing withdrawal history: ${t.id}`);
+  }
   if(!source.pages?.length||source.pages.some((p:any)=>!p.revision||!p.timestamp||!p.fetchedAt))throw new Error(`Missing provenance ${t.id}`);
   const allowed=new Set(source.pages.map((p:any)=>p.source));
   for(const c of book.chapters){if(!allowed.has(c.source)||(!c.paragraphs.length&&!c.images?.length))throw new Error(`Invalid body source ${c.id}`);for(const im of c.images??[]){if(!source.pages.some((p:any)=>p.images?.some((x:any)=>JSON.stringify(x)===JSON.stringify(im))))throw new Error(`Image provenance mismatch ${im.id}`);await verifyImage(im);}for(const p of c.paragraphs){if(p.version!==`sha256:${digest(p.text)}`)throw new Error(`Text version mismatch ${p.id}`);if(residue(p.text).some(w=>w!=='source-missing-glyph'))throw new Error(`Contamination ${p.id}`);}}
   books.push(book);
  }
- validateBooks(books);return books;
+ validateBooks(books);validateHistory(history.records,history.transitions,books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));return books;
 }
 async function catalog(){
  const names=(await readdir(new URL('src/books/',root))).filter(n=>/^[a-z0-9-]+\.json$/.test(n));
@@ -58,16 +66,24 @@ async function catalog(){
 async function build(target:Target,plan:Plan,override:Override){
  const units=await adapters[plan.provider].build(plan);
  if(override.expectedUnits!==undefined&&units.length!==override.expectedUnits)throw new Error(`Expected ${override.expectedUnits} units, found ${units.length}`);
- const book=convertUnits(target,plan,units);const warnings=plan.warnings.filter(w=>!/^(?:source-missing-glyph|short-unit|volume-number-gap):/.test(w));
+ const original=convertUnits(target,plan,units);
+ const structure=await jsonFile<Structure>('corpus/structure.json');
+ const {book,withdrawn}=applyStructure(original,structure);const warnings=plan.warnings.filter(w=>!/^(?:source-missing-glyph|short-unit|volume-number-gap):/.test(w));
  for(const c of book.chapters){const text=c.paragraphs.map(p=>p.text).join('');for(const w of residue(text)){if(w!=='source-missing-glyph')throw new Error(`${w}: ${c.title}`);warnings.push(`${w}: ${c.title}`);}if(c.paragraphs.length&&text.length<30)warnings.push(`short-unit: ${c.title}`);}
  const volumes=[...new Set(book.chapters.map(c=>volumeNumber(c.title)).filter((n):n is number=>n!==undefined))];
  if(volumes.length>1&&Math.max(...volumes)<1500){const missing=Array.from({length:Math.max(...volumes)},(_,i)=>i+1).filter(n=>!volumes.includes(n));if(missing.length)warnings.push(`volume-number-gap: ${missing.join(', ')} (text may be present without headings; check upstream structure)`);}
  const stats=metrics(book);if(stats.characters<100&&!stats.images)throw new Error('Suspiciously short work / possible index');
- const source={...plan,normalizer:'wuhua-html-v1',license:plan.provider==='zhwikisource'?{name:'Wikisource contributor terms; underlying work rights retained upstream',url:'https://zh.wikisource.org/wiki/Wikisource:版權信息',attribution:'中文維基文庫貢獻者'}:{name:plan.provider==='gujilab'?'CC0-1.0 (upstream dataset declaration)':'Unverified; upstream repository terms recorded for later review',url:plan.provider==='gujilab'?`https://github.com/gujilab/chinese-classical-corpus/blob/${plan.pages[0].revision}/LICENSE`:plan.pages[0].source,attribution:plan.provider},warnings:[...new Set(warnings)],normalizedSha256:digest(JSON.stringify(book)),stats};
+ const source={...plan,normalizer:'wuhua-html-v1',...(structure[target.id]?{structureInput:structureInput(original,structure)}:{}),license:plan.provider==='zhwikisource'?{name:'Wikisource contributor terms; underlying work rights retained upstream',url:'https://zh.wikisource.org/wiki/Wikisource:版權信息',attribution:'中文維基文庫貢獻者'}:{name:plan.provider==='gujilab'?'CC0-1.0 (upstream dataset declaration)':'Unverified; upstream repository terms recorded for later review',url:plan.provider==='gujilab'?`https://github.com/gujilab/chinese-classical-corpus/blob/${plan.pages[0].revision}/LICENSE`:plan.pages[0].source,attribution:plan.provider},warnings:[...new Set(warnings)],normalizedSha256:digest(JSON.stringify(book)),stats};
  // Never silently revise previously ingested text: changed candidates remain in cache.
  let previous:TextBook|undefined;try{previous=await jsonFile<TextBook>(`src/books/${target.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
- if(previous&&JSON.stringify(previous)!==JSON.stringify(book)){await save(`.cache/wuhua-corpus/candidates/${target.id}.json`,book);throw new Error('Canonical changed; candidate saved. Explicit revision/history required.');}
- await save(`src/books/${target.id}.json`,book);await save(`sources/corpus/${target.id}.json`,source);
+ const history=await jsonFile<History>('src/history.json');
+ // Only an explicit structure edit may replace the exact pinned, unedited book.
+ const structuralUpdate=structure[target.id]?.length&&previous&&JSON.stringify(previous)===JSON.stringify(original);
+ if(previous&&JSON.stringify(asSourced(previous,history.records))!==JSON.stringify(book)&&!structuralUpdate){await save(`.cache/wuhua-corpus/candidates/${target.id}.json`,book);throw new Error('Canonical changed; candidate saved. Explicit revision/history required.');}
+ const retained=retainWithdrawals(history,withdrawn);
+ validateHistory(withdrawn.records,withdrawn.transitions,book.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source}))));
+ if(JSON.stringify(retained)!==JSON.stringify(history))await save('src/history.json',retained);
+ await save(`src/books/${target.id}.json`,previous&&!structuralUpdate?previous:book);await save(`sources/corpus/${target.id}.json`,source);
  return {id:target.id,title:target.title,priority:target.priority??'P1',status:'resolved',provider:plan.provider,...stats,warnings:source.warnings};
 }
 export async function report(){

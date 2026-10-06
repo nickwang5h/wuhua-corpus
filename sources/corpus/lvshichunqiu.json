@@ -314,11 +314,200 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "5fccaafd0c845d59484cf5a8f730fec7ff7973acd732a2561c32f6ee7d6d11f7",
+  "normalizedSha256": "72a6b9efacc9cd9737bfa38459541465230d2a7ddb76d64a0f0e948c27d3b427",
   "stats": {
     "chapters": 26,
     "paragraphs": 749,
     "characters": 131537,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "5fccaafd0c845d59484cf5a8f730fec7ff7973acd732a2561c32f6ee7d6d11f7",
+    "chapters": [
+      {
+        "id": "chapter-lvshichunqiu-c3e303dd89acdbeb",
+        "number": 1,
+        "title": "/孟春紀",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2178555",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-c5ca2019f844c3b8",
+        "number": 2,
+        "title": "/仲春紀",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2178553",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-528a943c18110231",
+        "number": 3,
+        "title": "卷三",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327713",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-2964475b3f33a3ef",
+        "number": 4,
+        "title": "卷四",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327726",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-98a0d3afaaea032c",
+        "number": 5,
+        "title": "卷五",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327715",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-847ebb95304f707a",
+        "number": 6,
+        "title": "卷六",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327717",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-bff93e42400e0941",
+        "number": 7,
+        "title": "卷七",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327712",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-9f16eefcccdc8911",
+        "number": 8,
+        "title": "卷八",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327716",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-8bc3930bc8e24a7f",
+        "number": 9,
+        "title": "卷九",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327714",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-c843dd8a018e7550",
+        "number": 10,
+        "title": "卷十",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327718",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-0d335e99191c7e5e",
+        "number": 11,
+        "title": "卷十一",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327719",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-5e2640799047311b",
+        "number": 12,
+        "title": "卷十二",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327721",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-465e032130649ef2",
+        "number": 13,
+        "title": "卷十三",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327720",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-02548d25fbb58f20",
+        "number": 14,
+        "title": "卷十四",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327725",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-4c63b095794fa810",
+        "number": 15,
+        "title": "卷十五",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327722",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-ebf943c31b76411e",
+        "number": 16,
+        "title": "卷十六",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327724",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-bcd0b6fcbf84783f",
+        "number": 17,
+        "title": "卷十七",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=392580",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-a791043c0ed010a5",
+        "number": 18,
+        "title": "卷十八",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2327723",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-4139d792a156a235",
+        "number": 19,
+        "title": "卷十九",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=394746",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-98aecad2c60107ad",
+        "number": 20,
+        "title": "卷二十",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=418909",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-f97c470a4182e0fc",
+        "number": 21,
+        "title": "卷二十一",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=418921",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-b247cdf6f5ad1bfb",
+        "number": 22,
+        "title": "卷二十二",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2497183",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-cb9589d302fe3790",
+        "number": 23,
+        "title": "卷二十三",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=418941",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-cb3beee56177f835",
+        "number": 24,
+        "title": "卷二十四",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1513826",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-3bfa23d6f7301c49",
+        "number": 25,
+        "title": "卷二十五",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=419010",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-lvshichunqiu-b743005dc782c308",
+        "number": 26,
+        "title": "卷二十六",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=416058",
+        "kind": "chapter"
+      }
+    ]
   }
 }

@@ -9,7 +9,7 @@
     {
       "id": "chapter-chuci-7154b36cff8a742a",
       "number": 1,
-      "title": "楚辭",
+      "title": "楚辞",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
       "kind": "work",
       "paragraphs": [
@@ -18,397 +18,991 @@
           "version": "sha256:f3450b6a6fe1d4bdb4d5714efffddf52a9a66dc86fe22a2d4e514a9dd841d752",
           "text": "楚辞",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-02",
+      "number": 2,
+      "title": "离骚",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0002",
           "version": "sha256:7e1a08faa08aaee040ce865c5d111cb5a1992712c7d382c2abf23a455b28282e",
           "text": "离骚",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-03",
+      "number": 3,
+      "title": "九歌 东皇太一",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0003",
           "version": "sha256:8d372a1e415775a9ca70dc822a96a79065c2308fce1bd1edba6a48e683d4f845",
           "text": "九歌 东皇太一",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-04",
+      "number": 4,
+      "title": "九歌 云中君",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0004",
           "version": "sha256:8a72fa5eff5eee1d78fd7f3e76e957abec8bb5a171994f996d02e4c6afafb72f",
           "text": "九歌 云中君",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-05",
+      "number": 5,
+      "title": "九歌 湘君",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0005",
           "version": "sha256:1cef5e55f05fd43c3891cd201d5cea4d14c6efab9a35bbda6d37deabdb22195f",
           "text": "九歌 湘君",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-06",
+      "number": 6,
+      "title": "九歌 湘夫人",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0006",
           "version": "sha256:7c8d693b6773c7831fb081040de200d1f18d72ca2385c3ea58c40f149abc07e4",
           "text": "九歌 湘夫人",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-07",
+      "number": 7,
+      "title": "九歌 大司命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0007",
           "version": "sha256:00ebee5eaec02e453f3025caa378b902e121f0dd5fb343730c5caf8ef64e2632",
           "text": "九歌 大司命",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-08",
+      "number": 8,
+      "title": "九歌 少司命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0008",
           "version": "sha256:de1033aaf4d2f693e7f03ca1822117df6691926d17adf5cb4036a06851f62ae5",
           "text": "九歌 少司命",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-09",
+      "number": 9,
+      "title": "九歌 东君",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0009",
           "version": "sha256:73d45424ba77716ce81645a072d150ea9a651e90740c9493e26a068ae33a0f55",
           "text": "九歌 东君",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-10",
+      "number": 10,
+      "title": "九歌 河伯",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0010",
           "version": "sha256:aa788e894adae23ca322255b4627f61c5daf368febc419c9791a22b57f1db4de",
           "text": "九歌 河伯",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-11",
+      "number": 11,
+      "title": "九歌 山鬼",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0011",
           "version": "sha256:3cb4b504f26d3db7807c9c5287d2778bb166ead834a51732f7411a0abd94a1fe",
           "text": "九歌 山鬼",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-12",
+      "number": 12,
+      "title": "九歌 国殇",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0012",
           "version": "sha256:dc9ed3f0ec0f8bcb7d4aaee86c9273dc7bd16283c118b54e08783aaeefe926a4",
           "text": "九歌 国殇",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-13",
+      "number": 13,
+      "title": "九歌 礼魂",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0013",
           "version": "sha256:fe0609f59848db7bf27824eda6b2dd155d437912adc14e9a76eac3fc4dcc140d",
           "text": "九歌 礼魂",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-14",
+      "number": 14,
+      "title": "天问",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0014",
           "version": "sha256:886f8513ae07166d9acdff350538ca455c08bd70fea78704319bd272217e7527",
           "text": "天问",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-15",
+      "number": 15,
+      "title": "九章 惜诵",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0015",
           "version": "sha256:1d61a6a6fcbc8c59a87b07c58b23e48a1f35f63b46e06ea752132843fb09aae7",
           "text": "九章 惜诵",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-16",
+      "number": 16,
+      "title": "九章 涉江",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0016",
           "version": "sha256:89e06d07f28f9c64558e20c3d9f8d32d15f100c3f3e188f012a24125efda50c6",
           "text": "九章 涉江",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-17",
+      "number": 17,
+      "title": "九章 哀郢",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0017",
           "version": "sha256:473a3e9030a2b4a0c2eda3b4a4f2fb16d9e489ec7be6540e4f5ecc70289c6992",
           "text": "九章 哀郢",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-18",
+      "number": 18,
+      "title": "九章 抽思",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0018",
           "version": "sha256:0aeded1c6572136bb24f28fa83faf5940e935dbcb0f8465c627ac2a88e297471",
           "text": "九章 抽思",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-19",
+      "number": 19,
+      "title": "九章 怀沙",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0019",
           "version": "sha256:c329faf669140f9a892583e6dddd7e820584033cc6f4048668b1c0c547deb5f4",
           "text": "九章 怀沙",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-20",
+      "number": 20,
+      "title": "九章 思美人",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0020",
           "version": "sha256:77e21f40ff7b9bbb539048b6414c122e0db07f9a2f19a4c826712f662ab9dbc8",
           "text": "九章 思美人",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-21",
+      "number": 21,
+      "title": "九章 惜往日",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0021",
           "version": "sha256:6e0eb514742158c3384982c7db11375d6c311ca7ce12a0d55d0e65884b33c150",
           "text": "九章 惜往日",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-22",
+      "number": 22,
+      "title": "九章 橘颂",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0022",
           "version": "sha256:c014a35905bd412fa267257ea90a3e7221fb72fe219a5b113ef1715bdd6cdfc2",
           "text": "九章 橘颂",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-23",
+      "number": 23,
+      "title": "九章 悲回风",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0023",
           "version": "sha256:959df8f64e1946b6309084f53c376840f46d9af19641bd83efaecc6e7d1a8b21",
           "text": "九章 悲回风",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-24",
+      "number": 24,
+      "title": "远游",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0024",
           "version": "sha256:e8b49728bedc97aecb9dec5f9fe570080aa8f25690d50e4b957774984601191a",
           "text": "远游",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-25",
+      "number": 25,
+      "title": "卜居",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0025",
           "version": "sha256:4a292e56ac3c9603f7966dda0e471b5bd01fb6f4bb593cddbe7d973100e00528",
           "text": "卜居",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-26",
+      "number": 26,
+      "title": "渔父",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0026",
           "version": "sha256:d80bd2ae06a5f9e0fb502134aa0088adf32c96c0583661a71d53eb6acd211e7f",
           "text": "渔父",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-27",
+      "number": 27,
+      "title": "九辩",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0027",
           "version": "sha256:865ad44cfc20d3e0821834f66a1f43c5915f691179db7292c7a44955bca5753e",
           "text": "九辩",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-28",
+      "number": 28,
+      "title": "招魂",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0028",
           "version": "sha256:d122cafe723fbbfaee67991b92e59e3cc64103f53daab6a695e43d378d7b0e99",
           "text": "招魂",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-29",
+      "number": 29,
+      "title": "大招",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0029",
           "version": "sha256:7c6bd561b35b744d474db9acf18e6e221681da9e8e855b8a9adc54d0970f9471",
           "text": "大招",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-30",
+      "number": 30,
+      "title": "惜誓",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0030",
           "version": "sha256:19786b408931092d714b9d26849cee78f789eaef423155e9bff0ba8af433d5d7",
           "text": "惜誓",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-31",
+      "number": 31,
+      "title": "招隐士",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0031",
           "version": "sha256:d77b2524b1e9d65be19a08e1088868b4d6fd7d38b54aa881a860236316e3dbea",
           "text": "招隐士",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-32",
+      "number": 32,
+      "title": "七谏 初放",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0032",
           "version": "sha256:01ab3d1b3172db7c4858fab6e8d7d4a9d4b3b7b7c563285c7796f12f1b7f8a45",
           "text": "七谏 初放",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-33",
+      "number": 33,
+      "title": "七谏 沉江",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0033",
           "version": "sha256:025987c08ab098cd50910678de57af20746f08fbac44798e46abe40098f21dfa",
           "text": "七谏 沉江",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-34",
+      "number": 34,
+      "title": "七谏 怨世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0034",
           "version": "sha256:6969a3bf602291b92aaa6c6ea61d9e2cf9d60375de8284a9a392056aa4150f5d",
           "text": "七谏 怨世",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-35",
+      "number": 35,
+      "title": "七谏 怨思",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0035",
           "version": "sha256:fc0e9448d56350be96605b67f173f024a356d951d403c8231bb9541b20c77f99",
           "text": "七谏 怨思",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-36",
+      "number": 36,
+      "title": "七谏 自悲",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0036",
           "version": "sha256:d61daee72d2156afa7a16672f2fdca92e9ce06d9b1ec942de419cb52919c29fe",
           "text": "七谏 自悲",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-37",
+      "number": 37,
+      "title": "七谏 哀命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0037",
           "version": "sha256:d11e966ef04bfa18037113b22c4a3a23e2a539c0a3c9cfbc2b640e3c9ab9094c",
           "text": "七谏 哀命",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-38",
+      "number": 38,
+      "title": "七谏 谬谏",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0038",
           "version": "sha256:4835525fa73b44eb6fcd2eb7c95e114010171c34f7a19915366963bae31461c4",
           "text": "七谏 谬谏",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-39",
+      "number": 39,
+      "title": "哀时命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0039",
           "version": "sha256:db05a6d72444e540f6394f7bc8b0b449cc6c594f29b89ddc6273e39725c5aa44",
           "text": "哀时命",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-40",
+      "number": 40,
+      "title": "九怀 匡机",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0040",
           "version": "sha256:8f8905b2ca95e683d277f7315e7f4f550d331358abe794a747f9ff9159fde78f",
           "text": "九怀 匡机",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-41",
+      "number": 41,
+      "title": "九怀 通路",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0041",
           "version": "sha256:39ae00231ee992523532997279da6dafa6b0fdf2a6c2ea5802464b2f96db6e19",
           "text": "九怀 通路",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-42",
+      "number": 42,
+      "title": "九怀 危俊",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0042",
           "version": "sha256:08e1c617ce9a9bfc69942b229c4114a1398a86a223baf4c41db80162613598f3",
           "text": "九怀 危俊",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-43",
+      "number": 43,
+      "title": "九怀 昭世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0043",
           "version": "sha256:077ec79310a9e59f7aa23501ae483c4b634fc6db109a2dfc78e2817e438a14ca",
           "text": "九怀 昭世",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-44",
+      "number": 44,
+      "title": "九怀 尊嘉",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0044",
           "version": "sha256:3410cdea012953a4fc3e0fc9d72fcc242b4dfbddb9d7d8912dac923895be2551",
           "text": "九怀 尊嘉",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-45",
+      "number": 45,
+      "title": "九怀 蓄英",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0045",
           "version": "sha256:16b8a79331a8e584354800163f56b459b5988739a6676737fe345e284406f3a5",
           "text": "九怀 蓄英",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-46",
+      "number": 46,
+      "title": "九怀 思忠",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0046",
           "version": "sha256:5d7e85e644a9d78fcfef3331eddcd92c04ab6d316d9612ba740908dc39fbc60b",
           "text": "九怀 思忠",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-47",
+      "number": 47,
+      "title": "九怀 陶壅",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0047",
           "version": "sha256:0a2c03463aa67e77ffd998d7040bab6bfc5290f2c680e5fdc8c2c7a94ab2d90d",
           "text": "九怀 陶壅",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-48",
+      "number": 48,
+      "title": "九怀 株昭",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0048",
           "version": "sha256:721cb31385f7d3c98a202ed4fde49a24fd14b899c7842c30cf0e8207fd7bd3ba",
           "text": "九怀 株昭",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-49",
+      "number": 49,
+      "title": "九叹 逢纷",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0049",
           "version": "sha256:40a7ab8a17d735fb9480ebd5707df634efb442349defe94a5e453a4c1e33656c",
           "text": "九叹 逢纷",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-50",
+      "number": 50,
+      "title": "九叹 离世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0050",
           "version": "sha256:49e77b8650edfd483f3116f233b425354dc300da32d3b6c145ecafdaab9071a5",
           "text": "九叹 离世",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-51",
+      "number": 51,
+      "title": "九叹 怨思",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0051",
           "version": "sha256:17001eb984c976f605e5f3a64c1182a9fd6de5873165fd3466e6bcb1f712853f",
           "text": "九叹 怨思",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-52",
+      "number": 52,
+      "title": "九叹 远逝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0052",
           "version": "sha256:7e31e8049d42fb198a04031663aeab35beebca3f8d33613901ff0165cd73fbc5",
           "text": "九叹 远逝",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-53",
+      "number": 53,
+      "title": "九叹 惜贤",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0053",
           "version": "sha256:634ec4b3911999359ac19fd214e419e4c3eee1f5ebf5a3f54a9ec8734ef9b0f7",
           "text": "九叹 惜贤",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-54",
+      "number": 54,
+      "title": "九叹 忧苦",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0054",
           "version": "sha256:aa4f2cc6a86c6f7ba53329533c9c1e309e5bf24e8c7383b3ea63f255ba70900b",
           "text": "九叹 忧苦",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-55",
+      "number": 55,
+      "title": "九叹 愍命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0055",
           "version": "sha256:a4ea6fff35345d38bca31bf5bb15d8486f092a4dae6958125f3e55217a5e43a2",
           "text": "九叹 愍命",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-56",
+      "number": 56,
+      "title": "九叹 思古",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0056",
           "version": "sha256:40e78ab034477e22c9bcc36a2aaa8d8ce281f6e7c4ba317f5e29bc22cd921bdc",
           "text": "九叹 思古",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-57",
+      "number": 57,
+      "title": "九叹 远游",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0057",
           "version": "sha256:5f4b4849ff220ce0bda50665517449adc495cecdb931addc4466c6a3f8862f43",
           "text": "九叹 远游",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-58",
+      "number": 58,
+      "title": "九思 逢尤",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0058",
           "version": "sha256:b046b0660a6a90e56013ae22881a09fc4ba31484600bb2372b29cfcb9f1b1d21",
           "text": "九思 逢尤",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-59",
+      "number": 59,
+      "title": "九思 怨上",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0059",
           "version": "sha256:df0bc5e09d67813dc7a496306d6ea1bd124f5c3c1427e15e0d057b46a8c01534",
           "text": "九思 怨上",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-60",
+      "number": 60,
+      "title": "九思 疾世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0060",
           "version": "sha256:9b51b9f716ce5606ace51ed32d7e1fef21ddf689e8e6ac8f64f414330be97340",
           "text": "九思 疾世",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-61",
+      "number": 61,
+      "title": "九思 悯上",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0061",
           "version": "sha256:75f0baf5dbadd9dfda75eaccb9f4598f3816d456909c1785accb4d14429d5e6d",
           "text": "九思 悯上",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-62",
+      "number": 62,
+      "title": "九思 遭厄",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0062",
           "version": "sha256:0c312bf33a912d5b16ab863b48543b3ca660c484de46d19c210b0be6962d4cd4",
           "text": "九思 遭厄",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-63",
+      "number": 63,
+      "title": "九思 悼乱",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0063",
           "version": "sha256:09227aa3dd04a9a7489687f69a694cda437b7b318966ac14d41a58be906af04c",
           "text": "九思 悼乱",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-64",
+      "number": 64,
+      "title": "九思 伤时",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0064",
           "version": "sha256:16d5b56bf3c424e5930449072d23f7f9e234957d38191b870d99349e700b2228",
           "text": "九思 伤时",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-65",
+      "number": 65,
+      "title": "九思 哀岁",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0065",
           "version": "sha256:44a6eb31bec747e7096b1ad4149f0f6f509877e6567972819d77987cc319c76f",
           "text": "九思 哀岁",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-66",
+      "number": 66,
+      "title": "九思 守志",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0066",
           "version": "sha256:f307c20d4c0f2aa79cf5dbd7f075b0957a4d301a4690d2e053f509994027ef2b",
           "text": "九思 守志",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-67",
+      "number": 67,
+      "title": "离骚",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0067",
           "version": "sha256:7e1a08faa08aaee040ce865c5d111cb5a1992712c7d382c2abf23a455b28282e",
@@ -1536,7 +2130,16 @@
           "version": "sha256:c17f49b7ba6ecf2ca218fed467f5e6a26e423b61fe557227af986d1852dd6f7b",
           "text": "既莫足与为美政兮，吾将从彭咸之所居！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-68",
+      "number": 68,
+      "title": "九歌 东皇太一",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0255",
           "version": "sha256:8d372a1e415775a9ca70dc822a96a79065c2308fce1bd1edba6a48e683d4f845",
@@ -1590,7 +2193,16 @@
           "version": "sha256:27a146ff4b9d31fc33604fcd1573c925b8c2985b4eef757972f9bdf189353c95",
           "text": "五音纷兮繁会，君欣欣兮乐康。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-69",
+      "number": 69,
+      "title": "九歌 云中君",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0264",
           "version": "sha256:8a72fa5eff5eee1d78fd7f3e76e957abec8bb5a171994f996d02e4c6afafb72f",
@@ -1644,7 +2256,16 @@
           "version": "sha256:764a6caed225af6adcb55980f8ba8257a4c06d54168327ad9a1a2754fea1e79a",
           "text": "思夫君兮太息，极劳心兮忡忡。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-70",
+      "number": 70,
+      "title": "九歌 湘君",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0273",
           "version": "sha256:1cef5e55f05fd43c3891cd201d5cea4d14c6efab9a35bbda6d37deabdb22195f",
@@ -1770,7 +2391,16 @@
           "version": "sha256:e54b530f72897afc01c7c52578aa246d30549c6db7d3addea3bc19d9d3b3586d",
           "text": "时不可兮再得，聊逍遥兮容与。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-71",
+      "number": 71,
+      "title": "九歌 大司命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0294",
           "version": "sha256:00ebee5eaec02e453f3025caa378b902e121f0dd5fb343730c5caf8ef64e2632",
@@ -1866,7 +2496,16 @@
           "version": "sha256:954cf4a960ac027580dd8e7258a52a980f931ab3cad2d7396d0c593e624f0e6e",
           "text": "固人命兮有当，孰离合兮可为？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-72",
+      "number": 72,
+      "title": "九歌 少司命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0310",
           "version": "sha256:de1033aaf4d2f693e7f03ca1822117df6691926d17adf5cb4036a06851f62ae5",
@@ -1962,7 +2601,16 @@
           "version": "sha256:5453e4c8f130f387a2f3eedab122286ee56ae61425ac606ba2567ce2cd9bdf34",
           "text": "怂长剑兮拥幼艾，荪独宜兮为民正。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-73",
+      "number": 73,
+      "title": "九歌 东君",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0326",
           "version": "sha256:73d45424ba77716ce81645a072d150ea9a651e90740c9493e26a068ae33a0f55",
@@ -2046,7 +2694,16 @@
           "version": "sha256:1c6013fd1aa0e6d6a9ad05a08ee670921553754b49bf6e35ee724b3a9c3260cb",
           "text": "撰余辔兮高驰翔，杳冥冥兮以东行。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-74",
+      "number": 74,
+      "title": "九歌 河伯",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0340",
           "version": "sha256:aa788e894adae23ca322255b4627f61c5daf368febc419c9791a22b57f1db4de",
@@ -2112,7 +2769,16 @@
           "version": "sha256:ccf68ecaa50ff851590468c1ecd0adaa556c1383c69853b65d855a7b5392b093",
           "text": "波滔滔兮来迎，鱼邻邻兮媵予。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-75",
+      "number": 75,
+      "title": "九歌 山鬼",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0351",
           "version": "sha256:3cb4b504f26d3db7807c9c5287d2778bb166ead834a51732f7411a0abd94a1fe",
@@ -2208,7 +2874,16 @@
           "version": "sha256:fce1846675957650b25150124b813ea63587fcc68680985da48da74b9699fac4",
           "text": "风飒飒兮木萧萧，思公子兮徒离忧。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-76",
+      "number": 76,
+      "title": "九歌 国殇",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0367",
           "version": "sha256:dc9ed3f0ec0f8bcb7d4aaee86c9273dc7bd16283c118b54e08783aaeefe926a4",
@@ -2274,7 +2949,16 @@
           "version": "sha256:601c55f0832a52f7b97f0763ddb5c251375ec98a013b4d4925fd7c04c7b81109",
           "text": "身既死兮神以灵，魂魄毅兮为鬼雄。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-77",
+      "number": 77,
+      "title": "九歌 礼魂",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0378",
           "version": "sha256:fe0609f59848db7bf27824eda6b2dd155d437912adc14e9a76eac3fc4dcc140d",
@@ -2304,7 +2988,16 @@
           "version": "sha256:72eddb2aa54ed75abbeda228108962e1c64eeed89c057df6491b1fa9bc527a47",
           "text": "春兰兮秋菊，长无绝兮终古。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-78",
+      "number": 78,
+      "title": "天问",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0383",
           "version": "sha256:886f8513ae07166d9acdff350538ca455c08bd70fea78704319bd272217e7527",
@@ -3432,7 +4125,16 @@
           "version": "sha256:eaeaec408e485785c1a01ec5c48068c3df501e5404d8eec8ada2c4fefc9cc286",
           "text": "何试上自予，忠名弥彰？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-79",
+      "number": 79,
+      "title": "九章 惜诵",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0571",
           "version": "sha256:1d61a6a6fcbc8c59a87b07c58b23e48a1f35f63b46e06ea752132843fb09aae7",
@@ -3708,7 +4410,16 @@
           "version": "sha256:d8fca15fa7e5fd915c2ffa938791e0da42bebbeba0876af63052e2010b26fe86",
           "text": "矫兹媚以私处兮，愿曾思而远身。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-80",
+      "number": 80,
+      "title": "九章 涉江",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0617",
           "version": "sha256:89e06d07f28f9c64558e20c3d9f8d32d15f100c3f3e188f012a24125efda50c6",
@@ -3900,7 +4611,16 @@
           "version": "sha256:7454efbfda6d79e5c66a3713136a47222f660e3f65d1b20a5a320114c6b86bdb",
           "text": "怀信侘傺，忽乎吾将行兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-81",
+      "number": 81,
+      "title": "九章 哀郢",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0649",
           "version": "sha256:473a3e9030a2b4a0c2eda3b4a4f2fb16d9e489ec7be6540e4f5ecc70289c6992",
@@ -4110,7 +4830,16 @@
           "version": "sha256:a630953c79496aaa909d3f74ef6953c8ff9f7900049bf4f96f372923debf2241",
           "text": "信非吾罪而弃逐兮，何日夜而忘之？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-82",
+      "number": 82,
+      "title": "九章 抽思",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0684",
           "version": "sha256:0aeded1c6572136bb24f28fa83faf5940e935dbcb0f8465c627ac2a88e297471",
@@ -4380,7 +5109,16 @@
           "version": "sha256:bfb060822465f4d8cb845ab867d067d0c4c20f776103add58a05e5463c32a178",
           "text": "忧心不遂，斯言谁告兮！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-83",
+      "number": 83,
+      "title": "九章 怀沙",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0729",
           "version": "sha256:c329faf669140f9a892583e6dddd7e820584033cc6f4048668b1c0c547deb5f4",
@@ -4632,7 +5370,16 @@
           "version": "sha256:5343c6f130c03e2cb437e9f3cd3bc736fd3e5d4e31b193b2f26a70a59d1fa45d",
           "text": "明告君子，吾将以为类兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-84",
+      "number": 84,
+      "title": "九章 思美人",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0771",
           "version": "sha256:77e21f40ff7b9bbb539048b6414c122e0db07f9a2f19a4c826712f662ab9dbc8",
@@ -4842,7 +5589,16 @@
           "version": "sha256:a1d79dd9cf57b0f0ee2a8c6d2802f347b20eb51f0e6b2157e6cae6fb974e31ec",
           "text": "独茕茕而南行兮，思彭咸之故也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-85",
+      "number": 85,
+      "title": "九章 惜往日",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0806",
           "version": "sha256:6e0eb514742158c3384982c7db11375d6c311ca7ce12a0d55d0e65884b33c150",
@@ -5082,7 +5838,16 @@
           "version": "sha256:74c640f23fb4febaa4190056ea7c7badcbebccbf6a1fa3361a1cec0f70b7be3d",
           "text": "不毕辞而赴渊兮，惜廱君之不识。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-86",
+      "number": 86,
+      "title": "九章 橘颂",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0846",
           "version": "sha256:c014a35905bd412fa267257ea90a3e7221fb72fe219a5b113ef1715bdd6cdfc2",
@@ -5202,7 +5967,16 @@
           "version": "sha256:a41157ef2fc08682cb26b72c272075ae491d705edcff30b8a867ec842a53e1b4",
           "text": "行比伯夷，置以为像兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-87",
+      "number": 87,
+      "title": "九章 悲回风",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0866",
           "version": "sha256:959df8f64e1946b6309084f53c376840f46d9af19641bd83efaecc6e7d1a8b21",
@@ -5544,7 +6318,16 @@
           "version": "sha256:d959e15b340402e450e59b7cc90795717cd47a541df4f460b3c749544df38bf6",
           "text": "心絓结而不解兮，思蹇产而不释。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-88",
+      "number": 88,
+      "title": "远游",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-0923",
           "version": "sha256:e8b49728bedc97aecb9dec5f9fe570080aa8f25690d50e4b957774984601191a",
@@ -6090,7 +6873,16 @@
           "version": "sha256:8f668e4bc6cda5c52a71033eafeeff0c9b23b331fa8910d5c277532e3e3d054a",
           "text": "超无为以至清兮，与泰初而为邻。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-89",
+      "number": 89,
+      "title": "卜居",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1014",
           "version": "sha256:4a292e56ac3c9603f7966dda0e471b5bd01fb6f4bb593cddbe7d973100e00528",
@@ -6252,7 +7044,16 @@
           "version": "sha256:9ada5c952a3e12d2e1400295c1c10e3a40697ad18b540bc6bfdf40aacefd516e",
           "text": "数有所不逮，神有所不通，用君之心，行君之意。龟策诚不能知事。”",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-90",
+      "number": 90,
+      "title": "渔父",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1041",
           "version": "sha256:d80bd2ae06a5f9e0fb502134aa0088adf32c96c0583661a71d53eb6acd211e7f",
@@ -6354,7 +7155,16 @@
           "version": "sha256:eec96d941ce63e4e8c541725d5f74e2355c3741f369f8c99cb40c18be9db8d36",
           "text": "遂去不复与言。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-91",
+      "number": 91,
+      "title": "九辩",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1058",
           "version": "sha256:865ad44cfc20d3e0821834f66a1f43c5915f691179db7292c7a44955bca5753e",
@@ -7152,7 +7962,16 @@
           "version": "sha256:2fc2b85169959f4b5508adf9eca1e777aa7c86876346aa68a919508623819d24",
           "text": "赖皇天之厚德兮，还及君之无恙。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-92",
+      "number": 92,
+      "title": "招魂",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1191",
           "version": "sha256:d122cafe723fbbfaee67991b92e59e3cc64103f53daab6a695e43d378d7b0e99",
@@ -7974,7 +8793,16 @@
           "version": "sha256:af66fdbd9a7841da47eca15a651c4a31144f290fd24a0e38954a8cd2de747dd3",
           "text": "魂兮归来，哀江南。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-93",
+      "number": 93,
+      "title": "大招",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1328",
           "version": "sha256:7c6bd561b35b744d474db9acf18e6e221681da9e8e855b8a9adc54d0970f9471",
@@ -8634,7 +9462,16 @@
           "version": "sha256:96de2d2a22049497e8b9add35c82cdac79ba47d84595966e92aa26b84818f911",
           "text": "魂乎徕归！尚三王只。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-94",
+      "number": 94,
+      "title": "惜誓",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1438",
           "version": "sha256:19786b408931092d714b9d26849cee78f789eaef423155e9bff0ba8af433d5d7",
@@ -8868,7 +9705,16 @@
           "version": "sha256:73cbe795decf37f56cc1cb07aaa72a11510c4f6d3a2c89c502dfc77ffb13e2a7",
           "text": "使麒麟可得羁而係兮，又何以异虖犬羊？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-95",
+      "number": 95,
+      "title": "招隐士",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1477",
           "version": "sha256:d77b2524b1e9d65be19a08e1088868b4d6fd7d38b54aa881a860236316e3dbea",
@@ -8970,7 +9816,16 @@
           "version": "sha256:802c402410886c1242360170f6d607f510b77c5e48f3898e00b07238b69ae56c",
           "text": "王孙兮归来，山中兮不可以久留。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-96",
+      "number": 96,
+      "title": "七谏 初放",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1494",
           "version": "sha256:01ab3d1b3172db7c4858fab6e8d7d4a9d4b3b7b7c563285c7796f12f1b7f8a45",
@@ -9102,7 +9957,16 @@
           "version": "sha256:9cc1a61cd6931bc08a79e9bb757b04de9d819162b1ea0b4cf7e8487351b3ebbd",
           "text": "窃怨君之不寤兮，吾独死而后已。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-97",
+      "number": 97,
+      "title": "七谏 沉江",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1516",
           "version": "sha256:025987c08ab098cd50910678de57af20746f08fbac44798e46abe40098f21dfa",
@@ -9354,7 +10218,16 @@
           "version": "sha256:fc03f878301f639520770d62618d77452b8e887d04e3a289f2eb490d0703796e",
           "text": "怀沙砾而自沉兮，不忍见君之蔽壅。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-98",
+      "number": 98,
+      "title": "七谏 怨世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1558",
           "version": "sha256:6969a3bf602291b92aaa6c6ea61d9e2cf9d60375de8284a9a392056aa4150f5d",
@@ -9570,7 +10443,16 @@
           "version": "sha256:26aa0ddbf64cb9f484db5c2ed64e18f3215aa63f1eb7e0577c21bb6b24090f5b",
           "text": "宁为江海之泥涂兮，安能久见此浊世？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-99",
+      "number": 99,
+      "title": "七谏 怨思",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1594",
           "version": "sha256:fc0e9448d56350be96605b67f173f024a356d951d403c8231bb9541b20c77f99",
@@ -9630,7 +10512,16 @@
           "version": "sha256:70421b2d32eb80ca4d1f81c05aab83e5b406c4637de3e9b949d969d0b6ee9634",
           "text": "愿壹往而径逝兮，道壅绝而不通。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-100",
+      "number": 100,
+      "title": "七谏 自悲",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1604",
           "version": "sha256:d61daee72d2156afa7a16672f2fdca92e9ce06d9b1ec942de419cb52919c29fe",
@@ -9846,7 +10737,16 @@
           "version": "sha256:62212790c14db2eff1a7665b506b4fa6a8e3a841457fe26995e7cd02fe276704",
           "text": "鹍鹤孤而夜号兮，哀居者之诚贞。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-101",
+      "number": 101,
+      "title": "七谏 哀命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1640",
           "version": "sha256:d11e966ef04bfa18037113b22c4a3a23e2a539c0a3c9cfbc2b640e3c9ab9094c",
@@ -9978,7 +10878,16 @@
           "version": "sha256:31e55790f0957b2d4f9572f0d463a9d61ae802740f6147acd8ff1eaf526b5cc4",
           "text": "哀高丘之赤岸兮，遂没身而不反。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-102",
+      "number": 102,
+      "title": "七谏 谬谏",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1662",
           "version": "sha256:4835525fa73b44eb6fcd2eb7c95e114010171c34f7a19915366963bae31461c4",
@@ -10284,7 +11193,16 @@
           "version": "sha256:51447ec740f80555c0733b0dd98498e723965e679c6a1bec2933a13a6a03a5be",
           "text": "自古而固然兮，吾又何怨乎今之人。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-103",
+      "number": 103,
+      "title": "哀时命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1713",
           "version": "sha256:db05a6d72444e540f6394f7bc8b0b449cc6c594f29b89ddc6273e39725c5aa44",
@@ -10776,7 +11694,16 @@
           "version": "sha256:0e3849e9cb87a1a22b7dcd57d373218c8ec0ef29f430cbb22fd70170cc84073a",
           "text": "愿壹见阳春之白日兮，恐不终乎永年。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-104",
+      "number": 104,
+      "title": "九怀 匡机",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1795",
           "version": "sha256:8f8905b2ca95e683d277f7315e7f4f550d331358abe794a747f9ff9159fde78f",
@@ -10854,7 +11781,16 @@
           "version": "sha256:b4056ad40ee39f46a3e5a360c56cb94cbc14c61123f286bfe21a437fcc8f47c8",
           "text": "怫郁兮莫陈，永怀兮内伤。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-105",
+      "number": 105,
+      "title": "九怀 通路",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1808",
           "version": "sha256:39ae00231ee992523532997279da6dafa6b0fdf2a6c2ea5802464b2f96db6e19",
@@ -10974,7 +11910,16 @@
           "version": "sha256:0cc54aa3279da6cfbb037caaa8a216db8d5fb6b743ce72cb39bbde6362cf8d56",
           "text": "阴忧兮感余，惆怅兮自怜。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-106",
+      "number": 106,
+      "title": "九怀 危俊",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1828",
           "version": "sha256:08e1c617ce9a9bfc69942b229c4114a1398a86a223baf4c41db80162613598f3",
@@ -11058,7 +12003,16 @@
           "version": "sha256:59e408e44a3550ba8e31dcffbcff006d0f09f7d0dc0e6afc9dd1ac00e8ebf44f",
           "text": "卒莫有兮纤介，永余思兮怞々。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-107",
+      "number": 107,
+      "title": "九怀 昭世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1842",
           "version": "sha256:077ec79310a9e59f7aa23501ae483c4b634fc6db109a2dfc78e2817e438a14ca",
@@ -11166,7 +12120,16 @@
           "version": "sha256:883e03a938ca59187f051d1b7330e5d8a6f624aba1ec7dd24f5c63621a94b411",
           "text": "横垂涕兮泫流，悲余后兮失灵。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-108",
+      "number": 108,
+      "title": "九怀 尊嘉",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1860",
           "version": "sha256:3410cdea012953a4fc3e0fc9d72fcc242b4dfbddb9d7d8912dac923895be2551",
@@ -11268,7 +12231,16 @@
           "version": "sha256:924723d571a7f2f6ea3a8d06213f89fd2a7eba2b33f9d6259496af3614ed21df",
           "text": "窃哀兮浮萍，汎淫兮无根。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-109",
+      "number": 109,
+      "title": "九怀 蓄英",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1877",
           "version": "sha256:16b8a79331a8e584354800163f56b459b5988739a6676737fe345e284406f3a5",
@@ -11346,7 +12318,16 @@
           "version": "sha256:f6f1bd8b364bc5e4e20f748761ef3ed683355844a958ea1fb8f57041f9795794",
           "text": "身去兮意存，怆恨兮怀愁。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-110",
+      "number": 110,
+      "title": "九怀 思忠",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1890",
           "version": "sha256:5d7e85e644a9d78fcfef3331eddcd92c04ab6d316d9612ba740908dc39fbc60b",
@@ -11436,7 +12417,16 @@
           "version": "sha256:86b93d7b8d6a73195e97b66ec69c00c77c432e5de6176671f4add4d52db3e020",
           "text": "寤辟摽兮永思，心怫郁兮内伤。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-111",
+      "number": 111,
+      "title": "九怀 陶壅",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1905",
           "version": "sha256:0a2c03463aa67e77ffd998d7040bab6bfc5290f2c680e5fdc8c2c7a94ab2d90d",
@@ -11538,7 +12528,16 @@
           "version": "sha256:955bf7057b3b87827a6946cfad21dde42341d06a983429e6a6b1635110db8982",
           "text": "悲九州兮靡君，抚轼叹兮作诗。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-112",
+      "number": 112,
+      "title": "九怀 株昭",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1922",
           "version": "sha256:721cb31385f7d3c98a202ed4fde49a24fd14b899c7842c30cf0e8207fd7bd3ba",
@@ -11658,7 +12657,16 @@
           "version": "sha256:210e1ec9d75b4bba5d1065134b7c336fde348f9ef0e88b8b83796dd99a2299ef",
           "text": "四佞放兮后得禹，圣舜摄兮昭尧绪，孰能若兮愿为辅？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-113",
+      "number": 113,
+      "title": "九叹 逢纷",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1942",
           "version": "sha256:40a7ab8a17d735fb9480ebd5707df634efb442349defe94a5e453a4c1e33656c",
@@ -11868,7 +12876,16 @@
           "version": "sha256:99a80c9d7f7ff05a1dae4a2f7b7b9d31abce572db6111b4b736470a6ab1b3cda",
           "text": "遭纷逢凶蹇离尤兮，垂文扬采遗将来兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-114",
+      "number": 114,
+      "title": "九叹 离世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-1977",
           "version": "sha256:49e77b8650edfd483f3116f233b425354dc300da32d3b6c145ecafdaab9071a5",
@@ -12096,7 +13113,16 @@
           "version": "sha256:41c1c880051053afabc29aa7cfe181e90b07ababbd4def73055be4f1931b1ca0",
           "text": "顾瞻郢路终不返兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-115",
+      "number": 115,
+      "title": "九叹 怨思",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2015",
           "version": "sha256:17001eb984c976f605e5f3a64c1182a9fd6de5873165fd3466e6bcb1f712853f",
@@ -12282,7 +13308,16 @@
           "version": "sha256:5d97f28f8eef138f2a817de8faf29e0b92ba21ac8d2620ae4f7640c992df355e",
           "text": "归骸旧邦莫谁语兮，长辞远逝乘湘去兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-116",
+      "number": 116,
+      "title": "九叹 远逝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2046",
           "version": "sha256:7e31e8049d42fb198a04031663aeab35beebca3f8d33613901ff0165cd73fbc5",
@@ -12492,7 +13527,16 @@
           "version": "sha256:d31f7e3739d97a7102d0f191f4239aa258177bc56368c04f54091d7b2f07103d",
           "text": "舒情陈诗冀以自免兮，颓流下陨身日远兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-117",
+      "number": 117,
+      "title": "九叹 惜贤",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2081",
           "version": "sha256:634ec4b3911999359ac19fd214e419e4c3eee1f5ebf5a3f54a9ec8734ef9b0f7",
@@ -12684,7 +13728,16 @@
           "version": "sha256:37faa76fff20542dea5b92fe26c13e8da16c7b164f9f6b2fd842bda20ec190cc",
           "text": "丁时逢殃可奈何兮，劳心悁悁涕滂沱兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-118",
+      "number": 118,
+      "title": "九叹 忧苦",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2113",
           "version": "sha256:aa4f2cc6a86c6f7ba53329533c9c1e309e5bf24e8c7383b3ea63f255ba70900b",
@@ -12882,7 +13935,16 @@
           "version": "sha256:19377e6c544970e1293fd51b25a8c2b2fb722c42b578250f0a3ec12524b32843",
           "text": "念我茕茕魂谁求兮，仆夫慌悴散若流兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-119",
+      "number": 119,
+      "title": "九叹 愍命",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2146",
           "version": "sha256:a4ea6fff35345d38bca31bf5bb15d8486f092a4dae6958125f3e55217a5e43a2",
@@ -13098,7 +14160,16 @@
           "version": "sha256:5927bfaf9c313857651fe22289e58cd028ea9f64aa6aa55d93a3c4dca6db6ccf",
           "text": "怀忧含戚何侘傺兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-120",
+      "number": 120,
+      "title": "九叹 思古",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2182",
           "version": "sha256:40e78ab034477e22c9bcc36a2aaa8d8ce281f6e7c4ba317f5e29bc22cd921bdc",
@@ -13284,7 +14355,16 @@
           "version": "sha256:dc4239b458ff79bc6e0c507f5705079272b94e7bf5a26823f02d92a7e04c9042",
           "text": "曾哀悽欷心离离兮，还顾高丘泣如洒兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-121",
+      "number": 121,
+      "title": "九叹 远游",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2213",
           "version": "sha256:5f4b4849ff220ce0bda50665517449adc495cecdb931addc4466c6a3f8862f43",
@@ -13494,7 +14574,16 @@
           "version": "sha256:a2a66037b69a186123a5a94fcf0c8db63f01979ad518fc6e60d70686646a49f3",
           "text": "升虚凌冥沛浊浮清入帝宫兮，摇翘奋羽驰风骋雨游无穷兮。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-122",
+      "number": 122,
+      "title": "九思 逢尤",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2248",
           "version": "sha256:b046b0660a6a90e56013ae22881a09fc4ba31484600bb2372b29cfcb9f1b1d21",
@@ -13608,7 +14697,16 @@
           "version": "sha256:03557aadcd40a43d61a360f2829182654d65c2e19878725c126322205debded8",
           "text": "魂茕茕兮不遑寐，目眽々兮寤终朝。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-123",
+      "number": 123,
+      "title": "九思 怨上",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2267",
           "version": "sha256:df0bc5e09d67813dc7a496306d6ea1bd124f5c3c1427e15e0d057b46a8c01534",
@@ -13746,7 +14844,16 @@
           "version": "sha256:ebdbb0f0dc99f9112deeee024430b5cbfd802d8c8f5b0f8be14548b43c43be2f",
           "text": "伫立兮忉怛，心结縎兮折摧。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-124",
+      "number": 124,
+      "title": "九思 疾世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2290",
           "version": "sha256:9b51b9f716ce5606ace51ed32d7e1fef21ddf689e8e6ac8f64f414330be97340",
@@ -13878,7 +14985,16 @@
           "version": "sha256:6a856fd481f5668b1df0f88daf3a1cdad540ac38ab54c406e89f2a7af1101074",
           "text": "忧不暇兮寝食，吒增叹兮如雷。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-125",
+      "number": 125,
+      "title": "九思 悯上",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2312",
           "version": "sha256:75f0baf5dbadd9dfda75eaccb9f4598f3816d456909c1785accb4d14429d5e6d",
@@ -14004,7 +15120,16 @@
           "version": "sha256:fe972d2eacc663c17b88fb15fd6c5bd5fd389fb4b51757c7a8e58fb3857785f4",
           "text": "思怫郁兮肝切剥，忿悁悒兮孰诉告。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-126",
+      "number": 126,
+      "title": "九思 遭厄",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2333",
           "version": "sha256:0c312bf33a912d5b16ab863b48543b3ca660c484de46d19c210b0be6962d4cd4",
@@ -14118,7 +15243,16 @@
           "version": "sha256:def02f82ccf864e179158bead3f6ab8c9c7803dcf1303e0ad6c6261d62158825",
           "text": "思哽饐兮诘诎，涕流澜兮如雨。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-127",
+      "number": 127,
+      "title": "九思 悼乱",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2352",
           "version": "sha256:09227aa3dd04a9a7489687f69a694cda437b7b318966ac14d41a58be906af04c",
@@ -14256,7 +15390,16 @@
           "version": "sha256:49a4716a060fb231ea69177992d2f2f3800e9bb407b0d5c9c5a82d244785c46c",
           "text": "垂屣兮将起，跓俟兮硕明。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-128",
+      "number": 128,
+      "title": "九思 伤时",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2375",
           "version": "sha256:16d5b56bf3c424e5930449072d23f7f9e234957d38191b870d99349e700b2228",
@@ -14400,7 +15543,16 @@
           "version": "sha256:646411aca0c78601148bbbacd0178c0c1fab5f52011cdfc31c96921fbf04d7aa",
           "text": "顾章华兮太息，志恋恋兮依依。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-129",
+      "number": 129,
+      "title": "九思 哀岁",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2399",
           "version": "sha256:44a6eb31bec747e7096b1ad4149f0f6f509877e6567972819d77987cc319c76f",
@@ -14550,7 +15702,16 @@
           "version": "sha256:61938b2748f2a4b843c840531bf92de1aae14689c7f670b563e11f7cfc68f357",
           "text": "忧纡兮郁郁，恶所兮写情。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-chuci-7154b36cff8a742a-130",
+      "number": 130,
+      "title": "九思 守志",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
+      "kind": "work",
+      "paragraphs": [
         {
           "id": "p-chuci-7154b36cff8a742a-2424",
           "version": "sha256:f307c20d4c0f2aa79cf5dbd7f075b0957a4d301a4690d2e053f509994027ef2b",

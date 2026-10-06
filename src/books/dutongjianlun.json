@@ -24,7 +24,7 @@
     {
       "id": "chapter-dutongjianlun-8b311bff56574070",
       "number": 2,
-      "title": "卷一",
+      "title": "秦始皇",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
       "kind": "chapter",
       "paragraphs": [
@@ -93,7 +93,16 @@
           "version": "sha256:2804f3b1ecb540db8e8877fd5ce19985d06a57264ed5a9a986fc3c0e5c2bbd1a",
           "text": "秦始皇之宜短祚也不一，而莫甚于不知人。非其不察也，惟其好谀也。托国于赵高之手，虽中主不足以存，况胡亥哉！汉高之知周勃也，宋太祖之任赵普也，未能已乱而足以不亡。建文立而无托孤之旧臣，则兵连祸结而尤为人伦之大变。徐达、刘基有一存焉，奚至此哉？虽然，国祚之所以不倾者，无谀臣也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-02",
+      "number": 3,
+      "title": "二世",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0012",
           "version": "sha256:f9e5ccf34dc4b60c8cc1e6da39817a16ebb67d4e857658eac32092851f4898c8",
@@ -207,7 +216,16 @@
           "version": "sha256:f39aedec0a6d4ab7d13df052dbc18965a003b1792eb7eb29e644d8e42c911661",
           "text": "设大辟于此，设薄刑于彼，细极于牛毛，而东西可以相窜。见知故纵，蔓延相逮，而上下相倚以匿奸。闰位之主，窃非分而寐寝不安，藉是以箝天下，而为天下之所箝，固其宜也。受天命，正万邦，德足以威而无疚媿者，勿效尔为也。宽斯严，简斯定。吞舟漏网而不敢再触梁笱，何也？法定于一王，而狱吏无能移也。卷二",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-03",
+      "number": 4,
+      "title": "汉高帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0031",
           "version": "sha256:7413c3fc6dc8261e2783bab1bf4eded36fb6d3e2dd44be33dad7f57717e609dc",
@@ -561,7 +579,16 @@
           "version": "sha256:bb4e34b1adbd2fc209b4b39f46e106545d65b748674f20ab91d019849bccdbaf",
           "text": "叔孙通之谏易太子也，曰：“臣愿伏诛以颈血汙地。”烈矣哉！夫抑有以使之然者：高帝之明，可以理喻也；吕后之权足恃也；留侯、四皓之属为之羽翼，而诡随者惮高帝而不敢竞也。通知必不死，即死而犹有功，何惮而不争？呜呼！以面谀事十余主之通，而犯颜骨骾也可使如此。上有明君，下有贤士大夫，佞者可忠，柔者可彊，天下岂患无人材哉！匪上知与下愚，未有不待奖而成者也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-04",
+      "number": 5,
+      "title": "惠帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0090",
           "version": "sha256:3b7b9900a262f6ebe724234779913233d0ebdcc94f8af6848ab236468234de9e",
@@ -633,7 +660,16 @@
           "version": "sha256:57e9aed0247f4bf12edac1554d9f2e737283febeb90ce5af0bafc25566c16f49",
           "text": "边徼之备不修，州郡之储不宿，耀武于法宫明堂之侧，舍德而欲以观兵，弃略而欲以衒勇，天子之服天下，岂以左矛右戟、遥震遐方而使讋乎！唯兵在外而守在夷也，则外戚奄宦、辽远而不相及，利不足以相啖，威不足以相灼，怵然畏天下之议其后而无挟以争。即有逆臣猝起以犯顺，亦互相牵曳而终以溃败。推而大之，舜、禹之舞干而三苗效顺，亦惟不与天下竞勇而德威自震，胥此道焉耳矣。呜呼！聚兵于王室以糜天下于转输，只以召乱而弗能救亡，岂非有天下者之炯戒哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-05",
+      "number": 6,
+      "title": "文帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0102",
           "version": "sha256:ca8433faefba4ba4e6a235aec4ae45a090003fa8f5eebc43774fbf5b037a5de5",
@@ -1113,7 +1149,16 @@
           "version": "sha256:2e8bf92d8b7d2702194d5fb10e6ab8c984b4921f0e0a4e3ab33a0474d4353be0",
           "text": "吉凶之消长在天，动静之得失在人。天者人之所可待，而人者天之所必应也。物长而穷则必消，人静而审则可动。故天常有递消递长之机，以平天下之险阻，而恒苦人之不相待。智者知天之消长以为动静，而恒苦于躁者之不测其中之所持。若文帝者，可与知时矣。可与知时，殆乎知天矣。知天者，知天之几也。夫天有贞一之理焉，有相乘之几焉。知天之理者，善动以化物；知天之几者，居静以不伤物，而物亦不能伤之。以理司化者，君子之德也；以几远害者，黄、老之道也；降此无道矣。庸人不测，恃其一罅之知，物方未动，激之以动。激之以动，而自诧为先觉。动不可止，毒遂中于天下，而流血成渠。国幸存，而害亦憯矣。呜呼！谋人家国者，可不慎哉！自非桀、纣，必有怀来，有一罅之知者，慎密以俟之，毋轻于言，而天下之祸可以息。卷三",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-06",
+      "number": 7,
+      "title": "景帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0182",
           "version": "sha256:e896a2173f9abab82b465e00cef3e418eb50a583dd5a149de1c54569d24ec6ae",
@@ -1233,7 +1278,16 @@
           "version": "sha256:d5d948af4afd8dc97728910e1d7cd75d7b8770cde548bcd7427f3d68806c0f8a",
           "text": "人主移于贾而国本凋，士大夫移于贾而廉耻丧。许衡自以为儒者也，而谓“士大夫欲无贪也，无如贾也”。杨维桢、顾瑛遂以豪逞而败三吴之俗。濠、泗之迁，受兴王之罚，而后天下宁。移风易俗，古今一也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-07",
+      "number": 8,
+      "title": "武帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0202",
           "version": "sha256:e6941b58b9a4f847560c2b4794e8a4cc03081f159a527b96bfd0ca22dd518e75",
@@ -1839,7 +1893,16 @@
           "version": "sha256:7e9dd8c30e7091508b9e81483ffb548cdc4960d638dda30c8236980524ed059d",
           "text": "唯我为子故尽孝，唯我为臣故尽忠。顾七尺之躬，耳目在体而心函于内，忠臣孝子，非以是奉君父，而但践其身心之则。光与日磾天性近之，而特未学耳，桀乌足与齿哉？武帝以待光、日磾者待桀，不知桀也，且不知光、日磾也。知人之难，唯以己视人，而不即其人之自立其身者视之也。卷四",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-08",
+      "number": 9,
+      "title": "汉昭帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0303",
           "version": "sha256:618eac7a63877a019a2e06727e3f74cf3b0f0b4f93cc1fc46665b625f3868ba3",
@@ -1899,7 +1962,16 @@
           "version": "sha256:2aa0b2ea2eecd667da3b0a40d91cbfc6522dc3a56c4a70e1ad0caa75c90a9cee",
           "text": "严延年劾奏霍光擅废立无人臣礼，其言甚危，其义甚正，若有敢死之气而不畏彊御。或曰：光行权，而延年守天下之大经，为万世防。延年安得此不虞之誉哉！其后霍氏鸩皇后，谋大逆，以视光所行为何如，延年何以噤不复呜邪？光之必有所顾忌而不怨延年，宣帝有畏于霍氏，必心利延年之说而不责延年，延年皆虑之熟矣。犯天下之至险而固非险也，则乘之以沽直作威，而庸人遂敬惮之。既熟虑诛戮之不加，而抑为庸人之所敬惮，延年之计得矣。前乎上官桀之乱，后乎霍禹之逆，使延年一讦其奸，而刀锯且加乎身，固延年所弗敢问也。矫诡之士，每翘君与大臣危疑不自信之过，言之无讳以立名，而早计不逢其祸，此所谓“言辟而辨，行伪而坚”者也。有所击必有所避，观其避以知其击，君子岂为其所罔哉？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-09",
+      "number": 10,
+      "title": "宣帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0313",
           "version": "sha256:de59e85da630633ee17be93516287754eb040c0848a7ed9b44b2ae112ed3ca97",
@@ -2259,7 +2331,16 @@
           "version": "sha256:4157169220a922436e84092305e24421324e20d18743bb2c471399af19900092",
           "text": "宣帝之任之也，将以其经术与？挟经术而行其偏矫之情，以王安石之廉介而祸及天下，而望之益之以侈；抑以其议论与？则华而不实，辩而窒，固君子之所恶也。主父偃、徐乐岂无议论之近正，而望之抑奚以异？盖宣帝之为君也，恃才而喜自用，乐闻人过以示察者也，故于望之有臭味之合焉。以私好而托家国之大，其不倾者鲜矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-10",
+      "number": 11,
+      "title": "元帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0373",
           "version": "sha256:337c02d2cd2a37126cc59825ebdf11789b2374e6fef76f678af07e9c6c5de2c8",
@@ -2451,7 +2532,16 @@
           "version": "sha256:f5c63d382ae0cfd5f65f026ce0b112bec93962dc748178eacdbf12f8747a6803",
           "text": "天位者，天所位也；人君者，人所归也。为主器之长子，膺祖宗之德泽，非窃非夺，天人所不能违；而翕訾以相保，呴沫以相怜，私忧过计，贪天功为己力，此其人亦何足任而戴之不忘乎？唐玄宗知张说之奸，怀其潜邸之恩而不能远，以召均、垍之逆；况杨复恭之以家奴而门生天子乎？呜呼！自非攘功擅权之小人，孰敢以大宝之攸归自任为己绩者？赵汝愚不欲行内禅之赏，可法也，而犹存其迹也；丙吉护宣帝于狱而终不自白，故能相天子以成中兴之业。然则汉文却周勃之私言，世庙罢新都之政柄，不得谓之刻覈而寡恩；成帝之碌碌，何足以语此哉！元帝不能顾命史丹，而使凤得以私劳惑庸主，亦其暱爱山阳而愤然不恤之咎与！故曰：隐伏之咎，肇于不测也。卷五",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-11",
+      "number": 12,
+      "title": "成帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0405",
           "version": "sha256:530039c193a0634d97ecf45814f519e93089a2463879bd8a71afcbeeb098d927",
@@ -2619,7 +2709,16 @@
           "version": "sha256:c14841511f52a662cb6b81326f5641d3e149847155e060b029619a568d03809c",
           "text": "呜呼！至于成、哀之季而无可为矣、君子慎所趋以自全，辞大位而不居，其庶几乎！一受其事，则非如王嘉之必死以自靖，而负咎于天人也，必不可浣。庄生曰：“游羿之彀中。”谓此时也。游其彀中而死焉，君子之徒也；游其彀中而免焉，小人之徒也；游其彀中，避死而得死焉，刑戮之民也。慎之！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-12",
+      "number": 13,
+      "title": "哀帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0433",
           "version": "sha256:2694c530923c181ad9b97dbb1a97c9d3d930579887343b8928dd4e20b1695d6f",
@@ -2817,7 +2916,16 @@
           "version": "sha256:6a9a596c8edb946d92ea3289ca1584af4479d548a1c78594127ef292c78e5879",
           "text": "平当、彭宣皆见称于班固，宣未可与当并论也。当临受侯封，卧病不起以固辞之，知世不可为，郁邑以死，可谓知耻矣。当之在位，丁、傅持权，而史称帝虽宠任丁、傅，而政自己出，异于王氏；则当逡巡以死，而不忝无实之封，于自守之道未失也。若宣者，位司空为汉室辅，王莽杀两后，诛异己，腹心爪牙交布朝廷，而元后为国贼之内主，此正宣肝脑涂地、激天下忠烈之气、以救一线之危者，而为全躯、保妻子之谋，谢不能以引退，尚足为人臣子乎？龚胜、邴汉且犹在梅福之下，所任异也，而况宣位三公之重哉？宣者，与董贤、孔光并居台辅而不慙者也，其生平可知矣。班固曰：“见险而止。”率天下以疾视君父之死亡而不恤，必此言夫！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-13",
+      "number": 14,
+      "title": "平帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0466",
           "version": "sha256:577e23128da39820cbc0283f812ea0325291e25e0bcb0164136f4f6a6c655355",
@@ -2907,7 +3015,16 @@
           "version": "sha256:2e563127ad3634f5b5e3e80b9c601cbb6afae42fa87fd5f536b007714098d7c9",
           "text": "当莽之篡，天下如狂而奔赴之，孔光、刘歆之徒，援经术以导谀，上天之神，虞舜之圣，周公之忠，且为群不逞所诬而不能白。义正名其贼、以号召天下于魔魅之中，故南阳诸刘一起，而莽之首早陨于渐臺。然则胜、广、玄感、山童、寿辉者，天贸其死以亡秦、隋；而义也、崇也、快也，自输其肝脑以拯天之衰而伸莽之诛者也。不走而死，义尤烈哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-14",
+      "number": 15,
+      "title": "王莽",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0481",
           "version": "sha256:5a7eb6816d133cb8cb970937872f84e00114630bd4d9f5fca48ea091338a6f65",
@@ -2973,7 +3090,16 @@
           "version": "sha256:e04bbce4677db2e26975f531668e8b2aeebadc1b5afa170b5bcca06e05421533",
           "text": "天下相习于怪，无不怪也。郅恽引天文历数，上书王莽，令就臣位，复立汉室，可不谓怪乎？以莽之惨，无不可杀者，而恽免于死；莽诬天而以天诬人，故忌天而不加刑，恽故持之盈而发之无惮耳。恽以此故智，闭门不纳光武而蒙赏，世皆惊其奇而伟其志操，而不知为君子所必斥为怪而不欲语者也。怪士不惩，天下不平。使明主戮之，而天下犹惜之。大经不正，庶民习于邪慝，流俗之论，以怪为奇，若此类者众矣。卷六",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-15",
+      "number": 16,
+      "title": "后汉更始",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0492",
           "version": "sha256:a792d46af398c964906e30bf18a3cc611b331cdd537827bb2a40338699bffae6",
@@ -3075,7 +3201,16 @@
           "version": "sha256:0e2aac9a66748f3212411e4c5366cf049d0813b8b50a0fdf5a73634eb26f4696",
           "text": "匈奴之祸，至元、成之世而大息矣。东汉之初，因卢芳而大为中国害，非徒王莽之激之，抑更始挑之也。更始尸位于关中，赤眉横行于曹、濮，萧王异志于河北，公孙述割据于巴、蜀，斯时也，岂有德有威足以及匈奴；而轻以一介之使，循故事以求匈奴之顺己，召其侮而授之以嫚词，自取之矣。故严尤之谏，为王莽言也。伐之不可，和之不能，夷狄焉知仁义，势而已矣。更始之势，曾莽之不若，而欲匈奴修呼韩邪之已事，不度德，不量力，贻数十年边关之祸。陈遵者，洵妄人也。易世而后，微窦宪、耿秉之矫矫，汉其危矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-16",
+      "number": 17,
+      "title": "光武",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0509",
           "version": "sha256:ce48112328ad5e8c066ddb866c2a9ee0af6348d48f497cd72f15ac15fdbbd9bf",
@@ -3891,7 +4026,16 @@
           "version": "sha256:c8509d420ff67b840b9794a0f4b01d453848e9a8f4ee7b2b186645853625e668",
           "text": "象之不仁，舜不得不以为弟，丹朱之不肖，尧不得不以为子，天伦者受之于天，非人所得而予夺者也。夫妇之道，受命于父母，而大昏行焉；出以其道，而自夫制焉。为人子孙而逆操其进退，己不道而奚以治幽明哉？文姜之逆也，而春秋书曰“夫人”。僖公致成风以抑哀姜，而春秋书曰“用致”。吕后之罪，听后世之公论，非子孙所得黜也；薄后非高帝之伉俪，非子孙所得命也。告祠高庙，退吕进薄，幸先君之无知，唯己意以取必焉。舜不能使瞽瞍之不子象，而光武能使高帝之不妻吕后哉？慕容垂追废可足浑氏，崔鸿讥其以子废母，致其子宝弑母而无忌。人君垂家法以贻子孙，顺天理而人情自顺，大义自正。如谓光武借此以儆宫闱，乃东汉之祸，卒成于后族，徒为逆乱，而又奚裨邪？故曰乱之乱者也。卷七",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-17",
+      "number": 18,
+      "title": "明帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0645",
           "version": "sha256:b9b581e0ee1fa1024153de56deb592ce751cedc686659e9eb797c89a559b5565",
@@ -4089,7 +4233,16 @@
           "version": "sha256:d46f8fd9982951b8e06f271988349573ced99e766b884a573ef777f897133799",
           "text": "光武闭玉门，绝西域，班固赞其盛德。超，固之弟也。尝读固之遗文，其往来报超于西域之书，述窦宪殷勤之意，而羡其远略，则超与固非意异而不相谋也。其立言也如彼，其兄弟相奖、诬上徼幸以取功名也如此，弄文墨趋危险者之无定情，亦至此乎！班氏之倾危，自叔皮而已然，流及妇人而辩有余，其才也，不如其无才也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-18",
+      "number": 19,
+      "title": "章帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0678",
           "version": "sha256:62026c6d8eff175e149ee6a8561c5c74f17bc134582baea7ef1d5bc4dcb0307f",
@@ -4287,7 +4440,16 @@
           "version": "sha256:aff17404c7be7215a16697d0801d1cc3c71f16947d3f8cb3d79472f5fd27b4c9",
           "text": "有虞氏五载一巡守，岁不给于道途，所谓“尽信书则不如无书”也。周制：十有二年，王乃时巡。历三傅而昭王以死，四传而穆王以荒。封建之世，天子之治，止千里之畿，则有暇以及远。五服之君，各专刑赏之柄，则遥制而不能。然且非虞舜、成王而利不偿害。况以一人统天下而耳目易穷，自非廓然大公、推诚以听监司郡县之治，未有能消天下之险阻者也。又况乐酒从禽、游观无度，如顺、桓二帝之资以为口实哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-19",
+      "number": 20,
+      "title": "和帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0711",
           "version": "sha256:4f237caf0951e5d35d22ab079bc075acf444e61b0a62633cb64739d63eee5ce5",
@@ -4923,7 +5085,16 @@
           "version": "sha256:ccf06c0dd51ab31f304262b8e03396cdd8739d32879ca99b985e4c4e30ecb4b2",
           "text": "人主即至愚且忍，未有不欲其子为天子者也。其或有所废者，必有所立，类皆私嬖妾、宠庶孽，而要亦授于其子。安帝仅一子尔，旁无嬖庶，年甫十岁，性犹婉顺，而惑于宦寺，忍弃之钟下，而不恤己之无苗裔，此诚古今之至不仁者矣。奄人之崇恶也，毒螫善类，攻毕己以行私尔。即至伤及元良，如伊戾、赵高之为，亦阴有攀附，仍不舍其君之子，而但逞于一时。王圣、江京、樊丰之琐琐怀忿于王男、邴吉，而怨及国本，吾君仅有一子，而敢摧折以濒于死亡，此诚天下之至不祥者矣。而耿宝无知，丧心失志，徇至不祥之人，行至不仁之事，惑古今至愚至忍之安帝，赖其宠禄，而附险毒之奄妾以为援；帝死未寒，宝先死于阎显之手，与圣、丰而俱炉。呜呼！不可与为父子者：必不可与为君臣。不可与为君臣者，必不可与为朋友。宝也、显也、京也、丰也，歧首之蛇，还自相噬，而阎后亦因以毙。按顺帝虽纳周举之谏，复朝阎后，而数日后阎后辄崩，其死于见迫可知，史讳言之耳。不仁之尤，不祥之甚，未有能终日者也。刘授、刘熹、冯石之为三公，缄默不言，辱人贱行，身逸鉄钺，而耻心荡然矣。卷八",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-20",
+      "number": 21,
+      "title": "顺帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0817",
           "version": "sha256:3538ea9bb3224d8c100c7fef82b67be7a2e6b57a749b26d76dad0969999841b3",
@@ -5061,7 +5232,16 @@
           "version": "sha256:ec25c5bc8484a7c4abc2266a9f932f5b7226aed08f44a834531f7f7594e32ef0",
           "text": "均之抚也，祝良、张乔用之交耻而定，张纲用之广陵而咨益猖，其术同而效异者，则又有说。蛮夷之寇边鄙进为寇而退自有其田庐之可居，姻亚乡闾之可与处，则敛戢以退，而固不失其所，抚之斯顺矣。生中上为编氓，一行为盗，反而无以自容，使游泳于非逆非顺之交，翱翔而终思矫翮；抑且弭之拳之，宠而荣之，望其悔过自惩而不萌异志，岂能得哉？张纲者，以缓梁冀一时之祸，而不暇为国谋也，何足效哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-21",
+      "number": 22,
+      "title": "桓帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0840",
           "version": "sha256:f0b9456d364bbeb1d4beba0b738a7b53c007abc86db7aa26527435e068fcb335",
@@ -5343,7 +5523,16 @@
           "version": "sha256:be89b9a270b689c81e63bbd4f7a38dfbfe31decbf9f7a61327f27d3fb245f87a",
           "text": "直击严嵩，而椒山之死以正；专劾魏阉，而应山之死以光；党锢诸贤，其不得与二君子颉颃焉，无他，岑晊、张俭之流有以累之也与！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-22",
+      "number": 23,
+      "title": "灵帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0887",
           "version": "sha256:57c8749b215cd149a2c4d3f49b414f6da386db1d70bb1aa236099631bedd4ff0",
@@ -5727,7 +5916,16 @@
           "version": "sha256:3f6972a5ca556d80b4303b315c3d226aa595902ca469e6b78819f6655cbe708f",
           "text": "士苟贞志砥行以自尚，于物无徇焉，于物无侮焉，则虎狼失其暴，蝮蛇失其毒。天下之穰穰而计祸福者，皆足付一笑而已。故庄子曰：“大浸稽天而不溺，大旱金石流而不热。”岂有神变不测者存乎？贫而安，犯而不校，子孙不累其心，避就不容其巧；当世之安危，生民之疾苦，心念之而不尝试与谋；文章誉望，听之后世而不亟于自旌；其止如山，其涵如水，通古今、参万变以自纯，则物所不得而辱矣。此安土之仁，所谓即体以为用者也，蟠庶几矣。何以知之？以其笑而不荅知之也。而浅人犹谓之曰知几，若邕与爽，其仅谓之不知几也与？卷九",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-23",
+      "number": 24,
+      "title": "献帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-0951",
           "version": "sha256:5d481f3a96f323a4b8e5f2d63ec3cbf4325eceede3ba51afc69249684c8818ec",
@@ -6525,7 +6723,16 @@
           "version": "sha256:8ee0c9a0bfee283496312b6b32cba9f8b8a68c83f223b4e4a1ba2d2113e82027",
           "text": "然则先主岂特不能将羽哉？且信武侯而终无能用也。疑武侯之交固于吴，而不足以快己之志也。故高帝自言能用子房者，以曹参之故旧百战之功，而帷幄之筹，唯子房得与焉。不私其旧，不骄其勇，韩、彭且折，况参辈乎？先主之信武侯也，不如其信羽，明矣。诸葛子瑜奉使而不敢尽兄弟之私，临崩而有“君自取之”之言，是有武侯而不能用，徒以信羽者骄羽，而遂绝问罪曹氏之津，失岂在羽哉？先主自贻之矣。卷十",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-24",
+      "number": 25,
+      "title": "三国",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1084",
           "version": "sha256:96779f8cca52e02834341b48a4c46cc6159a9f5635ede9f5a8540e12382ae001",
@@ -7797,7 +8004,16 @@
           "version": "sha256:9999abd1129e66b7dba8daad9c1f3baa752a47e62b2942724fc188cf0cdc9ae1",
           "text": "夫一时徇名依附之众，不足言也。李憙、刘毅、傅咸忠直为当时之领袖，而不能取前谗后贼为宗社效驱除，晋之廷，不可谓有人矣。植君子则小人自远，则以进贤为本，斥奸为末，此自奸邪未逞之日言也。不逐小人则君子不安，则以斥奸为本，进贤为末，此为奸邪已盘踞于内之日言也。二者互相为本未，而君子知择焉，乃以明于人臣之义，而为社稷所赖。非然，则相激以益其乱而已矣。卷十二",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-25",
+      "number": 26,
+      "title": "惠帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1296",
           "version": "sha256:3b7b9900a262f6ebe724234779913233d0ebdcc94f8af6848ab236468234de9e",
@@ -8067,7 +8283,16 @@
           "version": "sha256:e5263dcbb1fe2ce61f52035016e42f7b2e8a0f6503c66d24cd2f8148929144d2",
           "text": "呜呼！地皆有人也，民皆有望也，用人者迫求之骤起喜事之人，而略老成物望之士，求民之归也难矣。光武所与兴者，南阳崛起之流辈，而其收河北以为根本，则唯得耿弇、寇恂、吴汉而大业定。刘焉倚东州兵为腹心，以凌驾蜀人而内乱；驯至于先主，所与者皆平原初起之爪牙，故两世而不收蜀一士之用，其亡也，民且去之若遗也。刘弘、王导知此，而以树建业百年之基，就其地，得其人，定天下之大略也，允矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-26",
+      "number": 27,
+      "title": "怀帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1341",
           "version": "sha256:110b504ebf397372d5a7422f091133a58d6e1dc2886dbc84f904ffbc85d7c2b4",
@@ -8235,7 +8460,16 @@
           "version": "sha256:f347c1f5b78ec99b2826002b07c440e95faa1fba6156b3498e973a6c4f23c24c",
           "text": "刘聪凶暴嗜杀，殷以是为保其富贵之计则得矣。以献女媚夷之禽心，而姑取誉于天下，其术巧矣。本不足与深论，而邪说一倡，若苏轼谏臣论之类，师其说以为诡遇之术，君臣之义废，忠佞之防裂矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-27",
+      "number": 28,
+      "title": "愍帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1369",
           "version": "sha256:afaca9d9801ff8182127666c157146dbe0af606c41eb1283a190724c8a34f3e6",
@@ -8553,7 +8787,16 @@
           "version": "sha256:a17362d7695bf93b9230bd8efea63361e608fd07b43a98febc1d1bd8394d1530",
           "text": "呜呼！岂徒如导者，系国家安危之大故，人臣贞邪之大辨哉！凡人之亲爱其宗族也，亦各有道矣。己所得为，无不可推也；上而君，降而友，又降而凡今之人与凡天下之物，非吾所得私者，不得以自私，则抑不得以私其诸父昆弟。妄欲者何厌之有哉？教以正，迪以自立之方，士习为士，农习为农，黠者戢之，弱者振之，非徒无伤于天下，而抑可以保跃冶之子弟而予之安，则可以上告祖考而无憾矣。徇族党好恶之私，己虽正而必陷于邪，辱身不孝之罪，又奚逭哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-28",
+      "number": 29,
+      "title": "明帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1422",
           "version": "sha256:b9b581e0ee1fa1024153de56deb592ce751cedc686659e9eb797c89a559b5565",
@@ -8595,7 +8838,16 @@
           "version": "sha256:1301647375dd7e501cf4ae89ec36d8860ced65133afdccbb40977f460e4e3d69",
           "text": "郗公爱子死而不哭，卞令力疾战而丧元，二君子者，无诸己非诸人，危言以定褒贬，非导之所能也。而引咎知非，以无异说于论定之后，夫岂不可？怙慝而欲盖弥章，不学于君子之道，虽智弗庸也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-29",
+      "number": 30,
+      "title": "成帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1429",
           "version": "sha256:530039c193a0634d97ecf45814f519e93089a2463879bd8a71afcbeeb098d927",
@@ -8973,7 +9225,16 @@
           "version": "sha256:43034d8366f78ba8caba11d1511971563e3bcd383f9cc061d9afab3948089a3c",
           "text": "陈轸说秦以灭蜀而临夷陵，楚乃失鄢、郢，东徙以亡。司马昭灭汉而临西陵，吴乃受王濬顺流之兵，而中绝以亡。梁失成都于宇文氏，而江陵困、湘东死，陈氏终以灭。盖江东据江、淮以北拒，而巴、蜀既失，横江而中溃，方卫首而中折其腰膂，未有不殒者也。李昪之得割据，王建为之蔽也；南宋之得仅延，吴玠、吴璘捍之也；孟昶灭而李煜坐毙，合州失而阳逻之渡不可防，皆明验也。故据全蜀以出秦、巩，而欲定关中则不得；扼秦、巩以保全蜀，而遥卫江南则有余；何充、庾冰闻言不警，待桓温而后兴伐蜀之师；翔言之，温为之，虽非忠于晋者，而大造于江东，不可诬也。听其言，纪其功，亦奚必深求其心哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-30",
+      "number": 31,
+      "title": "康帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1492",
           "version": "sha256:1a453522aacdf00d5065f50aa9400230a52bee455baaf6cbab6088902a76c465",
@@ -9195,7 +9456,16 @@
           "version": "sha256:2ff4efd636d4d8dd52615959aae5e9749e40ea0e5125aa3bd03d5d10ec418462",
           "text": "古之用兵者，于敌无欲多杀也，两军相击，追奔俘者无几也，于敌且有靳焉，而况其人乎！战国交争，敺步卒以并命，杀敌以万计，而兵乃为天下毒，然犹自爱其民，而不以其死尝试也。尉缭之徒至不仁，而始为自杀其人之说，于是杨素之流，力行其说以敺民于死而取胜。突围陷阵者有赏，肉薄攻城者前殒而后进，则嗜杀者，非嗜杀敌，而实嗜杀其人矣。晨与行，夕与息，环拱听命于牙旌之下，方且呴呴然相聚以相保，而威之诱之，激之迫之，唯恐其不自投于死。呜呼！均是人也，而忍至此哉！用兵之杀人也，其途非一，而敺人为无益之死者，莫甚于攻城；投鸿毛于烈燄，而亟称其勇以奖之，有人之心，尚于此焉变哉！卷十四",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-31",
+      "number": 32,
+      "title": "哀帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1529",
           "version": "sha256:2694c530923c181ad9b97dbb1a97c9d3d930579887343b8928dd4e20b1695d6f",
@@ -9321,7 +9591,16 @@
           "version": "sha256:12a54ec0e4b6b92d3e41df0d6a740e597752a5b25ae6a868bdd4998e0fc5cf3b",
           "text": "猛以桓温为不足有为而不归晋，将谓苻坚之可与定天下乎？乃坚亡而晋固存，果孰短而孰长邪？使猛随温而东也，归晋也，非归温也。猛而果有定天下之略，则因温以归晋，而因可用晋以制温。然则其不随温而东，乃智量出乎温之下，而欲择易与者以获富贵耳。慕容垂奔秦，慕容评以鬻薪卖水之猥贱而握重兵，猛灭之，非智勇之绝人，摧枯折朽之易也。苻坚之不欲杀垂，猛岂能闲之，而徒为挠乱，忌其宠而已矣。其誓三军曰：“王景略受国厚恩，任兼内外，受爵明君之廷，称觞父母之室，不亦美乎？”猛之涯量尽于此矣。绐无知之稚子而陷其死，商鞅、张仪之术也。朱子曰：“三秦豪杰之士，非猛而谁？”伏戈矛于谈笑，激叛乱以杀人，妾妇耳，奚豪杰之云！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-32",
+      "number": 33,
+      "title": "简文帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1550",
           "version": "sha256:2a62fb564b2b94c09d8332e3d8afdd792c4a6b7328fefd8d43e0308235e9a2cc",
@@ -9351,7 +9630,16 @@
           "version": "sha256:bf6c0fa9c7a0d60f01b6eb7e33e84f421facd9e949acf0b4ecca809cb2c41e8c",
           "text": "温，贼也；简文相其君而篡之，亦贼也；贼与贼以智力为胜负，而不敌者受吞，必然之势也。病而一日一夜四发诏召温入辅，遗诏且云“君自取之”，乃语王坦之曰：“天下傥来之运，卿何所嫌。”非但闇弱如谢安所云似惠帝者耳，得一日焉服袞冕正南面而心已惬，易其忌温之心而戴温不忘，乐以祖宗之天下奉之而酬其惠也。洵哉！简文之为贼也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-33",
+      "number": 34,
+      "title": "孝武帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1555",
           "version": "sha256:d36a6344131ddfc005face2e15119d2d208cd33046a212d16b3f7d454e955885",
@@ -9633,7 +9921,16 @@
           "version": "sha256:e5949517bfa74d2f8ee4e3e9f41a72049176853592ead11c4f25309f18dd99ab",
           "text": "姚兴之盛也不如苻氏，其暴也不如刘、石，迟之数年而兴死矣、泓灭矣，拓拔氏尤能容我而无殄灭之忧者，俟之俟之，隋兴而以清白子孙为禹甸之士民，岂遽不可？然而终不及待也。一失其身，而历世之流风以坠。前之人亦自靖而已矣，遑恤我后哉？溧阳史氏以建文旧臣，三世不入庠序，而史鉴之名凌王鏊而上之，何史氏之多幸也！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-34",
+      "number": 35,
+      "title": "安帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1602",
           "version": "sha256:1d57df80b0579eed7ff56550cbe87e0d9ad2e9b84784fbda9acf55fc3db19694",
@@ -10119,7 +10416,16 @@
           "version": "sha256:354cde449cced8cd0f4c9779545450386e9a5dd2fb8d5fbcc0ab97b1a28f3614",
           "text": "裕之为功于天下，烈于曹操，而其植人才以赞成其大计，不如操远矣。操方举事据兗州，他务未遑，而亟于用人；逮其后而丕与叡犹多得刚直明敏之才，以匡其阙失。裕起自寒微，以敢战立功名，而雄侠自喜，与士大夫之臭味不亲，故胡藩言：一谈一咏，搢绅之士辐凑归之、不如刘毅。当时在廷之士，无有为裕心腹者，孤恃一机巧汰纵之刘穆之，而又死矣；傅亮、徐羡之、谢晦，皆轻躁而无定情者也。孤危远处于外，求以制朝廷而遥授以天下也，既不可得，且有反面相距之忧，此裕所以汔济濡尾而仅以偏安艸窃终也。当代无才，而裕又无驭才之道也。身殂而弑夺兴，况望其能相佐以成底定之功哉？曹操之所以得志于天下，而待其子始篡者，得人故也。岂徒奸雄为然乎？圣人以仁义取天下，亦视其人而已矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-35",
+      "number": 36,
+      "title": "恭帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1683",
           "version": "sha256:bd692f5600ba2f3c768c9e62ecdc62c49cf71f48fa3013c097d58f5902f31eab",
@@ -10167,7 +10473,16 @@
           "version": "sha256:b2b886d6f180d259f789818499444b442a3990101e197cc0101bb6d60ff53275",
           "text": "刘裕篡晋，而徐广流涕，此涕也，岂徐氏之私怨而肃然伤心者乎？通国之变，盈廷之耻，苟有人之心者，宜于此焉变矣。谢晦者，晋之世臣也，从容谓广曰：“徐公，得无小过。”广曰：“君为宋佐命，身是晋遗臣，悲欢固不可同。”则已置晦于人伦之外而绝之矣。晦亦若置广于物理之外而任之，无媿也，无忌也。人自行，禽自飞，兰自芳，莸自臭，同域而不惊，同时而不掩。呜呼！天下若此，而君子所以救世陷溺之道穷矣。微独晦也，宋君臣皆夷然听广之异己而无忌之者。嗣是而刘彧、萧道成、萧鸾、萧衍，相袭以怙为故常。君臣义绝，廉耻道丧，置忠孝于不论不议之科，为其所为，而是非相忘于无迹。不知者以为其宽厚，而孰知其天良灭绝之已极哉！曹操之杀孔北海，司马昭之杀嵇中散，耻心存焉。至于晋、宋之际，而荡尽已无余，“八表同昏，平路伊阻，”陶元亮之悲，岂徒为晋室之存亡哉？卷十五",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-36",
+      "number": 37,
+      "title": "宋武帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1691",
           "version": "sha256:1ba2c61b3039ec604fa50cb4d5023312cf349491270150d13e5a49d27da42bdc",
@@ -10233,7 +10548,16 @@
           "version": "sha256:500e5e82dc7e0b6c46eabb2dcc6d2e015b77a68758029d0440a968de840646cc",
           "text": "故有天下者，崇儒者以任师保，若无当于缓急，而保宗祊、燕子孙、杜祸乱者，必资于此。诗书以调其刚戾之气，名义以防其邪僻之欲，虽有私焉，犹不忍视君父之血胤如鸡鹜，而唯其疈砾。若夫身为人国之世臣，无难取其社稷唯所推奉而授之。若谢晦者，又居高位、拥兵柄，足以恣其所为；吾即可否不见于辞，喜怒不形于色，尚恐其窥测浅深而乘隙以逞，况以苞桑之至计进与密谋乎？至慎者几也，至密者节也；衡鉴定于一心，折衷待之君子。唐德宗谋于李泌，宋英宗决于韩琦，而祸乱允戢，其明效也。拓拔嗣询崔浩而国本定，亦庶几焉。知谢晦之险而信之，国不亡，幸也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-37",
+      "number": 38,
+      "title": "营阳王",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1702",
           "version": "sha256:e1301a26dc3fed800fef92a6b828537c87236f2fd62c90bf89f8f6c5c289a747",
@@ -10281,7 +10605,16 @@
           "version": "sha256:10c8c4b3945b9f6da96bd02b0a5450e657243c5ba490ef212cd3898f933825e5",
           "text": "江东自谢安薨，道子、元显以昏浊乱于内，殷仲堪、王恭以嬛薄乱于外，闇主尸位，寇攘相仍，王谧之流，党同幸免，廉耻隳，志趋下，国之无人久矣。非天地之不生才也，风俗之陵夷坏之也。苟非机变，则庸沓而已。迨乎机变之术已穷，庸沓之人已老，然后华、昙首、殷景仁、谢弘微脱颖以见。使宋之初有此数子者侍于密勿之地，晦等之恶何足以逞，而武帝亦恶役役于此数人而任之乎？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-38",
+      "number": 39,
+      "title": "文帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1710",
           "version": "sha256:ca8433faefba4ba4e6a235aec4ae45a090003fa8f5eebc43774fbf5b037a5de5",
@@ -10719,7 +11052,16 @@
           "version": "sha256:f8b3c4aea736aa993f8e7362ba94c315343b55a8e1407cc1be3fda043cb12173",
           "text": "元凶为逆，孝武起兵以致讨，元凶败矣，萧斌解甲带白幡来降，逆濬就江夏王义恭以降，而但问来无晚乎，固自谓得视王谧，斌犹可立人之朝，濬犹可有其封爵也。于是斩斌于军门，枭濬于大航，法乃伸焉，则人知覆载不容之罪无所逃于上刑。于斯时也，义愤所激，天良警之，人理不绝于天下，恃此也夫！故延及齐、梁而父子之伦独重。梁武于服除入见者，无哀毁之容，则终身坐废。区区孱弱之江左，拥衣冠而抗方张之拓拔，存一线人理于所生，而若或佑之；于此可以知天，可以知不学不虑之性矣。萧正德，萧综捐父事贼，而无有正天诛者，然后江东瓦解以澌灭。兴亡之故，系于彝伦，岂不重与！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-39",
+      "number": 40,
+      "title": "孝武帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1783",
           "version": "sha256:d36a6344131ddfc005face2e15119d2d208cd33046a212d16b3f7d454e955885",
@@ -10881,7 +11223,16 @@
           "version": "sha256:a06042662d2789357e5a9a0f70791cbcd5bf187f12c69f5119e260c1516b7b45",
           "text": "人而相杀矣，诸侯杀之，大夫杀之，庶人之强豪者杀之，是黾之相吞而鲸鲵之相吸也。夫禹、汤、文、武岂虑之未周，法之不足以立乎？自邃古以来，各君其士，各役其民，若今化外土夷之长，名为天子之守臣，而实自据为部落，三王不能革，以待后王者也。至于战国，流血成渠，亦剥极而复之一机乎！汉承秦以一天下，而内而司隶，外而刺守，若严延年、陈球之流，亢厉以嗜杀为风采，其贪残者无论也，犹沿三代之敝而未能革也。宋孝武猜忌以临下，乃定“非临军毋得专杀、非手诏毋得兴军”之制，法乃永利而极乎善，不可以人废者也。嗣是而毒刘之祸以减焉。至于唐、宋，非叛贼不敢称兵；有司之酷者，惟以鞭笞杀人，而不敢用刀锯；然后生人之害息，而立人之道存。不然，金、元之世，中国遗黎，其能胜千虎万狼之搏噬乎？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-40",
+      "number": 41,
+      "title": "前废帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1810",
           "version": "sha256:0cdf4dc9d462d69924bd2c30cd8a2cd729763409c5e15bda2768aebf2e2c6046",
@@ -10905,7 +11256,16 @@
           "version": "sha256:16c6a6e4848cd5a3b4e0d9290986b74c5bb5dbf5a5f5a8ca03409b03d793b34a",
           "text": "呜呼！董卓推陈留之刃，司马懿解曹芳之玺，桓温夺帝弈以与简文，刘裕弑安帝以立琅邪，皆假伊、霍以为名而成其篡。后此者，道成之弑苍梧，萧衍之戕东昏，皆已弑而必篡者也。庆之三朝宿将，威望行于南北，扶孝武以诛元凶，位三公而冠百辟，将吏皆出其门，扑子业之洊凶，以解朝野之焚溺，此乃乘时以收人心而猎大位之一机也。向令独夫已殄，众望聿归，且有骑虎不下之势，宋太祖所谓黄袍加身不繇汝者，刘氏之宗祜，且移于沈而不可辞。庆之虑此，而忍以其身为莽、操乎？进则帝矣，退则死矣，决之于心，而安于抱忠以死，故曰抱孤志以质鬼神，六代之臣，庆之一人而已。如曰愚以亡身，则箕子、比干先庆之而愚矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-41",
+      "number": 42,
+      "title": "明帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1814",
           "version": "sha256:b9b581e0ee1fa1024153de56deb592ce751cedc686659e9eb797c89a559b5565",
@@ -11067,7 +11427,16 @@
           "version": "sha256:4369036163ac32f4baf25f10392feb8b46149816345e2f2b0d040118b5424684",
           "text": "拓拔氏，夷也，闻中国有圣人之道焉，取其易行者而行之，于是奔走郡县而名为劝农；又勒取民牛力之有余者，以借惰窳之罢民。其挠乱纷纭，以使民无宁志也，不知何若，守令乃饰美增赋以邀赏，天下之病，尚忍言哉！蒙古课民种桑，而桑丝之税加于不宜桑之土，害极于四百余年而不息。读古人书而不知通，旦识而夕行之，以贼道而害及天下，陋儒之妄，非夷狄之主，其孰听之？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-42",
+      "number": 43,
+      "title": "后废帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1841",
           "version": "sha256:0e0696b147fd607f9f385e527ec0bb02b0dbb16ff94d110edc268f2fe698dd08",
@@ -11127,7 +11496,16 @@
           "version": "sha256:64af24e215416b849770258a492e8e2d52988d7f21fbb1cabd59d16c33351758",
           "text": "若其罢门房之诛，则得之矣。乃门房之诛所自来，亦有繇也。夷狄而主中国，王侯将相皆其种类，群起于驰逐之中，儦儦俟俟以为群友，则一人富贵而合族骄盈，耕者不耕，猎者不猎，依倚势门，互相煽虐，非被诛者之陷及门房，而门房之陷人于诛者多矣。安与同其噬搏，危与共其诛夷，亦自取之矣。前之立法者，深恶夫合族之蜂集，待食于将吏，众为虐而一人独婴其祸，弗与惩之，而门房之败类横逞益烈也。罢其诛，不禁其朋从之恶，拓拔氏之所以敛怨而终亡也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-43",
+      "number": 44,
+      "title": "顺帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1851",
           "version": "sha256:3538ea9bb3224d8c100c7fef82b67be7a2e6b57a749b26d76dad0969999841b3",
@@ -11145,7 +11523,16 @@
           "version": "sha256:9a7be4c176c5ada838f2d06397d5f71f28cf0ee65ec18cfe59a5ca0de8ff93da",
           "text": "苍梧之昏虐，安成之巽愞，皆道成所不以置诸目中者，所与争天下者，攸之而已。攸之又岂有刘氏之子孙在其意中乎？攸之之欲为道成也，非一日也。兵已顺流直下，而道成授首于内，则攸之歌舞而入，挟重兵，居大功，握安成于股掌，二子欲与异而固不能。委社稷于攸之，掷宗祊于道成，有以异乎？吾知二子者，歧路仓皇，欲如今日之捐生以报国，不可得已。此无他，以刚决为嫌，以深谋为讳，自孝建以来，士大夫酿成雍容观变之习，蔡兴宗已启其源，而流不可止也。故兴宗之死，无可为宋惜者。兴宗存，则为袁、为刘，否则为谢朏而已。史称粲简淡平素无经世材，非无材也，狎于全身避咎之术，以逃猜主之鼎鑊，气已茶而不可复张。宋末之人材，大抵然也。故以猜驭下者，其下慑焉而旁流，刚化为柔，直化为曲，密化为疏，祸伏而不警，祸发而无术，为君子者，无以救其亡，而小人勿论已。卷十六",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-44",
+      "number": 45,
+      "title": "齐高帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1854",
           "version": "sha256:38c47a8f7e97f0c417bd1334bb24cec723d863cd6727c70e4c551d0b01abc086",
@@ -11223,7 +11610,16 @@
           "version": "sha256:1dd8f277ea6caaf8a2107f75269aa3414809e7b3afec51bbd348296a4dde60da",
           "text": "褚贲之辞父爵，疑非人子之道矣；而屏居墓下，终身不仕，则先自靖而不伤父子相隐之恩；无他，忘利禄而后可曲全于人伦之变也。以名位权势而系其心者，于君亲何有哉？张居正以冲主为辞，杨嗣昌以灭贼自诧，幸而先填沟壑，不及见国之亡尔，不然，其为褚渊必也。绝其本根，见弃于天，人之贱之也夙矣。不待恶已著见而后不容于天下也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-45",
+      "number": 46,
+      "title": "武帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1867",
           "version": "sha256:e6941b58b9a4f847560c2b4794e8a4cc03081f159a527b96bfd0ca22dd518e75",
@@ -11409,7 +11805,16 @@
           "version": "sha256:8be73fa6a112c5abbd385f83c520a8ed4020adfd92170d1c6aaa40dd3e31600c",
           "text": "易曰：“谦，德之柄也。”君子以谦为柄，而销天下之竞，岂失其柄以为谦，而召奸究以得志乎？秉终受刃，而子良鬱鬱以亡，亦自悔之弗及矣。更称“子良仁厚，不乐世务，故以辅政推鸾”。诚不乐世务也，山之椒，水之湄，独寐窹歌，胡为乎立百僚之上而不早退也？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-46",
+      "number": 47,
+      "title": "鬱林王",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1898",
           "version": "sha256:461fb3627ca88c558063a719cd94efdf3eb457971557cbc6702516d2be539343",
@@ -11451,7 +11856,16 @@
           "version": "sha256:ae7d6d4c567de24d0c43cca05512d9349cf62617389a91e79dda5d8393cce15f",
           "text": "萧鸾之弑郁林也，谢瀹与客围棊，局竟，遂卧而不问；虞悰闻变，但曰“王、徐缚袴废天子，天下岂有此理邪？”江斅则托疾吐哕而去；谢朏出为吴兴守，致酒数斛与其弟，曰：“可力饮此，勿豫人事。”此数事者，当时传之以为高。而立人之朝，食人之禄，国亡君弑，若视黄雀之啄螳螂，付之目笑，非至不仁者，其能若此乎？故刻薄残忍者，清之不戢，祸及君亲，而清宵一念，犹有媿悔之萌。唯若瀹、悰、斅、朏之流，恬然自适，生机斩而痛痒不知，仁乃永不生于其心，而后人理尽绝。士大夫倡之，天下效之，以成乎不仁之天下。追原祸始，唯耼、朱、庄、列“守雌”“缘督”之教是信，以为仁之贼也。君子恶而等之洪水，恶此而已。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-47",
+      "number": 48,
+      "title": "明帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1905",
           "version": "sha256:b9b581e0ee1fa1024153de56deb592ce751cedc686659e9eb797c89a559b5565",
@@ -11523,7 +11937,16 @@
           "version": "sha256:202a44c6b10d79485a872d4ef418647a94e5e40e6c8bcc72fe6c67bf5bf8f851",
           "text": "夫朓直未闻君子之教、立身于寡过之地而已，非怀情叵测、陷人以自陷之佥人也，而卒以不令而死。夫君子之处此，则有道矣：可弗仕，勿仕也；仕可退，无待而退也；无可退焉，静而若愚，简而若荡；既已为文人矣，山川云物之外，言不及于当世，交不狎于乱人，则庄周所谓才不才之闲者近之。而益之以修洁，持之以端严。乱人曰：此沈酣词艺而木强不知道者，未足与谋也。则虽怀慝而欲相告，至其前而默然已退。荣不得而加，辱不得而至，福不得而及，祸不得而延，庶其免夫！朓之不能及此也，名败而身随之，宜矣。虽然，又岂若范晔、王融、祖珽与魏收之狂悖猥鄙乎？谚曰：“文人无行。”未概可以加朓也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-48",
+      "number": 49,
+      "title": "东昏侯",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1917",
           "version": "sha256:68517e98d1ae57733fb50cf219d2b7ec80f79de26cb744cfdfb406b3510e843b",
@@ -11595,7 +12018,16 @@
           "version": "sha256:ee97de6e1d221c1984dd8d5fda9d746d09c53b2a29453da867e9abc65b1b241b",
           "text": "乃若衍之恶不可掩者，则弑和帝是已。衍固欲置之南海，而沈约以危词动之，然衍以是恶约，夺其权而加以恶谥，则衍且有自艾之心矣。若颖胄之茸顽，而欲师道成、鸾之故辙，死而其慝隐耳，衍之所不屑也。卷十七",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-49",
+      "number": 50,
+      "title": "梁武帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-1929",
           "version": "sha256:22a7603bea11c7cbc3652bcfa4d8adbcd855cc71de3c8f9027048e24fa928fd9",
@@ -12225,7 +12657,16 @@
           "version": "sha256:321a863f11b95c92308c6c5feedce34b5d26b2e0ff07c2c9d0c8d287db9e6bac",
           "text": "而不但此也，人主之废教于子者，类皆纵之于淫声美色狗马驰逐之中。而帝身既不然，教且不尔，是以诸子皆有文章名理之誉，而固多智数。然而所习而读者，宫体之淫词；所研诸虑者，浮屠之邪说；二者似无损于忠孝之大节，而固不然也。子不云巧言鲜仁？则言巧而仁忘，仁忘而恩绝矣。若浮屠者，以缘生为种性，自来自去于分段生死之中，父母者，贪欲痴爱之障也，以众生平等视之，见其危亡，悲愍而已，过此又奚容捐自有之生缘以殉其难乎？二者中于人心，则虽禽呴鱼沫，相合以相亲；而相离以相叛，不保之于势穷力蹙之日矣。然则谓帝慈之已过者，非果慈也，视其子无殊于虎，以大慈普摄投身饲之而已。其学不仁，其教无父，虽得天下，不能一旦居，岂有爽与？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-50",
+      "number": 51,
+      "title": "简文帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2034",
           "version": "sha256:2a62fb564b2b94c09d8332e3d8afdd792c4a6b7328fefd8d43e0308235e9a2cc",
@@ -12315,7 +12756,16 @@
           "version": "sha256:0f25b95f0f123209df8e7ddc01c46da0d04415570875001280a7ad8c60f4acd2",
           "text": "无能为，则不丧己而永为君子焉已耳。君子者，知之审而居之安也。生死也，成败也，居之安者所不为时势乱也。不乱，而后可以安死；可以安死，而后可以贵生；贵生，而后可以善其败；善其败，而后可以图其成。故晋明帝可以折王敦，谢安可以制桓温，气先定、神先凝也。太子未履晋明之位，张嵊不秉谢安之权，而梁亡必矣。下此则武陵、湘东、邵陵而已矣，柳仲礼、韦粲而已矣，虽矫举以兴，徒速其亡，而何裨焉？国无君子，则无以立，信夫",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-51",
+      "number": 52,
+      "title": "元帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2049",
           "version": "sha256:337c02d2cd2a37126cc59825ebdf11789b2374e6fef76f678af07e9c6c5de2c8",
@@ -12369,7 +12819,16 @@
           "version": "sha256:6c489a26c68f34aeb7e300b26f1bac5ab9df195d2102b29789e91325aa178cc0",
           "text": "夫读书将以何为哉？辨其大义，以立修己治人之体也；察其微言，以善精义入神之用也。乃善读者，有得于心而正之以书者，鲜矣。下此而如太子弘之读春秋而不忍卒读者，鲜矣。下此而如穆姜之于易，能自反而知媿者，鲜矣。不规其大，不研其精，不审其时，且有如汉儒之以公羊废大伦，王莽之以讥二名待匈奴，王安石以国服赋青苗者，经且为蠹，而史尤勿论已。读汉高之诛韩、彭而乱萌消，则杀亲贤者益其忮毒；读光武之易太子而国本定，则丧元良者启其偏私；读张良之辟谷以全身，则鑪火彼家之术进；读丙吉之杀人而不问，则怠荒废事之陋成。无高明之量以持其大体，无斟酌之权以审于独知，则读书万卷，止以导迷，顾不如不学无术者之尚全其朴也。故子曰：“吾十有五而志于学。”志定而学乃益，未闻无志而以学为志者也。以学而游移其志，异端邪说，流俗之传闻，淫曼之小慧，大以蚀其心思，而小以荒其日月，元帝所为至死而不悟者也，恶得不归咎于万卷之涉猎乎？儒者之徒而效其卑陋，可勿警哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-52",
+      "number": 53,
+      "title": "敬帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2058",
           "version": "sha256:180a5581280079e7c3c4869334a71c75829b5f33332d44783be879bdb8a32613",
@@ -12447,7 +12906,16 @@
           "version": "sha256:026541c219b1ba275466bbe3cad91887ab9d0d0ca1a1bde7a2009250b8252be6",
           "text": "以在下之义而言之，则寇贼之扰为小，而篡弑之逆为大；以在上之仁而言之，则一姓之兴亡，私也，而生民之生死，公也。故明王之涖臣民也，定尊卑之秩，敦忠礼之教，不失君臣之义，而未尝斤斤然畏专擅以削将相之权。子孙贤，何畏于彼哉？其不肖也，则宁丧天下于庙堂，而不忍使无知赤子窥窃弄兵以相吞齧也。鲁之末造，三桓之子孙既弱，阳虎、公山不狃狂兴，而鲁国多盗，孔子伤之矣！徒以抑疆臣为春秋之大法乎？故以知胡氏之说，宋人之陋习也。卷十八",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-53",
+      "number": 54,
+      "title": "陈高祖",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2071",
           "version": "sha256:e24fddff369c97cfd7095a3d9435ef8b44cba5f7a31b9988092ec898ba57d3e6",
@@ -12519,7 +12987,16 @@
           "version": "sha256:27b644f85fa04a96d92f27783606235e4554b19b3e428e7776f6eaf7f08fdc26",
           "text": "琼者，孝宽之兄，放者，世衡、师道之族也，故二子者尤相肖。其家，赫然著显名、居厚实于天下，而己得以高卧，邀人主之尊奖，则亦何求于一命之荣哉？二子者尤相肖也，此为逍遥公、豹林处士而已矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-54",
+      "number": 55,
+      "title": "文帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2083",
           "version": "sha256:ca8433faefba4ba4e6a235aec4ae45a090003fa8f5eebc43774fbf5b037a5de5",
@@ -12657,7 +13134,16 @@
           "version": "sha256:d8b38a15d65448b1081183401ab3af907e916fb50c71ec4a12a353d3abeb8b9c",
           "text": "人主者，以臭味养贤，以精神感众者也。道以导之，德以得之，道德者，即其臭味；导之得之者，其精神也。陈高祖一偏禆之才耳，任之为大将而固不胜者也，而使为天子，其仅足以致拳勇无廉之武夫，文墨不害之文吏，非是臭味莫相亲，精神不相摄矣。偏求其时而无其人，仅一虞寄，而出为藩王之记室，天下之士，相帅以趋于偷，天生之，人主不成之，当世不尚之，何怪其不碌碌哉？故江东王气之将尽也，为之主者气先疲也。所知、所志、所好、所恶，不出于颎，则人胥奔走于颎中，夕阳之照，晨星之光，趋于尽而已矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-55",
+      "number": 56,
+      "title": "宣帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2106",
           "version": "sha256:de59e85da630633ee17be93516287754eb040c0848a7ed9b44b2ae112ed3ca97",
@@ -12915,7 +13401,16 @@
           "version": "sha256:97b07f934e2105b2fdb29cb372e0084d2bd9bd8393ededcb89e6ab475bb5aa4d",
           "text": "故善谋国者，不忧其所忧，而忧其所不忧，不震掉失守于一朝，不席安自弛于弥日，孰得而乘之哉？而庸人不能也。庸人之愚，智人之资。响令陈人请和之使不出，高颎且进退无据，而茶然以返，隋气挫而陈可以不亡。夫岂陋君具臣之所及哉！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-56",
+      "number": 57,
+      "title": "后主",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2149",
           "version": "sha256:c3a31ee2f6c51c137e52ef551638f901e424c299e82bf06aa001ec54d8750be2",
@@ -12963,7 +13458,16 @@
           "version": "sha256:cd7b8289dc6acd776405f2d363b1c0356410739ae00db0e882d6decc07100a14",
           "text": "陈亡，袁宪侍后主而不忍去；许善心奉使未返，而衰服以临；周罗大临三日，而后放兵散仗；陈叔慎置酒长欢，而谢基伏而流涕；任环劝王勇求陈后立之，不听而弃官以隐；于仗节死义未能决也，而皆有可劝者焉。慕容、姚、苻、高氏之灭，未有此也，其或拥兵而起，则皆挟雄心以徼利者尔。晋南渡而衣冠移于江左，贤不肖之不齐，而风范廉隅养其耻心者，非暴君篡主之能销铄也。诸子之不死，隋不杀之耳，皆无自免于死之道也；无求免于死之道而不死，不死不足以为其节累。且陈氏之为君微矣，其得国也不以义，非有不可解君臣之分也；所不忍亡者，永嘉以来，中原士大夫之故国，先代仅存之文物，不忍沦没于一旦也。虽然，陈不能守，而隋得之，固愈于五胡之种多矣。诸子者，视家铉翁、谢枋得而尤可不死，然而毅然以名教自尽也，不尤贤乎！卷十九",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-57",
+      "number": 58,
+      "title": "隋文帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2157",
           "version": "sha256:452bb7cf496596799e3bb66b6c2c281643ed79d6676a2924e6c19c6510c873c3",
@@ -13335,7 +13839,16 @@
           "version": "sha256:58cd9d294324389abbdf8a42ff01f801af25ebde71e39e86149a46a88aba9acd",
           "text": "夫圣人者，同于人者也；为创见之事，举世惊之，必有伪焉，秉正者所弗惑也。若伽者，固不容于尧、舜之世，唯不容焉，斯以为尧、舜之智与！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-58",
+      "number": 59,
+      "title": "炀帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2219",
           "version": "sha256:2a65670307c051be9c461e074bba43c038985360c85b1da0efe7a0f27d54ce71",
@@ -13599,7 +14112,16 @@
           "version": "sha256:b4aba6130d3c02f6374b1cbfbbe2ab614c7b151a88e3b689c0df3831d4a62b9e",
           "text": "杨广之不道而见弑于宇文化及，许善心、张琮抗贼以死，当斯时也，虽欲不死而不得也。麦孟才、沈光讨贼而见擒，麾下千人无一降者；李袭志保始安，闻弑哭临，坚守而不降于萧铣，岂隋氏之能得人心？而顿异于宋、齐以来王谧、褚渊恬不知媿之习者，何也？十三载居位之天子，人虽不道，名义攸存，四海一王，人无贰心，苟知自念，不忍目击此流血宫庭之大变也。唐高祖闻变而痛哭，岂杨广之泽足以感之？而又岂高祖之伪哀以欺世乎？臣主之义，生于人心，于此见矣。故庄周曰：“无所逃于天地之闲。”君子恶其贼人性之义，有以夫！卷二十",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-59",
+      "number": 60,
+      "title": "唐高祖",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2263",
           "version": "sha256:eadc05bc5df44b6f52422f7445a35dfae2619c5ee20df4f01b7b144681caf97e",
@@ -13893,7 +14415,16 @@
           "version": "sha256:3be377412e61fb35ae805e571ceecd1016da163623db8d5e3a44483eb95d8a83",
           "text": "然则征、珪之有异于管仲者，何也？襄公弑，纠与小白出亡于外，入而讨贼，不幸而兄弟争，仲之所不谋也。子纠败，仲囚于鲁，桓公释之而使相，仲未尝就公求免以自试也。建成、世民之含毒以争久矣，知其必有蹀血宫门之惨，不能弭止其慝，抑不能辞宫僚以去之，欲徼幸以观变，二子之志偷矣。太子死，遽即秦王而请见，尤义之所不许也，斯则其不得与管仲均者也。夫魏征起于群盗之中，幸自拔以归唐，功名之士耳。“介于石，不终日”，而后可以知几。亦恶足以及此哉？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-60",
+      "number": 61,
+      "title": "太宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2312",
           "version": "sha256:49f30c12f286e4cf24ea72232de6d093e3797a0b76c0bbd6d0fadbcdd7e1c037",
@@ -14571,7 +15102,16 @@
           "version": "sha256:343c96a49835ef6f763b9a0deccb8fec42b5dedd1434d1a6aac00b097cb980fd",
           "text": "太宗迁李世勣为叠州都督，而敕高宗曰：“汝与之无恩，我死，汝用为仆射，以亲任之。”是已明知世勣之唯利是怀，一夺予之闲而相形以成恩怨，其为无赖之小人，灼然见矣；而委之以相柔弱之嗣君，不亦愚乎：长孙无忌之勋戚可依也，褚遂良之忠贞可托也，世勣何能为者？高祖不察而许为纯臣，太宗不决而托以国政，利在高宗，则为高宗用，利在武氏，则为武氏用，唯世勣之视利以为归，而操利以笼之，早已为世勣所窥见，以益歆于利，“家事”一言，而社稷倾于武氏，所必然矣。若谓其才智有余，任之以边陲可矣，锢之于叠州，唐恶从而乱哉！卷二十一",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-61",
+      "number": 62,
+      "title": "高宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2425",
           "version": "sha256:1b669e162275315b0de37844d14920efe6d702ed0e625b304cca1b8f51f5bccf",
@@ -15201,7 +15741,16 @@
           "version": "sha256:1e1f35837ed5d0600a366008a16fab2af943495a8217f27c2c018fd0f4b53101",
           "text": "临淄王曰：“事不成，以身死，不以累王。”亦未有以信其必然也。然以相王之温厚柔巽，全身于刑杀横行之日，则亦可冀其或然耳。且微临淄之举事，王亦岌岌矣。宗楚客、叶静能日谋杀王奉韦氏以夺唐祀，韦氏不诛，王固不能再全于凶妪之手，临淄不忍言耳。实则谓事不成而王危，不举事而王亦危，以必危之势，求全王而使嗣大统，势不两立，徒畏王之优柔而挠成算，告则兵不得起，宁无告也。以安社稷，以讨乱贼，以救王于颠危，在此举矣。崔日用业以宗楚客害王之谋告，而犹需迟不決乎？故临淄之不告，孝子之道也。即一事一念而言之，大舜之不告而娶，奚必远哉？是以知临淄之可与大有为也。生于薉乱之世，驰逐于声色狗马之中，而所与游者王琚之流，故终于浊乱而亏其天彝，亦不幸而不奉教于君子乎！卷二十二",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-62",
+      "number": 63,
+      "title": "睿宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2530",
           "version": "sha256:838dd86e3ba7d715d3c317487cd04467c4ad66cf3e3658f9f5a5fcb665aaf2c7",
@@ -15309,7 +15858,16 @@
           "version": "sha256:97cddbcbe8c4e8badc5fbf0bfd3246357a3f52740bdbe2975a8061108dbe4d42",
           "text": "若夫过任都督，使之畸重，则天下且不知有朝廷，而唯知有都督。节度分疆：而唐室以裂；行省制命，而元政不纲；皆此繇也。则景伯、俌之请罢之，诚定论也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-63",
+      "number": 64,
+      "title": "玄宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2548",
           "version": "sha256:281c370c87712eff5ba73847d9391f2092a3256c3246afd7dd4aa7965b1f6f9a",
@@ -15891,7 +16449,16 @@
           "version": "sha256:2c3ac3b13b2d91d6d1681e683410448250bd2875fa0e32572029f2a079900d08",
           "text": "呜呼！非徒天子然也。郡县之天下，守令为天子牧民，民其所司也，士非其世守也。禄山之乱，守州郡者，如郭纳、达奚珣、令狐潮之流，望风纳款，乃至忠贞如颜果卿、袁履谦、张巡者，亦初受胁迫而始改图，困守孤城而不知变计，几陷于逆，莫能湔涤。力不能如颜鲁公之即可有为也，则何如洁身以避之，徐图自效可也。身居危困之外，自有余地以致身尽瘁；而濡忍不决，势迫神昏，自非与日月争光之义烈、“艮其限，厉熏心”，亦危矣哉！不保其终无玷也。故守令无三军之寄，而以失城坐大辟，非法也。去亦死，守亦死，中人之情，畏死其恒也，迫之以必死，则唯降而已矣，是敺郡邑以从逆也。故曰非法也。卷二十三",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-64",
+      "number": 65,
+      "title": "肃宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2645",
           "version": "sha256:de997708f271a543d11c9e8e2d2c070dc4384d37b327bbb040f4ecf7581d2984",
@@ -16593,7 +17160,16 @@
           "version": "sha256:77da0380cc239709bdf0e237aca3f5e5f4145bd74cb9cde284ad025d76e51906",
           "text": "夫代宗非果无能为者，一受制于李辅国，而二竖因之，元载乘之，怀情以待，得绾以相而志将伸，绾遽卒，常衮不足以胜任，而代宗又崩矣，唐之不振，良可悼已！然建中之初，天下姑安者，犹绾之余休也。法先自治以治人，先治近以及远，绾清慎自持，汾阳且为之悚惕，孰敢不服哉？法犹可行，治犹可定，天夺绾而代宗终为寄生之君，过此无可为矣。卷二十四",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-65",
+      "number": 66,
+      "title": "德宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2762",
           "version": "sha256:8abf05bdd9c21936187ae5532ab3e29c1dcca07a1fdf995f05f7aa5fa6444527",
@@ -17565,7 +18141,16 @@
           "version": "sha256:f3483c304307872b323a3e97aa2ea0717b13116cedf9a1454fc32c81a06a8553",
           "text": "道处于至足者，知从我者之非诚，而违我者之必有道也。故尧无疑于群臣之荐鲧，而鲧不足以病尧。下此者，皆有不足也。知不足而不欲揜，则谀我者之情穷矣。流俗之言，苟且之计，恶足以进于前哉？此中材救过之善术也。能知此，则天下皆与善之人而奚疑乎？天下皆与善之人而又奚有所偏信乎？故德宗之失，失于信也。好谀而信之，虽圣哲痛哭而不救其败。纣之恶无他，好谀而信飞廉、恶来者深也。卷二十五",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-66",
+      "number": 67,
+      "title": "顺宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2924",
           "version": "sha256:cebe3a30a8b1922125a60623f36785c6e666ef125c3bc20f3ece20593c9b76e8",
@@ -17595,7 +18180,16 @@
           "version": "sha256:047fab0bb7bc27d51834edc28a2ecca2bf016839bcf7951c9110ce6c5b7686eb",
           "text": "繇此以观，士之欲有为当世者，可不慎哉！天下之事，昭昭然揭日月而行者，与天下共之。其或几介危疑，事须密断者，则缄之于心，而制之以独。若骤得可为之机，震惊相耀，以光大之举动为诡秘之声容，附耳蹑足，画呼夜集，排群言，敛众怨，自诩为忧国如家，乃不知旁观侧目者且加以不可居之大慝。事既祕，言不能详，欲置辩而末从，身受天下之恶，自戕而已矣。易曰：“不出户庭，无咎。”慎之于心也。不出门庭则凶矣。门内之密谋，门外之所疑为叵测者也。流俗之所谓深人，君子之所谓浅夫也。读柳宗元谪后之书，“匪舌是出”，其愚亦可哀也已！",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-67",
+      "number": 68,
+      "title": "宪宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-2929",
           "version": "sha256:be2410e6a27d036873fa39e9b0196f09561175e054318091043c13d7f2f1df64",
@@ -18099,7 +18693,16 @@
           "version": "sha256:9aa5af7e89416c30321451af1c2466aa88314d9dd624b945826f70e25a366d07",
           "text": "考诸稗官之传记，宣宗既立，追宪宗之雠，郭氏迫欲坠楼。弑逆之迹，暴露于论定之后，则宪宗之贼，非郭氏、穆宗而谁哉？衅之所自生，则惟承璀惑主以易储，故激而生变，郭钊所云俟之者，正俟此一日也。穆宗以适长嗣统，逆出秘密，故大臣不敢言，史臣不敢述，而苟且涂饰；不唯郭氏逭韦后之诛，穆宗逃刘劭之戮，陈弘志抑以逸罚为千秋之疑案。鸣呼！唐至是，犹谓国之有人乎？而裴度、张弘靖、柳公权，韩愈之为人臣，亦可知矣。卷二十六",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-68",
+      "number": 69,
+      "title": "穆宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-3013",
           "version": "sha256:18fc96b1b88907f80f98579d0c7b3297dea9d7f9a9985bc40b79723c1a0c2abf",
@@ -18225,7 +18828,16 @@
           "version": "sha256:a7a470c14a628bbcc3a141e571b3cf4828f45ec048af4568640ddd7018eb2310",
           "text": "李林甫之奸也，非杨国忠大反之而犹可不乱。靖康贤奸争胜，而国以速亡。极乱之国有治人，有治人而益乱。靖乱者自有道焉，非相反之谓也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-69",
+      "number": 70,
+      "title": "敬宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-3034",
           "version": "sha256:2869d89cd753f2b65fdb5146edc28e8ac739655431a4508f381912a6c817774b",
@@ -18285,7 +18897,16 @@
           "version": "sha256:798987b91d32989838f79d3b94dbb75f0d289e259828567683d1c82f7a82a1f6",
           "text": "夫穆、敬二帝虽曰淫昏，而是非之心未能全泯，故此诸奸者，亢厉自饰，而揣无诛殛之忧，唯是冒忠直正大之迹，欺天下以自容于公论。盖自唐中叶以后，韩愈氏依傍六经之说以建立标帜，则非假圣贤之形似，不足以鼓吹后起之人才为之羽翼。因时所尚，凭其浮动之气、小辨之才，而栖楚且为忠戆之领袖，僧孺且为道义之仪型。小人之窃也，至于此而穷工极变，上欺人主，下欺士民，延及后世，犹使儒者史臣以周公不享越裳、春秋不登叛人之义滥许僧孺，而栖楚叩头流血之奸，无有能摘发之者。呜呼！小人之恶滔天，尚谁与惩之哉？孔子曰：“未有小人而仁者也。”小人之仁，正其不仁之甚者，辨者不可不审也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-70",
+      "number": 71,
+      "title": "文宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-3044",
           "version": "sha256:230c77bb1a7fee108d79efa8854c26afad74a6e6e163c4cc0dffe86d01f0659f",
@@ -18537,7 +19158,16 @@
           "version": "sha256:e18c4883f3ca75944844c523af7a767eb70e0e9f8873de945ea567787e88a7c3",
           "text": "嗣复曰：“事贵得中。”洵如其言，亦以平二李之不平，使无偏重而已；其以平其不平者，各厌其富贵利达之欲而已。天子无进贤退不肖之权，但为群臣谋爵禄之去留以消怨忌，是尚得谓天下之有天子乎？况其所谓得中者，只以渐引小人而挠善类邪！宋徽宗标建中之号，而奸邪遂逞。无他，其所谓中者，夫人欲富贵利达，两相敌而中分之谓也。上无纲，下无耻，习以成风，为君子者，亦曰是久处田闲，宜为汲引者也。朋党恶得而禁，士习恶得而端，国是恶得而定乎？",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-71",
+      "number": 72,
+      "title": "武宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-3086",
           "version": "sha256:ad87dfecc8935afd478e658dfbfaaec90b6afa66e10c5a024923dffc7bb8e46e",
@@ -18729,7 +19359,16 @@
           "version": "sha256:6a3734821f04ae122194cadcd407122ccb94655a4ec883a05fcdcf6a7a68b4b4",
           "text": "故寺院不容不亟毁也；笵金冶铜之像，不容不亟销也；田园之税，丁口之徭，不容不视齐民也。无广厦长寮以容之，无不税之田以豢之，无不徭之政以逸之，无金碧丹漆以艳其目，无钟磬铃铎以淫其耳，黯淡萧条，而又验其老幼，使供役于郡邑，则不待勒以归俗，而僧犹巫也，巫犹人也。进无所安，退思自便，必将自求田庐，自畜妻子，以偕于良民。数十年之中，不见其消而自无几矣；即有存者，亦犹巫之杂处，弗能为民大病者也。禁其为僧尼，则傲岸而不听，含怨以图兴。弗禁其僧，而僧视耕夫之赋役；弗禁其尼，而尼视织女之缕征。无所利而徒苦其身，以茹草而独宿，未有不翻然思悔者。徒众不依，而为幽眇之说、吊诡之行者，亦自顾而少味。先王之不禁天下之巫，而不殊于四民之外，以此而已。然则有天下而欲禁浮屠以一道德、同风俗者，亦何难之有哉？特未之思耳。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8b311bff56574070-72",
+      "number": 73,
+      "title": "宣宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8b311bff56574070-3118",
           "version": "sha256:77ad070a39d010299c6fa9bf9947c9a97bfeb7b8d5e11991aa6f22786c028275",
@@ -18980,8 +19619,8 @@
     },
     {
       "id": "chapter-dutongjianlun-97ef582854ac59b4",
-      "number": 3,
-      "title": "卷二十七",
+      "number": 74,
+      "title": "懿宗",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
       "kind": "chapter",
       "paragraphs": [
@@ -19122,7 +19761,16 @@
           "version": "sha256:e602fa334b00da15d37817a5d9b6e17cdbec6a7404a84f6b5952702f788ec114",
           "text": "夫泄冶当春秋之世，大夫于诸侯，不纯乎为臣，故礼有不用而去之，去犹可也。四海一王，寰宇士大夫共戴一主，不能南走粤、北走胡，而即其宇内之林泉以偷生，而坐视其败，斯亦不成其丈夫矣。传春秋者，谓非贵戚之卿则去，亦据侯国之有世臣者言耳。后世同姓之支庶，食禄而不与国政，天子所倚为心膂股肱者，皆草茅之士也，将谁诿而可哉？故诸君子之或窜或死而不去以全身也，不系乎君之可谏与否也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-97ef582854ac59b4-02",
+      "number": 75,
+      "title": "僖宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-97ef582854ac59b4-0024",
           "version": "sha256:be654e5f35bef43f0e5f48cc5e8205f87052fcfc19dabce027132c6131314fcd",
@@ -19440,7 +20088,16 @@
           "version": "sha256:61ed0de77eba727504e09ce695261379d2a09efb3cd4b568cbf5c151dbfff3a6",
           "text": "非王潮不能全闽海之一隅，非王建不能保两川于已乱，非全义不能救孙儒刃下之余民，非行密不能甦高骈虐用之孑黎。且其各守一方而不妄觊中原，以糜烂其民，与暴人争衰王。以视朱温、李克用之竭民肝脑、以自为君而建社稷，仁不仁之相去，岂不远哉？呜呼！至是而民为重矣。非倚之以安君而卫社稷之谓也，视其血染溪流、膏涂原草者，虽欲不重之，而有人心者固不忍也。君怙恶以殃民，贼乘时而行其残忍，民自不靖而旋以自戕，三者皆祸之府也。而民为可矜也。何也？屠刈流离之民，固非尽怨上行私、延首待乱之民也。天且启数子之心，救十一于千百，而亦可以为民之主矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-97ef582854ac59b4-03",
+      "number": 76,
+      "title": "昭宗",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-97ef582854ac59b4-0077",
           "version": "sha256:b9ab05db489480f8f4afd39cb9ec1ec06ab40a9ead9d88a397f085ef2cf143e5",
@@ -19884,7 +20541,16 @@
           "version": "sha256:30ee45ad25b940a7f4dc9b8a46278f586e4483c3b403108ce12c842cf39f59e2",
           "text": "故三镇者，无一可倚者也。昭宗先无自固之道，祸至而周章，“谓他人昆，亦莫我闻，”势之所必然者也。屠门之悲号，不如其瘖矣。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-97ef582854ac59b4-04",
+      "number": 77,
+      "title": "昭宣帝",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-97ef582854ac59b4-0151",
           "version": "sha256:ff272b54d004bc1076e151cf908923fcf437d9277d2bc9906d95c139525e1ef9",
@@ -19991,8 +20657,8 @@
     },
     {
       "id": "chapter-dutongjianlun-18e886af555870cd",
-      "number": 4,
-      "title": "卷二十八",
+      "number": 78,
+      "title": "五代上",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
       "kind": "chapter",
       "paragraphs": [
@@ -20612,8 +21278,8 @@
     },
     {
       "id": "chapter-dutongjianlun-b7278e379c3b2e24",
-      "number": 5,
-      "title": "卷二十九",
+      "number": 79,
+      "title": "五代中一",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
       "kind": "chapter",
       "paragraphs": [
@@ -21125,7 +21791,7 @@
     },
     {
       "id": "chapter-dutongjianlun-8e8b03f150bbe307",
-      "number": 6,
+      "number": 80,
       "title": "卷三十",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
       "kind": "chapter",
@@ -21873,7 +22539,16 @@
           "version": "sha256:f14a601bc807d0a311207213e2759faa9e8a75ce51cf9dac227ac7d74599b8dd",
           "text": "卷末",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8e8b03f150bbe307-02",
+      "number": 81,
+      "title": "叙论一",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8e8b03f150bbe307-0125",
           "version": "sha256:fbdbe2889c3c349dc3b1507a6b4e180af2ba1d3847bb6f6f2f436236f334fd8e",
@@ -21909,7 +22584,16 @@
           "version": "sha256:0de3584eb5e28a721855bde74119762ed812ac15b793de0b8b9a56ecca55b37f",
           "text": "近世有李槃者，以宇文氏所臣属之萧归，为篡弑之萧衍延苟全之祀，而使之统陈。沙陀夷族之朱邪存勗，不知所出之徐知诰，冒李唐之宗，而使之统分据之天下。父子君臣之伦大紊，而自矜为义，有识者一吷而已。若邹衍五德之说，尤妖妄而不经，君子辟之，断断如也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8e8b03f150bbe307-03",
+      "number": 82,
+      "title": "叙论二",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8e8b03f150bbe307-0131",
           "version": "sha256:a0653c4ba6e81bb0c37c1150c688ea957de1a368686fde7914396dd7af3d7612",
@@ -21933,7 +22617,16 @@
           "version": "sha256:5698806b12708a9c47aa682357998ce9ea42ffd34ef9e02b485b7e2d877b2e25",
           "text": "萧、曹、房、杜之治也；刘向、朱云、李固、杜乔、张九龄、陆贽之贞也；孔融、王经、段秀实之烈也；反此而为权奸、为宦寺、为外戚、为佞倖、为掊克之恶以败亡人国家也；汉文、景、光武、唐太宗之安定天下也；其后世之骄奢淫泆自贻败亡也：汉高之兴，项羽之亡，八王之乱，李、郭之功；史已详纪之，匹夫匹妇闻而与知之。极词以赞而不为加益，闻者不足以兴；极词以贬而不为加损，闻者不足以戒。唯匹夫匹妇悻悻之怒、沾沾之喜，繁词累说，自鸣其达于古者，乐得而称述之。曾君子诱掖人之善而示以从入之津，弭止人之恶而穷其陷溺之实，屑侈一时之快论，与道听涂说者同其纷呶乎？故编中于大美大恶、昭然耳目、前有定论者，皆略而不赘。推其所以然之繇，辨其不尽然之实，均于善而醇疵分，均于恶而轻重别，因其时，度其势，察其心，穷其效，所繇与胡致堂诸子之有以异也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8e8b03f150bbe307-04",
+      "number": 83,
+      "title": "叙论三",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8e8b03f150bbe307-0135",
           "version": "sha256:7120e3ece7e5032eb36c1435f0bb362d61d04166b191af6c80b77a12f176d677",
@@ -21957,7 +22650,16 @@
           "version": "sha256:b81ff27cfd66d49bfb7ca3cd49db0e3c3b42eadaecac9d2a9f007716aef2d157",
           "text": "溯其所繇，则司马迁、班固喜为恢奇震耀之言，实有以导之矣。读项羽之破王离，则须眉皆奋而杀机动；览田延年之责霍光，则胆魄皆张而戾气生。与市侩里魁同慕汲黯、包拯之绞急，则和平之道丧；与词人游客共歎苏轼、苏辙之浮夸，则惇笃之心离。谏而尚譎，则俳优且贤于伊训；谋而尚诈，则甘誓不齿于孙、吴。高允、翟黑子之言，祗以奖老奸之小信；李克用三垂冈之歎，抑以侈盗贼之雄心。甚至推胡广之贪庸以抑忠直，而惬鄙夫之志；伸冯道之逆窃以进夷盗，而顺无赖之欲。轻薄之夫，妄以为慷慨悲歌之助；雕虫之子，喜以为放言饰说之资。若此之流，允为残贼，此编所述，不敢姑容。刻志兢兢，求安于心，求顺于理，求适于用。顾惟不逮，用自惭恧；而志则已严，窃有以异于彼也。",
           "aliases": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "chapter-dutongjianlun-8e8b03f150bbe307-05",
+      "number": 84,
+      "title": "叙论四",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%8F%B2%E8%97%8F/%E5%8F%B2%E8%AF%84/%E8%AF%BB%E9%80%9A%E9%89%B4%E8%AE%BA.txt",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-dutongjianlun-8e8b03f150bbe307-0139",
           "version": "sha256:8de073a3b4c706591a6d9245ccf287ce5e4dbe035ed859b479c2f45bd0840a1f",

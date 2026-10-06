@@ -18,8 +18,9 @@
     "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
     "short-unit: 焚書",
     "short-unit: 自序",
-    "source-missing-glyph: 卷五 读史",
-    "source-missing-glyph: 自序"
+    "source-missing-glyph: 卷三 杂述",
+    "source-missing-glyph: 卷四 杂述",
+    "source-missing-glyph: 目录·卷五 读史"
   ],
   "normalizer": "wuhua-html-v1",
   "license": {
@@ -27,11 +28,81 @@
     "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
     "attribution": "daizhige"
   },
-  "normalizedSha256": "a213556f582c118106c44c8cabf63d0b161c639a380279fbad83f21a4abb2365",
+  "normalizedSha256": "71382a961224dc4214f75b90b85d66bc5221b4deafd75f95811c4fcc33787c1c",
   "stats": {
-    "chapters": 9,
+    "chapters": 14,
     "paragraphs": 1498,
     "characters": 159423,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "a213556f582c118106c44c8cabf63d0b161c639a380279fbad83f21a4abb2365",
+    "chapters": [
+      {
+        "id": "chapter-fenshu-fcfcdb372c415cbc",
+        "number": 1,
+        "title": "焚書",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-248e2dacc93de644",
+        "number": 2,
+        "title": "自序",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-405167b23e8d3e11",
+        "number": 3,
+        "title": "卷一 书答",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-66bd647e1bb573b2",
+        "number": 4,
+        "title": "卷二 书答",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-0996803221ed12a8",
+        "number": 5,
+        "title": "卷三 杂述",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-657d130f677e69cd",
+        "number": 6,
+        "title": "卷四 杂述",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-a56515fb562213a7",
+        "number": 7,
+        "title": "卷五 读史",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-e6fc73f9ab1e6d93",
+        "number": 8,
+        "title": "自序",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-fenshu-cf487c5b4dcb4444",
+        "number": 9,
+        "title": "卷六",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E7%84%9A%E4%B9%A6.txt",
+        "kind": "chapter"
+      }
+    ]
   }
 }

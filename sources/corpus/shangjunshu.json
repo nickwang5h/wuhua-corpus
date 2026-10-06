@@ -73,18 +73,62 @@
     "author": "商鞅",
     "times": "戰國"
   },
-  "warnings": [],
+  "warnings": [
+    "short-unit: 御盗第二十一"
+  ],
   "normalizer": "wuhua-html-v1",
   "license": {
     "name": "Wikisource contributor terms; underlying work rights retained upstream",
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "fb915c83113f45484d5e4955823b1b7bedf7248f54cfdc24b963bb9e81c89258",
+  "normalizedSha256": "e5a99f161cb016ef8797a18e8904bc5ab45e310d4f013794cceae4e2dd9c95d1",
   "stats": {
-    "chapters": 5,
+    "chapters": 25,
     "paragraphs": 128,
     "characters": 24209,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "fb915c83113f45484d5e4955823b1b7bedf7248f54cfdc24b963bb9e81c89258",
+    "chapters": [
+      {
+        "id": "chapter-shangjunshu-f13dcfad4b001378",
+        "number": 1,
+        "title": "卷一",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=850643",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangjunshu-40449de07aad505e",
+        "number": 2,
+        "title": "卷二",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=850644",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangjunshu-cdf515cbf9ad5044",
+        "number": 3,
+        "title": "卷三",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangjunshu-15cee9adbac8d7ac",
+        "number": 4,
+        "title": "卷四",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1741809",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-shangjunshu-eee8f923bd0adbc4",
+        "number": 5,
+        "title": "卷五",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+        "kind": "chapter"
+      }
+    ]
   }
 }

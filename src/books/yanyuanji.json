@@ -7,560 +7,8 @@
   },
   "chapters": [
     {
-      "id": "chapter-yanyuanji-eca4e93b29321d53",
-      "number": 1,
-      "title": "顏元集",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-eca4e93b29321d53-0001",
-          "version": "sha256:aa73600cf35f3b50d1b707110d4084079430477cbc1ec7ef1084938aec1eb22c",
-          "text": "颜元选集 [清]颜元着",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-a65cb8c695b7acb7",
-      "number": 2,
-      "title": "存性编卷一",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-a65cb8c695b7acb7-0001",
-          "version": "sha256:f5c4928d9365b8b8c7377e559f3329ed3d186dd82086c865d605f147d840c410",
-          "text": "驳气质性恶",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a65cb8c695b7acb7-0002",
-          "version": "sha256:00117f147a4079bde00e74e3a1a0018b3f76d3371dbfe80f5895da585b8cc613",
-          "text": "明明德",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a65cb8c695b7acb7-0003",
-          "version": "sha256:6f2d4b7cf9c14b3bbe7ba5725b9f1f1fc1d8720af267dd13bef3e83437325b87",
-          "text": "棉桃喻性",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a65cb8c695b7acb7-0004",
-          "version": "sha256:c1c337646a0f7a1bdd6a1171b373556291218382bf5391fb9b6509f8a6b4105c",
-          "text": "借水喻性",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a65cb8c695b7acb7-0005",
-          "version": "sha256:23b152ee57864dcdd8fdddafac41a5e6d4da5a782b0fdf176a31535bda1a5367",
-          "text": "性理评（三十九则）",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-51745faf7d82858b",
-      "number": 3,
-      "title": "存性编卷二",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-51745faf7d82858b-0001",
-          "version": "sha256:ddd4177f345fed54e2aa418f44378ae5ca77f7b86e8ac53cc554ce529e6ecccf",
-          "text": "性图",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-51745faf7d82858b-0002",
-          "version": "sha256:129fe07b11c40a5fba0144fd592546af3ad6f644376fb0059704f15911b3624a",
-          "text": "图跋",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-51745faf7d82858b-0003",
-          "version": "sha256:c22d2b83fb6efb1a5747d600de45f6f1549644289d523a2ee64a88e1a10e2fe8",
-          "text": "附录同人语",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-51745faf7d82858b-0004",
-          "version": "sha256:a6aabdc796ed41df232a709ad256dd8fbce4be1fa77c503d642fd7a111eb5cb6",
-          "text": "书后",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-85cb8280355b8c58",
-      "number": 4,
-      "title": "存学编卷一",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0001",
-          "version": "sha256:6f47a97d45b03124f1d03c53deceed3aa01689a5e20ba55b84a8a76683bac1fd",
-          "text": "序",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0002",
-          "version": "sha256:7f397c932cb43d744b0bf2d318591b861bb7fd11a2b384c4ce70dc327ea01d17",
-          "text": "由道",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0003",
-          "version": "sha256:15b5dcb011d13d57bf0dbb6c97ac23d7e974e329eed625a15619a60bf9e1de27",
-          "text": "总论诸儒讲学",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0004",
-          "version": "sha256:850d1c41094dd7df6b05c83483e13aea29781337dfbbdaba059a38b48381ea43",
-          "text": "明亲",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0005",
-          "version": "sha256:d824700e86bda30730077ae2f2a9a59d37d9c0ce84e36fff2e2f0d4a9d111da7",
-          "text": "上征君孙锺元先生书",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0006",
-          "version": "sha256:779a71941957caa22c9ad8930f779a9c4ef91e89eb3f2976b279c4554a1ed0e4",
-          "text": "上太仓陆桴亭先生书",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0007",
-          "version": "sha256:63710fd2aefa45db1d88526595a0d4d7b88f87bafd5905b73f4011af3c112bdc",
-          "text": "学辨一",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-85cb8280355b8c58-0008",
-          "version": "sha256:92c022990d6a5b6a0652c7d8155c6908dd9247a3d2a8c51a4c422db87a75a40c",
-          "text": "学辨二",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-1e4a3b0697bc9e8c",
-      "number": 5,
-      "title": "存学编卷二",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-1e4a3b0697bc9e8c-0001",
-          "version": "sha256:400bf3050cb1bc8b0b4a24b446adec53fe390a77a0afca7c3e5b1468140b4c54",
-          "text": "性理评三十四条",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-48ee57bf6df7d1af",
-      "number": 6,
-      "title": "存学编卷三",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-48ee57bf6df7d1af-0001",
-          "version": "sha256:b721215867a5b2135e4485431898337ccdafa1700f4371297ea532789ab730a6",
-          "text": "性理评二十八条",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-0f0f2f22802269de",
-      "number": 7,
-      "title": "存学编卷四",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0001",
-          "version": "sha256:715da1bba1d5ca773d79be232b86f5b0f1dfc892c095b2f09474a25888878ef4",
-          "text": "性理评三十六条",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0002",
-          "version": "sha256:e5e2a3ecdb21baae96b6f14204e0aa434ede43a0eb80037cc895f57d5b5554b7",
-          "text": "存治编",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0003",
-          "version": "sha256:6f47a97d45b03124f1d03c53deceed3aa01689a5e20ba55b84a8a76683bac1fd",
-          "text": "序",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0004",
-          "version": "sha256:ced620e32cd2288a8d37b065ad43ab6ef02a1faed98c6db647133acb0c23b36b",
-          "text": "王道",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0005",
-          "version": "sha256:8c52d03285da58e5dadcb565b17394b03cf83e61225c68cb3cedd5530f81e75d",
-          "text": "井田",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0006",
-          "version": "sha256:a51b4ebaa5bffb33a541ad0ebb101b243b03068cd93bf03a6af2f66c74a3f10a",
-          "text": "治赋",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0007",
-          "version": "sha256:dc6e2aafeb9e125b69d1b143f05c66414e6e1a4f46c163a52a6d289efeef27c7",
-          "text": "学校",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0008",
-          "version": "sha256:94e714c77ee5b48a7891ca492131bbc2a968b44d61de12e52b1cee111979f536",
-          "text": "封建",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0009",
-          "version": "sha256:ef09f763f5b0adda6bcee5469966a63040c4954be84b3b1d822c1d8426abeb88",
-          "text": "宫刑",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0010",
-          "version": "sha256:38d696ccfb2e20ee5cc4dbb26b82009a3cb657936e5709282d819595ba23ae31",
-          "text": "济时",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0011",
-          "version": "sha256:f3980f06448b02bf335c8db21f54191776bc9e390a5c261dd078077debb4d899",
-          "text": "重征举",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0012",
-          "version": "sha256:d4fae8a2f20bea4da5f10f4ffdc4d97626bf85601d171bc4bdb3ad9e6f92f0ab",
-          "text": "靖异端",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-0f0f2f22802269de-0013",
-          "version": "sha256:a6aabdc796ed41df232a709ad256dd8fbce4be1fa77c503d642fd7a111eb5cb6",
-          "text": "书后",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-3447500a4d5c3364",
-      "number": 8,
-      "title": "存人编卷一",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-3447500a4d5c3364-0001",
-          "version": "sha256:8deb2b458743f0b656ef6eab83dc33108a0e8729455fa693f596ec4b2adaee16",
-          "text": "唤迷途",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3447500a4d5c3364-0002",
-          "version": "sha256:a89bf8e05baf2019956c1358e3e5f5a4253248e57f3944672850094e59ba00e0",
-          "text": "第一唤",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3447500a4d5c3364-0003",
-          "version": "sha256:e58c539bf254bc774c51ebc5bef0b6813b937d5aae1594ffc8e27db656c44705",
-          "text": "第二唤",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3447500a4d5c3364-0004",
-          "version": "sha256:4b5a29bd8e941e7d5200135740cc1c06d3470b0b49b4d5b1406e14090d0758b0",
-          "text": "第三唤",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-795d70f9dac9fc6a",
-      "number": 9,
-      "title": "存人编卷二",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-795d70f9dac9fc6a-0001",
-          "version": "sha256:de3d046e8cb56fd1df889701e26328a039a993e6ed7bf842f56c701991b1c7ce",
-          "text": "第四唤",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-795d70f9dac9fc6a-0002",
-          "version": "sha256:a5bccc35fd3a561c9a0995c28d40614ba8faf079dc1e56b9447aee3cfe0b886f",
-          "text": "第五唤",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-64334304e0059e6c",
-      "number": 10,
-      "title": "存人编卷三",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-64334304e0059e6c-0001",
-          "version": "sha256:4259ff23967cca8efd5942f27f6c335fa2cc28890e6d0cc5dc08f40a7df2c65e",
-          "text": "明太祖高皇帝释迦佛赞解",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-6b00de509a47dc80",
-      "number": 11,
-      "title": "存人编卷四",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-6b00de509a47dc80-0001",
-          "version": "sha256:f62c31bda85007530e6668a07556ddfa6554aeba045e06d6374737606bfe3aff",
-          "text": "束鹿张鼎彝毁念佛堂议",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-6b00de509a47dc80-0002",
-          "version": "sha256:090d36041f6a9591d28b3997c2d5043b8589767793ddadf12298621a96ba01f2",
-          "text": "辟念佛堂说",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-6b00de509a47dc80-0003",
-          "version": "sha256:3ca089e0a25f432881a97ef8815fcfaab7ec985a11243a960b9cbbe2a78f9fe4",
-          "text": "拟谕锦属更念佛堂",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-6b00de509a47dc80-0004",
-          "version": "sha256:b7f43a4a7e4f5f80d9b86cc7ea7c8a82ffa4884e79bf8508f5756a5d55855b74",
-          "text": "颜习斋先生言行录",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-6b00de509a47dc80-0005",
-          "version": "sha256:60d11c54242d9355418a000d211f069247e3cd08794bf13518659c8bbc2aaf25",
-          "text": "凡例",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-6b00de509a47dc80-0006",
-          "version": "sha256:3117f115c4c803a20321d4b7bc753c4be93f4bf34d2d304ab8cd66279c53ce7e",
-          "text": "叙略",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-a026d8f3ec524950",
-      "number": 12,
-      "title": "卷上",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0001",
-          "version": "sha256:b49bc22f095fd0c2d58b7c538558e8982a66aad19f48376f34b062da1f9160b9",
-          "text": "常仪功",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0002",
-          "version": "sha256:19a19895102cabe9a7a9a8c70ca2d06bd5135356e08579f8390943abf88ecd38",
-          "text": "理欲",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0003",
-          "version": "sha256:bc170a63d9584951d9f29cefe677f191d7ab1df24eb440b40bb763ae3147cfd3",
-          "text": "齐家",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0004",
-          "version": "sha256:23a87a73a696a64094318ebc9f8c4a067b4e9159aedf5b96fc002bdde200f08b",
-          "text": "言卜",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0005",
-          "version": "sha256:5abb35faac358bd495dc25c525023ebe65b60455eae000be97e9e1cf9370be3c",
-          "text": "学人",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0006",
-          "version": "sha256:c0c4d94a316ea52672cbfe1c851f241df748f865be7026ac7c6e93c97c8b10a8",
-          "text": "法干",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0007",
-          "version": "sha256:d030e32c8e27e7a68cfdc45affe964e79ec87057753b6c9b810d6443e6336dd9",
-          "text": "刚峰",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0008",
-          "version": "sha256:59ff479851b59dd7a150bdd1d274faf98451a16cb5d5c86d2107b59d7abe1d57",
-          "text": "吾辈",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0009",
-          "version": "sha256:96ea08b0953d071534c218c4012b260a252e345f946dac3578ce98427e132ee7",
-          "text": "三代",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-a026d8f3ec524950-0010",
-          "version": "sha256:f11bf680b191a90661ef1706bbba3bb6ae1eeeb0cfb0ec2b0e9c78ec68c5e353",
-          "text": "禁令",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-3c7d69d6e99de498",
-      "number": 13,
-      "title": "卷下",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0001",
-          "version": "sha256:32332104e93f155ccb0b7cd415b228de3d49b68f98d1eea7d6cf79c984ef5c17",
-          "text": "鼓琴",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0002",
-          "version": "sha256:8d56ddff2e0b846ecd9fc8d428704626af924ccfbbc3016a974999ba6efde012",
-          "text": "王次亭",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0003",
-          "version": "sha256:bf4b01269fe5b7cc1ec76edd72b61e309fd7c5adb2f560d4366f5be702a5f135",
-          "text": "学须",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0004",
-          "version": "sha256:4c937dbd94abd71657a2f79c1d7e5bd9e2fc4d2fa79c26d787cb6443b6a8efc8",
-          "text": "教及门",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0005",
-          "version": "sha256:2709ceccd998cd36b564a5d0a8acc74024aed2a8a6d7b361d6ac87bcca9d642c",
-          "text": "杜生",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0006",
-          "version": "sha256:1745da7584d53003ed69b56fdb0169c69cb1912f99a443be5313e3bd13f10d66",
-          "text": "赵盾",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0007",
-          "version": "sha256:e7c683b499dfa99a7ef1ed2819a49487531d69f84a8102ead1f7e24f8f98f99b",
-          "text": "世情",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0008",
-          "version": "sha256:b30a18fbae9d9cdf4f3789bfab5c52889ff7008c2067b24aa4739a25d496aea0",
-          "text": "不为",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0009",
-          "version": "sha256:dba67abf369b54c0fa078183a3e95a3232476c6d3c8bcea4879ebdcb44b3d815",
-          "text": "刁过之",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0010",
-          "version": "sha256:3dd4631fb555f337f977ba3f42fae03592c19fdf89ee0da9b132a7fa20ec915d",
-          "text": "学问",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0011",
-          "version": "sha256:c41aee891db8cda99dcd46c66de66bc6e00c24e9315d0e1a88635b44dfbdeb7b",
-          "text": "颜习斋先生年谱",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0012",
-          "version": "sha256:6f47a97d45b03124f1d03c53deceed3aa01689a5e20ba55b84a8a76683bac1fd",
-          "text": "序",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0013",
-          "version": "sha256:60d11c54242d9355418a000d211f069247e3cd08794bf13518659c8bbc2aaf25",
-          "text": "凡例",
-          "aliases": []
-        },
-        {
-          "id": "p-yanyuanji-3c7d69d6e99de498-0014",
-          "version": "sha256:4334e17c4f111a7928eae504544ca596b56c127bcbc6951208f74245c88a62f5",
-          "text": "颜习斋先生传",
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "id": "chapter-yanyuanji-d9742543bf118254",
-      "number": 14,
-      "title": "卷下",
-      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
-      "kind": "chapter",
-      "paragraphs": [
-        {
-          "id": "p-yanyuanji-d9742543bf118254-0001",
-          "version": "sha256:e03291c13f9f3d7eb0e1c298b1d41d378c7971f29ad50bb17720a6fa368891c5",
-          "text": "颜元选集 [清]博野颜元着",
-          "aliases": []
-        }
-      ]
-    },
-    {
       "id": "chapter-yanyuanji-20cf6c52b205610e",
-      "number": 15,
+      "number": 1,
       "title": "存性编卷一",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -911,7 +359,7 @@
     },
     {
       "id": "chapter-yanyuanji-687651f3bb1eed55",
-      "number": 16,
+      "number": 2,
       "title": "存性编卷二",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -1142,7 +590,7 @@
     },
     {
       "id": "chapter-yanyuanji-ed3d1754274b98ec",
-      "number": 17,
+      "number": 3,
       "title": "存学编卷一",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -1439,7 +887,7 @@
     },
     {
       "id": "chapter-yanyuanji-a97245cd290391f6",
-      "number": 18,
+      "number": 4,
       "title": "存学编卷二",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -1676,7 +1124,7 @@
     },
     {
       "id": "chapter-yanyuanji-0c1ed0f76c965dfa",
-      "number": 19,
+      "number": 5,
       "title": "存学编卷三",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -1865,7 +1313,7 @@
     },
     {
       "id": "chapter-yanyuanji-85e81f881846ea1b",
-      "number": 20,
+      "number": 6,
       "title": "存学编卷四",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -2498,7 +1946,7 @@
     },
     {
       "id": "chapter-yanyuanji-81c6cf6e9c293c85",
-      "number": 21,
+      "number": 7,
       "title": "存人编卷一",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -2753,7 +2201,7 @@
     },
     {
       "id": "chapter-yanyuanji-24ed4f66dead6be6",
-      "number": 22,
+      "number": 8,
       "title": "存人编卷三",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -2810,7 +2258,7 @@
     },
     {
       "id": "chapter-yanyuanji-4e41a71fab6062e4",
-      "number": 23,
+      "number": 9,
       "title": "存人编卷四",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -2945,7 +2393,7 @@
     },
     {
       "id": "chapter-yanyuanji-54da4ebb1ca38d76",
-      "number": 24,
+      "number": 10,
       "title": "四书正误卷一 大学",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -4430,7 +3878,7 @@
     },
     {
       "id": "chapter-yanyuanji-66244bb64748ed07",
-      "number": 25,
+      "number": 11,
       "title": "四书正误卷四 论语下",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -9209,7 +8657,7 @@
     },
     {
       "id": "chapter-yanyuanji-e55eacb3a2f32817",
-      "number": 26,
+      "number": 12,
       "title": "礼文手钞卷二",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -9290,7 +8738,7 @@
     },
     {
       "id": "chapter-yanyuanji-491d6c411e2e4192",
-      "number": 27,
+      "number": 13,
       "title": "卷三 昏礼",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -9407,7 +8855,7 @@
     },
     {
       "id": "chapter-yanyuanji-6e7686f6e070cc8e",
-      "number": 28,
+      "number": 14,
       "title": "卷四 丧礼",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",
@@ -9746,7 +9194,7 @@
     },
     {
       "id": "chapter-yanyuanji-6c048d99c8e9ae12",
-      "number": 29,
+      "number": 15,
       "title": "礼文手钞卷五 祭礼",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E9%A2%9C%E5%85%83%E9%9B%86.txt",
       "kind": "chapter",

@@ -234,11 +234,151 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "0c454ac11d5729f9ae9e00e01c2429e6e245be77a83fc94bd61e0f2f68adb91f",
+  "normalizedSha256": "2901e9e45ca67e26484f0ce3e06a7065b47419edecf27fe32ee7b964cfea50ad",
   "stats": {
     "chapters": 19,
     "paragraphs": 539,
     "characters": 27321,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "0c454ac11d5729f9ae9e00e01c2429e6e245be77a83fc94bd61e0f2f68adb91f",
+    "chapters": [
+      {
+        "id": "chapter-zhengmeng-69e61ccc27951a53",
+        "number": 1,
+        "title": "蘇昺序",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589336",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-c033af4ecd53f3ed",
+        "number": 2,
+        "title": "范育序",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589368",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-3a8c46eff08d25bd",
+        "number": 3,
+        "title": "01",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589369",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-a0793cd4a290b356",
+        "number": 4,
+        "title": "02",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589370",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-cf0ac92750fa418d",
+        "number": 5,
+        "title": "03",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589371",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-ca87741c89bab4cc",
+        "number": 6,
+        "title": "04",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589372",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-6856497dbb6a8ed2",
+        "number": 7,
+        "title": "05",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589373",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-e8d829b7f429b73c",
+        "number": 8,
+        "title": "06",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589374",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-7078db75c676c718",
+        "number": 9,
+        "title": "07",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589375",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-0b5996b28f144195",
+        "number": 10,
+        "title": "08",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589376",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-f7bcb578bbf44748",
+        "number": 11,
+        "title": "09",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589377",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-377348ef6bcaeec3",
+        "number": 12,
+        "title": "10",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589378",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-07f7d84ae8a49c86",
+        "number": 13,
+        "title": "11",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589379",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-f44c631746d0eeac",
+        "number": 14,
+        "title": "12",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589380",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-0a86e2cfb03bd4cc",
+        "number": 15,
+        "title": "13",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589381",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-868e9cf0770c8f05",
+        "number": 16,
+        "title": "14",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589382",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-53310b265f68fe56",
+        "number": 17,
+        "title": "15",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589383",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-14522f9997693041",
+        "number": 18,
+        "title": "16",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589386",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-zhengmeng-73e16b6b3fa609f3",
+        "number": 19,
+        "title": "17",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2589385",
+        "kind": "chapter"
+      }
+    ]
   }
 }

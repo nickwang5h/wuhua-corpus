@@ -11,7 +11,7 @@
     {
       "id": "chapter-shangjunshu-f13dcfad4b001378",
       "number": 1,
-      "title": "卷一",
+      "title": "更法第一",
       "source": "https://zh.wikisource.org/w/index.php?oldid=850643",
       "kind": "chapter",
       "paragraphs": [
@@ -104,7 +104,19 @@
           "headingPath": [
             "更法第一"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷一"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-f13dcfad4b001378-02",
+      "number": 2,
+      "title": "墾令第二",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850643",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-f13dcfad4b001378-0011",
           "version": "sha256:f76a1d7f883b0776fd12435538ccf15b4c669255a9cebdefb00eaf88cea1ce69",
@@ -284,7 +296,19 @@
           "headingPath": [
             "墾令第二"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷一"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-f13dcfad4b001378-03",
+      "number": 3,
+      "title": "農戰第三",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850643",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-f13dcfad4b001378-0031",
           "version": "sha256:662840a407f48d8e23437a837f8122a3e4dcc884221aa754c43494f3988dea9f",
@@ -356,7 +380,19 @@
           "headingPath": [
             "農戰第三"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷一"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-f13dcfad4b001378-04",
+      "number": 4,
+      "title": "去彊第四",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850643",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-f13dcfad4b001378-0039",
           "version": "sha256:a0f7814f90186a8a95753886adca3d2127e04fddb02592c32d14baaff589095a",
@@ -420,12 +456,15 @@
             "去彊第四"
           ]
         }
+      ],
+      "path": [
+        "卷一"
       ]
     },
     {
       "id": "chapter-shangjunshu-40449de07aad505e",
-      "number": 2,
-      "title": "卷二",
+      "number": 5,
+      "title": "說民第五",
       "source": "https://zh.wikisource.org/w/index.php?oldid=850644",
       "kind": "chapter",
       "paragraphs": [
@@ -491,7 +530,19 @@
           "headingPath": [
             "說民第五"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷二"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-40449de07aad505e-02",
+      "number": 6,
+      "title": "算地第六",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850644",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-40449de07aad505e-0008",
           "version": "sha256:823099e5ee99c057ddf8a3a1dbc4f816c2f1547db21d5701eb35502e654a223b",
@@ -554,7 +605,19 @@
           "headingPath": [
             "算地第六"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷二"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-40449de07aad505e-03",
+      "number": 7,
+      "title": "開塞第七",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850644",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-40449de07aad505e-0015",
           "version": "sha256:3f8aa090112a23de922b7104b2bf9a6016999a2745571673380676aba08c7f7c",
@@ -600,12 +663,15 @@
             "開塞第七"
           ]
         }
+      ],
+      "path": [
+        "卷二"
       ]
     },
     {
       "id": "chapter-shangjunshu-cdf515cbf9ad5044",
-      "number": 3,
-      "title": "卷三",
+      "number": 8,
+      "title": "壹言第八",
       "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
       "kind": "chapter",
       "paragraphs": [
@@ -635,7 +701,19 @@
           "headingPath": [
             "壹言第八"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷三"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-cdf515cbf9ad5044-02",
+      "number": 9,
+      "title": "錯法第九",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-cdf515cbf9ad5044-0004",
           "version": "sha256:22bd61f8756c20820032f990c9cdcd0ec15fc306634c1c5b12b78a49245cb449",
@@ -671,7 +749,19 @@
           "headingPath": [
             "錯法第九"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷三"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-cdf515cbf9ad5044-03",
+      "number": 10,
+      "title": "戰法第十",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-cdf515cbf9ad5044-0008",
           "version": "sha256:181147a6e6bda304946b9f0b6353630c0f20ffec2988b9c2e878339240d8adcf",
@@ -689,7 +779,19 @@
           "headingPath": [
             "戰法第十"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷三"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-cdf515cbf9ad5044-04",
+      "number": 11,
+      "title": "立本第十一",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-cdf515cbf9ad5044-0010",
           "version": "sha256:7aa15336bd69d8123d7fd16e07346f88625250e1592378e5e40659a1ac2b4ad7",
@@ -698,7 +800,19 @@
           "headingPath": [
             "立本第十一"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷三"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-cdf515cbf9ad5044-05",
+      "number": 12,
+      "title": "兵守第十二",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-cdf515cbf9ad5044-0011",
           "version": "sha256:b97c44481a3a73240842597319ca17a317b83708b02ad0eec83454b07174e7f0",
@@ -716,7 +830,19 @@
           "headingPath": [
             "兵守第十二"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷三"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-cdf515cbf9ad5044-06",
+      "number": 13,
+      "title": "靳令第十三",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-cdf515cbf9ad5044-0013",
           "version": "sha256:24712376ecae2df24781ffac5da6a17b4a099ac345a1cbd72e81f85831535c6d",
@@ -761,7 +887,19 @@
           "headingPath": [
             "靳令第十三"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷三"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-cdf515cbf9ad5044-07",
+      "number": 14,
+      "title": "修權第十四",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850645",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-cdf515cbf9ad5044-0018",
           "version": "sha256:27d1b65e888adccb4ae3530e92d6611ad8fe221bdf5ccf7841b61d6717932ce6",
@@ -798,12 +936,15 @@
             "修權第十四"
           ]
         }
+      ],
+      "path": [
+        "卷三"
       ]
     },
     {
       "id": "chapter-shangjunshu-15cee9adbac8d7ac",
-      "number": 4,
-      "title": "卷四",
+      "number": 15,
+      "title": "徠民第十五",
       "source": "https://zh.wikisource.org/w/index.php?oldid=1741809",
       "kind": "chapter",
       "paragraphs": [
@@ -860,7 +1001,19 @@
           "headingPath": [
             "徠民第十五"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷四"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-15cee9adbac8d7ac-02",
+      "number": 16,
+      "title": "賞刑第十七",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1741809",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-15cee9adbac8d7ac-0007",
           "version": "sha256:18b6248ddeddf06ed905a48904f807a13b34decb05f17ab96ea335801b79ed85",
@@ -905,7 +1058,19 @@
           "headingPath": [
             "賞刑第十七"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷四"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-15cee9adbac8d7ac-03",
+      "number": 17,
+      "title": "畫策第十八",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1741809",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-15cee9adbac8d7ac-0012",
           "version": "sha256:51136c5a0784a55fc756d02e1a918e4b05e67689170d120c6a933f490bfef95e",
@@ -969,12 +1134,15 @@
             "畫策第十八"
           ]
         }
+      ],
+      "path": [
+        "卷四"
       ]
     },
     {
       "id": "chapter-shangjunshu-eee8f923bd0adbc4",
-      "number": 5,
-      "title": "卷五",
+      "number": 18,
+      "title": "境內第十九",
       "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
       "kind": "chapter",
       "paragraphs": [
@@ -1022,7 +1190,19 @@
           "headingPath": [
             "境內第十九"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-02",
+      "number": 19,
+      "title": "弱民第二十",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0006",
           "version": "sha256:6ef769f2c9ebf2ee9cb3aa2e7d8ac3b812257845a275ab53e53a82f3cf017550",
@@ -1049,7 +1229,19 @@
           "headingPath": [
             "弱民第二十"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-03",
+      "number": 20,
+      "title": "御盗第二十一",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0009",
           "version": "sha256:e37a46a631097a76675016650d1ddae0fa19c2a5126166f471b3a147735f60d5",
@@ -1058,7 +1250,19 @@
           "headingPath": [
             "御盗第二十一"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-04",
+      "number": 21,
+      "title": "外內第二十二",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0010",
           "version": "sha256:a28d746e205b127c87ad08e5f17d6356c57bfff0454fe0d8e03719751726136b",
@@ -1085,7 +1289,19 @@
           "headingPath": [
             "外內第二十二"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-05",
+      "number": 22,
+      "title": "君臣第二十三",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0013",
           "version": "sha256:e92c992c5ddbd760b077ea40539441d633c4232cfbadb5fa52aadf1f7acdccd8",
@@ -1112,7 +1328,19 @@
           "headingPath": [
             "君臣第二十三"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-06",
+      "number": 23,
+      "title": "禁使第二十四",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0016",
           "version": "sha256:6d142222529201c3b20ceda21319756610919fcbf756777ffa027c4a715a5662",
@@ -1130,7 +1358,19 @@
           "headingPath": [
             "禁使第二十四"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-07",
+      "number": 24,
+      "title": "慎法第二十五",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0018",
           "version": "sha256:c0dacabedc276f64832f3b0a7c31cd79ca3039fa489fd1e5f26353b79797ffaa",
@@ -1157,7 +1397,19 @@
           "headingPath": [
             "慎法第二十五"
           ]
-        },
+        }
+      ],
+      "path": [
+        "卷五"
+      ]
+    },
+    {
+      "id": "chapter-shangjunshu-eee8f923bd0adbc4-08",
+      "number": 25,
+      "title": "定分第二十六",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648348",
+      "kind": "chapter",
+      "paragraphs": [
         {
           "id": "p-shangjunshu-eee8f923bd0adbc4-0021",
           "version": "sha256:0ceb1a9cef0250dedcaf864d0f4e60aee0b6c4843c512695b2e36722eaafafb4",
@@ -1203,6 +1455,9 @@
             "定分第二十六"
           ]
         }
+      ],
+      "path": [
+        "卷五"
       ]
     }
   ]

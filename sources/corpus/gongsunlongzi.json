@@ -102,11 +102,67 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "cbf4c5c80a50901b68458805d0373cc7fc4750d9a3747ea58b114a9e90f88a8a",
+  "normalizedSha256": "e85e2790516482bda828969024cd52e0e3de0efcea7b1d6705c8cc12b2d288e0",
   "stats": {
     "chapters": 7,
     "paragraphs": 37,
     "characters": 11460,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "cbf4c5c80a50901b68458805d0373cc7fc4750d9a3747ea58b114a9e90f88a8a",
+    "chapters": [
+      {
+        "id": "chapter-gongsunlongzi-536a9aa7bb51d790",
+        "number": 1,
+        "title": "原序",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2440796",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-gongsunlongzi-f4538cbe552be102",
+        "number": 2,
+        "title": "1",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2440798",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-gongsunlongzi-cfc43c0b79ab0a94",
+        "number": 3,
+        "title": "2",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2440799",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-gongsunlongzi-3e919401f24d964b",
+        "number": 4,
+        "title": "3",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2440800",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-gongsunlongzi-d355497a9aca0251",
+        "number": 5,
+        "title": "4",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2441221",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-gongsunlongzi-cf4f47ee83d43301",
+        "number": 6,
+        "title": "5",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2441230",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-gongsunlongzi-a1725c698f296103",
+        "number": 7,
+        "title": "6",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2441233",
+        "kind": "chapter"
+      }
+    ]
   }
 }
