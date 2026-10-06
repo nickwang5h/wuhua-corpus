@@ -2,9 +2,10 @@
   "id": "liuzongyuanji",
   "metadata": {
     "title": "柳河東集",
-    "author": "唐・柳宗元",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "柳宗元",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "唐"
   },
   "chapters": [
     {

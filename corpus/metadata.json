@@ -1,0 +1,390 @@
+{
+  "baopuzi": {
+    "author": "葛洪",
+    "era": "东晋"
+  },
+  "chuanxilu": {
+    "author": "王守仁",
+    "era": "明"
+  },
+  "chuci": {
+    "author": "屈原、宋玉等，刘向 辑",
+    "era": "战国至汉"
+  },
+  "chunqiu": {
+    "author": "相传孔子修订",
+    "era": "春秋"
+  },
+  "chunqiufanlu": {
+    "author": "董仲舒",
+    "era": "西汉"
+  },
+  "datongshu": {
+    "author": "康有为",
+    "era": "清末"
+  },
+  "daxue": {
+    "author": "旧题曾子",
+    "era": "战国至秦汉"
+  },
+  "dutongjianlun": {
+    "author": "王夫之",
+    "era": "明末清初"
+  },
+  "erchengyishu": {
+    "author": "程颢、程颐",
+    "era": "北宋"
+  },
+  "erya": {
+    "author": "佚名",
+    "era": "战国至西汉"
+  },
+  "fenshu": {
+    "author": "李贽",
+    "era": "明"
+  },
+  "gongsunlongzi": {
+    "author": "公孙龙",
+    "era": "战国"
+  },
+  "gongyang": {
+    "author": "相传公羊高",
+    "era": "战国至西汉"
+  },
+  "gongzizhenji": {
+    "author": "龚自珍",
+    "era": "清"
+  },
+  "guanzi": {
+    "author": "旧题管仲",
+    "era": "春秋至汉初"
+  },
+  "guguolunheng": {
+    "author": "章太炎",
+    "era": "清末"
+  },
+  "guliang": {
+    "author": "相传穀梁赤",
+    "era": "战国至西汉"
+  },
+  "guwenguanzhi": {
+    "author": "吴楚材、吴调侯 编",
+    "era": "清"
+  },
+  "haiguotuzhi": {
+    "author": "魏源",
+    "era": "清"
+  },
+  "hanfeizi": {
+    "author": "韩非",
+    "era": "战国末"
+  },
+  "hanshanlaozijie": {
+    "author": "憨山德清",
+    "era": "明"
+  },
+  "hanshu": {
+    "author": "班固",
+    "era": "东汉"
+  },
+  "hanyuji": {
+    "author": "韩愈",
+    "era": "唐"
+  },
+  "hongloumeng": {
+    "author": "曹雪芹",
+    "era": "清"
+  },
+  "huainanzi": {
+    "author": "刘安及其门客",
+    "era": "西汉"
+  },
+  "jiayouji": {
+    "author": "苏洵",
+    "era": "北宋"
+  },
+  "jikangji": {
+    "author": "嵇康",
+    "era": "三国魏"
+  },
+  "jinsilu": {
+    "author": "朱熹、吕祖谦 编",
+    "era": "南宋"
+  },
+  "kongzijiayu": {
+    "author": "旧题孔子门人，王肃 注",
+    "era": "三国魏（今本）"
+  },
+  "laozi": {
+    "author": "老子",
+    "era": "春秋末（一说战国）"
+  },
+  "liezi": {
+    "author": "旧题列御寇",
+    "era": "今本或成于魏晋"
+  },
+  "liji": {
+    "author": "戴圣 编",
+    "era": "西汉"
+  },
+  "linjilu": {
+    "author": "慧然 编",
+    "era": "唐"
+  },
+  "liuzongyuanji": {
+    "author": "柳宗元",
+    "era": "唐"
+  },
+  "liuzutanjing": {
+    "author": "慧能 述，宗宝 编",
+    "era": "唐（元代编定）"
+  },
+  "luanchengji": {
+    "author": "苏辙",
+    "era": "北宋"
+  },
+  "lujiuyuanji": {
+    "author": "陆九渊",
+    "era": "南宋"
+  },
+  "lunheng": {
+    "author": "王充",
+    "era": "东汉"
+  },
+  "lunyu": {
+    "author": "孔子弟子及再传弟子",
+    "era": "春秋至战国"
+  },
+  "lvshichunqiu": {
+    "author": "吕不韦门客",
+    "era": "战国末"
+  },
+  "mengzi": {
+    "author": "孟子及其弟子",
+    "era": "战国"
+  },
+  "mengziziyishuzheng": {
+    "author": "戴震",
+    "era": "清"
+  },
+  "mingyidaifanglu": {
+    "author": "黄宗羲",
+    "era": "明末清初"
+  },
+  "mozi": {
+    "author": "墨翟及其后学",
+    "era": "战国"
+  },
+  "nanhuazhenjingzhushu": {
+    "author": "郭象 注，成玄英 疏",
+    "era": "西晋、唐"
+  },
+  "ouyangxiuji": {
+    "author": "欧阳修",
+    "era": "北宋"
+  },
+  "qianfulun": {
+    "author": "王符",
+    "era": "东汉"
+  },
+  "renjiancihua": {
+    "author": "王国维",
+    "era": "清末"
+  },
+  "rizhilu": {
+    "author": "顾炎武",
+    "era": "清初"
+  },
+  "ruanjiji": {
+    "author": "阮籍",
+    "era": "三国魏"
+  },
+  "sanguoyanyi": {
+    "author": "罗贯中",
+    "era": "元末明初"
+  },
+  "shangjunshu": {
+    "author": "商鞅及其后学",
+    "era": "战国"
+  },
+  "shangshu": {
+    "author": "佚名",
+    "era": "先秦"
+  },
+  "shaonianzhongguoshuo": {
+    "author": "梁启超",
+    "era": "清末"
+  },
+  "shiji": {
+    "author": "司马迁",
+    "era": "西汉"
+  },
+  "shijing": {
+    "author": "佚名",
+    "era": "西周至春秋"
+  },
+  "shishuoxinyu": {
+    "author": "刘义庆 主持编撰",
+    "era": "南朝宋"
+  },
+  "shuihuzhuan": {
+    "author": "施耐庵（一说与罗贯中合作）",
+    "era": "元末明初"
+  },
+  "shuoyuan": {
+    "author": "刘向",
+    "era": "西汉"
+  },
+  "sishuzhangjujizhu": {
+    "author": "朱熹",
+    "era": "南宋"
+  },
+  "songcisanbaishou": {
+    "author": "朱祖谋 编",
+    "era": "清末民初"
+  },
+  "sunzi": {
+    "author": "孙武",
+    "era": "春秋末"
+  },
+  "sushiji": {
+    "author": "苏轼",
+    "era": "北宋"
+  },
+  "taijitushuo": {
+    "author": "周敦颐",
+    "era": "北宋"
+  },
+  "tangshisanbaishou": {
+    "author": "蘅塘退士（孙洙） 编",
+    "era": "清"
+  },
+  "taoyuanmingji": {
+    "author": "陶渊明",
+    "era": "东晋"
+  },
+  "tianyanlun": {
+    "author": "严复 译述",
+    "era": "清末"
+  },
+  "tongshu": {
+    "author": "周敦颐",
+    "era": "北宋"
+  },
+  "wanganshiji": {
+    "author": "王安石",
+    "era": "北宋"
+  },
+  "wangbilaozizhu": {
+    "author": "王弼",
+    "era": "三国魏"
+  },
+  "wangwenchenggongquanshu": {
+    "author": "王守仁",
+    "era": "明"
+  },
+  "wenxindiaolong": {
+    "author": "刘勰",
+    "era": "南朝齐梁间"
+  },
+  "wudenghuiyuan": {
+    "author": "普济 编",
+    "era": "南宋"
+  },
+  "xiaojing": {
+    "author": "旧题孔子、曾子",
+    "era": "战国"
+  },
+  "ximing": {
+    "author": "张载",
+    "era": "北宋"
+  },
+  "xinminshuo": {
+    "author": "梁启超",
+    "era": "清末"
+  },
+  "xinxu": {
+    "author": "刘向",
+    "era": "西汉"
+  },
+  "xiyouji": {
+    "author": "吴承恩（一说）",
+    "era": "明"
+  },
+  "xunzi": {
+    "author": "荀况",
+    "era": "战国"
+  },
+  "yanshijiaxun": {
+    "author": "颜之推",
+    "era": "北齐至隋"
+  },
+  "yantielun": {
+    "author": "桓宽",
+    "era": "西汉"
+  },
+  "yanyuanji": {
+    "author": "颜元",
+    "era": "清初"
+  },
+  "yili": {
+    "author": "佚名",
+    "era": "先秦"
+  },
+  "yuanqiang": {
+    "author": "严复",
+    "era": "清末"
+  },
+  "zenggongji": {
+    "author": "曾巩",
+    "era": "北宋"
+  },
+  "zengguofanjiashu": {
+    "author": "曾国藩",
+    "era": "清"
+  },
+  "zhanguoce": {
+    "author": "刘向 编",
+    "era": "西汉"
+  },
+  "zhengmeng": {
+    "author": "张载",
+    "era": "北宋"
+  },
+  "zhonglun": {
+    "author": "徐幹",
+    "era": "东汉末"
+  },
+  "zhongyong": {
+    "author": "旧题子思",
+    "era": "战国"
+  },
+  "zhouli": {
+    "author": "旧题周公",
+    "era": "战国（一说）"
+  },
+  "zhouyi": {
+    "author": "佚名",
+    "era": "西周至战国"
+  },
+  "zhouyizhu": {
+    "author": "王弼、韩康伯 注",
+    "era": "三国魏、东晋"
+  },
+  "zhuangzi": {
+    "author": "庄周及其后学",
+    "era": "战国"
+  },
+  "zhuziyulei": {
+    "author": "朱熹讲述，黎靖德 编",
+    "era": "南宋"
+  },
+  "zizhitongjian": {
+    "author": "司马光 主编",
+    "era": "北宋"
+  },
+  "zuozhuan": {
+    "author": "相传左丘明",
+    "era": "春秋末至战国"
+  }
+}

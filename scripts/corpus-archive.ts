@@ -15,7 +15,7 @@ export class ArchiveSource{
   const candidates=tree.tree.filter((p:any)=>p.type==='blob'&& !p.path.startsWith('back/') && (this.provider==='guopop'?p.path.endsWith('.json'):p.path.endsWith('.txt')) && names.includes(key(p.path.split('/').at(-1).replace(/\.(json|txt)$/,''))));
   const path=override.archivePath??(candidates.length===1?candidates[0].path:undefined);if(!path)throw new Error(`${this.provider}: ${candidates.length} matching files (${candidates.map((p:any)=>p.path).join(', ')})`);
   const source=`https://raw.githubusercontent.com/${repository}/${commit.sha}/${path.split('/').map(encodeURIComponent).join('/')}`;
-  return {work:target.id,provider:this.provider,rootTitle:target.title,pages:[{title:path,source,revision:commit.sha,timestamp:commit.commit.committer.date,fetchedAt}],metadata:{},warnings:['Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.'],...(override.omitLines?{omitLines:override.omitLines}:{}),...(override.headingLines?{headingLines:override.headingLines}:{})};
+  return {work:target.id,provider:this.provider,rootTitle:target.title,pages:[{title:path,source,revision:commit.sha,timestamp:commit.commit.committer.date,fetchedAt}],metadata:{},warnings:['Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.'],...(override.omitLines?{omitLines:override.omitLines}:{}),...(override.headingLines?{headingLines:override.headingLines}:{}),...(override.variantVolumeHeadings?{variantVolumeHeadings:true}:{})};
  }
  async fetch(plan:Plan){const result=await request(plan.pages[0].source);const hash=digest(typeof result.body==='string'?result.body:JSON.stringify(result.body));if(plan.pages[0].sha256&&plan.pages[0].sha256!==hash)throw new Error('Pinned archive changed');plan.pages[0].sha256=hash;}
  async build(plan:Plan):Promise<Unit[]>{
@@ -32,7 +32,9 @@ export class ArchiveSource{
   const flush=()=>{if(blocks.length){units.push({identity:`${plan.pages[0].title}#${++ordinal}`,title,source:plan.pages[0].source,path:[],blocks});blocks=[];}};
   const volume=/^(?:[○◎●]?\s*)?(?:卷[第之]?[一二三四五六七八九十百零〇上下中0-9]+|第[一二三四五六七八九十百0-9]+[卷篇]|[上下中]卷)(?:\s|　|$)/;
   for(const line of lines){
-   const simplified=key(line);const titleKey=key(plan.rootTitle);const withoutTitle=(simplified.startsWith(titleKey)?simplified.slice(titleKey.length):line).replace(/巻/g,'卷');const headingLine=line.replace(/巻/g,'卷');
+   const simplified=key(line);const titleKey=key(plan.rootTitle);const sourceTitle=simplified.startsWith(titleKey)?simplified.slice(titleKey.length):line;
+   // Preserve pinned segmentation unless variant volume headings are selected.
+   const withoutTitle=plan.variantVolumeHeadings?sourceTitle.replace(/巻/g,'卷'):sourceTitle;const headingLine=plan.variantVolumeHeadings?line.replace(/巻/g,'卷'):line;
    const heading=line.length<60&&(plan.headingLines?.includes(line)||volume.test(headingLine)||volume.test(withoutTitle)||/^[^。！？；，]{1,24}卷(?:第|之)?[一二三四五六七八九十百上下中]+(?:\s|$)/.test(headingLine)||/^.{1,18}篇第[一二三四五六七八九十百]+$/.test(line)||/^(?:导言|導言|论|論)[一二三四五六七八九十]+\s/.test(line)||/^(?:自序|吳序|吴序|譯例言|译例言)$/.test(line));
    if(heading){if(volumeNumber(line)!==undefined&&volumeNumber(line)===volumeNumber(title))continue;flush();title=line;}else blocks.push({text:line,headingPath:[]});
   }flush();

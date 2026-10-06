@@ -2,12 +2,12 @@
   "id": "guliang",
   "metadata": {
     "title": "春秋穀梁傳",
-    "author": "穀梁赤",
-    "era": "战国",
+    "author": "相传穀梁赤",
+    "era": "战国至西汉",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

@@ -2,8 +2,10 @@
   "id": "yanyuanji",
   "metadata": {
     "title": "顏元集",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "颜元",
+    "era": "清初"
   },
   "chapters": [
     {

@@ -4,15 +4,15 @@
   "unresolved": 0,
   "coreWorks": 29,
   "coreResolved": 29,
-  "sourcePages": 892,
-  "fetchedPages": 892,
+  "sourcePages": 903,
+  "fetchedPages": 903,
   "images": 1,
   "imageChapters": 1,
   "emptyChapters": 0,
-  "warnings": 818,
+  "warnings": 825,
   "legacyWorks": 3,
-  "newCharacters": 21597202,
-  "characters": 21705280,
+  "newCharacters": 21599196,
+  "characters": 21707274,
   "rows": [
     {
       "id": "daxue",
@@ -29,6 +29,8 @@
       "paragraphs": 16,
       "characters": 2209,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
       ]
@@ -48,6 +50,8 @@
       "paragraphs": 39,
       "characters": 4456,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
       ]
@@ -67,6 +71,8 @@
       "paragraphs": 690,
       "characters": 44844,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
       ]
@@ -129,6 +135,8 @@
       "paragraphs": 1319,
       "characters": 36941,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
         "short-unit: 维清"
@@ -149,6 +157,8 @@
       "paragraphs": 1732,
       "characters": 121126,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
         "source-missing-glyph: 投壶"
@@ -181,6 +191,8 @@
       "paragraphs": 517,
       "characters": 20921,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -198,6 +210,8 @@
       "paragraphs": 3296,
       "characters": 252286,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
         "source-missing-glyph: 成公（元年～十八年）",
@@ -219,6 +233,8 @@
       "paragraphs": 67,
       "characters": 92322,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Wikisource discovery failed: Error: Missing Wikisource page: 墨子/節用下",
@@ -247,6 +263,8 @@
       "paragraphs": 3590,
       "characters": 95263,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Structured whole-work bootstrap selected after discovering 34 Wikisource pages.",
@@ -269,6 +287,8 @@
       "paragraphs": 1258,
       "characters": 129143,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Structured whole-work bootstrap selected after discovering 76 Wikisource pages."
@@ -297,6 +317,8 @@
       "paragraphs": 139,
       "characters": 37948,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -314,6 +336,8 @@
       "paragraphs": 5140,
       "characters": 155524,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Wikisource discovery failed: Error: Missing Wikisource page: 管子/王言",
@@ -346,6 +370,8 @@
       "paragraphs": 90,
       "characters": 10164,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -462,6 +488,8 @@
       "paragraphs": 4348,
       "characters": 1094693,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
         "Wikisource discovery failed: Error: HTTP 429 https://zh.wikisource.org/w/api.php?format=json&formatversion=2&maxlag=5&action=query&list=search&srsearch=%E5%8F%B2%E8%A8%98&srnamespace=0&srlimit=5",
@@ -613,6 +641,8 @@
       "paragraphs": 4834,
       "characters": 158387,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -633,6 +663,8 @@
       "paragraphs": 62,
       "characters": 59546,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -653,6 +685,8 @@
       "paragraphs": 194,
       "characters": 257342,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -673,6 +707,8 @@
       "paragraphs": 249,
       "characters": 71777,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -701,6 +737,8 @@
       "paragraphs": 746,
       "characters": 130410,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -721,6 +759,8 @@
       "paragraphs": 211,
       "characters": 57985,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -833,6 +873,8 @@
       "paragraphs": 2880,
       "characters": 83204,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -864,6 +906,8 @@
       "paragraphs": 426,
       "characters": 103147,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "source-missing-glyph: 抱朴子內篇"
@@ -884,6 +928,8 @@
       "paragraphs": 101,
       "characters": 45662,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -905,6 +951,8 @@
       "paragraphs": 1145,
       "characters": 44651,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -925,6 +973,8 @@
       "paragraphs": 8035,
       "characters": 129676,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
       ]
@@ -944,6 +994,8 @@
       "paragraphs": 8927,
       "characters": 249243,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -965,6 +1017,8 @@
       "paragraphs": 7212,
       "characters": 260637,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -985,6 +1039,8 @@
       "paragraphs": 19236,
       "characters": 976548,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1029,6 +1085,8 @@
       "paragraphs": 3811,
       "characters": 291492,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1052,6 +1110,8 @@
       "paragraphs": 1,
       "characters": 341,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -1069,6 +1129,8 @@
       "paragraphs": 40,
       "characters": 3380,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -1124,6 +1186,8 @@
       "paragraphs": 1,
       "characters": 320,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -1141,6 +1205,8 @@
       "paragraphs": 585,
       "characters": 101206,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1172,6 +1238,8 @@
       "paragraphs": 4330,
       "characters": 251299,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1193,6 +1261,8 @@
       "paragraphs": 2206,
       "characters": 185778,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1215,6 +1285,8 @@
       "paragraphs": 1755,
       "characters": 207620,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "source-missing-glyph: 卷六",
@@ -1239,6 +1311,8 @@
       "paragraphs": 15653,
       "characters": 1933088,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1293,6 +1367,8 @@
       "paragraphs": 955,
       "characters": 80532,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -1310,6 +1386,8 @@
       "paragraphs": 4232,
       "characters": 678268,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1339,6 +1417,8 @@
       "paragraphs": 115,
       "characters": 22766,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -1356,6 +1436,8 @@
       "paragraphs": 2268,
       "characters": 497601,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "source-missing-glyph: 卷一",
@@ -1436,6 +1518,8 @@
       "paragraphs": 92,
       "characters": 37887,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete."
       ]
@@ -1509,6 +1593,8 @@
       "paragraphs": 883,
       "characters": 102723,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -1529,6 +1615,8 @@
       "paragraphs": 908,
       "characters": 138539,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1550,6 +1638,8 @@
       "paragraphs": 339,
       "characters": 115173,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1622,6 +1712,8 @@
       "paragraphs": 11,
       "characters": 3790,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": []
     },
     {
@@ -1639,6 +1731,8 @@
       "paragraphs": 48,
       "characters": 20622,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "source-missing-glyph: 原強"
       ]
@@ -1658,6 +1752,8 @@
       "paragraphs": 979,
       "characters": 189737,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -1678,6 +1774,8 @@
       "paragraphs": 130,
       "characters": 5311,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -1698,6 +1796,8 @@
       "paragraphs": 9031,
       "characters": 202072,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource."
@@ -1772,6 +1872,8 @@
       "paragraphs": 2545,
       "characters": 67288,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
         "source-missing-glyph: 僖公",
@@ -1794,6 +1896,8 @@
       "paragraphs": 735,
       "characters": 40740,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
       ]
@@ -1813,6 +1917,8 @@
       "paragraphs": 23,
       "characters": 2267,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied."
       ]
@@ -1832,6 +1938,8 @@
       "paragraphs": 1605,
       "characters": 15306,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Upstream may include historical commentary and simplified glyphs; preserved as supplied.",
         "source-missing-glyph: 释言第二",
@@ -1855,6 +1963,8 @@
       "paragraphs": 2966,
       "characters": 61024,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1877,6 +1987,8 @@
       "paragraphs": 3471,
       "characters": 72362,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1899,6 +2011,8 @@
       "paragraphs": 11749,
       "characters": 503971,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -1928,6 +2042,8 @@
       "paragraphs": 3704,
       "characters": 299904,
       "emptyChapters": 0,
+      "images": 0,
+      "imageChapters": 0,
       "warnings": [
         "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
         "Explicit bulk bootstrap: one indexed whole-work archive selected. Normal single-work discovery defaults to Wikisource.",
@@ -2824,31 +2940,49 @@
       "title": "周易注",
       "priority": "P2",
       "status": "resolved",
-      "provider": "daizhige",
+      "provider": "zhwikisource",
       "revisions": [
-        "4a6d6f2088825f132521d848c2ea86cf9c9a7620"
+        "9952401",
+        "9741367",
+        "9741368",
+        "9741369",
+        "9741370",
+        "9741371",
+        "9741372",
+        "9741373",
+        "9741374",
+        "9741375",
+        "9741376",
+        "9741377"
       ],
-      "sourcePages": 1,
-      "fetchedPages": 1,
+      "sourcePages": 12,
+      "fetchedPages": 12,
       "chapters": 11,
-      "paragraphs": 147,
-      "characters": 74383,
+      "paragraphs": 2406,
+      "characters": 76377,
       "emptyChapters": 0,
       "images": 0,
       "imageChapters": 0,
       "warnings": [
-        "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+        "Replace the machine-simplified archive, which corrupts 乾 as 干, with the traditional Siku Wikisource edition: summary and volumes 01–10. Preserve every inline glyph image as □ at its source position and count it in warnings; retain the classics and their historical commentary.",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/提要: 2",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷01: 18",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷02: 2",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷03: 1",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷05: 13",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷06: 1",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷08: 2",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷09: 1",
+        "source-missing-glyph-images: 周易註 (四庫全書本)/卷10: 22",
         "source-missing-glyph: 提要",
-        "source-missing-glyph: 周易注卷一",
-        "source-missing-glyph: 周易注卷二",
-        "source-missing-glyph: 周易注卷三",
-        "source-missing-glyph: 周易注卷四 魏 王弼 撰周易下经咸传第四",
-        "source-missing-glyph: 周易注卷五",
-        "source-missing-glyph: 周易注卷六",
-        "source-missing-glyph: 周易注卷七",
-        "source-missing-glyph: 周易注卷八",
-        "source-missing-glyph: 周易注卷九",
-        "source-missing-glyph: 周易注卷十"
+        "source-missing-glyph: 卷01",
+        "source-missing-glyph: 卷02",
+        "source-missing-glyph: 卷03",
+        "source-missing-glyph: 卷05",
+        "source-missing-glyph: 卷06",
+        "source-missing-glyph: 卷08",
+        "source-missing-glyph: 卷09",
+        "source-missing-glyph: 卷10"
       ]
     },
     {

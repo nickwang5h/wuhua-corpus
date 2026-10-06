@@ -2,9 +2,10 @@
   "id": "sunzi",
   "metadata": {
     "title": "孫子兵法",
-    "author": "孫武",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "孙武",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "春秋末"
   },
   "chapters": [
     {

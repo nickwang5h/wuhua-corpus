@@ -2,12 +2,12 @@
   "id": "xiaojing",
   "metadata": {
     "title": "孝經",
-    "author": "孔子门徒（传）",
-    "era": "春秋",
+    "author": "旧题孔子、曾子",
+    "era": "战国",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

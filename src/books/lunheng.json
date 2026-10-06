@@ -2,9 +2,10 @@
   "id": "lunheng",
   "metadata": {
     "title": "論衡",
-    "author": "東漢・王充",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "王充",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "东汉"
   },
   "chapters": [
     {

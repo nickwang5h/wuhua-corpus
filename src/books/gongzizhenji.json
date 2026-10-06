@@ -2,8 +2,10 @@
   "id": "gongzizhenji",
   "metadata": {
     "title": "龔自珍集",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "龚自珍",
+    "era": "清"
   },
   "chapters": [
     {

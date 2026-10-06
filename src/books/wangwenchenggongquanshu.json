@@ -2,8 +2,10 @@
   "id": "wangwenchenggongquanshu",
   "metadata": {
     "title": "王文成公全書",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "王守仁",
+    "era": "明"
   },
   "chapters": [
     {

@@ -2,8 +2,10 @@
   "id": "ruanjiji",
   "metadata": {
     "title": "阮籍集",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "阮籍",
+    "era": "三国魏"
   },
   "chapters": [
     {

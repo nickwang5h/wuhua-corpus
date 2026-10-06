@@ -9,11 +9,11 @@ import {findImage,workForId} from '../src/index.js';
 import {validatePilot,type Pilot} from '../scripts/corpus-route-pilot.js';
 import type {TextBook} from '../src/types.js';
 
-test('frozen legacy JSON files still satisfy the additive schema without metadata or images',async()=>{
+test('frozen legacy JSON files accept editorial metadata without changing their text identities',async()=>{
  for(const [id,chapters,paragraphs] of [['laozi',81,81],['lunyu',20,507],['zhuangzi',33,882]] as const){
   const bytes=await readFile(new URL(`src/books/${id}.json`,root));const text=bytes.toString('utf8');assert.deepEqual(Buffer.from(text),bytes);assert.ok(!text.startsWith('\uFEFF'));
   const book:TextBook=JSON.parse(text);validateBooks([book]);assert.equal(book.id,id);assert.equal(book.chapters.length,chapters);assert.equal(book.chapters.flatMap(c=>c.paragraphs).length,paragraphs);
-  assert.deepEqual(Object.keys(book).sort(),['chapters','id']);assert.ok(book.chapters.every(c=>c.images===undefined));
+  assert.deepEqual(Object.keys(book).sort(),['chapters','id','metadata']);assert.equal(book.metadata?.metadataMethod,'editorial');assert.ok(book.chapters.every(c=>c.images===undefined));
  }
 });
 test('file extraction retains the real figure and ignores navigation icons',()=>{

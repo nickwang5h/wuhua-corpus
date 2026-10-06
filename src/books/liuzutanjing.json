@@ -2,8 +2,10 @@
   "id": "liuzutanjing",
   "metadata": {
     "title": "六祖大師法寶壇經",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "慧能 述，宗宝 编",
+    "era": "唐（元代编定）"
   },
   "chapters": [
     {

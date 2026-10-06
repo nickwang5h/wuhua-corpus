@@ -2,12 +2,12 @@
   "id": "zuozhuan",
   "metadata": {
     "title": "春秋左氏傳",
-    "author": "左丘明",
-    "era": "春秋",
+    "author": "相传左丘明",
+    "era": "春秋末至战国",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

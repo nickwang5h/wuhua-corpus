@@ -5,10 +5,10 @@ import {mkdir,readFile,writeFile} from 'node:fs/promises';
 import {normalize,normalizeHtml,normalizePoetryHtml,articleBodyHtml,imageFiles,type Block} from './corpus-normalize.js';
 export type Target={id:string;title:string;priority?:'P0'|'P1'|'P2'};
 export type Provider='gujilab'|'zhwikisource'|'guopop'|'daizhige'|'nk2028';
-export type Override={provider?:Provider;aliases?:string[];archivePath?:string;rootTitle?:string;excludePages?:string[];gujilabPath?:string;expectedUnits?:number;splitHeadings?:boolean;prefaceHeadings?:string[];anthology?:boolean;articleHtml?:boolean;omitLines?:string[];headingLines?:string[];bodySelections?:Record<string,{heading?:string;poem?:number;paragraph?:number}>;reason?:string};
+export type Override={provider?:Provider;aliases?:string[];archivePath?:string;rootTitle?:string;excludePages?:string[];gujilabPath?:string;expectedUnits?:number;splitHeadings?:boolean;prefaceHeadings?:string[];anthology?:boolean;articleHtml?:boolean;missingGlyphImages?:boolean;variantVolumeHeadings?:boolean;omitLines?:string[];headingLines?:string[];bodySelections?:Record<string,{heading?:string;poem?:number;paragraph?:number}>;reason?:string};
 export type SourcePage={title:string;pageId?:number;revisionId?:number;timestamp:string;fetchedAt:string;source:string;revision:string;parent?:string;sha256?:string;fetchMethod?:'article-html';unitTitle?:string;unitPath?:string[];bodySelection?:{heading?:string;poem?:number;paragraph?:number};images?:SourceImage[]};
 export type Unit={identity:string;title:string;source:string;path:string[];kind?:'chapter'|'anthology-item';blocks:Block[];images?:SourceImage[]};
-export type Plan={work:string;provider:Provider;rootTitle:string;pages:SourcePage[];metadata:Record<string,string>;warnings:string[];splitHeadings?:boolean;prefaceHeadings?:string[];anthology?:boolean;articleHtml?:boolean;omitLines?:string[];headingLines?:string[];candidates?:string[]};
+export type Plan={work:string;provider:Provider;rootTitle:string;pages:SourcePage[];metadata:Record<string,string>;warnings:string[];splitHeadings?:boolean;prefaceHeadings?:string[];anthology?:boolean;articleHtml?:boolean;missingGlyphImages?:boolean;variantVolumeHeadings?:boolean;omitLines?:string[];headingLines?:string[];candidates?:string[]};
 export const root=new URL('../',import.meta.url);
 const cache=new URL('.cache/wuhua-corpus/requests/',root);
 export const digest=(s:string)=>createHash('sha256').update(s).digest('hex');
@@ -84,7 +84,7 @@ export class WikisourceSource{
    const {body}=await api({action:'query',list:'search',srsearch:target.title,srnamespace:'0',srlimit:'5'});
    throw new Error(`${String(e)}; candidates: ${(body.query?.search??[]).map((p:any)=>p.title).join(', ')}`);
   }
-  const rootTitle=first.page.title;const pages:SourcePage[]=[first.page];const warnings:string[]=[];
+  const rootTitle=first.page.title;const pages:SourcePage[]=[first.page];const warnings:string[]=override.reason?[override.reason]:[];
   const metadata:Record<string,string>={};
   for(const key of ['author','author2','collector','collector2','times','type']){const m=first.raw.match(new RegExp('\\|\\s*'+key+'\\s*=\\s*([^|}\n]+)'));if(m)metadata[key]=normalize(m[1]);}
   const entries=override.anthology?anthologyEntries(first.raw):[];
@@ -107,7 +107,7 @@ export class WikisourceSource{
    if(pages.length>1500)throw new Error('Discovery exceeds 1500 pages; narrow edition root');
   }
   if(/\{\{(?:消歧義|disambig|版本信息)/i.test(first.raw)&&pages.length===1)throw new Error('Edition selection required');
-  return {work:target.id,provider:'zhwikisource',rootTitle,pages,metadata,warnings,...(override.splitHeadings?{splitHeadings:true}:{}),...(override.prefaceHeadings?{prefaceHeadings:override.prefaceHeadings}:{}),...(override.anthology?{anthology:true}:{})};
+  return {work:target.id,provider:'zhwikisource',rootTitle,pages,metadata,warnings,...(override.splitHeadings?{splitHeadings:true}:{}),...(override.prefaceHeadings?{prefaceHeadings:override.prefaceHeadings}:{}),...(override.anthology?{anthology:true}:{}),...(override.missingGlyphImages?{missingGlyphImages:true}:{}),...(override.omitLines?{omitLines:override.omitLines}:{})};
  }
  async fetch(plan:Plan):Promise<void>{
   for(const p of plan.pages){
@@ -130,10 +130,12 @@ export class WikisourceSource{
  }
  async build(plan:Plan):Promise<Unit[]>{
   const units:Unit[]=[];
+  plan.warnings=plan.warnings.filter(w=>!w.startsWith('source-missing-glyph-images:'));
   for(const p of plan.pages){
    const cached=await jsonFile<{html:string}>(`.cache/wuhua-corpus/pages/${p.revision}.json`);
    if(p.sha256&&p.sha256!==digest(cached.html))throw new Error(`Cached HTML changed: ${p.title}`);
-   const blocks=(plan.anthology&&p.unitTitle?normalizePoetryHtml(cached.html,p.bodySelection):normalizeHtml(cached.html,plan.splitHeadings));
+   let missing=0;
+   const blocks=(plan.anthology&&p.unitTitle?normalizePoetryHtml(cached.html,p.bodySelection):normalizeHtml(cached.html,plan.splitHeadings,false,plan.missingGlyphImages?{onMissing:()=>{missing++;}}:undefined)).filter(b=>!plan.omitLines?.includes(b.text));
    const children=plan.pages.filter(c=>c.parent===p.title);
    if(children.length){
     if(p.title===plan.rootTitle&&plan.prefaceHeadings?.length){
@@ -144,6 +146,7 @@ export class WikisourceSource{
     continue; // TOC links are relationships, not body chapters.
    }
    if(!blocks.length&&!p.images?.length)throw new Error(`Empty body ${p.title}`);
+   if(missing)plan.warnings.push(`source-missing-glyph-images: ${p.title}: ${missing}`);
    for(const im of p.images??[])await verifyImage(im);
    units.push({identity:String(p.pageId),title:p.unitTitle??(p.title===plan.rootTitle?p.title:p.title.slice(plan.rootTitle.length+1)),source:p.source,path:p.unitPath??p.title.slice(plan.rootTitle.length+1).split('/').slice(0,-1).filter(Boolean),blocks,...(p.images?.length?{images:p.images}:{})});
   }

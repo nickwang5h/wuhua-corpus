@@ -2,10 +2,11 @@
   "id": "guwenguanzhi",
   "metadata": {
     "title": "古文觀止",
-    "author": "清・吳楚材",
-    "metadataMethod": "source-fields",
+    "author": "吴楚材、吴调侯 编",
+    "metadataMethod": "editorial",
     "needsReview": false,
-    "kind": "anthology"
+    "kind": "anthology",
+    "era": "清"
   },
   "chapters": [
     {

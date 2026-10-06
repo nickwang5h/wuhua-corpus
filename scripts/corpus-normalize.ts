@@ -7,7 +7,7 @@ const attr=(n:Node,key:string)=> 'attrs' in n ? n.attrs.find(a=>a.name===key)?.v
 const children=(n:Node):Node[]=>'childNodes' in n?n.childNodes:[];
 const plain=(n:Node):string=>'value' in n?n.value:children(n).map(plain).join('');
 const skipClasses=/^(?:mw-editsection|mw-empty-elt|mw-indicators|noprint|navbox|vertical-navbox|catlinks|ws-noexport|ws-noinclude|licenseContainer|licensetpl|reference|references|reflist|header|ws-header|ws-footer|wst-header|wst-footer|header-container|headerTemplate|headertemplate|sisitem|sistersitebox|thumb|thumbinner|pagenum|wst-pagenum|mw-cite-backlink|toc|printfooter|authority-control)$/i;
-export function normalizeHtml(html:string,trackHeadings=false,primaryText=false):Block[]{
+export function normalizeHtml(html:string,trackHeadings=false,primaryText=false,glyphs?:{onMissing:()=>void}):Block[]{
  const tree=parseFragment(html); const blocks:Block[]=[];let buffer='';let headingOrdinal=0;const headings:string[]=[];
  const flush=()=>{const text=normalize(buffer);buffer='';if(text)blocks.push({text,headingPath:headings.filter(Boolean).slice(),...(trackHeadings?{headingOrdinal}:{})});};
  function walk(n:Node){
@@ -15,7 +15,8 @@ export function normalizeHtml(html:string,trackHeadings=false,primaryText=false)
   if(!('tagName' in n)){for(const c of children(n))walk(c);return;}
   const tag=n.tagName;
   if(primaryText&&attr(n,'class').split(/\s+/).includes('variant-tooltip'))return;
-  if(['script','style','noscript','nav','figure','img','math','audio','video','rt','rp'].includes(tag)||attr(n,'class').split(/\s+/).some(c=>skipClasses.test(c))||/^(?:header|footer|toc|catlinks|license|ws-data)/i.test(attr(n,'id'))||attr(n,'role')==='navigation')return;
+  if(['script','style','noscript','nav','figure','math','audio','video','rt','rp'].includes(tag)||attr(n,'class').split(/\s+/).some(c=>skipClasses.test(c))||/^(?:header|footer|toc|catlinks|license|ws-data)/i.test(attr(n,'id'))||attr(n,'role')==='navigation')return;
+  if(tag==='img'){if(glyphs){buffer+='□';glyphs.onMissing();}return;}
   if(/^h[1-6]$/.test(tag)){flush();if(/^h[12]$/.test(tag))headingOrdinal++;const level=Number(tag[1])-1;headings.length=level;headings[level]=normalize(plain(n).replace(/\[編輯\]|\[编辑\]/g,''));return;}
   if(tag==='br'){flush();return;}
   const block=['p','div','li','dd','dt','tr','blockquote','pre','ul','ol','dl','table'].includes(tag);

@@ -27,7 +27,7 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "be8c8d68929021ce5a8fa3d077a9e0f68c52bead1ced93f273d667a8737b8438",
+  "normalizedSha256": "857ddd9ae6207cef8e2bbb4ad814b590552a45e9d7dea89ca9fdc6c5cf9a6465",
   "stats": {
     "chapters": 69,
     "paragraphs": 1270,
@@ -37,7 +37,7 @@
     "imageChapters": 0
   },
   "structureInput": {
-    "sha256": "5e2746a15b4ba77a3b5f689c486e6b00bcad504ab185dbbebc8cbd1a20c2a1ad",
+    "sha256": "22fd602bca9c160baf5a2ce4fcd2ef6bb67bd3a6618706b1160553469ccb497e",
     "chapters": [
       {
         "id": "chapter-zhouyi-be15bc8490b288dd",

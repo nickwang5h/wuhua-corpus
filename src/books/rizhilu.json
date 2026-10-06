@@ -2,8 +2,10 @@
   "id": "rizhilu",
   "metadata": {
     "title": "日知錄",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "顾炎武",
+    "era": "清初"
   },
   "chapters": [
     {

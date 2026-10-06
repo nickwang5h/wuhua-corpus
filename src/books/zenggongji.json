@@ -2,9 +2,10 @@
   "id": "zenggongji",
   "metadata": {
     "title": "元豐類稿",
-    "author": "北宋・曾鞏",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "曾巩",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "北宋"
   },
   "chapters": [
     {

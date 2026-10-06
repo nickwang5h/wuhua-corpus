@@ -2,9 +2,10 @@
   "id": "sushiji",
   "metadata": {
     "title": "東坡全集",
-    "author": "北宋・蘇軾",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "苏轼",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "北宋"
   },
   "chapters": [
     {

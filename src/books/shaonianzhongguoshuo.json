@@ -2,9 +2,10 @@
   "id": "shaonianzhongguoshuo",
   "metadata": {
     "title": "少年中國說",
-    "author": "梁啟超",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "梁启超",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "清末"
   },
   "chapters": [
     {

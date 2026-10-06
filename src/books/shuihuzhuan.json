@@ -2,8 +2,10 @@
   "id": "shuihuzhuan",
   "metadata": {
     "title": "水滸傳",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "施耐庵（一说与罗贯中合作）",
+    "era": "元末明初"
   },
   "chapters": [
     {

@@ -54,11 +54,13 @@
     "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt",
     "attribution": "daizhige"
   },
-  "normalizedSha256": "80eab79de03233cbda4b6e141d90157c81ab6c4c26f3783633356db03bc410df",
+  "normalizedSha256": "3ebc0b617e1f0d67c967b05dd3c36566c6fad3606891ee18c06196099242042c",
   "stats": {
     "chapters": 141,
     "paragraphs": 15653,
     "characters": 1933088,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
   }
 }

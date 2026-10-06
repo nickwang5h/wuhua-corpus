@@ -13,7 +13,7 @@ export function validateBooks(books:TextBook[]){
  for(const b of books){
   add(b.id);
   if(!Array.isArray(b.chapters)||!b.chapters.length)throw new Error(`Empty book ${b.id}`);
-  if(b.metadata&&(!b.metadata.title||typeof b.metadata.needsReview!=='boolean'||b.metadata.metadataMethod!=='source-fields'||b.metadata.genre!==undefined&&!strings(b.metadata.genre)))throw new Error(`Invalid metadata ${b.id}`);
+  if(b.metadata&&(!b.metadata.title||typeof b.metadata.needsReview!=='boolean'||!['source-fields','editorial'].includes(b.metadata.metadataMethod)||b.metadata.genre!==undefined&&!strings(b.metadata.genre)||b.metadata.metadataMethod==='editorial'&&(!b.metadata.author?.trim()||!b.metadata.era?.trim()||b.metadata.needsReview)))throw new Error(`Invalid metadata ${b.id}`);
   for(const c of b.chapters){
    add(c.id);
    if(!pinnedSource(c.source))throw new Error(`Unpinned source ${c.id}`);

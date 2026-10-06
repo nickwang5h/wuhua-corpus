@@ -2,9 +2,10 @@
   "id": "yantielun",
   "metadata": {
     "title": "鹽鐵論",
-    "author": "西漢・桓寬",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "桓宽",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "西汉"
   },
   "chapters": [
     {

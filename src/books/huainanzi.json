@@ -2,9 +2,10 @@
   "id": "huainanzi",
   "metadata": {
     "title": "淮南子",
-    "author": "西漢・劉安",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "刘安及其门客",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "西汉"
   },
   "chapters": [
     {

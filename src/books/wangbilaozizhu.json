@@ -2,8 +2,10 @@
   "id": "wangbilaozizhu",
   "metadata": {
     "title": "老子道德經注",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "王弼",
+    "era": "三国魏"
   },
   "chapters": [
     {

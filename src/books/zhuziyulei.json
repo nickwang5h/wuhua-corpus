@@ -2,8 +2,10 @@
   "id": "zhuziyulei",
   "metadata": {
     "title": "朱子語類",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "朱熹讲述，黎靖德 编",
+    "era": "南宋"
   },
   "chapters": [
     {

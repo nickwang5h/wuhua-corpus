@@ -2,8 +2,10 @@
   "id": "chuci",
   "metadata": {
     "title": "楚辭",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "屈原、宋玉等，刘向 辑",
+    "era": "战国至汉"
   },
   "chapters": [
     {

@@ -3,11 +3,11 @@
   "metadata": {
     "title": "漢書",
     "author": "班固",
-    "era": "汉",
+    "era": "东汉",
     "genre": [
       "史"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

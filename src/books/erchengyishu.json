@@ -2,8 +2,10 @@
   "id": "erchengyishu",
   "metadata": {
     "title": "河南程氏遺書",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "程颢、程颐",
+    "era": "北宋"
   },
   "chapters": [
     {

@@ -2,8 +2,10 @@
   "id": "fenshu",
   "metadata": {
     "title": "焚書",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "李贽",
+    "era": "明"
   },
   "chapters": [
     {

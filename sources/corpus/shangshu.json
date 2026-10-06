@@ -26,7 +26,7 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "4edc0d395c5115f39a61e42585d2022bea40a2b5be2ecd5a55c6b3991d318888",
+  "normalizedSha256": "5ce5cc63b1d770e61a406840aba72f330d14ada68d0b783b0032c2deca514960",
   "stats": {
     "chapters": 57,
     "paragraphs": 460,
@@ -36,7 +36,7 @@
     "imageChapters": 0
   },
   "structureInput": {
-    "sha256": "1d3e35683f5c6150789379eae4142515c65691bad841e9eecfac90bfe0f14c14",
+    "sha256": "2f9323a8d4b0d825f5d66cec21f84439d18aec14ab5132c11a9899d0ee76185b",
     "chapters": [
       {
         "id": "chapter-shangshu-8531dc10fe15ae0d",

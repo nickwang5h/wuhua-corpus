@@ -314,7 +314,7 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "72a6b9efacc9cd9737bfa38459541465230d2a7ddb76d64a0f0e948c27d3b427",
+  "normalizedSha256": "25d1d49ac0e2b7c1e74d9b30626352ead26185647e76ea5824345301c56ebe16",
   "stats": {
     "chapters": 26,
     "paragraphs": 749,
@@ -324,7 +324,7 @@
     "imageChapters": 0
   },
   "structureInput": {
-    "sha256": "5fccaafd0c845d59484cf5a8f730fec7ff7973acd732a2561c32f6ee7d6d11f7",
+    "sha256": "caf2c4479fc2904c32392108845d97f3a498fdd90453cc6451a9713a293ebe55",
     "chapters": [
       {
         "id": "chapter-lvshichunqiu-c3e303dd89acdbeb",

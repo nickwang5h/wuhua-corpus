@@ -2,12 +2,12 @@
   "id": "sanguoyanyi",
   "metadata": {
     "title": "三國演義",
-    "author": "羅貫中",
-    "era": "明朝",
+    "author": "罗贯中",
+    "era": "元末明初",
     "genre": [
       "明朝小說"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

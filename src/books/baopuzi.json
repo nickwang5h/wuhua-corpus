@@ -2,8 +2,10 @@
   "id": "baopuzi",
   "metadata": {
     "title": "抱朴子內篇",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "葛洪",
+    "era": "东晋"
   },
   "chapters": [
     {

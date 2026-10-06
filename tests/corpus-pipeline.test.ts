@@ -12,6 +12,32 @@ test('HTML conversion preserves original glyphs, entities, tables and section id
 test('discovery excludes header citations, aggregate duplicates and unrelated works',()=>{
  assert.deepEqual(childTitles('{{header|notes=[[書/注]] {{x|y}}}}\n{{sub title|[[/甲]]}} [[書/乙|乙]] [[史記/卷一]] [[/全覽]]','書','書'),['書/甲','書/乙']);
 });
+test('opt-in glyph images keep their exact position and count without retaining navigation images',()=>{
+ const html='<div id="headerContainer"><img src="nav.png"></div><p>乾<img src="glyph.svg" alt="Do not guess this character">元<span><img src="other.svg"></span>亨</p><div class="licenseContainer"><img src="license.png"></div><img class="noprint" src="icon.png">';
+ let count=0;
+ const blocks=normalizeHtml(html,false,false,{onMissing:()=>{count++;}});
+ assert.deepEqual(blocks.map(b=>b.text),['乾□元□亨']);
+ assert.equal(count,2);
+ assert.deepEqual(residue(blocks[0].text),['source-missing-glyph']);
+ assert.deepEqual(normalizeHtml(html).map(b=>b.text),['乾元亨']);
+});
+test('the Siku replacement alone opts into glyph placeholders and records every missing position',async()=>{
+ const {jsonFile}=await import('../scripts/corpus-sources.js');
+ const overrides=await jsonFile<Record<string,{missingGlyphImages?:boolean}>>('corpus/overrides.json');
+ assert.deepEqual(Object.keys(overrides).filter(id=>overrides[id].missingGlyphImages),['zhouyizhu']);
+ const source=await jsonFile<Plan>('sources/corpus/zhouyizhu.json');
+ const book=await jsonFile<import('../src/types.js').TextBook>('src/books/zhouyizhu.json');
+ assert.equal(source.provider,'zhwikisource');assert.equal(source.missingGlyphImages,true);
+ assert.deepEqual(book.chapters.map(c=>c.title),['提要',...Array.from({length:10},(_,i)=>`卷${String(i+1).padStart(2,'0')}`)]);
+ assert.match(book.chapters[1].paragraphs[0].text,/^䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣/);
+ let total=0;
+ for(const c of book.chapters){
+  const count=c.paragraphs.reduce((n,p)=>n+Array.from(p.text).filter(g=>g==='□').length,0);
+  const warning=source.warnings.find(w=>w.startsWith(`source-missing-glyph-images: ${source.rootTitle}/${c.title}: `));
+  assert.equal(warning?Number(warning.split(': ').at(-1)):0,count,c.title);total+=count;
+ }
+ assert.equal(total,62);
+});
 test('stable source IDs do not depend on sibling ordering; text versions track content',()=>{
  const p:Plan={work:'example',provider:'zhwikisource',rootTitle:'例',pages:[],metadata:{},warnings:[]};
  const a={identity:'12',title:'甲',source:'https://zh.wikisource.org/w/index.php?oldid=123',path:[],blocks:[{text:'原文。',headingPath:[]}]};

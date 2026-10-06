@@ -102,7 +102,7 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "e85e2790516482bda828969024cd52e0e3de0efcea7b1d6705c8cc12b2d288e0",
+  "normalizedSha256": "b51ad1f51289c7234fd6dd3a6a3c4e7ff3f5a6bbd8b90df09d69ff815b93bfc4",
   "stats": {
     "chapters": 7,
     "paragraphs": 37,
@@ -112,7 +112,7 @@
     "imageChapters": 0
   },
   "structureInput": {
-    "sha256": "cbf4c5c80a50901b68458805d0373cc7fc4750d9a3747ea58b114a9e90f88a8a",
+    "sha256": "d42c57c5f224063ffce8541ea12e53f531e5840eb340da2047864c1c7ee78322",
     "chapters": [
       {
         "id": "chapter-gongsunlongzi-536a9aa7bb51d790",

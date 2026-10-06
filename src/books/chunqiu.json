@@ -2,8 +2,10 @@
   "id": "chunqiu",
   "metadata": {
     "title": "春秋",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "相传孔子修订",
+    "era": "春秋"
   },
   "chapters": [
     {

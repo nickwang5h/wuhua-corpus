@@ -2,9 +2,10 @@
   "id": "sishuzhangjujizhu",
   "metadata": {
     "title": "四書章句集注",
-    "author": "南宋・朱熹",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "朱熹",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "南宋"
   },
   "chapters": [
     {

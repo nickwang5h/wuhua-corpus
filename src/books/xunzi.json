@@ -2,9 +2,10 @@
   "id": "xunzi",
   "metadata": {
     "title": "荀子",
-    "author": "唐・楊倞",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "荀况",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "战国"
   },
   "chapters": [
     {

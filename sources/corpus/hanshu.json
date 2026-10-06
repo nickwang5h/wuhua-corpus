@@ -97,7 +97,7 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "0d3fb19cdec81ac94b9057d54888d7282ccf84f40d9adff3bc1a444405ba32b0",
+  "normalizedSha256": "70aca3dfa5fa233bf0d7f69e183b81a74b0c00fe39905be920289dcb7078151b",
   "stats": {
     "chapters": 118,
     "paragraphs": 3808,
@@ -107,7 +107,7 @@
     "imageChapters": 0
   },
   "structureInput": {
-    "sha256": "311b186b0e9367de9f94fa0d6f338e5bbd0f7ad30e0e8cfefd2e6a0b035c7005",
+    "sha256": "eb63e0c67f3871d750024e671a94af26d6e239610b4ff224e3baf8a0fe97a4a0",
     "chapters": [
       {
         "id": "chapter-hanshu-356106ba3de13c0d",

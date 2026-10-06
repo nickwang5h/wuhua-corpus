@@ -2,8 +2,10 @@
   "id": "haiguotuzhi",
   "metadata": {
     "title": "海國圖志",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "魏源",
+    "era": "清"
   },
   "chapters": [
     {

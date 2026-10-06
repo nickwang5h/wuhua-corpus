@@ -2,9 +2,10 @@
   "id": "wenxindiaolong",
   "metadata": {
     "title": "文心雕龍",
-    "author": "南北朝・刘勰",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "刘勰",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "南朝齐梁间"
   },
   "chapters": [
     {

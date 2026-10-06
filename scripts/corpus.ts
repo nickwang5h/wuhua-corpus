@@ -7,6 +7,7 @@ import {validateBooks,validateHistory} from '../src/validate.js';
 import {applyStructure,retainWithdrawals,structureInput,restoreStructureInput,type Structure,type History} from './corpus-structure.js';
 import type {TextBook,Chapter} from '../src/types.js';
 import {ArchiveSource} from './corpus-archive.js';
+import {applyMetadata,type EditorialMetadata} from './corpus-metadata.js';
 const adapters={...primaryAdapters,guopop:new ArchiveSource('guopop'),daizhige:new ArchiveSource('daizhige'),nk2028:new ArchiveSource('nk2028')};
 const frozen=new Set(['laozi','lunyu','zhuangzi']);
 export function convertUnits(target:Target,plan:Plan,units:Unit[]):TextBook{
@@ -40,8 +41,10 @@ export async function checkCorpus(){
  const navigation=await jsonFile<any[]>('src/manifest.json');
  const history=await jsonFile<History>('src/history.json');
  const structure=await jsonFile<Structure>('corpus/structure.json');
+ const metadata=await jsonFile<EditorialMetadata>('corpus/metadata.json');
  for(const t of targets){let book:TextBook;try{book=await jsonFile<TextBook>(`src/books/${t.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code==='ENOENT')continue;throw e;}
   const source=await jsonFile<any>(`sources/corpus/${t.id}.json`);
+  if(JSON.stringify(applyMetadata(book,metadata))!==JSON.stringify(book))throw new Error(`Stale editorial metadata: ${t.id}`);
   if(JSON.stringify(navigation.find(b=>b.id===t.id)?.chapters)!==JSON.stringify(book.chapters.map(({id,number,title,source})=>({id,number,title,source}))))throw new Error(`Stale navigation ${t.id}`);
   if(source.work!==book.id||source.normalizedSha256!==digest(JSON.stringify(asSourced(book,history.records))))throw new Error(`Canonical/source mismatch: ${t.id}`);
   if(structure[t.id]){
@@ -66,7 +69,8 @@ async function catalog(){
 async function build(target:Target,plan:Plan,override:Override){
  const units=await adapters[plan.provider].build(plan);
  if(override.expectedUnits!==undefined&&units.length!==override.expectedUnits)throw new Error(`Expected ${override.expectedUnits} units, found ${units.length}`);
- const original=convertUnits(target,plan,units);
+ const metadata=await jsonFile<EditorialMetadata>('corpus/metadata.json');
+ const original=applyMetadata(convertUnits(target,plan,units),metadata);
  const structure=await jsonFile<Structure>('corpus/structure.json');
  const {book,withdrawn}=applyStructure(original,structure);const warnings=plan.warnings.filter(w=>!/^(?:source-missing-glyph|short-unit|volume-number-gap):/.test(w));
  for(const c of book.chapters){const text=c.paragraphs.map(p=>p.text).join('');for(const w of residue(text)){if(w!=='source-missing-glyph')throw new Error(`${w}: ${c.title}`);warnings.push(`${w}: ${c.title}`);}if(c.paragraphs.length&&text.length<30)warnings.push(`short-unit: ${c.title}`);}
@@ -78,12 +82,13 @@ async function build(target:Target,plan:Plan,override:Override){
  let previous:TextBook|undefined;try{previous=await jsonFile<TextBook>(`src/books/${target.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
  const history=await jsonFile<History>('src/history.json');
  // Only an explicit structure edit may replace the exact pinned, unedited book.
- const structuralUpdate=structure[target.id]?.length&&previous&&JSON.stringify(previous)===JSON.stringify(original);
- if(previous&&JSON.stringify(asSourced(previous,history.records))!==JSON.stringify(book)&&!structuralUpdate){await save(`.cache/wuhua-corpus/candidates/${target.id}.json`,book);throw new Error('Canonical changed; candidate saved. Explicit revision/history required.');}
+ const updated=previous?applyMetadata(previous,metadata):undefined;
+ const structuralUpdate=structure[target.id]?.length&&updated&&JSON.stringify(updated)===JSON.stringify(original);
+ if(updated&&JSON.stringify(asSourced(updated,history.records))!==JSON.stringify(book)&&!structuralUpdate){await save(`.cache/wuhua-corpus/candidates/${target.id}.json`,book);throw new Error('Canonical changed; candidate saved. Explicit revision/history required.');}
  const retained=retainWithdrawals(history,withdrawn);
  validateHistory(withdrawn.records,withdrawn.transitions,book.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source}))));
  if(JSON.stringify(retained)!==JSON.stringify(history))await save('src/history.json',retained);
- await save(`src/books/${target.id}.json`,previous&&!structuralUpdate?previous:book);await save(`sources/corpus/${target.id}.json`,source);
+ await save(`src/books/${target.id}.json`,updated&&!structuralUpdate?updated:book);await save(`sources/corpus/${target.id}.json`,source);
  return {id:target.id,title:target.title,priority:target.priority??'P1',status:'resolved',provider:plan.provider,...stats,warnings:source.warnings};
 }
 export async function report(){

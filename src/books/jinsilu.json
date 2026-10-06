@@ -2,8 +2,10 @@
   "id": "jinsilu",
   "metadata": {
     "title": "近思錄",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "朱熹、吕祖谦 编",
+    "era": "南宋"
   },
   "chapters": [
     {

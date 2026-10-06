@@ -2,12 +2,12 @@
   "id": "gongyang",
   "metadata": {
     "title": "春秋公羊傳",
-    "author": "公羊高",
-    "era": "战国",
+    "author": "相传公羊高",
+    "era": "战国至西汉",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

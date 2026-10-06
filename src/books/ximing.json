@@ -2,9 +2,10 @@
   "id": "ximing",
   "metadata": {
     "title": "西銘",
-    "author": "張載",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "张载",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "北宋"
   },
   "chapters": [
     {

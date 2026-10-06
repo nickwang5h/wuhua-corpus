@@ -2,9 +2,10 @@
   "id": "zizhitongjian",
   "metadata": {
     "title": "資治通鑑",
-    "author": "北宋・司馬光",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "司马光 主编",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "北宋"
   },
   "chapters": [
     {

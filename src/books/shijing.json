@@ -2,12 +2,12 @@
   "id": "shijing",
   "metadata": {
     "title": "詩經",
-    "author": "佚名（西周至春秋）",
-    "era": "周",
+    "author": "佚名",
+    "era": "西周至春秋",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

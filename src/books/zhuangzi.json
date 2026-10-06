@@ -33634,5 +33634,12 @@
         }
       ]
     }
-  ]
+  ],
+  "metadata": {
+    "title": "庄子",
+    "author": "庄周及其后学",
+    "era": "战国",
+    "metadataMethod": "editorial",
+    "needsReview": false
+  }
 }

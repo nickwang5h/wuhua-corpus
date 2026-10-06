@@ -2,12 +2,12 @@
   "id": "shangshu",
   "metadata": {
     "title": "尚書",
-    "author": "佚名（先秦）",
-    "era": "周",
+    "author": "佚名",
+    "era": "先秦",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

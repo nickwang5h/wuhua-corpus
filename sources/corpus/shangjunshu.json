@@ -82,7 +82,7 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "e5a99f161cb016ef8797a18e8904bc5ab45e310d4f013794cceae4e2dd9c95d1",
+  "normalizedSha256": "61c8890e554d6b850130223009c412e0852442d2233c10686fd4455d04f8e8b1",
   "stats": {
     "chapters": 25,
     "paragraphs": 128,
@@ -92,7 +92,7 @@
     "imageChapters": 0
   },
   "structureInput": {
-    "sha256": "fb915c83113f45484d5e4955823b1b7bedf7248f54cfdc24b963bb9e81c89258",
+    "sha256": "ee64e0c2b676c78ab9e8437d4bea60a5e26e34480836a74a34fa681ecbb4cd78",
     "chapters": [
       {
         "id": "chapter-shangjunshu-f13dcfad4b001378",

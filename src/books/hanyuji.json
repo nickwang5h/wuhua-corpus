@@ -2,9 +2,10 @@
   "id": "hanyuji",
   "metadata": {
     "title": "昌黎先生集",
-    "author": "唐・韓愈",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "韩愈",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "唐"
   },
   "chapters": [
     {

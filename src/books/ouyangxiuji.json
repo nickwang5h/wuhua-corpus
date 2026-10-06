@@ -2,9 +2,10 @@
   "id": "ouyangxiuji",
   "metadata": {
     "title": "歐陽文忠公集",
-    "author": "北宋・歐陽修",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "欧阳修",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "北宋"
   },
   "chapters": [
     {

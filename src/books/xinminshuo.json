@@ -2,9 +2,10 @@
   "id": "xinminshuo",
   "metadata": {
     "title": "新民說",
-    "author": "梁啟超",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "梁启超",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "清末"
   },
   "chapters": [
     {

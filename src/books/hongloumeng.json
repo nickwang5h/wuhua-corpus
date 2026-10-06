@@ -2,9 +2,10 @@
   "id": "hongloumeng",
   "metadata": {
     "title": "紅樓夢",
-    "author": "清・曹雪芹",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "曹雪芹",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "清"
   },
   "chapters": [
     {

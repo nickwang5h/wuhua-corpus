@@ -2,12 +2,12 @@
   "id": "xiyouji",
   "metadata": {
     "title": "西遊記",
-    "author": "吳承恩",
+    "author": "吴承恩（一说）",
     "era": "明",
     "genre": [
       "白話長篇小說"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

@@ -2,8 +2,10 @@
   "id": "jikangji",
   "metadata": {
     "title": "嵇康集",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "嵇康",
+    "era": "三国魏"
   },
   "chapters": [
     {

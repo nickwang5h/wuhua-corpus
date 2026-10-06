@@ -2,8 +2,10 @@
   "id": "datongshu",
   "metadata": {
     "title": "大同書",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "康有为",
+    "era": "清末"
   },
   "chapters": [
     {

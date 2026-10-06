@@ -2,9 +2,10 @@
   "id": "taoyuanmingji",
   "metadata": {
     "title": "陶淵明集",
-    "author": "西晋・陶潛",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "陶渊明",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "东晋"
   },
   "chapters": [
     {

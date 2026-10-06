@@ -2,8 +2,10 @@
   "id": "lujiuyuanji",
   "metadata": {
     "title": "陸九淵集",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "陆九渊",
+    "era": "南宋"
   },
   "chapters": [
     {

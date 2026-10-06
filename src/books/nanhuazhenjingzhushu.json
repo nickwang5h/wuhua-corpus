@@ -2,9 +2,10 @@
   "id": "nanhuazhenjingzhushu",
   "metadata": {
     "title": "南華真經註疏",
-    "era": "晉朝",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "era": "西晋、唐",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "郭象 注，成玄英 疏"
   },
   "chapters": [
     {

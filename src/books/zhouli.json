@@ -2,9 +2,10 @@
   "id": "zhouli",
   "metadata": {
     "title": "周禮",
-    "author": "東漢・鄭玄",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "旧题周公",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "战国（一说）"
   },
   "chapters": [
     {

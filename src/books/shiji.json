@@ -3,11 +3,11 @@
   "metadata": {
     "title": "史記",
     "author": "司马迁",
-    "era": "汉",
+    "era": "西汉",
     "genre": [
       "史"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

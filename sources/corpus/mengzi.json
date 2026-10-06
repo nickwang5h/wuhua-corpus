@@ -26,11 +26,13 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "6620b2f2f150ea5d41d58039c874cdae64df7abd13688d5ff0c2b8034c29b4f3",
+  "normalizedSha256": "40528580ebd070a1f66fc13da12f235856bb87e9b9ed72194ecd1a912b24739b",
   "stats": {
     "chapters": 14,
     "paragraphs": 690,
     "characters": 44844,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
   }
 }

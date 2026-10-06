@@ -2,9 +2,10 @@
   "id": "guanzi",
   "metadata": {
     "title": "管子",
-    "author": "春秋・管仲",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "旧题管仲",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "春秋至汉初"
   },
   "chapters": [
     {

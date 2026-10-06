@@ -2,8 +2,10 @@
   "id": "zengguofanjiashu",
   "metadata": {
     "title": "曾國藩家書",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "曾国藩",
+    "era": "清"
   },
   "chapters": [
     {

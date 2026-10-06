@@ -2,12 +2,12 @@
   "id": "mengzi",
   "metadata": {
     "title": "孟子",
-    "author": "孟子",
+    "author": "孟子及其弟子",
     "era": "战国",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

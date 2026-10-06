@@ -2,12 +2,12 @@
   "id": "zhongyong",
   "metadata": {
     "title": "中庸",
-    "author": "子思",
-    "era": "春秋",
+    "author": "旧题子思",
+    "era": "战国",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

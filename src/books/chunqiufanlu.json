@@ -2,8 +2,10 @@
   "id": "chunqiufanlu",
   "metadata": {
     "title": "春秋繁露",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "董仲舒",
+    "era": "西汉"
   },
   "chapters": [
     {

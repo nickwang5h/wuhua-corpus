@@ -2,9 +2,10 @@
   "id": "wanganshiji",
   "metadata": {
     "title": "臨川文集",
-    "author": "北宋・王安石",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "王安石",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "北宋"
   },
   "chapters": [
     {

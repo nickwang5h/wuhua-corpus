@@ -2,12 +2,12 @@
   "id": "zhouyi",
   "metadata": {
     "title": "周易",
-    "author": "佚名（周）",
-    "era": "周",
+    "author": "佚名",
+    "era": "西周至战国",
     "genre": [
       "经"
     ],
-    "metadataMethod": "source-fields",
+    "metadataMethod": "editorial",
     "needsReview": false
   },
   "chapters": [

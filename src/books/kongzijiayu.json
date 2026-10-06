@@ -2,9 +2,10 @@
   "id": "kongzijiayu",
   "metadata": {
     "title": "孔子家語",
-    "author": "魏・王肃",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "旧题孔子门人，王肃 注",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "三国魏（今本）"
   },
   "chapters": [
     {

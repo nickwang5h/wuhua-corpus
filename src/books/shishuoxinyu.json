@@ -2,9 +2,10 @@
   "id": "shishuoxinyu",
   "metadata": {
     "title": "世說新語",
-    "author": "南朝宋・劉義慶",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "刘义庆 主持编撰",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "南朝宋"
   },
   "chapters": [
     {

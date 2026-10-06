@@ -2,9 +2,10 @@
   "id": "xinxu",
   "metadata": {
     "title": "新序",
-    "author": "西汉・劉向",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "刘向",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "西汉"
   },
   "chapters": [
     {

@@ -2,8 +2,10 @@
   "id": "dutongjianlun",
   "metadata": {
     "title": "讀通鑑論",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "王夫之",
+    "era": "明末清初"
   },
   "chapters": [
     {

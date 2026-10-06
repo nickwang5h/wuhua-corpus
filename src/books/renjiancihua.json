@@ -2,8 +2,10 @@
   "id": "renjiancihua",
   "metadata": {
     "title": "人間詞話",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "王国维",
+    "era": "清末"
   },
   "chapters": [
     {

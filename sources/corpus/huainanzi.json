@@ -26,11 +26,13 @@
     "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E6%B7%AE%E5%8D%97%E5%AD%90.json",
     "attribution": "guopop"
   },
-  "normalizedSha256": "3e29571188d2c312e37d035c110a16498e83c883191cab406c3683b327f28887",
+  "normalizedSha256": "3b8f76e04ac4589fb6bce9d1171b6640012f6411eade071ab78649efa92020ba",
   "stats": {
     "chapters": 22,
     "paragraphs": 4834,
     "characters": 158387,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
   }
 }

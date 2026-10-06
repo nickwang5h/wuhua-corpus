@@ -13762,5 +13762,12 @@
         }
       ]
     }
-  ]
+  ],
+  "metadata": {
+    "title": "论语",
+    "author": "孔子弟子及再传弟子",
+    "era": "春秋至战国",
+    "metadataMethod": "editorial",
+    "needsReview": false
+  }
 }

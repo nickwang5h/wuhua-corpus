@@ -2,9 +2,10 @@
   "id": "shuoyuan",
   "metadata": {
     "title": "說苑",
-    "author": "西汉・劉向",
-    "metadataMethod": "source-fields",
-    "needsReview": false
+    "author": "刘向",
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "era": "西汉"
   },
   "chapters": [
     {

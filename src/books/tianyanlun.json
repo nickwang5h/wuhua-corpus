@@ -2,8 +2,10 @@
   "id": "tianyanlun",
   "metadata": {
     "title": "天演論",
-    "metadataMethod": "source-fields",
-    "needsReview": true
+    "metadataMethod": "editorial",
+    "needsReview": false,
+    "author": "严复 译述",
+    "era": "清末"
   },
   "chapters": [
     {

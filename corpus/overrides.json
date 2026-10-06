@@ -158,21 +158,40 @@
     "reason": "Wikisource 老子道德經註 is 憨山德清's commentary (kept as hanshanlaozijie); 王弼's commentary comes from the archive."
   },
   "zhouyizhu": {
-    "provider": "daizhige",
-    "archivePath": "易藏/易经/周易注.txt",
+    "provider": "zhwikisource",
+    "rootTitle": "周易註 (四庫全書本)",
     "expectedUnits": 11,
-    "headingLines": [
-      "提要"
-    ],
+    "missingGlyphImages": true,
     "omitLines": [
-      "钦定四库全书 经部一",
-      "周易注 易类",
-      "钦定四库全书",
+      "欽定四庫全書 經部一",
+      "周易註 易類",
+      "提要",
+      "欽定四庫全書",
       "魏 王弼 撰",
-      "晋 韩康伯 注",
-      "唐 邢璹 注"
+      "晉 韓康伯 撰",
+      "周易註卷四 魏 王弼 撰",
+      "周易上經乾傳第一",
+      "周易上經㤗傳第二",
+      "周易上經噬嗑傳第三",
+      "周易下經咸傳第四",
+      "周易下經夬傳第五",
+      "周易下經豐傳第六",
+      "周易繋辭上第七",
+      "周易繋辭下第八",
+      "周易說卦第九",
+      "周易註卷一",
+      "周易註卷二",
+      "周易註卷三",
+      "周易註卷四",
+      "周易註卷五",
+      "周易註卷六",
+      "周易註卷七",
+      "周易註卷八",
+      "周易註卷九",
+      "周易註卷十",
+      "周易注卷五"
     ],
-    "reason": "The complete Wiki Siku edition embeds missing text glyphs as inline images. Use the ten-volume Siku archive plus its historical summary, preserving the classics together with Wang Bi and Han Kangbo commentary and the appended Lueli."
+    "reason": "Replace the machine-simplified archive, which corrupts 乾 as 干, with the traditional Siku Wikisource edition: summary and volumes 01–10. Preserve every inline glyph image as □ at its source position and count it in warnings; retain the classics and their historical commentary."
   },
   "jikangji": {
     "provider": "daizhige",
@@ -190,7 +209,8 @@
       "钦定四库全书",
       "魏 嵇康 撰"
     ],
-    "reason": "The Wiki root 嵇康集 contains Lu Xun editorial essays; the complete Wiki Siku edition embeds missing glyphs as inline images. Use the ten-volume Siku archive plus its historical summary to preserve those glyphs."
+    "reason": "The Wiki root 嵇康集 contains Lu Xun editorial essays; the complete Wiki Siku edition embeds missing glyphs as inline images. Use the ten-volume Siku archive plus its historical summary to preserve those glyphs.",
+    "variantVolumeHeadings": true
   },
   "ruanjiji": {
     "provider": "daizhige",

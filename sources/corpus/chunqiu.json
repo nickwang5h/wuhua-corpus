@@ -154,11 +154,13 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "5016d2ff2ad13f6aaf70b905ff6d2c19d0db903d6ffd289fe52ee51b6739b5bb",
+  "normalizedSha256": "983eaf1547ef27521757bb161397fea6739d6e2b6b5668a48722db0e7db4d73d",
   "stats": {
     "chapters": 12,
     "paragraphs": 517,
     "characters": 20921,
-    "emptyChapters": 0
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
   }
 }
