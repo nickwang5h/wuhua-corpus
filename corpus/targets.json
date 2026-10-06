@@ -433,5 +433,40 @@
     "id": "wangbilaozizhu",
     "title": "老子道德經注",
     "priority": "P1"
+  },
+  {
+    "id": "zhouyizhu",
+    "title": "周易注",
+    "priority": "P2"
+  },
+  {
+    "id": "jikangji",
+    "title": "嵇康集",
+    "priority": "P2"
+  },
+  {
+    "id": "ruanjiji",
+    "title": "阮籍集",
+    "priority": "P2"
+  },
+  {
+    "id": "qianfulun",
+    "title": "潛夫論",
+    "priority": "P2"
+  },
+  {
+    "id": "zhonglun",
+    "title": "中論",
+    "priority": "P2"
+  },
+  {
+    "id": "tangshisanbaishou",
+    "title": "唐詩三百首",
+    "priority": "P2"
+  },
+  {
+    "id": "songcisanbaishou",
+    "title": "宋詞三百首",
+    "priority": "P2"
   }
 ]

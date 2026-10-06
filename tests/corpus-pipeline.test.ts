@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {normalizeHtml,residue} from '../scripts/corpus-normalize.js';
-import {childTitles,digest,type Plan} from '../scripts/corpus-sources.js';
+import {normalizeHtml,normalizePoetryHtml,articleBodyHtml,residue} from '../scripts/corpus-normalize.js';
+import {childTitles,anthologyEntries,splitHeadingUnits,digest,type Plan} from '../scripts/corpus-sources.js';
 import {convertUnits,asSourced} from '../scripts/corpus.js';
 import {validateBooks} from '../src/validate.js';
 test('HTML conversion preserves original glyphs, entities, tables and section identity, excludes site UI',()=>{
@@ -68,4 +68,45 @@ test('a reviewed correction is compared with its source as the uncorrected text,
  }
  const silent=structuredClone(sourced);silent.chapters[0].paragraphs[0]={...original,version,text};
  assert.notEqual(JSON.stringify(asSourced(silent,records)),JSON.stringify(sourced));
+});
+
+
+test('anthology discovery follows only ordered poem entries and keeps their author and group',()=>{
+ const raw='{{album header|notes=[[Other]]}}\n== 五言古詩 ==\n# 李白 [[春思 (李白)|春思]]\n# 杜甫 [[夢李白 (浮雲終日行)|夢李白]]<sub>之二</sub>\n[[Category:詩]]';
+ assert.deepEqual(anthologyEntries(raw),[
+  {title:'春思 (李白)',unitTitle:'春思（李白）',unitPath:['五言古詩']},
+  {title:'夢李白 (浮雲終日行)',unitTitle:'夢李白 之二（杜甫）',unitPath:['五言古詩']}
+ ]);
+ assert.deepEqual(childTitles('[[/ 卷一|卷一]]','潛夫論','潛夫論'),['潛夫論/卷一']);
+});
+test('repeated tune-and-author headings remain separate anthology items without losing text',()=>{
+ const blocks=normalizeHtml('<h2>浣溪沙（晏殊）</h2><p>一曲新詞酒一杯。</p><h2>浣溪沙（晏殊）</h2><p>一向年光有限身。</p>',true);
+ const unit={identity:'12',title:'宋詞三百首',source:'https://zh.wikisource.org/w/index.php?oldid=123',path:[],blocks};
+ const units=splitHeadingUnits(unit);assert.equal(units.length,2);
+ assert.deepEqual(units.map(u=>u.blocks.map(b=>b.text)),[['一曲新詞酒一杯。'],['一向年光有限身。']]);
+ assert.notEqual(units[0].identity,units[1].identity);
+ const plan:Plan={work:'example',provider:'zhwikisource',rootTitle:unit.title,pages:[],metadata:{collector:'朱孝臧'},warnings:[],anthology:true};
+ const book=convertUnits({id:'example',title:unit.title},plan,units);
+ assert.equal(book.metadata?.kind,'anthology');assert.equal(book.metadata?.author,'朱孝臧');assert.ok(book.chapters.every(c=>c.kind==='anthology-item'));
+ const withPreface=convertUnits({id:'example',title:unit.title},plan,[{...units[0],identity:'preface',title:'原序',kind:'chapter'},...units]);
+ assert.equal(withPreface.chapters[0].kind,'chapter');assert.equal(withPreface.chapters.filter(c=>c.kind==='anthology-item').length,2);
+ assert.throws(()=>splitHeadingUnits({...unit,blocks:[{text:'Unheaded text',headingPath:[]}]}),/Missing essay heading/);
+});
+
+
+test('standalone poem extraction excludes duplicate display copies and selects explicit source editions',()=>{
+ const html='<p>Display copy</p><h3>Other edition</h3><div class="poem"><p>Other wording</p></div><h3>唐詩三百首</h3><div class="poem"><p>牀前明月光。</p></div><div class="references">Modern note</div>';
+ assert.throws(()=>normalizePoetryHtml(html),/Multiple poems/);
+ assert.deepEqual(normalizePoetryHtml(html,{poem:2}).map(b=>b.text),['牀前明月光。']);
+ assert.deepEqual(normalizePoetryHtml(html,{heading:'唐詩三百首'}).map(b=>b.text),['牀前明月光。']);
+ assert.deepEqual(normalizePoetryHtml('<p>Duplicate display</p><div class="poem"><p>原詩。</p></div>').map(b=>b.text),['原詩。']);
+ assert.throws(()=>normalizePoetryHtml(html,{heading:'Missing'}),/heading missing/);
+ assert.deepEqual(normalizePoetryHtml('<p>Duplicate copy</p><p>原詩<span class="variant-text">銀<span class="variant-tooltip">一作「秋」</span></span>河。</p>',{paragraph:2}).map(b=>b.text),['原詩銀河。']);
+});
+
+
+test('fixed-revision article pages expose only the rendered work body',()=>{
+ const html='<html><body><nav>Site navigation</nav><div class="mw-parser-output">Quality badge</div><div id="mw-content-text"><div class="mw-parser-output"><div class="poem"><p>原詩。</p></div></div></div><footer>Site license</footer></body></html>';
+ assert.deepEqual(normalizeHtml(articleBodyHtml(html)).map(b=>b.text),['原詩。']);
+ assert.throws(()=>articleBodyHtml('<div>Missing body</div>'),/article body missing/);
 });

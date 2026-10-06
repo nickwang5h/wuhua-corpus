@@ -1,0 +1,53 @@
+{
+  "work": "jikangji",
+  "provider": "daizhige",
+  "rootTitle": "嵇康集",
+  "pages": [
+    {
+      "title": "集藏/四库别集/嵇中散集.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-10-06T15:06:39.729Z",
+      "sha256": "718a125c3aa8eea664a083c3eb8be41246bc9d33ec58e492ec8b69451af5fe15"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "source-missing-glyph: 嵇中散集巻一",
+    "source-missing-glyph: 嵇中散集巻二",
+    "source-missing-glyph: 嵇中散集巻三",
+    "source-missing-glyph: 嵇中散集巻四",
+    "source-missing-glyph: 嵇中散集巻五",
+    "source-missing-glyph: 嵇中散集巻六",
+    "source-missing-glyph: 嵇中散集巻七",
+    "source-missing-glyph: 嵇中散集巻八",
+    "source-missing-glyph: 嵇中散集巻九",
+    "source-missing-glyph: 嵇中散集巻十"
+  ],
+  "omitLines": [
+    "钦定四库全书 集部二",
+    "嵇中散集 别集类一【魏】",
+    "钦定四库全书",
+    "魏 嵇康 撰"
+  ],
+  "headingLines": [
+    "提要"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "9e0f24e9301616bbf6e3d6d1d1b6bf8bbf0cdafcb4aa17aa406683fbb7f001a1",
+  "stats": {
+    "chapters": 11,
+    "paragraphs": 129,
+    "characters": 35249,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "work": "zhouyizhu",
+  "provider": "daizhige",
+  "rootTitle": "周易注",
+  "pages": [
+    {
+      "title": "易藏/易经/周易注.txt",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E6%98%93%E8%97%8F/%E6%98%93%E7%BB%8F/%E5%91%A8%E6%98%93%E6%B3%A8.txt",
+      "revision": "4a6d6f2088825f132521d848c2ea86cf9c9a7620",
+      "timestamp": "2020-01-20T20:31:34Z",
+      "fetchedAt": "2026-10-06T15:06:39.729Z",
+      "sha256": "5915e4679b55e906f1804094e5a88838c795c56aeb1ac0847e905d4c75c99664"
+    }
+  ],
+  "metadata": {},
+  "warnings": [
+    "Fallback archive: upstream glyphs and historical commentary preserved; bibliographic metadata may be incomplete.",
+    "source-missing-glyph: 提要",
+    "source-missing-glyph: 周易注卷一",
+    "source-missing-glyph: 周易注卷二",
+    "source-missing-glyph: 周易注卷三",
+    "source-missing-glyph: 周易注卷四 魏 王弼 撰周易下经咸传第四",
+    "source-missing-glyph: 周易注卷五",
+    "source-missing-glyph: 周易注卷六",
+    "source-missing-glyph: 周易注卷七",
+    "source-missing-glyph: 周易注卷八",
+    "source-missing-glyph: 周易注卷九",
+    "source-missing-glyph: 周易注卷十"
+  ],
+  "omitLines": [
+    "钦定四库全书 经部一",
+    "周易注 易类",
+    "钦定四库全书",
+    "魏 王弼 撰",
+    "晋 韩康伯 注",
+    "唐 邢璹 注"
+  ],
+  "headingLines": [
+    "提要"
+  ],
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Unverified; upstream repository terms recorded for later review",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E6%98%93%E8%97%8F/%E6%98%93%E7%BB%8F/%E5%91%A8%E6%98%93%E6%B3%A8.txt",
+    "attribution": "daizhige"
+  },
+  "normalizedSha256": "bf8afe01db9273385dd3e92f0338735f5c079dea33e973b519498b7f9f62e576",
+  "stats": {
+    "chapters": 11,
+    "paragraphs": 147,
+    "characters": 74383,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}
