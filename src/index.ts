@@ -6,7 +6,7 @@ export {works};
 import conceptData from './concepts.json' with {type:'json'};
 export const concepts:Record<string,{id:string}>=conceptData;
 export { manifest };
-export const contentRelease = '2026-10-01-corrections1';
+export const contentRelease = '2026-10-06-cleanup1';
 const cache = new Map<string,Promise<TextBook>>();
 export function loadBook(id:string):Promise<TextBook> {
  if(!/^[a-z0-9-]+$/.test(id)||!manifest.some(b=>b.id===id))return Promise.reject(new Error('Book not found'));
