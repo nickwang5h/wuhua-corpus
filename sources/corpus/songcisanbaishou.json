@@ -1,0 +1,39 @@
+{
+  "work": "songcisanbaishou",
+  "provider": "zhwikisource",
+  "rootTitle": "宋詞三百首",
+  "pages": [
+    {
+      "title": "宋詞三百首",
+      "pageId": 113098,
+      "revisionId": 2649131,
+      "revision": "2649131",
+      "timestamp": "2026-02-14T14:12:22Z",
+      "fetchedAt": "2026-10-06T15:07:10.127Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2649131",
+      "sha256": "ffed085699e369ec7e75988774f834e30b3c71d264b04a725ec064a42e16c6be"
+    }
+  ],
+  "metadata": {
+    "collector": "朱孝臧",
+    "times": "1924年"
+  },
+  "warnings": [],
+  "splitHeadings": true,
+  "anthology": true,
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "c5055a6e991fef21fa4ea9f0affc7838e1a9ddca8e781f37ce85b9e36c74fdc0",
+  "stats": {
+    "chapters": 283,
+    "paragraphs": 2025,
+    "characters": 30237,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

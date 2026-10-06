@@ -156,5 +156,99 @@
     "provider": "daizhige",
     "archivePath": "道藏/藏外/王弼老子注.txt",
     "reason": "Wikisource 老子道德經註 is 憨山德清's commentary (kept as hanshanlaozijie); 王弼's commentary comes from the archive."
+  },
+  "zhouyizhu": {
+    "provider": "daizhige",
+    "archivePath": "易藏/易经/周易注.txt",
+    "expectedUnits": 11,
+    "headingLines": [
+      "提要"
+    ],
+    "omitLines": [
+      "钦定四库全书 经部一",
+      "周易注 易类",
+      "钦定四库全书",
+      "魏 王弼 撰",
+      "晋 韩康伯 注",
+      "唐 邢璹 注"
+    ],
+    "reason": "The complete Wiki Siku edition embeds missing text glyphs as inline images. Use the ten-volume Siku archive plus its historical summary, preserving the classics together with Wang Bi and Han Kangbo commentary and the appended Lueli."
+  },
+  "jikangji": {
+    "provider": "daizhige",
+    "archivePath": "集藏/四库别集/嵇中散集.txt",
+    "aliases": [
+      "嵇中散集"
+    ],
+    "expectedUnits": 11,
+    "headingLines": [
+      "提要"
+    ],
+    "omitLines": [
+      "钦定四库全书 集部二",
+      "嵇中散集 别集类一【魏】",
+      "钦定四库全书",
+      "魏 嵇康 撰"
+    ],
+    "reason": "The Wiki root 嵇康集 contains Lu Xun editorial essays; the complete Wiki Siku edition embeds missing glyphs as inline images. Use the ten-volume Siku archive plus its historical summary to preserve those glyphs."
+  },
+  "ruanjiji": {
+    "provider": "daizhige",
+    "archivePath": "集藏/四库别集/阮籍集.txt",
+    "reason": "Wikisource has no whole-work page under 阮籍集 or 阮步兵集; use the collected archive with the 82 Yonghuai poems.",
+    "omitLines": [
+      "阮籍集"
+    ],
+    "expectedUnits": 4
+  },
+  "qianfulun": {
+    "excludePages": [
+      "潛夫論/附錄一",
+      "潛夫論/附錄二",
+      "潛夫論/附錄三",
+      "潛夫論/附錄四"
+    ],
+    "splitHeadings": true,
+    "expectedUnits": 36,
+    "reason": "Split the ten Wiki volumes at their original essay headings and omit later appendices."
+  },
+  "zhonglun": {
+    "rootTitle": "中論 (儒家)",
+    "excludePages": [
+      "中論 (儒家)/序",
+      "中論 (儒家)/曾鞏序",
+      "中論 (儒家)/刻徐幹中論序",
+      "中論 (儒家)/後記",
+      "中論 (儒家)/中論後"
+    ],
+    "splitHeadings": true,
+    "expectedUnits": 20,
+    "reason": "Select Xu Gan rather than the Buddhist namesake; retain the twenty extant essays under their source headings."
+  },
+  "tangshisanbaishou": {
+    "anthology": true,
+    "reason": "The Wiki anthology links to standalone poems; discover those ordered entries and retain each source title and author. Select the explicitly labeled anthology version of Jingyesi and the selected second poem on Jinlingtu. Fetch fixed-revision article HTML after repeated API throttling. Retain the original preface separately from the 320 poem entries. Shiguge renders two copies; select its second, annotated source text and exclude display-only variant tooltips.",
+    "expectedUnits": 321,
+    "bodySelections": {
+      "靜夜思": {
+        "heading": "唐詩三百首"
+      },
+      "金陵圖": {
+        "poem": 2
+      },
+      "石鼓歌 (韓愈)": {
+        "paragraph": 2
+      }
+    },
+    "articleHtml": true,
+    "prefaceHeadings": [
+      "蘅塘退士原序"
+    ]
+  },
+  "songcisanbaishou": {
+    "anthology": true,
+    "splitHeadings": true,
+    "reason": "The Wiki anthology stores all lyrics on one page; split at its tune-and-author headings.",
+    "expectedUnits": 283
   }
 }

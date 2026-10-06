@@ -1,0 +1,5217 @@
+{
+  "work": "tangshisanbaishou",
+  "provider": "zhwikisource",
+  "rootTitle": "唐詩三百首",
+  "pages": [
+    {
+      "title": "唐詩三百首",
+      "pageId": 18811,
+      "revisionId": 7911040,
+      "revision": "7911040",
+      "timestamp": "2026-07-30T13:29:36Z",
+      "fetchedAt": "2026-10-06T15:06:56.218Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7911040",
+      "sha256": "39e9c08b5f2296841d60a11f182d1a26a3015f8136fe5c4e63b028f4fb3983c8"
+    },
+    {
+      "title": "賊退示官吏",
+      "pageId": 21018,
+      "revisionId": 2619200,
+      "revision": "2619200",
+      "timestamp": "2025-11-16T17:20:47Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2619200",
+      "parent": "唐詩三百首",
+      "unitTitle": "賊退示官吏（元結）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "47984c4e990063e1a4b25850432bf5a895c726a64919a237118a3e6085bcc48f"
+    },
+    {
+      "title": "同從弟南齋翫月憶山陰崔少府",
+      "pageId": 25524,
+      "revisionId": 829809,
+      "revision": "829809",
+      "timestamp": "2017-02-18T08:43:37Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=829809",
+      "parent": "唐詩三百首",
+      "unitTitle": "同從弟南齋翫月憶山陰崔少府（王昌齡）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "363d576fa4bf14fa9253fcebf0ae862d4f6bfb6ac6c0c2054d83b96301d3a28a"
+    },
+    {
+      "title": "送綦毋潛落第還鄉",
+      "pageId": 21010,
+      "revisionId": 1995365,
+      "revision": "1995365",
+      "timestamp": "2020-11-05T12:36:31Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1995365",
+      "parent": "唐詩三百首",
+      "unitTitle": "送綦毋潛落第還鄉（王維）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4a5a709fb7cd3fe385f5e8f8782bfe62e6ca7c993531fb9d4b4f2a7049e1764c"
+    },
+    {
+      "title": "送別 (下馬飲君酒)",
+      "pageId": 18856,
+      "revisionId": 1981844,
+      "revision": "1981844",
+      "timestamp": "2020-11-02T07:57:18Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981844",
+      "parent": "唐詩三百首",
+      "unitTitle": "送別（王維）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "73146da7f7cfb9e0904790a67017c9e8497396c95ff518035b582f4ebc06fc69"
+    },
+    {
+      "title": "青谿",
+      "pageId": 21011,
+      "revisionId": 1982640,
+      "revision": "1982640",
+      "timestamp": "2020-11-02T08:41:52Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982640",
+      "parent": "唐詩三百首",
+      "unitTitle": "青谿（王維）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "db3499a04dc807d1996a11061cf79ef5a390b1f37d28effd451d9c54e6949453"
+    },
+    {
+      "title": "渭川田家",
+      "pageId": 21012,
+      "revisionId": 1981882,
+      "revision": "1981882",
+      "timestamp": "2020-11-02T07:59:26Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981882",
+      "parent": "唐詩三百首",
+      "unitTitle": "渭川田家（王維）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "59353a0800af7d57ceba2ea098944efa34cdb8c32f5a105b2f37cb2ee6c44a1a"
+    },
+    {
+      "title": "西施詠",
+      "pageId": 21013,
+      "revisionId": 2081421,
+      "revision": "2081421",
+      "timestamp": "2021-10-09T03:24:51Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2081421",
+      "parent": "唐詩三百首",
+      "unitTitle": "西施詠（王維）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f691269cb79f1bc57959a2658adf615c1525cb8221175d4abb3c3f5d0ec2b7db"
+    },
+    {
+      "title": "與高適薛據登慈恩寺浮圖",
+      "pageId": 21017,
+      "revisionId": 1991937,
+      "revision": "1991937",
+      "timestamp": "2020-11-03T06:07:00Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1991937",
+      "parent": "唐詩三百首",
+      "unitTitle": "與高適薛據登慈恩寺浮圖（岑參）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0d8680055127827321f6023924f3cbe5070858a299502a5e1f98951c20fb12d5"
+    },
+    {
+      "title": "下終南山過斛斯山人宿置酒",
+      "pageId": 21027,
+      "revisionId": 1546377,
+      "revision": "1546377",
+      "timestamp": "2019-03-03T09:24:15Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1546377",
+      "parent": "唐詩三百首",
+      "unitTitle": "下終南山過斛斯山人宿置酒（李白）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "1249f5cb073229474ab7967cd10e69a768d711517288cb78c72fc120b8bee5e2"
+    },
+    {
+      "title": "月下獨酌 (花間一壺酒)",
+      "pageId": 29538,
+      "revisionId": 2513656,
+      "revision": "2513656",
+      "timestamp": "2025-01-01T12:38:54Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2513656",
+      "parent": "唐詩三百首",
+      "unitTitle": "月下獨酌（李白）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b41bb223a6e076299f6af2a7ec36bc79107dae262863ff82486c66235cd0f753"
+    },
+    {
+      "title": "春思 (李白)",
+      "pageId": 7048,
+      "revisionId": 1546380,
+      "revision": "1546380",
+      "timestamp": "2019-03-03T09:33:44Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1546380",
+      "parent": "唐詩三百首",
+      "unitTitle": "春思（李白）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d1b956ebe63455a2821f245bbfb639d9867a56baff1f936b4e0439cda7cf3681"
+    },
+    {
+      "title": "望嶽 (岱宗夫如何)",
+      "pageId": 7259,
+      "revisionId": 2369154,
+      "revision": "2369154",
+      "timestamp": "2024-02-23T06:45:02Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2369154",
+      "parent": "唐詩三百首",
+      "unitTitle": "望嶽（杜甫）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3fe39475b86703bb3c1877d880462ecde16959195382371f83a5ccab25988e5d"
+    },
+    {
+      "title": "贈衛八處士",
+      "pageId": 20997,
+      "revisionId": 2441844,
+      "revision": "2441844",
+      "timestamp": "2024-07-30T03:22:49Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2441844",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈衛八處士（杜甫）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6a3cfdfb447846f3e0f230c5050f1648b667dda4e0820bee58b8721e42537e52"
+    },
+    {
+      "title": "佳人 (杜甫)",
+      "pageId": 21009,
+      "revisionId": 1546605,
+      "revision": "1546605",
+      "timestamp": "2019-03-03T15:21:03Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1546605",
+      "parent": "唐詩三百首",
+      "unitTitle": "佳人（杜甫）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b0eacbd6dff5f2f0d94e77b26ef82b4adecf97494ce6b78cb77b96e3a020ef1c"
+    },
+    {
+      "title": "夢李白 (死別已吞聲)",
+      "pageId": 58909,
+      "revisionId": 1652501,
+      "revision": "1652501",
+      "timestamp": "2019-08-03T06:59:20Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1652501",
+      "parent": "唐詩三百首",
+      "unitTitle": "夢李白 之一（杜甫）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0de1d7192a3d4f05d8ab759084bbd2bc86e0add5822747a3688eacfa72f51ece"
+    },
+    {
+      "title": "夢李白 (浮雲終日行)",
+      "pageId": 58910,
+      "revisionId": 1652508,
+      "revision": "1652508",
+      "timestamp": "2019-08-03T07:00:20Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1652508",
+      "parent": "唐詩三百首",
+      "unitTitle": "夢李白 之二（杜甫）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e9f78d23b13e51441c896459092bd7ad77e21b6a83edf4c821c619042661a1c5"
+    },
+    {
+      "title": "秋登蘭山寄張五",
+      "pageId": 23893,
+      "revisionId": 1982372,
+      "revision": "1982372",
+      "timestamp": "2020-11-02T08:26:57Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982372",
+      "parent": "唐詩三百首",
+      "unitTitle": "秋登蘭山寄張五（孟浩然）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "77ab1634ccfca94930dbaff013cafc4d6b57aad5459d002419362b8a9e9364e7"
+    },
+    {
+      "title": "夏日南亭懷辛大",
+      "pageId": 25554,
+      "revisionId": 1810301,
+      "revision": "1810301",
+      "timestamp": "2020-05-16T11:49:31Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1810301",
+      "parent": "唐詩三百首",
+      "unitTitle": "夏日南亭懷辛大（孟浩然）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d81ed3aaaf134d06b56ad325188faf1fa31072e84b01472ad613637aea0dc57a"
+    },
+    {
+      "title": "宿業師山房待丁大不至",
+      "pageId": 21016,
+      "revisionId": 1981946,
+      "revision": "1981946",
+      "timestamp": "2020-11-02T08:03:08Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981946",
+      "parent": "唐詩三百首",
+      "unitTitle": "宿業師山房待丁大不至（孟浩然）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "1efb0193dac584a44bd5fd3d3d0c3a0469472fb6a4b8bc399b00d3e663f0adac"
+    },
+    {
+      "title": "尋西山隱者不遇",
+      "pageId": 25555,
+      "revisionId": 1982048,
+      "revision": "1982048",
+      "timestamp": "2020-11-02T08:09:02Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982048",
+      "parent": "唐詩三百首",
+      "unitTitle": "尋西山隱者不遇（丘為）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "706ac043252c841eb38e839b74709bde6453917edb58290df33c83c8d02757bc"
+    },
+    {
+      "title": "晨詣超師院讀禪經",
+      "pageId": 21020,
+      "revisionId": 481141,
+      "revision": "481141",
+      "timestamp": "2016-07-18T10:58:34Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=481141",
+      "parent": "唐詩三百首",
+      "unitTitle": "晨詣超師院讀禪經（柳宗元）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "650e0e3f62f5eddf792ef641132da4e3ff84614473ad021eb0b0c5a7ca4b7b12"
+    },
+    {
+      "title": "溪居",
+      "pageId": 21021,
+      "revisionId": 481242,
+      "revision": "481242",
+      "timestamp": "2016-07-18T11:15:25Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=481242",
+      "parent": "唐詩三百首",
+      "unitTitle": "溪居（柳宗元）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4f8130505915948b6d6c331a6c43b9916a3849740bd95e80f8f06c9599dd58fe"
+    },
+    {
+      "title": "郡齋雨中與諸文士燕集",
+      "pageId": 23903,
+      "revisionId": 1982212,
+      "revision": "1982212",
+      "timestamp": "2020-11-02T08:18:11Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982212",
+      "parent": "唐詩三百首",
+      "unitTitle": "郡齋雨中與諸文士燕集（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2339a12d527effd96827745be2546614d00b3463499feb22bed1d0c40527884c"
+    },
+    {
+      "title": "初發揚子寄元大校書",
+      "pageId": 21019,
+      "revisionId": 1982204,
+      "revision": "1982204",
+      "timestamp": "2020-11-02T08:17:45Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982204",
+      "parent": "唐詩三百首",
+      "unitTitle": "初發揚子寄元大校書（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "7c6d97274a24be82939ff940f326e3d3c2eab876e6b351782eb7f9f1b8a770f3"
+    },
+    {
+      "title": "寄全椒山中道士",
+      "pageId": 25411,
+      "revisionId": 1983003,
+      "revision": "1983003",
+      "timestamp": "2020-11-02T09:02:25Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983003",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄全椒山中道士（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "448341582dff0636e7a9723292546c1b070ded01bb98ec9d0216d4128f1352a1"
+    },
+    {
+      "title": "長安遇馮著",
+      "pageId": 23898,
+      "revisionId": 1982336,
+      "revision": "1982336",
+      "timestamp": "2020-11-02T08:24:54Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982336",
+      "parent": "唐詩三百首",
+      "unitTitle": "長安遇馮著（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b1c01791af597955283a51b46a82a9d53c42ccd156fd15590e5ba0c3c5996e3f"
+    },
+    {
+      "title": "夕次盱眙縣",
+      "pageId": 23899,
+      "revisionId": 1982211,
+      "revision": "1982211",
+      "timestamp": "2020-11-02T08:18:08Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982211",
+      "parent": "唐詩三百首",
+      "unitTitle": "夕次盱眙縣（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4eeb5e632550137ee6fdfecce4210b2a7db2711bbbd0c71867ce306bfd3ba9c7"
+    },
+    {
+      "title": "東郊",
+      "pageId": 23896,
+      "revisionId": 1982341,
+      "revision": "1982341",
+      "timestamp": "2020-11-02T08:25:14Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982341",
+      "parent": "唐詩三百首",
+      "unitTitle": "東郊（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "cd9a564f3375b06337ace67d02d3d13c11ca7265b146693e88a0453a19189e08"
+    },
+    {
+      "title": "送楊氏女",
+      "pageId": 23897,
+      "revisionId": 1982207,
+      "revision": "1982207",
+      "timestamp": "2020-11-02T08:17:56Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982207",
+      "parent": "唐詩三百首",
+      "unitTitle": "送楊氏女（韋應物）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "18c9f75156cc8f41a5a0149d887ff266fc6738d2c2a26d4b96d02fb820a4b29e"
+    },
+    {
+      "title": "宿王昌齡隱居",
+      "pageId": 25458,
+      "revisionId": 1982854,
+      "revision": "1982854",
+      "timestamp": "2020-11-02T08:53:46Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982854",
+      "parent": "唐詩三百首",
+      "unitTitle": "宿王昌齡隱居（常建）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "375169ad7d24b78176507ae255a326b778202ac8906bb5c9be3dddcb10a0b22a"
+    },
+    {
+      "title": "感遇 (孤鴻海上來)",
+      "pageId": 37588,
+      "revisionId": 1983582,
+      "revision": "1983582",
+      "timestamp": "2020-11-02T09:35:49Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983582",
+      "parent": "唐詩三百首",
+      "unitTitle": "感遇 之一（張九齡）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "def89c4848f03a98587904e82fce5e9dbfa79a413f2d439f9e22ea11237c9a7d"
+    },
+    {
+      "title": "感遇 (蘭葉春葳蕤)",
+      "pageId": 37585,
+      "revisionId": 172698,
+      "revision": "172698",
+      "timestamp": "2009-01-13T09:47:39Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=172698",
+      "parent": "唐詩三百首",
+      "unitTitle": "感遇 之二（張九齡）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "eab10d7708a302abf91ea4bf1a88d43a22598be05222403585ae52e55166af88"
+    },
+    {
+      "title": "感遇 (幽林歸獨臥)",
+      "pageId": 37586,
+      "revisionId": 1984433,
+      "revision": "1984433",
+      "timestamp": "2020-11-02T10:24:30Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984433",
+      "parent": "唐詩三百首",
+      "unitTitle": "感遇 之三（張九齡）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b5b9dcd5b80e7eb501fd887fcad5e393814428bc71d488fb15254267433070b8"
+    },
+    {
+      "title": "感遇 (江南有丹橘)",
+      "pageId": 37591,
+      "revisionId": 1983583,
+      "revision": "1983583",
+      "timestamp": "2020-11-02T09:35:55Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983583",
+      "parent": "唐詩三百首",
+      "unitTitle": "感遇 之四（張九齡）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a6aa822ec7fe8ac4d0eb745c8130b3def8d05b7013740ab19c85d5efedc643a4"
+    },
+    {
+      "title": "春泛若耶溪",
+      "pageId": 7696,
+      "revisionId": 1981880,
+      "revision": "1981880",
+      "timestamp": "2020-11-02T07:59:20Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981880",
+      "parent": "唐詩三百首",
+      "unitTitle": "春泛若耶溪（綦毋潛）",
+      "unitPath": [
+        "五言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8e9aec2143933b1a8a430a994fc0262e0237f0e01ed77cdd44a378597fa0204d"
+    },
+    {
+      "title": "石魚湖上醉歌",
+      "pageId": 21041,
+      "revisionId": 1981961,
+      "revision": "1981961",
+      "timestamp": "2020-11-02T08:03:53Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981961",
+      "parent": "唐詩三百首",
+      "unitTitle": "石魚湖上醉歌並序（元結）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ad0384715fde3af8e90bcdffe68eeb7d53194dca7c0ed274f8f87eaf6cbba168"
+    },
+    {
+      "title": "長恨歌",
+      "pageId": 23,
+      "revisionId": 5438689,
+      "revision": "5438689",
+      "timestamp": "2026-05-22T10:29:06Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=5438689",
+      "parent": "唐詩三百首",
+      "unitTitle": "長恨歌（白居易）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b82a672e7b3128ed0b3fb1cd2eefe92dcd8d08fb4828b8211dd53231f4afd32e"
+    },
+    {
+      "title": "琵琶行",
+      "pageId": 8002,
+      "revisionId": 9685214,
+      "revision": "9685214",
+      "timestamp": "2026-09-14T12:13:00Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=9685214",
+      "parent": "唐詩三百首",
+      "unitTitle": "琵琶行並序（白居易）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "7135a355459fae3a68ec0f2006ffeba724804ae263886181b21df34ea4566234"
+    },
+    {
+      "title": "走馬川行奉送出師西征",
+      "pageId": 45992,
+      "revisionId": 1993232,
+      "revision": "1993232",
+      "timestamp": "2020-11-03T07:24:28Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1993232",
+      "parent": "唐詩三百首",
+      "unitTitle": "走馬川行奉送封大夫出師西征（岑參）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "60c87dfcf4f3983a38a5adb35799ba891007f9aa02147adc945f0009a7b33a60"
+    },
+    {
+      "title": "輪臺歌奉送封大夫出師西征",
+      "pageId": 23886,
+      "revisionId": 1981872,
+      "revision": "1981872",
+      "timestamp": "2020-11-02T07:58:48Z",
+      "fetchedAt": "2026-10-06T15:08:53.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981872",
+      "parent": "唐詩三百首",
+      "unitTitle": "輪臺歌奉送封大夫出師西征（岑參）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b06e508f01a49444854e3999eb1979b177efd1dbe1ba6d17e45c5930d010d95d"
+    },
+    {
+      "title": "白雪歌送武判官歸京",
+      "pageId": 21672,
+      "revisionId": 2026203,
+      "revision": "2026203",
+      "timestamp": "2021-04-15T19:18:36Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2026203",
+      "parent": "唐詩三百首",
+      "unitTitle": "白雪歌送武判官歸京（岑參）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "663107d43b0a8dd6802261009e732cdae257c1bb79d6d4f4ab5b57c2c1a91f4a"
+    },
+    {
+      "title": "廬山謠寄盧侍御虛舟",
+      "pageId": 21034,
+      "revisionId": 1488205,
+      "revision": "1488205",
+      "timestamp": "2018-06-26T07:03:48Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1488205",
+      "parent": "唐詩三百首",
+      "unitTitle": "廬山謠寄盧侍禦虛舟（李白）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9bb1ac5924c48aa36e0b1e4c286df53a368b52b4b5ca4eddce45391f12ccf95d"
+    },
+    {
+      "title": "夢遊天姥吟留別",
+      "pageId": 7094,
+      "revisionId": 2554875,
+      "revision": "2554875",
+      "timestamp": "2025-04-27T07:36:15Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2554875",
+      "parent": "唐詩三百首",
+      "unitTitle": "夢遊天姥吟留別（李白）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c147f9d56171db371c98604631ef029b7daaf442278033dad846f61f4cb19ec4"
+    },
+    {
+      "title": "金陵酒肆留別",
+      "pageId": 7095,
+      "revisionId": 1407811,
+      "revision": "1407811",
+      "timestamp": "2018-04-11T03:15:45Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1407811",
+      "parent": "唐詩三百首",
+      "unitTitle": "金陵酒肆留別（李白）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "247e16d6681d9cbc8d4d41236c0f77902b28d046598baf8979af907f184c63d4"
+    },
+    {
+      "title": "宣州謝朓樓餞別校書叔雲",
+      "pageId": 21036,
+      "revisionId": 2643898,
+      "revision": "2643898",
+      "timestamp": "2026-01-22T12:34:48Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2643898",
+      "parent": "唐詩三百首",
+      "unitTitle": "宣州謝朓樓餞別校書叔雲（李白）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "5c7a27973be06a8adb11fab7c2f652f02ae5087791d4272a463d6a05837bec73"
+    },
+    {
+      "title": "韓碑",
+      "pageId": 23843,
+      "revisionId": 1982208,
+      "revision": "1982208",
+      "timestamp": "2020-11-02T08:17:59Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982208",
+      "parent": "唐詩三百首",
+      "unitTitle": "韓碑（李商隱）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0c4415f75d1d595496402b581a1b848787c4ef9b663e22c376d4b379cd7731cf"
+    },
+    {
+      "title": "古意 (李頎)",
+      "pageId": 21029,
+      "revisionId": 1981833,
+      "revision": "1981833",
+      "timestamp": "2020-11-02T07:56:40Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981833",
+      "parent": "唐詩三百首",
+      "unitTitle": "古意（李頎）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9b31617d1b6ac08d28f837eb6e35fd2d0a4741733d217bc9b490785768d7225d"
+    },
+    {
+      "title": "送陳章甫",
+      "pageId": 21030,
+      "revisionId": 1982285,
+      "revision": "1982285",
+      "timestamp": "2020-11-02T08:22:11Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982285",
+      "parent": "唐詩三百首",
+      "unitTitle": "送陳章甫（李頎）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d6c99dbc3a09debf584e855d1e8b7900dfc9670479944d7b2d53fb2383973a24"
+    },
+    {
+      "title": "琴歌 (李頎)",
+      "pageId": 21032,
+      "revisionId": 1981900,
+      "revision": "1981900",
+      "timestamp": "2020-11-02T08:00:29Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981900",
+      "parent": "唐詩三百首",
+      "unitTitle": "琴歌（李頎）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6bcff86b3087b146779ad38412aa59859e32b3a5178d3153f1b6e9df02594b62"
+    },
+    {
+      "title": "聽董大彈胡笳聲兼寄語弄房給事",
+      "pageId": 21033,
+      "revisionId": 1981899,
+      "revision": "1981899",
+      "timestamp": "2020-11-02T08:00:26Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981899",
+      "parent": "唐詩三百首",
+      "unitTitle": "聽董大彈胡笳兼寄語弄房給事（李頎）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "28b9335ee12ac02c0be9422256dc263de94958d3f4bcd3188350c485fe8361e8"
+    },
+    {
+      "title": "聽安萬善吹觱篥歌",
+      "pageId": 21037,
+      "revisionId": 1982286,
+      "revision": "1982286",
+      "timestamp": "2020-11-02T08:22:15Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982286",
+      "parent": "唐詩三百首",
+      "unitTitle": "聽安萬善吹觱篥歌（李頎）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "10d8335568b41865f223841f6f83afa88551e9214afa5b29f2ba3f2b04394c82"
+    },
+    {
+      "title": "韋諷錄事宅觀曹將軍畫馬圖",
+      "pageId": 21038,
+      "revisionId": 1546376,
+      "revision": "1546376",
+      "timestamp": "2019-03-03T09:19:21Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1546376",
+      "parent": "唐詩三百首",
+      "unitTitle": "韋諷錄事宅觀曹將軍畫馬圖（杜甫）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ecd8193da266a4a1fc53c9a548687076b10bf73d8f85cd04ae11b613c3504cc4"
+    },
+    {
+      "title": "丹青引贈曹霸將軍",
+      "pageId": 25570,
+      "revisionId": 1750019,
+      "revision": "1750019",
+      "timestamp": "2019-11-05T21:17:27Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1750019",
+      "parent": "唐詩三百首",
+      "unitTitle": "丹青引贈曹霸將軍（杜甫）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a6a7d0d00f6b8e7b73ac0ca875292b0ff844791187f57b118ac170ae80fb3086"
+    },
+    {
+      "title": "寄韓諫議注",
+      "pageId": 21040,
+      "revisionId": 483573,
+      "revision": "483573",
+      "timestamp": "2016-07-19T14:10:53Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483573",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄韓諫議注（杜甫）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "adf7eb1ada531ea0aa9dbf9a836e823ea81b3fbb8d0066b5982cbeed3353c987"
+    },
+    {
+      "title": "古柏行",
+      "pageId": 25556,
+      "revisionId": 483476,
+      "revision": "483476",
+      "timestamp": "2016-07-19T13:55:13Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483476",
+      "parent": "唐詩三百首",
+      "unitTitle": "古柏行（杜甫）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0bce5665027b74b68c1c649b5928607001231f7d20a50a4abd2958ef111b5665"
+    },
+    {
+      "title": "觀公孫大娘弟子舞劍器行並序",
+      "pageId": 20993,
+      "revisionId": 7906907,
+      "revision": "7906907",
+      "timestamp": "2026-07-05T15:27:38Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7906907",
+      "parent": "唐詩三百首",
+      "unitTitle": "觀公孫大娘弟子舞劍器行並序（杜甫）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e7d9479f9d93999f098a838cac23dd3c16893703eac078480e11f6fcce18a462"
+    },
+    {
+      "title": "夜歸鹿門歌",
+      "pageId": 21035,
+      "revisionId": 1988718,
+      "revision": "1988718",
+      "timestamp": "2020-11-02T15:52:30Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1988718",
+      "parent": "唐詩三百首",
+      "unitTitle": "夜歸鹿門歌（孟浩然）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e220e3648d73e29344e810e59a9dcc316419643ee6bc7e961dd63106c9ef1bed"
+    },
+    {
+      "title": "漁翁",
+      "pageId": 20994,
+      "revisionId": 481241,
+      "revision": "481241",
+      "timestamp": "2016-07-18T11:15:15Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=481241",
+      "parent": "唐詩三百首",
+      "unitTitle": "漁翁（柳宗元）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "103e527ac584116bd68981d1f34b8555e547f8944cc80f6ddc8818b9d714b44f"
+    },
+    {
+      "title": "登幽州臺歌",
+      "pageId": 7003,
+      "revisionId": 1981897,
+      "revision": "1981897",
+      "timestamp": "2020-11-02T08:00:18Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981897",
+      "parent": "唐詩三百首",
+      "unitTitle": "登幽州臺歌（陳子昂）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8568c1baccaeb9c45acd18eded9749361b34f11322f607a17367873bdba65d4c"
+    },
+    {
+      "title": "山石",
+      "pageId": 25558,
+      "revisionId": 2007502,
+      "revision": "2007502",
+      "timestamp": "2020-12-11T02:14:30Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2007502",
+      "parent": "唐詩三百首",
+      "unitTitle": "山石（韓愈）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "420d0f1e2a1bebebc28109578b069587da97d7d39146514bb86fad3105ad2ba8"
+    },
+    {
+      "title": "八月十五夜贈張功曹",
+      "pageId": 25560,
+      "revisionId": 480072,
+      "revision": "480072",
+      "timestamp": "2016-07-18T02:34:14Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=480072",
+      "parent": "唐詩三百首",
+      "unitTitle": "八月十五夜贈張功曹（韓愈）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "5de83655e6c4f0ec7ceafb4c23c64d7384469100b72cf8b3eb26ae6f89e93aee"
+    },
+    {
+      "title": "謁衡嶽廟遂宿嶽寺題門樓",
+      "pageId": 25561,
+      "revisionId": 1549477,
+      "revision": "1549477",
+      "timestamp": "2019-03-10T11:50:00Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1549477",
+      "parent": "唐詩三百首",
+      "unitTitle": "謁衡嶽廟遂宿嶽寺題門樓（韓愈）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4d64e633bcbc8d176bc7119a027e60ae0d2b166699145a6574d7d28d756a127b"
+    },
+    {
+      "title": "石鼓歌 (韓愈)",
+      "pageId": 25559,
+      "revisionId": 2596649,
+      "revision": "2596649",
+      "timestamp": "2025-09-07T08:46:09Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2596649",
+      "parent": "唐詩三百首",
+      "unitTitle": "石鼓歌（韓愈）",
+      "unitPath": [
+        "七言古詩"
+      ],
+      "fetchMethod": "article-html",
+      "bodySelection": {
+        "paragraph": 2
+      },
+      "sha256": "9201f2cfcc38325b0e8422fe69e2c6a048c1516c52eaa289acf5f41f935721f3"
+    },
+    {
+      "title": "出塞 (王之渙)",
+      "pageId": 23720,
+      "revisionId": 2648159,
+      "revision": "2648159",
+      "timestamp": "2026-02-10T14:53:00Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648159",
+      "parent": "唐詩三百首",
+      "unitTitle": "出塞（王之渙）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "1946dc0c5ca483876173b80455d27657952eb8ddf246b76ea915312f9f198d4e"
+    },
+    {
+      "title": "出塞 (秦時明月漢時關)",
+      "pageId": 25525,
+      "revisionId": 2648166,
+      "revision": "2648166",
+      "timestamp": "2026-02-10T15:01:02Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648166",
+      "parent": "唐詩三百首",
+      "unitTitle": "出塞（王昌齡）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "601dc7ebb3878aba962526f81ec276b4205f4bf6b6d00ae0945a38ab3720669f"
+    },
+    {
+      "title": "塞下曲 (蟬鳴空桑林)",
+      "pageId": 21022,
+      "revisionId": 1393102,
+      "revision": "1393102",
+      "timestamp": "2018-03-29T01:19:24Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1393102",
+      "parent": "唐詩三百首",
+      "unitTitle": "塞下曲 之一（王昌齡）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "78359ceff450d12afe4d0bf0e9a01de775d0e6c920828dafee9269a542411bc5"
+    },
+    {
+      "title": "塞下曲 (飲馬渡秋水)",
+      "pageId": 21023,
+      "revisionId": 1393103,
+      "revision": "1393103",
+      "timestamp": "2018-03-29T01:19:32Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1393103",
+      "parent": "唐詩三百首",
+      "unitTitle": "塞下曲 之二（王昌齡）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ee34f1e5775ca9026eb32be4d299f98c86c44c3865c4728ae166908e84cb656b"
+    },
+    {
+      "title": "長信怨 (王昌齡)",
+      "pageId": 23424,
+      "revisionId": 1409858,
+      "revision": "1409858",
+      "timestamp": "2018-04-13T18:08:38Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1409858",
+      "parent": "唐詩三百首",
+      "unitTitle": "長信怨（王昌齡）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b8a3fd7d1102f476646642c029613fbe5b1129d8029c7d6228861ffaefa212f8"
+    },
+    {
+      "title": "渭城曲",
+      "pageId": 21676,
+      "revisionId": 1981863,
+      "revision": "1981863",
+      "timestamp": "2020-11-02T07:58:19Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981863",
+      "parent": "唐詩三百首",
+      "unitTitle": "渭城曲（王維）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "cc5a2f52702d701b9e1e68bbe05eae4791c0c8a46aa56a60fd8ff8dfaf2afbd5"
+    },
+    {
+      "title": "秋夜曲 (王維)",
+      "pageId": 25528,
+      "revisionId": 1982857,
+      "revision": "1982857",
+      "timestamp": "2020-11-02T08:53:56Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982857",
+      "parent": "唐詩三百首",
+      "unitTitle": "秋夜曲（王維）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0fc367dc6dcdcfc98e26375b80516cf90fc33328539720f1a742b2be466c9e01"
+    },
+    {
+      "title": "洛陽女兒行",
+      "pageId": 25526,
+      "revisionId": 1982298,
+      "revision": "1982298",
+      "timestamp": "2020-11-02T08:22:52Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982298",
+      "parent": "唐詩三百首",
+      "unitTitle": "洛陽女兒行（王維）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a8af9de0f805dfffdc3e4298eb4b5625ebd89c999a1baf7876863a1cb6eb9671"
+    },
+    {
+      "title": "老將行 (王維)",
+      "pageId": 17976,
+      "revisionId": 1982199,
+      "revision": "1982199",
+      "timestamp": "2020-11-02T08:17:26Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982199",
+      "parent": "唐詩三百首",
+      "unitTitle": "老將行（王維）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "54679cf8a6d8eaaa2059f95ee4abb3c80273f1d46a94aa772c359af48165b73c"
+    },
+    {
+      "title": "桃源行 (王維)",
+      "pageId": 25527,
+      "revisionId": 1981934,
+      "revision": "1981934",
+      "timestamp": "2020-11-02T08:02:21Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981934",
+      "parent": "唐詩三百首",
+      "unitTitle": "桃源行（王維）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8222b629482c309b9e6dadad1755050011839bf8b9140649adfd7a76ec81e55a"
+    },
+    {
+      "title": "清平調 (雲想衣裳花想容)",
+      "pageId": 26750,
+      "revisionId": 1748072,
+      "revision": "1748072",
+      "timestamp": "2019-10-15T13:46:51Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1748072",
+      "parent": "唐詩三百首",
+      "unitTitle": "清平調 之一（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8fd9bfe5350774ca290f8cccfaca5c1d12ee5f3d62ffbdfa9846cfdd0f1408c0"
+    },
+    {
+      "title": "清平調 (一枝紅艷露凝香)",
+      "pageId": 174518,
+      "revisionId": 482843,
+      "revision": "482843",
+      "timestamp": "2016-07-19T06:22:03Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482843",
+      "parent": "唐詩三百首",
+      "unitTitle": "清平調 之二（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2acf78b273ea947168589faa4142ef905a632db5e0d70d4bf7a48b7f219bf284"
+    },
+    {
+      "title": "清平調 (名花傾國兩相歡)",
+      "pageId": 26752,
+      "revisionId": 482810,
+      "revision": "482810",
+      "timestamp": "2016-07-19T06:16:51Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482810",
+      "parent": "唐詩三百首",
+      "unitTitle": "清平調 之三（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "02ec33a8c177c2bbfbb2944c7bb80d9ac0c99a551b0253bae5ebcd44fe4217dd"
+    },
+    {
+      "title": "將進酒 (李白)",
+      "pageId": 137,
+      "revisionId": 9685998,
+      "revision": "9685998",
+      "timestamp": "2026-09-16T10:59:53Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=9685998",
+      "parent": "唐詩三百首",
+      "unitTitle": "將進酒（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "128dd7780fa8c802abbc63eb3d5ba3eb032d832c63546d7455c38761da25d9b3"
+    },
+    {
+      "title": "玉階怨 (李白)",
+      "pageId": 20996,
+      "revisionId": 482847,
+      "revision": "482847",
+      "timestamp": "2016-07-19T06:22:43Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482847",
+      "parent": "唐詩三百首",
+      "unitTitle": "玉階怨（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ae1ae2995260fb740bc52846c0e8344013ea2e6fe7bcb6cfe0c8a84935e700e4"
+    },
+    {
+      "title": "長相思 (長相思在長安)",
+      "pageId": 26677,
+      "revisionId": 1455987,
+      "revision": "1455987",
+      "timestamp": "2018-05-13T01:40:51Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1455987",
+      "parent": "唐詩三百首",
+      "unitTitle": "長相思 之一（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "73238eec83104422a3d616e8b6bbc53d3c2a622ec3dbab5cfe7b41b745997996"
+    },
+    {
+      "title": "長相思 (日色欲盡花含煙)",
+      "pageId": 26678,
+      "revisionId": 1522083,
+      "revision": "1522083",
+      "timestamp": "2018-12-22T12:25:45Z",
+      "fetchedAt": "2026-10-06T15:09:00.597Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1522083",
+      "parent": "唐詩三百首",
+      "unitTitle": "長相思 之二（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c36065476fec701f893893d81d0c92cd90d4aa700e37e88706a4a7a868fe7ea6"
+    },
+    {
+      "title": "行路難 (金樽清酒斗十千)",
+      "pageId": 26211,
+      "revisionId": 2602560,
+      "revision": "2602560",
+      "timestamp": "2025-10-02T08:47:23Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2602560",
+      "parent": "唐詩三百首",
+      "unitTitle": "行路難 之一（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9d367e576b9f0b11597f899860970feccf4a9c4218b5f495f7957119efeb984f"
+    },
+    {
+      "title": "行路難 (大道如青天)",
+      "pageId": 26670,
+      "revisionId": 1335565,
+      "revision": "1335565",
+      "timestamp": "2017-12-31T00:51:17Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1335565",
+      "parent": "唐詩三百首",
+      "unitTitle": "行路難 之二（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fcabcb415be5aca6735e397fd2fd67bd4ea7a57cef597042b0aab13d28851400"
+    },
+    {
+      "title": "行路難 (有耳莫洗潁川水)",
+      "pageId": 26671,
+      "revisionId": 483011,
+      "revision": "483011",
+      "timestamp": "2016-07-19T06:49:27Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483011",
+      "parent": "唐詩三百首",
+      "unitTitle": "行路難 之三（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ec889359c594c32252388ef171e6a7adec533c2d07ad692386df3e3e498f492c"
+    },
+    {
+      "title": "長干行 (妾髮初覆額)",
+      "pageId": 26717,
+      "revisionId": 2626030,
+      "revision": "2626030",
+      "timestamp": "2025-11-28T07:13:02Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2626030",
+      "parent": "唐詩三百首",
+      "unitTitle": "長干行（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a40463ecd15f8f62796faea86d2f31108f22bb0f8fbdfb5ae3d591de80b02205"
+    },
+    {
+      "title": "蜀道難 (李白)",
+      "pageId": 138,
+      "revisionId": 2629596,
+      "revision": "2629596",
+      "timestamp": "2025-12-08T13:49:43Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2629596",
+      "parent": "唐詩三百首",
+      "unitTitle": "蜀道難（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a90e9a4b674d095528ff5e8edcaf9c3e8416fcacd24dfc5d4aa5daefa2d2de98"
+    },
+    {
+      "title": "子夜吳歌/春歌",
+      "pageId": 46907,
+      "revisionId": 482528,
+      "revision": "482528",
+      "timestamp": "2016-07-19T05:29:55Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482528",
+      "parent": "唐詩三百首",
+      "unitTitle": "子夜吳歌 之春歌（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b5bb6784b3e692c2da36dc670321fddec974e749b6832e92704b0c7534dd6075"
+    },
+    {
+      "title": "子夜吳歌/夏歌",
+      "pageId": 46908,
+      "revisionId": 1473862,
+      "revision": "1473862",
+      "timestamp": "2018-05-30T09:13:38Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1473862",
+      "parent": "唐詩三百首",
+      "unitTitle": "子夜吳歌 之夏歌（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3c26bdf77f9409e4f0c1960c88d24414339cf78698e161130390fdf4efee5345"
+    },
+    {
+      "title": "子夜吳歌/秋歌",
+      "pageId": 46909,
+      "revisionId": 482530,
+      "revision": "482530",
+      "timestamp": "2016-07-19T05:30:15Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482530",
+      "parent": "唐詩三百首",
+      "unitTitle": "子夜吳歌 之秋歌（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "011029e09f12bbad5b77a5aefa2d24cd50f9844d0e7768eaa75e8b4b069361de"
+    },
+    {
+      "title": "子夜吳歌/冬歌",
+      "pageId": 46910,
+      "revisionId": 482531,
+      "revision": "482531",
+      "timestamp": "2016-07-19T05:30:25Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482531",
+      "parent": "唐詩三百首",
+      "unitTitle": "子夜吳歌 之冬歌（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "19fbaff60153b2112d524ecf5d3c075c7fdd501afd5d32a1d760cbc0d20e8941"
+    },
+    {
+      "title": "關山月 (李白)",
+      "pageId": 7045,
+      "revisionId": 2602574,
+      "revision": "2602574",
+      "timestamp": "2025-10-02T10:16:54Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2602574",
+      "parent": "唐詩三百首",
+      "unitTitle": "關山月（李白）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "26ee0438794c9c2a56c88cea5d24fa1d66bfe0e08a82c24408402cdbe0c1f5e9"
+    },
+    {
+      "title": "江南曲 (嫁得瞿塘賈)",
+      "pageId": 114200,
+      "revisionId": 1983006,
+      "revision": "1983006",
+      "timestamp": "2020-11-02T09:02:35Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983006",
+      "parent": "唐詩三百首",
+      "unitTitle": "江南曲（李益）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "16f9b2b4ae7674b6a09f2f6c7a8eaa55188e0d043e489d0e61c4e4d1316b3725"
+    },
+    {
+      "title": "古從軍行",
+      "pageId": 11315,
+      "revisionId": 1981876,
+      "revision": "1981876",
+      "timestamp": "2020-11-02T07:59:03Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981876",
+      "parent": "唐詩三百首",
+      "unitTitle": "古從軍行（李頎）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d250591b3309adf45bae420411304c178b9b1ec99b643f41646d6eaeda7dd26b"
+    },
+    {
+      "title": "兵車行",
+      "pageId": 10003,
+      "revisionId": 2627148,
+      "revision": "2627148",
+      "timestamp": "2025-12-01T21:06:47Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2627148",
+      "parent": "唐詩三百首",
+      "unitTitle": "兵車行（杜甫）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "92e906ee0a6dae9cb62041d211bacf276ef2a78fdf1aaf3fb5e249697fe433b0"
+    },
+    {
+      "title": "麗人行",
+      "pageId": 20840,
+      "revisionId": 2272909,
+      "revision": "2272909",
+      "timestamp": "2023-04-08T00:02:37Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2272909",
+      "parent": "唐詩三百首",
+      "unitTitle": "麗人行（杜甫）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c6558e34c8a7fa487e91c79436794b23cd9505a485459b5f5ea65d6cc83ff3a4"
+    },
+    {
+      "title": "哀江頭",
+      "pageId": 21043,
+      "revisionId": 1476195,
+      "revision": "1476195",
+      "timestamp": "2018-06-02T04:35:57Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1476195",
+      "parent": "唐詩三百首",
+      "unitTitle": "哀江頭（杜甫）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "de1c6774fe9f6131ea71d2d083e8d4200f7125a5b1d1089fc0c2bd7a09025220"
+    },
+    {
+      "title": "哀王孫",
+      "pageId": 21044,
+      "revisionId": 2284302,
+      "revision": "2284302",
+      "timestamp": "2023-05-08T17:45:22Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2284302",
+      "parent": "唐詩三百首",
+      "unitTitle": "哀王孫（杜甫）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e94c70648fcc08062e781f3dba01f2a087cb814e1ebba49de4ec6261ae05637c"
+    },
+    {
+      "title": "金縷衣",
+      "pageId": 21007,
+      "revisionId": 1982639,
+      "revision": "1982639",
+      "timestamp": "2020-11-02T08:41:47Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982639",
+      "parent": "唐詩三百首",
+      "unitTitle": "金縷衣（杜秋娘）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "eb2d191375c6f63c5f64e5baf3fdb46cabce02d734bc22b83c4cf67e15cc0886"
+    },
+    {
+      "title": "獨不見 (沈佺期)",
+      "pageId": 26054,
+      "revisionId": 1982052,
+      "revision": "1982052",
+      "timestamp": "2020-11-02T08:09:15Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982052",
+      "parent": "唐詩三百首",
+      "unitTitle": "獨不見（沈佺期）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4ade21d7195bbf95fa6b9bcd7ac4eea0abc69239a49c31b58a9c9ec724a051f5"
+    },
+    {
+      "title": "烈女操",
+      "pageId": 21026,
+      "revisionId": 1985779,
+      "revision": "1985779",
+      "timestamp": "2020-11-02T11:47:52Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1985779",
+      "parent": "唐詩三百首",
+      "unitTitle": "烈女操（孟郊）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b04d15fd5d569ff79100fa1830339444fb40d296ea1cebf8dd147ac2922c9c22"
+    },
+    {
+      "title": "遊子吟 (孟郊)",
+      "pageId": 7168,
+      "revisionId": 1982411,
+      "revision": "1982411",
+      "timestamp": "2020-11-02T08:29:05Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982411",
+      "parent": "唐詩三百首",
+      "unitTitle": "遊子吟（孟郊）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0dbca12ebe557ddfcfc30b736381354343325d25799e616690b967e1dc3b7cdb"
+    },
+    {
+      "title": "燕歌行 (高適)",
+      "pageId": 23882,
+      "revisionId": 9703575,
+      "revision": "9703575",
+      "timestamp": "2026-09-17T08:27:09Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=9703575",
+      "parent": "唐詩三百首",
+      "unitTitle": "燕歌行 并序（高適）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "21f053d2e1690945363ae20c55353c87a053f7f63920cc8b8fd4dc3e1ca7dcb6"
+    },
+    {
+      "title": "長干曲 (君家何處住)",
+      "pageId": 25606,
+      "revisionId": 1982346,
+      "revision": "1982346",
+      "timestamp": "2020-11-02T08:25:30Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982346",
+      "parent": "唐詩三百首",
+      "unitTitle": "長干行之一（崔顥）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c672f7fa32d67a73917bb30f63b12fafa7fd2f1eaf4746bcff2f9ea50faeb982"
+    },
+    {
+      "title": "長干曲 (家臨九江水)",
+      "pageId": 25607,
+      "revisionId": 1984613,
+      "revision": "1984613",
+      "timestamp": "2020-11-02T10:35:01Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984613",
+      "parent": "唐詩三百首",
+      "unitTitle": "長干行之二（崔顥）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "71ca1f5e8e52ef13b92d5ab9a2289bd533be887e79c8379c06788bc4aafd6087"
+    },
+    {
+      "title": "塞下曲之一",
+      "pageId": 25583,
+      "revisionId": 1982347,
+      "revision": "1982347",
+      "timestamp": "2020-11-02T08:25:33Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982347",
+      "parent": "唐詩三百首",
+      "unitTitle": "塞下曲之一（盧綸）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8cb4110a2c9b4657814df929ebc5d84b5f057af9de10498d628980736cb07bc4"
+    },
+    {
+      "title": "塞下曲之二",
+      "pageId": 25584,
+      "revisionId": 1982223,
+      "revision": "1982223",
+      "timestamp": "2020-11-02T08:18:46Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982223",
+      "parent": "唐詩三百首",
+      "unitTitle": "塞下曲之二（盧綸）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0bb91b77bf85ac50bccd84c46b972ac94a385722c391cd22e381cab25972ff1d"
+    },
+    {
+      "title": "塞下曲之三",
+      "pageId": 22834,
+      "revisionId": 1982069,
+      "revision": "1982069",
+      "timestamp": "2020-11-02T08:10:17Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982069",
+      "parent": "唐詩三百首",
+      "unitTitle": "塞下曲之三（盧綸）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "36e93ecc6f2b915aeaee31e300a4724890f9f7aeae68278726942aeb487e6ce2"
+    },
+    {
+      "title": "塞下曲之四",
+      "pageId": 25585,
+      "revisionId": 1982302,
+      "revision": "1982302",
+      "timestamp": "2020-11-02T08:23:04Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982302",
+      "parent": "唐詩三百首",
+      "unitTitle": "塞下曲之四（盧綸）",
+      "unitPath": [
+        "樂府"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "117d96cf3f67a0cd284c969b1f25ad281e8424a7ffb66950f9ad8b7ae9d32b65"
+    },
+    {
+      "title": "杜少府之任蜀州",
+      "pageId": 6961,
+      "revisionId": 2439758,
+      "revision": "2439758",
+      "timestamp": "2024-07-24T03:02:39Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2439758",
+      "parent": "唐詩三百首",
+      "unitTitle": "送杜少府之任蜀州（王勃）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "38898acbd0595df3dccca78401ac80e354159b7a504a28757b0432afd3c6be62"
+    },
+    {
+      "title": "送梓州李使君",
+      "pageId": 25532,
+      "revisionId": 1981850,
+      "revision": "1981850",
+      "timestamp": "2020-11-02T07:57:40Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981850",
+      "parent": "唐詩三百首",
+      "unitTitle": "送梓州李使君（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4583e4958c90e57fe27550a9ddb73f379bb4783338787c9f2bb93b7949693f26"
+    },
+    {
+      "title": "漢江臨眺",
+      "pageId": 25529,
+      "revisionId": 1989716,
+      "revision": "1989716",
+      "timestamp": "2020-11-03T03:51:53Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1989716",
+      "parent": "唐詩三百首",
+      "unitTitle": "漢江臨眺（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6625237fb20b8da27d14e87e48e79d4f8623f44b7aca17cde33968525eff2b76"
+    },
+    {
+      "title": "終南別業",
+      "pageId": 11461,
+      "revisionId": 1982349,
+      "revision": "1982349",
+      "timestamp": "2020-11-02T08:25:41Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982349",
+      "parent": "唐詩三百首",
+      "unitTitle": "終南別業（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "984b9ffbd5c331fc4ac0e9e75b1949345c31bb92b9c5ee7d7ee9423cbac9f2aa"
+    },
+    {
+      "title": "終南山 (王維)",
+      "pageId": 7744,
+      "revisionId": 2018203,
+      "revision": "2018203",
+      "timestamp": "2021-02-21T09:20:19Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2018203",
+      "parent": "唐詩三百首",
+      "unitTitle": "終南山（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "00030a8e99a940018478dab6c6328c8eafff87d8f715cf68dcf639c75f87ce27"
+    },
+    {
+      "title": "酬張少府",
+      "pageId": 21056,
+      "revisionId": 1983707,
+      "revision": "1983707",
+      "timestamp": "2020-11-02T09:42:50Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983707",
+      "parent": "唐詩三百首",
+      "unitTitle": "酬張少府（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "bffa5990450aab93de943337bb1baf455dbb13a8856fff2e37eaec214c763f55"
+    },
+    {
+      "title": "過香積寺",
+      "pageId": 20995,
+      "revisionId": 1982201,
+      "revision": "1982201",
+      "timestamp": "2020-11-02T08:17:33Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982201",
+      "parent": "唐詩三百首",
+      "unitTitle": "過香積寺（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "615f74e324ec888591d3b25450d1a902bac34dfe4522789919b49fbba236370c"
+    },
+    {
+      "title": "輞川閑居贈裴秀才迪",
+      "pageId": 21054,
+      "revisionId": 1982205,
+      "revision": "1982205",
+      "timestamp": "2020-11-02T08:17:48Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982205",
+      "parent": "唐詩三百首",
+      "unitTitle": "輞川閑居贈裴秀才迪（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0b715f765bde096658d7acb22283bb8a0b3817d5a921f1c086ed6577f2ed94eb"
+    },
+    {
+      "title": "山居秋暝",
+      "pageId": 7632,
+      "revisionId": 2276100,
+      "revision": "2276100",
+      "timestamp": "2023-04-21T22:13:21Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2276100",
+      "parent": "唐詩三百首",
+      "unitTitle": "山居秋暝（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "65cdf443d868d989c65b8f5208487efa619b3845abdf7bfc07db225ec69836f8"
+    },
+    {
+      "title": "歸嵩山作",
+      "pageId": 21055,
+      "revisionId": 1983708,
+      "revision": "1983708",
+      "timestamp": "2020-11-02T09:42:53Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983708",
+      "parent": "唐詩三百首",
+      "unitTitle": "歸嵩山作（王維）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "15008ffe61d8a4e9a5c27b2c13f51817471988adb35e2c5d42d01abfd895edf8"
+    },
+    {
+      "title": "次北固山下",
+      "pageId": 21047,
+      "revisionId": 1982016,
+      "revision": "1982016",
+      "timestamp": "2020-11-02T08:06:58Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982016",
+      "parent": "唐詩三百首",
+      "unitTitle": "次北固山下（王灣）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "89731be774a0d5e58f09a5a2a0a4f99ee24ae5ab6be92ab59bf3f68c576693e7"
+    },
+    {
+      "title": "雲陽館與韓紳宿別",
+      "pageId": 25586,
+      "revisionId": 1498598,
+      "revision": "1498598",
+      "timestamp": "2018-09-07T07:23:21Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1498598",
+      "parent": "唐詩三百首",
+      "unitTitle": "雲陽館與韓紳宿別（司空曙）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ff7eea8754ca2f3a9c50bd15663ed6132a93a6e9f10007841263527b5e0d2081"
+    },
+    {
+      "title": "喜外弟盧綸見宿",
+      "pageId": 25587,
+      "revisionId": 2267349,
+      "revision": "2267349",
+      "timestamp": "2023-03-06T14:22:15Z",
+      "fetchedAt": "2026-10-06T15:09:04.150Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267349",
+      "parent": "唐詩三百首",
+      "unitTitle": "喜外弟盧綸見宿（司空曙）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e9a06d5b09a5840bc274725a7c7beee7780ffab3b5329e3f3951d55d9c7cdf72"
+    },
+    {
+      "title": "賊平後送人北歸",
+      "pageId": 25588,
+      "revisionId": 1498578,
+      "revision": "1498578",
+      "timestamp": "2018-09-07T06:40:18Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1498578",
+      "parent": "唐詩三百首",
+      "unitTitle": "賊平後送人北歸（司空曙）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6ff003fb5d905a0c26d47658f169630e9c5ef301eb052134a49d96b03827743b"
+    },
+    {
+      "title": "賦得古原草送別",
+      "pageId": 9928,
+      "revisionId": 1981926,
+      "revision": "1981926",
+      "timestamp": "2020-11-02T08:01:54Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981926",
+      "parent": "唐詩三百首",
+      "unitTitle": "賦得古原草送別（白居易）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "108672ca37c863d490df70b5c1b123287fbc19c570dc818a92bee28377676ff8"
+    },
+    {
+      "title": "題大庾嶺北驛",
+      "pageId": 21048,
+      "revisionId": 482123,
+      "revision": "482123",
+      "timestamp": "2016-07-19T01:49:10Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=482123",
+      "parent": "唐詩三百首",
+      "unitTitle": "題大庾嶺北驛（宋之問）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c2ed74f690b7acc91225a456ceecbe8aab697fc36383b27687fc589c0925eabf"
+    },
+    {
+      "title": "寄左省杜拾遺",
+      "pageId": 23885,
+      "revisionId": 1981896,
+      "revision": "1981896",
+      "timestamp": "2020-11-02T08:00:15Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981896",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄左省杜拾遺（岑參）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "42ac87051313435e843416cc306b1aaf955f52426e960000b0e96d2975a2e5f8"
+    },
+    {
+      "title": "聽蜀僧濬彈琴",
+      "pageId": 20470,
+      "revisionId": 2200540,
+      "revision": "2200540",
+      "timestamp": "2022-12-08T02:49:17Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2200540",
+      "parent": "唐詩三百首",
+      "unitTitle": "聽蜀僧濬彈琴（李白）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "580e3ed5781c9761157582a6ab4435d9c6f4dac72d022a8bb886e715dfae2211"
+    },
+    {
+      "title": "夜泊牛渚懷古",
+      "pageId": 13950,
+      "revisionId": 1395845,
+      "revision": "1395845",
+      "timestamp": "2018-04-01T00:18:58Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1395845",
+      "parent": "唐詩三百首",
+      "unitTitle": "夜泊牛渚懷古（李白）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "89522052ddb59f643c228b013124a95a368ac84a3592a8d4565d2b64c946a4b1"
+    },
+    {
+      "title": "贈孟浩然",
+      "pageId": 7596,
+      "revisionId": 483099,
+      "revision": "483099",
+      "timestamp": "2016-07-19T07:04:11Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483099",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈孟浩然（李白）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "215aa44cb606fb90d44180b915824dc3ae7ed465804223d7415a8c0237f9f31a"
+    },
+    {
+      "title": "渡荊門送別",
+      "pageId": 8280,
+      "revisionId": 1407789,
+      "revision": "1407789",
+      "timestamp": "2018-04-11T03:15:45Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1407789",
+      "parent": "唐詩三百首",
+      "unitTitle": "渡荊門送別（李白）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2403e51cacda1fb19516cffe45c5035adb9b0a61338edcac340226fe15c724e2"
+    },
+    {
+      "title": "送友人 (李白)",
+      "pageId": 7446,
+      "revisionId": 2266670,
+      "revision": "2266670",
+      "timestamp": "2023-03-04T01:29:07Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2266670",
+      "parent": "唐詩三百首",
+      "unitTitle": "送友人（李白）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c4fc43446c07c6be298000de1367183630441afcd19a88364b550e2d7a21ef70"
+    },
+    {
+      "title": "喜見外弟又言別",
+      "pageId": 21062,
+      "revisionId": 1982638,
+      "revision": "1982638",
+      "timestamp": "2020-11-02T08:41:45Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982638",
+      "parent": "唐詩三百首",
+      "unitTitle": "喜見外弟又言別（李益）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "1f00661617b291b8290b345d81731f60d57cfc87864586bdc3fce1eeee4a1fcf"
+    },
+    {
+      "title": "涼思",
+      "pageId": 23846,
+      "revisionId": 2267519,
+      "revision": "2267519",
+      "timestamp": "2023-03-07T15:48:25Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267519",
+      "parent": "唐詩三百首",
+      "unitTitle": "涼思（李商隱）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f3ebaa25dfc1d9dde7ab7e9bb48f541e21bdaf01b8b781350d97b93ed90faa35"
+    },
+    {
+      "title": "北青蘿",
+      "pageId": 23842,
+      "revisionId": 2267520,
+      "revision": "2267520",
+      "timestamp": "2023-03-07T15:51:37Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267520",
+      "parent": "唐詩三百首",
+      "unitTitle": "北青蘿（李商隱）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a88cb1664ead89ea8a11f7caae16d1e55271105f9b05300294519f0ca162b07b"
+    },
+    {
+      "title": "蟬 (李商隱)",
+      "pageId": 23844,
+      "revisionId": 1981848,
+      "revision": "1981848",
+      "timestamp": "2020-11-02T07:57:32Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981848",
+      "parent": "唐詩三百首",
+      "unitTitle": "蟬（李商隱）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2d4660156ec06a5c58f72dd5d647d6b48d3282e0cb3939c881934a48c85dc0d7"
+    },
+    {
+      "title": "風雨 (李商隱)",
+      "pageId": 21065,
+      "revisionId": 2267517,
+      "revision": "2267517",
+      "timestamp": "2023-03-07T15:46:35Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267517",
+      "parent": "唐詩三百首",
+      "unitTitle": "風雨（李商隱）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6bc8a3c4417be5a4a5abe3cd2805bc977bc64f7edf2d0a4ad01969d1b03b4228"
+    },
+    {
+      "title": "落花 (李商隱)",
+      "pageId": 21066,
+      "revisionId": 2267518,
+      "revision": "2267518",
+      "timestamp": "2023-03-07T15:47:08Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267518",
+      "parent": "唐詩三百首",
+      "unitTitle": "落花（李商隱）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "82df2d3f416e9ea5cd9f04a30416882f3e13f3d48aa07f45d72e89047987fdfc"
+    },
+    {
+      "title": "登岳陽樓 (杜甫)",
+      "pageId": 21053,
+      "revisionId": 1556376,
+      "revision": "1556376",
+      "timestamp": "2019-04-06T11:16:07Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1556376",
+      "parent": "唐詩三百首",
+      "unitTitle": "登岳陽樓（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6e243f34d263e01202f5e4b87d3002c2d61d4c6d79db6f605d6649a61b8b3e99"
+    },
+    {
+      "title": "奉濟驛重送嚴公四韻",
+      "pageId": 25573,
+      "revisionId": 2608734,
+      "revision": "2608734",
+      "timestamp": "2025-10-21T21:25:32Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2608734",
+      "parent": "唐詩三百首",
+      "unitTitle": "奉濟驛重送嚴公四韻（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c58953cbabadf4c09aad58fa4c7e49de3c21fad4265ec7eacfcd31c8665f0ea8"
+    },
+    {
+      "title": "別房太尉墓",
+      "pageId": 25574,
+      "revisionId": 483478,
+      "revision": "483478",
+      "timestamp": "2016-07-19T13:55:33Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483478",
+      "parent": "唐詩三百首",
+      "unitTitle": "別房太尉墓（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d502ac2e852785b8b27281ae837dbb9855887b533f56cc004b4b08c70282c2f1"
+    },
+    {
+      "title": "旅夜書懷",
+      "pageId": 7477,
+      "revisionId": 2488403,
+      "revision": "2488403",
+      "timestamp": "2024-11-06T23:33:54Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2488403",
+      "parent": "唐詩三百首",
+      "unitTitle": "旅夜書懷（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "55335a3b8e0b54e25da0e0ca2fc62b2c862465eb27b3e1fd92da2d122fa05672"
+    },
+    {
+      "title": "至德二載甫自京金光門出 間道歸鳳翔 乾元初從左拾遺移華州掾 與親故別 因出此門 有悲往事",
+      "pageId": 21050,
+      "revisionId": 1968637,
+      "revision": "1968637",
+      "timestamp": "2020-10-20T03:58:24Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1968637",
+      "parent": "唐詩三百首",
+      "unitTitle": "至德二載甫自京金光門出 間道歸鳳翔 乾元初從左拾遺移華州掾 與親故別 因出此門 有悲往事（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "571c72233313c726898642757eeff83fbbecc6370e266cf7b1ceb80e6adafa53"
+    },
+    {
+      "title": "月夜憶舍弟",
+      "pageId": 21051,
+      "revisionId": 1439435,
+      "revision": "1439435",
+      "timestamp": "2018-04-27T16:10:17Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1439435",
+      "parent": "唐詩三百首",
+      "unitTitle": "月夜憶舍弟（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4498e3b9869d77703b8697b54bdf01e1b9af1d314e820f7308546ef86510c5e7"
+    },
+    {
+      "title": "天末懷李白",
+      "pageId": 21052,
+      "revisionId": 2525415,
+      "revision": "2525415",
+      "timestamp": "2025-02-05T08:24:42Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2525415",
+      "parent": "唐詩三百首",
+      "unitTitle": "天末懷李白（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ab53b09487644d7b7b34fe79faa7788cad4079ed613b8fe7dd196d2289b39f0e"
+    },
+    {
+      "title": "月夜 (杜甫)",
+      "pageId": 21049,
+      "revisionId": 1549908,
+      "revision": "1549908",
+      "timestamp": "2019-03-12T07:58:12Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1549908",
+      "parent": "唐詩三百首",
+      "unitTitle": "月夜（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "81ac00aacea92d935a66833c5cf971fa2ff2a03d2dd82aa7f87c2d22b18ca896"
+    },
+    {
+      "title": "春望",
+      "pageId": 10002,
+      "revisionId": 2640428,
+      "revision": "2640428",
+      "timestamp": "2026-01-09T15:01:02Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2640428",
+      "parent": "唐詩三百首",
+      "unitTitle": "春望（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "587752c0ce016304fd05c4cc0b5275aff900a922bebca28b3785be5ed5ce0ba0"
+    },
+    {
+      "title": "春宿左省",
+      "pageId": 9621,
+      "revisionId": 483627,
+      "revision": "483627",
+      "timestamp": "2016-07-19T14:19:24Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483627",
+      "parent": "唐詩三百首",
+      "unitTitle": "春宿左省（杜甫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e6ca06688de72086fd803d8304ec4d8d0b2a73fb11189551a3617ee3d834fba7"
+    },
+    {
+      "title": "旅宿 (杜牧)",
+      "pageId": 25595,
+      "revisionId": 1983027,
+      "revision": "1983027",
+      "timestamp": "2020-11-02T09:03:49Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983027",
+      "parent": "唐詩三百首",
+      "unitTitle": "旅宿（杜牧）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "534915184065ecccada0b5a623bd4aeae7c620548cfbb1c78b16e6df39894e1d"
+    },
+    {
+      "title": "春宮怨",
+      "pageId": 25602,
+      "revisionId": 1983786,
+      "revision": "1983786",
+      "timestamp": "2020-11-02T09:47:01Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983786",
+      "parent": "唐詩三百首",
+      "unitTitle": "春宮怨（杜荀鶴）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a7bd5d05319877f781f02e943c1642ab54315d4961febf3ca96bae5a1ad6c560"
+    },
+    {
+      "title": "和晉陵路丞早春遊望",
+      "pageId": 162557,
+      "revisionId": 4812901,
+      "revision": "4812901",
+      "timestamp": "2026-05-16T07:08:14Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=4812901",
+      "parent": "唐詩三百首",
+      "unitTitle": "和晉陵路丞早春遊望（杜審言）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8f4402e8046724f91be194284aab6a9007140422ab64b690fd92860d328305c0"
+    },
+    {
+      "title": "雜詩 (沈佺期)",
+      "pageId": 23880,
+      "revisionId": 1982043,
+      "revision": "1982043",
+      "timestamp": "2020-11-02T08:08:41Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982043",
+      "parent": "唐詩三百首",
+      "unitTitle": "雜詩（沈佺期）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "5beb577fe75cf31a3ae023e78b53b4514b9972a5a3aa8c79df65a0b1fd2abc17"
+    },
+    {
+      "title": "宿桐廬江寄廣陵舊遊",
+      "pageId": 21059,
+      "revisionId": 1982203,
+      "revision": "1982203",
+      "timestamp": "2020-11-02T08:17:41Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982203",
+      "parent": "唐詩三百首",
+      "unitTitle": "宿桐廬江寄廣陵舊遊（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "646399b2f081c339c259daf70999cd8dbd0cdd773255b029acdee3749f1c4511"
+    },
+    {
+      "title": "留別王維 (孟浩然)",
+      "pageId": 23702,
+      "revisionId": 2267023,
+      "revision": "2267023",
+      "timestamp": "2023-03-04T19:17:59Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267023",
+      "parent": "唐詩三百首",
+      "unitTitle": "留別王維（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f7c4048a76a2bc703996cdd2acca7da44568af5aaf7ca2bf49b314fe80462f1a"
+    },
+    {
+      "title": "早寒有懷",
+      "pageId": 21060,
+      "revisionId": 1990696,
+      "revision": "1990696",
+      "timestamp": "2020-11-03T04:50:03Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1990696",
+      "parent": "唐詩三百首",
+      "unitTitle": "早寒有懷（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "641b66c5d48ab2a82ea74aea6304a5beac8b2083155615efbe93694a7092c118"
+    },
+    {
+      "title": "歲暮歸南山",
+      "pageId": 23701,
+      "revisionId": 1982342,
+      "revision": "1982342",
+      "timestamp": "2020-11-02T08:25:17Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982342",
+      "parent": "唐詩三百首",
+      "unitTitle": "歲暮歸南山（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e45cd13bc4c19ee18c83854c2b4fe0d0c1191175818a42bcdff4ddb512a197c9"
+    },
+    {
+      "title": "過故人莊",
+      "pageId": 7609,
+      "revisionId": 2691920,
+      "revision": "2691920",
+      "timestamp": "2026-04-10T14:10:51Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2691920",
+      "parent": "唐詩三百首",
+      "unitTitle": "過故人莊（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6cc8917eba76b796ce97dd54010d85eb00c5dd2b56ecf1de3eecc0904ea37160"
+    },
+    {
+      "title": "秦中感秋寄遠上人",
+      "pageId": 23894,
+      "revisionId": 1760292,
+      "revision": "1760292",
+      "timestamp": "2020-01-07T09:31:20Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1760292",
+      "parent": "唐詩三百首",
+      "unitTitle": "秦中感秋寄遠上人（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4d43e38df16334e502121144b280c07f131a99c95d86702362ff71503eb56472"
+    },
+    {
+      "title": "望洞庭湖贈張丞相",
+      "pageId": 45437,
+      "revisionId": 2029253,
+      "revision": "2029253",
+      "timestamp": "2021-05-08T09:06:38Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2029253",
+      "parent": "唐詩三百首",
+      "unitTitle": "臨洞庭贈張丞相（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f754d6e2a951d3a1c90adc012e961a74efa8825075da306940ff0f38aa35a686"
+    },
+    {
+      "title": "與諸子登峴山",
+      "pageId": 21057,
+      "revisionId": 1982202,
+      "revision": "1982202",
+      "timestamp": "2020-11-02T08:17:38Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982202",
+      "parent": "唐詩三百首",
+      "unitTitle": "與諸子登峴山（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "7bc255a7c17badc5311998da47e656c8430cbbb46fb3fbf52ed8c702701cb8d7"
+    },
+    {
+      "title": "清明日宴梅道士房",
+      "pageId": 23895,
+      "revisionId": 2267055,
+      "revision": "2267055",
+      "timestamp": "2023-03-05T04:07:28Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267055",
+      "parent": "唐詩三百首",
+      "unitTitle": "宴梅道士山房（孟浩然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b60b2465e6e368cea34d67f2ad35b55dd3d84eca7679ea6436577cd8d8e3a6ef"
+    },
+    {
+      "title": "章臺夜思",
+      "pageId": 25603,
+      "revisionId": 2267716,
+      "revision": "2267716",
+      "timestamp": "2023-03-08T17:12:31Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267716",
+      "parent": "唐詩三百首",
+      "unitTitle": "章臺夜思（韋莊）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d51d33db26274aa28db9c3f7cc23cec6537b930c37140c521ac84dca87170e36"
+    },
+    {
+      "title": "淮上喜會梁川故人",
+      "pageId": 23902,
+      "revisionId": 2267139,
+      "revision": "2267139",
+      "timestamp": "2023-03-05T13:27:40Z",
+      "fetchedAt": "2026-10-06T15:09:07.610Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267139",
+      "parent": "唐詩三百首",
+      "unitTitle": "淮上喜會梁川故人（韋應物）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c4bd9939ba08225eede59cde7a12776d050b7a40452577ef39c1ae4f9fb5b775"
+    },
+    {
+      "title": "賦得暮雨送李冑",
+      "pageId": 23901,
+      "revisionId": 2267143,
+      "revision": "2267143",
+      "timestamp": "2023-03-05T13:33:10Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267143",
+      "parent": "唐詩三百首",
+      "unitTitle": "賦得暮雨送李冑（韋應物）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0a89299c1ea660f7de2b837d3ed0ec752b0a207c05d805d8c0e0a1d711d3d9c2"
+    },
+    {
+      "title": "經鄒魯祭孔子而歎之",
+      "pageId": 11869,
+      "revisionId": 2331203,
+      "revision": "2331203",
+      "timestamp": "2023-11-10T13:30:27Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2331203",
+      "parent": "唐詩三百首",
+      "unitTitle": "經鄒魯祭孔子而歎之（唐玄宗）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6c5d5f52d5c24f87e3c3562d99e05322836edcde19febb7083cec4b688368fe9"
+    },
+    {
+      "title": "灞上秋居",
+      "pageId": 21674,
+      "revisionId": 1983022,
+      "revision": "1983022",
+      "timestamp": "2020-11-02T09:03:28Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983022",
+      "parent": "唐詩三百首",
+      "unitTitle": "灞上秋居（馬戴）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ab533a59588eb4a0a2aa0764d4351014b9e6a89470a231b1eed8e86bdaea376c"
+    },
+    {
+      "title": "楚江懷古 (馬戴)",
+      "pageId": 25598,
+      "revisionId": 2267702,
+      "revision": "2267702",
+      "timestamp": "2023-03-08T16:20:58Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267702",
+      "parent": "唐詩三百首",
+      "unitTitle": "楚江懷古（馬戴）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "dd82aa324e2144c0bd93d4a5647623ee76822bade8f581a230968fb00e75e787"
+    },
+    {
+      "title": "除夜有懷 (崔塗)",
+      "pageId": 25600,
+      "revisionId": 2267706,
+      "revision": "2267706",
+      "timestamp": "2023-03-08T16:40:36Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267706",
+      "parent": "唐詩三百首",
+      "unitTitle": "除夜有懷（崔塗）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "afdd55e8430008ecb0065186853ee7a987200816992ba7393b67b3eb47ddc4b8"
+    },
+    {
+      "title": "孤雁",
+      "pageId": 25601,
+      "revisionId": 2267708,
+      "revision": "2267708",
+      "timestamp": "2023-03-08T16:44:48Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267708",
+      "parent": "唐詩三百首",
+      "unitTitle": "孤雁（崔塗）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "84d4b356327bffdc3fd8de114581dc507edccdd2ac6d7976202788c6695129bb"
+    },
+    {
+      "title": "題破山寺後禪院",
+      "pageId": 25459,
+      "revisionId": 2649834,
+      "revision": "2649834",
+      "timestamp": "2026-02-16T03:26:02Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2649834",
+      "parent": "唐詩三百首",
+      "unitTitle": "題破山寺後禪院（常建）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "542c945f02c9e95e2909e04c2ed2face24d549804cf9becd33f5a6aca12675cc"
+    },
+    {
+      "title": "望月懷遠",
+      "pageId": 7136,
+      "revisionId": 2273256,
+      "revision": "2273256",
+      "timestamp": "2023-04-09T13:41:06Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2273256",
+      "parent": "唐詩三百首",
+      "unitTitle": "望月懷遠（張九齡）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ff8ef7c3d01d2b0120595430318e7214c33074bd65ebcc0811de0b764dcdd728"
+    },
+    {
+      "title": "書邊事 (張喬)",
+      "pageId": 25599,
+      "revisionId": 2267705,
+      "revision": "2267705",
+      "timestamp": "2023-03-08T16:31:41Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267705",
+      "parent": "唐詩三百首",
+      "unitTitle": "書邊事（張喬）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9e2fc43c956e33d39badbd30768a205b55585e801d79d4a7de406208811d6081"
+    },
+    {
+      "title": "沒蕃故人",
+      "pageId": 25589,
+      "revisionId": 2267353,
+      "revision": "2267353",
+      "timestamp": "2023-03-06T14:28:41Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267353",
+      "parent": "唐詩三百首",
+      "unitTitle": "沒蕃故人（張籍）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f03dcc943ca7240821744d9f5f280a46e0167bacfda6c3fac7dc2c7c9df7a024"
+    },
+    {
+      "title": "秋日赴闕題潼關驛樓",
+      "pageId": 25596,
+      "revisionId": 1986856,
+      "revision": "1986856",
+      "timestamp": "2020-11-02T13:25:20Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986856",
+      "parent": "唐詩三百首",
+      "unitTitle": "秋日赴闕題潼關驛樓（許渾）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "dcbeed28f0b356cdf661423c9ec00ffe83633a895a6d578aaa3d1c16c15a2ca2"
+    },
+    {
+      "title": "早秋",
+      "pageId": 25597,
+      "revisionId": 1991879,
+      "revision": "1991879",
+      "timestamp": "2020-11-03T06:03:23Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1991879",
+      "parent": "唐詩三百首",
+      "unitTitle": "早秋（許渾）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4cb699e15b948d93161eb2f84923039127db4d5d8b9cde128f60fbd5405128b4"
+    },
+    {
+      "title": "送人東遊",
+      "pageId": 23851,
+      "revisionId": 2267701,
+      "revision": "2267701",
+      "timestamp": "2023-03-08T16:10:27Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267701",
+      "parent": "唐詩三百首",
+      "unitTitle": "送人東遊（溫庭筠）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fec37593af29be871888a0b3b65f0f50486cfa03772e21be516a2f9208135602"
+    },
+    {
+      "title": "尋陸鴻漸不遇",
+      "pageId": 25604,
+      "revisionId": 2267718,
+      "revision": "2267718",
+      "timestamp": "2023-03-08T17:16:26Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267718",
+      "parent": "唐詩三百首",
+      "unitTitle": "尋陸鴻漸不遇（僧皎然）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3c87f5b45bdca7adfbe246fbbe1fcbd9f30861e6aab299e0ea36a1fff02d3280"
+    },
+    {
+      "title": "尋南溪常道士",
+      "pageId": 25564,
+      "revisionId": 2267131,
+      "revision": "2267131",
+      "timestamp": "2023-03-05T13:13:11Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267131",
+      "parent": "唐詩三百首",
+      "unitTitle": "尋南溪常道士（劉長卿）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "bbf33d6af7c11b74cd2beec844c8e4c140dff29d410e4874d042ca22659313a6"
+    },
+    {
+      "title": "新年作 (劉長卿)",
+      "pageId": 25565,
+      "revisionId": 2267133,
+      "revision": "2267133",
+      "timestamp": "2023-03-05T13:16:56Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267133",
+      "parent": "唐詩三百首",
+      "unitTitle": "新年作（劉長卿）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ff9787942581e0ddce409a49ab327d77230d33ba6c9c159a2761059c74ce4c72"
+    },
+    {
+      "title": "秋日登吳公臺上寺遠眺",
+      "pageId": 25562,
+      "revisionId": 2267126,
+      "revision": "2267126",
+      "timestamp": "2023-03-05T12:56:54Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267126",
+      "parent": "唐詩三百首",
+      "unitTitle": "秋日登吳公臺上寺遠眺（劉長卿）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "31614396e3a1e92366782db84fe567943a1a04a573e34c0f28b38b91edc08aeb"
+    },
+    {
+      "title": "送李中丞歸漢陽別業",
+      "pageId": 25563,
+      "revisionId": 2267128,
+      "revision": "2267128",
+      "timestamp": "2023-03-05T13:04:21Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267128",
+      "parent": "唐詩三百首",
+      "unitTitle": "送李中丞歸漢陽別業（劉長卿）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fc4c8c93e498a5801783e73fececc0688dca2a55efc581f630b1643c7be05581"
+    },
+    {
+      "title": "餞別王十一南遊",
+      "pageId": 21061,
+      "revisionId": 1982357,
+      "revision": "1982357",
+      "timestamp": "2020-11-02T08:26:08Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982357",
+      "parent": "唐詩三百首",
+      "unitTitle": "餞別王十一南遊（劉長卿）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "47ab816e2b4441881a4d3247e491ecc49ad58f0b2102bf775f5b9f5e10cdc21e"
+    },
+    {
+      "title": "蜀先主廟",
+      "pageId": 21063,
+      "revisionId": 1986873,
+      "revision": "1986873",
+      "timestamp": "2020-11-02T13:26:24Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986873",
+      "parent": "唐詩三百首",
+      "unitTitle": "蜀先主廟（劉禹錫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c9b3a210a95f4105a7be99e2c6d982b06bdb0480db603fbbb2f0454d265d8b64"
+    },
+    {
+      "title": "闕題 (劉眘虛)",
+      "pageId": 25579,
+      "revisionId": 1982299,
+      "revision": "1982299",
+      "timestamp": "2020-11-02T08:22:54Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982299",
+      "parent": "唐詩三百首",
+      "unitTitle": "闕題（劉眘虛）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3a954bc30b3e7a284057c67ef9c8d12d2262e6c0391ce0d16cadad91bfbaced9"
+    },
+    {
+      "title": "送李端 (盧綸)",
+      "pageId": 25581,
+      "revisionId": 2267348,
+      "revision": "2267348",
+      "timestamp": "2023-03-06T14:15:03Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267348",
+      "parent": "唐詩三百首",
+      "unitTitle": "送李端（盧綸）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e788afede953ad4a9c7b2b90fe43c90bb31eef9ee4ed50ee6ab17d11c591c101"
+    },
+    {
+      "title": "送僧歸日本",
+      "pageId": 25572,
+      "revisionId": 2267134,
+      "revision": "2267134",
+      "timestamp": "2023-03-05T13:21:17Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267134",
+      "parent": "唐詩三百首",
+      "unitTitle": "送僧歸日本（錢起）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b5298d281e26f55c13d77ad71faa0e8ffd12ddcfdd6f1a2bed0b36cbd44ce9f3"
+    },
+    {
+      "title": "谷口書齋寄楊補闕",
+      "pageId": 25575,
+      "revisionId": 486191,
+      "revision": "486191",
+      "timestamp": "2016-07-20T15:37:49Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=486191",
+      "parent": "唐詩三百首",
+      "unitTitle": "谷口書齋寄楊補闕（錢起）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4e88d8cdc61e6c9db6c2bd2b88a8b7f1820f7d2014f6278c2bdf846728a05fc3"
+    },
+    {
+      "title": "在獄詠蟬",
+      "pageId": 23879,
+      "revisionId": 1982339,
+      "revision": "1982339",
+      "timestamp": "2020-11-02T08:25:06Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982339",
+      "parent": "唐詩三百首",
+      "unitTitle": "在獄詠蟬 并序（駱賓王）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f680d7c4baa23adf181425868f033d2e5d9fd30b46758f7ebaeaeafbb71e8c79"
+    },
+    {
+      "title": "江鄉故人偶集客舍",
+      "pageId": 25580,
+      "revisionId": 2267347,
+      "revision": "2267347",
+      "timestamp": "2023-03-06T14:10:15Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267347",
+      "parent": "唐詩三百首",
+      "unitTitle": "江鄉故人偶集客舍（戴叔倫）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "7888db967bfbf0bc4484c94787862baa3038a84f28c928ae2cd7b47c83a9afb0"
+    },
+    {
+      "title": "酬程近秋夜即事見贈",
+      "pageId": 25577,
+      "revisionId": 2267144,
+      "revision": "2267144",
+      "timestamp": "2023-03-05T13:37:34Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2267144",
+      "parent": "唐詩三百首",
+      "unitTitle": "酬程近秋夜即事見贈（韓翃）",
+      "unitPath": [
+        "五言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "5f3c205fc3f3a0993e70bfaa15b625a3895671f4165b1c5e7ea8a39da81d1940"
+    },
+    {
+      "title": "遣悲懷之一",
+      "pageId": 21072,
+      "revisionId": 1981962,
+      "revision": "1981962",
+      "timestamp": "2020-11-02T08:03:57Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981962",
+      "parent": "唐詩三百首",
+      "unitTitle": "遣悲懷之一（元稹）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e87d74b497e555fd438e37af6be5e68d54ee0d1faed7bdd93777d77fc8c66054"
+    },
+    {
+      "title": "遣悲懷之二",
+      "pageId": 25626,
+      "revisionId": 1981871,
+      "revision": "1981871",
+      "timestamp": "2020-11-02T07:58:45Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981871",
+      "parent": "唐詩三百首",
+      "unitTitle": "遣悲懷之二（元稹）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d34ab99f8145df2112553c81b51fc6c4c9dda1d2d8606fcec3ad89c7da27bead"
+    },
+    {
+      "title": "遣悲懷之三",
+      "pageId": 25627,
+      "revisionId": 1981935,
+      "revision": "1981935",
+      "timestamp": "2020-11-02T08:02:25Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981935",
+      "parent": "唐詩三百首",
+      "unitTitle": "遣悲懷之三（元稹）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f082c27efee13c9e507b27c3cf95f347f4e0f4881c2a208f5b10cfe8abce7732"
+    },
+    {
+      "title": "和賈舍人早朝大明宮之作",
+      "pageId": 31033,
+      "revisionId": 1981867,
+      "revision": "1981867",
+      "timestamp": "2020-11-02T07:58:32Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981867",
+      "parent": "唐詩三百首",
+      "unitTitle": "和賈舍人早朝大明宮之作（王維）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "7634fd9db58f1a6e1f3836e81a8289ec521b9201ddd9ba51d51ac76a034d55ec"
+    },
+    {
+      "title": "贈郭給事",
+      "pageId": 25530,
+      "revisionId": 1992303,
+      "revision": "1992303",
+      "timestamp": "2020-11-03T06:29:14Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1992303",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈郭給事（王維）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b76c268737289f8bed05d52663e797746707d7661b668c2dda2560f3eb5a14a1"
+    },
+    {
+      "title": "奉和聖製從蓬萊向興慶閣道中留春雨中春望之作應制 (王維)",
+      "pageId": 40613,
+      "revisionId": 7912605,
+      "revision": "7912605",
+      "timestamp": "2026-08-05T02:53:12Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7912605",
+      "parent": "唐詩三百首",
+      "unitTitle": "奉和聖製從蓬萊向興慶閣道中留春雨中春望之作應制（王維）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "93be7da06dee739cfbcb716e744e2b0fbcc6bbaa757e0e087a05f9d7b29b139a"
+    },
+    {
+      "title": "積雨輞川莊作",
+      "pageId": 21615,
+      "revisionId": 1981883,
+      "revision": "1981883",
+      "timestamp": "2020-11-02T07:59:31Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981883",
+      "parent": "唐詩三百首",
+      "unitTitle": "積雨輞川莊作（王維）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "eaf5c8ecc303942b320d7e4bc9aee0bd8a0352b35e8f91a1c95a8d2ab7936ac4"
+    },
+    {
+      "title": "自河南經亂關內阻飢兄弟離散各在一處因望月有感聊書所懷寄上浮梁大兄於潛七兄烏江十五兄兼示符離及下邽弟妹",
+      "pageId": 332953,
+      "revisionId": 2528367,
+      "revision": "2528367",
+      "timestamp": "2025-02-14T11:40:44Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2528367",
+      "parent": "唐詩三百首",
+      "unitTitle": "自河南經亂，關內阻饑，兄弟離散，各在一處。因望月有感，聊書所懷寄上，浮梁大兄，於潛七兄，烏江十五兄，兼示符離，及下邽弟妹（白居易）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9be9c02b22e538092670f55947d314dcdc49aad87bb70581e5488460537d574d"
+    },
+    {
+      "title": "奉和中書舍人賈至早朝大明宮",
+      "pageId": 23888,
+      "revisionId": 1982338,
+      "revision": "1982338",
+      "timestamp": "2020-11-02T08:25:01Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982338",
+      "parent": "唐詩三百首",
+      "unitTitle": "奉和中書舍人賈至早朝大明宮（岑參）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fa08f93f2b024d112ae5a7dffb6ef6f08d0499782c96904185635c8286e90ebd"
+    },
+    {
+      "title": "登金陵鳳凰臺",
+      "pageId": 7731,
+      "revisionId": 2172191,
+      "revision": "2172191",
+      "timestamp": "2022-08-15T01:12:56Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2172191",
+      "parent": "唐詩三百首",
+      "unitTitle": "登金陵鳳凰臺（李白）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9d5acccea5715ad879dda6f7d5a4522dbd800b48ea5362276f27e18814a20dda"
+    },
+    {
+      "title": "無題 (相見時難別亦難)",
+      "pageId": 25439,
+      "revisionId": 7910047,
+      "revision": "7910047",
+      "timestamp": "2026-07-26T06:08:08Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7910047",
+      "parent": "唐詩三百首",
+      "unitTitle": "無題（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "69e56c813986cf36149ec8d11ca6e7d4c2ebea2b604fb40005913613c01471c7"
+    },
+    {
+      "title": "無題 (鳳尾香羅薄幾重)",
+      "pageId": 25440,
+      "revisionId": 1984612,
+      "revision": "1984612",
+      "timestamp": "2020-11-02T10:34:56Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984612",
+      "parent": "唐詩三百首",
+      "unitTitle": "無題之一（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6411020cffeb5cd77b3a1ac1726c23da26683e4b0dcca468b068010a98d9ebee"
+    },
+    {
+      "title": "無題 (重帷深下莫愁堂)",
+      "pageId": 25441,
+      "revisionId": 1983002,
+      "revision": "1983002",
+      "timestamp": "2020-11-02T09:02:21Z",
+      "fetchedAt": "2026-10-06T15:09:11.096Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983002",
+      "parent": "唐詩三百首",
+      "unitTitle": "無題之二（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "de1721315bb1df3b58ebb16d84b8d2f3f2d05611ccee8ec35a7986fadfc606a9"
+    },
+    {
+      "title": "錦瑟",
+      "pageId": 12948,
+      "revisionId": 7910045,
+      "revision": "7910045",
+      "timestamp": "2026-07-26T05:51:59Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7910045",
+      "parent": "唐詩三百首",
+      "unitTitle": "錦瑟（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e01135b8e077e7b17d02e851122579aee2888b5e789a6eaa6a5c73549f8b217f"
+    },
+    {
+      "title": "隋宮 (紫泉宮殿鎖煙霞)",
+      "pageId": 25444,
+      "revisionId": 2485667,
+      "revision": "2485667",
+      "timestamp": "2024-11-01T08:00:33Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2485667",
+      "parent": "唐詩三百首",
+      "unitTitle": "隋宮（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fc93147b8555fbf8c9e9b9c66b32f30a4d77a83b2d50815ec543277f118280d6"
+    },
+    {
+      "title": "無題 (來是空言去絕蹤)",
+      "pageId": 25426,
+      "revisionId": 1984611,
+      "revision": "1984611",
+      "timestamp": "2020-11-02T10:34:53Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984611",
+      "parent": "唐詩三百首",
+      "unitTitle": "無題之一（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "60d4c487fc7f2920efb4776460767340ef2516a3b140a2dc2f60aad1986e5b4e"
+    },
+    {
+      "title": "無題 (颯颯東風細雨來)",
+      "pageId": 25427,
+      "revisionId": 2074424,
+      "revision": "2074424",
+      "timestamp": "2021-09-14T22:24:43Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2074424",
+      "parent": "唐詩三百首",
+      "unitTitle": "無題之二（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "87ef07eeaa97bdd7b0891bbc199ebe16596afef7c8ad66cfae20a4728bf4b428"
+    },
+    {
+      "title": "籌筆驛 (李商隱)",
+      "pageId": 23847,
+      "revisionId": 2375820,
+      "revision": "2375820",
+      "timestamp": "2024-03-20T14:26:14Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2375820",
+      "parent": "唐詩三百首",
+      "unitTitle": "籌筆驛（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "730f976ee2da5159ca4ef3661431fbb0f6cba387dc4e1cb04b902b57b79ad05c"
+    },
+    {
+      "title": "無題 (昨夜星辰昨夜風)",
+      "pageId": 25423,
+      "revisionId": 7910048,
+      "revision": "7910048",
+      "timestamp": "2026-07-26T06:11:33Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7910048",
+      "parent": "唐詩三百首",
+      "unitTitle": "無題（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c34762443416b5024591fed57fe25e1b6a99a941083b15ef32d23fbf6ca780ed"
+    },
+    {
+      "title": "春雨 (李商隱)",
+      "pageId": 23845,
+      "revisionId": 2261434,
+      "revision": "2261434",
+      "timestamp": "2023-02-18T15:59:55Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2261434",
+      "parent": "唐詩三百首",
+      "unitTitle": "春雨（李商隱）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8faad167c067f8ee43e03f84456c9dc4dfa13a0f1cbbf2ddd422485a53314650"
+    },
+    {
+      "title": "送魏萬之京",
+      "pageId": 25610,
+      "revisionId": 1982220,
+      "revision": "1982220",
+      "timestamp": "2020-11-02T08:18:36Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982220",
+      "parent": "唐詩三百首",
+      "unitTitle": "送魏萬之京（李頎）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c0a6ec6e5c5d0476e557c231218e7acd5162e4180795b31dff2f1e5d62e823b5"
+    },
+    {
+      "title": "詠懷古跡五首之一",
+      "pageId": 202179,
+      "revisionId": 483821,
+      "revision": "483821",
+      "timestamp": "2016-07-19T14:51:25Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483821",
+      "parent": "唐詩三百首",
+      "unitTitle": "詠懷古跡之一（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "aee000f0aed6f3fab95ad37f3c54828250c7fce3e60d3cf6a8ed3d62a753539c"
+    },
+    {
+      "title": "詠懷古跡五首之二",
+      "pageId": 202180,
+      "revisionId": 483822,
+      "revision": "483822",
+      "timestamp": "2016-07-19T14:51:34Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483822",
+      "parent": "唐詩三百首",
+      "unitTitle": "詠懷古跡之二（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3394850635d1a5dae1b6f29e7735273433adaaddd47060b4696a40d0dc0d46c2"
+    },
+    {
+      "title": "詠懷古跡五首之三",
+      "pageId": 202181,
+      "revisionId": 483823,
+      "revision": "483823",
+      "timestamp": "2016-07-19T14:51:44Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483823",
+      "parent": "唐詩三百首",
+      "unitTitle": "詠懷古跡之三（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c08080ccc29ec168467c9590d9271ef4f3b805df7d7f9686fb6366e454a15179"
+    },
+    {
+      "title": "詠懷古跡五首之四",
+      "pageId": 202182,
+      "revisionId": 483824,
+      "revision": "483824",
+      "timestamp": "2016-07-19T14:51:54Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483824",
+      "parent": "唐詩三百首",
+      "unitTitle": "詠懷古跡之四（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6f135a6763bf18d3b898391c3300945206d36a17ff09bddb52debb4332db7ed1"
+    },
+    {
+      "title": "詠懷古跡五首之五",
+      "pageId": 202183,
+      "revisionId": 483825,
+      "revision": "483825",
+      "timestamp": "2016-07-19T14:52:04Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483825",
+      "parent": "唐詩三百首",
+      "unitTitle": "詠懷古跡之五（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a1e27f68910fd7e4129eea0a40eb7ebe68a510c9b295b78291b332e9f9293bc2"
+    },
+    {
+      "title": "聞官軍收河南河北",
+      "pageId": 15256,
+      "revisionId": 2608799,
+      "revision": "2608799",
+      "timestamp": "2025-10-22T01:57:29Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2608799",
+      "parent": "唐詩三百首",
+      "unitTitle": "聞官軍收河南河北（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9456af5ada0f9f4b84ed5f4f8c4add8f63ec7e55958ced5d52b076facb5acd94"
+    },
+    {
+      "title": "宿府",
+      "pageId": 25613,
+      "revisionId": 797128,
+      "revision": "797128",
+      "timestamp": "2016-11-15T02:30:29Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=797128",
+      "parent": "唐詩三百首",
+      "unitTitle": "宿府（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ae2c2188aa77c643908d51024f1dff2570ff11bd979b870957a325d5f4552147"
+    },
+    {
+      "title": "閣夜",
+      "pageId": 25614,
+      "revisionId": 1305069,
+      "revision": "1305069",
+      "timestamp": "2017-09-02T02:28:36Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1305069",
+      "parent": "唐詩三百首",
+      "unitTitle": "閣夜（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "461f22bf73b5d6fed94bef9b3542886f88f36976a8325d4add752b8627d00f3c"
+    },
+    {
+      "title": "登高",
+      "pageId": 21068,
+      "revisionId": 2608778,
+      "revision": "2608778",
+      "timestamp": "2025-10-22T00:51:31Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2608778",
+      "parent": "唐詩三百首",
+      "unitTitle": "登高（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e732bf9a29e95acc58d7b7531fc59bea59aa33bb56b9221ad2e5bccc577490d8"
+    },
+    {
+      "title": "登樓 (杜甫)",
+      "pageId": 25611,
+      "revisionId": 2533556,
+      "revision": "2533556",
+      "timestamp": "2025-03-03T02:27:33Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2533556",
+      "parent": "唐詩三百首",
+      "unitTitle": "登樓（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8f6d87013ab6ac9dffdeff5816d71c0fc071073d33a3e953345840a20816682c"
+    },
+    {
+      "title": "蜀相",
+      "pageId": 7698,
+      "revisionId": 1908040,
+      "revision": "1908040",
+      "timestamp": "2020-06-10T12:45:01Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1908040",
+      "parent": "唐詩三百首",
+      "unitTitle": "蜀相（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f2e6b122e3140190b3c27a3275507e251b8fce08a805fbe888c021a3980281a4"
+    },
+    {
+      "title": "客至",
+      "pageId": 21067,
+      "revisionId": 2644776,
+      "revision": "2644776",
+      "timestamp": "2026-01-27T09:39:29Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2644776",
+      "parent": "唐詩三百首",
+      "unitTitle": "客至（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "f84bbb296c9e0549c46a7463694977061dd78dba3b0481b4a4e8dacce13976ac"
+    },
+    {
+      "title": "野望 (西山白雪三奇戍)",
+      "pageId": 17829,
+      "revisionId": 483826,
+      "revision": "483826",
+      "timestamp": "2016-07-19T14:52:14Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=483826",
+      "parent": "唐詩三百首",
+      "unitTitle": "野望（杜甫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b076adf5c502e935d4f926ef08b48b036d922734b2a7e0e038eb3eca3f4a9fb9"
+    },
+    {
+      "title": "登柳州城樓寄漳汀封連四州刺史",
+      "pageId": 21071,
+      "revisionId": 481300,
+      "revision": "481300",
+      "timestamp": "2016-07-18T11:24:17Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=481300",
+      "parent": "唐詩三百首",
+      "unitTitle": "登柳州城樓寄漳汀封連四州刺史（柳宗元）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6b608cfb04c7bcadfc4627b4bc3e9f0088c042b74339c23668ea45f4de564496"
+    },
+    {
+      "title": "春思 (皇甫冉)",
+      "pageId": 26097,
+      "revisionId": 1981971,
+      "revision": "1981971",
+      "timestamp": "2020-11-02T08:04:26Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981971",
+      "parent": "唐詩三百首",
+      "unitTitle": "春思（皇甫冉）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "291c072df13299a8beef48aad5b51b2b573c7ce5faf12df1be4331e84b92b7fc"
+    },
+    {
+      "title": "寄李儋元錫",
+      "pageId": 21070,
+      "revisionId": 1982019,
+      "revision": "1982019",
+      "timestamp": "2020-11-02T08:07:07Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982019",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄李儋元錫（韋應物）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "52eb12d4718beb1d66bee394b41b5c4d90a493974b3c16908f5c418b5b9cff6c"
+    },
+    {
+      "title": "望薊門",
+      "pageId": 25608,
+      "revisionId": 1982851,
+      "revision": "1982851",
+      "timestamp": "2020-11-02T08:53:35Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982851",
+      "parent": "唐詩三百首",
+      "unitTitle": "望薊門（祖詠）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "bdd7cc1b04cb9ed8a3f4349b21430661f5d1233d8aad8e2b3f57ba0187be0d3e"
+    },
+    {
+      "title": "貧女(秦韜玉)",
+      "pageId": 188730,
+      "revisionId": 2329208,
+      "revision": "2329208",
+      "timestamp": "2023-11-03T09:41:16Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2329208",
+      "parent": "唐詩三百首",
+      "unitTitle": "貧女（秦韜玉）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "efceccfc2e7b1c74eb74f49f2449f892ca97c26b60b601c1d05e62bf352979de"
+    },
+    {
+      "title": "送李少府貶峽中王少府貶長沙",
+      "pageId": 23883,
+      "revisionId": 484435,
+      "revision": "484435",
+      "timestamp": "2016-07-20T04:16:46Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=484435",
+      "parent": "唐詩三百首",
+      "unitTitle": "送李少府貶峽中王少府貶長沙（高適）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "69bb9ca4646bd65bf2bcefabb2a1fd5a7f0d9a92f75f7cc7d3dbded773144d83"
+    },
+    {
+      "title": "九日登望仙臺呈劉明府容",
+      "pageId": 25609,
+      "revisionId": 1981957,
+      "revision": "1981957",
+      "timestamp": "2020-11-02T08:03:42Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981957",
+      "parent": "唐詩三百首",
+      "unitTitle": "九日登望仙臺呈劉明府（崔曙）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "faa6ba11efcb73431f029d71e66a65d4863038fe9fd5c53c00f5ae0f4e58123f"
+    },
+    {
+      "title": "黃鶴樓 (崔顥)",
+      "pageId": 7957,
+      "revisionId": 2492584,
+      "revision": "2492584",
+      "timestamp": "2024-11-18T16:22:42Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2492584",
+      "parent": "唐詩三百首",
+      "unitTitle": "黃鶴樓（崔顥）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "285abe385f00352a31125193f23489e662802ecfb5a07bc0f64bcf7691849323"
+    },
+    {
+      "title": "行經華陰",
+      "pageId": 25605,
+      "revisionId": 1984610,
+      "revision": "1984610",
+      "timestamp": "2020-11-02T10:34:50Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984610",
+      "parent": "唐詩三百首",
+      "unitTitle": "行經華陰（崔顥）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d954915912280f6d07f0498e71c313e43b3868b9a493d854b42313f144a6efec"
+    },
+    {
+      "title": "利洲南渡",
+      "pageId": 23850,
+      "revisionId": 1989622,
+      "revision": "1989622",
+      "timestamp": "2020-11-03T03:46:19Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1989622",
+      "parent": "唐詩三百首",
+      "unitTitle": "利洲南渡（溫庭筠）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2a2097df4b04d3c95e0c14e3b9a377901466d81178feebac14aff137ab3be180"
+    },
+    {
+      "title": "蘇武廟",
+      "pageId": 25620,
+      "revisionId": 1989719,
+      "revision": "1989719",
+      "timestamp": "2020-11-03T03:52:04Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1989719",
+      "parent": "唐詩三百首",
+      "unitTitle": "蘇武廟（溫庭筠）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "355dccaea270874779bc2db59f8db8db7577b95ba25e7f006e2f7e2a3a8bf5f5"
+    },
+    {
+      "title": "江州重別薛六柳八二員外",
+      "pageId": 44760,
+      "revisionId": 1982065,
+      "revision": "1982065",
+      "timestamp": "2020-11-02T08:10:03Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982065",
+      "parent": "唐詩三百首",
+      "unitTitle": "江州重別薛六柳八二員外（劉長卿）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "cc6a4a1268ed58675b9a5e4d1d086c5a85f47e6b9fe5c0522b2b9289472c39a3"
+    },
+    {
+      "title": "長沙過賈誼宅",
+      "pageId": 25567,
+      "revisionId": 1982074,
+      "revision": "1982074",
+      "timestamp": "2020-11-02T08:10:36Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982074",
+      "parent": "唐詩三百首",
+      "unitTitle": "長沙過賈誼宅（劉長卿）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "477556c04fa23a4c7be3535aaeb244012534491576293e2597d82bb0ea5db7b7"
+    },
+    {
+      "title": "自夏口至鸚鵡洲望岳陽寄元中丞",
+      "pageId": 25618,
+      "revisionId": 1989718,
+      "revision": "1989718",
+      "timestamp": "2020-11-03T03:52:00Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1989718",
+      "parent": "唐詩三百首",
+      "unitTitle": "自夏口至鸚鵡洲望岳陽寄元中丞（劉長卿）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9abc013d907445451c1c0620076ab28a9ecf19b1d57a4c5a2f3f6a4745ba97ae"
+    },
+    {
+      "title": "西塞山懷古",
+      "pageId": 25619,
+      "revisionId": 9684697,
+      "revision": "9684697",
+      "timestamp": "2026-09-13T11:34:35Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=9684697",
+      "parent": "唐詩三百首",
+      "unitTitle": "西塞山懷古（劉禹錫）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "5ee5798b6a40f4e464280709be3abb4c41b58adb2b5fe143794334394659fb65"
+    },
+    {
+      "title": "晚次鄂州",
+      "pageId": 25582,
+      "revisionId": 1982300,
+      "revision": "1982300",
+      "timestamp": "2020-11-02T08:22:58Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982300",
+      "parent": "唐詩三百首",
+      "unitTitle": "晚次鄂州（盧綸）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c15ce40b1799280590564dbdf2a827757ee708e4fccbfab4d4b7a4442133a3b5"
+    },
+    {
+      "title": "贈闕下裴舍人",
+      "pageId": 25576,
+      "revisionId": 486192,
+      "revision": "486192",
+      "timestamp": "2016-07-20T15:37:58Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=486192",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈闕下裴舍人（錢起）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fb08bcca2e8350ede7bb270f887048238084b2596eceb78df99692f153244867"
+    },
+    {
+      "title": "宮詞 (薛逢)",
+      "pageId": 25622,
+      "revisionId": 1982224,
+      "revision": "1982224",
+      "timestamp": "2020-11-02T08:18:49Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982224",
+      "parent": "唐詩三百首",
+      "unitTitle": "宮詞（薛逢）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d584f75b10c06231cf64b97905c4695277d1c565161ecc9db285c81ac0748f27"
+    },
+    {
+      "title": "同題仙遊觀",
+      "pageId": 25578,
+      "revisionId": 1989717,
+      "revision": "1989717",
+      "timestamp": "2020-11-03T03:51:57Z",
+      "fetchedAt": "2026-10-06T15:09:14.648Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1989717",
+      "parent": "唐詩三百首",
+      "unitTitle": "同題仙遊觀（韓翃）",
+      "unitPath": [
+        "七言律詩"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "83315da11f6458e44f6bdd641315172f2b7c0114d4f214a399c49b5f5cabe782"
+    },
+    {
+      "title": "行宮",
+      "pageId": 25625,
+      "revisionId": 1982370,
+      "revision": "1982370",
+      "timestamp": "2020-11-02T08:26:51Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982370",
+      "parent": "唐詩三百首",
+      "unitTitle": "行宮（元稹）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ee3d9f1124f8beb6ecc93dcefc03b045a0ace76d1f65fbd73117d7ac8a0e960c"
+    },
+    {
+      "title": "登鸛雀樓 (王之渙)",
+      "pageId": 14781,
+      "revisionId": 2648160,
+      "revision": "2648160",
+      "timestamp": "2026-02-10T14:54:08Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648160",
+      "parent": "唐詩三百首",
+      "unitTitle": "登鸛雀樓（王之渙）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e8452abb48672d35edb795942559f1c9e97a3e10a97aefcf71dbe6b572b022d1"
+    },
+    {
+      "title": "新嫁娘",
+      "pageId": 25624,
+      "revisionId": 1984476,
+      "revision": "1984476",
+      "timestamp": "2020-11-02T10:27:00Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984476",
+      "parent": "唐詩三百首",
+      "unitTitle": "新嫁娘（王建）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d3156c605508fc35bcfc39e303490405ceab16eda2c024ec91157010d926c65b"
+    },
+    {
+      "title": "相思",
+      "pageId": 7175,
+      "revisionId": 2450604,
+      "revision": "2450604",
+      "timestamp": "2024-08-29T01:40:13Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2450604",
+      "parent": "唐詩三百首",
+      "unitTitle": "相思（王維）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "58c5cf8b1129bf7d01d3ddd0da5c05dfb76a2be35e7eb9cfa1bffec5f5070ed9"
+    },
+    {
+      "title": "雜詩 (君自故鄉來)",
+      "pageId": 7176,
+      "revisionId": 2172055,
+      "revision": "2172055",
+      "timestamp": "2022-08-14T09:22:05Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2172055",
+      "parent": "唐詩三百首",
+      "unitTitle": "雜詩（王維）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ee5f0bcd18d9102a0c52155bb0edfd28089032a28df585f5d0447e75a8d50eb5"
+    },
+    {
+      "title": "鹿柴 (王維)",
+      "pageId": 21613,
+      "revisionId": 2648341,
+      "revision": "2648341",
+      "timestamp": "2026-02-11T10:42:24Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648341",
+      "parent": "唐詩三百首",
+      "unitTitle": "鹿柴（王維）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "be528661733a03e2057c5d4e476fff2cd72b7baa1e574a76cf7c251e9a0d85d3"
+    },
+    {
+      "title": "輞川集 (王維)/竹里館",
+      "pageId": 7171,
+      "revisionId": 2328978,
+      "revision": "2328978",
+      "timestamp": "2023-11-03T07:12:13Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2328978",
+      "parent": "唐詩三百首",
+      "unitTitle": "竹里館（王維）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "be18eaa27fac03be92476ee9c25fc8b7313dbe8844e0212b85b9be33e38f637f"
+    },
+    {
+      "title": "送別 (山中相送罷)",
+      "pageId": 41773,
+      "revisionId": 1982067,
+      "revision": "1982067",
+      "timestamp": "2020-11-02T08:10:11Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982067",
+      "parent": "唐詩三百首",
+      "unitTitle": "送別（王維）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "df267b9422da2ee9f4a403e680d3ed594cfb3d8a2779ceeb0e94e01f9ddd0ae9"
+    },
+    {
+      "title": "問劉十九",
+      "pageId": 23749,
+      "revisionId": 1982858,
+      "revision": "1982858",
+      "timestamp": "2020-11-02T08:53:59Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982858",
+      "parent": "唐詩三百首",
+      "unitTitle": "問劉十九（白居易）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "54cff3b34d80fd8bf279ae0a3fb6d963d4ead49124346c38d8103b00aede84a6"
+    },
+    {
+      "title": "哥舒歌",
+      "pageId": 25628,
+      "revisionId": 1986501,
+      "revision": "1986501",
+      "timestamp": "2020-11-02T12:38:37Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986501",
+      "parent": "唐詩三百首",
+      "unitTitle": "哥舒歌（西鄙人）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4b19b4dfd99729c40019796509c0e4226f04af51604369b7ed2d04fe095797ed"
+    },
+    {
+      "title": "靜夜思",
+      "pageId": 221,
+      "revisionId": 8747585,
+      "revision": "8747585",
+      "timestamp": "2026-09-01T11:39:25Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=8747585",
+      "parent": "唐詩三百首",
+      "unitTitle": "靜夜思（李白）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "bodySelection": {
+        "heading": "唐詩三百首"
+      },
+      "sha256": "a86df608cb665462461c4fa20e2dfd1b9197c5849b02bc6c44fb63fe5303482b"
+    },
+    {
+      "title": "怨情 (美人捲珠簾)",
+      "pageId": 29643,
+      "revisionId": 2515322,
+      "revision": "2515322",
+      "timestamp": "2025-01-08T10:26:28Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2515322",
+      "parent": "唐詩三百首",
+      "unitTitle": "怨情（李白）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "d81c0e8b587c6b5a484128630521f00130d35ae840f00e372183b105b4ace4c2"
+    },
+    {
+      "title": "樂遊原 (向晚意不適)",
+      "pageId": 25447,
+      "revisionId": 1982222,
+      "revision": "1982222",
+      "timestamp": "2020-11-02T08:18:43Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982222",
+      "parent": "唐詩三百首",
+      "unitTitle": "登樂游原（李商隱）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2225b578bd21bc6b8a01a5e58266d6aecdb9e0c1ed045724f50bb8fbcdec63eb"
+    },
+    {
+      "title": "聽箏 (李端)",
+      "pageId": 21643,
+      "revisionId": 1981944,
+      "revision": "1981944",
+      "timestamp": "2020-11-02T08:02:59Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981944",
+      "parent": "唐詩三百首",
+      "unitTitle": "聽箏（李端）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "578a00144bbaefd0a2cec6214681339fe1d3ad46e99f56485faf6144ad22059c"
+    },
+    {
+      "title": "渡漢江 (李頻)",
+      "pageId": 26103,
+      "revisionId": 1988928,
+      "revision": "1988928",
+      "timestamp": "2020-11-03T03:07:02Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1988928",
+      "parent": "唐詩三百首",
+      "unitTitle": "渡漢江（李頻）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "056f90bcbd8f27de9a5bb443801eac331f022aa58076806b279dab5d4fea30aa"
+    },
+    {
+      "title": "八陣圖",
+      "pageId": 11580,
+      "revisionId": 10330138,
+      "revision": "10330138",
+      "timestamp": "2026-09-24T06:11:55Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=10330138",
+      "parent": "唐詩三百首",
+      "unitTitle": "八陣圖（杜甫）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a0cde338185021c16fa0dc8086bdcd9a9f70e052f726b6ef8d785c3a436857de"
+    },
+    {
+      "title": "宿建德江",
+      "pageId": 7707,
+      "revisionId": 1981947,
+      "revision": "1981947",
+      "timestamp": "2020-11-02T08:03:11Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981947",
+      "parent": "唐詩三百首",
+      "unitTitle": "宿建德江（孟浩然）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "39ce6c73693570d3a923c0b16fce4ba4fd76767b9212a5bc46e8585f0fb8dfa7"
+    },
+    {
+      "title": "春曉 (孟浩然)",
+      "pageId": 187779,
+      "revisionId": 10374454,
+      "revision": "10374454",
+      "timestamp": "2026-09-24T16:19:10Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=10374454",
+      "parent": "唐詩三百首",
+      "unitTitle": "春曉（孟浩然）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "eab84b422f9a4c0f4ecb1b04b132e954d551bbe2a086ffb1bac6aa69cbdb1df4"
+    },
+    {
+      "title": "春怨 (金昌緒)",
+      "pageId": 26107,
+      "revisionId": 1981953,
+      "revision": "1981953",
+      "timestamp": "2020-11-02T08:03:30Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981953",
+      "parent": "唐詩三百首",
+      "unitTitle": "春怨（金昌緒）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4be2eedcb7384a36f3a2abca683544b2fb03170f7f7fbf7bfbd3671ca1eacbbe"
+    },
+    {
+      "title": "江雪",
+      "pageId": 10338,
+      "revisionId": 2315191,
+      "revision": "2315191",
+      "timestamp": "2023-09-27T09:26:14Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2315191",
+      "parent": "唐詩三百首",
+      "unitTitle": "江雪（柳宗元）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9b553fbc2b17539f939338a8a74f98ba3a2d2e4bf4dacaee0fc71b6a5a3cb323"
+    },
+    {
+      "title": "秋夜寄丘員外",
+      "pageId": 21642,
+      "revisionId": 1986872,
+      "revision": "1986872",
+      "timestamp": "2020-11-02T13:26:21Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986872",
+      "parent": "唐詩三百首",
+      "unitTitle": "秋夜寄丘員外（韋應物）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "72529c7cb3b1b8f4f6019876736980a24477896ffa553d773178f8384dab0808"
+    },
+    {
+      "title": "終南望餘雪",
+      "pageId": 21631,
+      "revisionId": 1982642,
+      "revision": "1982642",
+      "timestamp": "2020-11-02T08:41:59Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982642",
+      "parent": "唐詩三百首",
+      "unitTitle": "終南望餘雪（祖詠）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ee8364483d34726dacb1558f92bf479b37e48d140b4271b723b8d4af70d3dd0b"
+    },
+    {
+      "title": "何滿子 (張祜)",
+      "pageId": 21074,
+      "revisionId": 1984495,
+      "revision": "1984495",
+      "timestamp": "2020-11-02T10:28:07Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984495",
+      "parent": "唐詩三百首",
+      "unitTitle": "何滿子（張祜）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "951ed0ac489a109cf375874939a9555918ef59569c3490b9cdf6baa6fd541263"
+    },
+    {
+      "title": "尋隱者不遇",
+      "pageId": 7191,
+      "revisionId": 1310721,
+      "revision": "1310721",
+      "timestamp": "2017-09-27T03:04:11Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1310721",
+      "parent": "唐詩三百首",
+      "unitTitle": "尋隱者不遇（賈島）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6ed42604dd8560d2c54c052c61df187e2e415943c98838b9c6a3c79427530c95"
+    },
+    {
+      "title": "送崔九",
+      "pageId": 21624,
+      "revisionId": 1986871,
+      "revision": "1986871",
+      "timestamp": "2020-11-02T13:26:17Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986871",
+      "parent": "唐詩三百首",
+      "unitTitle": "送崔九（裴迪）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "27f29a5cba03e3ca4d2f2a4a1d058fe22b1aeab578f1ada2627d1e91752bea53"
+    },
+    {
+      "title": "送靈澈上人",
+      "pageId": 21639,
+      "revisionId": 1981927,
+      "revision": "1981927",
+      "timestamp": "2020-11-02T08:01:57Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981927",
+      "parent": "唐詩三百首",
+      "unitTitle": "送靈澈（劉長卿）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b13e08a665f250c64712a2c14fd2eee653677e4b04aefb84903daa582288ab68"
+    },
+    {
+      "title": "聽彈琴",
+      "pageId": 21640,
+      "revisionId": 1981843,
+      "revision": "1981843",
+      "timestamp": "2020-11-02T07:57:15Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981843",
+      "parent": "唐詩三百首",
+      "unitTitle": "彈琴（劉長卿）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c1586e45a4a76787453aff878a3899d98bc1539083ea98a0c35d6cdda7d755b0"
+    },
+    {
+      "title": "送上人",
+      "pageId": 45565,
+      "revisionId": 1982964,
+      "revision": "1982964",
+      "timestamp": "2020-11-02T09:00:10Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982964",
+      "parent": "唐詩三百首",
+      "unitTitle": "送上人（劉長卿）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "96750067dc1c8ecb0768dcd66a529e8a1d9e8f2f7e611215562f067c5227fa1b"
+    },
+    {
+      "title": "玉臺體",
+      "pageId": 21675,
+      "revisionId": 485583,
+      "revision": "485583",
+      "timestamp": "2016-07-20T12:58:43Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=485583",
+      "parent": "唐詩三百首",
+      "unitTitle": "玉臺體（權德輿）",
+      "unitPath": [
+        "五言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "0f09b98b6611fdd1e6104c626ebaa1e6fc03df68bba20980f1ba5a2a973ba379"
+    },
+    {
+      "title": "芙蓉樓送辛漸 (寒雨連江夜入吳)",
+      "pageId": 1228347,
+      "revisionId": 2648167,
+      "revision": "2648167",
+      "timestamp": "2026-02-10T15:02:33Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648167",
+      "parent": "唐詩三百首",
+      "unitTitle": "芙蓉樓送辛漸（王昌齡）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "571e8156387fa310720aebbf29b8114ef703f1aeb97c7ebe38f562d7c7e6af21"
+    },
+    {
+      "title": "閨怨 (王昌齡)",
+      "pageId": 23425,
+      "revisionId": 485219,
+      "revision": "485219",
+      "timestamp": "2016-07-20T11:36:55Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=485219",
+      "parent": "唐詩三百首",
+      "unitTitle": "閨怨（王昌齡）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "fce9acbca8510b516109e3e5d604f12fb04f06b1b06bc430de9b722f5282b1ad"
+    },
+    {
+      "title": "春宮曲",
+      "pageId": 23423,
+      "revisionId": 485118,
+      "revision": "485118",
+      "timestamp": "2016-07-20T11:19:21Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=485118",
+      "parent": "唐詩三百首",
+      "unitTitle": "春宮曲（王昌齡）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "dcc888080121314e476cb79a3d38e5a306de1cb761fe8b62f867f397e59ef39f"
+    },
+    {
+      "title": "九月九日憶山東兄弟",
+      "pageId": 7163,
+      "revisionId": 2648561,
+      "revision": "2648561",
+      "timestamp": "2026-02-13T03:39:57Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648561",
+      "parent": "唐詩三百首",
+      "unitTitle": "九月九日憶山東兄弟（王維）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "39ccd6873d6ace530cb1a47676dfd7f037ebeba3fc3533b8977ba8fb6bf2b997"
+    },
+    {
+      "title": "涼州詞 (葡萄美酒夜光杯)",
+      "pageId": 45275,
+      "revisionId": 2648165,
+      "revision": "2648165",
+      "timestamp": "2026-02-10T15:00:12Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648165",
+      "parent": "唐詩三百首",
+      "unitTitle": "涼州詞（王翰）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "a7c73ddaff9e36cd6137ea2980ec3b0ebe4c58c5b9a109950d68a35531ea9c9f"
+    },
+    {
+      "title": "宮詞 (白居易)",
+      "pageId": 23408,
+      "revisionId": 1992299,
+      "revision": "1992299",
+      "timestamp": "2020-11-03T06:29:01Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1992299",
+      "parent": "唐詩三百首",
+      "unitTitle": "宮詞（白居易）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "b4f722f8eef2fb188cddfe14a4f887424ef2c076f8aaab5d2d0dd8cf215fac9b"
+    },
+    {
+      "title": "宮中詞",
+      "pageId": 23406,
+      "revisionId": 1982846,
+      "revision": "1982846",
+      "timestamp": "2020-11-02T08:53:17Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982846",
+      "parent": "唐詩三百首",
+      "unitTitle": "宮中詞（朱慶餘）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "66f1d26e9faa010b31a6f463282d754392018c54a1e49ac023a83b24b8ba3282"
+    },
+    {
+      "title": "近試上張水部",
+      "pageId": 23404,
+      "revisionId": 2083706,
+      "revision": "2083706",
+      "timestamp": "2021-10-22T07:11:30Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2083706",
+      "parent": "唐詩三百首",
+      "unitTitle": "近試上張水部（朱慶餘）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "21a18a0e860796b1af5fe1b3230ba72c118b227fb17972c74c8c2cd54a1cbeeb"
+    },
+    {
+      "title": "逢入京使",
+      "pageId": 21612,
+      "revisionId": 1982641,
+      "revision": "1982641",
+      "timestamp": "2020-11-02T08:41:56Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982641",
+      "parent": "唐詩三百首",
+      "unitTitle": "逢入京使（岑參）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3f9f48384cc4917632cab3e4f0e7cbb9048af63c5c385bbb9c6d3a28d30f7cae"
+    },
+    {
+      "title": "黃鶴樓送孟浩然之廣陵",
+      "pageId": 7049,
+      "revisionId": 2648633,
+      "revision": "2648633",
+      "timestamp": "2026-02-13T05:40:50Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648633",
+      "parent": "唐詩三百首",
+      "unitTitle": "送孟浩然之廣陵（李白）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "42dbaf6d9537096f34eb1cedf7e28adbeea5e959c93a8544e087b9896fb7f529"
+    },
+    {
+      "title": "早發白帝城",
+      "pageId": 7046,
+      "revisionId": 2690621,
+      "revision": "2690621",
+      "timestamp": "2026-04-09T08:01:03Z",
+      "fetchedAt": "2026-10-06T15:09:18.098Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2690621",
+      "parent": "唐詩三百首",
+      "unitTitle": "下江陵（李白）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "de3947498637d7a76f2cd26014471345811b2ba38acde8975877ded760bf8253"
+    },
+    {
+      "title": "夜上受降城聞笛",
+      "pageId": 21000,
+      "revisionId": 3299214,
+      "revision": "3299214",
+      "timestamp": "2026-05-04T14:55:44Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=3299214",
+      "parent": "唐詩三百首",
+      "unitTitle": "夜上受降城聞笛（李益）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9d7a4ad3e9a96178f4c718dfc87d9f863bfbb651eac08cfd1bb74f839140ac76"
+    },
+    {
+      "title": "賈生",
+      "pageId": 21003,
+      "revisionId": 2288408,
+      "revision": "2288408",
+      "timestamp": "2023-05-13T08:56:08Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2288408",
+      "parent": "唐詩三百首",
+      "unitTitle": "賈生（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e481405cec2519d6175970ce6cdc56fc7615f463208752f2164d41ab9b20c553"
+    },
+    {
+      "title": "隋宮 (乘興南遊不戒嚴)",
+      "pageId": 23409,
+      "revisionId": 1986496,
+      "revision": "1986496",
+      "timestamp": "2020-11-02T12:38:14Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986496",
+      "parent": "唐詩三百首",
+      "unitTitle": "隋宮（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "878e4f7872c8c811028ea90bee412af995c8ecd30db9ef6597b28351db01b467"
+    },
+    {
+      "title": "瑤池",
+      "pageId": 21005,
+      "revisionId": 1983706,
+      "revision": "1983706",
+      "timestamp": "2020-11-02T09:42:47Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983706",
+      "parent": "唐詩三百首",
+      "unitTitle": "瑤池（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c7b86bcf2a4382d1586edc57737876dd9e456e532787cbbec9de7ffbef56d96c"
+    },
+    {
+      "title": "常娥",
+      "pageId": 12952,
+      "revisionId": 1981886,
+      "revision": "1981886",
+      "timestamp": "2020-11-02T07:59:40Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981886",
+      "parent": "唐詩三百首",
+      "unitTitle": "嫦娥（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "7dc37fd82d26d80d9b333d103c6e0b843b9e5547c4cac0393271c591266ed839"
+    },
+    {
+      "title": "夜雨寄北",
+      "pageId": 12949,
+      "revisionId": 1566402,
+      "revision": "1566402",
+      "timestamp": "2019-05-23T15:04:55Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1566402",
+      "parent": "唐詩三百首",
+      "unitTitle": "夜雨寄北（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9ec84389c98c932efe6633986fec7a4e63ecb70c086a20a4e98a568ca73912c1"
+    },
+    {
+      "title": "寄令狐郎中",
+      "pageId": 23414,
+      "revisionId": 1984602,
+      "revision": "1984602",
+      "timestamp": "2020-11-02T10:34:21Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984602",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄令狐郎中（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e1ff9af3079eaacab0bf2ef43cfd1f5ff4132b4da473144987b2610761356d55"
+    },
+    {
+      "title": "為有",
+      "pageId": 23413,
+      "revisionId": 1991876,
+      "revision": "1991876",
+      "timestamp": "2020-11-03T06:03:12Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1991876",
+      "parent": "唐詩三百首",
+      "unitTitle": "為有（李商隱）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "01bcc8ca39e93869020c359103104b5ea599f48002c3468718789f7ae714b825"
+    },
+    {
+      "title": "江南逢李龜年",
+      "pageId": 21607,
+      "revisionId": 1534428,
+      "revision": "1534428",
+      "timestamp": "2019-01-28T15:11:00Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1534428",
+      "parent": "唐詩三百首",
+      "unitTitle": "江南逢李龜年（杜甫）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "58a436b67dc40e3a3963f4ec59335a12c000ea0e278cf892ece03bad7e6cc0e3"
+    },
+    {
+      "title": "贈別 (娉娉褭褭十三餘)",
+      "pageId": 58874,
+      "revisionId": 1982938,
+      "revision": "1982938",
+      "timestamp": "2020-11-02T08:58:31Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982938",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈別 之一（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "57ba3e02e021c2b629d89acb6ada7827a7e2403a738145b74f5aa5bd701e8966"
+    },
+    {
+      "title": "贈別 (多情卻似總無情)",
+      "pageId": 58877,
+      "revisionId": 1982931,
+      "revision": "1982931",
+      "timestamp": "2020-11-02T08:58:07Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982931",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈別 之二（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "53d3a3a6c30ca84d735aaa21b2565e8f55a256cc61e4788cc66cb9a3b2f9cb63"
+    },
+    {
+      "title": "金谷園 (杜牧)",
+      "pageId": 7670,
+      "revisionId": 2503713,
+      "revision": "2503713",
+      "timestamp": "2024-12-11T16:26:33Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2503713",
+      "parent": "唐詩三百首",
+      "unitTitle": "金谷園（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "073c19a836da4208c538b8471506b9696dd0fff6cd408172efebddecec8c56c2"
+    },
+    {
+      "title": "寄揚州韓綽判官",
+      "pageId": 7671,
+      "revisionId": 1982014,
+      "revision": "1982014",
+      "timestamp": "2020-11-02T08:06:51Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982014",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄揚州韓綽判官（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "4273a139f2310d1f119b147b142aff55de91a67bc3aba77f01c0a60e4a8f46b3"
+    },
+    {
+      "title": "遣懷 (杜牧)",
+      "pageId": 187840,
+      "revisionId": 2629638,
+      "revision": "2629638",
+      "timestamp": "2025-12-09T02:19:56Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2629638",
+      "parent": "唐詩三百首",
+      "unitTitle": "遣懷（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "16de4c5deba8961c4010a43a8aafaed921fc25fc170f641e5ad102a6e0a8a76b"
+    },
+    {
+      "title": "秋夕 (杜牧)",
+      "pageId": 7667,
+      "revisionId": 2629627,
+      "revision": "2629627",
+      "timestamp": "2025-12-08T17:54:02Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2629627",
+      "parent": "唐詩三百首",
+      "unitTitle": "秋夕（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2d736834adc2a3a210f4d1793bc36c3f7c3119ae2ea99b76fe2a52b4903c5293"
+    },
+    {
+      "title": "將赴吳興登樂游原",
+      "pageId": 45564,
+      "revisionId": 1982407,
+      "revision": "1982407",
+      "timestamp": "2020-11-02T08:28:52Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982407",
+      "parent": "唐詩三百首",
+      "unitTitle": "將赴吳興登樂游原（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "90d8da3f1bcd29625f770fa73c98cbc109091964623de5f83a5f0ebc63b697e1"
+    },
+    {
+      "title": "赤壁",
+      "pageId": 7621,
+      "revisionId": 1964883,
+      "revision": "1964883",
+      "timestamp": "2020-09-20T07:32:34Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1964883",
+      "parent": "唐詩三百首",
+      "unitTitle": "赤壁（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2917e0f451b249bf1f294059829a30f92dd74fdaa43d6a125d0dc15ac8a8d616"
+    },
+    {
+      "title": "泊秦淮",
+      "pageId": 7666,
+      "revisionId": 1982119,
+      "revision": "1982119",
+      "timestamp": "2020-11-02T08:13:03Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982119",
+      "parent": "唐詩三百首",
+      "unitTitle": "泊秦淮（杜牧）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "df62a766c12147d49408884fc29838802fa1500c57f7e65c243f29f4a3274066"
+    },
+    {
+      "title": "征人怨",
+      "pageId": 23421,
+      "revisionId": 1982995,
+      "revision": "1982995",
+      "timestamp": "2020-11-02T09:01:57Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982995",
+      "parent": "唐詩三百首",
+      "unitTitle": "征人怨（柳中庸）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c0cc89429f25c7c8745f8ac696bfa5ac616d0940c602619cec10f0e6d46416f3"
+    },
+    {
+      "title": "金陵圖",
+      "pageId": 21008,
+      "revisionId": 2310067,
+      "revision": "2310067",
+      "timestamp": "2023-08-31T03:46:13Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2310067",
+      "parent": "唐詩三百首",
+      "unitTitle": "金陵圖（韋莊）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "bodySelection": {
+        "poem": 2
+      },
+      "sha256": "799c80422085f03e82700ab4026bb8ea1edbee03b80b02b3c1553cf153256d8c"
+    },
+    {
+      "title": "滁州西澗",
+      "pageId": 23405,
+      "revisionId": 1981825,
+      "revision": "1981825",
+      "timestamp": "2020-11-02T07:56:15Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981825",
+      "parent": "唐詩三百首",
+      "unitTitle": "滁州西澗（韋應物）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2c5e6d7569232a12b2aded1bfcc120d9a7896505932585f954b6c6cf0ae8bc18"
+    },
+    {
+      "title": "桃花谿",
+      "pageId": 23403,
+      "revisionId": 229374,
+      "revision": "229374",
+      "timestamp": "2009-09-26T01:48:16Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=229374",
+      "parent": "唐詩三百首",
+      "unitTitle": "桃花谿（張旭）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "88f76142c8cb3ba442d13de56176f4a2a4080401e64a6aa1ad88de8048091999"
+    },
+    {
+      "title": "寄人 (張泌)",
+      "pageId": 23411,
+      "revisionId": 1036058,
+      "revision": "1036058",
+      "timestamp": "2017-06-30T07:55:46Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1036058",
+      "parent": "唐詩三百首",
+      "unitTitle": "寄人（張泌）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "019f6baf190bde50dfa4572376c9e881d3cfdebfe138ac60f44309a3b531a9b0"
+    },
+    {
+      "title": "題金陵渡",
+      "pageId": 23416,
+      "revisionId": 2548897,
+      "revision": "2548897",
+      "timestamp": "2025-04-08T02:00:15Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2548897",
+      "parent": "唐詩三百首",
+      "unitTitle": "題金陵渡（張祜）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8beaf5ec6303efa70f77c8c1ab20fbe16a608f95bd33eb8355d2624769a72277"
+    },
+    {
+      "title": "贈內人",
+      "pageId": 23419,
+      "revisionId": 1983704,
+      "revision": "1983704",
+      "timestamp": "2020-11-02T09:42:40Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1983704",
+      "parent": "唐詩三百首",
+      "unitTitle": "贈內人（張祜）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "9b2ce1410528ac3369fef39fe0174c4ec2c30929689ed9ffb2e8612a840679f2"
+    },
+    {
+      "title": "集靈臺之一",
+      "pageId": 23418,
+      "revisionId": 1982344,
+      "revision": "1982344",
+      "timestamp": "2020-11-02T08:25:23Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982344",
+      "parent": "唐詩三百首",
+      "unitTitle": "集靈臺之一（張祜）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "bf2d36ad3bfe47ee8099a1adee8ed207be06b37b5d3336d3f6a10e88a5b3e4c5"
+    },
+    {
+      "title": "集靈臺之二",
+      "pageId": 23417,
+      "revisionId": 1982196,
+      "revision": "1982196",
+      "timestamp": "2020-11-02T08:17:17Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982196",
+      "parent": "唐詩三百首",
+      "unitTitle": "集靈臺之二（張祜）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "df2477046175aba494b91908b384fcd79eff7d6da04928a0a8424165124c644d"
+    },
+    {
+      "title": "楓橋夜泊",
+      "pageId": 14783,
+      "revisionId": 1748066,
+      "revision": "1748066",
+      "timestamp": "2019-10-15T13:46:18Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1748066",
+      "parent": "唐詩三百首",
+      "unitTitle": "楓橋夜泊（張繼）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8e3a2b7b450473bd31845dec158bf4ba9b9a40525b02fbd997fabe405caed05f"
+    },
+    {
+      "title": "隴西行 (陳陶)",
+      "pageId": 25621,
+      "revisionId": 1992304,
+      "revision": "1992304",
+      "timestamp": "2020-11-03T06:29:18Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1992304",
+      "parent": "唐詩三百首",
+      "unitTitle": "隴西行（陳陶）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "568591ccd5c37c2000ddfce83d7abb0c1a92027125349c268e26d38ff1f61a7f"
+    },
+    {
+      "title": "雜詩 (無名氏)",
+      "pageId": 23410,
+      "revisionId": 1992300,
+      "revision": "1992300",
+      "timestamp": "2020-11-03T06:29:04Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1992300",
+      "parent": "唐詩三百首",
+      "unitTitle": "雜詩（無名氏）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3a62ea5dbab96470e950f3a65dcab7d7004824b12f0f8831a466f8cb8144e982"
+    },
+    {
+      "title": "回鄉偶書 (少小離家老大回)",
+      "pageId": 40703,
+      "revisionId": 2648158,
+      "revision": "2648158",
+      "timestamp": "2026-02-10T14:52:20Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2648158",
+      "parent": "唐詩三百首",
+      "unitTitle": "回鄉偶書（賀知章）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "1fdfb47d90a67e157841cb0e5d3196a3ff9ef196f5ffb5aa0777ff059f74d8e1"
+    },
+    {
+      "title": "瑤瑟怨",
+      "pageId": 21002,
+      "revisionId": 1986874,
+      "revision": "1986874",
+      "timestamp": "2020-11-02T13:26:28Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1986874",
+      "parent": "唐詩三百首",
+      "unitTitle": "瑤瑟怨（溫庭筠）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8ea260cfa2ded10da7980c3a7c8ec4ae33b4d4c8d91af8c1039560cd5496991b"
+    },
+    {
+      "title": "月夜 (劉方平)",
+      "pageId": 23426,
+      "revisionId": 1982345,
+      "revision": "1982345",
+      "timestamp": "2020-11-02T08:25:26Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982345",
+      "parent": "唐詩三百首",
+      "unitTitle": "月夜（劉方平）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "2d82e9247602bc5fc282f181f1d39549500ab5f6b7d63d4c84cb103f20fc584f"
+    },
+    {
+      "title": "春怨 (劉方平)",
+      "pageId": 23427,
+      "revisionId": 1981956,
+      "revision": "1981956",
+      "timestamp": "2020-11-02T08:03:39Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1981956",
+      "parent": "唐詩三百首",
+      "unitTitle": "春怨（劉方平）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "854e360c5e7c8b4896eee706be2ba71fb0731bbd85e720f1d6eaebb380d47cba"
+    },
+    {
+      "title": "烏衣巷",
+      "pageId": 18977,
+      "revisionId": 2319342,
+      "revision": "2319342",
+      "timestamp": "2023-10-10T04:01:05Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2319342",
+      "parent": "唐詩三百首",
+      "unitTitle": "烏衣巷（劉禹錫）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "8e2449bcee89d7350c9aa53a3ee7bd40a789842168efe2235495968b1d9dc499"
+    },
+    {
+      "title": "春詞 (劉禹錫)",
+      "pageId": 23420,
+      "revisionId": 1439333,
+      "revision": "1439333",
+      "timestamp": "2018-04-27T12:52:11Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1439333",
+      "parent": "唐詩三百首",
+      "unitTitle": "春詞（劉禹錫）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "6d30eea8e1f0e668a040afff43f150ee5fdde2e894f45e8379d74b97b010f498"
+    },
+    {
+      "title": "馬嵬坡 (鄭畋)",
+      "pageId": 21001,
+      "revisionId": 1984197,
+      "revision": "1984197",
+      "timestamp": "2020-11-02T10:10:30Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1984197",
+      "parent": "唐詩三百首",
+      "unitTitle": "馬嵬坡（鄭畋）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "c89e5510f64c2dace78dce3e0b9ab2636f315a63753586c01bf665818fe51711"
+    },
+    {
+      "title": "寒食 (韓翃)",
+      "pageId": 21609,
+      "revisionId": 2365097,
+      "revision": "2365097",
+      "timestamp": "2024-02-06T13:39:15Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2365097",
+      "parent": "唐詩三百首",
+      "unitTitle": "寒食（韓翃）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "ca7b1f6ca5d08667c70784e68beb2fcbb1bf28fb80602fb95daa76f3c1558a0a"
+    },
+    {
+      "title": "已涼",
+      "pageId": 23412,
+      "revisionId": 1982195,
+      "revision": "1982195",
+      "timestamp": "2020-11-02T08:17:14Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1982195",
+      "parent": "唐詩三百首",
+      "unitTitle": "已涼（韓偓）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "e5f73e8ce881b5471449d9ab25cde9db3269c55b707d3bdfba7b60f84c4a60f1"
+    },
+    {
+      "title": "宮詞 (玉樓天半起笙歌)",
+      "pageId": 65040,
+      "revisionId": 1990621,
+      "revision": "1990621",
+      "timestamp": "2020-11-03T04:45:36Z",
+      "fetchedAt": "2026-10-06T15:10:04.246Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1990621",
+      "parent": "唐詩三百首",
+      "unitTitle": "宮詞（顧況）",
+      "unitPath": [
+        "七言絕句"
+      ],
+      "fetchMethod": "article-html",
+      "sha256": "3178c569219d2d4cc446d3712809be87005637dc1a9b68e13e9f3b57df080b63"
+    }
+  ],
+  "metadata": {
+    "collector": "孫洙",
+    "collector2": "徐兰英",
+    "times": "清"
+  },
+  "warnings": [
+    "short-unit: 登幽州臺歌（陳子昂）",
+    "short-unit: 玉階怨（李白）",
+    "short-unit: 江南曲（李益）",
+    "short-unit: 長干行之一（崔顥）",
+    "short-unit: 長干行之二（崔顥）",
+    "short-unit: 塞下曲之一（盧綸）",
+    "short-unit: 塞下曲之二（盧綸）",
+    "short-unit: 塞下曲之三（盧綸）",
+    "short-unit: 塞下曲之四（盧綸）",
+    "short-unit: 行宮（元稹）",
+    "short-unit: 登鸛雀樓（王之渙）",
+    "short-unit: 新嫁娘（王建）",
+    "short-unit: 雜詩（王維）",
+    "short-unit: 鹿柴（王維）",
+    "short-unit: 竹里館（王維）",
+    "short-unit: 送別（王維）",
+    "short-unit: 問劉十九（白居易）",
+    "short-unit: 哥舒歌（西鄙人）",
+    "short-unit: 靜夜思（李白）",
+    "short-unit: 怨情（李白）",
+    "short-unit: 登樂游原（李商隱）",
+    "short-unit: 聽箏（李端）",
+    "short-unit: 渡漢江（李頻）",
+    "short-unit: 八陣圖（杜甫）",
+    "short-unit: 宿建德江（孟浩然）",
+    "short-unit: 春曉（孟浩然）",
+    "short-unit: 春怨（金昌緒）",
+    "short-unit: 江雪（柳宗元）",
+    "short-unit: 秋夜寄丘員外（韋應物）",
+    "short-unit: 終南望餘雪（祖詠）",
+    "short-unit: 何滿子（張祜）",
+    "short-unit: 尋隱者不遇（賈島）",
+    "short-unit: 送崔九（裴迪）",
+    "short-unit: 送靈澈（劉長卿）",
+    "short-unit: 彈琴（劉長卿）",
+    "short-unit: 送上人（劉長卿）",
+    "short-unit: 玉臺體（權德輿）",
+    "short-unit: 隋宮（李商隱）",
+    "short-unit: 瑤池（李商隱）",
+    "short-unit: 嫦娥（李商隱）",
+    "short-unit: 夜雨寄北（李商隱）",
+    "short-unit: 寄令狐郎中（李商隱）",
+    "short-unit: 為有（李商隱）",
+    "short-unit: 金谷園（杜牧）",
+    "short-unit: 金陵圖（韋莊）"
+  ],
+  "prefaceHeadings": [
+    "蘅塘退士原序"
+  ],
+  "anthology": true,
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "c05fbd9af12854ce99df783e81855c7af23db8954546f745694c233247b5c8fa",
+  "stats": {
+    "chapters": 321,
+    "paragraphs": 1675,
+    "characters": 23068,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "work": "qianfulun",
+  "provider": "zhwikisource",
+  "rootTitle": "潛夫論",
+  "pages": [
+    {
+      "title": "潛夫論",
+      "pageId": 56077,
+      "revisionId": 2117952,
+      "revision": "2117952",
+      "timestamp": "2022-03-27T18:12:23Z",
+      "fetchedAt": "2026-10-06T15:06:49.048Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2117952",
+      "sha256": "a660d0cd3e67bab3fb11bb92d892dc48c6d77733bb4d4a9ec322c7797d7afc3b"
+    },
+    {
+      "title": "潛夫論/卷一",
+      "pageId": 56186,
+      "revisionId": 2609266,
+      "revision": "2609266",
+      "timestamp": "2025-10-24T09:47:35Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2609266",
+      "parent": "潛夫論",
+      "sha256": "05a97446d11c043db78f99e86fd9b6d88188e43d727be4c46413e1583e0b609f"
+    },
+    {
+      "title": "潛夫論/卷二",
+      "pageId": 56187,
+      "revisionId": 2607040,
+      "revision": "2607040",
+      "timestamp": "2025-10-16T05:56:16Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2607040",
+      "parent": "潛夫論",
+      "sha256": "f86c4cccca9f30a281acc9e8f178cb7aa5bb93ca3b854c32ec9425750f4fcc57"
+    },
+    {
+      "title": "潛夫論/卷三",
+      "pageId": 56188,
+      "revisionId": 2610728,
+      "revision": "2610728",
+      "timestamp": "2025-10-31T06:42:03Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2610728",
+      "parent": "潛夫論",
+      "sha256": "b215e5d85998d03d9629d4908524b67b59ba60a28bcb9a16b5b1e6b36465e49d"
+    },
+    {
+      "title": "潛夫論/卷四",
+      "pageId": 56189,
+      "revisionId": 850155,
+      "revision": "850155",
+      "timestamp": "2017-04-04T08:17:49Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850155",
+      "parent": "潛夫論",
+      "sha256": "c67deaaf5ae12c812ce4135595b27993e5de88fff5acb5be15279351c2286dd2"
+    },
+    {
+      "title": "潛夫論/卷五",
+      "pageId": 56191,
+      "revisionId": 2632386,
+      "revision": "2632386",
+      "timestamp": "2025-12-14T14:29:16Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2632386",
+      "parent": "潛夫論",
+      "sha256": "50f9db3b04fe48091fd1006a4493d4c132ddedced3c23823dd47e52744b836f0"
+    },
+    {
+      "title": "潛夫論/卷六",
+      "pageId": 56190,
+      "revisionId": 1380327,
+      "revision": "1380327",
+      "timestamp": "2018-03-06T14:02:32Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1380327",
+      "parent": "潛夫論",
+      "sha256": "c9fff5a891ceea428f6007c840be24f5ea85cc55eb2337ef67a3f0f89f2289e9"
+    },
+    {
+      "title": "潛夫論/卷七",
+      "pageId": 56192,
+      "revisionId": 850158,
+      "revision": "850158",
+      "timestamp": "2017-04-04T08:18:19Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=850158",
+      "parent": "潛夫論",
+      "sha256": "fa643d50e0c331b2bc40ab4568546de2a54820aedada4e4e48eec7c48354bc27"
+    },
+    {
+      "title": "潛夫論/卷八",
+      "pageId": 56193,
+      "revisionId": 7904725,
+      "revision": "7904725",
+      "timestamp": "2026-06-28T01:42:07Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7904725",
+      "parent": "潛夫論",
+      "sha256": "4c01946954dc4ea916d8273f5a1a74014797306e52f9e7fc340a4ce5b74b2b2a"
+    },
+    {
+      "title": "潛夫論/卷九",
+      "pageId": 56195,
+      "revisionId": 7904668,
+      "revision": "7904668",
+      "timestamp": "2026-06-28T01:39:16Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=7904668",
+      "parent": "潛夫論",
+      "sha256": "ce9ae24c922406793b8eed7e1f004486441c5cff51d2d5c264abbac5c0164787"
+    },
+    {
+      "title": "潛夫論/卷十",
+      "pageId": 56194,
+      "revisionId": 2632500,
+      "revision": "2632500",
+      "timestamp": "2025-12-14T14:45:05Z",
+      "fetchedAt": "2026-10-06T15:08:39.632Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2632500",
+      "parent": "潛夫論",
+      "sha256": "67d68ac098f26a44a7bab9cf146db42edff933816b9746a155ff631d1c402f04"
+    }
+  ],
+  "metadata": {
+    "author": "王符",
+    "times": "東漢",
+    "type": "儒家"
+  },
+  "warnings": [
+    "source-missing-glyph: 正列第二十六",
+    "source-missing-glyph: 五德誌第三十四",
+    "source-missing-glyph: 誌氏姓第三十五",
+    "source-missing-glyph: 敘錄第三十六"
+  ],
+  "splitHeadings": true,
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "968f576b990cbd1a373e2a01e5c01c289b13056862caaea6849f484d39679ef9",
+  "stats": {
+    "chapters": 36,
+    "paragraphs": 216,
+    "characters": 54664,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}

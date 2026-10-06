@@ -1,21 +1,22 @@
-import {parseFragment} from 'parse5';
+import {parseFragment,serializeOuter} from 'parse5';
 import type {DefaultTreeAdapterMap} from 'parse5';
 type Node = DefaultTreeAdapterMap['node'];
-export type Block = {text:string; headingPath:string[]; role?:'source-commentary'};
+export type Block = {text:string; headingPath:string[]; role?:'source-commentary';headingOrdinal?:number};
 export const normalize = (text:string) => text.normalize('NFC').replace(/[\u200b\ufeff]/g,'').replace(/\s+/gu,' ').trim();
 const attr=(n:Node,key:string)=> 'attrs' in n ? n.attrs.find(a=>a.name===key)?.value??'' : '';
 const children=(n:Node):Node[]=>'childNodes' in n?n.childNodes:[];
 const plain=(n:Node):string=>'value' in n?n.value:children(n).map(plain).join('');
 const skipClasses=/^(?:mw-editsection|mw-empty-elt|mw-indicators|noprint|navbox|vertical-navbox|catlinks|ws-noexport|ws-noinclude|licenseContainer|licensetpl|reference|references|reflist|header|ws-header|ws-footer|wst-header|wst-footer|header-container|headerTemplate|headertemplate|sisitem|sistersitebox|thumb|thumbinner|pagenum|wst-pagenum|mw-cite-backlink|toc|printfooter|authority-control)$/i;
-export function normalizeHtml(html:string):Block[]{
- const tree=parseFragment(html); const blocks:Block[]=[];let buffer='';const headings:string[]=[];
- const flush=()=>{const text=normalize(buffer);buffer='';if(text)blocks.push({text,headingPath:headings.filter(Boolean).slice()});};
+export function normalizeHtml(html:string,trackHeadings=false,primaryText=false):Block[]{
+ const tree=parseFragment(html); const blocks:Block[]=[];let buffer='';let headingOrdinal=0;const headings:string[]=[];
+ const flush=()=>{const text=normalize(buffer);buffer='';if(text)blocks.push({text,headingPath:headings.filter(Boolean).slice(),...(trackHeadings?{headingOrdinal}:{})});};
  function walk(n:Node){
   if('value' in n){buffer+=n.value;return;}
   if(!('tagName' in n)){for(const c of children(n))walk(c);return;}
   const tag=n.tagName;
+  if(primaryText&&attr(n,'class').split(/\s+/).includes('variant-tooltip'))return;
   if(['script','style','noscript','nav','figure','img','math','audio','video','rt','rp'].includes(tag)||attr(n,'class').split(/\s+/).some(c=>skipClasses.test(c))||/^(?:header|footer|toc|catlinks|license|ws-data)/i.test(attr(n,'id'))||attr(n,'role')==='navigation')return;
-  if(/^h[1-6]$/.test(tag)){flush();const level=Number(tag[1])-1;headings.length=level;headings[level]=normalize(plain(n).replace(/\[編輯\]|\[编辑\]/g,''));return;}
+  if(/^h[1-6]$/.test(tag)){flush();if(/^h[12]$/.test(tag))headingOrdinal++;const level=Number(tag[1])-1;headings.length=level;headings[level]=normalize(plain(n).replace(/\[編輯\]|\[编辑\]/g,''));return;}
   if(tag==='br'){flush();return;}
   const block=['p','div','li','dd','dt','tr','blockquote','pre','ul','ol','dl','table'].includes(tag);
   if(block)flush();if(tag==='td'||tag==='th')buffer+=' ';
@@ -23,6 +24,23 @@ export function normalizeHtml(html:string):Block[]{
   if(block)flush();
  }
  walk(tree);flush();return blocks;
+}
+export function articleBodyHtml(html:string):string{
+ let content:Node|undefined;let body:Node|undefined;
+ function findContent(n:Node){if(content)return;if('tagName' in n&&attr(n,'id')==='mw-content-text'){content=n;return;}for(const c of children(n))findContent(c);}
+ function findBody(n:Node){if(body)return;if('tagName' in n&&attr(n,'class').split(/\s+/).includes('mw-parser-output')){body=n;return;}for(const c of children(n))findBody(c);}
+ findContent(parseFragment(html));if(content)findBody(content);
+ if(!body)throw new Error('Wikisource article body missing');return serializeOuter(body);
+}
+export function normalizePoetryHtml(html:string,selection?:{heading?:string;poem?:number;paragraph?:number}):Block[]{
+ const poems:Node[]=[];
+ function visit(n:Node){if('tagName' in n&&n.tagName==='div'&&attr(n,'class').split(/\s+/).includes('poem')){poems.push(n);return;}for(const c of children(n))visit(c);}
+ visit(parseFragment(html));
+ if(selection?.heading){const blocks=normalizeHtml(html,false,true).filter(b=>b.headingPath.includes(selection.heading!));if(!blocks.length)throw new Error('Selected poem heading missing');return blocks;}
+ if(selection?.paragraph){const block=normalizeHtml(html,false,true)[selection.paragraph-1];if(!block)throw new Error('Selected poem paragraph missing');return [block];}
+ if(poems.length){const index=(selection?.poem??1)-1;if(poems.length>1&&!selection?.poem)throw new Error('Multiple poems require source selection');if(!poems[index])throw new Error('Selected poem missing');return normalizeHtml(serializeOuter(poems[index]),false,true);}
+ if(selection?.poem)throw new Error('Selected poem missing');
+ return normalizeHtml(html,false,true);
 }
 export function residue(text:string):string[]{
  const warnings:string[]=[];

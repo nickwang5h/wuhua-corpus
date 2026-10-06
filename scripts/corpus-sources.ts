@@ -2,13 +2,13 @@ import type {SourceImage} from '../src/types.js';
 import {fetchImage,verifyImage} from './corpus-images.js';
 import {createHash} from 'node:crypto';
 import {mkdir,readFile,writeFile} from 'node:fs/promises';
-import {normalize,normalizeHtml,imageFiles,type Block} from './corpus-normalize.js';
+import {normalize,normalizeHtml,normalizePoetryHtml,articleBodyHtml,imageFiles,type Block} from './corpus-normalize.js';
 export type Target={id:string;title:string;priority?:'P0'|'P1'|'P2'};
 export type Provider='gujilab'|'zhwikisource'|'guopop'|'daizhige'|'nk2028';
-export type Override={provider?:Provider;aliases?:string[];archivePath?:string;rootTitle?:string;excludePages?:string[];gujilabPath?:string;expectedUnits?:number;reason?:string};
-export type SourcePage={title:string;pageId?:number;revisionId?:number;timestamp:string;fetchedAt:string;source:string;revision:string;parent?:string;sha256?:string;images?:SourceImage[]};
-export type Unit={identity:string;title:string;source:string;path:string[];blocks:Block[];images?:SourceImage[]};
-export type Plan={work:string;provider:Provider;rootTitle:string;pages:SourcePage[];metadata:Record<string,string>;warnings:string[];candidates?:string[]};
+export type Override={provider?:Provider;aliases?:string[];archivePath?:string;rootTitle?:string;excludePages?:string[];gujilabPath?:string;expectedUnits?:number;splitHeadings?:boolean;prefaceHeadings?:string[];anthology?:boolean;articleHtml?:boolean;omitLines?:string[];headingLines?:string[];bodySelections?:Record<string,{heading?:string;poem?:number;paragraph?:number}>;reason?:string};
+export type SourcePage={title:string;pageId?:number;revisionId?:number;timestamp:string;fetchedAt:string;source:string;revision:string;parent?:string;sha256?:string;fetchMethod?:'article-html';unitTitle?:string;unitPath?:string[];bodySelection?:{heading?:string;poem?:number;paragraph?:number};images?:SourceImage[]};
+export type Unit={identity:string;title:string;source:string;path:string[];kind?:'chapter'|'anthology-item';blocks:Block[];images?:SourceImage[]};
+export type Plan={work:string;provider:Provider;rootTitle:string;pages:SourcePage[];metadata:Record<string,string>;warnings:string[];splitHeadings?:boolean;prefaceHeadings?:string[];anthology?:boolean;articleHtml?:boolean;omitLines?:string[];headingLines?:string[];candidates?:string[]};
 export const root=new URL('../',import.meta.url);
 const cache=new URL('.cache/wuhua-corpus/requests/',root);
 export const digest=(s:string)=>createHash('sha256').update(s).digest('hex');
@@ -16,13 +16,13 @@ export async function jsonFile<T>(path:string):Promise<T>{return JSON.parse(awai
 export async function save(path:string,value:unknown){const file=new URL(path,root);await mkdir(new URL('.',file),{recursive:true});await writeFile(file,JSON.stringify(value,null,2)+'\n');}
 let wikiQueue:Promise<void>=Promise.resolve();
 let wikiLast=0;
-export async function request(url:string,offline=false):Promise<{body:any;fetchedAt:string}>{
+export async function request(url:string,offline=false,format:'json'|'text'='json'):Promise<{body:any;fetchedAt:string}>{
  const parsed=new URL(url);if(parsed.protocol!=='https:'||!['commons.wikimedia.org','zh.wikisource.org','api.github.com','raw.githubusercontent.com'].includes(parsed.hostname))throw new Error('Untrusted upstream URL');
  const file=new URL(digest(url)+'.json',cache);
  try{return JSON.parse(await readFile(file,'utf8'));}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
  if(offline)throw new Error('Raw cache missing; run corpus:fetch first');
  let error:unknown;
- for(let attempt=0;attempt<6;attempt++){try{if(['zh.wikisource.org','commons.wikimedia.org'].includes(parsed.hostname)){const wait=wikiQueue.then(async()=>{await new Promise(r=>setTimeout(r,Math.max(0,3500-(Date.now()-wikiLast))));wikiLast=Date.now();});wikiQueue=wait;await wait;}const res=await fetch(url,{headers:{'User-Agent':'WuhuaCorpus/1.0 (personal classical text archive)'},signal:AbortSignal.timeout(45000)});if(res.status===429){const seconds=Number(res.headers.get('retry-after'))||30;wikiLast=Date.now()+Math.min(seconds,60)*1000;}if(!res.ok)throw new Error(`HTTP ${res.status} ${url}`);const raw=await res.text();const body:any=parsed.pathname.endsWith('.txt')?raw:JSON.parse(raw);if(body.error)throw new Error(JSON.stringify(body.error));const result={body,fetchedAt:new Date().toISOString()};await mkdir(cache,{recursive:true});await writeFile(file,JSON.stringify(result));return result;}catch(e){error=e;if(attempt<5)await new Promise(r=>setTimeout(r,1000*(attempt+1)));}}
+ for(let attempt=0;attempt<6;attempt++){try{if(['zh.wikisource.org','commons.wikimedia.org'].includes(parsed.hostname)){const wait=wikiQueue.then(async()=>{await new Promise(r=>setTimeout(r,Math.max(0,(format==='text'&&parsed.pathname==='/w/index.php'?1000:3500)-(Date.now()-wikiLast))));wikiLast=Date.now();});wikiQueue=wait;await wait;}const res=await fetch(url,{headers:{'User-Agent':'WuhuaCorpus/1.0 (personal classical text archive)'},signal:AbortSignal.timeout(45000)});if(res.status===429){const seconds=Number(res.headers.get('retry-after'))||30;wikiLast=Date.now()+Math.min(seconds,60)*1000;}if(!res.ok)throw new Error(`HTTP ${res.status} ${url}`);const raw=await res.text();const body:any=parsed.pathname.endsWith('.txt')||format==='text'?raw:JSON.parse(raw);if(body.error)throw new Error(JSON.stringify(body.error));const result={body,fetchedAt:new Date().toISOString()};await mkdir(cache,{recursive:true});await writeFile(file,JSON.stringify(result));return result;}catch(e){error=e;if(attempt<5)await new Promise(r=>setTimeout(r,1000*(attempt+1)));}}
  throw error;
 }
 async function api(params:Record<string,string>){const u=new URL('https://zh.wikisource.org/w/api.php');u.search=new URLSearchParams({format:'json',formatversion:'2',maxlag:'5',...params}).toString();return request(u.href);}
@@ -34,10 +34,33 @@ export function childTitles(raw:string,title:string,workRoot:string):string[]{
  if(header){let depth=0;let end=header.index;for(;end<clean.length-1;end++){const pair=clean.slice(end,end+2);if(pair==='{{'){depth++;end++;}else if(pair==='}}'){depth--;end++;if(depth===0){end++;break;}}}clean=clean.slice(0,header.index)+clean.slice(end);}
  const found:string[]=[];
  for(const m of clean.matchAll(/\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]/g)){
-  let name=m[1].trim().replace(/_/g,' ');if(name.startsWith('/'))name=title+name;
+  let name=m[1].trim().replace(/_/g,' ');if(name.startsWith('/'))name=title+'/'+name.slice(1).trim();
   if(name.startsWith(workRoot+'/')&&name!==title&&!/(?:全[覽览文]|版本|目[錄录])$/.test(name))found.push(name);
  }
  return [...new Set(found)];
+}
+export function anthologyEntries(raw:string):{title:string;unitTitle:string;unitPath:string[]}[]{
+ const entries:{title:string;unitTitle:string;unitPath:string[]}[]=[];let section='';
+ for(const line of raw.split('\n')){
+  const heading=line.match(/^==\s*(.*?)\s*==$/);if(heading){section=normalize(heading[1]);continue;}
+  const entry=line.match(/^#\s+([^\[]+?)\s*\[\[([^\]|]+)(?:\|([^\]]+))?\]\](.*)$/);
+  if(!entry)continue;
+  const author=normalize(entry[1]);const title=normalize(entry[2]);
+  const suffix=normalize(entry[4].replace(/<[^>]+>/g,''));
+  entries.push({title,unitTitle:normalize((entry[3]??title)+(suffix?' '+suffix:'')+'（'+author+'）'),unitPath:section?[section]:[]});
+ }
+ return entries;
+}
+export function splitHeadingUnits(unit:Unit):Unit[]{
+ const units:Unit[]=[];let current:Unit|undefined;let heading:string|number='';
+ for(const block of unit.blocks){
+  const next=block.headingPath.filter(Boolean)[0];
+  if(!next)throw new Error(`Missing essay heading: ${unit.title}`);
+  const boundary=block.headingOrdinal??next;
+  if(boundary!==heading){heading=boundary;current={...unit,identity:unit.identity+'#heading-'+(units.length+1),title:next,path:[...unit.path,unit.title],blocks:[]};units.push(current);}
+  current!.blocks.push(block);
+ }
+ return units;
 }
 type WikiResult={page:SourcePage;raw:string};
 const wikiMemory=new Map<string,WikiResult>();
@@ -63,8 +86,10 @@ export class WikisourceSource{
   }
   const rootTitle=first.page.title;const pages:SourcePage[]=[first.page];const warnings:string[]=[];
   const metadata:Record<string,string>={};
-  for(const key of ['author','author2','times','type']){const m=first.raw.match(new RegExp('\\|\\s*'+key+'\\s*=\\s*([^|}\n]+)'));if(m)metadata[key]=normalize(m[1]);}
-  const seen=new Set([rootTitle]);const queue=childTitles(first.raw,rootTitle,rootTitle).map(title=>({title,parent:rootTitle}));
+  for(const key of ['author','author2','collector','collector2','times','type']){const m=first.raw.match(new RegExp('\\|\\s*'+key+'\\s*=\\s*([^|}\n]+)'));if(m)metadata[key]=normalize(m[1]);}
+  const entries=override.anthology?anthologyEntries(first.raw):[];
+  const entryByTitle=new Map(entries.map(e=>[e.title,e]));
+  const seen=new Set([rootTitle]);const queue=(entries.length?entries:childTitles(first.raw,rootTitle,rootTitle).map(title=>({title}))).map(e=>({title:e.title,parent:rootTitle}));
   if(!queue.length){
    // Prefix enumeration recovers works whose contents are supplied by templates.
    let continuation:Record<string,string>={};const prefix:string[]=[];
@@ -76,28 +101,53 @@ export class WikisourceSource{
    if(!wikiMemory.has(queue[0].title)&&!wikiMissing.has(queue[0].title))await wikiPages(queue.slice(0,40).map(q=>q.title));
    const next=queue.shift()!;if(seen.has(next.title)||override.excludePages?.includes(next.title))continue;seen.add(next.title);
    const p=await wikiPage(next.title);if(pages.some(x=>x.pageId===p.page.pageId))continue;
-   pages.push({...p.page,parent:next.parent});
+   const entry=entryByTitle.get(next.title);pages.push({...p.page,parent:next.parent,...(entry?{unitTitle:entry.unitTitle,unitPath:entry.unitPath,...(override.articleHtml?{fetchMethod:'article-html' as const}:{})}:{}),...(override.bodySelections?.[p.page.title]?{bodySelection:override.bodySelections[p.page.title]}:{})});
    // Follow only descendants, never previous/next links to siblings or other books.
    for(const title of childTitles(p.raw,p.page.title,rootTitle).filter(t=>t.startsWith(p.page.title+'/')))queue.push({title,parent:p.page.title});
    if(pages.length>1500)throw new Error('Discovery exceeds 1500 pages; narrow edition root');
   }
   if(/\{\{(?:消歧義|disambig|版本信息)/i.test(first.raw)&&pages.length===1)throw new Error('Edition selection required');
-  return {work:target.id,provider:'zhwikisource',rootTitle,pages,metadata,warnings};
+  return {work:target.id,provider:'zhwikisource',rootTitle,pages,metadata,warnings,...(override.splitHeadings?{splitHeadings:true}:{}),...(override.prefaceHeadings?{prefaceHeadings:override.prefaceHeadings}:{}),...(override.anthology?{anthology:true}:{})};
  }
- async fetch(plan:Plan):Promise<void>{for(const p of plan.pages){const {body,fetchedAt}=await api({action:'parse',oldid:p.revision!,prop:'text|links|templates',disableeditsection:'1',disabletoc:'1'});if(body.parse?.revid!==p.revisionId)throw new Error(`Revision mismatch ${p.title}`);const hash=digest(body.parse.text);if(p.sha256&&p.sha256!==hash)throw new Error(`Pinned rendered HTML changed (template dependency): ${p.title}`);p.sha256=hash;await save(`.cache/wuhua-corpus/pages/${p.revision}.json`,{html:body.parse.text,templates:body.parse.templates,fetchedAt});if(!normalizeHtml(body.parse.text).length&&!plan.pages.some(c=>c.parent===p.title)){if(p.images?.length){for(const im of p.images)await verifyImage(im);}else{const files=imageFiles(body.parse.text);if(files.length)p.images=await Promise.all(files.map(file=>fetchImage(plan.work,p,file)));}}}}
+ async fetch(plan:Plan):Promise<void>{
+  for(const p of plan.pages){
+   let html:string;let fetchedAt:string;let templates:unknown;
+   if(p.fetchMethod==='article-html'){
+    const result=await request(p.source,false,'text');
+    if(Number(result.body.match(/"wgRevisionId":(\d+)/)?.[1])!==p.revisionId)throw new Error(`Revision mismatch ${p.title}`);
+    html=articleBodyHtml(result.body);fetchedAt=result.fetchedAt;
+   }else{
+    const {body,fetchedAt:time}=await api({action:'parse',oldid:p.revision!,prop:'text|links|templates',disableeditsection:'1',disabletoc:'1'});
+    if(body.parse?.revid!==p.revisionId)throw new Error(`Revision mismatch ${p.title}`);
+    html=body.parse.text;templates=body.parse.templates;fetchedAt=time;
+   }
+   const hash=digest(html);if(p.sha256&&p.sha256!==hash)throw new Error(`Pinned rendered HTML changed (template dependency): ${p.title}`);
+   p.sha256=hash;await save(`.cache/wuhua-corpus/pages/${p.revision}.json`,{html,templates,fetchedAt});
+   if(!normalizeHtml(html).length&&!plan.pages.some(c=>c.parent===p.title)){
+    if(p.images?.length){for(const im of p.images)await verifyImage(im);}else{const files=imageFiles(html);if(files.length)p.images=await Promise.all(files.map(file=>fetchImage(plan.work,p,file)));}
+   }
+  }
+ }
  async build(plan:Plan):Promise<Unit[]>{
   const units:Unit[]=[];
   for(const p of plan.pages){
    const cached=await jsonFile<{html:string}>(`.cache/wuhua-corpus/pages/${p.revision}.json`);
    if(p.sha256&&p.sha256!==digest(cached.html))throw new Error(`Cached HTML changed: ${p.title}`);
-   const blocks=normalizeHtml(cached.html);
+   const blocks=(plan.anthology&&p.unitTitle?normalizePoetryHtml(cached.html,p.bodySelection):normalizeHtml(cached.html,plan.splitHeadings));
    const children=plan.pages.filter(c=>c.parent===p.title);
-   if(children.length)continue; // TOC pages are relationships, not body chapters.
+   if(children.length){
+    if(p.title===plan.rootTitle&&plan.prefaceHeadings?.length){
+     const preface=normalizeHtml(cached.html,true).filter(b=>plan.prefaceHeadings!.includes(b.headingPath.filter(Boolean)[0]));
+     if(!preface.length)throw new Error('Selected anthology preface missing');
+     units.push(...splitHeadingUnits({identity:String(p.pageId),title:plan.rootTitle,source:p.source,path:[],blocks:preface}).map(u=>({...u,kind:'chapter' as const})));
+    }
+    continue; // TOC links are relationships, not body chapters.
+   }
    if(!blocks.length&&!p.images?.length)throw new Error(`Empty body ${p.title}`);
    for(const im of p.images??[])await verifyImage(im);
-   units.push({identity:String(p.pageId),title:p.title===plan.rootTitle?p.title:p.title.slice(plan.rootTitle.length+1),source:p.source,path:p.title.slice(plan.rootTitle.length+1).split('/').slice(0,-1).filter(Boolean),blocks,...(p.images?.length?{images:p.images}:{})});
+   units.push({identity:String(p.pageId),title:p.unitTitle??(p.title===plan.rootTitle?p.title:p.title.slice(plan.rootTitle.length+1)),source:p.source,path:p.unitPath??p.title.slice(plan.rootTitle.length+1).split('/').slice(0,-1).filter(Boolean),blocks,...(p.images?.length?{images:p.images}:{})});
   }
-  return units;
+  return plan.splitHeadings?units.flatMap(splitHeadingUnits):units;
  }
 }
 export class GujilabSource{

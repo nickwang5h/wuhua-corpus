@@ -1,0 +1,71 @@
+{
+  "work": "zhonglun",
+  "provider": "zhwikisource",
+  "rootTitle": "中論 (儒家)",
+  "pages": [
+    {
+      "title": "中論 (儒家)",
+      "pageId": 56750,
+      "revisionId": 2435246,
+      "revision": "2435246",
+      "timestamp": "2024-07-09T14:09:12Z",
+      "fetchedAt": "2026-10-06T15:08:50.045Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2435246",
+      "sha256": "da6b2d76c34a3862de74099f230b69edd07e966e8c79212b74245cb8b8a1afef"
+    },
+    {
+      "title": "中論 (儒家)/卷之上",
+      "pageId": 56928,
+      "revisionId": 2380255,
+      "revision": "2380255",
+      "timestamp": "2024-03-29T04:37:46Z",
+      "fetchedAt": "2026-10-06T15:08:57.069Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2380255",
+      "parent": "中論 (儒家)",
+      "sha256": "fcb8b3dbf32a8413510c63c1ee5f1a4d09b37f29bf15f552e3635e78f847432d"
+    },
+    {
+      "title": "中論 (儒家)/卷之下",
+      "pageId": 56929,
+      "revisionId": 1162492,
+      "revision": "1162492",
+      "timestamp": "2017-07-22T16:01:18Z",
+      "fetchedAt": "2026-10-06T15:08:57.069Z",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=1162492",
+      "parent": "中論 (儒家)",
+      "sha256": "a23a9c0a22e541a499aa4837751023fa389b8cec7e46553d724373916ba246a5"
+    }
+  ],
+  "metadata": {
+    "author": "徐幹",
+    "times": "東漢"
+  },
+  "warnings": [
+    "source-missing-glyph: 治學第一",
+    "source-missing-glyph: 脩本第三",
+    "source-missing-glyph: 虛道第四",
+    "source-missing-glyph: 貴言第六",
+    "source-missing-glyph: 智行第九",
+    "source-missing-glyph: 爵祿第十",
+    "source-missing-glyph: 譴交第十二",
+    "source-missing-glyph: 夭壽第十四",
+    "source-missing-glyph: 審大臣第十六",
+    "source-missing-glyph: 亡國第十八"
+  ],
+  "splitHeadings": true,
+  "normalizer": "wuhua-html-v1",
+  "license": {
+    "name": "Wikisource contributor terms; underlying work rights retained upstream",
+    "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
+    "attribution": "中文維基文庫貢獻者"
+  },
+  "normalizedSha256": "772c1852baf5a3ca198ae4d2f19f7439344a6e6a3989be665812805d7ba950a4",
+  "stats": {
+    "chapters": 20,
+    "paragraphs": 22,
+    "characters": 21811,
+    "emptyChapters": 0,
+    "images": 0,
+    "imageChapters": 0
+  }
+}
