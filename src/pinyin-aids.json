@@ -20597,5 +20597,4556 @@
             "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/histories/shiji.json",
             "note": "已按整句及相邻语境进行AI草稿核对：史记·平原君虞卿列传：锥处嚢中。核对多音、稀字、异体及轻声：夫@598=fú：句首发语助词，按用户确认读fú；处@602=chǔ：处世，处于世间，动词chǔ；若@606=ruò：如、好像义；处@609=chǔ：锥处囊中，锥处在袋内，动词chǔ；嚢@610=náng：囊的异体；装锥的袋子，读náng；中@611=zhōng：中间、内部义；其@612=qí：第三人称指代或领属；见@615=xiàn：其末立见，锥尖立即显现，通现读xiàn。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://www.zdic.net/hans/嚢。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
         }
+    },
+    {
+        "id": "p-shuihuzhuan-013d1ca7547c61a2-2432-pinyin-318-346",
+        "target": "p-shuihuzhuan-013d1ca7547c61a2-2432",
+        "version": "sha256:608d1075a6f513ae7121efa49e72d7288ee5ac6f3fe03c6873887641b807e883",
+        "kind": "pinyin",
+        "start": 318,
+        "end": 346,
+        "tokens": [
+            {
+                "start": 318,
+                "end": 319,
+                "text": "仰",
+                "pinyin": "yǎng"
+            },
+            {
+                "start": 319,
+                "end": 320,
+                "text": "面",
+                "pinyin": "miàn"
+            },
+            {
+                "start": 320,
+                "end": 321,
+                "text": "看",
+                "pinyin": "kàn"
+            },
+            {
+                "start": 321,
+                "end": 322,
+                "text": "时",
+                "pinyin": "shí"
+            },
+            {
+                "start": 323,
+                "end": 324,
+                "text": "风",
+                "pinyin": "fēng"
+            },
+            {
+                "start": 324,
+                "end": 325,
+                "text": "刮",
+                "pinyin": "guā"
+            },
+            {
+                "start": 325,
+                "end": 326,
+                "text": "起",
+                "pinyin": "qǐ"
+            },
+            {
+                "start": 326,
+                "end": 327,
+                "text": "那",
+                "pinyin": "nà"
+            },
+            {
+                "start": 327,
+                "end": 328,
+                "text": "面",
+                "pinyin": "miàn"
+            },
+            {
+                "start": 328,
+                "end": 329,
+                "text": "杏",
+                "pinyin": "xìng"
+            },
+            {
+                "start": 329,
+                "end": 330,
+                "text": "黄",
+                "pinyin": "huáng"
+            },
+            {
+                "start": 330,
+                "end": 331,
+                "text": "旗",
+                "pinyin": "qí"
+            },
+            {
+                "start": 331,
+                "end": 332,
+                "text": "来",
+                "pinyin": "lái"
+            },
+            {
+                "start": 333,
+                "end": 334,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 334,
+                "end": 335,
+                "text": "面",
+                "pinyin": "miàn"
+            },
+            {
+                "start": 335,
+                "end": 336,
+                "text": "绣",
+                "pinyin": "xiù"
+            },
+            {
+                "start": 336,
+                "end": 337,
+                "text": "着",
+                "pinyin": "zhe"
+            },
+            {
+                "start": 338,
+                "end": 339,
+                "text": "替",
+                "pinyin": "tì"
+            },
+            {
+                "start": 339,
+                "end": 340,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 340,
+                "end": 341,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 341,
+                "end": 342,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 343,
+                "end": 344,
+                "text": "四",
+                "pinyin": "sì"
+            },
+            {
+                "start": 344,
+                "end": 345,
+                "text": "字",
+                "pinyin": "zì"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:608d1075a6f513ae7121efa49e72d7288ee5ac6f3fe03c6873887641b807e883"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sanguoyanyi-b0440f81d0144ab8-0004-pinyin-77-97",
+        "target": "p-sanguoyanyi-b0440f81d0144ab8-0004",
+        "version": "sha256:0108d8fae012ca7ce7fb0ca955303bfa3a1a34a1652856ad953abfa072d24cdc",
+        "kind": "pinyin",
+        "start": 77,
+        "end": 97,
+        "tokens": [
+            {
+                "start": 77,
+                "end": 78,
+                "text": "欲",
+                "pinyin": "yù"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "破",
+                "pinyin": "pò"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "曹",
+                "pinyin": "cáo"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "公",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "宜",
+                "pinyin": "yí"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "火",
+                "pinyin": "huǒ"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "攻",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 87,
+                "end": 88,
+                "text": "萬",
+                "pinyin": "wàn"
+            },
+            {
+                "start": 88,
+                "end": 89,
+                "text": "事",
+                "pinyin": "shì"
+            },
+            {
+                "start": 89,
+                "end": 90,
+                "text": "俱",
+                "pinyin": "jù"
+            },
+            {
+                "start": 90,
+                "end": 91,
+                "text": "備",
+                "pinyin": "bèi"
+            },
+            {
+                "start": 92,
+                "end": 93,
+                "text": "只",
+                "pinyin": "zhǐ"
+            },
+            {
+                "start": 93,
+                "end": 94,
+                "text": "欠",
+                "pinyin": "qiàn"
+            },
+            {
+                "start": 94,
+                "end": 95,
+                "text": "東",
+                "pinyin": "dōng"
+            },
+            {
+                "start": 95,
+                "end": 96,
+                "text": "風",
+                "pinyin": "fēng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:0108d8fae012ca7ce7fb0ca955303bfa3a1a34a1652856ad953abfa072d24cdc"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=2568012",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-liji-b81c51ec9040b696-0001-pinyin-76-87",
+        "target": "p-liji-b81c51ec9040b696-0001",
+        "version": "sha256:f9b567e38712f2f9cd090bcd10dbf8f9cd776a789bbabc37bd9182a14f144f32",
+        "kind": "pinyin",
+        "start": 76,
+        "end": 87,
+        "tokens": [
+            {
+                "start": 76,
+                "end": 77,
+                "text": "大",
+                "pinyin": "dà"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "为",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "公",
+                "pinyin": "gōng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:f9b567e38712f2f9cd090bcd10dbf8f9cd776a789bbabc37bd9182a14f144f32"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-shuihuzhuan-013d1ca7547c61a2-0416-pinyin-288-320",
+        "target": "p-shuihuzhuan-013d1ca7547c61a2-0416",
+        "version": "sha256:34dab3f5203750448379e26b08820d6e85def1e8949fc32cfaa452e3ba05fd51",
+        "kind": "pinyin",
+        "start": 288,
+        "end": 320,
+        "tokens": [
+            {
+                "start": 288,
+                "end": 289,
+                "text": "如",
+                "pinyin": "rú"
+            },
+            {
+                "start": 289,
+                "end": 290,
+                "text": "今",
+                "pinyin": "jīn"
+            },
+            {
+                "start": 290,
+                "end": 291,
+                "text": "官",
+                "pinyin": "guān"
+            },
+            {
+                "start": 291,
+                "end": 292,
+                "text": "司",
+                "pinyin": "sī"
+            },
+            {
+                "start": 292,
+                "end": 293,
+                "text": "追",
+                "pinyin": "zhuī"
+            },
+            {
+                "start": 293,
+                "end": 294,
+                "text": "捕",
+                "pinyin": "bǔ"
+            },
+            {
+                "start": 294,
+                "end": 295,
+                "text": "小",
+                "pinyin": "xiǎo"
+            },
+            {
+                "start": 295,
+                "end": 296,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 296,
+                "end": 297,
+                "text": "紧",
+                "pinyin": "jǐn"
+            },
+            {
+                "start": 297,
+                "end": 298,
+                "text": "急",
+                "pinyin": "jí"
+            },
+            {
+                "start": 299,
+                "end": 300,
+                "text": "无",
+                "pinyin": "wú"
+            },
+            {
+                "start": 300,
+                "end": 301,
+                "text": "安",
+                "pinyin": "ān"
+            },
+            {
+                "start": 301,
+                "end": 302,
+                "text": "身",
+                "pinyin": "shēn"
+            },
+            {
+                "start": 302,
+                "end": 303,
+                "text": "处",
+                "pinyin": "chù"
+            },
+            {
+                "start": 304,
+                "end": 305,
+                "text": "特",
+                "pinyin": "tè"
+            },
+            {
+                "start": 305,
+                "end": 306,
+                "text": "投",
+                "pinyin": "tóu"
+            },
+            {
+                "start": 306,
+                "end": 307,
+                "text": "这",
+                "pinyin": "zhè"
+            },
+            {
+                "start": 307,
+                "end": 308,
+                "text": "山",
+                "pinyin": "shān"
+            },
+            {
+                "start": 308,
+                "end": 309,
+                "text": "寨",
+                "pinyin": "zhài"
+            },
+            {
+                "start": 309,
+                "end": 310,
+                "text": "里",
+                "pinyin": "lǐ"
+            },
+            {
+                "start": 310,
+                "end": 311,
+                "text": "好",
+                "pinyin": "hǎo"
+            },
+            {
+                "start": 311,
+                "end": 312,
+                "text": "汉",
+                "pinyin": "hàn"
+            },
+            {
+                "start": 312,
+                "end": 313,
+                "text": "入",
+                "pinyin": "rù"
+            },
+            {
+                "start": 313,
+                "end": 314,
+                "text": "伙",
+                "pinyin": "huǒ"
+            },
+            {
+                "start": 315,
+                "end": 316,
+                "text": "因",
+                "pinyin": "yīn"
+            },
+            {
+                "start": 316,
+                "end": 317,
+                "text": "此",
+                "pinyin": "cǐ"
+            },
+            {
+                "start": 317,
+                "end": 318,
+                "text": "要",
+                "pinyin": "yào"
+            },
+            {
+                "start": 318,
+                "end": 319,
+                "text": "去",
+                "pinyin": "qù"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:34dab3f5203750448379e26b08820d6e85def1e8949fc32cfaa452e3ba05fd51"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-xiyouji-305cc69b5e8d159d-0004-pinyin-97-132",
+        "target": "p-xiyouji-305cc69b5e8d159d-0004",
+        "version": "sha256:d31faffefb74e952b00b003568e3260696ef47a2baa3e423f38c54a17f6858e1",
+        "kind": "pinyin",
+        "start": 97,
+        "end": 132,
+        "tokens": [
+            {
+                "start": 97,
+                "end": 98,
+                "text": "只",
+                "pinyin": "zhǐ"
+            },
+            {
+                "start": 98,
+                "end": 99,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 99,
+                "end": 100,
+                "text": "風",
+                "pinyin": "fēng"
+            },
+            {
+                "start": 100,
+                "end": 101,
+                "text": "攪",
+                "pinyin": "jiǎo"
+            },
+            {
+                "start": 101,
+                "end": 102,
+                "text": "得",
+                "pinyin": "de"
+            },
+            {
+                "start": 102,
+                "end": 103,
+                "text": "煙",
+                "pinyin": "yān"
+            },
+            {
+                "start": 103,
+                "end": 104,
+                "text": "來",
+                "pinyin": "lái"
+            },
+            {
+                "start": 105,
+                "end": 106,
+                "text": "把",
+                "pinyin": "bǎ"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 107,
+                "end": 108,
+                "text": "雙",
+                "pinyin": "shuāng"
+            },
+            {
+                "start": 108,
+                "end": 109,
+                "text": "眼",
+                "pinyin": "yǎn"
+            },
+            {
+                "start": 109,
+                "end": 110,
+                "text": "火",
+                "pinyin": "huǒ"
+            },
+            {
+                "start": 110,
+                "end": 111,
+                "text": "煼",
+                "pinyin": "chǎo"
+            },
+            {
+                "start": 111,
+                "end": 112,
+                "text": "紅",
+                "pinyin": "hóng"
+            },
+            {
+                "start": 112,
+                "end": 113,
+                "text": "了",
+                "pinyin": "le"
+            },
+            {
+                "start": 114,
+                "end": 115,
+                "text": "弄",
+                "pinyin": "nòng"
+            },
+            {
+                "start": 115,
+                "end": 116,
+                "text": "做",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 116,
+                "end": 117,
+                "text": "個",
+                "pinyin": "gè"
+            },
+            {
+                "start": 117,
+                "end": 118,
+                "text": "老",
+                "pinyin": "lǎo"
+            },
+            {
+                "start": 118,
+                "end": 119,
+                "text": "害",
+                "pinyin": "hài"
+            },
+            {
+                "start": 119,
+                "end": 120,
+                "text": "病",
+                "pinyin": "bìng"
+            },
+            {
+                "start": 120,
+                "end": 121,
+                "text": "眼",
+                "pinyin": "yǎn"
+            },
+            {
+                "start": 122,
+                "end": 123,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 123,
+                "end": 124,
+                "text": "喚",
+                "pinyin": "huàn"
+            },
+            {
+                "start": 124,
+                "end": 125,
+                "text": "作",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 126,
+                "end": 127,
+                "text": "火",
+                "pinyin": "huǒ"
+            },
+            {
+                "start": 127,
+                "end": 128,
+                "text": "眼",
+                "pinyin": "yǎn"
+            },
+            {
+                "start": 128,
+                "end": 129,
+                "text": "金",
+                "pinyin": "jīn"
+            },
+            {
+                "start": 129,
+                "end": 130,
+                "text": "睛",
+                "pinyin": "jīng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:d31faffefb74e952b00b003568e3260696ef47a2baa3e423f38c54a17f6858e1"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=2646669",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-liji-e8f45d774d1c0dd7-0193-pinyin-0-112",
+        "target": "p-liji-e8f45d774d1c0dd7-0193",
+        "version": "sha256:3ea6eba76504b193bb0108db642f62b8cbddf012647d8debf5feeea4efb16854",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 112,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "齐",
+                "pinyin": "qí"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "大",
+                "pinyin": "dà"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "饥",
+                "pinyin": "jī"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "黔",
+                "pinyin": "qián"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "敖",
+                "pinyin": "áo"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "为",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "于",
+                "pinyin": "yú"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "路",
+                "pinyin": "lù"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "待",
+                "pinyin": "dài"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "饿",
+                "pinyin": "è"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "饿",
+                "pinyin": "è"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "text": "蒙",
+                "pinyin": "méng"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "袂",
+                "pinyin": "mèi"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "辑",
+                "pinyin": "jí"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "屦",
+                "pinyin": "jù"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "text": "贸",
+                "pinyin": "mào"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "text": "贸",
+                "pinyin": "mào"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "然",
+                "pinyin": "rán"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "来",
+                "pinyin": "lái"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "黔",
+                "pinyin": "qián"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "敖",
+                "pinyin": "áo"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "左",
+                "pinyin": "zuǒ"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "text": "奉",
+                "pinyin": "fèng"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "右",
+                "pinyin": "yòu"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "执",
+                "pinyin": "zhí"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "饮",
+                "pinyin": "yǐn"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "嗟",
+                "pinyin": "jiē"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "来",
+                "pinyin": "lái"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "扬",
+                "pinyin": "yáng"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "目",
+                "pinyin": "mù"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "视",
+                "pinyin": "shì"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "text": "予",
+                "pinyin": "yǔ"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "text": "唯",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "text": "嗟",
+                "pinyin": "jiē"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "text": "来",
+                "pinyin": "lái"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 72,
+                "end": 73,
+                "text": "至",
+                "pinyin": "zhì"
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "text": "于",
+                "pinyin": "yú"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "斯",
+                "pinyin": "sī"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "从",
+                "pinyin": "cóng"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "谢",
+                "pinyin": "xiè"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "焉",
+                "pinyin": "yān"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "终",
+                "pinyin": "zhōng"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "食",
+                "pinyin": "shí"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 87,
+                "end": 88,
+                "text": "死",
+                "pinyin": "sǐ"
+            },
+            {
+                "start": 89,
+                "end": 90,
+                "text": "曾",
+                "pinyin": "zēng"
+            },
+            {
+                "start": 90,
+                "end": 91,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 91,
+                "end": 92,
+                "text": "闻",
+                "pinyin": "wén"
+            },
+            {
+                "start": 92,
+                "end": 93,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 93,
+                "end": 94,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 96,
+                "end": 97,
+                "text": "微",
+                "pinyin": "wēi"
+            },
+            {
+                "start": 97,
+                "end": 98,
+                "text": "与",
+                "pinyin": "yú"
+            },
+            {
+                "start": 99,
+                "end": 100,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 100,
+                "end": 101,
+                "text": "嗟",
+                "pinyin": "jiē"
+            },
+            {
+                "start": 101,
+                "end": 102,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 102,
+                "end": 103,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 103,
+                "end": 104,
+                "text": "去",
+                "pinyin": "qù"
+            },
+            {
+                "start": 105,
+                "end": 106,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "text": "谢",
+                "pinyin": "xiè"
+            },
+            {
+                "start": 107,
+                "end": 108,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 108,
+                "end": 109,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 109,
+                "end": 110,
+                "text": "食",
+                "pinyin": "shí"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:3ea6eba76504b193bb0108db642f62b8cbddf012647d8debf5feeea4efb16854"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-hongloumeng-fd3febf13ed09456-0002-pinyin-2949-2978",
+        "target": "p-hongloumeng-fd3febf13ed09456-0002",
+        "version": "sha256:21ee17296048fdcda8cd687589f08659a18b891ebda80bdea4bfe05640489609",
+        "kind": "pinyin",
+        "start": 2949,
+        "end": 2978,
+        "tokens": [
+            {
+                "start": 2949,
+                "end": 2950,
+                "text": "滿",
+                "pinyin": "mǎn"
+            },
+            {
+                "start": 2950,
+                "end": 2951,
+                "text": "屋",
+                "pinyin": "wū"
+            },
+            {
+                "start": 2951,
+                "end": 2952,
+                "text": "裡",
+                "pinyin": "lǐ"
+            },
+            {
+                "start": 2952,
+                "end": 2953,
+                "text": "東",
+                "pinyin": "dōng"
+            },
+            {
+                "start": 2953,
+                "end": 2954,
+                "text": "西",
+                "pinyin": "xī"
+            },
+            {
+                "start": 2954,
+                "end": 2955,
+                "text": "都",
+                "pinyin": "dōu"
+            },
+            {
+                "start": 2955,
+                "end": 2956,
+                "text": "只",
+                "pinyin": "zhǐ"
+            },
+            {
+                "start": 2956,
+                "end": 2957,
+                "text": "好",
+                "pinyin": "hǎo"
+            },
+            {
+                "start": 2957,
+                "end": 2958,
+                "text": "看",
+                "pinyin": "kàn"
+            },
+            {
+                "start": 2959,
+                "end": 2960,
+                "text": "都",
+                "pinyin": "dōu"
+            },
+            {
+                "start": 2960,
+                "end": 2961,
+                "text": "不",
+                "pinyin": "bu"
+            },
+            {
+                "start": 2961,
+                "end": 2962,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 2962,
+                "end": 2963,
+                "text": "呌",
+                "pinyin": "jiào"
+            },
+            {
+                "start": 2963,
+                "end": 2964,
+                "text": "什",
+                "pinyin": "shén"
+            },
+            {
+                "start": 2964,
+                "end": 2965,
+                "text": "麽",
+                "pinyin": "me"
+            },
+            {
+                "start": 2966,
+                "end": 2967,
+                "text": "我",
+                "pinyin": "wǒ"
+            },
+            {
+                "start": 2967,
+                "end": 2968,
+                "text": "越",
+                "pinyin": "yuè"
+            },
+            {
+                "start": 2968,
+                "end": 2969,
+                "text": "看",
+                "pinyin": "kàn"
+            },
+            {
+                "start": 2969,
+                "end": 2970,
+                "text": "越",
+                "pinyin": "yuè"
+            },
+            {
+                "start": 2970,
+                "end": 2971,
+                "text": "捨",
+                "pinyin": "shě"
+            },
+            {
+                "start": 2971,
+                "end": 2972,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 2972,
+                "end": 2973,
+                "text": "得",
+                "pinyin": "de"
+            },
+            {
+                "start": 2973,
+                "end": 2974,
+                "text": "離",
+                "pinyin": "lí"
+            },
+            {
+                "start": 2974,
+                "end": 2975,
+                "text": "了",
+                "pinyin": "le"
+            },
+            {
+                "start": 2975,
+                "end": 2976,
+                "text": "這",
+                "pinyin": "zhè"
+            },
+            {
+                "start": 2976,
+                "end": 2977,
+                "text": "裡",
+                "pinyin": "lǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:21ee17296048fdcda8cd687589f08659a18b891ebda80bdea4bfe05640489609"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-xiyouji-305cc69b5e8d159d-0031-pinyin-193-226",
+        "target": "p-xiyouji-305cc69b5e8d159d-0031",
+        "version": "sha256:03a655718939f8ee711ea7b4e7aef3c69991cab989c5eea73f55131971355327",
+        "kind": "pinyin",
+        "start": 193,
+        "end": 226,
+        "tokens": [
+            {
+                "start": 193,
+                "end": 194,
+                "text": "只",
+                "pinyin": "zhǐ"
+            },
+            {
+                "start": 194,
+                "end": 195,
+                "text": "教",
+                "pinyin": "jiào"
+            },
+            {
+                "start": 195,
+                "end": 196,
+                "text": "他",
+                "pinyin": "tā"
+            },
+            {
+                "start": 196,
+                "end": 197,
+                "text": "搬",
+                "pinyin": "bān"
+            },
+            {
+                "start": 197,
+                "end": 198,
+                "text": "出",
+                "pinyin": "chū"
+            },
+            {
+                "start": 198,
+                "end": 199,
+                "text": "去",
+                "pinyin": "qù"
+            },
+            {
+                "start": 200,
+                "end": 201,
+                "text": "將",
+                "pinyin": "jiāng"
+            },
+            {
+                "start": 201,
+                "end": 202,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 202,
+                "end": 203,
+                "text": "宮",
+                "pinyin": "gōng"
+            },
+            {
+                "start": 203,
+                "end": 204,
+                "text": "讓",
+                "pinyin": "ràng"
+            },
+            {
+                "start": 204,
+                "end": 205,
+                "text": "與",
+                "pinyin": "yǔ"
+            },
+            {
+                "start": 205,
+                "end": 206,
+                "text": "我",
+                "pinyin": "wǒ"
+            },
+            {
+                "start": 207,
+                "end": 208,
+                "text": "便",
+                "pinyin": "biàn"
+            },
+            {
+                "start": 208,
+                "end": 209,
+                "text": "罷",
+                "pinyin": "bà"
+            },
+            {
+                "start": 209,
+                "end": 210,
+                "text": "了",
+                "pinyin": "le"
+            },
+            {
+                "start": 211,
+                "end": 212,
+                "text": "若",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 212,
+                "end": 213,
+                "text": "還",
+                "pinyin": "hái"
+            },
+            {
+                "start": 213,
+                "end": 214,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 214,
+                "end": 215,
+                "text": "讓",
+                "pinyin": "ràng"
+            },
+            {
+                "start": 216,
+                "end": 217,
+                "text": "定",
+                "pinyin": "dìng"
+            },
+            {
+                "start": 217,
+                "end": 218,
+                "text": "要",
+                "pinyin": "yào"
+            },
+            {
+                "start": 218,
+                "end": 219,
+                "text": "攪",
+                "pinyin": "jiǎo"
+            },
+            {
+                "start": 219,
+                "end": 220,
+                "text": "攘",
+                "pinyin": "rǎng"
+            },
+            {
+                "start": 221,
+                "end": 222,
+                "text": "永",
+                "pinyin": "yǒng"
+            },
+            {
+                "start": 222,
+                "end": 223,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 223,
+                "end": 224,
+                "text": "清",
+                "pinyin": "qīng"
+            },
+            {
+                "start": 224,
+                "end": 225,
+                "text": "平",
+                "pinyin": "píng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:03a655718939f8ee711ea7b4e7aef3c69991cab989c5eea73f55131971355327"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=2646669",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-liji-160f22e2a2703166-0010-pinyin-38-51",
+        "target": "p-liji-160f22e2a2703166-0010",
+        "version": "sha256:e03fed59833bef7e782e3ac26d2d7c8d685461372df04ec17a5cb3fbfed509ce",
+        "kind": "pinyin",
+        "start": 38,
+        "end": 51,
+        "tokens": [
+            {
+                "start": 38,
+                "end": 39,
+                "text": "独",
+                "pinyin": "dú"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "学",
+                "pinyin": "xué"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "无",
+                "pinyin": "wú"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "text": "友",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "则",
+                "pinyin": "zé"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "孤",
+                "pinyin": "gū"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "陋",
+                "pinyin": "lòu"
+            },
+            {
+                "start": 47,
+                "end": 48,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "寡",
+                "pinyin": "guǎ"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "闻",
+                "pinyin": "wén"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:e03fed59833bef7e782e3ac26d2d7c8d685461372df04ec17a5cb3fbfed509ce"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-15-1-pinyin-75-84",
+        "target": "p-laozi-2354026-15-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 75,
+        "end": 84,
+        "tokens": [
+            {
+                "start": 75,
+                "end": 76,
+                "text": "孰",
+                "pinyin": "shú"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "能",
+                "pinyin": "néng"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "濁",
+                "pinyin": "zhuó"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "靜",
+                "pinyin": "jìng"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "徐",
+                "pinyin": "xú"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "清",
+                "pinyin": "qīng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sanguoyanyi-3d755a0ccdf765e5-0020-pinyin-103-119",
+        "target": "p-sanguoyanyi-3d755a0ccdf765e5-0020",
+        "version": "sha256:c54e07923981b7f1816384b11c09c5a6f4c8a752b1fda62e052f096c24d71036",
+        "kind": "pinyin",
+        "start": 103,
+        "end": 119,
+        "tokens": [
+            {
+                "start": 103,
+                "end": 104,
+                "text": "周",
+                "pinyin": "zhōu"
+            },
+            {
+                "start": 104,
+                "end": 105,
+                "text": "郎",
+                "pinyin": "láng"
+            },
+            {
+                "start": 105,
+                "end": 106,
+                "text": "妙",
+                "pinyin": "miào"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "text": "計",
+                "pinyin": "jì"
+            },
+            {
+                "start": 107,
+                "end": 108,
+                "text": "安",
+                "pinyin": "ān"
+            },
+            {
+                "start": 108,
+                "end": 109,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 109,
+                "end": 110,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 111,
+                "end": 112,
+                "text": "陪",
+                "pinyin": "péi"
+            },
+            {
+                "start": 112,
+                "end": 113,
+                "text": "了",
+                "pinyin": "le"
+            },
+            {
+                "start": 113,
+                "end": 114,
+                "text": "夫",
+                "pinyin": "fū"
+            },
+            {
+                "start": 114,
+                "end": 115,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 115,
+                "end": 116,
+                "text": "又",
+                "pinyin": "yòu"
+            },
+            {
+                "start": 116,
+                "end": 117,
+                "text": "折",
+                "pinyin": "zhé"
+            },
+            {
+                "start": 117,
+                "end": 118,
+                "text": "兵",
+                "pinyin": "bīng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:c54e07923981b7f1816384b11c09c5a6f4c8a752b1fda62e052f096c24d71036"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=2568018",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-hongloumeng-f7c809a013bd4bcf-0007-pinyin-0-8",
+        "target": "p-hongloumeng-f7c809a013bd4bcf-0007",
+        "version": "sha256:f59bd222b2706921f0ba07240b44e376283d6132d9e7c17b5de56b8ce7acd83c",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 8,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "假",
+                "pinyin": "jiǎ"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "作",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "眞",
+                "pinyin": "zhēn"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "時",
+                "pinyin": "shí"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "眞",
+                "pinyin": "zhēn"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "亦",
+                "pinyin": "yì"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "假",
+                "pinyin": "jiǎ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:f59bd222b2706921f0ba07240b44e376283d6132d9e7c17b5de56b8ce7acd83c"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sanguoyanyi-cb8ca287544e00a3-0006-pinyin-0-17",
+        "target": "p-sanguoyanyi-cb8ca287544e00a3-0006",
+        "version": "sha256:c24886438538ab2e7526cb59c9b6d06a7cd9dc87b10a2169a788ce5001c48083",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 17,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "話",
+                "pinyin": "huà"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "說",
+                "pinyin": "shuō"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "大",
+                "pinyin": "dà"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "勢",
+                "pinyin": "shì"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "分",
+                "pinyin": "fēn"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "久",
+                "pinyin": "jiǔ"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "久",
+                "pinyin": "jiǔ"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "分",
+                "pinyin": "fēn"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:c24886438538ab2e7526cb59c9b6d06a7cd9dc87b10a2169a788ce5001c48083"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=2583915",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-shuihuzhuan-013d1ca7547c61a2-0645-pinyin-258-321",
+        "target": "p-shuihuzhuan-013d1ca7547c61a2-0645",
+        "version": "sha256:de3001335d867de34d0a8883ddbc4cb12588cd6a23a12f07c7c987ad95c0798d",
+        "kind": "pinyin",
+        "start": 258,
+        "end": 321,
+        "tokens": [
+            {
+                "start": 258,
+                "end": 259,
+                "text": "如",
+                "pinyin": "rú"
+            },
+            {
+                "start": 259,
+                "end": 260,
+                "text": "常",
+                "pinyin": "cháng"
+            },
+            {
+                "start": 260,
+                "end": 261,
+                "text": "散",
+                "pinyin": "sàn"
+            },
+            {
+                "start": 261,
+                "end": 262,
+                "text": "施",
+                "pinyin": "shī"
+            },
+            {
+                "start": 262,
+                "end": 263,
+                "text": "棺",
+                "pinyin": "guān"
+            },
+            {
+                "start": 263,
+                "end": 264,
+                "text": "材",
+                "pinyin": "cái"
+            },
+            {
+                "start": 264,
+                "end": 265,
+                "text": "药",
+                "pinyin": "yào"
+            },
+            {
+                "start": 265,
+                "end": 266,
+                "text": "饵",
+                "pinyin": "ěr"
+            },
+            {
+                "start": 267,
+                "end": 268,
+                "text": "济",
+                "pinyin": "jì"
+            },
+            {
+                "start": 268,
+                "end": 269,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 269,
+                "end": 270,
+                "text": "贫",
+                "pinyin": "pín"
+            },
+            {
+                "start": 270,
+                "end": 271,
+                "text": "苦",
+                "pinyin": "kǔ"
+            },
+            {
+                "start": 272,
+                "end": 273,
+                "text": "周",
+                "pinyin": "zhōu"
+            },
+            {
+                "start": 273,
+                "end": 274,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 274,
+                "end": 275,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 275,
+                "end": 276,
+                "text": "急",
+                "pinyin": "jí"
+            },
+            {
+                "start": 277,
+                "end": 278,
+                "text": "扶",
+                "pinyin": "fú"
+            },
+            {
+                "start": 278,
+                "end": 279,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 279,
+                "end": 280,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 280,
+                "end": 281,
+                "text": "困",
+                "pinyin": "kùn"
+            },
+            {
+                "start": 282,
+                "end": 283,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 283,
+                "end": 284,
+                "text": "此",
+                "pinyin": "cǐ"
+            },
+            {
+                "start": 284,
+                "end": 285,
+                "text": "山",
+                "pinyin": "shān"
+            },
+            {
+                "start": 285,
+                "end": 286,
+                "text": "东",
+                "pinyin": "dōng"
+            },
+            {
+                "start": 287,
+                "end": 288,
+                "text": "河",
+                "pinyin": "hé"
+            },
+            {
+                "start": 288,
+                "end": 289,
+                "text": "北",
+                "pinyin": "běi"
+            },
+            {
+                "start": 289,
+                "end": 290,
+                "text": "闻",
+                "pinyin": "wén"
+            },
+            {
+                "start": 290,
+                "end": 291,
+                "text": "名",
+                "pinyin": "míng"
+            },
+            {
+                "start": 292,
+                "end": 293,
+                "text": "都",
+                "pinyin": "dōu"
+            },
+            {
+                "start": 293,
+                "end": 294,
+                "text": "称",
+                "pinyin": "chēng"
+            },
+            {
+                "start": 294,
+                "end": 295,
+                "text": "他",
+                "pinyin": "tā"
+            },
+            {
+                "start": 295,
+                "end": 296,
+                "text": "做",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 296,
+                "end": 297,
+                "text": "及",
+                "pinyin": "jí"
+            },
+            {
+                "start": 297,
+                "end": 298,
+                "text": "时",
+                "pinyin": "shí"
+            },
+            {
+                "start": 298,
+                "end": 299,
+                "text": "雨",
+                "pinyin": "yǔ"
+            },
+            {
+                "start": 300,
+                "end": 301,
+                "text": "却",
+                "pinyin": "què"
+            },
+            {
+                "start": 301,
+                "end": 302,
+                "text": "把",
+                "pinyin": "bǎ"
+            },
+            {
+                "start": 302,
+                "end": 303,
+                "text": "他",
+                "pinyin": "tā"
+            },
+            {
+                "start": 303,
+                "end": 304,
+                "text": "比",
+                "pinyin": "bǐ"
+            },
+            {
+                "start": 304,
+                "end": 305,
+                "text": "的",
+                "pinyin": "de"
+            },
+            {
+                "start": 305,
+                "end": 306,
+                "text": "做",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 306,
+                "end": 307,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 307,
+                "end": 308,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 308,
+                "end": 309,
+                "text": "下",
+                "pinyin": "xià"
+            },
+            {
+                "start": 309,
+                "end": 310,
+                "text": "的",
+                "pinyin": "de"
+            },
+            {
+                "start": 310,
+                "end": 311,
+                "text": "及",
+                "pinyin": "jí"
+            },
+            {
+                "start": 311,
+                "end": 312,
+                "text": "时",
+                "pinyin": "shí"
+            },
+            {
+                "start": 312,
+                "end": 313,
+                "text": "雨",
+                "pinyin": "yǔ"
+            },
+            {
+                "start": 313,
+                "end": 314,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 314,
+                "end": 315,
+                "text": "般",
+                "pinyin": "bān"
+            },
+            {
+                "start": 316,
+                "end": 317,
+                "text": "能",
+                "pinyin": "néng"
+            },
+            {
+                "start": 317,
+                "end": 318,
+                "text": "救",
+                "pinyin": "jiù"
+            },
+            {
+                "start": 318,
+                "end": 319,
+                "text": "万",
+                "pinyin": "wàn"
+            },
+            {
+                "start": 319,
+                "end": 320,
+                "text": "物",
+                "pinyin": "wù"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:de3001335d867de34d0a8883ddbc4cb12588cd6a23a12f07c7c987ad95c0798d"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-daxue-ec3fa9f16b3930a2-0006-pinyin-11-19",
+        "target": "p-daxue-ec3fa9f16b3930a2-0006",
+        "version": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911",
+        "kind": "pinyin",
+        "start": 11,
+        "end": 19,
+        "tokens": [
+            {
+                "start": 11,
+                "end": 12,
+                "text": "日",
+                "pinyin": "rì"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "日",
+                "pinyin": "rì"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "新",
+                "pinyin": "xīn"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "又",
+                "pinyin": "yòu"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "日",
+                "pinyin": "rì"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "新",
+                "pinyin": "xīn"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/daxue.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-shuihuzhuan-013d1ca7547c61a2-1386-pinyin-172-203",
+        "target": "p-shuihuzhuan-013d1ca7547c61a2-1386",
+        "version": "sha256:5263dbd4b85dae2a30ed003eb98e71d716fb4353c2b56be11a04d13d842b26ff",
+        "kind": "pinyin",
+        "start": 172,
+        "end": 203,
+        "tokens": [
+            {
+                "start": 172,
+                "end": 173,
+                "text": "戴",
+                "pinyin": "dài"
+            },
+            {
+                "start": 173,
+                "end": 174,
+                "text": "宗",
+                "pinyin": "zōng"
+            },
+            {
+                "start": 174,
+                "end": 175,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 177,
+                "end": 178,
+                "text": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "start": 178,
+                "end": 179,
+                "text": "两",
+                "pinyin": "liǎng"
+            },
+            {
+                "start": 179,
+                "end": 180,
+                "text": "个",
+                "pinyin": "gè"
+            },
+            {
+                "start": 180,
+                "end": 181,
+                "text": "今",
+                "pinyin": "jīn"
+            },
+            {
+                "start": 181,
+                "end": 182,
+                "text": "番",
+                "pinyin": "fān"
+            },
+            {
+                "start": 182,
+                "end": 183,
+                "text": "却",
+                "pinyin": "què"
+            },
+            {
+                "start": 183,
+                "end": 184,
+                "text": "做",
+                "pinyin": "zuò"
+            },
+            {
+                "start": 184,
+                "end": 185,
+                "text": "个",
+                "pinyin": "gè"
+            },
+            {
+                "start": 185,
+                "end": 186,
+                "text": "至",
+                "pinyin": "zhì"
+            },
+            {
+                "start": 186,
+                "end": 187,
+                "text": "交",
+                "pinyin": "jiāo"
+            },
+            {
+                "start": 187,
+                "end": 188,
+                "text": "的",
+                "pinyin": "de"
+            },
+            {
+                "start": 188,
+                "end": 189,
+                "text": "弟",
+                "pinyin": "dì"
+            },
+            {
+                "start": 189,
+                "end": 190,
+                "text": "兄",
+                "pinyin": "xiong"
+            },
+            {
+                "start": 191,
+                "end": 192,
+                "text": "常",
+                "pinyin": "cháng"
+            },
+            {
+                "start": 192,
+                "end": 193,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 193,
+                "end": 194,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 195,
+                "end": 196,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 196,
+                "end": 197,
+                "text": "打",
+                "pinyin": "dǎ"
+            },
+            {
+                "start": 197,
+                "end": 198,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 198,
+                "end": 199,
+                "text": "成",
+                "pinyin": "chéng"
+            },
+            {
+                "start": 199,
+                "end": 200,
+                "text": "相",
+                "pinyin": "xiāng"
+            },
+            {
+                "start": 200,
+                "end": 201,
+                "text": "识",
+                "pinyin": "shí"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:5263dbd4b85dae2a30ed003eb98e71d716fb4353c2b56be11a04d13d842b26ff"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%B0%8F%E8%AF%B4/%E6%B0%B4%E6%B5%92%E4%BC%A0.txt",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sunzi-e6a093d2143eee4a-0042-pinyin-64-85",
+        "target": "p-sunzi-e6a093d2143eee4a-0042",
+        "version": "sha256:9e81d00fd47093d2a11b6c5b5bfe07bf4e48a23f6953153220194afbc7f871b9",
+        "kind": "pinyin",
+        "start": 64,
+        "end": 85,
+        "tokens": [
+            {
+                "start": 64,
+                "end": 65,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "近",
+                "pinyin": "jìn"
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "text": "待",
+                "pinyin": "dài"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "text": "遠",
+                "pinyin": "yuǎn"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "text": "佚",
+                "pinyin": "yì"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "待",
+                "pinyin": "dài"
+            },
+            {
+                "start": 72,
+                "end": 73,
+                "text": "勞",
+                "pinyin": "láo"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "text": "飽",
+                "pinyin": "bǎo"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "待",
+                "pinyin": "dài"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "饑",
+                "pinyin": "jī"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "此",
+                "pinyin": "cǐ"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "治",
+                "pinyin": "zhì"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "力",
+                "pinyin": "lì"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:9e81d00fd47093d2a11b6c5b5bfe07bf4e48a23f6953153220194afbc7f871b9"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=7906064",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-laozi-2354026-14-1-pinyin-61-92",
+        "target": "p-laozi-2354026-14-1",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 61,
+        "end": 92,
+        "tokens": [
+            {
+                "start": 61,
+                "end": 62,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "狀",
+                "pinyin": "zhuàng"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "text": "狀",
+                "pinyin": "zhuàng"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "物",
+                "pinyin": "wù"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "象",
+                "pinyin": "xiàng"
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "text": "惚",
+                "pinyin": "hū"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "恍",
+                "pinyin": "huǎng"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "迎",
+                "pinyin": "yíng"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "見",
+                "pinyin": "jiàn"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "首",
+                "pinyin": "shǒu"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "隨",
+                "pinyin": "suí"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 87,
+                "end": 88,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 88,
+                "end": 89,
+                "text": "見",
+                "pinyin": "jiàn"
+            },
+            {
+                "start": 89,
+                "end": 90,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 90,
+                "end": 91,
+                "text": "後",
+                "pinyin": "hòu"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)?oldid=2354026",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-xunzi-18037330c252fb97-0022-pinyin-0-12",
+        "target": "p-xunzi-18037330c252fb97-0022",
+        "version": "sha256:8e40c40a5cfbec845b12af9b26af8c404a7c116ad9901d8ebf33877050309d00",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 12,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "積",
+                "pinyin": "jī"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "蹞",
+                "pinyin": "kuǐ"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "步",
+                "pinyin": "bù"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "至",
+                "pinyin": "zhì"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "千",
+                "pinyin": "qiān"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "里",
+                "pinyin": "lǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:8e40c40a5cfbec845b12af9b26af8c404a7c116ad9901d8ebf33877050309d00"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%84%92%E5%AE%B6%E7%B1%BB/%E8%8D%80%E5%AD%90.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-liji-21869cd75503dca6-0124-pinyin-57-90",
+        "target": "p-liji-21869cd75503dca6-0124",
+        "version": "sha256:808ca184b7e6095053e590199d858654aa0b8c993f62f3df7973d8794a5d9f56",
+        "kind": "pinyin",
+        "start": 57,
+        "end": 90,
+        "tokens": [
+            {
+                "start": 57,
+                "end": 58,
+                "text": "张",
+                "pinyin": "zhāng"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 60,
+                "end": 61,
+                "text": "弛",
+                "pinyin": "chí"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "text": "文",
+                "pinyin": "wén"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "text": "武",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "弗",
+                "pinyin": "fú"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "能",
+                "pinyin": "néng"
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "弛",
+                "pinyin": "chí"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "张",
+                "pinyin": "zhāng"
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "text": "文",
+                "pinyin": "wén"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "武",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "text": "弗",
+                "pinyin": "fú"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "为",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "张",
+                "pinyin": "zhāng"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "弛",
+                "pinyin": "chí"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "文",
+                "pinyin": "wén"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "武",
+                "pinyin": "wǔ"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 87,
+                "end": 88,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 88,
+                "end": 89,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:808ca184b7e6095053e590199d858654aa0b8c993f62f3df7973d8794a5d9f56"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-xiyouji-afbb6855e4eda4ac-0040-pinyin-201-241",
+        "target": "p-xiyouji-afbb6855e4eda4ac-0040",
+        "version": "sha256:85713c75c36512cae0180a9fab2cdcd5c28b489cb78dcd8b19d9f44a7b1292d6",
+        "kind": "pinyin",
+        "start": 201,
+        "end": 241,
+        "tokens": [
+            {
+                "start": 201,
+                "end": 202,
+                "text": "三",
+                "pinyin": "sān"
+            },
+            {
+                "start": 202,
+                "end": 203,
+                "text": "藏",
+                "pinyin": "zàng"
+            },
+            {
+                "start": 203,
+                "end": 204,
+                "text": "見",
+                "pinyin": "jiàn"
+            },
+            {
+                "start": 204,
+                "end": 205,
+                "text": "他",
+                "pinyin": "tā"
+            },
+            {
+                "start": 205,
+                "end": 206,
+                "text": "戴",
+                "pinyin": "dài"
+            },
+            {
+                "start": 206,
+                "end": 207,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 207,
+                "end": 208,
+                "text": "帽",
+                "pinyin": "mào"
+            },
+            {
+                "start": 208,
+                "end": 209,
+                "text": "子",
+                "pinyin": "zi"
+            },
+            {
+                "start": 210,
+                "end": 211,
+                "text": "就",
+                "pinyin": "jiù"
+            },
+            {
+                "start": 211,
+                "end": 212,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 212,
+                "end": 213,
+                "text": "吃",
+                "pinyin": "chī"
+            },
+            {
+                "start": 213,
+                "end": 214,
+                "text": "乾",
+                "pinyin": "gān"
+            },
+            {
+                "start": 214,
+                "end": 215,
+                "text": "糧",
+                "pinyin": "liáng"
+            },
+            {
+                "start": 216,
+                "end": 217,
+                "text": "卻",
+                "pinyin": "què"
+            },
+            {
+                "start": 217,
+                "end": 218,
+                "text": "默",
+                "pinyin": "mò"
+            },
+            {
+                "start": 218,
+                "end": 219,
+                "text": "默",
+                "pinyin": "mò"
+            },
+            {
+                "start": 219,
+                "end": 220,
+                "text": "的",
+                "pinyin": "de"
+            },
+            {
+                "start": 220,
+                "end": 221,
+                "text": "念",
+                "pinyin": "niàn"
+            },
+            {
+                "start": 221,
+                "end": 222,
+                "text": "那",
+                "pinyin": "nà"
+            },
+            {
+                "start": 222,
+                "end": 223,
+                "text": "緊",
+                "pinyin": "jǐn"
+            },
+            {
+                "start": 223,
+                "end": 224,
+                "text": "箍",
+                "pinyin": "gū"
+            },
+            {
+                "start": 224,
+                "end": 225,
+                "text": "咒",
+                "pinyin": "zhòu"
+            },
+            {
+                "start": 225,
+                "end": 226,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 226,
+                "end": 227,
+                "text": "遍",
+                "pinyin": "biàn"
+            },
+            {
+                "start": 228,
+                "end": 229,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 229,
+                "end": 230,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 230,
+                "end": 231,
+                "text": "叫",
+                "pinyin": "jiào"
+            },
+            {
+                "start": 231,
+                "end": 232,
+                "text": "道",
+                "pinyin": "dào"
+            },
+            {
+                "start": 234,
+                "end": 235,
+                "text": "頭",
+                "pinyin": "tóu"
+            },
+            {
+                "start": 235,
+                "end": 236,
+                "text": "痛",
+                "pinyin": "tòng"
+            },
+            {
+                "start": 237,
+                "end": 238,
+                "text": "頭",
+                "pinyin": "tóu"
+            },
+            {
+                "start": 238,
+                "end": 239,
+                "text": "痛",
+                "pinyin": "tòng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:85713c75c36512cae0180a9fab2cdcd5c28b489cb78dcd8b19d9f44a7b1292d6"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=1455563",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sanguoyanyi-af2c05651c461178-0003-pinyin-93-120",
+        "target": "p-sanguoyanyi-af2c05651c461178-0003",
+        "version": "sha256:b4aedc110163bd368ec04bf99478262245877173b21b12ae6e8ac9eccec43404",
+        "kind": "pinyin",
+        "start": 93,
+        "end": 120,
+        "tokens": [
+            {
+                "start": 93,
+                "end": 94,
+                "text": "玄",
+                "pinyin": "xuán"
+            },
+            {
+                "start": 94,
+                "end": 95,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 95,
+                "end": 96,
+                "text": "徐",
+                "pinyin": "xú"
+            },
+            {
+                "start": 96,
+                "end": 97,
+                "text": "步",
+                "pinyin": "bù"
+            },
+            {
+                "start": 97,
+                "end": 98,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 98,
+                "end": 99,
+                "text": "入",
+                "pinyin": "rù"
+            },
+            {
+                "start": 100,
+                "end": 101,
+                "text": "見",
+                "pinyin": "jiàn"
+            },
+            {
+                "start": 101,
+                "end": 102,
+                "text": "先",
+                "pinyin": "xiān"
+            },
+            {
+                "start": 102,
+                "end": 103,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 103,
+                "end": 104,
+                "text": "仰",
+                "pinyin": "yǎng"
+            },
+            {
+                "start": 104,
+                "end": 105,
+                "text": "臥",
+                "pinyin": "wò"
+            },
+            {
+                "start": 105,
+                "end": 106,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "text": "草",
+                "pinyin": "cǎo"
+            },
+            {
+                "start": 107,
+                "end": 108,
+                "text": "堂",
+                "pinyin": "táng"
+            },
+            {
+                "start": 108,
+                "end": 109,
+                "text": "几",
+                "pinyin": "jī"
+            },
+            {
+                "start": 109,
+                "end": 110,
+                "text": "席",
+                "pinyin": "xí"
+            },
+            {
+                "start": 110,
+                "end": 111,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 111,
+                "end": 112,
+                "text": "上",
+                "pinyin": "shàng"
+            },
+            {
+                "start": 113,
+                "end": 114,
+                "text": "玄",
+                "pinyin": "xuán"
+            },
+            {
+                "start": 114,
+                "end": 115,
+                "text": "德",
+                "pinyin": "dé"
+            },
+            {
+                "start": 115,
+                "end": 116,
+                "text": "拱",
+                "pinyin": "gǒng"
+            },
+            {
+                "start": 116,
+                "end": 117,
+                "text": "立",
+                "pinyin": "lì"
+            },
+            {
+                "start": 117,
+                "end": 118,
+                "text": "階",
+                "pinyin": "jiē"
+            },
+            {
+                "start": 118,
+                "end": 119,
+                "text": "下",
+                "pinyin": "xià"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:b4aedc110163bd368ec04bf99478262245877173b21b12ae6e8ac9eccec43404"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=4256828",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-guwenguanzhi-2dd53c61f52a73d7-0029-pinyin-13-22",
+        "target": "p-guwenguanzhi-2dd53c61f52a73d7-0029",
+        "version": "sha256:47717e89635fdb56725178cfe3fd7db16b535f587c930adae9b36df244069662",
+        "kind": "pinyin",
+        "start": 13,
+        "end": 22,
+        "tokens": [
+            {
+                "start": 13,
+                "end": 14,
+                "text": "三",
+                "pinyin": "sān"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "顧",
+                "pinyin": "gù"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "臣",
+                "pinyin": "chén"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "於",
+                "pinyin": "yú"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "草",
+                "pinyin": "cǎo"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "廬",
+                "pinyin": "lú"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": "中",
+                "pinyin": "zhōng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:47717e89635fdb56725178cfe3fd7db16b535f587c930adae9b36df244069662"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E9%9B%86/%E6%80%BB%E9%9B%86%E7%B1%BB/%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-hongloumeng-a71e7c923093c1fa-0075-pinyin-4-11",
+        "target": "p-hongloumeng-a71e7c923093c1fa-0075",
+        "version": "sha256:9d9d3a9d385fbe833d1859a3365f3bc42c8962fc828c5ab6322824f23b7c8829",
+        "kind": "pinyin",
+        "start": 4,
+        "end": 11,
+        "tokens": [
+            {
+                "start": 4,
+                "end": 5,
+                "text": "機",
+                "pinyin": "jī"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "關",
+                "pinyin": "guān"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "算",
+                "pinyin": "suàn"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "盡",
+                "pinyin": "jìn"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "太",
+                "pinyin": "tài"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "聰",
+                "pinyin": "cōng"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "明",
+                "pinyin": "míng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:9d9d3a9d385fbe833d1859a3365f3bc42c8962fc828c5ab6322824f23b7c8829"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-xiyouji-20ea4324237503d0-0001-pinyin-38-59",
+        "target": "p-xiyouji-20ea4324237503d0-0001",
+        "version": "sha256:fe1d5cc44295fb6775444f82cf1a198be077a3dbdad13d554a4b441d5aabe239",
+        "kind": "pinyin",
+        "start": 38,
+        "end": 59,
+        "tokens": [
+            {
+                "start": 38,
+                "end": 39,
+                "text": "現",
+                "pinyin": "xiàn"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "text": "了",
+                "pinyin": "le"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "text": "本",
+                "pinyin": "běn"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": "相",
+                "pinyin": "xiàng"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "text": "撞",
+                "pinyin": "zhuàng"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "入",
+                "pinyin": "rù"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "洞",
+                "pinyin": "dòng"
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "text": "內",
+                "pinyin": "nèi"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "取",
+                "pinyin": "qǔ"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "text": "出",
+                "pinyin": "chū"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "一",
+                "pinyin": "yī"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "柄",
+                "pinyin": "bǐng"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "九",
+                "pinyin": "jiǔ"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "齒",
+                "pinyin": "chǐ"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "釘",
+                "pinyin": "dīng"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "鈀",
+                "pinyin": "pá"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "來",
+                "pinyin": "lái"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "戰",
+                "pinyin": "zhàn"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:fe1d5cc44295fb6775444f82cf1a198be077a3dbdad13d554a4b441d5aabe239"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=1455568",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-hongloumeng-f7c809a013bd4bcf-0008-pinyin-0-8",
+        "target": "p-hongloumeng-f7c809a013bd4bcf-0008",
+        "version": "sha256:97e9a4aa620e13df946520489d2d1cceb4dda5316285c205dddb48bcb3c9ed9d",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 8,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "爲",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "處",
+                "pinyin": "chù"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "還",
+                "pinyin": "hái"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "無",
+                "pinyin": "wú"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:97e9a4aa620e13df946520489d2d1cceb4dda5316285c205dddb48bcb3c9ed9d"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-sanguoyanyi-932ef4c8dbb49ff8-0003-pinyin-64-92",
+        "target": "p-sanguoyanyi-932ef4c8dbb49ff8-0003",
+        "version": "sha256:20232803d236ad2f99f3588c86e4345ceae44d50bd16b37b1152c2cef848306f",
+        "kind": "pinyin",
+        "start": 64,
+        "end": 92,
+        "tokens": [
+            {
+                "start": 64,
+                "end": 65,
+                "text": "徐",
+                "pinyin": "xú"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "徐",
+                "pinyin": "xú"
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "text": "又",
+                "pinyin": "yòu"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "text": "醒",
+                "pinyin": "xǐng"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "text": "仰",
+                "pinyin": "yǎng"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "text": "天",
+                "pinyin": "tiān"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": "長",
+                "pinyin": "cháng"
+            },
+            {
+                "start": 72,
+                "end": 73,
+                "text": "歎",
+                "pinyin": "tàn"
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "text": "曰",
+                "pinyin": "yuē"
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "既",
+                "pinyin": "jì"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "瑜",
+                "pinyin": "yú"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "text": "何",
+                "pinyin": "hé"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "text": "生",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 82,
+                "end": 83,
+                "text": "亮",
+                "pinyin": "liàng"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "連",
+                "pinyin": "lián"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "叫",
+                "pinyin": "jiào"
+            },
+            {
+                "start": 87,
+                "end": 88,
+                "text": "數",
+                "pinyin": "shù"
+            },
+            {
+                "start": 88,
+                "end": 89,
+                "text": "聲",
+                "pinyin": "shēng"
+            },
+            {
+                "start": 89,
+                "end": 90,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 90,
+                "end": 91,
+                "text": "亡",
+                "pinyin": "wáng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:20232803d236ad2f99f3588c86e4345ceae44d50bd16b37b1152c2cef848306f"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/w/index.php?oldid=2568020",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-mozi-e5d65f334f41ba93-0001-pinyin-1025-1058",
+        "target": "p-mozi-e5d65f334f41ba93-0001",
+        "version": "sha256:350edac8c9f81556d7f1467260f2a4c793d4efec07f5ffc2c233f576bb021ccc",
+        "kind": "pinyin",
+        "start": 1025,
+        "end": 1058,
+        "tokens": [
+            {
+                "start": 1025,
+                "end": 1026,
+                "text": "當",
+                "pinyin": "dāng"
+            },
+            {
+                "start": 1026,
+                "end": 1027,
+                "text": "使",
+                "pinyin": "shǐ"
+            },
+            {
+                "start": 1027,
+                "end": 1028,
+                "text": "若",
+                "pinyin": "ruò"
+            },
+            {
+                "start": 1028,
+                "end": 1029,
+                "text": "二",
+                "pinyin": "èr"
+            },
+            {
+                "start": 1029,
+                "end": 1030,
+                "text": "士",
+                "pinyin": "shì"
+            },
+            {
+                "start": 1030,
+                "end": 1031,
+                "text": "者",
+                "pinyin": "zhě"
+            },
+            {
+                "start": 1032,
+                "end": 1033,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 1033,
+                "end": 1034,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 1034,
+                "end": 1035,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 1036,
+                "end": 1037,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 1037,
+                "end": 1038,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 1038,
+                "end": 1039,
+                "text": "果",
+                "pinyin": "guǒ"
+            },
+            {
+                "start": 1040,
+                "end": 1041,
+                "text": "使",
+                "pinyin": "shǐ"
+            },
+            {
+                "start": 1041,
+                "end": 1042,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 1042,
+                "end": 1043,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 1043,
+                "end": 1044,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 1044,
+                "end": 1045,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 1045,
+                "end": 1046,
+                "text": "猶",
+                "pinyin": "yóu"
+            },
+            {
+                "start": 1046,
+                "end": 1047,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 1047,
+                "end": 1048,
+                "text": "符",
+                "pinyin": "fú"
+            },
+            {
+                "start": 1048,
+                "end": 1049,
+                "text": "節",
+                "pinyin": "jié"
+            },
+            {
+                "start": 1049,
+                "end": 1050,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 1051,
+                "end": 1052,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 1052,
+                "end": 1053,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 1053,
+                "end": 1054,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 1054,
+                "end": 1055,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 1055,
+                "end": 1056,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 1056,
+                "end": 1057,
+                "text": "也",
+                "pinyin": "yě"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:350edac8c9f81556d7f1467260f2a4c793d4efec07f5ffc2c233f576bb021ccc"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E5%A2%A8%E5%AD%90.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-lunyu-1956460-13-20-pinyin-82-106",
+        "target": "p-lunyu-1956460-13-20",
+        "version": "1",
+        "kind": "pinyin",
+        "start": 82,
+        "end": 106,
+        "tokens": [
+            {
+                "start": 82,
+                "end": 83,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 87,
+                "end": 88,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 88,
+                "end": 89,
+                "text": "果",
+                "pinyin": "guǒ"
+            },
+            {
+                "start": 90,
+                "end": 91,
+                "text": "硜",
+                "pinyin": "kēng"
+            },
+            {
+                "start": 91,
+                "end": 92,
+                "text": "硜",
+                "pinyin": "kēng"
+            },
+            {
+                "start": 92,
+                "end": 93,
+                "text": "然",
+                "pinyin": "rán"
+            },
+            {
+                "start": 94,
+                "end": 95,
+                "text": "小",
+                "pinyin": "xiǎo"
+            },
+            {
+                "start": 95,
+                "end": 96,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 96,
+                "end": 97,
+                "text": "哉",
+                "pinyin": "zāi"
+            },
+            {
+                "start": 98,
+                "end": 99,
+                "text": "抑",
+                "pinyin": "yì"
+            },
+            {
+                "start": 99,
+                "end": 100,
+                "text": "亦",
+                "pinyin": "yì"
+            },
+            {
+                "start": 100,
+                "end": 101,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 101,
+                "end": 102,
+                "text": "以",
+                "pinyin": "yǐ"
+            },
+            {
+                "start": 102,
+                "end": 103,
+                "text": "爲",
+                "pinyin": "wéi"
+            },
+            {
+                "start": 103,
+                "end": 104,
+                "text": "次",
+                "pinyin": "cì"
+            },
+            {
+                "start": 104,
+                "end": 105,
+                "text": "矣",
+                "pinyin": "yǐ"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "1"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E%2F%E5%AD%90%E8%B7%AF%E7%AC%AC%E5%8D%81%E4%B8%89?oldid=1956460",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-hongloumeng-a71e7c923093c1fa-0003-pinyin-0-16",
+        "target": "p-hongloumeng-a71e7c923093c1fa-0003",
+        "version": "sha256:7c4caaddce6f97a81417714addd68964aea24e5cafac689b1100024a6adf60b6",
+        "kind": "pinyin",
+        "start": 0,
+        "end": 16,
+        "tokens": [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "世",
+                "pinyin": "shì"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "text": "事",
+                "pinyin": "shì"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "text": "洞",
+                "pinyin": "dòng"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "明",
+                "pinyin": "míng"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "皆",
+                "pinyin": "jiē"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "學",
+                "pinyin": "xué"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": "問",
+                "pinyin": "wèn"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "人",
+                "pinyin": "rén"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "情",
+                "pinyin": "qíng"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "練",
+                "pinyin": "liàn"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "text": "逹",
+                "pinyin": "dá"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "即",
+                "pinyin": "jí"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "text": "文",
+                "pinyin": "wén"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "章",
+                "pinyin": "zhāng"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:7c4caaddce6f97a81417714addd68964aea24e5cafac689b1100024a6adf60b6"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E7%BA%A2%E6%A5%BC%E6%A2%A6.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
+    },
+    {
+        "id": "p-daxue-ec3fa9f16b3930a2-0006-pinyin-49-60",
+        "target": "p-daxue-ec3fa9f16b3930a2-0006",
+        "version": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911",
+        "kind": "pinyin",
+        "start": 49,
+        "end": 60,
+        "tokens": [
+            {
+                "start": 49,
+                "end": 50,
+                "text": "是",
+                "pinyin": "shì"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "故",
+                "pinyin": "gù"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "君",
+                "pinyin": "jūn"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "子",
+                "pinyin": "zǐ"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "无",
+                "pinyin": "wú"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "text": "所",
+                "pinyin": "suǒ"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "用",
+                "pinyin": "yòng"
+            },
+            {
+                "start": 57,
+                "end": 58,
+                "text": "其",
+                "pinyin": "qí"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "极",
+                "pinyin": "jí"
+            }
+        ],
+        "review": {
+            "status": "draft",
+            "author": "Claude (AI)",
+            "textVersion": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911"
+        },
+        "rights": {
+            "author": "Claude (AI)",
+            "license": "unreleased editorial draft",
+            "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/sishu/daxue.json",
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+        }
     }
 ]
