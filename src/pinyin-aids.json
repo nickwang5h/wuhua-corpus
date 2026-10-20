@@ -20952,7 +20952,7 @@
     {
         "id": "p-shuihuzhuan-013d1ca7547c61a2-0416-pinyin-288-320",
         "target": "p-shuihuzhuan-013d1ca7547c61a2-0416",
-        "version": "sha256:34dab3f5203750448379e26b08820d6e85def1e8949fc32cfaa452e3ba05fd51",
+        "version": "sha256:2c10cfeb0d773cbfc7c3cbea789c880de3b58b7a7e2ea83625228fe56cdcaeda",
         "kind": "pinyin",
         "start": 288,
         "end": 320,
@@ -21129,7 +21129,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:34dab3f5203750448379e26b08820d6e85def1e8949fc32cfaa452e3ba05fd51"
+            "textVersion": "sha256:2c10cfeb0d773cbfc7c3cbea789c880de3b58b7a7e2ea83625228fe56cdcaeda"
         },
         "rights": {
             "author": "Claude (AI)",
