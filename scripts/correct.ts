@@ -3,8 +3,9 @@
  *
  *   npm run content:correct -- <corrections.json> [--dry-run]
  *
- * Each item is {book, id, find, replace, reason, nth?}: `find` must occur in the
- * paragraph exactly once (or give `nth`, counting from 0). A paragraph keeps its
+ * Each item is {book, id, find, replace, reason, nth?, all?}: `find` must occur in
+ * the paragraph exactly once, or give `nth` (counting from 0), or `all` for every
+ * occurrence of a placeholder that always stands for the same character. A paragraph keeps its
  * ID; its first sourceText is kept, its version moves on (sha256 of the text, or
  * the next number for the three hand-imported books), the old version goes into
  * history with a revision transition, and pinyin or editorial aids on the old
@@ -14,7 +15,7 @@ import {readFileSync,writeFileSync} from 'node:fs';
 import {digest} from './corpus-sources.js';
 import type {TextBook,Reference,Transition} from '../src/types.js';
 
-type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number};
+type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number; all?:boolean};
 type Aid={target:string; version:string; start?:number; end?:number; review?:{textVersion?:string}; tokens?:{start:number;end:number}[]};
 const [file,flag]=process.argv.slice(2);
 if(!file)throw new Error('Usage: content:correct <corrections.json> [--dry-run]');
@@ -51,12 +52,14 @@ for(const list of byParagraph.values()){
  for(const item of list){
   const at:number[]=[];
   for(let i=text.indexOf(item.find);i>=0;i=text.indexOf(item.find,i+1))at.push(i);
-  const index=item.nth===undefined?(at.length===1?at[0]:-1):at[item.nth]??-1;
-  if(index<0)throw new Error(`${id}: “${item.find}” found ${at.length} times`);
-  // Code-point range of the change in the text before it, for aids.
-  const start=Array.from(text.slice(0,index)).length;
-  changed.push([start,start+Array.from(item.find).length]);
-  text=text.slice(0,index)+item.replace+text.slice(index+item.find.length);
+  const indexes=item.all?at:[item.nth===undefined?(at.length===1?at[0]:-1):at[item.nth]??-1];
+  if(!indexes.length||indexes.some(i=>i<0))throw new Error(`${id}: “${item.find}” found ${at.length} times`);
+  // From the end, so earlier offsets stay put; code-point ranges in the text before the change, for aids.
+  for(const index of [...indexes].reverse()){
+   const start=Array.from(text.slice(0,index)).length;
+   changed.push([start,start+Array.from(item.find).length]);
+   text=text.slice(0,index)+item.replace+text.slice(index+item.find.length);
+  }
  }
  if(text===oldText)throw new Error(`${id}: the corrections leave the text unchanged`);
  const version=/^\d+$/.test(oldVersion)?String(Number(oldVersion)+1):`sha256:${digest(text)}`;
