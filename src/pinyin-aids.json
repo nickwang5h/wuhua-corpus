@@ -15372,7 +15372,7 @@
     {
         "id": "p-mozi-fcb831c46d843d7b-0001-pinyin-481-529",
         "target": "p-mozi-fcb831c46d843d7b-0001",
-        "version": "sha256:93f3146bda585d88fd011773f3c66b2b50f9dfa0c4ed50b403c5c4af25016cc8",
+        "version": "sha256:281d5a516343499a08acf89e6a6983733fe2d1a1426c12d6ca71837e358efbe6",
         "kind": "pinyin",
         "start": 481,
         "end": 529,
@@ -15633,7 +15633,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:93f3146bda585d88fd011773f3c66b2b50f9dfa0c4ed50b403c5c4af25016cc8"
+            "textVersion": "sha256:281d5a516343499a08acf89e6a6983733fe2d1a1426c12d6ca71837e358efbe6"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -24642,7 +24642,7 @@
     {
         "id": "p-mozi-e5d65f334f41ba93-0001-pinyin-1025-1058",
         "target": "p-mozi-e5d65f334f41ba93-0001",
-        "version": "sha256:350edac8c9f81556d7f1467260f2a4c793d4efec07f5ffc2c233f576bb021ccc",
+        "version": "sha256:ced03d9f30f227baf9ded517c80b424017b1465843416de2c7c1cac83fd2e13f",
         "kind": "pinyin",
         "start": 1025,
         "end": 1058,
@@ -24819,7 +24819,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:350edac8c9f81556d7f1467260f2a4c793d4efec07f5ffc2c233f576bb021ccc"
+            "textVersion": "sha256:ced03d9f30f227baf9ded517c80b424017b1465843416de2c7c1cac83fd2e13f"
         },
         "rights": {
             "author": "Claude (AI)",

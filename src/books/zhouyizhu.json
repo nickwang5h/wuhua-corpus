@@ -239,9 +239,20 @@
         },
         {
           "id": "p-zhouyizhu-a1c175eb286e21c2-0038",
-          "version": "sha256:e389ec522059dbcbfb2f0b35a3ab26e1f77134b64416af48fad7fe3719191b9b",
-          "text": "載晉□州刺史顧夷等有周易難王輔嗣義",
-          "aliases": []
+          "version": "sha256:ea9e3d20ae9298ed76a326765d07dbe8b44df26a4dbcbb56cf8ab8e528f623a1",
+          "text": "載晉揚州刺史顧夷等有周易難王輔嗣義",
+          "aliases": [],
+          "sourceText": "載晉□州刺史顧夷等有周易難王輔嗣義",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《四庫全書總目提要》卷一此处作“揚”（《四庫全書總目》經部易類“周易注十卷”条，与本书提要同文）。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ea9e3d20ae9298ed76a326765d07dbe8b44df26a4dbcbb56cf8ab8e528f623a1"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-a1c175eb286e21c2-0039",
@@ -263,9 +274,20 @@
         },
         {
           "id": "p-zhouyizhu-a1c175eb286e21c2-0042",
-          "version": "sha256:85777e2df7279ec3e732d16595114edadcd36f3ee69ea198c46ae76d1e44c340",
-          "text": "□彼抑互詰不休平心而論使易不卜筮周",
-          "aliases": []
+          "version": "sha256:de1bad2343039ab78321859cecf2728f31da0f77629ccdc7d5e99bd8a0530a99",
+          "text": "揚彼抑互詰不休平心而論使易不卜筮周",
+          "aliases": [],
+          "sourceText": "□彼抑互詰不休平心而論使易不卜筮周",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《四庫全書總目提要》卷一此处作“揚”（《四庫全書總目》經部易類“周易注十卷”条，与本书提要同文）。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:de1bad2343039ab78321859cecf2728f31da0f77629ccdc7d5e99bd8a0530a99"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-a1c175eb286e21c2-0043",
@@ -368,9 +390,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0007",
-          "version": "sha256:cbea3f3df3304eb04b3f0f22d19a375c52284c03028de0461295461041e8d6e9",
-          "text": "〈于夕□猶若厲也居上不驕在下不憂因時而惕不失其㡬雖危而勞可以无咎處下卦之極愈於上九之亢〉",
-          "aliases": []
+          "version": "sha256:f29fc9645b5932fa64f1d5d0626bc5082622a8f5babb3ef174e314bd1d8a5b80",
+          "text": "〈于夕惕猶若厲也居上不驕在下不憂因時而惕不失其㡬雖危而勞可以无咎處下卦之極愈於上九之亢〉",
+          "aliases": [],
+          "sourceText": "〈于夕□猶若厲也居上不驕在下不憂因時而惕不失其㡬雖危而勞可以无咎處下卦之極愈於上九之亢〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷一此处均作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f29fc9645b5932fa64f1d5d0626bc5082622a8f5babb3ef174e314bd1d8a5b80"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0008",
@@ -590,9 +623,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0044",
-          "version": "sha256:8f7f273f31d22d7e125185e9fbe1f532c924d4de20a0a7524f1b53b06fd50742",
-          "text": "〈失時則廢懈怠則曠故因其時而□雖危無咎𪫟敕力反懈佳賣反〉九四曰或躍在淵",
-          "aliases": []
+          "version": "sha256:7208124b5611458f8703f015e97078040249f3df6dc332da3044ea60a329ea8f",
+          "text": "〈失時則廢懈怠則曠故因其時而惕雖危無咎𪫟敕力反懈佳賣反〉九四曰或躍在淵",
+          "aliases": [],
+          "sourceText": "〈失時則廢懈怠則曠故因其時而□雖危無咎𪫟敕力反懈佳賣反〉九四曰或躍在淵",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷一此处均作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7208124b5611458f8703f015e97078040249f3df6dc332da3044ea60a329ea8f"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0045",
@@ -656,9 +700,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0055",
-          "version": "sha256:2440c93fb7f3ef62949d11d19c62f79ec6e8435ee526bf559c31fd8d42fe0628",
-          "text": "〈初九九二龍徳皆應其義故可論龍以明之也至於九三乾乾夕□非龍徳也明以君子當其象矣統而舉之〉",
-          "aliases": []
+          "version": "sha256:8bd8d5ea760334d333e64d3c49d249513535a7e7f49d1efc44f129c549ffb2d3",
+          "text": "〈初九九二龍徳皆應其義故可論龍以明之也至於九三乾乾夕惕非龍徳也明以君子當其象矣統而舉之〉",
+          "aliases": [],
+          "sourceText": "〈初九九二龍徳皆應其義故可論龍以明之也至於九三乾乾夕□非龍徳也明以君子當其象矣統而舉之〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷一此处均作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8bd8d5ea760334d333e64d3c49d249513535a7e7f49d1efc44f129c549ffb2d3"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0056",
@@ -770,9 +825,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0074",
-          "version": "sha256:b1587a9a4bc26deae66cb584a2993208c0fbba6c498806a5a080907333e66ebd",
-          "text": "中上不在天下不在田故乾乾因其時而□雖危无咎",
-          "aliases": []
+          "version": "sha256:a0b387046735c67fa3250d5cf5d5020d54166373768d312802707b446882fd47",
+          "text": "中上不在天下不在田故乾乾因其時而惕雖危无咎",
+          "aliases": [],
+          "sourceText": "中上不在天下不在田故乾乾因其時而□雖危无咎",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷一此处均作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a0b387046735c67fa3250d5cf5d5020d54166373768d312802707b446882fd47"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0075",
@@ -1106,9 +1172,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0130",
-          "version": "sha256:dd7071499d746f575e0d5466da2f0df67d7dadd437805526d82d45a053da474f",
-          "text": "〈始之時也造物之始始於□昧故曰草昧也處造始之時所宜之善莫善建侯也造沮早反昧音妹〉象",
-          "aliases": []
+          "version": "sha256:d72bfe1a438a7c100e021def0b563b88f2891e3e2b4a00904478e71da7b302df",
+          "text": "〈始之時也造物之始始於㝠昧故曰草昧也處造始之時所宜之善莫善建侯也造沮早反昧音妹〉象",
+          "aliases": [],
+          "sourceText": "〈始之時也造物之始始於□昧故曰草昧也處造始之時所宜之善莫善建侯也造沮早反昧音妹〉象",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一此处以四库字图第 2682 号显示，字图注为“⿱冝八 -- 𡨋”（“冥”的异体），维基文库《周易注疏》（四庫全書本）卷二此处作“㝠”；“𡨋”“㝠”都是“冥”的异体，本书他处亦用“㝠”。今作“㝠”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d72bfe1a438a7c100e021def0b563b88f2891e3e2b4a00904478e71da7b302df"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0131",
@@ -1544,21 +1621,54 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0203",
-          "version": "sha256:501365f177f58ecc62d7996d2ecd4c1d607efba93418bbb18196c94f210f15ca",
-          "text": "䷅〈坎下乾上〉訟有孚窒惕中吉〈窒謂窒塞也皆□然後可以獲中吉訟才用反窒〉",
-          "aliases": []
+          "version": "sha256:5ab42770eb51d7c5a9aa798ba4a717d2ffbc4c516e3f5e129fba67d9719dfb64",
+          "text": "䷅〈坎下乾上〉訟有孚窒惕中吉〈窒謂窒塞也皆惕然後可以獲中吉訟才用反窒〉",
+          "aliases": [],
+          "sourceText": "䷅〈坎下乾上〉訟有孚窒惕中吉〈窒謂窒塞也皆□然後可以獲中吉訟才用反窒〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一此处作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5ab42770eb51d7c5a9aa798ba4a717d2ffbc4c516e3f5e129fba67d9719dfb64"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0204",
-          "version": "sha256:2d1b2371eb54831ad8b8805d7a24957810d5a9c36dabea6b56606d11bc7b338a",
-          "text": "〈張栗反□湯歴反〉終凶利見大人不利涉大川彖曰訟上剛下險險",
-          "aliases": []
+          "version": "sha256:c9c15edaba9e121e86f1c2ca015e8ae8863989bdc59db3c92c37cc5790d09bd5",
+          "text": "〈張栗反惕湯歴反〉終凶利見大人不利涉大川彖曰訟上剛下險險",
+          "aliases": [],
+          "sourceText": "〈張栗反□湯歴反〉終凶利見大人不利涉大川彖曰訟上剛下險險",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字。此处是陆德明音义“窒，張栗反；□，湯歴反”，上下文是讼卦卦辞“訟有孚窒惕中吉”；维基文库《周易注疏》（四庫全書本）卷二音义作“窒張栗反……惕湯歴反”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c9c15edaba9e121e86f1c2ca015e8ae8863989bdc59db3c92c37cc5790d09bd5"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0205",
-          "version": "sha256:dbf90655aaeb3b16c90b8185c7bcb6a4700fdcd0b2bd1f8a67e05c8569922c50",
-          "text": "而健訟訟有孚窒□中吉剛來而得中也終凶訟不可",
-          "aliases": []
+          "version": "sha256:1c6c8920413a077148dfc00567d029ac8f3a0ef2e2a08f19860c72872bc64596",
+          "text": "而健訟訟有孚窒惕中吉剛來而得中也終凶訟不可",
+          "aliases": [],
+          "sourceText": "而健訟訟有孚窒□中吉剛來而得中也終凶訟不可",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷二此处均作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1c6c8920413a077148dfc00567d029ac8f3a0ef2e2a08f19860c72872bc64596"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0206",
@@ -1628,15 +1738,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0217",
-          "version": "sha256:80e271aab36bdfac1ce2492897a590abc9813017690e5389037a4abf48b0282d",
-          "text": "〈若能以懼歸竄其邑乃可以免災邑過三百非為竄也□而㨿强災未免也逋補吳反眚生領反竄七亂反〉",
-          "aliases": []
+          "version": "sha256:5cbe528307a9b991387b3ed4fb76e1a27d7655a9562723dcee7ad1ce45428101",
+          "text": "〈若能以懼歸竄其邑乃可以免災邑過三百非為竄也竄而㨿强災未免也逋補吳反眚生領反竄七亂反〉",
+          "aliases": [],
+          "sourceText": "〈若能以懼歸竄其邑乃可以免災邑過三百非為竄也□而㨿强災未免也逋補吳反眚生領反竄七亂反〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷二此处均作“竄”。今作“竄”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5cbe528307a9b991387b3ed4fb76e1a27d7655a9562723dcee7ad1ce45428101"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0218",
-          "version": "sha256:d2d5bacc1f6a0de661b91fdd649b2312179140b419943abcbec4043fdff362d1",
-          "text": "象曰不克訟歸逋□也自下訟上患至掇也六三食舊",
-          "aliases": []
+          "version": "sha256:d0f91aa19889c0eac3121f216ef49637cb8fe99286283b029feff6088f5f58c6",
+          "text": "象曰不克訟歸逋竄也自下訟上患至掇也六三食舊",
+          "aliases": [],
+          "sourceText": "象曰不克訟歸逋□也自下訟上患至掇也六三食舊",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷二此处均作“竄”。今作“竄”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d0f91aa19889c0eac3121f216ef49637cb8fe99286283b029feff6088f5f58c6"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0219",
@@ -1682,15 +1814,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0226",
-          "version": "sha256:b526184cc8bb09c7fc06afde6a68398bf0992e50eb05871fb342f40590c245ff",
-          "text": "上九或□之鞶帶終朝三褫之〈處訟之極以剛居上訟而得勝者也以訟受□〉",
-          "aliases": []
+          "version": "sha256:a55f28c2798b380b56e032579941fa1a45bc2041424aa90ced0f99c3e1ef628b",
+          "text": "上九或錫之鞶帶終朝三褫之〈處訟之極以剛居上訟而得勝者也以訟受錫〉",
+          "aliases": [],
+          "sourceText": "上九或□之鞶帶終朝三褫之〈處訟之極以剛居上訟而得勝者也以訟受□〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷二此处均作“錫”。今作“錫”。；底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷二此处均作“錫”。今作“錫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a55f28c2798b380b56e032579941fa1a45bc2041424aa90ced0f99c3e1ef628b"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0227",
-          "version": "sha256:40164548d6f8c971df9f8552d38182f71b5c6fd9b2f26ca2e7c330dce3672640",
-          "text": "〈榮何可保故終朝之間褫帶者三也□星歴反鞶步干反三息暫反或如字褫敇紙反〉象曰以訟",
-          "aliases": []
+          "version": "sha256:ce2149c3f97d281bf509a16396e22687e1ae149801e6895c957308ed6d93cf48",
+          "text": "〈榮何可保故終朝之間褫帶者三也錫星歴反鞶步干反三息暫反或如字褫敇紙反〉象曰以訟",
+          "aliases": [],
+          "sourceText": "〈榮何可保故終朝之間褫帶者三也□星歴反鞶步干反三息暫反或如字褫敇紙反〉象曰以訟",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字。此处是音义“□，星歴反”，释上文“或錫之鞶帶”的“錫”；维基文库《周易注疏》（四庫全書本）卷二音义作“錫星歴反又星自反賜也〉〈鞶步干反”，卷三师卦音义亦作“錫星歴反”。今作“錫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ce2149c3f97d281bf509a16396e22687e1ae149801e6895c957308ed6d93cf48"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0228",
@@ -1742,21 +1896,54 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0236",
-          "version": "sha256:01cdb7dc0931aa0c3bec4ce1d9219ebcb13aa48ecf9ac934f6f2631f7b221cd3",
-          "text": "師中吉无咎王三□命〈以剛居中而應於上在師而得其中者也承上之寵為師之主〉",
-          "aliases": []
+          "version": "sha256:5b42451ca810a85b95bc7b64ad5188d66bb71420957da78195e9fe8d39718f86",
+          "text": "師中吉无咎王三錫命〈以剛居中而應於上在師而得其中者也承上之寵為師之主〉",
+          "aliases": [],
+          "sourceText": "師中吉无咎王三□命〈以剛居中而應於上在師而得其中者也承上之寵為師之主〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一此处作“錫”。今作“錫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5b42451ca810a85b95bc7b64ad5188d66bb71420957da78195e9fe8d39718f86"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0237",
-          "version": "sha256:fdc66569388101fb77631aa759e35496b86ae04d30dc8f7e982a15e1f0b89b7d",
-          "text": "〈任大役重无功則凶故吉乃无咎也行師得吉莫善懷邦邦懷衆服□莫重焉故乃得成命〉象曰在",
-          "aliases": []
+          "version": "sha256:6344275d93925991e2203ecff2b659845fb3251fc46a8d118b5ac6da31cab51e",
+          "text": "〈任大役重无功則凶故吉乃无咎也行師得吉莫善懷邦邦懷衆服錫莫重焉故乃得成命〉象曰在",
+          "aliases": [],
+          "sourceText": "〈任大役重无功則凶故吉乃无咎也行師得吉莫善懷邦邦懷衆服□莫重焉故乃得成命〉象曰在",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一此处作“錫”。今作“錫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6344275d93925991e2203ecff2b659845fb3251fc46a8d118b5ac6da31cab51e"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0238",
-          "version": "sha256:c90a4c3e93a9a805d356fed67159d26d746d7c18b4923eadc7ff4c0cb7d0d852",
-          "text": "師中吉承天寵也王三□命懷萬邦也六三師或輿尸",
-          "aliases": []
+          "version": "sha256:a00c6a3a04278dc94e98ac4f1a6e85ab0837bf8fd0e9b300875f4c2490b472e4",
+          "text": "師中吉承天寵也王三錫命懷萬邦也六三師或輿尸",
+          "aliases": [],
+          "sourceText": "師中吉承天寵也王三□命懷萬邦也六三師或輿尸",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一此处作“錫”。今作“錫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a00c6a3a04278dc94e98ac4f1a6e85ab0837bf8fd0e9b300875f4c2490b472e4"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0239",
@@ -2060,9 +2247,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0289",
-          "version": "sha256:d6b2533bc0d08b38dfa302d258037bfc6496ab83bbae23d73143dc3ef23b57e6",
-          "text": "目不能正室也六四有孚血去□出无咎〈夫言血者陽犯陰也四乘〉",
-          "aliases": []
+          "version": "sha256:f39aedb7304c2d2c14d7c9d33d9579d3374011f5a7f926cad00b898ad89da5e9",
+          "text": "目不能正室也六四有孚血去惕出无咎〈夫言血者陽犯陰也四乘〉",
+          "aliases": [],
+          "sourceText": "目不能正室也六四有孚血去□出无咎〈夫言血者陽犯陰也四乘〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一此处作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f39aedb7304c2d2c14d7c9d33d9579d3374011f5a7f926cad00b898ad89da5e9"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0290",
@@ -2072,9 +2270,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0291",
-          "version": "sha256:5fcaf0f7c21ad7b25ad40705f51ce2d4ad9ab723946d2e90b6b5e9686a95e030",
-          "text": "〈能犯故得血去懼除保无咎也去起吕反惡烏路反〉象曰有孚□出上合志也",
-          "aliases": []
+          "version": "sha256:8c658274943dac47633e4e04daf91a6d9314bf314b8f7f87e287a88c3a6b40e8",
+          "text": "〈能犯故得血去懼除保无咎也去起吕反惡烏路反〉象曰有孚惕出上合志也",
+          "aliases": [],
+          "sourceText": "〈能犯故得血去懼除保无咎也去起吕反惡烏路反〉象曰有孚□出上合志也",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷一、维基文库《周易注疏》（四庫全書本）卷三此处均作“惕”。今作“惕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8c658274943dac47633e4e04daf91a6d9314bf314b8f7f87e287a88c3a6b40e8"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0292",
@@ -2693,15 +2902,37 @@
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0071",
-          "version": "sha256:8ef37ba4d44c668c508df472c8081667ca4e1f065cbe3fa0a17a7a9dc90276ca",
-          "text": "在天上大有君子以遏惡□善順天休命〈大有包容之象也故遏惡〉",
-          "aliases": []
+          "version": "sha256:dcbbe714629056c3f180dca6dcd997fdf9d9c8d48668a51231e0acb3dda79d51",
+          "text": "在天上大有君子以遏惡揚善順天休命〈大有包容之象也故遏惡〉",
+          "aliases": [],
+          "sourceText": "在天上大有君子以遏惡□善順天休命〈大有包容之象也故遏惡〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷二此处以四库字图第 3951 号显示，字图注为“揚”（“昜”上部写法略异）。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:dcbbe714629056c3f180dca6dcd997fdf9d9c8d48668a51231e0acb3dda79d51"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0072",
-          "version": "sha256:782b9341037387c82944f17e5cffc149e03178767d5ecb0f91219069cd398b66",
-          "text": "〈□善成物之美順夫天徳休物之命遏於葛反又音謁休虚虬反〉初九无交害匪咎艱",
-          "aliases": []
+          "version": "sha256:4f7a7949299330312d2752259c7f09d6e8f202a62a318439e2309571844dd0fd",
+          "text": "〈揚善成物之美順夫天徳休物之命遏於葛反又音謁休虚虬反〉初九无交害匪咎艱",
+          "aliases": [],
+          "sourceText": "〈□善成物之美順夫天徳休物之命遏於葛反又音謁休虚虬反〉初九无交害匪咎艱",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷二、维基文库《周易注疏》（四庫全書本）卷三此处均作“揚”。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4f7a7949299330312d2752259c7f09d6e8f202a62a318439e2309571844dd0fd"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0073",
@@ -4718,9 +4949,20 @@
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0195",
-          "version": "sha256:299365ff5fe0f62b395bdc73a0040412b0a64a9b03cdb5fe53d98128d5d8781a",
-          "text": "〈以相承比明信顯著不存外飾處坎以斯雖復一樽之酒二簋之食瓦缶之□納此至約自進於牖乃可羞之〉",
-          "aliases": []
+          "version": "sha256:0126244fc28387f4b216c963bf2b0cf30a61199659ea4c1d40498443bf8823b3",
+          "text": "〈以相承比明信顯著不存外飾處坎以斯雖復一樽之酒二簋之食瓦缶之器納此至約自進於牖乃可羞之〉",
+          "aliases": [],
+          "sourceText": "〈以相承比明信顯著不存外飾處坎以斯雖復一樽之酒二簋之食瓦缶之□納此至約自進於牖乃可羞之〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷三、维基文库《周易注疏》（四庫全書本）卷五此处均作“器”。今作“器”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0126244fc28387f4b216c963bf2b0cf30a61199659ea4c1d40498443bf8823b3"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0196",
@@ -6584,9 +6826,20 @@
       "paragraphs": [
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0001",
-          "version": "sha256:a4bb255f97739ae1894c500186b26caa145f32750a56fdcae0260d64e90e1404",
-          "text": "䷪〈乾下兊上〉夬□于王庭孚號有厲告自邑不利即戎利有",
-          "aliases": []
+          "version": "sha256:25060b82172980c2804b6d3ee63b57c665a83d86d77735c7544ef8c7700ab6a7",
+          "text": "䷪〈乾下兊上〉夬揚于王庭孚號有厲告自邑不利即戎利有",
+          "aliases": [],
+          "sourceText": "䷪〈乾下兊上〉夬□于王庭孚號有厲告自邑不利即戎利有",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五此处以四库字图第 3951 号显示，字图注为“揚”（“昜”上部写法略异），维基文库《周易注疏》（四庫全書本）卷七此处作“揚”。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:25060b82172980c2804b6d3ee63b57c665a83d86d77735c7544ef8c7700ab6a7"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0002",
@@ -6596,21 +6849,54 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0003",
-          "version": "sha256:62f47ddc67b4addd255e2f905b2d2c5abca4300f4212a50ec57a578e8cf5c326",
-          "text": "〈君子道消則剛正之德不可得直道而用刑罰之威不可得坦然而行□于王庭其道公也夬古快反〉彖曰",
-          "aliases": []
+          "version": "sha256:ed69bbd62b0ab4b503face240417953e2e746f586e4a183cd75017804f7eaa23",
+          "text": "〈君子道消則剛正之德不可得直道而用刑罰之威不可得坦然而行揚于王庭其道公也夬古快反〉彖曰",
+          "aliases": [],
+          "sourceText": "〈君子道消則剛正之德不可得直道而用刑罰之威不可得坦然而行□于王庭其道公也夬古快反〉彖曰",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五此处以四库字图第 3951 号显示，字图注为“揚”（“昜”上部写法略异），维基文库《周易注疏》（四庫全書本）卷七此处作“揚”。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ed69bbd62b0ab4b503face240417953e2e746f586e4a183cd75017804f7eaa23"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0004",
-          "version": "sha256:0143519bb70063d9e17ad513a86d8d6a324f1875d0d1d8d34365e708cb7b7a32",
-          "text": "夬決也剛決柔也健而說決而和〈健而說則決而和矣說音恱〉□于王",
-          "aliases": []
+          "version": "sha256:42bbaa4a49d7ab81e0346e1236983533d090f25f36c318e83cf475e0215b0c3c",
+          "text": "夬決也剛決柔也健而說決而和〈健而說則決而和矣說音恱〉揚于王",
+          "aliases": [],
+          "sourceText": "夬決也剛決柔也健而說決而和〈健而說則決而和矣說音恱〉□于王",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字。此段末“□于王”与下段首“庭”相连，是夬卦彖传“揚于王庭”；维基文库《周易》（四部叢刊本）卷五此处作“揚于王庭柔乗五剛也”（以四库字图第 3951 号显示，字图注为“揚”）。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:42bbaa4a49d7ab81e0346e1236983533d090f25f36c318e83cf475e0215b0c3c"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0005",
-          "version": "sha256:4c3f46c3e0c6d838f218775ce3aac822c611224aff7973cbc6d5f7af7dd513dc",
-          "text": "庭柔乘五剛也〈剛德齊長一柔為逆衆所同誅而旡忌者也故可□于王庭長丁丈反〉孚號",
-          "aliases": []
+          "version": "sha256:50ee26fa6132df31adf9d99c444df98a4d6c0b396f0516d9c7b8273f125d51a3",
+          "text": "庭柔乘五剛也〈剛德齊長一柔為逆衆所同誅而旡忌者也故可揚于王庭長丁丈反〉孚號",
+          "aliases": [],
+          "sourceText": "庭柔乘五剛也〈剛德齊長一柔為逆衆所同誅而旡忌者也故可□于王庭長丁丈反〉孚號",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五、维基文库《周易注疏》（四庫全書本）卷七此处均作“揚”。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:50ee26fa6132df31adf9d99c444df98a4d6c0b396f0516d9c7b8273f125d51a3"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0006",
@@ -7796,9 +8082,20 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0203",
-          "version": "sha256:2f9e74df3769a57c8bb332dc0ee53aea68a4c48e5241d47bfe8f1c06b6c39d26",
-          "text": "〈无應无所納受耳宜空以待□而反全其實塞故曰鼎耳革其行塞雖有雉膏而終不能食也雨者隂陽交和〉",
-          "aliases": []
+          "version": "sha256:59e91c8a015020292686afc9e0df6b9c7a53623323a630379d9f0dab3351516c",
+          "text": "〈无應无所納受耳宜空以待鉉而反全其實塞故曰鼎耳革其行塞雖有雉膏而終不能食也雨者隂陽交和〉",
+          "aliases": [],
+          "sourceText": "〈无應无所納受耳宜空以待□而反全其實塞故曰鼎耳革其行塞雖有雉膏而終不能食也雨者隂陽交和〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五、维基文库《周易注疏》（四庫全書本）卷八此处均作“鉉”。今作“鉉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:59e91c8a015020292686afc9e0df6b9c7a53623323a630379d9f0dab3351516c"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0204",
@@ -7832,33 +8129,88 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0209",
-          "version": "sha256:6ff9ddcab4cf1c0932762df0fa71bf0e665b40f195fd0c2cd46ca4f7f7e6a082",
-          "text": "〈凶災信如之何〉六五鼎黄耳金□利貞〈居中以柔能以通理納乎剛正故曰黄耳金□〉",
-          "aliases": []
+          "version": "sha256:89404c37d7bae8a3390d4f7539d33b52883bfdf0730d932affa3e5067e8368de",
+          "text": "〈凶災信如之何〉六五鼎黄耳金鉉利貞〈居中以柔能以通理納乎剛正故曰黄耳金鉉〉",
+          "aliases": [],
+          "sourceText": "〈凶災信如之何〉六五鼎黄耳金□利貞〈居中以柔能以通理納乎剛正故曰黄耳金□〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五此处作“鉉”。今作“鉉”。；底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五、维基文库《周易注疏》（四庫全書本）卷八此处均以四库字图第 3787 号显示，字图注为“鉉”。今作“鉉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:89404c37d7bae8a3390d4f7539d33b52883bfdf0730d932affa3e5067e8368de"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0210",
-          "version": "sha256:ca4a256b8ca13705b79ab6ebca63fc3ccde51a90d0d58b8b1650b90175c290cd",
-          "text": "〈利貞也耳黄則能納剛正以自舉也□𤣥典反又古𤣥反〉象曰鼎黄耳中以為實",
-          "aliases": []
+          "version": "sha256:e031669181de957f0aa9c7ee73185912a72a530ad2dcf0c040da7c85c69b9d31",
+          "text": "〈利貞也耳黄則能納剛正以自舉也鉉𤣥典反又古𤣥反〉象曰鼎黄耳中以為實",
+          "aliases": [],
+          "sourceText": "〈利貞也耳黄則能納剛正以自舉也□𤣥典反又古𤣥反〉象曰鼎黄耳中以為實",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字。此处是音义“□，𤣥典反，又古𤣥反”，释上文“黄耳金鉉”的“鉉”；维基文库《周易注疏》（四庫全書本）卷八音义作“鉉𤣥典反徐又古𤣥反”（以四库字图第 3787 号显示，字图注为“鉉”）。今作“鉉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e031669181de957f0aa9c7ee73185912a72a530ad2dcf0c040da7c85c69b9d31"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0211",
-          "version": "sha256:d3906b9aab4634e207ab94a5966d637fdf0c96414f3e376132859af26b326fd5",
-          "text": "也〈以中為實所受不妄也〉上九鼎玉□大吉无不利〈處鼎之終鼎道之成也居〉",
-          "aliases": []
+          "version": "sha256:7453de64cdf2e3155c533ec4780ed4ffa5ff1f8c895dd04cf5d68061c225af06",
+          "text": "也〈以中為實所受不妄也〉上九鼎玉鉉大吉无不利〈處鼎之終鼎道之成也居〉",
+          "aliases": [],
+          "sourceText": "也〈以中為實所受不妄也〉上九鼎玉□大吉无不利〈處鼎之終鼎道之成也居〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五此处以四库字图第 3787 号显示，字图注为“鉉”。今作“鉉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7453de64cdf2e3155c533ec4780ed4ffa5ff1f8c895dd04cf5d68061c225af06"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0212",
-          "version": "sha256:227d40d585aca3df6cd9d490d3c0b943323099229eb1a9f44a3576c70107b44a",
-          "text": "〈鼎之成體剛履柔用勁施□以斯處上髙不誡亢得夫剛柔之節能舉其任者也應不在一則靡所不舉故曰〉",
-          "aliases": []
+          "version": "sha256:28785b455fdbf33e3c20b634aab4fd2350660951cd0bfd094c422dd02ca0bc05",
+          "text": "〈鼎之成體剛履柔用勁施鉉以斯處上髙不誡亢得夫剛柔之節能舉其任者也應不在一則靡所不舉故曰〉",
+          "aliases": [],
+          "sourceText": "〈鼎之成體剛履柔用勁施□以斯處上髙不誡亢得夫剛柔之節能舉其任者也應不在一則靡所不舉故曰〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五此处作“鉉”，维基文库《周易注疏》（四庫全書本）卷八此处以四库字图第 3787 号显示，字图注为“鉉”。今作“鉉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:28785b455fdbf33e3c20b634aab4fd2350660951cd0bfd094c422dd02ca0bc05"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0213",
-          "version": "sha256:baf6983457afaf1045c3b3362a11bc610550e466c6a788522cf2b1337bd59e5d",
-          "text": "〈大吉无不利也勁古政反〉象曰玉□在上剛柔節也",
-          "aliases": []
+          "version": "sha256:0b1313f256ecf6d0f23bce2f1028899e26e956c0218545f9c4f6480bcf6f5fd9",
+          "text": "〈大吉无不利也勁古政反〉象曰玉鉉在上剛柔節也",
+          "aliases": [],
+          "sourceText": "〈大吉无不利也勁古政反〉象曰玉□在上剛柔節也",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷五、维基文库《周易注疏》（四庫全書本）卷八此处均作“鉉”。今作“鉉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0b1313f256ecf6d0f23bce2f1028899e26e956c0218545f9c4f6480bcf6f5fd9"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0214",
@@ -8000,9 +8352,20 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0237",
-          "version": "sha256:526f00318568cbbf273cf73f5a7d4df0aba24b54b49d675c96ab52ead431c907",
-          "text": "〈有言也索桑落反矍俱□反徐許□反媾古豆反〉象曰震索索中未得也雖凶",
-          "aliases": []
+          "version": "sha256:c7015caf88878a443fee47a44d1a0776591b389e49ef6e4fccc207d023fe7ae0",
+          "text": "〈有言也索桑落反矍俱縛反徐許縛反媾古豆反〉象曰震索索中未得也雖凶",
+          "aliases": [],
+          "sourceText": "〈有言也索桑落反矍俱□反徐許□反媾古豆反〉象曰震索索中未得也雖凶",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易注疏》（四庫全書本）卷九此处作“縛”。今作“縛”。；底本以“□”顶替原书无法录入的字。此处是音义“矍，俱□反，徐許□反”；维基文库《周易注疏》（四庫全書本）卷九音义作“矍俱縛反徐許縛反”，两处均为“縛”。今作“縛”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c7015caf88878a443fee47a44d1a0776591b389e49ef6e4fccc207d023fe7ae0"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0238",
@@ -9317,9 +9680,20 @@
         },
         {
           "id": "p-zhouyizhu-e4382e0c48be91b5-0148",
-          "version": "sha256:aa0e56f297cecb6da3720744df6679c3a303110d809d3d7b507743dde73a1eb0",
-          "text": "〈飛音者音飛而實不從之謂也居卦之上處信之終信終則衰忠篤内喪華美外□故曰翰音登于天也翰音登〉",
-          "aliases": []
+          "version": "sha256:79a7ad237db642386df7bb0496ed40954dd4d0d1b89d1938edde79ea98b3e780",
+          "text": "〈飛音者音飛而實不從之謂也居卦之上處信之終信終則衰忠篤内喪華美外揚故曰翰音登于天也翰音登〉",
+          "aliases": [],
+          "sourceText": "〈飛音者音飛而實不從之謂也居卦之上處信之終信終則衰忠篤内喪華美外□故曰翰音登于天也翰音登〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易注疏》（四庫全書本）卷十此处作“揚”。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:79a7ad237db642386df7bb0496ed40954dd4d0d1b89d1938edde79ea98b3e780"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-e4382e0c48be91b5-0149",
@@ -11171,9 +11545,20 @@
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0036",
-          "version": "sha256:832ee2fe7990cb974aba9d93e285f4d111afab45bec1df37714c9eda44eba1d5",
-          "text": "蓋取諸小過〈以小用而濟物也㫁丁緩反又徒緩反杵昌呂反掘其月反〉□木爲弧",
-          "aliases": []
+          "version": "sha256:69e817c490d3ad03ed0f2c8efa6d094f1295bf513cf552cca33a77f5fb05fbc7",
+          "text": "蓋取諸小過〈以小用而濟物也㫁丁緩反又徒緩反杵昌呂反掘其月反〉弦木爲弧",
+          "aliases": [],
+          "sourceText": "蓋取諸小過〈以小用而濟物也㫁丁緩反又徒緩反杵昌呂反掘其月反〉□木爲弧",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字。此处是《繫辭下》“弦木爲弧，剡木爲矢”；维基文库《周易》（四部叢刊本）卷八、《周易注疏》（四庫全書本）卷十二此处均以四库字图第 2959 号显示，字图注为“弦”。今作“弦”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:69e817c490d3ad03ed0f2c8efa6d094f1295bf513cf552cca33a77f5fb05fbc7"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0037",
@@ -11669,9 +12054,20 @@
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0119",
-          "version": "sha256:e0c0b5a1175e0b5ea071b09ca920cb885bbfed5f2f9b47e6a5c650211274a8b6",
-          "text": "而隱〈稱□命令而百姓不知其由也稱尺證反又尺升反〉履以和行謙以制禮",
-          "aliases": []
+          "version": "sha256:91f2d5362cff2911f3b6375e7c0501818e5dc6958f25299abd54bf11f9caa7fa",
+          "text": "而隱〈稱揚命令而百姓不知其由也稱尺證反又尺升反〉履以和行謙以制禮",
+          "aliases": [],
+          "sourceText": "而隱〈稱□命令而百姓不知其由也稱尺證反又尺升反〉履以和行謙以制禮",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字（字图）；维基文库《周易》（四部叢刊本）卷八此处以四库字图第 3951 号显示，字图注为“揚”（“昜”上部写法略异）。今作“揚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:91f2d5362cff2911f3b6375e7c0501818e5dc6958f25299abd54bf11f9caa7fa"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0120",
@@ -12314,9 +12710,20 @@
         },
         {
           "id": "p-zhouyizhu-453d3f6caeebe3c7-0051",
-          "version": "sha256:ec396dd766be6801a42506160a1e712813bf42af67463d9922f581dc27acdc23",
-          "text": "其於稼也爲反生其䆒爲健爲蕃鮮〈旉音孚筤音郎萑音丸葦韋□反〉",
-          "aliases": []
+          "version": "sha256:54ed358660e24a4d3fca98ca29e2c3acec9f578515066bbaa0d58ffb99be43b2",
+          "text": "其於稼也爲反生其䆒爲健爲蕃鮮〈旉音孚筤音郎萑音丸葦韋鬼反〉",
+          "aliases": [],
+          "sourceText": "其於稼也爲反生其䆒爲健爲蕃鮮〈旉音孚筤音郎萑音丸葦韋□反〉",
+          "correction": {
+            "reason": "底本以“□”顶替原书无法录入的字。此处是《說卦》音义“葦，韋□反”；维基文库《周易注疏》（四庫全書本）卷十三音义作“葦韋鬼反蘆也”。今作“鬼”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:54ed358660e24a4d3fca98ca29e2c3acec9f578515066bbaa0d58ffb99be43b2"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-453d3f6caeebe3c7-0052",

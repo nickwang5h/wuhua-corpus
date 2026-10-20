@@ -16080,9 +16080,20 @@
         },
         {
           "id": "p-guwenguanzhi-2effcb7a89f0484c-0068",
-          "version": "sha256:3621763154b11a54063f7f8081bf489b3d12ebec3cb60644d9262643eddd739f",
-          "text": "纖介、細微也。○結出孟嘗一生得力、全在馮煖、直與篇首無好無能相映照。",
-          "aliases": []
+          "version": "sha256:5c5fa1cf3b3d26d0ef481db7f54bde47083d24e04bcc736bcf5c8497cd10b483",
+          "text": "孟嘗君爲相數十年、無纖介之禍者、馮煖之計也。",
+          "aliases": [],
+          "sourceText": "纖介、細微也。○結出孟嘗一生得力、全在馮煖、直與篇首無好無能相映照。",
+          "correction": {
+            "reason": "《冯煖客孟尝君》末句：底本这一段是《古文观止》的夹注和评语（“纤介，细微也。○结出孟尝……”），不是正文，而该注所释的正文“孟尝君为相数十年、无纤介之祸者、冯煖之计也”在抓取时脱落了。维基文库《古文观止》卷四此处作“孟嘗君爲相數十年、無纖介之禍者、馮煖之計也。{{*|纖介、細微也。 ○結出孟嘗一生得力……}}”，可见注文紧跟正文末句，抓取时把正文和注弄反了；维基文库《战国策》士礼居丛书本齐四也作“孟嘗君為相數十年，無纖介之禍者，馮諼之計也”。这里用本句替换混入的注文，人名依底本作“馮煖”，用字依底本作“爲”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5c5fa1cf3b3d26d0ef481db7f54bde47083d24e04bcc736bcf5c8497cd10b483"
+            }
+          }
         }
       ]
     },
@@ -21846,9 +21857,20 @@
         },
         {
           "id": "p-guwenguanzhi-3682d97debf40545-0014",
-          "version": "sha256:eaa08c526d132b5c947ae00c59d6cd9f8e3a5baca4312ddde7ea2a6d618c5430",
-          "text": "梓薑桂金錫連丹、沙犀瑇瑁、",
-          "aliases": []
+          "version": "sha256:8c77f6d9940739a873548cbd9ffdacfa84e63856442c91ca92e4eb053fbcbc27",
+          "text": "梓薑桂金錫連丹沙、犀瑇瑁、",
+          "aliases": [],
+          "sourceText": "梓薑桂金錫連丹、沙犀瑇瑁、",
+          "correction": {
+            "reason": "《货殖列传序》“江南出枏梓姜桂金锡连丹沙、犀瑇瑁”：“丹沙”即丹砂，是一种物产，底本在“丹”“沙”之间断开是断句错误。维基文库《史记》卷一百二十九《货殖列传》作“江南出枏、梓、薑、桂、金、錫、連、丹沙、犀、瑁、珠璣、齒革”，同篇下文也有“丹沙、石、銅、鐵”“筋角丹沙千斤”。这里只把顿号移到“沙”后，不改字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8c77f6d9940739a873548cbd9ffdacfa84e63856442c91ca92e4eb053fbcbc27"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-3682d97debf40545-0015",
@@ -30366,9 +30388,20 @@
         },
         {
           "id": "p-guwenguanzhi-1535ee5e54c3bb24-0041",
-          "version": "sha256:dd0b143dff8286f35ab1f4f02438f4d746ca0f831a1f72917c4781f4aa7f962f",
-          "text": "或-{叶}-",
-          "aliases": []
+          "version": "sha256:98a6029a3f2e25982f9e3fcf111dab2ccf325a2bca49f449114fd073320cb09f",
+          "text": "或叶",
+          "aliases": [],
+          "sourceText": "或-{叶}-",
+          "correction": {
+            "reason": "《为徐敬业讨武曌檄》“或叶周亲”：底本“-{叶}-”是维基文库防止繁简转换的 MediaWiki 标记，不是原文，抓取时漏未去除。维基文库《古文观止》卷七与《為徐敬業討武曌檄》页都写作 -{叶}-，渲染后就是“叶”（夹注“同協”）。这里只去掉标记，保留“叶”字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:98a6029a3f2e25982f9e3fcf111dab2ccf325a2bca49f449114fd073320cb09f"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-1535ee5e54c3bb24-0042",
@@ -31374,9 +31407,20 @@
         },
         {
           "id": "p-guwenguanzhi-d4a5dc489a2bee17-0012",
-          "version": "sha256:96102442d46d75f351aea3868db93df5fd51a499b6c21646e69ddf1079e2cb3f",
-          "text": "吾聞夫齊魏徭戌、荊韓召募。",
-          "aliases": []
+          "version": "sha256:69ad75b098a4f5e680aabf19db146d1a4f095c4ffef403661a2b6880c0350a3b",
+          "text": "吾聞夫齊魏徭戍、荊韓召募。",
+          "aliases": [],
+          "sourceText": "吾聞夫齊魏徭戌、荊韓召募。",
+          "correction": {
+            "reason": "《弔古战场文》“吾闻夫齐魏徭戍、荆韩召募”：底本“戌”是“戍”的形近误字。维基文库《古文观止》卷七正文虽作“徭戌”，但紧随的夹注就说“徭、役也。戍、守边卒也”；维基文库《弔古戰場文》（据《古文观止》、参《文苑英华》卷一千）作“徭戍”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:69ad75b098a4f5e680aabf19db146d1a4f095c4ffef403661a2b6880c0350a3b"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-d4a5dc489a2bee17-0013",
@@ -41847,9 +41891,20 @@
         },
         {
           "id": "p-guwenguanzhi-8acc5997fb4ed8ed-0003",
-          "version": "sha256:7eed8d2afd36d0d569157145f5816995d69cf7b848c5293ef74e3c2a983c8f00",
-          "text": "至於太清。以清酌庶羞之奠、致祭欲亡友曼卿之墓下、而弔之以文曰、嗚呼曼卿、",
-          "aliases": []
+          "version": "sha256:6b8a272bbbe1fa580eacf261404f580ded8a289154b620abf9168ae974331aab",
+          "text": "至於太清。以清酌庶羞之奠、致祭于亡友曼卿之墓下、而弔之以文曰、嗚呼曼卿、",
+          "aliases": [],
+          "sourceText": "至於太清。以清酌庶羞之奠、致祭欲亡友曼卿之墓下、而弔之以文曰、嗚呼曼卿、",
+          "correction": {
+            "reason": "《祭石曼卿文》“以清酌庶羞之奠、致祭于亡友曼卿之墓下”：底本“欲”讲不通，是“于”的误字。维基文库《祭石曼卿文》（据《欧阳文忠公文集》四部丛刊本居士集卷五十，参《宋文鉴》）作“致祭于亡友曼卿之墓下”。维基文库《古文观止》卷十同误作“欲”，这是底本源头带来的错字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6b8a272bbbe1fa580eacf261404f580ded8a289154b620abf9168ae974331aab"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-8acc5997fb4ed8ed-0004",
@@ -42516,9 +42571,20 @@
         },
         {
           "id": "p-guwenguanzhi-bd80ac17241dd0ad-0018",
-          "version": "sha256:dd87caec021c5673ac9dc1a292ed2faf591e06235bb6973a71ae12df46e06d12",
-          "text": "卢之奸，固足以败国，然而不学无文，容貌不足以动人，言语不足以眩世。",
-          "aliases": []
+          "version": "sha256:e0e077be321db0e10091dde7d465122b2115f21ade01568596714a4bcd980e78",
+          "text": "卢杞之奸，固足以败国，然而不学无文，容貌不足以动人，言语不足以眩世。",
+          "aliases": [],
+          "sourceText": "卢之奸，固足以败国，然而不学无文，容貌不足以动人，言语不足以眩世。",
+          "correction": {
+            "reason": "《辨奸论》“卢杞之奸，固足以败国”：底本脱“杞”字。卢杞是人名，与上文“王衍”对举，不能只称“卢”；本篇上文底本自己就作“郭汾阳见卢杞曰”。维基文库《辨姦論》（据《嘉祐集》四库本卷九，参《东都事略》卷一一四、《皇朝文鉴》四部丛刊本卷九七）作“盧杞之姦”，三本无异文。维基文库《古文观止》卷十此处也脱“杞”，是源头的脱字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e0e077be321db0e10091dde7d465122b2115f21ade01568596714a4bcd980e78"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-bd80ac17241dd0ad-0019",
@@ -42552,9 +42618,20 @@
         },
         {
           "id": "p-guwenguanzhi-bd80ac17241dd0ad-0024",
-          "version": "sha256:444a04f228a62dcba67b885b44a9077a47e59ef7be8b7303cea89f6461d8ace9",
-          "text": "是王衍、卢合而为一人也，其祸岂可胜",
-          "aliases": []
+          "version": "sha256:3a848675058c5835159848f32dc2ad13c472e78fddf61d9ac97b089488ce461f",
+          "text": "是王衍、卢杞合而为一人也，其祸岂可胜",
+          "aliases": [],
+          "sourceText": "是王衍、卢合而为一人也，其祸岂可胜",
+          "correction": {
+            "reason": "《辨奸论》“是王衍、卢杞合而为一人也”：底本脱“杞”字，与上文“卢杞之奸”同误。维基文库《辨姦論》（据《嘉祐集》四库本卷九，参《东都事略》《皇朝文鉴》）作“是王衍、盧杞合而為一人也”。维基文库《古文观止》卷十此处同脱。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3a848675058c5835159848f32dc2ad13c472e78fddf61d9ac97b089488ce461f"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-bd80ac17241dd0ad-0025",

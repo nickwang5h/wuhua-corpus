@@ -14058,12 +14058,23 @@
         },
         {
           "id": "p-songcisanbaishou-0e5d5cc1fab48455-0008",
-          "version": "sha256:600a810215560b85a7b5abd563d058864f91908d5020a1004c792fa2baf8292b",
-          "text": "天涯情味，仗酒襏清愁，花消英氣。",
+          "version": "sha256:38750d23a76e6cc287ea048624a5ac428b0ee466532606d51fd9f9fef26794e0",
+          "text": "天涯情味，仗酒祓清愁，花消英氣。",
           "aliases": [],
           "headingPath": [
             "翠樓吟（姜夔）"
-          ]
+          ],
+          "sourceText": "天涯情味，仗酒襏清愁，花消英氣。",
+          "correction": {
+            "reason": "仗酒祓清愁：祓是祓除，以酒除愁。维基文库《宋詞三百首》（本书底本）原作“襏”（衤旁，襏襫是蓑衣），与“祓”（礻旁）形近而误。维基文库《花菴詞選》（四庫全書本）續集卷六、《詞綜》卷十五、《御選歷代詩餘》卷七十三、陈廷焯《白雨齋詞話》卷二引此句均作“仗酒祓清愁”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:38750d23a76e6cc287ea048624a5ac428b0ee466532606d51fd9f9fef26794e0"
+            }
+          }
         },
         {
           "id": "p-songcisanbaishou-0e5d5cc1fab48455-0009",
@@ -16125,12 +16136,23 @@
         },
         {
           "id": "p-songcisanbaishou-d6c76f9a9d7b50af-0005",
-          "version": "sha256:699bfea2dcb1251c496b1e81729f188d2922272c5eb5779685fbe7c9ec522de7",
-          "text": "孤回，盟鸞心在，跨鶴程高，後期無準。",
+          "version": "sha256:ea05063a8e6a4a3143d0e56be86d5fa1d850b186281d302b5b2608dce9a0e5c1",
+          "text": "孤迥，盟鸞心在，跨鶴程高，後期無準。",
           "aliases": [],
           "headingPath": [
             "瑞鶴仙（陸叡）"
-          ]
+          ],
+          "sourceText": "孤回，盟鸞心在，跨鶴程高，後期無準。",
+          "correction": {
+            "reason": "孤迥，盟鸞心在：迥是远，“孤迥”言孤身远隔。维基文库《宋詞三百首》（本书底本）原作“孤回”，与“迥”形近而误。维基文库《絶妙好詞箋》卷三、《御選歷代詩餘》卷七十九、《全芳備祖》前集卷一均作“孤迥”，chinese-poetry 全宋词数据亦作“孤迥”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ea05063a8e6a4a3143d0e56be86d5fa1d850b186281d302b5b2608dce9a0e5c1"
+            }
+          }
         },
         {
           "id": "p-songcisanbaishou-d6c76f9a9d7b50af-0006",
@@ -16182,12 +16204,23 @@
         },
         {
           "id": "p-songcisanbaishou-8939b39d02523212-0002",
-          "version": "sha256:060f5735184f199507549cdb53141c572bd1495da2832be21b519629313b354f",
-          "text": "羞紅鬢淺恨，晚風未落，片繡點重茵。",
+          "version": "sha256:768b31622dab92f3c535f37abf864f90a131a664f87d080b4adc706f24c5245a",
+          "text": "羞紅顰淺恨，晚風未落，片繡點重茵。",
           "aliases": [],
           "headingPath": [
             "渡江雲（吳文英）"
-          ]
+          ],
+          "sourceText": "羞紅鬢淺恨，晚風未落，片繡點重茵。",
+          "correction": {
+            "reason": "羞紅顰淺恨：“顰”是皱眉，与“羞红”相对写花态。维基文库《宋詞三百首》（本书底本）原作“鬢”，与“顰”形近而误。维基文库《夢窻稿》（四庫全書本）卷一、《御選歷代詩餘》卷七十一均作“羞紅顰淺恨”，chinese-poetry 全宋词数据亦作“颦浅恨”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:768b31622dab92f3c535f37abf864f90a131a664f87d080b4adc706f24c5245a"
+            }
+          }
         },
         {
           "id": "p-songcisanbaishou-8939b39d02523212-0003",

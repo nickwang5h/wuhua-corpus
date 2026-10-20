@@ -240,9 +240,20 @@
         },
         {
           "id": "p-shijing-71f1b2ab0532dc6e-0003",
-          "version": "sha256:8f4fcb56b4cb0ff05f271e340a6918b980e75f8f0f0f6e59dd7f3d5d55c9eb30",
-          "text": "肃肃免罝，施于中林。赳赳武夫，公侯腹心。",
-          "aliases": []
+          "version": "sha256:2566aac6945e39256ff32ab92752b96b31cbdf9e99513522a3ef85babbb6c1c6",
+          "text": "肃肃兔罝，施于中林。赳赳武夫，公侯腹心。",
+          "aliases": [],
+          "sourceText": "肃肃免罝，施于中林。赳赳武夫，公侯腹心。",
+          "correction": {
+            "reason": "肃肃兔罝：底本“免”是“兔”的形近误字，本篇题目和前两章都作“兔罝”。维基文库《詩經》/兔罝、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肅肅兔罝”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2566aac6945e39256ff32ab92752b96b31cbdf9e99513522a3ef85babbb6c1c6"
+            }
+          }
         }
       ]
     },
@@ -1051,9 +1062,20 @@
         },
         {
           "id": "p-shijing-6d391fce1546ddb3-0003",
-          "version": "sha256:8d64389de5d93de5b09c11cda3926365209245b858607bc371bf5644b495636e",
-          "text": "爰有寒痊？在浚之下。有子七人，母氏劳苦。",
-          "aliases": []
+          "version": "sha256:33b14a8674307ffee2028a28231812c931153e9dd5dfb006c6a7ae53f2f37fe1",
+          "text": "爰有寒泉？在浚之下。有子七人，母氏劳苦。",
+          "aliases": [],
+          "sourceText": "爰有寒痊？在浚之下。有子七人，母氏劳苦。",
+          "correction": {
+            "reason": "爰有寒泉，在浚之下：底本“痊”是“泉”的形近误字，“寒痊”不成词，下句“在浚之下”说的正是泉水。维基文库《詩經》/凱風、维基文库《毛詩正義》（阮刻十三經注疏本）均作“爰有寒泉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:33b14a8674307ffee2028a28231812c931153e9dd5dfb006c6a7ae53f2f37fe1"
+            }
+          }
         },
         {
           "id": "p-shijing-6d391fce1546ddb3-0004",
@@ -1627,9 +1649,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-9704c03463d88fa6-0001",
-          "version": "sha256:674a7728fd359e69bf0ea1b54c9f70d154469962d2921af47a62b9aa436b4572",
-          "text": "定之方中，作于楚宫。揆之以日，作于楚室。树之榛栗，椅桐梓漆，爰伐琴桑。",
-          "aliases": []
+          "version": "sha256:1583711cac6d8b615e57d100b2e25b9ad51b5195eb23833f68519edd2a94843c",
+          "text": "定之方中，作于楚宫。揆之以日，作于楚室。树之榛栗，椅桐梓漆，爰伐琴瑟。",
+          "aliases": [],
+          "sourceText": "定之方中，作于楚宫。揆之以日，作于楚室。树之榛栗，椅桐梓漆，爰伐琴桑。",
+          "correction": {
+            "reason": "爰伐琴瑟：底本“桑”是“瑟”的误字，种椅桐梓漆是为了伐木作琴瑟，“琴桑”讲不通。维基文库《詩經》/定之方中、维基文库《毛詩正義》（阮刻十三經注疏本）均作“爰伐琴瑟”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1583711cac6d8b615e57d100b2e25b9ad51b5195eb23833f68519edd2a94843c"
+            }
+          }
         },
         {
           "id": "p-shijing-9704c03463d88fa6-0002",
@@ -1837,9 +1870,20 @@
         },
         {
           "id": "p-shijing-96f3bc59c31bfa55-0003",
-          "version": "sha256:2e3b357e72326be56443c3a9775567f393edfe497c08328e15c7634e3d4be9a8",
-          "text": "考槃在六，硕人之轴。独寐寤宿，永矢弗告。",
-          "aliases": []
+          "version": "sha256:8b4961fd8c73eeb2a63c428f79e35fc99ac995c7a5ec7234ec0952adabd8231e",
+          "text": "考槃在陆，硕人之轴。独寐寤宿，永矢弗告。",
+          "aliases": [],
+          "sourceText": "考槃在六，硕人之轴。独寐寤宿，永矢弗告。",
+          "correction": {
+            "reason": "考槃在陆：底本“六”应作“陆”（高平之地），与前两章“在涧”“在阿”并列。维基文库《詩經》/考槃作“考槃在陸”，维基文库《毛詩正義》（阮刻十三經注疏本）同。底本的“六”是把“陸”当作大写数字“陆”误转成“六”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8b4961fd8c73eeb2a63c428f79e35fc99ac995c7a5ec7234ec0952adabd8231e"
+            }
+          }
         }
       ]
     },
@@ -1911,9 +1955,20 @@
         },
         {
           "id": "p-shijing-90d5bd532302b77b-0004",
-          "version": "sha256:3e66cb3b60e7e25b0d6281d84b49fd6348189b63f56f2e039c6f75447e88d06c",
-          "text": "桑之落矣，其黄而陨。自我徂尔，三岁食贫。淇水汤汤，渐车帷裳。女也不爽，士二其行。士也罔极，二三其德。",
-          "aliases": []
+          "version": "sha256:d4629af1e4af200228d2c584dfe83506d813b5c42b024b88e9df8d1a9d0d0ba8",
+          "text": "桑之落矣，其黄而陨。自我徂尔，三岁食贫。淇水汤汤，渐车帷裳。女也不爽，士贰其行。士也罔极，二三其德。",
+          "aliases": [],
+          "sourceText": "桑之落矣，其黄而陨。自我徂尔，三岁食贫。淇水汤汤，渐车帷裳。女也不爽，士二其行。士也罔极，二三其德。",
+          "correction": {
+            "reason": "士贰其行：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“士贰其行”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d4629af1e4af200228d2c584dfe83506d813b5c42b024b88e9df8d1a9d0d0ba8"
+            }
+          }
         },
         {
           "id": "p-shijing-90d5bd532302b77b-0005",
@@ -2109,9 +2164,20 @@
         },
         {
           "id": "p-shijing-16a2363d08b46e4d-0003",
-          "version": "sha256:4decf402620b0616e9b13783a42fb95da50d9a23fc3f5c0c1a54c15a2ca842b3",
-          "text": "投我以木李，报之以琼九。匪报也，永以为好也！",
-          "aliases": []
+          "version": "sha256:c93c744ea9c737cb99e2bd802f627baa60ee15d22c826829f18b6f1164191e5b",
+          "text": "投我以木李，报之以琼玖。匪报也，永以为好也！",
+          "aliases": [],
+          "sourceText": "投我以木李，报之以琼九。匪报也，永以为好也！",
+          "correction": {
+            "reason": "报之以琼玖：与前两章“琼琚”“琼瑶”并列，“琼九”不成词。维基文库《詩經》/木瓜作“報之以瓊玖”，维基文库《毛詩正義》（阮刻十三經注疏本）同。底本把“玖”当作大写数字转成了“九”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c93c744ea9c737cb99e2bd802f627baa60ee15d22c826829f18b6f1164191e5b"
+            }
+          }
         }
       ]
     },
@@ -2308,9 +2374,20 @@
         },
         {
           "id": "p-shijing-beee86f4877c2b78-0002",
-          "version": "sha256:c88241a95f262f8d81b43fe15d3274d75c1c45095a848a329a30ceeb67dbf614",
-          "text": "绵绵葛爰，在河之藟。终远兄弟，谓他人母。谓他人母，亦莫我有！",
-          "aliases": []
+          "version": "sha256:60241bf72dc0bb5edf9d76bdbbe3d4ab435a26625c2bdc55ab297c73a79c9357",
+          "text": "绵绵葛藟，在河之涘。终远兄弟，谓他人母。谓他人母，亦莫我有！",
+          "aliases": [],
+          "sourceText": "绵绵葛爰，在河之藟。终远兄弟，谓他人母。谓他人母，亦莫我有！",
+          "correction": {
+            "reason": "绵绵葛藟，在河之涘：底本第二章首句误作“葛爰”，与第一、三章“绵绵葛藟”不合。维基文库《詩經》/葛藟、维基文库《毛詩正義》（阮刻十三經注疏本）均作“緜緜葛藟”。；绵绵葛藟，在河之涘：底本第二章把“涘”误作“藟”（与上句错位），“在河之藟”讲不通；首章“在河之浒”、末章“在河之漘”都是水边，此章应是“涘”。维基文库《詩經》/葛藟、维基文库《毛詩正義》（阮刻十三經注疏本）均作“在河之涘”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:60241bf72dc0bb5edf9d76bdbbe3d4ab435a26625c2bdc55ab297c73a79c9357"
+            }
+          }
         },
         {
           "id": "p-shijing-beee86f4877c2b78-0003",
@@ -2407,9 +2484,20 @@
         },
         {
           "id": "p-shijing-37d112895623205a-0003",
-          "version": "sha256:a8014045abb555e23c7bd55adc27d7015fa122db5a68568eb605255ed26b0ead",
-          "text": "丘中有李，彼留之子。彼留之子，贻我佩九。",
-          "aliases": []
+          "version": "sha256:c17cd2d44c99c171648520e5994f680f70618ca21013a73b61bd00312e36bd34",
+          "text": "丘中有李，彼留之子。彼留之子，贻我佩玖。",
+          "aliases": [],
+          "sourceText": "丘中有李，彼留之子。彼留之子，贻我佩九。",
+          "correction": {
+            "reason": "贻我佩玖：“佩九”讲不通，玖是似玉的黑石。维基文库《詩經》/丘中有麻作“貽我佩玖”，维基文库《毛詩正義》（阮刻十三經注疏本）同。底本把“玖”当作大写数字转成了“九”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c17cd2d44c99c171648520e5994f680f70618ca21013a73b61bd00312e36bd34"
+            }
+          }
         }
       ]
     },
@@ -2612,15 +2700,37 @@
       "paragraphs": [
         {
           "id": "p-shijing-454f2fcf018c67c7-0001",
-          "version": "sha256:3b3a8a288ac33d0576787e1a85f4637fe74cfd47ec1f5e974c13ea38f2d32986",
-          "text": "遵大路兮，掺执子之袪兮。无我恶兮，不蓵故也！",
-          "aliases": []
+          "version": "sha256:e01c988f99f59fc7ca611b8c12fa3b75f831b237779329276688304dd212cdf1",
+          "text": "遵大路兮，掺执子之袪兮。无我恶兮，不寁故也！",
+          "aliases": [],
+          "sourceText": "遵大路兮，掺执子之袪兮。无我恶兮，不蓵故也！",
+          "correction": {
+            "reason": "不寁故也：底本“蓵”是“寁”（速、疾）的形近误字，“蓵”无义。维基文库《詩經》/遵大路作“不寁故也”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e01c988f99f59fc7ca611b8c12fa3b75f831b237779329276688304dd212cdf1"
+            }
+          }
         },
         {
           "id": "p-shijing-454f2fcf018c67c7-0002",
-          "version": "sha256:2f9860b673fda22ef6e284cc5f48f6983e5311443505a15e627e4eaeef967539",
-          "text": "遵大路兮，掺执子之手兮。无我魗兮，不蓵好也！",
-          "aliases": []
+          "version": "sha256:7af358b87d6fba7e6b972301f347a540b0ab75cacb221ceb83ab96bbb19ea33f",
+          "text": "遵大路兮，掺执子之手兮。无我魗兮，不寁好也！",
+          "aliases": [],
+          "sourceText": "遵大路兮，掺执子之手兮。无我魗兮，不蓵好也！",
+          "correction": {
+            "reason": "不寁好也：同上章，底本“蓵”是“寁”的形近误字。维基文库《詩經》/遵大路作“不寁好也”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7af358b87d6fba7e6b972301f347a540b0ab75cacb221ceb83ab96bbb19ea33f"
+            }
+          }
         }
       ]
     },
@@ -3326,9 +3436,20 @@
         },
         {
           "id": "p-shijing-09ed2eb3872bcef2-0004",
-          "version": "sha256:1959d8e00d5184779f470579dd53e5af12ae1688845ffaca32039ad0b5e5b2cf",
-          "text": "汶水滔滔，行人儦儦。鲁道有荡，齐了游敖。",
-          "aliases": []
+          "version": "sha256:cc31b4caf22c697ff2437e4a9ba2202405b13c79343df6cc4f2305db2f163507",
+          "text": "汶水滔滔，行人儦儦。鲁道有荡，齐子游敖。",
+          "aliases": [],
+          "sourceText": "汶水滔滔，行人儦儦。鲁道有荡，齐了游敖。",
+          "correction": {
+            "reason": "《载驱》第四章“鲁道有荡，齐子游敖”：底本“了”是“子”的形近误字。前三章同位置均作“齐子发夕”“齐子岂弟”“齐子翱翔”，维基文库《诗经·载驱》此句作“齊子遊敖”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:cc31b4caf22c697ff2437e4a9ba2202405b13c79343df6cc4f2305db2f163507"
+            }
+          }
         }
       ]
     },
@@ -5052,9 +5173,20 @@
         },
         {
           "id": "p-shijing-b8fd64888bb2ae47-0002",
-          "version": "sha256:b0fe43574be5972031e32b7b0264d6f0376bb6a84f4718ad5c3db3ac7e28bd76",
-          "text": "既破我斧，又缺我锜。周公东征，四国是遒。哀我人斯，亦孔之嘉。",
-          "aliases": []
+          "version": "sha256:e81e9f6e100833ffba84d0b2ddf07b029f2dc33e1710025412b6337ebabb57ae",
+          "text": "既破我斧，又缺我锜。周公东征，四国是吪。哀我人斯，亦孔之嘉。",
+          "aliases": [],
+          "sourceText": "既破我斧，又缺我锜。周公东征，四国是遒。哀我人斯，亦孔之嘉。",
+          "correction": {
+            "reason": "《破斧》第二章（“又缺我锜……亦孔之嘉”）应作“四国是吪”，底本误抄成第三章的“四国是遒”，致二、三章同句。维基文库《诗经·破斧》第二章作“周公東征，四國是吪”，第三章才作“四國是遒”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e81e9f6e100833ffba84d0b2ddf07b029f2dc33e1710025412b6337ebabb57ae"
+            }
+          }
         },
         {
           "id": "p-shijing-b8fd64888bb2ae47-0003",
@@ -5108,9 +5240,20 @@
         },
         {
           "id": "p-shijing-e88c1fbb1e523ab3-0002",
-          "version": "sha256:f5ff8f9217ef41cc99948e24ef53e381f6f583f3875f984c703bd744824e249b",
-          "text": "鸿飞遵渚，公归无所，于女信处。鸿飞遵六，公归不复，于女信宿。",
-          "aliases": []
+          "version": "sha256:9d7e11f9a52b956848765e0ac2c18fd5a410540ba9cdff7d4c59c1369183980a",
+          "text": "鸿飞遵渚，公归无所，于女信处。鸿飞遵陆，公归不复，于女信宿。",
+          "aliases": [],
+          "sourceText": "鸿飞遵渚，公归无所，于女信处。鸿飞遵六，公归不复，于女信宿。",
+          "correction": {
+            "reason": "鸿飞遵陆：与上章“鸿飞遵渚”对举，“六”应作“陆”。维基文库《詩經》/九罭作“鴻飛遵陸”，维基文库《毛詩正義》（阮刻十三經注疏本）同。与考槃“在六”是同一种错：大写数字“陆”被转成了“六”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9d7e11f9a52b956848765e0ac2c18fd5a410540ba9cdff7d4c59c1369183980a"
+            }
+          }
         },
         {
           "id": "p-shijing-e88c1fbb1e523ab3-0003",
@@ -5139,9 +5282,20 @@
         },
         {
           "id": "p-shijing-b26b32dbec468cea-0002",
-          "version": "sha256:5b129583b02bfe7f013929cf52f2625cee83471ba6badcd707b1acd0c5cc2839",
-          "text": "狼疐其尾，载跋其胡。公孙硕肤，德音不瑕？",
-          "aliases": []
+          "version": "sha256:38248f8d66bfe583c65316b0f6ae8790fbcefad0c57cd6ed279b48588f0ff1e7",
+          "text": "狼疐其尾，载跋其胡。公孙硕肤，德音不瑕。",
+          "aliases": [],
+          "sourceText": "狼疐其尾，载跋其胡。公孙硕肤，德音不瑕？",
+          "correction": {
+            "reason": "《狼跋》末句“德音不瑕”是赞美周公德音无瑕的陈述句，底本句末作问号是标点错。维基文库《诗经·狼跋》作“公孫碩膚，德音不瑕。”，与首章“赤舄几几。”同为句号。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:38248f8d66bfe583c65316b0f6ae8790fbcefad0c57cd6ed279b48588f0ff1e7"
+            }
+          }
         }
       ]
     },
@@ -5877,9 +6031,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-00c83d20b8f1cfdd-0001",
-          "version": "sha256:e2f8f1d463630c8eaba6ef30368f0cbff799a7c63aaf3048b3ab024a0cd0bff7",
-          "text": "薄言采芑，于彼新田，呈此菑亩。方叔涖止，其车三千。师干之试，方叔率止。",
-          "aliases": []
+          "version": "sha256:cced2c78ce10cc78c8fdc217f96d9a1c74425cab86cca8b9f3047093abe4718f",
+          "text": "薄言采芑，于彼新田，于此菑亩。方叔涖止，其车三千。师干之试，方叔率止。",
+          "aliases": [],
+          "sourceText": "薄言采芑，于彼新田，呈此菑亩。方叔涖止，其车三千。师干之试，方叔率止。",
+          "correction": {
+            "reason": "于彼新田，于此菑亩：底本“呈”是“于”的误字，与上句“于彼新田”对举；第三章平行句作“于彼新田，于此中乡”。维基文库《詩經》/采芑、维基文库《毛詩正義》（阮刻十三經注疏本）均作“于此菑畝”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:cced2c78ce10cc78c8fdc217f96d9a1c74425cab86cca8b9f3047093abe4718f"
+            }
+          }
         },
         {
           "id": "p-shijing-00c83d20b8f1cfdd-0002",
@@ -6570,9 +6735,20 @@
         },
         {
           "id": "p-shijing-a2e0bef002f5e0af-0004",
-          "version": "sha256:964743b0c9e270678c92b0e725400b4a56d39c5aae589478224cd6c62d750ffc",
-          "text": "皇父卿士，番维司徒，家伯维宰，仲允膳夫，棸子内史，蹶维趣马，楀维师氏。醘妻煽方处。",
-          "aliases": []
+          "version": "sha256:10c6582db9e7868111f820c791f275e836cb0b75ddc2651142fe1139849a6f4d",
+          "text": "皇父卿士，番维司徒，家伯维宰，仲允膳夫，棸子内史，蹶维趣马，楀维师氏。艳妻煽方处。",
+          "aliases": [],
+          "sourceText": "皇父卿士，番维司徒，家伯维宰，仲允膳夫，棸子内史，蹶维趣马，楀维师氏。醘妻煽方处。",
+          "correction": {
+            "reason": "艳妻煽方处：底本“醘”是“豔（艳）”的形近误字，“醘”无义。维基文库《詩經》/十月之交、维基文库《毛詩正義》（阮刻十三經注疏本）均作“豔妻煽方處”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:10c6582db9e7868111f820c791f275e836cb0b75ddc2651142fe1139849a6f4d"
+            }
+          }
         },
         {
           "id": "p-shijing-a2e0bef002f5e0af-0005",
@@ -6766,9 +6942,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-344b82e3efdaa919-0001",
-          "version": "sha256:a8521407aaf8cb7a4b56c7532efb4b70f14e56bb147a7503a9010fdd0ac8e7cc",
-          "text": "弁彼鸴斯，归飞提提。民莫不谷，我独于罹。何辜于天？我罪伊何？心之忧矣，云如之何？",
-          "aliases": []
+          "version": "sha256:e9d0dad318c77be72a5c657eaad7defc503f99cc613c6033cc60bdc23b797181",
+          "text": "弁彼鸒斯，归飞提提。民莫不谷，我独于罹。何辜于天？我罪伊何？心之忧矣，云如之何？",
+          "aliases": [],
+          "sourceText": "弁彼鸴斯，归飞提提。民莫不谷，我独于罹。何辜于天？我罪伊何？心之忧矣，云如之何？",
+          "correction": {
+            "reason": "弁彼鸒斯：鸒是卑居（寒鸦），毛传“鸒，卑居”。底本“鸴”是“鷽”（山鹊）的简体，“鷽”与“鸒”上部形近而误。维基文库《詩經》/小弁作“弁彼鸒斯”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e9d0dad318c77be72a5c657eaad7defc503f99cc613c6033cc60bdc23b797181"
+            }
+          }
         },
         {
           "id": "p-shijing-344b82e3efdaa919-0002",
@@ -6894,27 +7081,71 @@
         },
         {
           "id": "p-shijing-98e3dcfc22080864-0004",
-          "version": "sha256:5ba984f2fd2a02737932a85d7b046cf6dc88f4f5f99e3ffb4aabf828f8b05a65",
-          "text": "彼何人斯？其为飘风。胡不自北？胡不自南？胡逝我梁？絺搅我心。",
-          "aliases": []
+          "version": "sha256:a4f0f1c9ce06bef5bbde2a45939895b4f577e7de819c0250ef3bbf3764589734",
+          "text": "彼何人斯？其为飘风。胡不自北？胡不自南？胡逝我梁？祇搅我心。",
+          "aliases": [],
+          "sourceText": "彼何人斯？其为飘风。胡不自北？胡不自南？胡逝我梁？絺搅我心。",
+          "correction": {
+            "reason": "胡逝我梁？祇搅我心：底本“絺”（细葛布）是“祇”的误字，讲不通。维基文库《詩經》/何人斯作“祇攪我心”（注另本作“祗”），维基文库《毛詩正義》（阮刻十三經注疏本）作“祇攪我心”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a4f0f1c9ce06bef5bbde2a45939895b4f577e7de819c0250ef3bbf3764589734"
+            }
+          }
         },
         {
           "id": "p-shijing-98e3dcfc22080864-0005",
-          "version": "sha256:ac018ddeb7f619046ef571cec980c38ce66052681967336520ac815fe8ba429b",
-          "text": "尔之安行，亦不遑舍。尔之亟行，遑脂尔车。一者之来，云何其盱。",
-          "aliases": []
+          "version": "sha256:bd963fad8bf4e459d24bb23ec6073e86aa3d1b3703b9722653af7af7b0908806",
+          "text": "尔之安行，亦不遑舍。尔之亟行，遑脂尔车。壹者之来，云何其盱。",
+          "aliases": [],
+          "sourceText": "尔之安行，亦不遑舍。尔之亟行，遑脂尔车。一者之来，云何其盱。",
+          "correction": {
+            "reason": "壹者之来：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“壹者之来”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:bd963fad8bf4e459d24bb23ec6073e86aa3d1b3703b9722653af7af7b0908806"
+            }
+          }
         },
         {
           "id": "p-shijing-98e3dcfc22080864-0006",
-          "version": "sha256:48b7401c2774857e822168052a2a1792e9ab955ebdae8167afdfaa0554dd9233",
-          "text": "尔还而入，我心易也。还而不入，否难知也。一者之来，俾我絺也。",
-          "aliases": []
+          "version": "sha256:97c5e19c0da35abfdd723f9c297b4f36dc1cfcfd5462adb196576701363817bc",
+          "text": "尔还而入，我心易也。还而不入，否难知也。壹者之来，俾我祇也。",
+          "aliases": [],
+          "sourceText": "尔还而入，我心易也。还而不入，否难知也。一者之来，俾我絺也。",
+          "correction": {
+            "reason": "一者之来，俾我祇也：底本“絺”是“祇”（病）的误字，与第四章同误。维基文库《詩經》/何人斯、维基文库《毛詩正義》（阮刻十三經注疏本）均作“俾我祇也”。；壹者之来：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“壹者之来”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:97c5e19c0da35abfdd723f9c297b4f36dc1cfcfd5462adb196576701363817bc"
+            }
+          }
         },
         {
           "id": "p-shijing-98e3dcfc22080864-0007",
-          "version": "sha256:e6a4bc61ba5baa138b2b4c9f2ca61012c7693af74bd13e9d90824e6d3e28df3e",
-          "text": "伯氏吹埙，仲氏吹篪。及尔如贯，谅不我郑出此三物，以诅尔斯。",
-          "aliases": []
+          "version": "sha256:388edb7520c6574429bdf107957d220d9199b19d2a3af47bad2f6c245ad759ef",
+          "text": "伯氏吹埙，仲氏吹篪。及尔如贯，谅不我知。出此三物，以诅尔斯。",
+          "aliases": [],
+          "sourceText": "伯氏吹埙，仲氏吹篪。及尔如贯，谅不我郑出此三物，以诅尔斯。",
+          "correction": {
+            "reason": "及尔如贯，谅不我知。出此三物：底本“知”误作“郑”，句末又漏了句号，使两句连在一起。维基文库《詩經》/何人斯作“諒不我知。出此三物”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:388edb7520c6574429bdf107957d220d9199b19d2a3af47bad2f6c245ad759ef"
+            }
+          }
         },
         {
           "id": "p-shijing-98e3dcfc22080864-0008",
@@ -7121,9 +7352,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-961b57f3a40b6276-0001",
-          "version": "sha256:c0c1b957b16975f99bf24734cf704c707cace3e972deb356608660c5822deb3c",
-          "text": "四月维夏，六月徂署。先祖匪人，胡宁忍予？",
-          "aliases": []
+          "version": "sha256:b86767b8ef1ad08d835637fca855a314b058ee4a78772ecce2993b5422787044",
+          "text": "四月维夏，六月徂暑。先祖匪人，胡宁忍予？",
+          "aliases": [],
+          "sourceText": "四月维夏，六月徂署。先祖匪人，胡宁忍予？",
+          "correction": {
+            "reason": "六月徂暑：底本“署”是“暑”的形近误字，六月往而暑退，“徂署”讲不通。维基文库《詩經》/四月、维基文库《毛詩正義》（阮刻十三經注疏本）均作“六月徂暑”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b86767b8ef1ad08d835637fca855a314b058ee4a78772ecce2993b5422787044"
+            }
+          }
         },
         {
           "id": "p-shijing-961b57f3a40b6276-0002",
@@ -7372,9 +7614,20 @@
         },
         {
           "id": "p-shijing-af2267ae7f9a70e4-0003",
-          "version": "sha256:03df928eea1b75b99e56162d1a09a062df01fc1d514ed9ed07fd0c24e014b27b",
-          "text": "济济跄跄，絜尔牛羊，以往烝尝。或剥或亨，或四或将。祝祭于祊，",
-          "aliases": []
+          "version": "sha256:9ce83093645f41a79e5889ff85a021e0b9ef4829bfca2493c99037722154e534",
+          "text": "济济跄跄，絜尔牛羊，以往烝尝。或剥或亨，或肆或将。祝祭于祊，",
+          "aliases": [],
+          "sourceText": "济济跄跄，絜尔牛羊，以往烝尝。或剥或亨，或四或将。祝祭于祊，",
+          "correction": {
+            "reason": "或肆或将：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“或肆或将”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9ce83093645f41a79e5889ff85a021e0b9ef4829bfca2493c99037722154e534"
+            }
+          }
         },
         {
           "id": "p-shijing-af2267ae7f9a70e4-0004",
@@ -8635,9 +8888,20 @@
         },
         {
           "id": "p-shijing-2154248e1b479d12-0008",
-          "version": "sha256:975d31c293ac941894303b5d13c7289bd24d1843746d7ae034ceb75fd35d26be",
-          "text": "牧野洋洋，檀车煌煌，驷騵彭彭。维师尚父，时维鹰扬。凉彼武王，四伐大商，会朝清明。",
-          "aliases": []
+          "version": "sha256:fa38842d55edec9c5dd41859981336a209a2e710eab6fbc47a306477f1162f5d",
+          "text": "牧野洋洋，檀车煌煌，驷騵彭彭。维师尚父，时维鹰扬。凉彼武王，肆伐大商，会朝清明。",
+          "aliases": [],
+          "sourceText": "牧野洋洋，檀车煌煌，驷騵彭彭。维师尚父，时维鹰扬。凉彼武王，四伐大商，会朝清明。",
+          "correction": {
+            "reason": "肆伐大商：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆伐大商”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:fa38842d55edec9c5dd41859981336a209a2e710eab6fbc47a306477f1162f5d"
+            }
+          }
         }
       ]
     },
@@ -8654,9 +8918,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-d609bc10c5fe443f-0001",
-          "version": "sha256:e7db681aa560cf9674c2ad627dca95174b97d5a573e8ede7a21ac062fd400cd5",
-          "text": "绵绵瓜瓞。民之初生，自土沮漆。古公亶父，陶复陶冗，未有家室。",
-          "aliases": []
+          "version": "sha256:aa2630a6064a0cb184afe5a86acbc2176d425f9b522b60e088628de32f7219f1",
+          "text": "绵绵瓜瓞。民之初生，自土沮漆。古公亶父，陶复陶穴，未有家室。",
+          "aliases": [],
+          "sourceText": "绵绵瓜瓞。民之初生，自土沮漆。古公亶父，陶复陶冗，未有家室。",
+          "correction": {
+            "reason": "陶复陶穴：底本“冗”是“穴”的形近误字，“陶穴”指掘土为窑穴。维基文库《詩經》/緜作“陶復陶穴”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:aa2630a6064a0cb184afe5a86acbc2176d425f9b522b60e088628de32f7219f1"
+            }
+          }
         },
         {
           "id": "p-shijing-d609bc10c5fe443f-0002",
@@ -8696,9 +8971,20 @@
         },
         {
           "id": "p-shijing-d609bc10c5fe443f-0008",
-          "version": "sha256:c79cfd8fed1b609aefd5e8849576545a933e7108f5f6d0ba41aacb8c19e85748",
-          "text": "四不殄厥愠，亦不陨厥问。柞棫拔矣，行道兑矣。混夷駾矣，维其喙矣！",
-          "aliases": []
+          "version": "sha256:3d7aa19404188f4f312319b4519335652bea8d11f35e947b3896725294cce6e0",
+          "text": "肆不殄厥愠，亦不陨厥问。柞棫拔矣，行道兑矣。混夷駾矣，维其喙矣！",
+          "aliases": [],
+          "sourceText": "四不殄厥愠，亦不陨厥问。柞棫拔矣，行道兑矣。混夷駾矣，维其喙矣！",
+          "correction": {
+            "reason": "肆不殄厥愠：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆不殄厥愠”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3d7aa19404188f4f312319b4519335652bea8d11f35e947b3896725294cce6e0"
+            }
+          }
         },
         {
           "id": "p-shijing-d609bc10c5fe443f-0009",
@@ -8831,9 +9117,20 @@
         },
         {
           "id": "p-shijing-a9d34a70575f57b0-0004",
-          "version": "sha256:bf51773ec79e4d34be84503013b0214b30d147d82e3695a3713e8510cf33abbf",
-          "text": "四戎疾不殄，烈假不瑕。不闻亦式，不谏亦入。四成人有德，小子有造。古之人无斁，誉髦斯士。",
-          "aliases": []
+          "version": "sha256:69866d924d5fb74a14f8134422966d96d40c591da959732b640ddb4c0b1099d8",
+          "text": "肆戎疾不殄，烈假不瑕。不闻亦式，不谏亦入。肆成人有德，小子有造。古之人无斁，誉髦斯士。",
+          "aliases": [],
+          "sourceText": "四戎疾不殄，烈假不瑕。不闻亦式，不谏亦入。四成人有德，小子有造。古之人无斁，誉髦斯士。",
+          "correction": {
+            "reason": "肆戎疾不殄：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆戎疾不殄”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。；肆成人有德：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆成人有德”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:69866d924d5fb74a14f8134422966d96d40c591da959732b640ddb4c0b1099d8"
+            }
+          }
         }
       ]
     },
@@ -8928,9 +9225,20 @@
         },
         {
           "id": "p-shijing-467b6fb388aeb482-0014",
-          "version": "sha256:a880593258a6d1a0e4dacdbab23ec4180c928b9b6db37ccb3ae192bb7584f1fb",
-          "text": "帝谓文王：訽尔仇方，同尔弟兄。以尔钩援，与尔临冲，以伐崇墉。",
-          "aliases": []
+          "version": "sha256:adca68f1a80b442061b915e5720fe17c18eb82809264b1bf7602797402ca6d81",
+          "text": "帝谓文王：询尔仇方，同尔弟兄。以尔钩援，与尔临冲，以伐崇墉。",
+          "aliases": [],
+          "sourceText": "帝谓文王：訽尔仇方，同尔弟兄。以尔钩援，与尔临冲，以伐崇墉。",
+          "correction": {
+            "reason": "帝谓文王：询尔仇方：底本“訽”（同“诟”）是“詢”的形近误字，与下句“同尔弟兄”并列，应是询问、商量。维基文库《詩經》/皇矣、维基文库《毛詩正義》（阮刻十三經注疏本）均作“詢爾仇方”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:adca68f1a80b442061b915e5720fe17c18eb82809264b1bf7602797402ca6d81"
+            }
+          }
         },
         {
           "id": "p-shijing-467b6fb388aeb482-0015",
@@ -8940,9 +9248,20 @@
         },
         {
           "id": "p-shijing-467b6fb388aeb482-0016",
-          "version": "sha256:c8104b063831886b64ae4f9f4cf0bf6e0ffd4a7a4c4d53f98d4416afafd4ef99",
-          "text": "四方以无侮。临冲茀茀，崇墉仡仡。是伐是四，是绝是忽。四方以无拂。",
-          "aliases": []
+          "version": "sha256:9611d0de5f273a72706016f0f39b5b480a7304224c905eca4d2f4a235dad853d",
+          "text": "四方以无侮。临冲茀茀，崇墉仡仡。是伐是肆，是绝是忽。四方以无拂。",
+          "aliases": [],
+          "sourceText": "四方以无侮。临冲茀茀，崇墉仡仡。是伐是四，是绝是忽。四方以无拂。",
+          "correction": {
+            "reason": "是伐是肆：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“是伐是肆”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9611d0de5f273a72706016f0f39b5b480a7304224c905eca4d2f4a235dad853d"
+            }
+          }
         }
       ]
     },
@@ -9221,15 +9540,37 @@
         },
         {
           "id": "p-shijing-4fd8dda408fe0d74-0002",
-          "version": "sha256:4297792c5f8348e16c6a176882a1428acc8b745edb728600ff826742338c432a",
-          "text": "戚戚兄弟，莫远具尔。或四之筵，或授之几。",
-          "aliases": []
+          "version": "sha256:c1d95b3dda474db0c1871909b7df6ce92f1efdc9b5330305c68a4d93a161f352",
+          "text": "戚戚兄弟，莫远具尔。或肆之筵，或授之几。",
+          "aliases": [],
+          "sourceText": "戚戚兄弟，莫远具尔。或四之筵，或授之几。",
+          "correction": {
+            "reason": "或肆之筵：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“或肆之筵”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c1d95b3dda474db0c1871909b7df6ce92f1efdc9b5330305c68a4d93a161f352"
+            }
+          }
         },
         {
           "id": "p-shijing-4fd8dda408fe0d74-0003",
-          "version": "sha256:25cbc0c8126d1f35a94f492ed49db3345a064f2c62ee527ba130655d6cfeeca9",
-          "text": "四筵设席，授几有缉御。或献或酢，洗爵奠斝。",
-          "aliases": []
+          "version": "sha256:eed6defcef5d7ea6a29451221c0f47b94e528d8fcd2affa10c07df5759ba46ba",
+          "text": "肆筵设席，授几有缉御。或献或酢，洗爵奠斝。",
+          "aliases": [],
+          "sourceText": "四筵设席，授几有缉御。或献或酢，洗爵奠斝。",
+          "correction": {
+            "reason": "肆筵设席：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆筵设席”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:eed6defcef5d7ea6a29451221c0f47b94e528d8fcd2affa10c07df5759ba46ba"
+            }
+          }
         },
         {
           "id": "p-shijing-4fd8dda408fe0d74-0004",
@@ -9251,9 +9592,20 @@
         },
         {
           "id": "p-shijing-4fd8dda408fe0d74-0007",
-          "version": "sha256:13091dd1d3e38ddabec24347d81c713b2efd833c29d5b0dd33e93e2dc4bc5823",
-          "text": "曾孙维主，酒醴维醽，酌以大斗，以祈黄耇。",
-          "aliases": []
+          "version": "sha256:b3d927529a8c1f9e30864aebbed9c1cf47021fd97a02c18d93bee1ff6def4521",
+          "text": "曾孙维主，酒醴维醹，酌以大斗，以祈黄耇。",
+          "aliases": [],
+          "sourceText": "曾孙维主，酒醴维醽，酌以大斗，以祈黄耇。",
+          "correction": {
+            "reason": "酒醴维醹：醹是酒味醇厚，底本“醽”是形近误字（醽是酒名，不合句法）。维基文库《詩經》/行葦作“酒醴維醹”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b3d927529a8c1f9e30864aebbed9c1cf47021fd97a02c18d93bee1ff6def4521"
+            }
+          }
         },
         {
           "id": "p-shijing-4fd8dda408fe0d74-0008",
@@ -9306,9 +9658,20 @@
         },
         {
           "id": "p-shijing-b0df445d3afcd031-0006",
-          "version": "sha256:8700c76e440467a334159f0f568ecfd34965b4bb8f46ff02427f9a3eb15e8075",
-          "text": "其类维何？室家之壶。君子万年，永锡祚胤。",
-          "aliases": []
+          "version": "sha256:eddc0cfcff69c498d872d1418eea6a5bb9a4c15b4a59e069678fec8bea04e715",
+          "text": "其类维何？室家之壸。君子万年，永锡祚胤。",
+          "aliases": [],
+          "sourceText": "其类维何？室家之壶。君子万年，永锡祚胤。",
+          "correction": {
+            "reason": "室家之壸：壸（kǔn，宫中巷道，引申为内室）与“壶”形近而误，“室家之壶”讲不通。维基文库《詩經》/既醉、维基文库《毛詩正義》（阮刻十三經注疏本）均作“室家之壼”（壼即壸的繁体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:eddc0cfcff69c498d872d1418eea6a5bb9a4c15b4a59e069678fec8bea04e715"
+            }
+          }
         },
         {
           "id": "p-shijing-b0df445d3afcd031-0007",
@@ -9337,9 +9700,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-05b80182f2bf70ee-0001",
-          "version": "sha256:01a62ebc5a2cb3018f6b00d090c0e562389ab86f1e39371b0a9a828a44a305bd",
-          "text": "凫鹥在泾，公尸在燕来宁。尔酒既清，尔肴既馨。公尸燕饮，福禄来成。",
-          "aliases": []
+          "version": "sha256:37c8e9eb03cfffd60832038bca11fefe862a8f7d1a6e8716fea6271a7f0fc9eb",
+          "text": "凫鹥在泾，公尸来燕来宁。尔酒既清，尔肴既馨。公尸燕饮，福禄来成。",
+          "aliases": [],
+          "sourceText": "凫鹥在泾，公尸在燕来宁。尔酒既清，尔肴既馨。公尸燕饮，福禄来成。",
+          "correction": {
+            "reason": "公尸来燕来宁：底本首章“在燕”与后三章“来燕来宜”“来燕来处”“来燕来宗”不合，“在”是涉上句“凫鹥在泾”而误。维基文库《詩經》/鳬鷖、维基文库《毛詩正義》（阮刻十三經注疏本）均作“公尸來燕來寧”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:37c8e9eb03cfffd60832038bca11fefe862a8f7d1a6e8716fea6271a7f0fc9eb"
+            }
+          }
         },
         {
           "id": "p-shijing-05b80182f2bf70ee-0002",
@@ -9386,9 +9760,20 @@
         },
         {
           "id": "p-shijing-b80458200e5b6ff0-0002",
-          "version": "sha256:e6f4e53a75be2b5848b704c46a4ed69a9483d64a263661559eb16da6e0bfd2d1",
-          "text": "千禄百福，子孙千亿。穆穆皇皇，宜君宜王。不愆不忘，率由旧章。",
-          "aliases": []
+          "version": "sha256:15fb13a3f15fec52b366f75a4c14bda6ce0c4cde30a12375dc14d84e31e4bb4c",
+          "text": "干禄百福，子孙千亿。穆穆皇皇，宜君宜王。不愆不忘，率由旧章。",
+          "aliases": [],
+          "sourceText": "千禄百福，子孙千亿。穆穆皇皇，宜君宜王。不愆不忘，率由旧章。",
+          "correction": {
+            "reason": "干禄百福：干是求，底本“千”是“干”的形近误字。维基文库《詩經》/假樂作“干祿百福”，维基文库《毛詩正義》（阮刻十三經注疏本）同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:15fb13a3f15fec52b366f75a4c14bda6ce0c4cde30a12375dc14d84e31e4bb4c"
+            }
+          }
         },
         {
           "id": "p-shijing-b80458200e5b6ff0-0003",
@@ -9921,9 +10306,20 @@
         },
         {
           "id": "p-shijing-836cb5005c984b5d-0005",
-          "version": "sha256:31db38241be0a0f97c202addeeb2a261b9cca2dfc5fa7e4d687ecdc5286fb6d7",
-          "text": "四皇天弗尚，如彼泉流，无沦胥以亡。夙兴夜寐，洒扫庭内，维民之章。",
-          "aliases": []
+          "version": "sha256:31753a017d4580a74b55afbfad87bf773b095e0481341373dfa7392b0bd177b8",
+          "text": "肆皇天弗尚，如彼泉流，无沦胥以亡。夙兴夜寐，洒扫庭内，维民之章。",
+          "aliases": [],
+          "sourceText": "四皇天弗尚，如彼泉流，无沦胥以亡。夙兴夜寐，洒扫庭内，维民之章。",
+          "correction": {
+            "reason": "肆皇天弗尚：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆皇天弗尚”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:31753a017d4580a74b55afbfad87bf773b095e0481341373dfa7392b0bd177b8"
+            }
+          }
         },
         {
           "id": "p-shijing-836cb5005c984b5d-0006",
@@ -10278,9 +10674,20 @@
         },
         {
           "id": "p-shijing-4a6175f57b9433f4-0008",
-          "version": "sha256:c502841ac7b26141c76521953bf5820aea62bca18b041df8fb0322a76ebbb8d1",
-          "text": "申伯之德，柔惠且直。揉此万邦，闻于四国。吉甫作诵，其诗孔硕。其风四好，以赠申伯。",
-          "aliases": []
+          "version": "sha256:fbdd6fc610427a1b3cd1a689b2e87551cbc9e75d356246a87441968500416c95",
+          "text": "申伯之德，柔惠且直。揉此万邦，闻于四国。吉甫作诵，其诗孔硕。其风肆好，以赠申伯。",
+          "aliases": [],
+          "sourceText": "申伯之德，柔惠且直。揉此万邦，闻于四国。吉甫作诵，其诗孔硕。其风四好，以赠申伯。",
+          "correction": {
+            "reason": "其风肆好：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“其风肆好”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:fbdd6fc610427a1b3cd1a689b2e87551cbc9e75d356246a87441968500416c95"
+            }
+          }
         }
       ]
     },
@@ -10842,9 +11249,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-8ed0cba30dab43bb-0001",
-          "version": "sha256:7ebb1de1c182f7328d6fa870b712f4e39821b5c27da2479730e07325bd09f9b1",
-          "text": "昊天有成命，二后受之。成王不敢康，夙夜基命宥密。于缉熙！单厥心，四其靖之。",
-          "aliases": []
+          "version": "sha256:d4b6e1e262f252c8687e82b1602da34d5b02bc802f428587d7ac33a1603a5aaf",
+          "text": "昊天有成命，二后受之。成王不敢康，夙夜基命宥密。于缉熙！单厥心，肆其靖之。",
+          "aliases": [],
+          "sourceText": "昊天有成命，二后受之。成王不敢康，夙夜基命宥密。于缉熙！单厥心，四其靖之。",
+          "correction": {
+            "reason": "肆其靖之：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆其靖之”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d4b6e1e262f252c8687e82b1602da34d5b02bc802f428587d7ac33a1603a5aaf"
+            }
+          }
         }
       ]
     },
@@ -10892,9 +11310,20 @@
         },
         {
           "id": "p-shijing-fe04a930b475a544-0002",
-          "version": "sha256:61a5755316ab95315f004fd68aa2b48b8f64264b40e1b1079029c5c560009815",
-          "text": "明昭有周，式序在位。载戢干戈，载橐弓矢。我求懿德，四于时夏，允王保之。",
-          "aliases": []
+          "version": "sha256:91de6d2e361557b5591454a9ad8a7611a884f99afce46b6230435283529c8925",
+          "text": "明昭有周，式序在位。载戢干戈，载橐弓矢。我求懿德，肆于时夏，允王保之。",
+          "aliases": [],
+          "sourceText": "明昭有周，式序在位。载戢干戈，载橐弓矢。我求懿德，四于时夏，允王保之。",
+          "correction": {
+            "reason": "肆于时夏：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆于时夏”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:91de6d2e361557b5591454a9ad8a7611a884f99afce46b6230435283529c8925"
+            }
+          }
         }
       ]
     },
@@ -11081,9 +11510,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-8651304668a0aa1e-0001",
-          "version": "sha256:8657875862cafe648e3fe6b0fb07652704614eb8cdbba0cd56f6bc1aa1033b43",
-          "text": "有来雝雝，至止肃肃。相维辟公，天子穆穆。于荐广牡，相予四祀。假哉皇考！绥予孝子。",
-          "aliases": []
+          "version": "sha256:e32f74c9933aeed46ff85a2541731ea2b0b635e1fbc0610a2b2a620323633ac6",
+          "text": "有来雝雝，至止肃肃。相维辟公，天子穆穆。于荐广牡，相予肆祀。假哉皇考！绥予孝子。",
+          "aliases": [],
+          "sourceText": "有来雝雝，至止肃肃。相维辟公，天子穆穆。于荐广牡，相予四祀。假哉皇考！绥予孝子。",
+          "correction": {
+            "reason": "相予肆祀：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“相予肆祀”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e32f74c9933aeed46ff85a2541731ea2b0b635e1fbc0610a2b2a620323633ac6"
+            }
+          }
         },
         {
           "id": "p-shijing-8651304668a0aa1e-0002",
