@@ -58,7 +58,10 @@ export async function checkCorpus(){
   for(const c of book.chapters){if(!allowed.has(c.source)||(!c.paragraphs.length&&!c.images?.length))throw new Error(`Invalid body source ${c.id}`);for(const im of c.images??[]){if(!source.pages.some((p:any)=>p.images?.some((x:any)=>JSON.stringify(x)===JSON.stringify(im))))throw new Error(`Image provenance mismatch ${im.id}`);await verifyImage(im);}for(const p of c.paragraphs){if(p.version!==`sha256:${digest(p.text)}`)throw new Error(`Text version mismatch ${p.id}`);if(residue(p.text).some(w=>w!=='source-missing-glyph'))throw new Error(`Contamination ${p.id}`);}}
   books.push(book);
  }
- validateBooks(books);validateHistory(history.records,history.transitions,books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));return books;
+ validateBooks(books);
+ // History also maps corrections in the three hand-imported books, which are not synced targets.
+ const pinned=await Promise.all([...frozen].map(id=>jsonFile<TextBook>(`src/books/${id}.json`)));
+ validateHistory(history.records,history.transitions,[...books,...pinned].flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));return books;
 }
 async function catalog(){
  const names=(await readdir(new URL('src/books/',root))).filter(n=>/^[a-z0-9-]+\.json$/.test(n));
