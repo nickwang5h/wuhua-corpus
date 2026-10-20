@@ -32,7 +32,8 @@ test('the Siku replacement alone opts into glyph placeholders and records every 
  assert.match(book.chapters[1].paragraphs[0].text,/^䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣/);
  let total=0;
  for(const c of book.chapters){
-  const count=c.paragraphs.reduce((n,p)=>n+Array.from(p.text).filter(g=>g==='□').length,0);
+  // Counted in the source wording: a reviewed correction may restore a placeholder's character.
+  const count=c.paragraphs.reduce((n,p)=>n+Array.from(p.sourceText??p.text).filter(g=>g==='□').length,0);
   const warning=source.warnings.find(w=>w.startsWith(`source-missing-glyph-images: ${source.rootTitle}/${c.title}: `));
   assert.equal(warning?Number(warning.split(': ').at(-1)):0,count,c.title);total+=count;
  }

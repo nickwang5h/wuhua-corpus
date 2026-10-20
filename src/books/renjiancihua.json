@@ -311,9 +311,20 @@
         },
         {
           "id": "p-renjiancihua-df0e1d604453d812-0050",
-          "version": "sha256:70d86885d7130d26971aad9a0e9340320f411407af27fefe7b8c15eed746ed21",
-          "text": "《诗o蒹葭》一篇，最得风人深致。晏同叔之\"昨夜西风凋碧树。独上高楼，望尽天涯路。\"意颇近之。但一洒落，一悲壮耳。",
-          "aliases": []
+          "version": "sha256:dccabcab638ce27f7e82dda1e1b95dc32492ffcb4197321908edaf01ad02890a",
+          "text": "《诗·蒹葭》一篇，最得风人深致。晏同叔之\"昨夜西风凋碧树。独上高楼，望尽天涯路。\"意颇近之。但一洒落，一悲壮耳。",
+          "aliases": [],
+          "sourceText": "《诗o蒹葭》一篇，最得风人深致。晏同叔之\"昨夜西风凋碧树。独上高楼，望尽天涯路。\"意颇近之。但一洒落，一悲壮耳。",
+          "correction": {
+            "reason": "《诗·蒹葭》一篇：书名与篇名之间应为间隔号“·”，底本误作拉丁字母“o”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:dccabcab638ce27f7e82dda1e1b95dc32492ffcb4197321908edaf01ad02890a"
+            }
+          }
         },
         {
           "id": "p-renjiancihua-df0e1d604453d812-0051",
@@ -359,9 +370,20 @@
         },
         {
           "id": "p-renjiancihua-df0e1d604453d812-0058",
-          "version": "sha256:383e6abca000c32fb48e6ac41cee3a44b242f0f8941c099d7a12d6a9161ef99a",
-          "text": "冯梦华《宋六十一家词选o序例》谓：\"淮海、小山，古之伤心人也。其淡语皆有味，浅语皆有致。\"余谓此唯淮海足以当之。小山矜贵有余，但可方驾子野、方回，未足抗衡淮海也。",
-          "aliases": []
+          "version": "sha256:4d9c082c93ba973dcb8a7c7c2bf3fed998b31dd69a24b3f413bacd5b6e7d9367",
+          "text": "冯梦华《宋六十一家词选·序例》谓：\"淮海、小山，古之伤心人也。其淡语皆有味，浅语皆有致。\"余谓此唯淮海足以当之。小山矜贵有余，但可方驾子野、方回，未足抗衡淮海也。",
+          "aliases": [],
+          "sourceText": "冯梦华《宋六十一家词选o序例》谓：\"淮海、小山，古之伤心人也。其淡语皆有味，浅语皆有致。\"余谓此唯淮海足以当之。小山矜贵有余，但可方驾子野、方回，未足抗衡淮海也。",
+          "correction": {
+            "reason": "冯梦华《宋六十一家词选·序例》：书名与篇名之间应为间隔号“·”，底本误作拉丁字母“o”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4d9c082c93ba973dcb8a7c7c2bf3fed998b31dd69a24b3f413bacd5b6e7d9367"
+            }
+          }
         },
         {
           "id": "p-renjiancihua-df0e1d604453d812-0059",

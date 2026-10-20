@@ -8180,12 +8180,23 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-2a2b1b9a2e2c06ba-0096",
-          "version": "sha256:d938b2a53f68224e5ef8bf108774da96e6ac76454ec9908056eb7c72d92d3419",
-          "text": "〈〔注〕拭刀而技之也。〉",
+          "version": "sha256:56532dbc86658eea09c8e68b2cfc96679d22f00d1a637c3dd613b2248411f024",
+          "text": "〈〔注〕拭刀而弢之也。〉",
           "aliases": [],
           "headingPath": [
             "內篇養生主第三"
-          ]
+          ],
+          "sourceText": "〈〔注〕拭刀而技之也。〉",
+          "correction": {
+            "reason": "〔注〕拭刀而弢之也：注释经文“善刀而藏之”，“弢”是把刀收入刀衣。维基文库《南華真經（四部叢刊本）》卷第二此注作“拭刀而弢之也”，陆德明音义“弢，他刀反”；底本“技”是“弢”的形近误字。（分派清单以为当作“藏”，核四部丛刊本郭注原字是“弢”。）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:56532dbc86658eea09c8e68b2cfc96679d22f00d1a637c3dd613b2248411f024"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-2a2b1b9a2e2c06ba-0097",
@@ -8315,12 +8326,23 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-2a2b1b9a2e2c06ba-0111",
-          "version": "sha256:968ed614ec309121b2ea3ea63069faf1350236f0b7a1ab2f0116bac9a8518001",
-          "text": "〈〔注〕兩足共行日有與。有與之貌，未有疑其非命也。〉",
+          "version": "sha256:df0aebf15ce1701c686450f968f95781bc8839f9bcaaf05af30de873f999f522",
+          "text": "〈〔注〕兩足共行曰有與。有與之貌，未有疑其非命也。〉",
           "aliases": [],
           "headingPath": [
             "內篇養生主第三"
-          ]
+          ],
+          "sourceText": "〈〔注〕兩足共行日有與。有與之貌，未有疑其非命也。〉",
+          "correction": {
+            "reason": "〔注〕兩足共行曰有與：训释经文“人之貌有與也”，是“A曰B”的释义句式，下文疏亦言“凡人之貌，皆有兩足共行”。维基文库《南華真經（四部叢刊本）》卷第二郭注作“兩足共行曰有與”；底本“日”是“曰”的形近误字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:df0aebf15ce1701c686450f968f95781bc8839f9bcaaf05af30de873f999f522"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-2a2b1b9a2e2c06ba-0112",
@@ -9647,12 +9669,23 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-a66bbe17211768da-0098",
-          "version": "sha256:2aae4ff154b0c029255b6b12ad199f5de9f342492789ec7504c05e2c5a8fabf6",
-          "text": "〈〔疏〕堯禹二君，已具前解。叢枝，胥敖，有扈，並是國名。有扈者，今雍州鄂縣是也。宅無人日墟，鬼無後日厲。言此三國之君，悉皆無道，好起兵戈，征伐他國。豈唯責求實利，亦乃規覓虛名，遂使境域丘墟，人民絕滅，身遭刑戮，宗廟顛殞。責名求實，一至如斯，今古共知，汝獨不聞也。〉",
+          "version": "sha256:8f877bb13a56faa56db094f0a828f1d312c769f8d7ef777d39fec1ac9c7ad37a",
+          "text": "〈〔疏〕堯禹二君，已具前解。叢枝，胥敖，有扈，並是國名。有扈者，今雍州鄂縣是也。宅無人曰墟，鬼無後曰厲。言此三國之君，悉皆無道，好起兵戈，征伐他國。豈唯責求實利，亦乃規覓虛名，遂使境域丘墟，人民絕滅，身遭刑戮，宗廟顛殞。責名求實，一至如斯，今古共知，汝獨不聞也。〉",
           "aliases": [],
           "headingPath": [
             "內篇人間世第四"
-          ]
+          ],
+          "sourceText": "〈〔疏〕堯禹二君，已具前解。叢枝，胥敖，有扈，並是國名。有扈者，今雍州鄂縣是也。宅無人日墟，鬼無後日厲。言此三國之君，悉皆無道，好起兵戈，征伐他國。豈唯責求實利，亦乃規覓虛名，遂使境域丘墟，人民絕滅，身遭刑戮，宗廟顛殞。責名求實，一至如斯，今古共知，汝獨不聞也。〉",
+          "correction": {
+            "reason": "宅無人曰墟：释经文“國爲虛厲”的“虛”，是“A曰B”的释义句式。维基文库《南華真經（四部叢刊本）》此处陆德明引李颐云“居宅無人曰虚，死而無後爲厲”；底本“日”是“曰”的形近误字。；鬼無後曰厲：与上句“宅無人曰墟”对举，释“厲”；底本“日”是“曰”的形近误字。四部丛刊本陆德明引李颐云“死而無後爲厲”，义同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8f877bb13a56faa56db094f0a828f1d312c769f8d7ef777d39fec1ac9c7ad37a"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-a66bbe17211768da-0099",
@@ -14345,12 +14378,23 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-3eb54e12bd84808a-0006",
-          "version": "sha256:292e322f240a7cf2fe3bb73eae5b248f87b154c5bee794b0d082e796e4db3f74",
-          "text": "〈〔疏〕姓王，名駘，魯人也。刖一足日兀。形雖殘兀，而心實虛忘，故冠《德充符》而為篇首也。〉",
+          "version": "sha256:eed3fb6fcfce9ae40bf5789c16130bf75d0e47ef9f61d8b279fdebae1a90d313",
+          "text": "〈〔疏〕姓王，名駘，魯人也。刖一足曰兀。形雖殘兀，而心實虛忘，故冠《德充符》而為篇首也。〉",
           "aliases": [],
           "headingPath": [
             "內篇德充符第五"
-          ]
+          ],
+          "sourceText": "〈〔疏〕姓王，名駘，魯人也。刖一足日兀。形雖殘兀，而心實虛忘，故冠《德充符》而為篇首也。〉",
+          "correction": {
+            "reason": "〔疏〕刖一足曰兀：释“兀者王駘”的“兀”，是“A曰B”的释义句式，下文“形雖殘兀”承之。维基文库《南華真經（四部叢刊本）》此处陆德明引李颐云“刖足曰兀”；底本“日”是“曰”的形近误字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:eed3fb6fcfce9ae40bf5789c16130bf75d0e47ef9f61d8b279fdebae1a90d313"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-3eb54e12bd84808a-0007",
@@ -18638,21 +18682,43 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-214875d2d27f1506-0089",
-          "version": "sha256:370f84856a44c331d2c7fcfb68f3fa11d0eea223b7b4bf6b0ff9c690a16cdd6c",
-          "text": "〈〔注〕類，大朴之貌。〉",
+          "version": "sha256:e98f8026bcb0676c3a3abf3ede4120da72df5ac6e2469d4ec81e84d2458239f2",
+          "text": "〈〔注〕頯，大朴之貌。〉",
           "aliases": [],
           "headingPath": [
             "內篇大宗師第六"
-          ]
+          ],
+          "sourceText": "〈〔注〕類，大朴之貌。〉",
+          "correction": {
+            "reason": "〔注〕頯，大朴之貌：注释经文“其顙頯”的“頯”。维基文库《南華真經（四部叢刊本）》卷第三郭注作“頯大朴之貌”；底本“類”是“頯”的形近误字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e98f8026bcb0676c3a3abf3ede4120da72df5ac6e2469d4ec81e84d2458239f2"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-214875d2d27f1506-0090",
-          "version": "sha256:d71d718ef13b7487d03612e10744bd1efd110c58a6e364697dbc35508e046cf5",
-          "text": "〈〔疏〕頸，額也。類，大朴貌。夫真人降世，挺氣異凡，非直智照虛明，志力弘普，亦乃威容閑雅，相貌端嚴。日角月玄，即斯類也。〉",
+          "version": "sha256:759d24e87646916bb5b3e26ea531c6eb605d8c0e09213f9beac075f93d89b2c6",
+          "text": "〈〔疏〕顙，額也。頯，大朴貌。夫真人降世，挺氣異凡，非直智照虛明，志力弘普，亦乃威容閑雅，相貌端嚴。日角月玄，即斯類也。〉",
           "aliases": [],
           "headingPath": [
             "內篇大宗師第六"
-          ]
+          ],
+          "sourceText": "〈〔疏〕頸，額也。類，大朴貌。夫真人降世，挺氣異凡，非直智照虛明，志力弘普，亦乃威容閑雅，相貌端嚴。日角月玄，即斯類也。〉",
+          "correction": {
+            "reason": "〔疏〕頯，大朴貌：疏依次释经文“其顙頯”二字，此释“頯”，与上条郭注“頯，大朴之貌”同；底本“類”是“頯”的形近误字（同段“即斯類也”的“類”不误）。；〔疏〕顙，額也：疏释经文“其顙頯”的“顙”，《說文》“顙，頟也”；“頸”是脖子，不能训“額”。四部丛刊本陆德明音义亦先出“顙，息黨反”并引崔譔训额。底本“頸”是“顙”的形近误字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:759d24e87646916bb5b3e26ea531c6eb605d8c0e09213f9beac075f93d89b2c6"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-214875d2d27f1506-0091",
@@ -23807,12 +23873,23 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-dffeb829459c1e05-0128",
-          "version": "sha256:74cc7eb595b8663d9649552b39365b8cf373dd27263da9036ecb3b0982a741d2",
-          "text": "〈〔注〕德機不發日杜。〉",
+          "version": "sha256:1fe3942384009f829c1994f3e9a6553a13d3fa5f5c04f65e5427b399d128620a",
+          "text": "〈〔注〕德機不發曰杜。〉",
           "aliases": [],
           "headingPath": [
             "內篇應帝王第七"
-          ]
+          ],
+          "sourceText": "〈〔注〕德機不發日杜。〉",
+          "correction": {
+            "reason": "〔注〕德機不發曰杜：释经文“杜德機”的“杜”，是“A曰B”的释义句式。维基文库《南華真經（四部叢刊本）》卷第三郭注作“德機不發曰杜”；底本“日”是“曰”的形近误字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1fe3942384009f829c1994f3e9a6553a13d3fa5f5c04f65e5427b399d128620a"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-dffeb829459c1e05-0129",

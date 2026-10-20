@@ -12995,9 +12995,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0011",
-          "version": "sha256:bb481a83fb578ed4912f20042beba988d851536f03fce20d936366790cc4164a",
-          "text": "緯天地探測□神匡濟□家推辟咎悔雖人非上聖亦",
-          "aliases": []
+          "version": "sha256:1b8d9f7f1b83ba0392b0cf2f8da966fc63b0c99b5cc05ee293db7f93d3463512",
+          "text": "緯天地探測鬼神匡濟邦家推辟咎悔雖人非上聖亦",
+          "aliases": [],
+          "sourceText": "緯天地探測□神匡濟□家推辟咎悔雖人非上聖亦",
+          "correction": {
+            "reason": "探測□神：底本以“□”顶替原为图片的字。维基文库《周易略例》邢璹序作“探測鬼神，匡濟邦家”。；匡濟□家：底本以“□”顶替原为图片的字。维基文库《周易略例》邢璹序作“探測鬼神，匡濟邦家”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1b8d9f7f1b83ba0392b0cf2f8da966fc63b0c99b5cc05ee293db7f93d3463512"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0012",
@@ -13025,15 +13036,37 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0016",
-          "version": "sha256:6db5b22f90a0eeefd2e2fc14fd047d6f40af52a1f68805250ffbf3b4b9d033de",
-          "text": "明□",
-          "aliases": []
+          "version": "sha256:40829b88ea6fd09fd3a79bf83a1eba3cee8df13f160c3bdf7d07d658555206ef",
+          "text": "明彖",
+          "aliases": [],
+          "sourceText": "明□",
+          "correction": {
+            "reason": "《周易略例》第一篇篇名“明彖”，底本以□代替了图片字“彖”。依据：维基文库《周易略例》（王弼撰、邢璹注）子页即题“明彖”，首句“夫《彖》者，何也？”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:40829b88ea6fd09fd3a79bf83a1eba3cee8df13f160c3bdf7d07d658555206ef"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0017",
-          "version": "sha256:86b32334a5a9c71c7839e016b8f60986b8e0df6152b9626b85bdc1d00699294c",
-          "text": "夫□者何也〈将釋其義故假設問端而曰何〉統論一卦之體明其所由",
-          "aliases": []
+          "version": "sha256:0c5be9414615e56b46c642babaf061c1dca4358019fab7f57abcec2ec29a59b1",
+          "text": "夫彖者何也〈将釋其義故假設問端而曰何〉統論一卦之體明其所由",
+          "aliases": [],
+          "sourceText": "夫□者何也〈将釋其義故假設問端而曰何〉統論一卦之體明其所由",
+          "correction": {
+            "reason": "《明彖》首句：“夫彖者，何也？統論一卦之體，明其所由之主者也。”□为图片字“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·明彖作“夫《彖》者，何也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0c5be9414615e56b46c642babaf061c1dca4358019fab7f57abcec2ec29a59b1"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0018",
@@ -13115,9 +13148,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0031",
-          "version": "sha256:99a9e101663508fdf37484633953ac4b1b9b755c9f7aa71a454aaf2062e084f1",
-          "text": "莫之備矣〈然則非是中之一爻莫之能備訟□云訟有孚窒惕中吉剛來而得中也困□云貞大人〉",
-          "aliases": []
+          "version": "sha256:32cba75cd608163340bcb0bae4a3ea14fbb2a81250941472ef71cc7a4f75158b",
+          "text": "莫之備矣〈然則非是中之一爻莫之能備訟彖云訟有孚窒惕中吉剛來而得中也困彖云貞大人〉",
+          "aliases": [],
+          "sourceText": "莫之備矣〈然則非是中之一爻莫之能備訟□云訟有孚窒惕中吉剛來而得中也困□云貞大人〉",
+          "correction": {
+            "reason": "邢注引“訟彖云：訟有孚窒惕中吉，剛來而得中也”，所引正是訟卦《彖傳》原文，□为“彖”的占位。本书卷十略例下注同句即作“訟彖云有孚窒惕中吉剛來而得中”（p-zhouyizhu-528e8074a992cd7f-0214），维基文库《周易略例》（王弼撰、邢璹注）·明彖注亦作“《訟》《彖》云”。；邢注“困彖云貞大人吉以剛中也”，所引是困卦《彖傳》“貞大人吉，以剛中也”（本书卷五困卦同文，p-zhouyizhu-c0d582a41b68c142-0101），□为“彖”的占位。维基文库《周易略例》（王弼撰、邢璹注）·明彖注亦作“《彖》云：貞大人吉，以剛中也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:32cba75cd608163340bcb0bae4a3ea14fbb2a81250941472ef71cc7a4f75158b"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0032",
@@ -13157,9 +13201,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0038",
-          "version": "sha256:93ea97952b3353185255e127e13216e5d073252ad3c80953389d380047757ab0",
-          "text": "名義有主矣觀其□辭則思過半矣〈□揔卦義義主中爻簡易者道也君〉",
-          "aliases": []
+          "version": "sha256:57b7177e8ca2ff7a0e03e5ab8dec6cbc44dce1439a4e9a0a4fb177b8af2694c7",
+          "text": "名義有主矣觀其彖辭則思過半矣〈彖揔卦義義主中爻簡易者道也君〉",
+          "aliases": [],
+          "sourceText": "名義有主矣觀其□辭則思過半矣〈□揔卦義義主中爻簡易者道也君〉",
+          "correction": {
+            "reason": "《明彖》：“故舉卦之名，義有主矣；觀其彖辭，則思過半矣。”（語本《繫辭》“知者觀其彖辭，則思過半矣”）□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·明彖作“觀其《彖辭》”。；邢注：“彖揔卦義，義主中爻。”□为“彖”的占位，注释的正是上文“觀其彖辭”。依据：维基文库《周易略例》（王弼撰、邢璹注）·明彖注作“《彖》總卦義，義主中爻”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:57b7177e8ca2ff7a0e03e5ab8dec6cbc44dce1439a4e9a0a4fb177b8af2694c7"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0039",
@@ -13175,9 +13230,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0041",
-          "version": "sha256:22291f1a53a0c9da3d9ea349d0090604679f4fbd01bd9837db985eabadee1729",
-          "text": "宗主存焉□之所尚斯爲盛矣〈品變積萬存之在一〉夫少者多之",
-          "aliases": []
+          "version": "sha256:03584a1030e32a312e6068d245ed681c9415e2c0ffb7bb79523085912464e222",
+          "text": "宗主存焉彖之所尚斯爲盛矣〈品變積萬存之在一〉夫少者多之",
+          "aliases": [],
+          "sourceText": "宗主存焉□之所尚斯爲盛矣〈品變積萬存之在一〉夫少者多之",
+          "correction": {
+            "reason": "《明彖》：“品制萬變，宗主存焉；彖之所尚，斯爲盛矣。”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·明彖作“《彖》之所尚，斯為盛矣”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:03584a1030e32a312e6068d245ed681c9415e2c0ffb7bb79523085912464e222"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0042",
@@ -13217,9 +13283,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0048",
-          "version": "sha256:d3fc15758141acf6762ae6672f2d2dcfc4111257623de286bce713f2974e9391",
-          "text": "〈王氏曰陽貴而隂賤以至少處至多之地爻雖賤衆亦從之小畜□云柔得位而上下應之是也〉或有",
-          "aliases": []
+          "version": "sha256:b3d9ad569b1dd1cfbf55f5c30e1b49023574ac04904ba5f5eb845d69f14b00c9",
+          "text": "〈王氏曰陽貴而隂賤以至少處至多之地爻雖賤衆亦從之小畜彖云柔得位而上下應之是也〉或有",
+          "aliases": [],
+          "sourceText": "〈王氏曰陽貴而隂賤以至少處至多之地爻雖賤衆亦從之小畜□云柔得位而上下應之是也〉或有",
+          "correction": {
+            "reason": "邢注引“小畜彖云：柔得位而上下應之”，所引是小畜卦《彖傳》原文，本书卷一即作“彖曰小畜柔得位而上下應之曰小畜”（p-zhouyizhu-7de25db9ce68151f-0274）。□为“彖”的占位。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b3d9ad569b1dd1cfbf55f5c30e1b49023574ac04904ba5f5eb845d69f14b00c9"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0049",
@@ -13235,9 +13312,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0051",
-          "version": "sha256:eda139977b72dae14a88b5e603648b02ca2d67ea18f2bca36518253e5dc6cda9",
-          "text": "博簡以濟衆其唯□乎〈簡易者道也君也萬物是衆道能生物君子能飬民物雖繁不〉",
-          "aliases": []
+          "version": "sha256:c4c0d78203ca34051c074502e210c9585e9ee3abbc28c33e66ff2effee2b66e4",
+          "text": "博簡以濟衆其唯彖乎〈簡易者道也君也萬物是衆道能生物君子能飬民物雖繁不〉",
+          "aliases": [],
+          "sourceText": "博簡以濟衆其唯□乎〈簡易者道也君也萬物是衆道能生物君子能飬民物雖繁不〉",
+          "correction": {
+            "reason": "《明彖》：“約以存博，簡以濟衆，其唯彖乎？”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·明彖作“其唯《彖》乎”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c4c0d78203ca34051c074502e210c9585e9ee3abbc28c33e66ff2effee2b66e4"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0052",
@@ -13253,9 +13341,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0054",
-          "version": "sha256:7e51d9d3b0a8340826b6d9fa3fca81d0a5a35b6f00350382c220341e5a3215c7",
-          "text": "〈其孰能與於此言不能也與音預〉故觀□以斯義可見矣〈觀□以斯其義可見〉",
-          "aliases": []
+          "version": "sha256:a9d34302810607a0ecd46a7f498bca132e238a9d4da7a1059b4148306cc1996d",
+          "text": "〈其孰能與於此言不能也與音預〉故觀彖以斯義可見矣〈觀彖以斯其義可見〉",
+          "aliases": [],
+          "sourceText": "〈其孰能與於此言不能也與音預〉故觀□以斯義可見矣〈觀□以斯其義可見〉",
+          "correction": {
+            "reason": "《明彖》篇末：“故觀彖以斯，義可見矣。”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·明彖作“故觀《彖》以斯，義可見矣”。；邢注复述正文“觀彖以斯其義可見”，正文同句即“故觀彖以斯，義可見矣”（维基文库《周易略例》（王弼撰、邢璹注）·明彖），□为“彖”的占位。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a9d34302810607a0ecd46a7f498bca132e238a9d4da7a1059b4148306cc1996d"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0055",
@@ -13433,9 +13532,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0084",
-          "version": "sha256:9caea4309819a47bb75b40fb4b7bb73df15a02c1597f46561e4ef187a6342539",
-          "text": "知其通〈睽□曰萬物睽而其事𩔖也男女睽而其志同也〉其唯明爻者乎〈知趣舍察〉",
-          "aliases": []
+          "version": "sha256:8540f2b8fe8390a870bda2de8298589284b017b709614d7949da71a65746e013",
+          "text": "知其通〈睽彖曰萬物睽而其事𩔖也男女睽而其志同也〉其唯明爻者乎〈知趣舍察〉",
+          "aliases": [],
+          "sourceText": "知其通〈睽□曰萬物睽而其事𩔖也男女睽而其志同也〉其唯明爻者乎〈知趣舍察〉",
+          "correction": {
+            "reason": "《明爻通變》邢注引“睽彖曰：萬物睽而其事類也，男女睽而其志通也”，所引是睽卦《彖傳》原文。□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·明爻通變注作“《睽》《彖》曰”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8540f2b8fe8390a870bda2de8298589284b017b709614d7949da71a65746e013"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0085",
@@ -13751,9 +13861,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0137",
-          "version": "sha256:abfe1aa5e1d4d037d0987d639851e0686466a704a1fd8a2544561885635b3736",
-          "text": "〈不能退不能遂无攸利之例是也比毗志反〉明夷務闇豐尚光大〈明夷□云利艱貞晦〉",
-          "aliases": []
+          "version": "sha256:dc5dcc331d25c36124fe0602fa041412375d294e2f8e9eccdd3e5e4ff3f08366",
+          "text": "〈不能退不能遂无攸利之例是也比毗志反〉明夷務闇豐尚光大〈明夷彖云利艱貞晦〉",
+          "aliases": [],
+          "sourceText": "〈不能退不能遂无攸利之例是也比毗志反〉明夷務闇豐尚光大〈明夷□云利艱貞晦〉",
+          "correction": {
+            "reason": "《明卦適變通爻》邢注引“明夷彖云：利艱貞，晦（其明也）”，所引是明夷卦《彖傳》“利艱貞，晦其明也”，本书卷四同文（p-zhouyizhu-dc9bdb7b3172bd35-0105）。□为“彖”的占位。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:dc5dcc331d25c36124fe0602fa041412375d294e2f8e9eccdd3e5e4ff3f08366"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0138",
@@ -14177,21 +14298,54 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0208",
-          "version": "sha256:e7d13d75a29cdc37008a047300e96362da5ee460bbb28cebc1b86b2391af6489",
-          "text": "〈驗莫不得之〉凡□者統論一卦之體者也象者各辯一爻之",
-          "aliases": []
+          "version": "sha256:07b559a04ccd9009f7474bf30e2f9b9f457106b82eb691f5d0f5a88c42e46893",
+          "text": "〈驗莫不得之〉凡彖者統論一卦之體者也象者各辯一爻之",
+          "aliases": [],
+          "sourceText": "〈驗莫不得之〉凡□者統論一卦之體者也象者各辯一爻之",
+          "correction": {
+            "reason": "《略例下》：“凡彖者，統論一卦之體者也；象者，各辯一爻之義者也。”彖与象对举，□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下作“凡《彖》者，統論一卦之體者也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:07b559a04ccd9009f7474bf30e2f9b9f457106b82eb691f5d0f5a88c42e46893"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0209",
-          "version": "sha256:51da96f16d321814417c3faf1e45d54108c1a99932ba3755edfc012bb0940b45",
-          "text": "義者也〈□統論卦體象各明一爻之義〉故履卦六三爲兊之主以應於",
-          "aliases": []
+          "version": "sha256:e558d73ded7920968e620cfab309d16005debf604672b25f7070cc41000934f3",
+          "text": "義者也〈彖統論卦體象各明一爻之義〉故履卦六三爲兊之主以應於",
+          "aliases": [],
+          "sourceText": "義者也〈□統論卦體象各明一爻之義〉故履卦六三爲兊之主以應於",
+          "correction": {
+            "reason": "邢注：“彖統論卦體，象各明一爻之義。”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下注作“《彖》統論卦體，《象》各明一爻之義”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e558d73ded7920968e620cfab309d16005debf604672b25f7070cc41000934f3"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0210",
-          "version": "sha256:a8cfba30067d994c8a5d49fc1c2ed1815a652f7c5cff0f63d551741be7ab157e",
-          "text": "乾成卦之體在斯一爻故□敘其應雖危而亨也〈□云柔履〉",
-          "aliases": []
+          "version": "sha256:b46c91f1e3ad0d500cde8f6c7bca2adb3bab498874790bb05d7039911636ddac",
+          "text": "乾成卦之體在斯一爻故彖敘其應雖危而亨也〈彖云柔履〉",
+          "aliases": [],
+          "sourceText": "乾成卦之體在斯一爻故□敘其應雖危而亨也〈□云柔履〉",
+          "correction": {
+            "reason": "《略例下》：“成卦之體在斯一爻，故彖敘其應，雖危而亨也。”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下作“故《彖》敘其應”。；邢注引履卦《彖傳》“柔履剛，說而應乎乾”，□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下注作“《彖》云：柔履剛，說而應乎乾”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b46c91f1e3ad0d500cde8f6c7bca2adb3bab498874790bb05d7039911636ddac"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0211",
@@ -14207,9 +14361,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0213",
-          "version": "sha256:5936f3560008efb96f0c7fbc25dd0feb496d31659abd8dd061737bb21e39c91f",
-          "text": "見咥也〈六三履虎尾咥人凶□言不咥象言見咥明爻□其義各異也行下孟反去羌呂反咥直結〉",
-          "aliases": []
+          "version": "sha256:b00d1b5fe789323c2d204749eab8b83d6b7b37d5475fe61b04e1b039320c66e5",
+          "text": "見咥也〈六三履虎尾咥人凶彖言不咥象言見咥明爻彖其義各異也行下孟反去羌呂反咥直結〉",
+          "aliases": [],
+          "sourceText": "見咥也〈六三履虎尾咥人凶□言不咥象言見咥明爻□其義各異也行下孟反去羌呂反咥直結〉",
+          "correction": {
+            "reason": "邢注：“彖言不咥，象言見咥，明爻彖其義各異也。”彖与象对举，□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下注作“《彖》言不咥，《象》言見咥”。；邢注：“明爻彖其義各異也。”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下注作“明爻《彖》其義各異也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b00d1b5fe789323c2d204749eab8b83d6b7b37d5475fe61b04e1b039320c66e5"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0214",
@@ -14219,9 +14384,20 @@
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0215",
-          "version": "sha256:d23547cbae3477ce9d49eafcfa26475fc3d54c7d9d369339adc533be6a38f5ef",
-          "text": "〈正夫羣小斷不失中應斯任矣九二不克訟歸而逋其邑人三百戸无眚也〉凡□者通論一",
-          "aliases": []
+          "version": "sha256:20090879a01b01c7560a5e851424b2a6fbb8b197ef9ba1fe4ef9ce1af80b3517",
+          "text": "〈正夫羣小斷不失中應斯任矣九二不克訟歸而逋其邑人三百戸无眚也〉凡彖者通論一",
+          "aliases": [],
+          "sourceText": "〈正夫羣小斷不失中應斯任矣九二不克訟歸而逋其邑人三百戸无眚也〉凡□者通論一",
+          "correction": {
+            "reason": "《略例下》：“凡彖者，通論一卦之體者也。一卦之體，必由一爻爲主。”□为“彖”的占位。依据：维基文库《周易略例》（王弼撰、邢璹注）·略例下作“凡《彖》者，通論一卦之體者也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:20090879a01b01c7560a5e851424b2a6fbb8b197ef9ba1fe4ef9ce1af80b3517"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-528e8074a992cd7f-0216",

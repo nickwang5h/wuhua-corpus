@@ -1229,9 +1229,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0104",
-          "version": "sha256:5dc224b79da4f40822b89711e47932f09378c498cb4c215027938c770037d08c",
-          "text": "矫菌桂以纫蕙兮，索胡绳之纚々。",
-          "aliases": []
+          "version": "sha256:51331e577740d91b2055499076860f8a180bb913890f49cb1490c09ad5b07806",
+          "text": "矫菌桂以纫蕙兮，索胡绳之纚纚。",
+          "aliases": [],
+          "sourceText": "矫菌桂以纫蕙兮，索胡绳之纚々。",
+          "correction": {
+            "reason": "索胡绳之纚纚：“纚纚”是叠字形容绳索相连之貌（王逸注“纚纚，索好貌”）。底本用日文叠字符号“々”代替第二个“纚”，不是汉字；通行本《离骚》作“纚纚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:51331e577740d91b2055499076860f8a180bb913890f49cb1490c09ad5b07806"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0105",
