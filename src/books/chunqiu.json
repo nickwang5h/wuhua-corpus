@@ -1304,12 +1304,23 @@
         },
         {
           "id": "p-chunqiu-abd11e0f51ba502a-0072",
-          "version": "sha256:3f65b95ef00e1c52a2672a10816e5a1b60109b0b2b2e8afbbc250c8a52064b3a",
-          "text": "五月，鄭伯突出奔蔡。鄭世子忽複歸於鄭。許叔入于許。公會齊侯于艾。邾人、牟人、葛人來朝。",
+          "version": "sha256:ee9efe880ea9beb8b10e3239f3be968dc0ccb5e9193430123092d646884f28d8",
+          "text": "五月，鄭伯突出奔蔡。鄭世子忽復歸於鄭。許叔入于許。公會齊侯于艾。邾人、牟人、葛人來朝。",
           "aliases": [],
           "headingPath": [
             "桓公十五年〈周桓王二十三年 甲申 前697〉"
-          ]
+          ],
+          "sourceText": "五月，鄭伯突出奔蔡。鄭世子忽複歸於鄭。許叔入于許。公會齊侯于艾。邾人、牟人、葛人來朝。",
+          "correction": {
+            "reason": "“世子忽復歸於”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ee9efe880ea9beb8b10e3239f3be968dc0ccb5e9193430123092d646884f28d8"
+            }
+          }
         },
         {
           "id": "p-chunqiu-abd11e0f51ba502a-0073",
@@ -1535,9 +1546,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0011",
-          "version": "sha256:ebdd7ddb1870ac106450b4418490a1b48168ddcf671f67f8911dc43b404bb7ce",
-          "text": "夏亖月，葬宋莊公。五月，葬桓王。",
-          "aliases": []
+          "version": "sha256:e3d24735702d7128c2126d7d951595bf73db7830acece33514a9273caa5c7334",
+          "text": "夏四月，葬宋莊公。五月，葬桓王。",
+          "aliases": [],
+          "sourceText": "夏亖月，葬宋莊公。五月，葬桓王。",
+          "correction": {
+            "reason": "“夏四月，”：底本“亖”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e3d24735702d7128c2126d7d951595bf73db7830acece33514a9273caa5c7334"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0012",
@@ -1643,9 +1665,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0029",
-          "version": "sha256:7c8d9d2b60ba54cd8f6a449ac26c5fe780c551b3773c6238427bfed6d13e3ddb",
-          "text": "夏亖月辛卯，夜，恒星不見。夜中，星隕如雨。",
-          "aliases": []
+          "version": "sha256:30ff7f0fa042c7ccf138e89c4a717b64bac67b3b72a7089f54266ad32a68549a",
+          "text": "夏四月辛卯，夜，恒星不見。夜中，星隕如雨。",
+          "aliases": [],
+          "sourceText": "夏亖月辛卯，夜，恒星不見。夜中，星隕如雨。",
+          "correction": {
+            "reason": "“夏四月辛”：底本“亖”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:30ff7f0fa042c7ccf138e89c4a717b64bac67b3b72a7089f54266ad32a68549a"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0030",
@@ -1685,9 +1718,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0036",
-          "version": "sha256:53c72ca0782790d2a7deddeec50d0c4d7bf8e49043bea2cf716cc8404b741008",
-          "text": "九秂萅，齊人殺無知。公及齊大夫盟于既。",
-          "aliases": []
+          "version": "sha256:b937216e3bc26d7bb9dd9c5c42c7235a9504bf644dca833aafbee79994325adc",
+          "text": "九年春，齊人殺無知。公及齊大夫盟于既。",
+          "aliases": [],
+          "sourceText": "九秂萅，齊人殺無知。公及齊大夫盟于既。",
+          "correction": {
+            "reason": "“九年春，齊”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b937216e3bc26d7bb9dd9c5c42c7235a9504bf644dca833aafbee79994325adc"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0037",
@@ -1721,9 +1765,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0042",
-          "version": "sha256:388f08c79ed1007fde84d86efee1ee4ed8db40d555ab686860f4600b724e744a",
-          "text": "十秂萅王正月，公敗齊師於長勺。",
-          "aliases": []
+          "version": "sha256:7aa899dd25fe6d6110fd30306fce6e9476c9447871d83fad71c734d2cf3197d2",
+          "text": "十年春王正月，公敗齊師於長勺。",
+          "aliases": [],
+          "sourceText": "十秂萅王正月，公敗齊師於長勺。",
+          "correction": {
+            "reason": "“十年春王正”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7aa899dd25fe6d6110fd30306fce6e9476c9447871d83fad71c734d2cf3197d2"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0043",
@@ -1751,9 +1806,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0047",
-          "version": "sha256:f828289d6270ac8dd060035be5d6a2783c44ff7a8d8ff82139b9e95f54ce1cd1",
-          "text": "十有一秂萅王正月。",
-          "aliases": []
+          "version": "sha256:4698d2def43984207ca5e7310aef54085ed531bbfe2388567816b80380f0ae37",
+          "text": "十有一年春王正月。",
+          "aliases": [],
+          "sourceText": "十有一秂萅王正月。",
+          "correction": {
+            "reason": "“有一年春王正”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4698d2def43984207ca5e7310aef54085ed531bbfe2388567816b80380f0ae37"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0048",
@@ -1775,15 +1841,37 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0051",
-          "version": "sha256:a83b4f887d8325d1ba72aa7f396cf84f81457f98534c2317c2d980d387262b73",
-          "text": "十有二秂萅王三月，紀叔姬歸於酅。",
-          "aliases": []
+          "version": "sha256:c0b1df1c7612c181e0f88668e225c699b9c75dd161f2f4b4177585da2d168bfb",
+          "text": "十有二年春王三月，紀叔姬歸於酅。",
+          "aliases": [],
+          "sourceText": "十有二秂萅王三月，紀叔姬歸於酅。",
+          "correction": {
+            "reason": "“有二年春王三”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c0b1df1c7612c181e0f88668e225c699b9c75dd161f2f4b4177585da2d168bfb"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0052",
-          "version": "sha256:86d79dd5707396b13cb35de5711a0e0af6aa44bdd03ddcd54cc59255150b46d3",
-          "text": "夏亖月。",
-          "aliases": []
+          "version": "sha256:1d97523d1321071ad0b282d7ac4c2329a1bc9e97d4dbc46892c6bb51fb7860fb",
+          "text": "夏四月。",
+          "aliases": [],
+          "sourceText": "夏亖月。",
+          "correction": {
+            "reason": "“夏四月。”：底本“亖”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1d97523d1321071ad0b282d7ac4c2329a1bc9e97d4dbc46892c6bb51fb7860fb"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0053",
@@ -1799,9 +1887,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0055",
-          "version": "sha256:0f06191dee1935aad5600739ee3a141461b36342eb5ba56d606a2deeb17328bf",
-          "text": "十有三秂萅，齊侯、宋人、陳人、蔡人、邾人會於北杏。",
-          "aliases": []
+          "version": "sha256:9810719cd4734c72255386ce53f75b0087307b1395a8b85711c645c14cdefadf",
+          "text": "十有三年春，齊侯、宋人、陳人、蔡人、邾人會於北杏。",
+          "aliases": [],
+          "sourceText": "十有三秂萅，齊侯、宋人、陳人、蔡人、邾人會於北杏。",
+          "correction": {
+            "reason": "“有三年春，齊”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9810719cd4734c72255386ce53f75b0087307b1395a8b85711c645c14cdefadf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0056",
@@ -1823,9 +1922,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0059",
-          "version": "sha256:c93b6d537f780dcf4942cc17297d281d7b7b4439f5b7de0d97aa02b26515e4b5",
-          "text": "十有亖秂萅，齊人、陳人、曹人伐宋。",
-          "aliases": []
+          "version": "sha256:90149cba100d4d07f90b8d3c367ea295537e3d914f37ebcdff17e7d324e71be5",
+          "text": "十有四年春，齊人、陳人、曹人伐宋。",
+          "aliases": [],
+          "sourceText": "十有亖秂萅，齊人、陳人、曹人伐宋。",
+          "correction": {
+            "reason": "“十有四年春，齊”：底本“亖秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:90149cba100d4d07f90b8d3c367ea295537e3d914f37ebcdff17e7d324e71be5"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0060",
@@ -1847,9 +1957,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0063",
-          "version": "sha256:6ed490190890daa0136b4fbb862e898108aa1904e4177f8d1ebed310b7160319",
-          "text": "十有五秂萅，齊侯、宋公、陳侯、衛侯、鄭伯會于鄄。",
-          "aliases": []
+          "version": "sha256:64e610b3ce5f541ce5962afe99a376250318c8788b19d4154c7883fd04ad3ca1",
+          "text": "十有五年春，齊侯、宋公、陳侯、衛侯、鄭伯會于鄄。",
+          "aliases": [],
+          "sourceText": "十有五秂萅，齊侯、宋公、陳侯、衛侯、鄭伯會于鄄。",
+          "correction": {
+            "reason": "“有五年春，齊”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:64e610b3ce5f541ce5962afe99a376250318c8788b19d4154c7883fd04ad3ca1"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0064",
@@ -1871,9 +1992,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0067",
-          "version": "sha256:96b962dda02845f265f2e4ff85f87653d04ad2e3ec6ecbd70e56fce65de746f4",
-          "text": "十有六秂萅王正月。",
-          "aliases": []
+          "version": "sha256:7e6a546c32f1a56411c7bd83acec304fedbee276a0a1dcc9dd7e2b423d42aa0e",
+          "text": "十有六年春王正月。",
+          "aliases": [],
+          "sourceText": "十有六秂萅王正月。",
+          "correction": {
+            "reason": "“有六年春王正”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7e6a546c32f1a56411c7bd83acec304fedbee276a0a1dcc9dd7e2b423d42aa0e"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0068",
@@ -1895,9 +2027,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0071",
-          "version": "sha256:0390c3d48f1c2202e83697fe3a6f86883ce80f4100aa50fcab4950b33fe4fba2",
-          "text": "十有七秂萅，齊人執鄭詹。",
-          "aliases": []
+          "version": "sha256:8a6cf270d479a20eee3722f18903dfa5a500f605338c36ef80ba48c72d44dab3",
+          "text": "十有七年春，齊人執鄭詹。",
+          "aliases": [],
+          "sourceText": "十有七秂萅，齊人執鄭詹。",
+          "correction": {
+            "reason": "“有七年春，齊”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8a6cf270d479a20eee3722f18903dfa5a500f605338c36ef80ba48c72d44dab3"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0072",
@@ -1919,9 +2062,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0075",
-          "version": "sha256:fa35fbcced2dbed5b890bd4b29529623e30ffc6ed6d31405625c68ab97f6d4f1",
-          "text": "十有八秂萅王三月，日有食之。",
-          "aliases": []
+          "version": "sha256:4ad071856d8a562f5335511e28b6fb89b435a49a58f0920331b1eccb5ee39508",
+          "text": "十有八年春王三月，日有食之。",
+          "aliases": [],
+          "sourceText": "十有八秂萅王三月，日有食之。",
+          "correction": {
+            "reason": "“有八年春王三”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4ad071856d8a562f5335511e28b6fb89b435a49a58f0920331b1eccb5ee39508"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0076",
@@ -1943,15 +2097,37 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0079",
-          "version": "sha256:97a0e19070314f0e1443f5c4ff7f0a0ea49e46cc6fc930ebc7c6daa333e60809",
-          "text": "十有九秂萅王正月。",
-          "aliases": []
+          "version": "sha256:f60218e760e3c050cf7b059656abdc8ca7cf99bb907a016d27cd10a7ffae3e7f",
+          "text": "十有九年春王正月。",
+          "aliases": [],
+          "sourceText": "十有九秂萅王正月。",
+          "correction": {
+            "reason": "“有九年春王正”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f60218e760e3c050cf7b059656abdc8ca7cf99bb907a016d27cd10a7ffae3e7f"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0080",
-          "version": "sha256:86d79dd5707396b13cb35de5711a0e0af6aa44bdd03ddcd54cc59255150b46d3",
-          "text": "夏亖月。",
-          "aliases": []
+          "version": "sha256:1d97523d1321071ad0b282d7ac4c2329a1bc9e97d4dbc46892c6bb51fb7860fb",
+          "text": "夏四月。",
+          "aliases": [],
+          "sourceText": "夏亖月。",
+          "correction": {
+            "reason": "“夏四月。”：底本“亖”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1d97523d1321071ad0b282d7ac4c2329a1bc9e97d4dbc46892c6bb51fb7860fb"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0081",
@@ -1967,9 +2143,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0083",
-          "version": "sha256:e1215352bb6df6e198bc8285045f47096f7e6f752e669243701af46ca95d2c36",
-          "text": "二十秂萅王二月，夫人姜氏如莒。",
-          "aliases": []
+          "version": "sha256:942f1f9ff88431ab39379d3f109781fdd0948c100b565b8769ba4f8487b33f23",
+          "text": "二十年春王二月，夫人姜氏如莒。",
+          "aliases": [],
+          "sourceText": "二十秂萅王二月，夫人姜氏如莒。",
+          "correction": {
+            "reason": "“二十年春王二”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:942f1f9ff88431ab39379d3f109781fdd0948c100b565b8769ba4f8487b33f23"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0084",
@@ -1991,9 +2178,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0087",
-          "version": "sha256:a58211f0c2d7ea34ed1184078a66f597fae9d3c51d1455082dc59c1662d5747c",
-          "text": "二十有一秂萅，王正月。",
-          "aliases": []
+          "version": "sha256:93a513bca7c91e88252e77f665791f201ee19e8e261e9b3f6618b29178fb41a3",
+          "text": "二十有一年春，王正月。",
+          "aliases": [],
+          "sourceText": "二十有一秂萅，王正月。",
+          "correction": {
+            "reason": "“有一年春，王”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:93a513bca7c91e88252e77f665791f201ee19e8e261e9b3f6618b29178fb41a3"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0088",
@@ -2015,9 +2213,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0091",
-          "version": "sha256:1f513794ee6b5d2f04fc1da571492a2e00ed663ad1a73b0ef730154c92ac8291",
-          "text": "二十二秂萅王正月，肆大眚。癸丑，葬我小君文姜。陳人殺其公子禦寇。",
-          "aliases": []
+          "version": "sha256:09c198b337a38f4981b3bf79a5dbd2ae585f29db2ecd44bce12853229132d5a2",
+          "text": "二十二年春王正月，肆大眚。癸丑，葬我小君文姜。陳人殺其公子禦寇。",
+          "aliases": [],
+          "sourceText": "二十二秂萅王正月，肆大眚。癸丑，葬我小君文姜。陳人殺其公子禦寇。",
+          "correction": {
+            "reason": "“十二年春王正”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:09c198b337a38f4981b3bf79a5dbd2ae585f29db2ecd44bce12853229132d5a2"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0092",
@@ -2039,9 +2248,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0095",
-          "version": "sha256:92fe45889985b657cf742049b6fd0a52e64c96bb3469b5ab71c8d82f6f1d5b0a",
-          "text": "二十有三秂萅，公至自齊。祭叔來聘。",
-          "aliases": []
+          "version": "sha256:e26ab698569ba1ff0c594952e7b08a80aefacd97954bd67239f6e345d9d5595c",
+          "text": "二十有三年春，公至自齊。祭叔來聘。",
+          "aliases": [],
+          "sourceText": "二十有三秂萅，公至自齊。祭叔來聘。",
+          "correction": {
+            "reason": "“有三年春，公”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e26ab698569ba1ff0c594952e7b08a80aefacd97954bd67239f6e345d9d5595c"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0096",
@@ -2069,9 +2289,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0100",
-          "version": "sha256:4a9ad109ebafeba026ea9a31cde22e3b05e87f7f4ddd74aad8fc12568c1a0f56",
-          "text": "二十有亖秂萅王三月，刻桓宮桷。葬曹莊公。",
-          "aliases": []
+          "version": "sha256:64005bf57c92f81b0dbd377a986e2dcd49cde6f831cf27e95ea3182eb76de3e2",
+          "text": "二十有四年春王三月，刻桓宮桷。葬曹莊公。",
+          "aliases": [],
+          "sourceText": "二十有亖秂萅王三月，刻桓宮桷。葬曹莊公。",
+          "correction": {
+            "reason": "“十有四年春王三”：底本“亖秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:64005bf57c92f81b0dbd377a986e2dcd49cde6f831cf27e95ea3182eb76de3e2"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0101",
@@ -2099,9 +2330,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0105",
-          "version": "sha256:168439f6f396a8a865273e3401b0ca49684cedc6376ea8475464d8d74f81e346",
-          "text": "二十有五秂萅，陳侯使女叔來聘。",
-          "aliases": []
+          "version": "sha256:422ccdc28f03eea5f1dc83c021991003ef3e6e5ed0651f8e1ba2b30f9ef73b1c",
+          "text": "二十有五年春，陳侯使女叔來聘。",
+          "aliases": [],
+          "sourceText": "二十有五秂萅，陳侯使女叔來聘。",
+          "correction": {
+            "reason": "“有五年春，陳”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:422ccdc28f03eea5f1dc83c021991003ef3e6e5ed0651f8e1ba2b30f9ef73b1c"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0106",
@@ -2129,9 +2371,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0110",
-          "version": "sha256:d314ab1413a3d6d54dc5edc3eefbfffdbaecf63a4f3df200806f15b888a669e5",
-          "text": "二十有六秂萅，公伐戎。",
-          "aliases": []
+          "version": "sha256:46bb7f6be9a8878aa9a96c1ebfe3edd7e1e607ba5babde4675253402adde43e0",
+          "text": "二十有六年春，公伐戎。",
+          "aliases": [],
+          "sourceText": "二十有六秂萅，公伐戎。",
+          "correction": {
+            "reason": "“有六年春，公”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:46bb7f6be9a8878aa9a96c1ebfe3edd7e1e607ba5babde4675253402adde43e0"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0111",
@@ -2153,9 +2406,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0114",
-          "version": "sha256:3661ecd60ec68b5f32106e6083850ba877c50b2737108a064301733f24411c0c",
-          "text": "二十有七秂萅，公會杞伯姬于洮。",
-          "aliases": []
+          "version": "sha256:96858d3c69949c9974e6d41b7caa1519267903a842349996aeb2f2ac5948be98",
+          "text": "二十有七年春，公會杞伯姬于洮。",
+          "aliases": [],
+          "sourceText": "二十有七秂萅，公會杞伯姬于洮。",
+          "correction": {
+            "reason": "“有七年春，公”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:96858d3c69949c9974e6d41b7caa1519267903a842349996aeb2f2ac5948be98"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0115",
@@ -2177,15 +2441,37 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0118",
-          "version": "sha256:fd750fd6c5cfb404ac1928e8fce896436db696665ca40c2db89383882ef924e4",
-          "text": "二十有八秂萅，王三月甲寅，齊人伐衛。衛人及齊人戰，衛人敗績。",
-          "aliases": []
+          "version": "sha256:2d0eb8a3320dd1f92930965290cdaa0e7fb51a60b5798a8dfac8acfc96c05ff9",
+          "text": "二十有八年春，王三月甲寅，齊人伐衛。衛人及齊人戰，衛人敗績。",
+          "aliases": [],
+          "sourceText": "二十有八秂萅，王三月甲寅，齊人伐衛。衛人及齊人戰，衛人敗績。",
+          "correction": {
+            "reason": "“有八年春，王”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2d0eb8a3320dd1f92930965290cdaa0e7fb51a60b5798a8dfac8acfc96c05ff9"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0119",
-          "version": "sha256:2a2d3d8d916e040cace8d00a5c328aa76e9db32c7e7d78664cd518264e5a9a77",
-          "text": "夏亖月丁未，邾子瑣卒。",
-          "aliases": []
+          "version": "sha256:f93e0b14aec2e2d27f361194ffd39a89fe96a465e421d11032c6a5575417beaf",
+          "text": "夏四月丁未，邾子瑣卒。",
+          "aliases": [],
+          "sourceText": "夏亖月丁未，邾子瑣卒。",
+          "correction": {
+            "reason": "“夏四月丁”：底本“亖”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f93e0b14aec2e2d27f361194ffd39a89fe96a465e421d11032c6a5575417beaf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0120",
@@ -2201,9 +2487,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0122",
-          "version": "sha256:93b85dbdcead910ca692d25ff011b263d4eb6fe46df31f25a4741709e30cda4a",
-          "text": "二十有九秂萅，新延既。",
-          "aliases": []
+          "version": "sha256:79a1b318f5bf96056a91ccaf4a276b234211cb5979ade3b095eceb8bcb739aa8",
+          "text": "二十有九年春，新延廄。",
+          "aliases": [],
+          "sourceText": "二十有九秂萅，新延既。",
+          "correction": {
+            "reason": "“有九年春，新”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。；“新延廄”：廄是马棚，“新延廄”即新修马厩；底本“既”讲不通。维基文库《春秋左傳正義》此处作“新延廄”，《春秋公羊傳註疏》经文同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:79a1b318f5bf96056a91ccaf4a276b234211cb5979ade3b095eceb8bcb739aa8"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0123",
@@ -2225,9 +2522,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0126",
-          "version": "sha256:62cb0e7b8aea09821c2fd90a2ab320aa381a580ad7c83ffec05d472f1cc8a57b",
-          "text": "三十秂萅王正月。",
-          "aliases": []
+          "version": "sha256:8d2a21e8a457ec8a4e0fe7a3bc9b07079466b2b7c4bd92e82485867b362a780e",
+          "text": "三十年春王正月。",
+          "aliases": [],
+          "sourceText": "三十秂萅王正月。",
+          "correction": {
+            "reason": "“三十年春王正”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8d2a21e8a457ec8a4e0fe7a3bc9b07079466b2b7c4bd92e82485867b362a780e"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0127",
@@ -2261,15 +2569,37 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0132",
-          "version": "sha256:246e5414d6a06f0525f548ef459e71d0815d18373d8e0ea23b61bcd80ea2cf5a",
-          "text": "三十有一秂萅，築台于郎。",
-          "aliases": []
+          "version": "sha256:177ee0649cc28d8761bb3fed8847f5d622317e1fae68ac51ffbc2bfe25e0caf6",
+          "text": "三十有一年春，築台于郎。",
+          "aliases": [],
+          "sourceText": "三十有一秂萅，築台于郎。",
+          "correction": {
+            "reason": "“有一年春，築”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:177ee0649cc28d8761bb3fed8847f5d622317e1fae68ac51ffbc2bfe25e0caf6"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0133",
-          "version": "sha256:2a75be4fb21f6e65dfa06cf4102180552ebaad13fc04ef749a07f4024489622c",
-          "text": "夏亖月，薛伯卒。築台于薛。",
-          "aliases": []
+          "version": "sha256:4749bc5784fa5c32912ff185b905160d40aecb628d55f128337f00b769521aee",
+          "text": "夏四月，薛伯卒。築台于薛。",
+          "aliases": [],
+          "sourceText": "夏亖月，薛伯卒。築台于薛。",
+          "correction": {
+            "reason": "“夏四月，”：底本“亖”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“四”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“四”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4749bc5784fa5c32912ff185b905160d40aecb628d55f128337f00b769521aee"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0134",
@@ -2291,9 +2621,20 @@
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0137",
-          "version": "sha256:18029f324578cb8e811a432dbf2a8f295708a3caf9545eec279d67a168be172b",
-          "text": "三十有二秂萅，城小穀。",
-          "aliases": []
+          "version": "sha256:5fd19a8e9dea86232343d89af85a8a5e11d566117715de28fb361026888212bf",
+          "text": "三十有二年春，城小穀。",
+          "aliases": [],
+          "sourceText": "三十有二秂萅，城小穀。",
+          "correction": {
+            "reason": "“有二年春，城”：底本“秂萅”是维基文库某些页面使用的古字形（秂即年、萅即春、亖即四），与全书用字不一致，网页上多数字体也显示不出，当作“年春”。本书其余各卷及维基文库《春秋左氏傳》莊公其余各年均作“年春”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5fd19a8e9dea86232343d89af85a8a5e11d566117715de28fb361026888212bf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-196146cdc9ec06a3-0138",
@@ -2453,9 +2794,20 @@
       "paragraphs": [
         {
           "id": "p-chunqiu-3e9d9854839405ec-0001",
-          "version": "sha256:9028af91d0b5627e0b641df28c55ee0cd4b890e92acda5ff63fb6bfb813feef8",
-          "text": "元年春王正月。齊師、宋師、曹伯次於聶北，救邢。夏六月，邢遷於夷儀。齊師、宋師、曹師城邢。 秋七月戊辰，夫人姜氏薨於夷，齊人以歸。 楚人伐鄭。 八月，公會齊侯、宋公、鄭伯、曹伯、邾人於檉。 九月，公敗邾師於偃。 冬十月壬午，公子友帥師敗莒於酈。獲莒拏。 十有二月丁巳，夫人氏之喪至自齊。",
-          "aliases": []
+          "version": "sha256:066fddfc62de7cddd7e7d6ba0030f6391c71d20f0e9715b0aac37811090fd113",
+          "text": "元年春王正月。齊師、宋師、曹伯次於聶北，救邢。夏六月，邢遷於夷儀。齊師、宋師、曹師城邢。 秋七月戊辰，夫人姜氏薨於夷，齊人以歸。 楚人伐鄭。 八月，公會齊侯、宋公、鄭伯、曹伯、邾人於檉。 九月，公敗邾師於偃。 冬十月壬午，公子友帥師敗莒師於酈。獲莒拏。 十有二月丁巳，夫人氏之喪至自齊。",
+          "aliases": [],
+          "sourceText": "元年春王正月。齊師、宋師、曹伯次於聶北，救邢。夏六月，邢遷於夷儀。齊師、宋師、曹師城邢。 秋七月戊辰，夫人姜氏薨於夷，齊人以歸。 楚人伐鄭。 八月，公會齊侯、宋公、鄭伯、曹伯、邾人於檉。 九月，公敗邾師於偃。 冬十月壬午，公子友帥師敗莒於酈。獲莒拏。 十有二月丁巳，夫人氏之喪至自齊。",
+          "correction": {
+            "reason": "“公子友帥師敗莒師於酈”：底本脱“師”字。维基文库《春秋左氏傳》经文此处作“敗莒師”，《公羊》《穀梁》经文同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:066fddfc62de7cddd7e7d6ba0030f6391c71d20f0e9715b0aac37811090fd113"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0002",
@@ -2465,9 +2817,20 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0003",
-          "version": "sha256:afb01213829f510a0640fcd818a15e3f35840c93919b3a339c669756cc7e8d5d",
-          "text": "三年春王正月，不雨。 夏四月不雨。 徐人取舒。 六月雨。 秋，齊侯、宋公、江人、黃人會於陽谷。 冬，公子友如齊涖盟。 楚人伐鄭。",
-          "aliases": []
+          "version": "sha256:fb94fe8bd88bbbd04da5c29cab6e302b70a9d6e455100a55f3c4a5c5413bc0e0",
+          "text": "三年春王正月，不雨。 夏四月不雨。 徐人取舒。 六月雨。 秋，齊侯、宋公、江人、黃人會於陽穀。 冬，公子友如齊涖盟。 楚人伐鄭。",
+          "aliases": [],
+          "sourceText": "三年春王正月，不雨。 夏四月不雨。 徐人取舒。 六月雨。 秋，齊侯、宋公、江人、黃人會於陽谷。 冬，公子友如齊涖盟。 楚人伐鄭。",
+          "correction": {
+            "reason": "“會於陽穀。 ”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:fb94fe8bd88bbbd04da5c29cab6e302b70a9d6e455100a55f3c4a5c5413bc0e0"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0004",
@@ -2489,9 +2852,20 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0007",
-          "version": "sha256:fbbe6919ef7a3e2845fd48837ea3bc65f5914d9cf48c09b0a609444a17f5d42a",
-          "text": "七年春，齊人伐鄭。 夏，小邾子來朝。 鄭殺其大夫申侯。 秋七月，公會齊侯、宋公、陳世子款、鄭世子華盟於寧母。 曹伯班卒。 公子友如齊。 冬，葬曹昭公。",
-          "aliases": []
+          "version": "sha256:ee929a262063f0576f642db5c94d1e892427dc195bc2931efc3a60b4cda37164",
+          "text": "七年春，齊人伐鄭。 夏，小邾子來朝。 鄭殺其大夫申侯。 秋七月，公會齊侯、宋公、陳世子款、鄭世子華盟於甯母。 曹伯班卒。 公子友如齊。 冬，葬曹昭公。",
+          "aliases": [],
+          "sourceText": "七年春，齊人伐鄭。 夏，小邾子來朝。 鄭殺其大夫申侯。 秋七月，公會齊侯、宋公、陳世子款、鄭世子華盟於寧母。 曹伯班卒。 公子友如齊。 冬，葬曹昭公。",
+          "correction": {
+            "reason": "“盟於甯母”：甯母是地名，繁体当作“甯”；底本“寧”是简转繁时把“宁”误转所致。维基文库《春秋左氏傳》经文此处作“甯母”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ee929a262063f0576f642db5c94d1e892427dc195bc2931efc3a60b4cda37164"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0008",
@@ -2501,21 +2875,54 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0009",
-          "version": "sha256:b589a0484dd8c32a192d0e737d807b9a3e397bc86f08ca49927c9046053c47bb",
-          "text": "九年春王三月丁丑，宋公禦說卒。 夏，公會宰周公、齊侯、宋子、衛侯、鄭伯、許男、曹伯於葵丘。 秋七月乙酉，伯姬卒。 九月戊辰，諸侯盟於葵丘。甲子，晉侯佹諸卒。 冬，晉里克殺其君之子奚齊。",
-          "aliases": []
+          "version": "sha256:7df20590e0f0267cc180cbe908a2754d620a731bd304db512f4f0e97a9cf2d35",
+          "text": "九年春王三月丁丑，宋公御說卒。 夏，公會宰周公、齊侯、宋子、衛侯、鄭伯、許男、曹伯於葵丘。 秋七月乙酉，伯姬卒。 九月戊辰，諸侯盟於葵丘。甲子，晉侯佹諸卒。 冬，晉里克殺其君之子奚齊。",
+          "aliases": [],
+          "sourceText": "九年春王三月丁丑，宋公禦說卒。 夏，公會宰周公、齊侯、宋子、衛侯、鄭伯、許男、曹伯於葵丘。 秋七月乙酉，伯姬卒。 九月戊辰，諸侯盟於葵丘。甲子，晉侯佹諸卒。 冬，晉里克殺其君之子奚齊。",
+          "correction": {
+            "reason": "“宋公御說卒”：宋桓公名御說；底本“禦”是简转繁时把“御”误转所致。维基文库《春秋左氏傳》经文此处作“御說”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7df20590e0f0267cc180cbe908a2754d620a731bd304db512f4f0e97a9cf2d35"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0010",
-          "version": "sha256:085fb0efff64e5cb0e48686b40812022cfdb58288ab729717817400f3a9e9169",
-          "text": "十年春王正月，公如齊。 狄滅溫，溫子奔衛。 晉裏克弑其君卓及其大夫荀息。 夏，齊侯、許男伐北戎。 晉殺其大夫里克。 秋七月。冬，大雨雪。",
-          "aliases": []
+          "version": "sha256:ff2ab99a01d1f5726771613cd8ec76a4f64b823f94513bb017c565ce29eda8d3",
+          "text": "十年春王正月，公如齊。 狄滅溫，溫子奔衛。 晉里克弑其君卓及其大夫荀息。 夏，齊侯、許男伐北戎。 晉殺其大夫里克。 秋七月。冬，大雨雪。",
+          "aliases": [],
+          "sourceText": "十年春王正月，公如齊。 狄滅溫，溫子奔衛。 晉裏克弑其君卓及其大夫荀息。 夏，齊侯、許男伐北戎。 晉殺其大夫里克。 秋七月。冬，大雨雪。",
+          "correction": {
+            "reason": "“。 晉里克弑”：此处是人名、地名用字“里”（里克、南里）；底本“裏”是简转繁误转。维基文库《春秋左氏傳》经文此处作“里”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ff2ab99a01d1f5726771613cd8ec76a4f64b823f94513bb017c565ce29eda8d3"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0011",
-          "version": "sha256:ed468eac620abcc5e7e0a618fc66ec9f34befdb44426dd30a032a08afe699683",
-          "text": "十有一年春。 晉殺其大夫鄭父。 夏，公及夫人姜氏會齊侯於陽谷。 秋八月，大雩。 冬，楚人伐黃。",
-          "aliases": []
+          "version": "sha256:6d2e18adde779083443c671504dcb6c68a7257962c0e0687cce49b0c1f45a8bf",
+          "text": "十有一年春。 晉殺其大夫丕鄭父。 夏，公及夫人姜氏會齊侯於陽穀。 秋八月，大雩。 冬，楚人伐黃。",
+          "aliases": [],
+          "sourceText": "十有一年春。 晉殺其大夫鄭父。 夏，公及夫人姜氏會齊侯於陽谷。 秋八月，大雩。 冬，楚人伐黃。",
+          "correction": {
+            "reason": "“晉殺其大夫丕鄭父”：底本脱“丕”字。维基文库《春秋左氏傳》经文此处作“丕鄭父”。；“侯於陽穀。 ”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6d2e18adde779083443c671504dcb6c68a7257962c0e0687cce49b0c1f45a8bf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0012",
@@ -2525,21 +2932,54 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0013",
-          "version": "sha256:2fd1905ef3eeaf9bb20eeb51506bef1f46cae4f37fd1f0fa1b0ef1d836f4ca67",
-          "text": "十有三年春，狄侵衛。 夏四月，葬陳宣公。 公會齊侯、宋公、陳侯、鄭伯、許男、曹伯於咸。 秋九月，大雩。 冬，公子友如齊。",
-          "aliases": []
+          "version": "sha256:3860fedbad79c54878945d6cdf38ef3bada49ba8d3d40afcb0fd4b33dc69615b",
+          "text": "十有三年春，狄侵衛。 夏四月，葬陳宣公。 公會齊侯、宋公、陳侯、衛侯、鄭伯、許男、曹伯於咸。 秋九月，大雩。 冬，公子友如齊。",
+          "aliases": [],
+          "sourceText": "十有三年春，狄侵衛。 夏四月，葬陳宣公。 公會齊侯、宋公、陳侯、鄭伯、許男、曹伯於咸。 秋九月，大雩。 冬，公子友如齊。",
+          "correction": {
+            "reason": "“公會齊侯、宋公、陳侯、衛侯、鄭伯、許男、曹伯於咸”：底本脱“衛侯”。维基文库《春秋左氏傳》经文此处作“衛侯”，《穀梁》经文同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3860fedbad79c54878945d6cdf38ef3bada49ba8d3d40afcb0fd4b33dc69615b"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0014",
-          "version": "sha256:a2d77cf7c114dd416a3dd96f3494afa9ea8645cb1e05d414a35746c7e8574b62",
-          "text": "十有四年春，諸侯城緣陵。 夏六月，季姬及鄫子遇於防。 使鄫子來朝。 秋八月辛卯，沙鹿崩。 狄侵鄭。 冬，蔡侯肝卒。",
-          "aliases": []
+          "version": "sha256:93d056eb27d5f982d14f58f63143e2975dcc8017010a87194efac92fb30e7f86",
+          "text": "十有四年春，諸侯城緣陵。 夏六月，季姬及鄫子遇於防。 使鄫子來朝。 秋八月辛卯，沙鹿崩。 狄侵鄭。 冬，蔡侯肸卒。",
+          "aliases": [],
+          "sourceText": "十有四年春，諸侯城緣陵。 夏六月，季姬及鄫子遇於防。 使鄫子來朝。 秋八月辛卯，沙鹿崩。 狄侵鄭。 冬，蔡侯肝卒。",
+          "correction": {
+            "reason": "“蔡侯肸卒”：蔡穆侯名肸，底本“肝”形近而误。维基文库《春秋左氏傳》经文此处作“肸”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:93d056eb27d5f982d14f58f63143e2975dcc8017010a87194efac92fb30e7f86"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0015",
-          "version": "sha256:b349f18eedcb1a89f65880b7c6d7d4307dfdd93b8ec1815dd95f6405c7e7de0d",
-          "text": "十有五年春王正月，公如齊。 楚人伐徐。 三月，公會齊侯、宋公、陳侯、衛候、鄭伯、許男、曹伯盟於牡丘，遂次於匡。 公孫敖帥師及諸侯之大夫救徐。 夏五月，日有食之。 秋七月，齊師、曹師伐厲。 八月，螽。 九月，公至自會。 季姬歸於鄫。 己卯晦，震夷伯之廟。 冬，宋人伐曹。 楚人敗徐於婁林。 十有一月壬戌，晉侯及秦伯戰於韓，獲晉侯。",
-          "aliases": []
+          "version": "sha256:b7d1159d38109a9661a9d08d44321188c662482bb3adcee51511ed48e51c5995",
+          "text": "十有五年春王正月，公如齊。 楚人伐徐。 三月，公會齊侯、宋公、陳侯、衛侯、鄭伯、許男、曹伯盟於牡丘，遂次於匡。 公孫敖帥師及諸侯之大夫救徐。 夏五月，日有食之。 秋七月，齊師、曹師伐厲。 八月，螽。 九月，公至自會。 季姬歸於鄫。 己卯晦，震夷伯之廟。 冬，宋人伐曹。 楚人敗徐於婁林。 十有一月壬戌，晉侯及秦伯戰於韓，獲晉侯。",
+          "aliases": [],
+          "sourceText": "十有五年春王正月，公如齊。 楚人伐徐。 三月，公會齊侯、宋公、陳侯、衛候、鄭伯、許男、曹伯盟於牡丘，遂次於匡。 公孫敖帥師及諸侯之大夫救徐。 夏五月，日有食之。 秋七月，齊師、曹師伐厲。 八月，螽。 九月，公至自會。 季姬歸於鄫。 己卯晦，震夷伯之廟。 冬，宋人伐曹。 楚人敗徐於婁林。 十有一月壬戌，晉侯及秦伯戰於韓，獲晉侯。",
+          "correction": {
+            "reason": "“陳侯、衛侯、鄭伯”：底本“候”形近而误。维基文库《春秋左氏傳》经文此处作“衛侯”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b7d1159d38109a9661a9d08d44321188c662482bb3adcee51511ed48e51c5995"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0016",
@@ -2561,9 +3001,20 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0019",
-          "version": "sha256:ec79a30c1b097520439f7e53b6f9620431d1f9894824b4a4d690542a22adbf69",
-          "text": "十有九年春王三月，宋人執滕子嬰齊。 夏六月，宋公、曹人、邾人盟於曹南。 鄫子會盟於邾。 己酉，邾人執鄶子，用之。秋，宋人圍曹。衛人伐邢。 冬，會陳人、蔡人、楚人、鄭人盟於齊。 梁亡。",
-          "aliases": []
+          "version": "sha256:6f9265414f643f5ea8255c11b42c7ca836d79c28b660ca70eef5a526dd0b068d",
+          "text": "十有九年春王三月，宋人執滕子嬰齊。 夏六月，宋公、曹人、邾人盟於曹南。 鄫子會盟於邾。 己酉，邾人執鄫子，用之。秋，宋人圍曹。衛人伐邢。 冬，會陳人、蔡人、楚人、鄭人盟於齊。 梁亡。",
+          "aliases": [],
+          "sourceText": "十有九年春王三月，宋人執滕子嬰齊。 夏六月，宋公、曹人、邾人盟於曹南。 鄫子會盟於邾。 己酉，邾人執鄶子，用之。秋，宋人圍曹。衛人伐邢。 冬，會陳人、蔡人、楚人、鄭人盟於齊。 梁亡。",
+          "correction": {
+            "reason": "“邾人執鄫子，用之”：同段上文“鄫子會盟於邾”；底本“鄶”与“鄫”形近而误。维基文库《春秋左氏傳》经文此处作“鄫子”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6f9265414f643f5ea8255c11b42c7ca836d79c28b660ca70eef5a526dd0b068d"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0020",
@@ -2603,9 +3054,20 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0026",
-          "version": "sha256:12c7507c85cbe2551f5c3b3eef6953259cd7d2c8f905da4dfe9614a1d22f9fd8",
-          "text": "二十有六年春王正月，己未，公會莒子、衛甯速盟於向。 齊人侵我西鄙。 公追齊師，至酅，不及。 夏，齊人伐我北鄙。 衛人伐齊。公子遂如楚乞師。 秋，楚人滅夔，以夔子歸。 冬，楚人伐宋，圍緍。 公以楚師伐齊，取谷。公至自伐齊。",
-          "aliases": []
+          "version": "sha256:6d41a61c43061f98807f0af69f34c7c86f39da10f4fc210ac941df0f7fd53c05",
+          "text": "二十有六年春王正月，己未，公會莒子、衛甯速盟於向。 齊人侵我西鄙。 公追齊師，至酅，不及。 夏，齊人伐我北鄙。 衛人伐齊。公子遂如楚乞師。 秋，楚人滅夔，以夔子歸。 冬，楚人伐宋，圍緍。 公以楚師伐齊，取穀。公至自伐齊。",
+          "aliases": [],
+          "sourceText": "二十有六年春王正月，己未，公會莒子、衛甯速盟於向。 齊人侵我西鄙。 公追齊師，至酅，不及。 夏，齊人伐我北鄙。 衛人伐齊。公子遂如楚乞師。 秋，楚人滅夔，以夔子歸。 冬，楚人伐宋，圍緍。 公以楚師伐齊，取谷。公至自伐齊。",
+          "correction": {
+            "reason": "“齊，取穀。公”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6d41a61c43061f98807f0af69f34c7c86f39da10f4fc210ac941df0f7fd53c05"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0027",
@@ -2615,9 +3077,20 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0028",
-          "version": "sha256:c7baa5a57709b7f4d4710ec7a1280d4bd8e8b7777992e4eb2801ebe948026b6e",
-          "text": "二十有八年春，晉侯侵曹，晉侯伐衛。 公子買戍衛，不卒戍，刺之。 楚人救衛。 三月丙午，晉侯入曹，執曹伯，畀宋人。 夏四月己巳，晉侯、齊師、宋師、秦師及楚人戰於城濮，楚師敗績。 楚殺其大夫得臣。 衛侯出奔楚。 五月癸丑，公會晉侯、齊侯、宋公、蔡侯、鄭伯、衛子、莒子，盟於踐土。 陳侯如會。 公朝於王所。 六月，衛侯鄭自楚複歸於衛。 衛元咺出奔晉。 陳侯款卒。 秋，杞伯姬來。 公子遂如齊。 冬，公會晉侯、齊侯、宋公、蔡侯、鄭伯、陳子、莒子、邾人、秦人於溫。 天王狩於河陽。 壬申，公朝於王所。 晉人執衛侯，歸之於京師。 衛元咺自晉複歸於衛。 諸侯遂圍許。 曹伯襄複歸於曹，遂會諸侯圍許。",
-          "aliases": []
+          "version": "sha256:1ff7a13ff8b3e302247e6a0586810de979e63eb17bf4c58e5fb3ec7fc31f47f6",
+          "text": "二十有八年春，晉侯侵曹，晉侯伐衛。 公子買戍衛，不卒戍，刺之。 楚人救衛。 三月丙午，晉侯入曹，執曹伯，畀宋人。 夏四月己巳，晉侯、齊師、宋師、秦師及楚人戰於城濮，楚師敗績。 楚殺其大夫得臣。 衛侯出奔楚。 五月癸丑，公會晉侯、齊侯、宋公、蔡侯、鄭伯、衛子、莒子，盟於踐土。 陳侯如會。 公朝於王所。 六月，衛侯鄭自楚復歸於衛。 衛元咺出奔晉。 陳侯款卒。 秋，杞伯姬來。 公子遂如齊。 冬，公會晉侯、齊侯、宋公、蔡侯、鄭伯、陳子、莒子、邾人、秦人於溫。 天王狩於河陽。 壬申，公朝於王所。 晉人執衛侯，歸之於京師。 衛元咺自晉復歸於衛。 諸侯遂圍許。 曹伯襄復歸於曹，遂會諸侯圍許。",
+          "aliases": [],
+          "sourceText": "二十有八年春，晉侯侵曹，晉侯伐衛。 公子買戍衛，不卒戍，刺之。 楚人救衛。 三月丙午，晉侯入曹，執曹伯，畀宋人。 夏四月己巳，晉侯、齊師、宋師、秦師及楚人戰於城濮，楚師敗績。 楚殺其大夫得臣。 衛侯出奔楚。 五月癸丑，公會晉侯、齊侯、宋公、蔡侯、鄭伯、衛子、莒子，盟於踐土。 陳侯如會。 公朝於王所。 六月，衛侯鄭自楚複歸於衛。 衛元咺出奔晉。 陳侯款卒。 秋，杞伯姬來。 公子遂如齊。 冬，公會晉侯、齊侯、宋公、蔡侯、鄭伯、陳子、莒子、邾人、秦人於溫。 天王狩於河陽。 壬申，公朝於王所。 晉人執衛侯，歸之於京師。 衛元咺自晉複歸於衛。 諸侯遂圍許。 曹伯襄複歸於曹，遂會諸侯圍許。",
+          "correction": {
+            "reason": "“鄭自楚復歸於”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。；“咺自晉復歸於”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。；“曹伯襄復歸於”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1ff7a13ff8b3e302247e6a0586810de979e63eb17bf4c58e5fb3ec7fc31f47f6"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0029",
@@ -2633,9 +3106,20 @@
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0031",
-          "version": "sha256:3592e276173f955daae56164d7a152ba96c3983a7c9c42dfd3dfbd66ae8d9c8b",
-          "text": "三十有一年春，取濟西田。 公子遂如晉。 夏四月，四蔔郊，不從，乃免牲。猶三望。 秋七月。 冬，杞伯姬來求婦。 狄圍衛。 十有二月，衛遷於帝丘。",
-          "aliases": []
+          "version": "sha256:88028fd2fc37fb57a37e898f2711d8c78a3bcfc0c94ccc62bcb06e9f89f16cf9",
+          "text": "三十有一年春，取濟西田。 公子遂如晉。 夏四月，四卜郊，不從，乃免牲。猶三望。 秋七月。 冬，杞伯姬來求婦。 狄圍衛。 十有二月，衛遷於帝丘。",
+          "aliases": [],
+          "sourceText": "三十有一年春，取濟西田。 公子遂如晉。 夏四月，四蔔郊，不從，乃免牲。猶三望。 秋七月。 冬，杞伯姬來求婦。 狄圍衛。 十有二月，衛遷於帝丘。",
+          "correction": {
+            "reason": "“月，四卜郊，”：“卜郊”的“卜”是占卜；底本“蔔”（萝蔔）是简转繁误转。维基文库《春秋左氏傳》经文此处作“卜”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:88028fd2fc37fb57a37e898f2711d8c78a3bcfc0c94ccc62bcb06e9f89f16cf9"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3e9d9854839405ec-0032",
@@ -2690,9 +3174,20 @@
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0006",
-          "version": "sha256:593494f7ec7bd6ec1eb500efec305b7564794c564d373d4f4d4a8ba9f1336319",
-          "text": "六年春，葬許僖公。 夏，季孫行父如陳。 秋，季孫行父如晉。 八月乙亥，晉侯歡卒。 冬十月，公子遂如晉。葬晉襄公。晉殺其大夫陽處父。晉狐射姑出奔狄。 閏月不告月，猶朝於廟。",
-          "aliases": []
+          "version": "sha256:74440d05495157bb6e61301d3a994646509dd52b0a493aee769b000d8b67cf81",
+          "text": "六年春，葬許僖公。 夏，季孫行父如陳。 秋，季孫行父如晉。 八月乙亥，晉侯驩卒。 冬十月，公子遂如晉。葬晉襄公。晉殺其大夫陽處父。晉狐射姑出奔狄。 閏月不告月，猶朝於廟。",
+          "aliases": [],
+          "sourceText": "六年春，葬許僖公。 夏，季孫行父如陳。 秋，季孫行父如晉。 八月乙亥，晉侯歡卒。 冬十月，公子遂如晉。葬晉襄公。晉殺其大夫陽處父。晉狐射姑出奔狄。 閏月不告月，猶朝於廟。",
+          "correction": {
+            "reason": "“晉侯驩卒”：晋襄公名驩；底本“歡”是简转繁时把“欢”误转所致。维基文库《春秋左氏傳》经文此处作“驩”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:74440d05495157bb6e61301d3a994646509dd52b0a493aee769b000d8b67cf81"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0007",
@@ -2702,15 +3197,37 @@
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0008",
-          "version": "sha256:e7deaf0ecd36c3359dd74f4f2b67e5804f50e7b1982241f9d6ba41696d767e4d",
-          "text": "八年春王正月。 夏四月。 秋八月戊申，天王崩。 冬十月壬午，公子遂會晉趙盾盟於衡雍。乙酉，公子遂會洛戎盟於暴。公孫敖如京師，不至而複。丙戌，奔莒。螽。宋人殺其大夫司馬。宋司城來奔。",
-          "aliases": []
+          "version": "sha256:4fa6a762d55528b49180f0caa5132cdeef00c35ed2ffc429adc1589140ebd2b9",
+          "text": "八年春王正月。 夏四月。 秋八月戊申，天王崩。 冬十月壬午，公子遂會晉趙盾盟於衡雍。乙酉，公子遂會洛戎盟於暴。公孫敖如京師，不至而復。丙戌，奔莒。螽。宋人殺其大夫司馬。宋司城來奔。",
+          "aliases": [],
+          "sourceText": "八年春王正月。 夏四月。 秋八月戊申，天王崩。 冬十月壬午，公子遂會晉趙盾盟於衡雍。乙酉，公子遂會洛戎盟於暴。公孫敖如京師，不至而複。丙戌，奔莒。螽。宋人殺其大夫司馬。宋司城來奔。",
+          "correction": {
+            "reason": "“不至而復。丙”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4fa6a762d55528b49180f0caa5132cdeef00c35ed2ffc429adc1589140ebd2b9"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0009",
-          "version": "sha256:cd42e51f3f193d4f2bc6da3a31d932e283b553b4992a2048243ba332949c6787",
-          "text": "九年春，毛伯來求金。夫人姜氏如齊。 二月，叔孫得臣如京師。 辛丑，葬襄王。晉人殺其大夫先都。 三月，夫人姜氏至自齊。晉人殺其大夫士縠及箕鄭父。楚人伐鄭。公子遂會晉人、宋人、衛人、許人救鄭。夏，狄侵齊。 秋八月，曹伯襄卒。 九月癸西，地震。冬，楚子使椒來聘。秦人來歸僖公、成風之襚。葬曹共公。",
-          "aliases": []
+          "version": "sha256:17454d122881f9bd0f0119734e45dbd50fcd80f208b4d93da09ed693bab1b6a3",
+          "text": "九年春，毛伯來求金。夫人姜氏如齊。 二月，叔孫得臣如京師。 辛丑，葬襄王。晉人殺其大夫先都。 三月，夫人姜氏至自齊。晉人殺其大夫士縠及箕鄭父。楚人伐鄭。公子遂會晉人、宋人、衛人、許人救鄭。夏，狄侵齊。 秋八月，曹伯襄卒。 九月癸酉，地震。冬，楚子使椒來聘。秦人來歸僖公、成風之襚。葬曹共公。",
+          "aliases": [],
+          "sourceText": "九年春，毛伯來求金。夫人姜氏如齊。 二月，叔孫得臣如京師。 辛丑，葬襄王。晉人殺其大夫先都。 三月，夫人姜氏至自齊。晉人殺其大夫士縠及箕鄭父。楚人伐鄭。公子遂會晉人、宋人、衛人、許人救鄭。夏，狄侵齊。 秋八月，曹伯襄卒。 九月癸西，地震。冬，楚子使椒來聘。秦人來歸僖公、成風之襚。葬曹共公。",
+          "correction": {
+            "reason": "“九月癸酉，地震”：干支“癸酉”，底本“西”形近而误。维基文库《春秋左氏傳》经文此处作“癸酉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:17454d122881f9bd0f0119734e45dbd50fcd80f208b4d93da09ed693bab1b6a3"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0010",
@@ -2720,15 +3237,37 @@
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0011",
-          "version": "sha256:72214d89035ac2b7cdb22661a51da75c3eb9892956a7fd96d9f079b28093e9df",
-          "text": "十有一年春，楚子伐麋。夏，叔仲彭生會晉郤缺於承筐。 秋，曹伯來朝。公子遂如宋。狄侵齊。 冬十月甲午，叔孫得臣敗狄於咸。",
-          "aliases": []
+          "version": "sha256:8eaf8290490ed009d15d3e9b09430925a3180baaf2244b7c8c1fd3b76746cedf",
+          "text": "十有一年春，楚子伐麇。夏，叔仲彭生會晉郤缺於承筐。 秋，曹伯來朝。公子遂如宋。狄侵齊。 冬十月甲午，叔孫得臣敗狄於咸。",
+          "aliases": [],
+          "sourceText": "十有一年春，楚子伐麋。夏，叔仲彭生會晉郤缺於承筐。 秋，曹伯來朝。公子遂如宋。狄侵齊。 冬十月甲午，叔孫得臣敗狄於咸。",
+          "correction": {
+            "reason": "“楚子伐麇”：麇是国名，底本“麋”形近而误。维基文库《春秋左氏傳》经文此处作“麇”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8eaf8290490ed009d15d3e9b09430925a3180baaf2244b7c8c1fd3b76746cedf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0012",
-          "version": "sha256:3128f4613c245d298de16ccdc415debe127451f4909228fee90a78965382eaef",
-          "text": "十有二年春王正月，郕伯來奔。杞伯來朝。 二月庚子，子叔姬卒。 夏，楚人圍巢。 秋，滕子來朝。秦伯使術來聘。 冬十有二戊午，晉人、秦人戰於河曲。季孫行父帥師城諸及鄆。",
-          "aliases": []
+          "version": "sha256:d7082614734b4f3cc437be375b0066aa4b11db6753d1d004d762e99b6445251b",
+          "text": "十有二年春王正月，郕伯來奔。杞伯來朝。 二月庚子，子叔姬卒。 夏，楚人圍巢。 秋，滕子來朝。秦伯使術來聘。 冬十有二月戊午，晉人、秦人戰於河曲。季孫行父帥師城諸及鄆。",
+          "aliases": [],
+          "sourceText": "十有二年春王正月，郕伯來奔。杞伯來朝。 二月庚子，子叔姬卒。 夏，楚人圍巢。 秋，滕子來朝。秦伯使術來聘。 冬十有二戊午，晉人、秦人戰於河曲。季孫行父帥師城諸及鄆。",
+          "correction": {
+            "reason": "“冬十有二月戊午”：底本脱“月”字。维基文库《春秋左氏傳》经文此处作“十有二月”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d7082614734b4f3cc437be375b0066aa4b11db6753d1d004d762e99b6445251b"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0013",
@@ -2744,27 +3283,71 @@
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0015",
-          "version": "sha256:832d48d5d7a8d9ef5ac9214e6b612defd2532fcca98dd409215beb87e06870f5",
-          "text": "十有五年春，季孫行父如晉。 三月，宋司馬華孫來盟。夏，曹伯來朝。齊人歸公孫敖之喪。 六月辛丑朔，日有食之。鼓，用牲於社。單伯至自齊。晉郤缺帥師伐蔡。戊申，入蔡。齊人侵我西鄙。季孫行父如晉。 冬十有一月，諸侯盟於扈。 十有二月，齊人來歸子叔姬。齊侯侵我西鄙，遂伐曹，入其郛。",
-          "aliases": []
+          "version": "sha256:c3ce9a9466a81eb6bc29c7e34944534bc5477dc2e385b64874086e581c0d9972",
+          "text": "十有五年春，季孫行父如晉。 三月，宋司馬華孫來盟。夏，曹伯來朝。齊人歸公孫敖之喪。 六月辛丑朔，日有食之。鼓，用牲於社。單伯至自齊。晉郤缺帥師伐蔡。戊申，入蔡。秋，齊人侵我西鄙。季孫行父如晉。 冬十有一月，諸侯盟於扈。 十有二月，齊人來歸子叔姬。齊侯侵我西鄙，遂伐曹，入其郛。",
+          "aliases": [],
+          "sourceText": "十有五年春，季孫行父如晉。 三月，宋司馬華孫來盟。夏，曹伯來朝。齊人歸公孫敖之喪。 六月辛丑朔，日有食之。鼓，用牲於社。單伯至自齊。晉郤缺帥師伐蔡。戊申，入蔡。齊人侵我西鄙。季孫行父如晉。 冬十有一月，諸侯盟於扈。 十有二月，齊人來歸子叔姬。齊侯侵我西鄙，遂伐曹，入其郛。",
+          "correction": {
+            "reason": "“秋，齊人侵我西鄙”：底本脱“秋”字。维基文库《春秋左氏傳》经文此处作“秋”，《穀梁》经文同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c3ce9a9466a81eb6bc29c7e34944534bc5477dc2e385b64874086e581c0d9972"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0016",
-          "version": "sha256:6820b89c1ca8cc2f05b6179f56b5fbc3838ee993ba7b6c1b40d5525a4224c982",
-          "text": "十有六年春，季孫行父會齊侯於陽谷，齊侯弗及盟。 夏五月，公四不視朔。 六月戊辰，公子遂及齊侯盟於郪丘。 秋八月辛未，夫人姜氏薨。毀泉臺。楚人、秦人、巴人滅庸。 冬十有一月，宋人弑其君杵臼。",
-          "aliases": []
+          "version": "sha256:de45392e5181e6ae118f5a223b45faa9256215875aa51881fac0c4dad8dec979",
+          "text": "十有六年春，季孫行父會齊侯於陽穀，齊侯弗及盟。 夏五月，公四不視朔。 六月戊辰，公子遂及齊侯盟於郪丘。 秋八月辛未，夫人姜氏薨。毀泉臺。楚人、秦人、巴人滅庸。 冬十有一月，宋人弑其君杵臼。",
+          "aliases": [],
+          "sourceText": "十有六年春，季孫行父會齊侯於陽谷，齊侯弗及盟。 夏五月，公四不視朔。 六月戊辰，公子遂及齊侯盟於郪丘。 秋八月辛未，夫人姜氏薨。毀泉臺。楚人、秦人、巴人滅庸。 冬十有一月，宋人弑其君杵臼。",
+          "correction": {
+            "reason": "“侯於陽穀，齊”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:de45392e5181e6ae118f5a223b45faa9256215875aa51881fac0c4dad8dec979"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0017",
-          "version": "sha256:1a5ae5166c0922d1bf6b7841567bc76cb5ab2aa504fb0c03b77e7863a3e0c3c6",
-          "text": "十有七年春，晉人、衛人、陳人、鄭人伐宋。 夏四月癸亥，葬我小君聲姜。齊侯伐我西鄙。 六月癸未，公及齊侯盟於谷。諸侯會於扈。 秋，公至自谷。 冬，公子遂如齊。",
-          "aliases": []
+          "version": "sha256:7ad4a24ba9565dceab1d99e25acd783ecd2be4a504c614814b7240bf9ab68f01",
+          "text": "十有七年春，晉人、衛人、陳人、鄭人伐宋。 夏四月癸亥，葬我小君聲姜。齊侯伐我西鄙。 六月癸未，公及齊侯盟於穀。諸侯會於扈。 秋，公至自穀。 冬，公子遂如齊。",
+          "aliases": [],
+          "sourceText": "十有七年春，晉人、衛人、陳人、鄭人伐宋。 夏四月癸亥，葬我小君聲姜。齊侯伐我西鄙。 六月癸未，公及齊侯盟於谷。諸侯會於扈。 秋，公至自谷。 冬，公子遂如齊。",
+          "correction": {
+            "reason": "“侯盟於穀。諸”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。；“公至自穀。 ”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7ad4a24ba9565dceab1d99e25acd783ecd2be4a504c614814b7240bf9ab68f01"
+            }
+          }
         },
         {
           "id": "p-chunqiu-7e331100e82052a6-0018",
-          "version": "sha256:286cd8b60e8291d174459ce57e33e9220afea483b9a504ee3d67b9e84b9ad834",
-          "text": "十有八年春王二月丁丑，公薨於臺下。秦伯犖卒。 夏五月戊戌，齊人弑其君商人。 六月癸酉，葬我君文公。 秋，公子遂、叔孫得臣如齊。 冬十月，子卒。夫人姜氏歸於齊。季孫行父如齊。莒弑其君庶其。",
-          "aliases": []
+          "version": "sha256:80c31369b4544b9941a44b8c901d071ab75e21ed8a5edc7480620acc951bf8d4",
+          "text": "十有八年春王二月丁丑，公薨於臺下。秦伯罃卒。 夏五月戊戌，齊人弑其君商人。 六月癸酉，葬我君文公。 秋，公子遂、叔孫得臣如齊。 冬十月，子卒。夫人姜氏歸於齊。季孫行父如齊。莒弑其君庶其。",
+          "aliases": [],
+          "sourceText": "十有八年春王二月丁丑，公薨於臺下。秦伯犖卒。 夏五月戊戌，齊人弑其君商人。 六月癸酉，葬我君文公。 秋，公子遂、叔孫得臣如齊。 冬十月，子卒。夫人姜氏歸於齊。季孫行父如齊。莒弑其君庶其。",
+          "correction": {
+            "reason": "“秦伯罃卒”：秦康公名罃，底本“犖”形近而误。维基文库《春秋左氏傳》经文此处作“罃”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:80c31369b4544b9941a44b8c901d071ab75e21ed8a5edc7480620acc951bf8d4"
+            }
+          }
         }
       ]
     },
@@ -2867,9 +3450,20 @@
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0016",
-          "version": "sha256:f01c39f0109b7cc5d7d0b8eb5fc5614c9a6bfb8f8e588ffc991bdb1e229b3db0",
-          "text": "八年春，公至自會。夏六月，公子遂如齊，至黃乃複。辛巳，有事於大廟，仲遂卒於垂。壬午，猶繹。萬入，去籥。戊子，夫人贏氏薨。晉師、白狄伐秦。楚人滅舒蓼。秋七月甲子，日有食之，既。冬十月己丑，葬我小君敬贏。雨，不克葬。庚寅，日中而克葬。城平陽。楚師伐陳。",
-          "aliases": []
+          "version": "sha256:ddd52bf567259e80304c51ad8320d92c0dbd589958edcbc247889114858d45e0",
+          "text": "八年春，公至自會。夏六月，公子遂如齊，至黃乃復。辛巳，有事於大廟，仲遂卒於垂。壬午，猶繹。萬入，去籥。戊子，夫人嬴氏薨。晉師、白狄伐秦。楚人滅舒蓼。秋七月甲子，日有食之，既。冬十月己丑，葬我小君敬嬴。雨，不克葬。庚寅，日中而克葬。城平陽。楚師伐陳。",
+          "aliases": [],
+          "sourceText": "八年春，公至自會。夏六月，公子遂如齊，至黃乃複。辛巳，有事於大廟，仲遂卒於垂。壬午，猶繹。萬入，去籥。戊子，夫人贏氏薨。晉師、白狄伐秦。楚人滅舒蓼。秋七月甲子，日有食之，既。冬十月己丑，葬我小君敬贏。雨，不克葬。庚寅，日中而克葬。城平陽。楚師伐陳。",
+          "correction": {
+            "reason": "“夫人嬴氏薨”：即敬嬴，嬴是姓；底本“贏”形近而误（字词注已注明）。维基文库《春秋左氏傳》经文此处作“嬴氏”。；“葬我小君敬嬴”：同上，“贏”当作“嬴”。维基文库《春秋左氏傳》经文此处作“敬嬴”。；“至黃乃復。辛”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ddd52bf567259e80304c51ad8320d92c0dbd589958edcbc247889114858d45e0"
+            }
+          }
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0017",
@@ -2879,15 +3473,37 @@
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0018",
-          "version": "sha256:6cf17e015f7f710c11977e7806bd57e39518bb1609a114c058bd20b0444b1960",
-          "text": "十年春，公如齊。公至自齊。齊人歸我濟西田。夏四月丙辰，日有食之。己巳，齊侯元卒。齊崔氏出奔衛。公如齊。五月，公至自齊。癸巳，陳夏征舒弑其君平國。六月，宋師伐滕。公孫歸父如齊，葬齊惠公。晉人、宋人、衛人、曹人伐鄭。秋，天王使王季子來聘。公孫歸父帥師伐邾，取繹。大水。季孫行父如齊。冬，公孫歸父如齊。齊侯使國佐來聘。饑。楚子伐鄭。",
-          "aliases": []
+          "version": "sha256:99f943bcd83e1b48ff10e8a6027806b2beceb63e27487da90e10233428f9061f",
+          "text": "十年春，公如齊。公至自齊。齊人歸我濟西田。夏四月丙辰，日有食之。己巳，齊侯元卒。齊崔氏出奔衛。公如齊。五月，公至自齊。癸巳，陳夏徵舒弑其君平國。六月，宋師伐滕。公孫歸父如齊，葬齊惠公。晉人、宋人、衛人、曹人伐鄭。秋，天王使王季子來聘。公孫歸父帥師伐邾，取繹。大水。季孫行父如齊。冬，公孫歸父如齊。齊侯使國佐來聘。饑。楚子伐鄭。",
+          "aliases": [],
+          "sourceText": "十年春，公如齊。公至自齊。齊人歸我濟西田。夏四月丙辰，日有食之。己巳，齊侯元卒。齊崔氏出奔衛。公如齊。五月，公至自齊。癸巳，陳夏征舒弑其君平國。六月，宋師伐滕。公孫歸父如齊，葬齊惠公。晉人、宋人、衛人、曹人伐鄭。秋，天王使王季子來聘。公孫歸父帥師伐邾，取繹。大水。季孫行父如齊。冬，公孫歸父如齊。齊侯使國佐來聘。饑。楚子伐鄭。",
+          "correction": {
+            "reason": "“陳夏徵舒弑其君平國”：夏徵舒之“徵”，底本“征”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“夏徵舒”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:99f943bcd83e1b48ff10e8a6027806b2beceb63e27487da90e10233428f9061f"
+            }
+          }
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0019",
-          "version": "sha256:9e55a1884d89ded0e38b5d27ebf598dc1637b124227c41c15b318a70f1e5d1c9",
-          "text": "十有一年春王正月。夏，楚子、陳侯、鄭伯盟於辰陵。公孫歸父會齊人伐莒。秋，晉侯會狄於欑函。冬十月，楚人殺陳夏征舒。丁亥，楚子入陳。納公孫甯、儀行父於陳。",
-          "aliases": []
+          "version": "sha256:6bfe2cdbf9f69ce6b688e0a6899a9ef28858df22ea35cda52a2e874aa5b2ab48",
+          "text": "十有一年春王正月。夏，楚子、陳侯、鄭伯盟於辰陵。公孫歸父會齊人伐莒。秋，晉侯會狄於欑函。冬十月，楚人殺陳夏徵舒。丁亥，楚子入陳。納公孫甯、儀行父於陳。",
+          "aliases": [],
+          "sourceText": "十有一年春王正月。夏，楚子、陳侯、鄭伯盟於辰陵。公孫歸父會齊人伐莒。秋，晉侯會狄於欑函。冬十月，楚人殺陳夏征舒。丁亥，楚子入陳。納公孫甯、儀行父於陳。",
+          "correction": {
+            "reason": "“楚人殺陳夏徵舒”：同上。维基文库《春秋左氏傳》经文此处作“夏徵舒”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6bfe2cdbf9f69ce6b688e0a6899a9ef28858df22ea35cda52a2e874aa5b2ab48"
+            }
+          }
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0020",
@@ -2903,21 +3519,54 @@
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0022",
-          "version": "sha256:338aa0cba83ca8e0d9f407a9c0c67fe384b7c72702c5a00db55e4cb7b8cb2c78",
-          "text": "十有四年春，衛殺其大夫孔達。夏五月壬申，曹伯壽卒。晉侯伐鄭。秋九月，楚子圍宋。葬曹文公。冬，公孫歸父會齊侯於谷。",
-          "aliases": []
+          "version": "sha256:1847f0843fecda742df1e2e2bc3dc030bbbb24f60198eab130fc5ad7380e2d4a",
+          "text": "十有四年春，衛殺其大夫孔達。夏五月壬申，曹伯壽卒。晉侯伐鄭。秋九月，楚子圍宋。葬曹文公。冬，公孫歸父會齊侯於穀。",
+          "aliases": [],
+          "sourceText": "十有四年春，衛殺其大夫孔達。夏五月壬申，曹伯壽卒。晉侯伐鄭。秋九月，楚子圍宋。葬曹文公。冬，公孫歸父會齊侯於谷。",
+          "correction": {
+            "reason": "“齊侯於穀。”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1847f0843fecda742df1e2e2bc3dc030bbbb24f60198eab130fc5ad7380e2d4a"
+            }
+          }
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0023",
-          "version": "sha256:658262ad8a6b3884d433e5096a0896a160675c1f1ad836f8e9ce52112f2ce56d",
-          "text": "十有五年春，公孫歸父會楚子於宋。夏五月，宋人及楚人平。六月癸卯，晉師滅赤狄潞氏，以潞子嬰兒歸。秦人伐晉。王劄子殺召伯、毛伯。秋，螽。仲孫蔑會齊高固於無婁。初稅畝。冬，蝝生。饑。",
-          "aliases": []
+          "version": "sha256:9cb23590473a5d52085402fc1895af88d58bca6d7263859b129126b4a9a944f1",
+          "text": "十有五年春，公孫歸父會楚子於宋。夏五月，宋人及楚人平。六月癸卯，晉師滅赤狄潞氏，以潞子嬰兒歸。秦人伐晉。王札子殺召伯、毛伯。秋，螽。仲孫蔑會齊高固於無婁。初稅畝。冬，蝝生。饑。",
+          "aliases": [],
+          "sourceText": "十有五年春，公孫歸父會楚子於宋。夏五月，宋人及楚人平。六月癸卯，晉師滅赤狄潞氏，以潞子嬰兒歸。秦人伐晉。王劄子殺召伯、毛伯。秋，螽。仲孫蔑會齊高固於無婁。初稅畝。冬，蝝生。饑。",
+          "correction": {
+            "reason": "“王札子殺召伯、毛伯”：底本“劄”是简转繁时把“札”误转所致。维基文库《春秋左氏傳》经文此处作“王札子”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9cb23590473a5d52085402fc1895af88d58bca6d7263859b129126b4a9a944f1"
+            }
+          }
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0024",
-          "version": "sha256:b46d18c09373a1cd5e98f993709b33d9a6fb775b8b93dc28f9719aa6a984ae42",
-          "text": "十有六年春王正月。晉人滅赤狄甲氏及留籲。夏，成周宣榭火。秋，郯伯姬來歸。冬，大有年。",
-          "aliases": []
+          "version": "sha256:53cb9e472ad627f39b33abaed960b62076c37742868e954a59eea366ad96ffaf",
+          "text": "十有六年春王正月。晉人滅赤狄甲氏及留吁。夏，成周宣榭火。秋，郯伯姬來歸。冬，大有年。",
+          "aliases": [],
+          "sourceText": "十有六年春王正月。晉人滅赤狄甲氏及留籲。夏，成周宣榭火。秋，郯伯姬來歸。冬，大有年。",
+          "correction": {
+            "reason": "“晉人滅赤狄甲氏及留吁”：留吁是赤狄部族；底本“籲”是简转繁时把“吁”误转所致。维基文库《春秋左氏傳》经文此处作“留吁”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:53cb9e472ad627f39b33abaed960b62076c37742868e954a59eea366ad96ffaf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0025",
@@ -2927,9 +3576,20 @@
         },
         {
           "id": "p-chunqiu-95fc4db1bad77f78-0026",
-          "version": "sha256:191dcfc6a7b35f1297817e1ed9d8dd004bf49e9db648eecf8fc3de6aa6ed3f07",
-          "text": "十有八年春，晉侯、衛世子臧伐齊。公伐杞。夏四月。秋七月，邾人伐鄫子於鄫。甲戌，楚子旅卒。公孫歸父如晉。冬十月壬戌，公薨於路寢。歸父還自晉，至笙。遂奔齊。",
-          "aliases": []
+          "version": "sha256:affa3234327fb81c779ccd31ccb484e6967c71ae92552880aa85bd60f75c73b0",
+          "text": "十有八年春，晉侯、衛世子臧伐齊。公伐杞。夏四月。秋七月，邾人戕鄫子於鄫。甲戌，楚子旅卒。公孫歸父如晉。冬十月壬戌，公薨於路寢。歸父還自晉，至笙。遂奔齊。",
+          "aliases": [],
+          "sourceText": "十有八年春，晉侯、衛世子臧伐齊。公伐杞。夏四月。秋七月，邾人伐鄫子於鄫。甲戌，楚子旅卒。公孫歸父如晉。冬十月壬戌，公薨於路寢。歸父還自晉，至笙。遂奔齊。",
+          "correction": {
+            "reason": "“邾人戕鄫子於鄫”：戕是杀害，底本“伐”讲不通。维基文库《春秋左氏傳》经文此处作“戕”，《公羊》《穀梁》经文同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:affa3234327fb81c779ccd31ccb484e6967c71ae92552880aa85bd60f75c73b0"
+            }
+          }
         }
       ]
     },
@@ -2948,15 +3608,37 @@
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0002",
-          "version": "sha256:525a62f166be3a79a8f748925ed8fde4c2fa1b827d939c911adc1783e3c8f06b",
-          "text": "二年春，齊侯伐我北鄙。夏四月丙戌，衛孫良夫帥師及齊師戰於新築，衛師敗績。六月癸酉，季孫行父、臧孫許、叔孫僑如、公孫嬰齊帥師會晉郤克、衛孫良夫、曹公子首及齊侯戰於鞍，齊師敗績。秋七月，齊侯使國佐如師。己酉，及國佐盟於袁婁。八月壬卒。宋公鮑卒。庚寅，衛侯速卒。取汶陽田。冬，楚師、鄭師侵衛。十有一月，公會楚公子嬰齊於蜀。丙申，公及楚人、秦人、宋人、陳人、衛人、鄭人、齊人、曹人、邾人、薛人、鄫人盟於蜀。",
-          "aliases": []
+          "version": "sha256:00e135e6a752d88e906fa3e82d4376e0b0992058248431617e51cbb0456cda9c",
+          "text": "二年春，齊侯伐我北鄙。夏四月丙戌，衛孫良夫帥師及齊師戰於新築，衛師敗績。六月癸酉，季孫行父、臧孫許、叔孫僑如、公孫嬰齊帥師會晉郤克、衛孫良夫、曹公子首及齊侯戰於鞍，齊師敗績。秋七月，齊侯使國佐如師。己酉，及國佐盟於袁婁。八月壬午。宋公鮑卒。庚寅，衛侯速卒。取汶陽田。冬，楚師、鄭師侵衛。十有一月，公會楚公子嬰齊於蜀。丙申，公及楚人、秦人、宋人、陳人、衛人、鄭人、齊人、曹人、邾人、薛人、鄫人盟於蜀。",
+          "aliases": [],
+          "sourceText": "二年春，齊侯伐我北鄙。夏四月丙戌，衛孫良夫帥師及齊師戰於新築，衛師敗績。六月癸酉，季孫行父、臧孫許、叔孫僑如、公孫嬰齊帥師會晉郤克、衛孫良夫、曹公子首及齊侯戰於鞍，齊師敗績。秋七月，齊侯使國佐如師。己酉，及國佐盟於袁婁。八月壬卒。宋公鮑卒。庚寅，衛侯速卒。取汶陽田。冬，楚師、鄭師侵衛。十有一月，公會楚公子嬰齊於蜀。丙申，公及楚人、秦人、宋人、陳人、衛人、鄭人、齊人、曹人、邾人、薛人、鄫人盟於蜀。",
+          "correction": {
+            "reason": "“八月壬午，宋公鮑卒”：干支“壬午”，底本“卒”讲不通。维基文库《春秋左氏傳》经文此处作“壬午”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:00e135e6a752d88e906fa3e82d4376e0b0992058248431617e51cbb0456cda9c"
+            }
+          }
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0003",
-          "version": "sha256:9dc7169b96792c043543635dfe78c26bcaf01f686d7bff3d9b989d1f207363fb",
-          "text": "三年春王正月，公會晉侯、宋公、衛侯、曹伯伐鄭。辛亥，葬衛穆公。二月，公至自伐鄭。甲子，新宮災。三日哭。乙亥，葬宋文公。夏，公如晉。鄭公子去疾帥師伐許。公至自晉。秋，叔孫僑如帥師圍棘。大雩。晉郤克、衛孫良夫伐嗇咎如。冬十有一月，晉侯使荀庚來聘。衛侯使孫良夫來聘。丙午，及荀庚盟。丁未，及孫良夫盟。鄭伐許。",
-          "aliases": []
+          "version": "sha256:95df389df3fc7c70f0832b8f1bfaecfc9e2b2aa1e88c8c6af7957f7335f2d584",
+          "text": "三年春王正月，公會晉侯、宋公、衛侯、曹伯伐鄭。辛亥，葬衛穆公。二月，公至自伐鄭。甲子，新宮災。三日哭。乙亥，葬宋文公。夏，公如晉。鄭公子去疾帥師伐許。公至自晉。秋，叔孫僑如帥師圍棘。大雩。晉郤克、衛孫良夫伐廧咎如。冬十有一月，晉侯使荀庚來聘。衛侯使孫良夫來聘。丙午，及荀庚盟。丁未，及孫良夫盟。鄭伐許。",
+          "aliases": [],
+          "sourceText": "三年春王正月，公會晉侯、宋公、衛侯、曹伯伐鄭。辛亥，葬衛穆公。二月，公至自伐鄭。甲子，新宮災。三日哭。乙亥，葬宋文公。夏，公如晉。鄭公子去疾帥師伐許。公至自晉。秋，叔孫僑如帥師圍棘。大雩。晉郤克、衛孫良夫伐嗇咎如。冬十有一月，晉侯使荀庚來聘。衛侯使孫良夫來聘。丙午，及荀庚盟。丁未，及孫良夫盟。鄭伐許。",
+          "correction": {
+            "reason": "“伐廧咎如”：廧咎如是赤狄部族，底本脱“广”作“嗇”。维基文库《春秋左氏傳》经文此处作“廧咎如”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:95df389df3fc7c70f0832b8f1bfaecfc9e2b2aa1e88c8c6af7957f7335f2d584"
+            }
+          }
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0004",
@@ -2966,9 +3648,20 @@
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0005",
-          "version": "sha256:e1e11b8acc2fa0bc29296158b6531277efd3e07d94f76b295e7d5c0682459aae",
-          "text": "五年春王正月，杞叔姬來歸。仲孫蔑如宋。夏，叔孫僑如會晉荀首於谷。梁山崩。秋，大水。冬十有一月己酉，天王崩。十有二月己丑，公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、邾子、杞伯同盟於蟲牢。",
-          "aliases": []
+          "version": "sha256:a674452a60078accb91ea9c2c09c5737bfe4fd124cf24135037dca7849405983",
+          "text": "五年春王正月，杞叔姬來歸。仲孫蔑如宋。夏，叔孫僑如會晉荀首於穀。梁山崩。秋，大水。冬十有一月己酉，天王崩。十有二月己丑，公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、邾子、杞伯同盟於蟲牢。",
+          "aliases": [],
+          "sourceText": "五年春王正月，杞叔姬來歸。仲孫蔑如宋。夏，叔孫僑如會晉荀首於谷。梁山崩。秋，大水。冬十有一月己酉，天王崩。十有二月己丑，公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、邾子、杞伯同盟於蟲牢。",
+          "correction": {
+            "reason": "“荀首於穀。梁”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a674452a60078accb91ea9c2c09c5737bfe4fd124cf24135037dca7849405983"
+            }
+          }
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0006",
@@ -2984,9 +3677,20 @@
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0008",
-          "version": "sha256:a4cfd3845094062ead8eb26420af5e7531de34bc3833f0bf959e295b21f4e508",
-          "text": "八年春，晉侯使韓穿來言汶陽之田，歸之於齊。晉欒書帥師侵蔡。公孫嬰齊如莒。宋公使華元來聘。夏，宋公使公孫壽來納幣。晉殺其大夫趙同、趙括。秋七月，天子使召伯來賜公命。冬十月癸卯，杞叔姬卒。晉侯使士燮來聘。叔孫僑如會晉士燮、齊人、邾人代郯。衛人來媵。",
-          "aliases": []
+          "version": "sha256:e5e064873d346c4c02e4b2c88d1a998635e258635ad2473c1f80d0c6bfa831f3",
+          "text": "八年春，晉侯使韓穿來言汶陽之田，歸之於齊。晉欒書帥師侵蔡。公孫嬰齊如莒。宋公使華元來聘。夏，宋公使公孫壽來納幣。晉殺其大夫趙同、趙括。秋七月，天子使召伯來賜公命。冬十月癸卯，杞叔姬卒。晉侯使士燮來聘。叔孫僑如會晉士燮、齊人、邾人伐郯。衛人來媵。",
+          "aliases": [],
+          "sourceText": "八年春，晉侯使韓穿來言汶陽之田，歸之於齊。晉欒書帥師侵蔡。公孫嬰齊如莒。宋公使華元來聘。夏，宋公使公孫壽來納幣。晉殺其大夫趙同、趙括。秋七月，天子使召伯來賜公命。冬十月癸卯，杞叔姬卒。晉侯使士燮來聘。叔孫僑如會晉士燮、齊人、邾人代郯。衛人來媵。",
+          "correction": {
+            "reason": "“齊人、邾人伐郯”：底本“代”是“伐”之误。维基文库《春秋左傳正義》经文作“伐郯”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e5e064873d346c4c02e4b2c88d1a998635e258635ad2473c1f80d0c6bfa831f3"
+            }
+          }
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0009",
@@ -2996,9 +3700,20 @@
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0010",
-          "version": "sha256:9e6a8c6a90296b755fa926b68ed7a24aed5c912d53435629c65fab587fb0fcec",
-          "text": "十年春，衛侯之弟黑背帥師侵鄭。夏四月，五蔔郊，不從，乃不郊。五月，公會晉侯、齊侯、宋公、衛侯、曹伯伐鄭。齊人來媵。丙午，晉侯獳卒。秋七月，公如晉。冬十月。",
-          "aliases": []
+          "version": "sha256:0422add8e8eccd2243fd51cf930c2dafff7005102b4318229c4631d89ab60c1d",
+          "text": "十年春，衛侯之弟黑背帥師侵鄭。夏四月，五卜郊，不從，乃不郊。五月，公會晉侯、齊侯、宋公、衛侯、曹伯伐鄭。齊人來媵。丙午，晉侯獳卒。秋七月，公如晉。冬十月。",
+          "aliases": [],
+          "sourceText": "十年春，衛侯之弟黑背帥師侵鄭。夏四月，五蔔郊，不從，乃不郊。五月，公會晉侯、齊侯、宋公、衛侯、曹伯伐鄭。齊人來媵。丙午，晉侯獳卒。秋七月，公如晉。冬十月。",
+          "correction": {
+            "reason": "“月，五卜郊，”：“卜郊”的“卜”是占卜；底本“蔔”（萝蔔）是简转繁误转。维基文库《春秋左氏傳》经文此处作“卜”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0422add8e8eccd2243fd51cf930c2dafff7005102b4318229c4631d89ab60c1d"
+            }
+          }
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0011",
@@ -3038,9 +3753,20 @@
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0017",
-          "version": "sha256:bb5e1959592287f56c8f44fba4d022981f681b467ec351d77df196aef6e5fddf",
-          "text": "十有七年春，卫北宫括帅师侵郑。夏，公会尹子、单子、晋侯、齐侯、宋公、卫侯、曹伯、邾人伐郑。六月乙酋，同盟於柯陵。秋，公至自会。齐高无咎出奔莒。九月辛丑，用郊。晋侯使荀罃来乞师。冬，公会单子、晋侯、宋公、卫侯、曹伯、齐人、邾人伐郑。十有一月，公至自伐郑。壬申，公孙婴卒於貍脤。十有二月丁巳朔，日有食之。邾子玃且卒。晋杀其大夫郤锜、郤犨、郤至。楚人灭舒庸。二月乙丑，季孙行父及晋郤犨盟於扈。公至自会。乙酉，刺公子偃。",
-          "aliases": []
+          "version": "sha256:0297eeef5fc8e4ea857620e196f0c14da9bc103f861df883fcd53a1d1a91432e",
+          "text": "十有七年春，卫北宫括帅师侵郑。夏，公会尹子、单子、晋侯、齐侯、宋公、卫侯、曹伯、邾人伐郑。六月乙酉，同盟於柯陵。秋，公至自会。齐高无咎出奔莒。九月辛丑，用郊。晋侯使荀罃来乞师。冬，公会单子、晋侯、宋公、卫侯、曹伯、齐人、邾人伐郑。十有一月，公至自伐郑。壬申，公孙婴卒於貍脤。十有二月丁巳朔，日有食之。邾子玃且卒。晋杀其大夫郤锜、郤犨、郤至。楚人灭舒庸。二月乙丑，季孙行父及晋郤犨盟於扈。公至自会。乙酉，刺公子偃。",
+          "aliases": [],
+          "sourceText": "十有七年春，卫北宫括帅师侵郑。夏，公会尹子、单子、晋侯、齐侯、宋公、卫侯、曹伯、邾人伐郑。六月乙酋，同盟於柯陵。秋，公至自会。齐高无咎出奔莒。九月辛丑，用郊。晋侯使荀罃来乞师。冬，公会单子、晋侯、宋公、卫侯、曹伯、齐人、邾人伐郑。十有一月，公至自伐郑。壬申，公孙婴卒於貍脤。十有二月丁巳朔，日有食之。邾子玃且卒。晋杀其大夫郤锜、郤犨、郤至。楚人灭舒庸。二月乙丑，季孙行父及晋郤犨盟於扈。公至自会。乙酉，刺公子偃。",
+          "correction": {
+            "reason": "“六月乙酉，同盟於柯陵”：干支“乙酉”，底本“酋”形近而误。维基文库《春秋左氏傳》经文此处作“乙酉”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0297eeef5fc8e4ea857620e196f0c14da9bc103f861df883fcd53a1d1a91432e"
+            }
+          }
         },
         {
           "id": "p-chunqiu-30b44684414d4601-0018",
@@ -3065,9 +3791,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0002",
-          "version": "sha256:c842693c044a8e844990ad05c101318868423b3ca302a979dcde9a4875ed1c6e",
-          "text": "二年春王正月，葬簡王。鄭師伐宋。夏五月庚寅，夫人姜氏薨。六月庚辰，鄭伯侖卒。晉師、宋師、衛甯殖侵鄭。秋七月，仲孫蔑會晉荀罃、宋華元、衛孫林父、曹人、邾人於戚。己丑，葬我小君齊姜。叔孫豹如宋。冬，仲孫蔑會晉荀罃、齊崔杼、宋華元、衛孫林父、曹人、邾人、滕人、薛人、小邾人於戚，遂城虎牢。楚殺其大夫公子申。",
-          "aliases": []
+          "version": "sha256:953b8fedabdce9c52db7b43934b2ab22effcc9863174a39ce2d8df34511bd5d6",
+          "text": "二年春王正月，葬簡王。鄭師伐宋。夏五月庚寅，夫人姜氏薨。六月庚辰，鄭伯睔卒。晉師、宋師、衛甯殖侵鄭。秋七月，仲孫蔑會晉荀罃、宋華元、衛孫林父、曹人、邾人於戚。己丑，葬我小君齊姜。叔孫豹如宋。冬，仲孫蔑會晉荀罃、齊崔杼、宋華元、衛孫林父、曹人、邾人、滕人、薛人、小邾人於戚，遂城虎牢。楚殺其大夫公子申。",
+          "aliases": [],
+          "sourceText": "二年春王正月，葬簡王。鄭師伐宋。夏五月庚寅，夫人姜氏薨。六月庚辰，鄭伯侖卒。晉師、宋師、衛甯殖侵鄭。秋七月，仲孫蔑會晉荀罃、宋華元、衛孫林父、曹人、邾人於戚。己丑，葬我小君齊姜。叔孫豹如宋。冬，仲孫蔑會晉荀罃、齊崔杼、宋華元、衛孫林父、曹人、邾人、滕人、薛人、小邾人於戚，遂城虎牢。楚殺其大夫公子申。",
+          "correction": {
+            "reason": "“鄭伯睔卒”：郑成公名睔，底本“侖”脱去“目”旁。维基文库《春秋左氏傳》经文此处作“睔”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:953b8fedabdce9c52db7b43934b2ab22effcc9863174a39ce2d8df34511bd5d6"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0003",
@@ -3083,21 +3820,54 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0005",
-          "version": "sha256:7c2f47915fd41766659f2458263e39cf7dfe90fa5f8beb57ad04283f6452cd89",
-          "text": "五年春，公至自晉。夏，鄭伯使公子發來聘。叔孫豹、鄫世子巫如晉。仲孫蔑、衛孫林父子會吳於善道。秋，大雩。楚殺其大夫公子壬夫。公會晉侯、宋公、陳侯、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、齊世子光、吳人、鄫人於戚。公至自會。冬，戍陳。楚公子貞帥師伐陳。公會晉侯、宋公、衛侯、鄭伯、曹伯、齊世子光救陳。十有二月，公至自救陳。辛未，季孫行父卒。",
-          "aliases": []
+          "version": "sha256:7405d745e3a87cff4ac2ca0dfbc76087ab9e3c8975b81aa2b6a8a3d2be6baf3d",
+          "text": "五年春，公至自晉。夏，鄭伯使公子發來聘。叔孫豹、鄫世子巫如晉。仲孫蔑、衛孫林父會吳於善道。秋，大雩。楚殺其大夫公子壬夫。公會晉侯、宋公、陳侯、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、齊世子光、吳人、鄫人於戚。公至自會。冬，戍陳。楚公子貞帥師伐陳。公會晉侯、宋公、衛侯、鄭伯、曹伯、齊世子光救陳。十有二月，公至自救陳。辛未，季孫行父卒。",
+          "aliases": [],
+          "sourceText": "五年春，公至自晉。夏，鄭伯使公子發來聘。叔孫豹、鄫世子巫如晉。仲孫蔑、衛孫林父子會吳於善道。秋，大雩。楚殺其大夫公子壬夫。公會晉侯、宋公、陳侯、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、齊世子光、吳人、鄫人於戚。公至自會。冬，戍陳。楚公子貞帥師伐陳。公會晉侯、宋公、衛侯、鄭伯、曹伯、齊世子光救陳。十有二月，公至自救陳。辛未，季孫行父卒。",
+          "correction": {
+            "reason": "“仲孫蔑、衛孫林父會吳於善道”：底本衍“子”字。维基文库《春秋左氏傳》经文此处作“孫林父會吳”，《公羊》《穀梁》经文亦无“子”字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7405d745e3a87cff4ac2ca0dfbc76087ab9e3c8975b81aa2b6a8a3d2be6baf3d"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0006",
-          "version": "sha256:2e7edd1232abd9a62b8f3ad75d3aaf8db57285cb57bd5820a15abf0c1745d204",
-          "text": "六年春王三月，壬午，杞伯姑容卒。夏，宋華弱來奔。秋，杞葬桓公。滕子來朝。莒人滅鄫。冬，叔孫豹如邾，季孫宿如晉。十有二月，齊侯滅萊。",
-          "aliases": []
+          "version": "sha256:8a13b36b372dd9b6aee04511502c1e27e3341d4a8fd99db2fdd72dce084b5c96",
+          "text": "六年春王三月，壬午，杞伯姑容卒。夏，宋華弱來奔。秋，葬杞桓公。滕子來朝。莒人滅鄫。冬，叔孫豹如邾，季孫宿如晉。十有二月，齊侯滅萊。",
+          "aliases": [],
+          "sourceText": "六年春王三月，壬午，杞伯姑容卒。夏，宋華弱來奔。秋，杞葬桓公。滕子來朝。莒人滅鄫。冬，叔孫豹如邾，季孫宿如晉。十有二月，齊侯滅萊。",
+          "correction": {
+            "reason": "“秋，葬杞桓公”：经文书葬的格式是“葬某君”，底本“杞葬”误倒。维基文库《春秋左氏傳》经文此处作“葬杞桓公”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8a13b36b372dd9b6aee04511502c1e27e3341d4a8fd99db2fdd72dce084b5c96"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0007",
-          "version": "sha256:56cc69c45cf1086ba2d87afab6065610c5f4ee3d19009558fa1c98de9da00477",
-          "text": "七年春，郯子來朝。夏四月，三蔔郊，不從，乃免牲。小邾子來朝。城費。秋，季孫宿如衛。八月，螽。冬十月，衛侯使孫林父來聘。壬戌，及孫林父盟。楚公子貞帥師圍陳。十有二月，公會晉侯、宋公、陳侯、衛侯、曹伯、莒子、邾子於鄬。鄭伯髡頑如會，未見諸侯，丙戌，卒於鄵。陳侯逃歸。",
-          "aliases": []
+          "version": "sha256:0946d7a7c165dce2b7d27fab59e4b85f865988f59465246c5fce1696130f1ac5",
+          "text": "七年春，郯子來朝。夏四月，三卜郊，不從，乃免牲。小邾子來朝。城費。秋，季孫宿如衛。八月，螽。冬十月，衛侯使孫林父來聘。壬戌，及孫林父盟。楚公子貞帥師圍陳。十有二月，公會晉侯、宋公、陳侯、衛侯、曹伯、莒子、邾子於鄬。鄭伯髡頑如會，未見諸侯，丙戌，卒於鄵。陳侯逃歸。",
+          "aliases": [],
+          "sourceText": "七年春，郯子來朝。夏四月，三蔔郊，不從，乃免牲。小邾子來朝。城費。秋，季孫宿如衛。八月，螽。冬十月，衛侯使孫林父來聘。壬戌，及孫林父盟。楚公子貞帥師圍陳。十有二月，公會晉侯、宋公、陳侯、衛侯、曹伯、莒子、邾子於鄬。鄭伯髡頑如會，未見諸侯，丙戌，卒於鄵。陳侯逃歸。",
+          "correction": {
+            "reason": "“月，三卜郊，”：“卜郊”的“卜”是占卜；底本“蔔”（萝蔔）是简转繁误转。维基文库《春秋左氏傳》经文此处作“卜”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0946d7a7c165dce2b7d27fab59e4b85f865988f59465246c5fce1696130f1ac5"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0008",
@@ -3119,9 +3889,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0011",
-          "version": "sha256:3853d2004eb1ee3d4518f4e1fc9af94c2b121a27edeef8dbd0a0342ac9034386",
-          "text": "十有一年春王正月，作三軍。夏四月，四蔔郊，不從，乃不郊。鄭公孫舍之帥師侵宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭。秋七月己未，同盟於亳城北。公至自伐鄭。楚子、鄭伯伐宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭，會於蕭魚。公至自會。楚執鄭行人良霄。冬，秦人伐晉。",
-          "aliases": []
+          "version": "sha256:4b7639af15c59ad856b8b691c163c1bd736ebdf81b26504d94771b506deacbaf",
+          "text": "十有一年春王正月，作三軍。夏四月，四卜郊，不從，乃不郊。鄭公孫舍之帥師侵宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭。秋七月己未，同盟於亳城北。公至自伐鄭。楚子、鄭伯伐宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭，會於蕭魚。公至自會。楚執鄭行人良霄。冬，秦人伐晉。",
+          "aliases": [],
+          "sourceText": "十有一年春王正月，作三軍。夏四月，四蔔郊，不從，乃不郊。鄭公孫舍之帥師侵宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭。秋七月己未，同盟於亳城北。公至自伐鄭。楚子、鄭伯伐宋。公會晉侯、宋公、衛侯、曹伯、齊世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐鄭，會於蕭魚。公至自會。楚執鄭行人良霄。冬，秦人伐晉。",
+          "correction": {
+            "reason": "“月，四卜郊，”：“卜郊”的“卜”是占卜；底本“蔔”（萝蔔）是简转繁误转。维基文库《春秋左氏傳》经文此处作“卜”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4b7639af15c59ad856b8b691c163c1bd736ebdf81b26504d94771b506deacbaf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0012",
@@ -3137,9 +3918,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0014",
-          "version": "sha256:e90a3e7f20a6c8ac0e3c73ef6979a8e1d2524d0057d7a6aa5b751d0af029e49a",
-          "text": "十有四年春王正月，季孫宿、叔老會晉士匄、齊人、宋人、衛人、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人會吳於向。二月乙朔，日有食之。夏四月，叔孫豹會晉荀偃、齊人、宋人、衛北宮括、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人伐秦。己未，衛侯出奔齊。莒人侵我東鄙。秋，楚公子貞帥師伐吳。冬，季孫宿會晉士匄、宋華閱、衛孫林父、鄭公孫蠆、莒人、邾人於戚。",
-          "aliases": []
+          "version": "sha256:f7f343b66f0f2fe437c48b0033aa5c5037c0757bfe0638bd95574f8271395f83",
+          "text": "十有四年春王正月，季孫宿、叔老會晉士匄、齊人、宋人、衛人、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人會吳於向。二月乙未朔，日有食之。夏四月，叔孫豹會晉荀偃、齊人、宋人、衛北宮括、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人伐秦。己未，衛侯出奔齊。莒人侵我東鄙。秋，楚公子貞帥師伐吳。冬，季孫宿會晉士匄、宋華閱、衛孫林父、鄭公孫蠆、莒人、邾人於戚。",
+          "aliases": [],
+          "sourceText": "十有四年春王正月，季孫宿、叔老會晉士匄、齊人、宋人、衛人、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人會吳於向。二月乙朔，日有食之。夏四月，叔孫豹會晉荀偃、齊人、宋人、衛北宮括、鄭公孫蠆、曹人、莒人、邾人、滕人、薛人、杞人、小邾人伐秦。己未，衛侯出奔齊。莒人侵我東鄙。秋，楚公子貞帥師伐吳。冬，季孫宿會晉士匄、宋華閱、衛孫林父、鄭公孫蠆、莒人、邾人於戚。",
+          "correction": {
+            "reason": "“二月乙未朔，日有食之”：底本脱“未”字。维基文库《春秋左氏傳》经文此处作“乙未朔”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f7f343b66f0f2fe437c48b0033aa5c5037c0757bfe0638bd95574f8271395f83"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0015",
@@ -3155,9 +3947,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0017",
-          "version": "sha256:d0bd5603481ed67fba9b2c11f6774d67c380f199e867e146a634d78b998b71fc",
-          "text": "十有七年春王二月庚午，邾子卒。宋人伐陳。夏，衛石買帥師伐曹。秋，齊侯伐我北鄙，圍桃。高厚帥師伐我北鄙，圍防。九月，大雩。宋華臣出奔陳。冬，邾人伐我南鄙。",
-          "aliases": []
+          "version": "sha256:e3025fa1adec674bcc80116b6fca722aca2084677a034d796f1d6bd235c456f9",
+          "text": "十有七年春王二月庚午，邾子牼卒。宋人伐陳。夏，衛石買帥師伐曹。秋，齊侯伐我北鄙，圍桃。高厚帥師伐我北鄙，圍防。九月，大雩。宋華臣出奔陳。冬，邾人伐我南鄙。",
+          "aliases": [],
+          "sourceText": "十有七年春王二月庚午，邾子卒。宋人伐陳。夏，衛石買帥師伐曹。秋，齊侯伐我北鄙，圍桃。高厚帥師伐我北鄙，圍防。九月，大雩。宋華臣出奔陳。冬，邾人伐我南鄙。",
+          "correction": {
+            "reason": "“邾子牼卒”：邾宣公名牼，底本脱。维基文库《春秋左氏傳》经文此处作“牼”；《公羊传》经文作“邾娄子牼卒”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e3025fa1adec674bcc80116b6fca722aca2084677a034d796f1d6bd235c456f9"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0018",
@@ -3167,9 +3970,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0019",
-          "version": "sha256:53481869339a0011efff2fb4ecffbc21b117912404ed8e3d4b006af9fb0227b4",
-          "text": "十有九年春王正月，諸侯盟於祝柯。晉人執邾子，公至自伐齊。取邾田，自漷水。季孫宿如晉。葬曹成公。夏，衛孫林父帥師伐齊。秋七月辛卯，齊侯環卒。晉士匄帥師侵齊，至谷，聞齊侯卒，乃還。八月丙辰，仲孫蔑卒。齊殺其大夫高厚。鄭殺其大夫公子嘉。冬，葬齊靈公。城西郛。叔孫豹會晉士匄於柯。城武城。",
-          "aliases": []
+          "version": "sha256:6447831fe1964dd09fa21b356edecbcf62e79066c07da65824481423c57926b2",
+          "text": "十有九年春王正月，諸侯盟於祝柯。晉人執邾子，公至自伐齊。取邾田，自漷水。季孫宿如晉。葬曹成公。夏，衛孫林父帥師伐齊。秋七月辛卯，齊侯環卒。晉士匄帥師侵齊，至穀，聞齊侯卒，乃還。八月丙辰，仲孫蔑卒。齊殺其大夫高厚。鄭殺其大夫公子嘉。冬，葬齊靈公。城西郛。叔孫豹會晉士匄於柯。城武城。",
+          "aliases": [],
+          "sourceText": "十有九年春王正月，諸侯盟於祝柯。晉人執邾子，公至自伐齊。取邾田，自漷水。季孫宿如晉。葬曹成公。夏，衛孫林父帥師伐齊。秋七月辛卯，齊侯環卒。晉士匄帥師侵齊，至谷，聞齊侯卒，乃還。八月丙辰，仲孫蔑卒。齊殺其大夫高厚。鄭殺其大夫公子嘉。冬，葬齊靈公。城西郛。叔孫豹會晉士匄於柯。城武城。",
+          "correction": {
+            "reason": "“齊，至穀，聞”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6447831fe1964dd09fa21b356edecbcf62e79066c07da65824481423c57926b2"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0020",
@@ -3179,9 +3993,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0021",
-          "version": "sha256:951e46b7686ae0440532288f97a0c0590e4d3b985a63ef562bf1b077793c24ca",
-          "text": "二十有一年春王正月，公如晉。邾庶其以漆、閭丘來奔。夏，公至自晉。秋，晉盈出奔楚。九月庚戌朔，日有食之。冬十月庚辰朔，日有食之。曹伯來朝。公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子於商任。",
-          "aliases": []
+          "version": "sha256:3fcd2fc4067e8db0fc9231cf4e43a86328a59f916d21835974f5d2f70ead9089",
+          "text": "二十有一年春王正月，公如晉。邾庶其以漆、閭丘來奔。夏，公至自晉。秋，晉欒盈出奔楚。九月庚戌朔，日有食之。冬十月庚辰朔，日有食之。曹伯來朝。公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子於商任。",
+          "aliases": [],
+          "sourceText": "二十有一年春王正月，公如晉。邾庶其以漆、閭丘來奔。夏，公至自晉。秋，晉盈出奔楚。九月庚戌朔，日有食之。冬十月庚辰朔，日有食之。曹伯來朝。公會晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子於商任。",
+          "correction": {
+            "reason": "“晉欒盈出奔楚”：底本脱“欒”字。维基文库《春秋左氏傳》经文此处作“欒盈”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3fcd2fc4067e8db0fc9231cf4e43a86328a59f916d21835974f5d2f70ead9089"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0022",
@@ -3191,9 +4016,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0023",
-          "version": "sha256:eeaa713fa8b4cc457c2836bf74be183504001de3962c9f580a56ee068e7ef63f",
-          "text": "二十有三年春王二月癸酉朔，日有食之。三月己巳，杞伯匄卒。夏，邾畀我來奔。葬杞孝公。陳殺其大夫慶虎及慶寅。陳侯之弟黃自楚歸於陳。晉欒盈複入於晉，入於曲沃。秋，齊侯伐衛，遂伐晉。八月，叔孫豹帥師救晉，次於雍榆。己卯，仲孫速卒。冬十月乙亥，臧孫紇出奔邾。晉人殺欒盈。齊侯襲莒。",
-          "aliases": []
+          "version": "sha256:4907782b51072db3b1d6b1a859f9021cef58a8cef239c920b1c2d911a7c036c1",
+          "text": "二十有三年春王二月癸酉朔，日有食之。三月己巳，杞伯匄卒。夏，邾畀我來奔。葬杞孝公。陳殺其大夫慶虎及慶寅。陳侯之弟黃自楚歸於陳。晉欒盈復入於晉，入於曲沃。秋，齊侯伐衛，遂伐晉。八月，叔孫豹帥師救晉，次於雍榆。己卯，仲孫速卒。冬十月乙亥，臧孫紇出奔邾。晉人殺欒盈。齊侯襲莒。",
+          "aliases": [],
+          "sourceText": "二十有三年春王二月癸酉朔，日有食之。三月己巳，杞伯匄卒。夏，邾畀我來奔。葬杞孝公。陳殺其大夫慶虎及慶寅。陳侯之弟黃自楚歸於陳。晉欒盈複入於晉，入於曲沃。秋，齊侯伐衛，遂伐晉。八月，叔孫豹帥師救晉，次於雍榆。己卯，仲孫速卒。冬十月乙亥，臧孫紇出奔邾。晉人殺欒盈。齊侯襲莒。",
+          "correction": {
+            "reason": "“晉欒盈復入於”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4907782b51072db3b1d6b1a859f9021cef58a8cef239c920b1c2d911a7c036c1"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0024",
@@ -3209,15 +4045,37 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0026",
-          "version": "sha256:584d229b8b34899dffa8985defe3554b56a9f42f02edc07b69ea7e3fdcde3d67",
-          "text": "二十有六年春王二月辛卯，衛寧喜弑其君剽。衛孫林父入於戚以叛。甲午，衛侯衎複歸於衛。夏，晉侯使荀吳來聘。公會晉人、鄭良霄、宋人、曹人於澶淵。秋，宋公殺其世子痤。晉人執衛寧喜。八月壬午，許男甯卒於楚。冬，楚子、蔡侯、陳侯伐鄭。葬許靈公。",
-          "aliases": []
+          "version": "sha256:d82b2f36783cf7be296db5b7ac514700fa78eae58419e5a5621ceb95b5571983",
+          "text": "二十有六年春王二月辛卯，衛甯喜弑其君剽。衛孫林父入於戚以叛。甲午，衛侯衎復歸於衛。夏，晉侯使荀吳來聘。公會晉人、鄭良霄、宋人、曹人於澶淵。秋，宋公殺其世子痤。晉人執衛甯喜。八月壬午，許男甯卒於楚。冬，楚子、蔡侯、陳侯伐鄭。葬許靈公。",
+          "aliases": [],
+          "sourceText": "二十有六年春王二月辛卯，衛寧喜弑其君剽。衛孫林父入於戚以叛。甲午，衛侯衎複歸於衛。夏，晉侯使荀吳來聘。公會晉人、鄭良霄、宋人、曹人於澶淵。秋，宋公殺其世子痤。晉人執衛寧喜。八月壬午，許男甯卒於楚。冬，楚子、蔡侯、陳侯伐鄭。葬許靈公。",
+          "correction": {
+            "reason": "“衛甯喜弑其君剽”：甯是姓，同段下文“衛殺其大夫甯喜”即作“甯”；底本“寧”是简转繁误转。维基文库《春秋左氏傳》经文此处作“甯喜”。；“晉人執衛甯喜”：同上，“寧”当作“甯”。维基文库《春秋左氏傳》经文此处作“甯喜”。；“衛侯衎復歸於”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d82b2f36783cf7be296db5b7ac514700fa78eae58419e5a5621ceb95b5571983"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0027",
-          "version": "sha256:2f5e53f32e451b6b8d6cae53f787405789aa9c9b8e1b95f5be5034338fda6e6c",
-          "text": "二十有七春，齊侯使慶封聘。夏，叔孫豹會晉趙武、楚屈建、蔡公孫歸生、衛石惡、陳孔奐、鄭良霄、許人、曹人於宋。衛殺其大夫甯喜。衛侯之弟鱄出奔晉。秋七月辛巳，豹及諸侯之大夫盟於宋。冬十有二月乙卯朔，日有食之。",
-          "aliases": []
+          "version": "sha256:2213b65de4de2aeed1e7ae0b6029bf29bc5df4bb5384957c4a58dc75282ef2a1",
+          "text": "二十有七年春，齊侯使慶封來聘。夏，叔孫豹會晉趙武、楚屈建、蔡公孫歸生、衛石惡、陳孔奐、鄭良霄、許人、曹人於宋。衛殺其大夫甯喜。衛侯之弟鱄出奔晉。秋七月辛巳，豹及諸侯之大夫盟於宋。冬十有二月乙卯朔，日有食之。",
+          "aliases": [],
+          "sourceText": "二十有七春，齊侯使慶封聘。夏，叔孫豹會晉趙武、楚屈建、蔡公孫歸生、衛石惡、陳孔奐、鄭良霄、許人、曹人於宋。衛殺其大夫甯喜。衛侯之弟鱄出奔晉。秋七月辛巳，豹及諸侯之大夫盟於宋。冬十有二月乙卯朔，日有食之。",
+          "correction": {
+            "reason": "“二十有七年春，齊侯使慶封來聘”：底本脱“年”“來”二字。维基文库《春秋左氏傳》经文此处作“二十有七年春，齊侯使慶封來聘”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2213b65de4de2aeed1e7ae0b6029bf29bc5df4bb5384957c4a58dc75282ef2a1"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0028",
@@ -3227,9 +4085,20 @@
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0029",
-          "version": "sha256:752f60aa9d609e238d48bbb3afae836daa2ddaad467c277f53ac550f120d7ba8",
-          "text": "二十有九年春王正月，公在楚。夏五月，公至自楚。庚午，衛侯衎卒，閽弑吳子餘祭。仲孫羯會晉荀盈、齊高止、宋華定、衛世叔儀、鄭公孫段、曹人、莒人、滕子、薛人、小邾人城杞。晉侯使士鞅來聘。杞子來盟。吳子使劄來聘。秋九月，葬衛獻公。齊高止出奔北燕。冬，仲孫羯如晉。",
-          "aliases": []
+          "version": "sha256:3a06d8f7557db4a7ee84d7ccaf90db0f8e58b6ace6c7da15e4cd0e0ee349de51",
+          "text": "二十有九年春王正月，公在楚。夏五月，公至自楚。庚午，衛侯衎卒，閽弑吳子餘祭。仲孫羯會晉荀盈、齊高止、宋華定、衛世叔儀、鄭公孫段、曹人、莒人、滕子、薛人、小邾人城杞。晉侯使士鞅來聘。杞子來盟。吳子使札來聘。秋九月，葬衛獻公。齊高止出奔北燕。冬，仲孫羯如晉。",
+          "aliases": [],
+          "sourceText": "二十有九年春王正月，公在楚。夏五月，公至自楚。庚午，衛侯衎卒，閽弑吳子餘祭。仲孫羯會晉荀盈、齊高止、宋華定、衛世叔儀、鄭公孫段、曹人、莒人、滕子、薛人、小邾人城杞。晉侯使士鞅來聘。杞子來盟。吳子使劄來聘。秋九月，葬衛獻公。齊高止出奔北燕。冬，仲孫羯如晉。",
+          "correction": {
+            "reason": "“吳子使札來聘”：季札之“札”，底本“劄”是简转繁误转。维基文库《春秋左氏傳》经文此处作“札”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3a06d8f7557db4a7ee84d7ccaf90db0f8e58b6ace6c7da15e4cd0e0ee349de51"
+            }
+          }
         },
         {
           "id": "p-chunqiu-43c90b668932395e-0030",
@@ -3260,9 +4129,20 @@
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0002",
-          "version": "sha256:c72bf4b5438e64657145c53c718ce0f19d9d99d6782a170b6b203cd274757291",
-          "text": "二年春，晉侯使韓起來聘。夏，叔弓如晉。秋，鄭殺其大夫公孫黑。冬，公如晉，至河乃複。季孫宿如晉。",
-          "aliases": []
+          "version": "sha256:3ac450bdde3d6db898fcc92fe29165466583b5b48d63fb7fc0a2c9a4f1d30bd4",
+          "text": "二年春，晉侯使韓起來聘。夏，叔弓如晉。秋，鄭殺其大夫公孫黑。冬，公如晉，至河乃復。季孫宿如晉。",
+          "aliases": [],
+          "sourceText": "二年春，晉侯使韓起來聘。夏，叔弓如晉。秋，鄭殺其大夫公孫黑。冬，公如晉，至河乃複。季孫宿如晉。",
+          "correction": {
+            "reason": "“至河乃復。季”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3ac450bdde3d6db898fcc92fe29165466583b5b48d63fb7fc0a2c9a4f1d30bd4"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0003",
@@ -3296,9 +4176,20 @@
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0008",
-          "version": "sha256:cb13a5d2bdd76bd60b1ca623b64c4ce366fded69d144d40505e5d928ffbf3d58",
-          "text": "八年春，陳侯之弟招殺陳世子偃師。夏四月辛丑，陳侯溺卒。叔弓如晉。楚人執陳行人幹征師殺之。陳公子留出奔鄭。秋，蒐於紅。陳人殺其大夫公子過。大雩，冬十月壬午，楚師滅陳。執陳公子招，放之於越。殺陳孔奐。葬陳哀公。",
-          "aliases": []
+          "version": "sha256:dc74e87a9a43ca934f3f2d8b3d9e9a30aa3c2f5ec0e0fff277e102907834354c",
+          "text": "八年春，陳侯之弟招殺陳世子偃師。夏四月辛丑，陳侯溺卒。叔弓如晉。楚人執陳行人干徵師殺之。陳公子留出奔鄭。秋，蒐於紅。陳人殺其大夫公子過。大雩，冬十月壬午，楚師滅陳。執陳公子招，放之於越。殺陳孔奐。葬陳哀公。",
+          "aliases": [],
+          "sourceText": "八年春，陳侯之弟招殺陳世子偃師。夏四月辛丑，陳侯溺卒。叔弓如晉。楚人執陳行人幹征師殺之。陳公子留出奔鄭。秋，蒐於紅。陳人殺其大夫公子過。大雩，冬十月壬午，楚師滅陳。執陳公子招，放之於越。殺陳孔奐。葬陳哀公。",
+          "correction": {
+            "reason": "“楚人執陳行人干徵師殺之”：干徵师是人名；底本“幹”“征”都是简转繁时误转。维基文库《春秋左氏傳》经文此处作“干徵師”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:dc74e87a9a43ca934f3f2d8b3d9e9a30aa3c2f5ec0e0fff277e102907834354c"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0009",
@@ -3320,15 +4211,37 @@
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0012",
-          "version": "sha256:fcdc3b3696caf37da385b2bc1106d310b28bd5782bfe0d7d1298c628e735a84f",
-          "text": "十有二年春，齊高偃帥師納北燕伯於陽。三月壬申，鄭伯嘉卒。夏，宋公使華定來聘。公如晉，至河乃複。五月，葬鄭簡公。楚殺其大夫成熊。秋七月。冬十月，公子憖出奔齊。楚子伐徐。晉伐鮮虞。",
-          "aliases": []
+          "version": "sha256:f62d9119f435c7063f95b50fc104f8552f08274223566537a4d52b8e313429e8",
+          "text": "十有二年春，齊高偃帥師納北燕伯於陽。三月壬申，鄭伯嘉卒。夏，宋公使華定來聘。公如晉，至河乃復。五月，葬鄭簡公。楚殺其大夫成熊。秋七月。冬十月，公子憖出奔齊。楚子伐徐。晉伐鮮虞。",
+          "aliases": [],
+          "sourceText": "十有二年春，齊高偃帥師納北燕伯於陽。三月壬申，鄭伯嘉卒。夏，宋公使華定來聘。公如晉，至河乃複。五月，葬鄭簡公。楚殺其大夫成熊。秋七月。冬十月，公子憖出奔齊。楚子伐徐。晉伐鮮虞。",
+          "correction": {
+            "reason": "“至河乃復。五”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f62d9119f435c7063f95b50fc104f8552f08274223566537a4d52b8e313429e8"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0013",
-          "version": "sha256:98b91812010048b492a73f021ff1fd194e2e9f9c4988de4def62103f3eade34d",
-          "text": "十有三年春，叔弓帥師圍費。夏四月，楚公子比自晉歸於楚，殺其君虔於乾溪。楚公子棄疾殺公子比。秋，公會劉子、晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子於平丘。八月甲戌，同盟於平丘。公不與盟。晉人執季孫意如以歸。公至自會。蔡侯廬歸於蔡。陳侯吳歸於陳。冬十月，葬蔡靈公。公如晉，至河乃複。吳滅州來。",
-          "aliases": []
+          "version": "sha256:60fbd40d402ddac1503a1db87658843b03cf8c48a704344a51c3424c5335d08e",
+          "text": "十有三年春，叔弓帥師圍費。夏四月，楚公子比自晉歸於楚，殺其君虔於乾溪。楚公子棄疾殺公子比。秋，公會劉子、晉侯、齊侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子於平丘。八月甲戌，同盟於平丘。公不與盟。晉人執季孫意如以歸。公至自會。蔡侯廬歸於蔡。陳侯吳歸於陳。冬十月，葬蔡靈公。公如晉，至河乃復。吳滅州來。",
+          "aliases": [],
+          "sourceText": "十有三年春，叔弓帥師圍費。夏四月，楚公子比自晉歸於楚，殺其君虔於乾溪。楚公子棄疾殺公子比。秋，公會劉子、晉侯、宋公、衛侯、鄭伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子於平丘。八月甲戌，同盟於平丘。公不與盟。晉人執季孫意如以歸。公至自會。蔡侯廬歸於蔡。陳侯吳歸於陳。冬十月，葬蔡靈公。公如晉，至河乃複。吳滅州來。",
+          "correction": {
+            "reason": "“公會劉子、晉侯、齊侯、宋公”：底本脱“齊侯”。维基文库《春秋左氏傳》经文此处作“齊侯”，《公羊》《穀梁》经文同。；“至河乃復。吳”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:60fbd40d402ddac1503a1db87658843b03cf8c48a704344a51c3424c5335d08e"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0014",
@@ -3374,33 +4287,88 @@
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0021",
-          "version": "sha256:ea45d25ca99310d4379e1c2ccc466c5f7c66141f1c75e0eb63d2de94daaa38f8",
-          "text": "二十有一年春王三月，葬蔡平公。夏，晉侯使士鞅來聘。宋華亥、向甯、華定自陳入於宋南裏以叛。秋七月壬午朔，日有食之。八月乙亥，叔輒卒。冬，蔡侯朱出奔楚。公如晉，至河乃複。",
-          "aliases": []
+          "version": "sha256:9c73ce087ba4f4079f927486e72053f63b8ff591b5d6ef0fa6f4f3013b126126",
+          "text": "二十有一年春王三月，葬蔡平公。夏，晉侯使士鞅來聘。宋華亥、向甯、華定自陳入於宋南里以叛。秋七月壬午朔，日有食之。八月乙亥，叔輒卒。冬，蔡侯朱出奔楚。公如晉，至河乃復。",
+          "aliases": [],
+          "sourceText": "二十有一年春王三月，葬蔡平公。夏，晉侯使士鞅來聘。宋華亥、向甯、華定自陳入於宋南裏以叛。秋七月壬午朔，日有食之。八月乙亥，叔輒卒。冬，蔡侯朱出奔楚。公如晉，至河乃複。",
+          "correction": {
+            "reason": "“至河乃復。”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。；“於宋南里以叛”：此处是人名、地名用字“里”（里克、南里）；底本“裏”是简转繁误转。维基文库《春秋左氏傳》经文此处作“里”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9c73ce087ba4f4079f927486e72053f63b8ff591b5d6ef0fa6f4f3013b126126"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0022",
-          "version": "sha256:a763877b52b30272ef9a753052e6aa8f59cb4cf81a75097962d8d9bc7fa15025",
-          "text": "二十有二年春，齊侯伐莒。宋華亥、向甯、華定自宋南裏出奔楚。大蒐於昌間。夏四月乙丑，天王崩。六月，叔鞅如京師，葬景王，王室亂。劉子、單子以王猛居於皇。秋，劉子、單子以王猛入於王城。冬十月，王子猛卒。十有二月癸酉朔，日有食之。",
-          "aliases": []
+          "version": "sha256:b5703635a8dc0ae57e1c21e7a389dbbc46a9ed94eb640d5e9551b760ad402b48",
+          "text": "二十有二年春，齊侯伐莒。宋華亥、向甯、華定自宋南里出奔楚。大蒐於昌間。夏四月乙丑，天王崩。六月，叔鞅如京師，葬景王，王室亂。劉子、單子以王猛居於皇。秋，劉子、單子以王猛入於王城。冬十月，王子猛卒。十有二月癸酉朔，日有食之。",
+          "aliases": [],
+          "sourceText": "二十有二年春，齊侯伐莒。宋華亥、向甯、華定自宋南裏出奔楚。大蒐於昌間。夏四月乙丑，天王崩。六月，叔鞅如京師，葬景王，王室亂。劉子、單子以王猛居於皇。秋，劉子、單子以王猛入於王城。冬十月，王子猛卒。十有二月癸酉朔，日有食之。",
+          "correction": {
+            "reason": "“自宋南里出奔”：此处是人名、地名用字“里”（里克、南里）；底本“裏”是简转繁误转。维基文库《春秋左氏傳》经文此处作“里”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b5703635a8dc0ae57e1c21e7a389dbbc46a9ed94eb640d5e9551b760ad402b48"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0023",
-          "version": "sha256:659b5352a18dceaae5d25e5ef6b9e0daa0615c3515ed5c8b5ff1ac9a35c46041",
-          "text": "二十有三年春王正月，叔孫婼如晉。癸丑，叔鞅卒。晉人執我行人叔孫婼。晉人圍郊。夏六月，蔡侯東國卒於楚。秋七月，莒子庚輿來奔。戊辰，吳敗頓、胡、沈、蔡、陳、許之師於雞父，胡子髡、沈子逞滅，獲陳夏齧。天王居於狄泉。尹氏立王子朝。八月乙未，地震。冬，公如晉，至河，有疾，乃複。",
-          "aliases": []
+          "version": "sha256:0436be98b3bbc7222e1b4494ba3f45f083aa4c17f75ce6eb87069e5542de6ae7",
+          "text": "二十有三年春王正月，叔孫婼如晉。癸丑，叔鞅卒。晉人執我行人叔孫婼。晉人圍郊。夏六月，蔡侯東國卒於楚。秋七月，莒子庚輿來奔。戊辰，吳敗頓、胡、沈、蔡、陳、許之師於雞父，胡子髡、沈子逞滅，獲陳夏齧。天王居於狄泉。尹氏立王子朝。八月乙未，地震。冬，公如晉，至河，有疾，乃復。",
+          "aliases": [],
+          "sourceText": "二十有三年春王正月，叔孫婼如晉。癸丑，叔鞅卒。晉人執我行人叔孫婼。晉人圍郊。夏六月，蔡侯東國卒於楚。秋七月，莒子庚輿來奔。戊辰，吳敗頓、胡、沈、蔡、陳、許之師於雞父，胡子髡、沈子逞滅，獲陳夏齧。天王居於狄泉。尹氏立王子朝。八月乙未，地震。冬，公如晉，至河，有疾，乃複。",
+          "correction": {
+            "reason": "“疾，乃復。”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0436be98b3bbc7222e1b4494ba3f45f083aa4c17f75ce6eb87069e5542de6ae7"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0024",
-          "version": "sha256:1255425a8021e3a97a5d71544bef2123e52395582380278f9c28bfc0f32d54f9",
-          "text": "二十四年春王三月丙戌，仲孫玃卒。婼至自晉。夏五月乙未朔，日有食之。秋八月，大雩。丁酉，杞伯郁厘卒。冬，吳滅巢。葬杞平公。",
-          "aliases": []
+          "version": "sha256:5db8f4758940f439ce88cd43b23fdde061e1efc83aee14ffd05872dcf7e6beda",
+          "text": "二十四年春王三月丙戌，仲孫玃卒。婼至自晉。夏五月乙未朔，日有食之。秋八月，大雩。丁酉，杞伯郁釐卒。冬，吳滅巢。葬杞平公。",
+          "aliases": [],
+          "sourceText": "二十四年春王三月丙戌，仲孫玃卒。婼至自晉。夏五月乙未朔，日有食之。秋八月，大雩。丁酉，杞伯郁厘卒。冬，吳滅巢。葬杞平公。",
+          "correction": {
+            "reason": "“杞伯郁釐卒”：杞平公名郁釐；底本“厘”是简体字，繁体当作“釐”。维基文库《春秋左氏傳》经文此处作“郁釐”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5db8f4758940f439ce88cd43b23fdde061e1efc83aee14ffd05872dcf7e6beda"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0025",
-          "version": "sha256:5e3148ac2e7fc1ab7e8258809a8780a924789f88f1cab25fa8d937b786c7bba7",
-          "text": "二十五年春，叔孫婼如宋。夏，叔詣會晉趙鞅、宋樂大心，衛北宮喜、鄭遊吉、曹人、邾人、滕人、薛人、小邾人於黃父。有鴝鵒來巢。秋七月上辛，大雩；季辛，又雩。九月己亥，公孫於齊，次於陽州。齊侯唁公於野井。冬十月戊辰，叔孫婼卒。十有一月己亥，宋公佐卒於曲棘。十有二月，齊侯取鄆。",
-          "aliases": []
+          "version": "sha256:265c5e17718be268c33d4dd1d29b252fea528f12619802784321dd51590eb576",
+          "text": "二十五年春，叔孫婼如宋。夏，叔詣會晉趙鞅、宋樂大心，衛北宮喜、鄭游吉、曹人、邾人、滕人、薛人、小邾人於黃父。有鴝鵒來巢。秋七月上辛，大雩；季辛，又雩。九月己亥，公孫於齊，次於陽州。齊侯唁公於野井。冬十月戊辰，叔孫婼卒。十有一月己亥，宋公佐卒於曲棘。十有二月，齊侯取鄆。",
+          "aliases": [],
+          "sourceText": "二十五年春，叔孫婼如宋。夏，叔詣會晉趙鞅、宋樂大心，衛北宮喜、鄭遊吉、曹人、邾人、滕人、薛人、小邾人於黃父。有鴝鵒來巢。秋七月上辛，大雩；季辛，又雩。九月己亥，公孫於齊，次於陽州。齊侯唁公於野井。冬十月戊辰，叔孫婼卒。十有一月己亥，宋公佐卒於曲棘。十有二月，齊侯取鄆。",
+          "correction": {
+            "reason": "“喜、鄭游吉、”：鄭游吉、游速之“游”是姓；底本“遊”是简转繁误转。维基文库《春秋左氏傳》经文此处作“游”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:265c5e17718be268c33d4dd1d29b252fea528f12619802784321dd51590eb576"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0026",
@@ -3434,9 +4402,20 @@
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0031",
-          "version": "sha256:03e81f0cc09f99c4f9eae4433af181af08dba9ee590602d2590670a1ba183cc7",
-          "text": "三十有一年春王正月，公在乾侯。季孫意如會晉荀躒於適曆。夏四月丁巳，薛伯谷卒。晉侯使荀躒唁公於乾侯。秋，葬薛獻公。冬，黑肱以濫來奔。十有二月辛亥朔，日有食之。",
-          "aliases": []
+          "version": "sha256:56fe935e06a2022bc1043dfa5e446df6dd61d90d5eaad99af525e89dc204794f",
+          "text": "三十有一年春王正月，公在乾侯。季孫意如會晉荀躒於適歷。夏四月丁巳，薛伯穀卒。晉侯使荀躒唁公於乾侯。秋，葬薛獻公。冬，黑肱以濫來奔。十有二月辛亥朔，日有食之。",
+          "aliases": [],
+          "sourceText": "三十有一年春王正月，公在乾侯。季孫意如會晉荀躒於適曆。夏四月丁巳，薛伯谷卒。晉侯使荀躒唁公於乾侯。秋，葬薛獻公。冬，黑肱以濫來奔。十有二月辛亥朔，日有食之。",
+          "correction": {
+            "reason": "“會晉荀躒於適歷”：適歷是地名；底本“曆”是简转繁时把“历”误转所致。维基文库《春秋左氏傳》经文此处作“適歷”。；“，薛伯穀卒。”：齐地陽穀、穀，人名薛伯穀，繁体都写“穀”；底本“谷”是简转繁时未还原所致。维基文库《春秋左氏傳》经文此处作“穀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:56fe935e06a2022bc1043dfa5e446df6dd61d90d5eaad99af525e89dc204794f"
+            }
+          }
         },
         {
           "id": "p-chunqiu-3dc038df39036699-0032",
@@ -3461,21 +4440,54 @@
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0002",
-          "version": "sha256:a24d07e98124c7485f5626cc485e90556154be8d3ed1f6b54d520821fc5f9a95",
-          "text": "二年春王正月。夏五月壬辰，雉門及兩觀滅。秋，楚人伐吳。冬十月，新作雉門及兩觀。",
-          "aliases": []
+          "version": "sha256:ba487a0788682c45b4a99097273ac1bd2d876b10997aed77832aeb528b1782cf",
+          "text": "二年春王正月。夏五月壬辰，雉門及兩觀災。秋，楚人伐吳。冬十月，新作雉門及兩觀。",
+          "aliases": [],
+          "sourceText": "二年春王正月。夏五月壬辰，雉門及兩觀滅。秋，楚人伐吳。冬十月，新作雉門及兩觀。",
+          "correction": {
+            "reason": "“雉門及兩觀災”：記火災；底本“滅”形近而误。维基文库《春秋左氏傳》经文此处作“災”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:ba487a0788682c45b4a99097273ac1bd2d876b10997aed77832aeb528b1782cf"
+            }
+          }
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0003",
-          "version": "sha256:5df77dd1b50c62403cfb6dc7812a90f88746e9ca09719ec6f468c58be8c4f7fa",
-          "text": "三年春王正月，公如晉，至河，乃複。二月辛卯，邾子穿卒。夏四月。秋，葬邾莊公。冬，仲孫何忌及邾子盟於拔。",
-          "aliases": []
+          "version": "sha256:66386fcd8d2f2f364324c3af0d9ecf1eafb46143d4ee6a6b892a7d3fb66a06aa",
+          "text": "三年春王正月，公如晉，至河，乃復。二月辛卯，邾子穿卒。夏四月。秋，葬邾莊公。冬，仲孫何忌及邾子盟於拔。",
+          "aliases": [],
+          "sourceText": "三年春王正月，公如晉，至河，乃複。二月辛卯，邾子穿卒。夏四月。秋，葬邾莊公。冬，仲孫何忌及邾子盟於拔。",
+          "correction": {
+            "reason": "“河，乃復。二”：“復”是返回、恢复；底本“複”（重复）是简转繁时把“复”误转所致。维基文库《春秋左氏傳》经文此处作“復”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:66386fcd8d2f2f364324c3af0d9ecf1eafb46143d4ee6a6b892a7d3fb66a06aa"
+            }
+          }
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0004",
-          "version": "sha256:b1a6f4a8066d3b81f0126a4ed7b3710cc9ba6ff69c2a4c3beb74e01f83952a86",
-          "text": "四年春王二月癸巳，陳侯吳卒。三月，公會劉子、晉侯、宋公、蔡侯、衛侯、陳子、鄭伯、許男、曹伯、莒子、邾子、頓子、胡子、滕子、薛伯、杞伯、小邾子、齊國夏於召陵，侵楚。夏四月庚辰，蔡公孫姓帥師滅沈，以沈子嘉歸，殺之。五月，公及諸侯盟於皋鼬。杞伯成卒於會。六月，葬陳惠公。許遷於容城。秋七月，至自會。劉卷卒。葬杞悼公。楚人圍蔡。晉士鞅、衛孔圍帥師伐鮮虞。葬劉文公。冬十有一月庚午，蔡侯以吳子及楚人戰於柏舉，楚師敗績。楚囊瓦出奔鄭。庚辰，吳入郢。",
-          "aliases": []
+          "version": "sha256:d58b64319cf598a3a9290d2e33ce9cf1e7a2c4a6c4591dee30578dec2681cc76",
+          "text": "四年春王二月癸巳，陳侯吳卒。三月，公會劉子、晉侯、宋公、蔡侯、衛侯、陳子、鄭伯、許男、曹伯、莒子、邾子、頓子、胡子、滕子、薛伯、杞伯、小邾子、齊國夏於召陵，侵楚。夏四月庚辰，蔡公孫姓帥師滅沈，以沈子嘉歸，殺之。五月，公及諸侯盟於皋鼬。杞伯成卒於會。六月，葬陳惠公。許遷於容城。秋七月，公至自會。劉卷卒。葬杞悼公。楚人圍蔡。晉士鞅、衛孔圉帥師伐鮮虞。葬劉文公。冬十有一月庚午，蔡侯以吳子及楚人戰於柏舉，楚師敗績。楚囊瓦出奔鄭。庚辰，吳入郢。",
+          "aliases": [],
+          "sourceText": "四年春王二月癸巳，陳侯吳卒。三月，公會劉子、晉侯、宋公、蔡侯、衛侯、陳子、鄭伯、許男、曹伯、莒子、邾子、頓子、胡子、滕子、薛伯、杞伯、小邾子、齊國夏於召陵，侵楚。夏四月庚辰，蔡公孫姓帥師滅沈，以沈子嘉歸，殺之。五月，公及諸侯盟於皋鼬。杞伯成卒於會。六月，葬陳惠公。許遷於容城。秋七月，至自會。劉卷卒。葬杞悼公。楚人圍蔡。晉士鞅、衛孔圍帥師伐鮮虞。葬劉文公。冬十有一月庚午，蔡侯以吳子及楚人戰於柏舉，楚師敗績。楚囊瓦出奔鄭。庚辰，吳入郢。",
+          "correction": {
+            "reason": "“衛孔圉帥師伐鮮虞”：孔圉即孔文子，底本“圍”形近而误。维基文库《春秋左氏傳》经文此处作“孔圉”。；“秋七月，公至自會”：底本脱“公”字。维基文库《春秋左氏傳》经文此处作“公至自會”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d58b64319cf598a3a9290d2e33ce9cf1e7a2c4a6c4591dee30578dec2681cc76"
+            }
+          }
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0005",
@@ -3485,9 +4497,20 @@
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0006",
-          "version": "sha256:17ca8043f22722b5dca21b8e6b4f13945d68b6b11ce0e72a8a28b75f83b88dc5",
-          "text": "六年春王正月癸亥，鄭遊速帥師滅許，以許男斯歸。二月，公侵鄭。公至自侵鄭。夏，季孫斯、仲孫何忌如晉。秋，晉人執宋行人樂祁犁。冬，城中城。季孫斯、仲孫忌帥師圍鄆。",
-          "aliases": []
+          "version": "sha256:3d95f8a4059828e4ed2c1b4370d1ca980ee63f9eef4e17ccf68d035ac8d0eded",
+          "text": "六年春王正月癸亥，鄭游速帥師滅許，以許男斯歸。二月，公侵鄭。公至自侵鄭。夏，季孫斯、仲孫何忌如晉。秋，晉人執宋行人樂祁犁。冬，城中城。季孫斯、仲孫忌帥師圍鄆。",
+          "aliases": [],
+          "sourceText": "六年春王正月癸亥，鄭遊速帥師滅許，以許男斯歸。二月，公侵鄭。公至自侵鄭。夏，季孫斯、仲孫何忌如晉。秋，晉人執宋行人樂祁犁。冬，城中城。季孫斯、仲孫忌帥師圍鄆。",
+          "correction": {
+            "reason": "“亥，鄭游速帥”：鄭游吉、游速之“游”是姓；底本“遊”是简转繁误转。维基文库《春秋左氏傳》经文此处作“游”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3d95f8a4059828e4ed2c1b4370d1ca980ee63f9eef4e17ccf68d035ac8d0eded"
+            }
+          }
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0007",
@@ -3509,9 +4532,20 @@
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0010",
-          "version": "sha256:4a231a45a4b7645e627dcac1ae37b137af7249113a43c9ebc815bab3332349b0",
-          "text": "十年春王三月，乃齊平。夏，公會齊侯於夾谷。公至自夾谷。晉趙鞅帥師圍衛。齊人來歸鄆、讙、龜陰田。叔孫州仇、仲孫何忌帥師圍郈。秋，叔孫州仇、仲孫何忌帥師圍郈。宋樂大心出奔曹。宋公子地出奔陳。冬，齊侯、衛侯、鄭遊速會於安甫。叔孫州仇如齊。宋公之弟辰暨仲佗、石彄出奔陳。",
-          "aliases": []
+          "version": "sha256:03824da981e7136e5da54edfdeb720695551bcb0fa2def2ddb2cbae3d37258b1",
+          "text": "十年春王三月，及齊平。夏，公會齊侯於夾谷。公至自夾谷。晉趙鞅帥師圍衛。齊人來歸鄆、讙、龜陰田。叔孫州仇、仲孫何忌帥師圍郈。秋，叔孫州仇、仲孫何忌帥師圍郈。宋樂大心出奔曹。宋公子地出奔陳。冬，齊侯、衛侯、鄭游速會於安甫。叔孫州仇如齊。宋公之弟辰暨仲佗、石彄出奔陳。",
+          "aliases": [],
+          "sourceText": "十年春王三月，乃齊平。夏，公會齊侯於夾谷。公至自夾谷。晉趙鞅帥師圍衛。齊人來歸鄆、讙、龜陰田。叔孫州仇、仲孫何忌帥師圍郈。秋，叔孫州仇、仲孫何忌帥師圍郈。宋樂大心出奔曹。宋公子地出奔陳。冬，齊侯、衛侯、鄭遊速會於安甫。叔孫州仇如齊。宋公之弟辰暨仲佗、石彄出奔陳。",
+          "correction": {
+            "reason": "“三月，及齊平”：“及”是《春秋》记鲁与他国媾和的书法，底本“乃”形近而误。维基文库《春秋左氏傳》经文此处作“及齊平”。；“侯、鄭游速會”：鄭游吉、游速之“游”是姓；底本“遊”是简转繁误转。维基文库《春秋左氏傳》经文此处作“游”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:03824da981e7136e5da54edfdeb720695551bcb0fa2def2ddb2cbae3d37258b1"
+            }
+          }
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0011",
@@ -3539,9 +4573,20 @@
         },
         {
           "id": "p-chunqiu-696c43ce6528a1c5-0015",
-          "version": "sha256:0a4e0ecba35b4ee0c8f2995d29d9e9a275cc0971374d4670719e3f951393c57b",
-          "text": "十有五年春王正月，邾子來朝。鼷鼠食郊牛，牛死，改卜牛。二月辛丑，楚子滅胡，以胡子豹歸。夏五辛亥，郊。壬申，公薨於高寢。鄭罕達帥師伐宋。齊侯、衛侯次於渠蒢。邾子來奔喪。秋七月壬申，姒氏卒。八月庚辰朔，日有食之。九月，滕子來會葬。丁巳，葬我君定公，雨不克葬。戊午，日下昃，乃克葬。辛巳，葬定姒。冬，城漆。",
-          "aliases": []
+          "version": "sha256:b966a6a9f2610d5831f92735a5be7995adf6223990331c57233272e50119f37b",
+          "text": "十有五年春王正月，邾子來朝。鼷鼠食郊牛，牛死，改卜牛。二月辛丑，楚子滅胡，以胡子豹歸。夏五月辛亥，郊。壬申，公薨於高寢。鄭罕達帥師伐宋。齊侯、衛侯次於渠蒢。邾子來奔喪。秋七月壬申，姒氏卒。八月庚辰朔，日有食之。九月，滕子來會葬。丁巳，葬我君定公，雨不克葬。戊午，日下昃，乃克葬。辛巳，葬定姒。冬，城漆。",
+          "aliases": [],
+          "sourceText": "十有五年春王正月，邾子來朝。鼷鼠食郊牛，牛死，改卜牛。二月辛丑，楚子滅胡，以胡子豹歸。夏五辛亥，郊。壬申，公薨於高寢。鄭罕達帥師伐宋。齊侯、衛侯次於渠蒢。邾子來奔喪。秋七月壬申，姒氏卒。八月庚辰朔，日有食之。九月，滕子來會葬。丁巳，葬我君定公，雨不克葬。戊午，日下昃，乃克葬。辛巳，葬定姒。冬，城漆。",
+          "correction": {
+            "reason": "“夏五月辛亥，郊”：底本脱“月”字。维基文库《春秋左氏傳》经文此处作“夏五月辛亥”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b966a6a9f2610d5831f92735a5be7995adf6223990331c57233272e50119f37b"
+            }
+          }
         }
       ]
     },
@@ -3599,12 +4644,23 @@
         },
         {
           "id": "p-chunqiu-c36173b2e6ea0f11-0006",
-          "version": "sha256:6705a2d6669a75d050fa85855844f83609db5480d0c29de699963a365d6dd10f",
-          "text": "六年春，城邾瑕。晉趙鞅帥師伐鮮虞。吳伐陳。夏，齊國夏及高張來奔。叔還公吳於柤。秋七月庚寅，楚子軫卒。齊陽生入齊。齊陳乞弑其君荼。冬，仲孫何忌帥師伐邾。宋向巢帥師伐曹。",
+          "version": "sha256:070d53ba732635628fcc42615c420e9bf463809d9412b8353c94504195f3b153",
+          "text": "六年春，城邾瑕。晉趙鞅帥師伐鮮虞。吳伐陳。夏，齊國夏及高張來奔。叔還會吳於柤。秋七月庚寅，楚子軫卒。齊陽生入於齊。齊陳乞弑其君荼。冬，仲孫何忌帥師伐邾。宋向巢帥師伐曹。",
           "aliases": [],
           "headingPath": [
             "六年"
-          ]
+          ],
+          "sourceText": "六年春，城邾瑕。晉趙鞅帥師伐鮮虞。吳伐陳。夏，齊國夏及高張來奔。叔還公吳於柤。秋七月庚寅，楚子軫卒。齊陽生入齊。齊陳乞弑其君荼。冬，仲孫何忌帥師伐邾。宋向巢帥師伐曹。",
+          "correction": {
+            "reason": "“叔還會吳於柤”：底本“公”是“會”之误。维基文库《春秋左氏傳》经文此处作“會吳”。；“齊陽生入於齊”：底本脱“於”字。维基文库《春秋左氏傳》经文此处作“入于齊”，《穀梁》经文同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:070d53ba732635628fcc42615c420e9bf463809d9412b8353c94504195f3b153"
+            }
+          }
         },
         {
           "id": "p-chunqiu-c36173b2e6ea0f11-0007",
@@ -3617,12 +4673,23 @@
         },
         {
           "id": "p-chunqiu-c36173b2e6ea0f11-0008",
-          "version": "sha256:efea89c4e0f96431fcd66dfade29f40440fd25df50749fb998ee8080441c5ba3",
-          "text": "八年春王正月，宋公入曹，以曹伯陽歸。吳伐我。夏，齊人取讙及闡。歸邾子益子邾。秋七月。冬十有二月癸亥，杞伯過卒。齊人歸讙及闡。",
+          "version": "sha256:b189f58f240b94f46c0dddefd6b9f1ce2eac211b5ce3a22494e2d474b0e451e7",
+          "text": "八年春王正月，宋公入曹，以曹伯陽歸。吳伐我。夏，齊人取讙及闡。歸邾子益於邾。秋七月。冬十有二月癸亥，杞伯過卒。齊人歸讙及闡。",
           "aliases": [],
           "headingPath": [
             "八年"
-          ]
+          ],
+          "sourceText": "八年春王正月，宋公入曹，以曹伯陽歸。吳伐我。夏，齊人取讙及闡。歸邾子益子邾。秋七月。冬十有二月癸亥，杞伯過卒。齊人歸讙及闡。",
+          "correction": {
+            "reason": "“歸邾子益於邾”：底本“子邾”的“子”是“於”之误。维基文库《春秋左氏傳》经文此处作“于邾”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b189f58f240b94f46c0dddefd6b9f1ce2eac211b5ce3a22494e2d474b0e451e7"
+            }
+          }
         },
         {
           "id": "p-chunqiu-c36173b2e6ea0f11-0009",
@@ -3653,12 +4720,23 @@
         },
         {
           "id": "p-chunqiu-c36173b2e6ea0f11-0012",
-          "version": "sha256:e851ab41f6c0a1d71b15b83d70bb2446556556c22febd694fcdf8981f8ca12c3",
-          "text": "十有二年春，用田賦。夏五月甲辰，孟子卒。公會吳於皋阜。秋，公會衛侯、宋皇瑗於鄖。宋向巢帥師伐鄭。冬十有二月，螽。",
+          "version": "sha256:5d48097f31f40fe06d11b4af86fb83dbcdb657b30ac293eb3543c2f1b90f9939",
+          "text": "十有二年春，用田賦。夏五月甲辰，孟子卒。公會吳於橐皋。秋，公會衛侯、宋皇瑗於鄖。宋向巢帥師伐鄭。冬十有二月，螽。",
           "aliases": [],
           "headingPath": [
             "十二年"
-          ]
+          ],
+          "sourceText": "十有二年春，用田賦。夏五月甲辰，孟子卒。公會吳於皋阜。秋，公會衛侯、宋皇瑗於鄖。宋向巢帥師伐鄭。冬十有二月，螽。",
+          "correction": {
+            "reason": "“公會吳於橐皋”：橐皋是吴地，底本脱“橐”而衍“阜”。维基文库《春秋左氏傳》经文此处作“橐皋”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5d48097f31f40fe06d11b4af86fb83dbcdb657b30ac293eb3543c2f1b90f9939"
+            }
+          }
         },
         {
           "id": "p-chunqiu-c36173b2e6ea0f11-0013",

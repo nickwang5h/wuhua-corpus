@@ -2878,9 +2878,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0365",
-          "version": "sha256:a546a6465a8961c1a98bd9b2981ae381689de31d4907b3e49e96e49394a551db",
-          "text": "雷填填兮雨冥冥，猨啾啾兮又夜鸣。",
-          "aliases": []
+          "version": "sha256:6ba82c63288911954ac4538c46c6099e268b06ea0bdbc33013200608e66952f2",
+          "text": "雷填填兮雨冥冥，猨啾啾兮狖夜鸣。",
+          "aliases": [],
+          "sourceText": "雷填填兮雨冥冥，猨啾啾兮又夜鸣。",
+          "correction": {
+            "reason": "猨啾啾兮狖夜鸣：狖是长尾猿，与上句“猨”相对；底本“又”是“狖”的残字。维基文库《楚辭·九歌·山鬼》作“猨啾啾兮狖夜鳴”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6ba82c63288911954ac4538c46c6099e268b06ea0bdbc33013200608e66952f2"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0366",
@@ -2917,9 +2928,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0370",
-          "version": "sha256:b77adc65d615e4e63a70ce087d45cd9afeb3d48a8182e2c31476972d718f5c0d",
-          "text": "旌蔽日兮敌若云，矢交坠兮土争先。",
-          "aliases": []
+          "version": "sha256:2d91e5fe8fb394a554f2bf8a8ba7be559f47e0da53bec9c8cc76ce880dd8ea2c",
+          "text": "旌蔽日兮敌若云，矢交坠兮士争先。",
+          "aliases": [],
+          "sourceText": "旌蔽日兮敌若云，矢交坠兮土争先。",
+          "correction": {
+            "reason": "矢交坠兮士争先：写战士奋勇争先，底本“土”是“士”的形近误字。维基文库《楚辭·九歌·國殤》作“矢交墜兮士爭先”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2d91e5fe8fb394a554f2bf8a8ba7be559f47e0da53bec9c8cc76ce880dd8ea2c"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0371",
@@ -2935,9 +2957,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0373",
-          "version": "sha256:a9bc43ad2abfed060917278cc5b7620b62b989a9421bd93bf86333fa23190980",
-          "text": "天时{封心}兮威灵怒，严杀尽兮弃原野。",
-          "aliases": []
+          "version": "sha256:42f341ec3015c50c4b42eb82a95ee967bee3de9cfe92a99ba0a1da0c0517ef36",
+          "text": "天时怼兮威灵怒，严杀尽兮弃原野。",
+          "aliases": [],
+          "sourceText": "天时{封心}兮威灵怒，严杀尽兮弃原野。",
+          "correction": {
+            "reason": "天时怼兮威灵怒：底本用“{封心}”拼合“懟（怼）”字，不是正常汉字。维基文库《楚辭·九歌·國殤》作“天時懟兮威靈怒”（洪兴祖补注本作“坠”，注“一作怼”）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:42f341ec3015c50c4b42eb82a95ee967bee3de9cfe92a99ba0a1da0c0517ef36"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0374",
@@ -3571,15 +3604,37 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0476",
-          "version": "sha256:722af31fcfd27a4fa73163ff83a42a8e22a2fcd567f3b54f2214aa773ce4af08",
-          "text": "妹嬉何肆，汤何殛焉？",
-          "aliases": []
+          "version": "sha256:92909444f5d4b98efe092c4f91de593bba53b2d2de8a420e8ef42bb0639ef8d1",
+          "text": "妺嬉何肆，汤何殛焉？",
+          "aliases": [],
+          "sourceText": "妹嬉何肆，汤何殛焉？",
+          "correction": {
+            "reason": "妺嬉何肆：夏桀之妃妺（mò）嬉，底本作姊妹之“妹”（mèi），形近而误；字词注已注音 mò。维基文库《楚辭·天問》作“妺嬉何肆”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:92909444f5d4b98efe092c4f91de593bba53b2d2de8a420e8ef42bb0639ef8d1"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0477",
-          "version": "sha256:27a4193d35e64bb73d89db94fd794aa44defbcca39ff88759163a8e5c371ae93",
-          "text": "舜闵在家，父何以<鱼睘>？",
-          "aliases": []
+          "version": "sha256:b3b20bd9fa5378d7cdad1802fe117d0dab1c2d586615ce87bd4c63272916c6a8",
+          "text": "舜闵在家，父何以鳏？",
+          "aliases": [],
+          "sourceText": "舜闵在家，父何以<鱼睘>？",
+          "correction": {
+            "reason": "舜闵在家，父何以鳏：底本用“<鱼睘>”拼合“鳏（鰥）”字。维基文库《楚辭·天問》作“父何以鱞”（鱞同鳏）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b3b20bd9fa5378d7cdad1802fe117d0dab1c2d586615ce87bd4c63272916c6a8"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0478",
@@ -4288,9 +4343,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0594",
-          "version": "sha256:d49db90b5b8f04a5a8743bdf4e15ba1645ce2008e59e0a766aff1c205ffdb29c",
-          "text": "申侘傺之烦惑兮，中闷瞀之忳々。",
-          "aliases": []
+          "version": "sha256:d85870da1b6f23c217b2d9f8e3bae6c7a8882e17a464caa9bbf78e1f5f492db5",
+          "text": "申侘傺之烦惑兮，中闷瞀之忳忳。",
+          "aliases": [],
+          "sourceText": "申侘傺之烦惑兮，中闷瞀之忳々。",
+          "correction": {
+            "reason": "闷瞀之忳忳：底本用日文叠字符号“々”代替第二个“忳”，不是汉字。维基文库《楚辭·九章·惜诵》此处作叠字“忳忳”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d85870da1b6f23c217b2d9f8e3bae6c7a8882e17a464caa9bbf78e1f5f492db5"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0595",
@@ -4792,9 +4858,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0675",
-          "version": "sha256:d6c7f294e4f1a92e4c316171bdccedf19255cfb1ac2cc65a79242d78373d9288",
-          "text": "外承欢之汋约兮，讠甚荏弱而难持。",
-          "aliases": []
+          "version": "sha256:90b3d485fae42b874c8cc8c19025174055a686416039270e8c707634f2786983",
+          "text": "外承欢之汋约兮，谌荏弱而难持。",
+          "aliases": [],
+          "sourceText": "外承欢之汋约兮，讠甚荏弱而难持。",
+          "correction": {
+            "reason": "谌荏弱而难持：底本把“谌”拆成“讠甚”两字。维基文库《楚辭·九章·哀郢》作“諶荏弱而難持”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:90b3d485fae42b874c8cc8c19025174055a686416039270e8c707634f2786983"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0676",
@@ -4933,9 +5010,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0697",
-          "version": "sha256:4b070396403e74c39f8901ef21828cfc36054ac459a65292e974ba80cd5c5e2f",
-          "text": "悲夷犹而冀进兮，心怛伤之憺々。",
-          "aliases": []
+          "version": "sha256:156b0b60a017346ebda7c13ffb56ed2bdc8a63ceee1e1eba8ef1a1bbc5b16907",
+          "text": "悲夷犹而冀进兮，心怛伤之憺憺。",
+          "aliases": [],
+          "sourceText": "悲夷犹而冀进兮，心怛伤之憺々。",
+          "correction": {
+            "reason": "怛伤之憺憺：底本用日文叠字符号“々”代替第二个“憺”，不是汉字。维基文库《楚辭·九章·抽思》此处作叠字“憺憺”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:156b0b60a017346ebda7c13ffb56ed2bdc8a63ceee1e1eba8ef1a1bbc5b16907"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0698",
@@ -6244,9 +6332,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0908",
-          "version": "sha256:c600c094be9dd25035e3dc864d76ddb910a4a1e6e33a4589f0cdf9512755fbac",
-          "text": "惮涌湍之礚々兮，听波声之汹汹。",
-          "aliases": []
+          "version": "sha256:06766cc5f391c7663bcadb5a4fcc0c5a795b43b47aa6420304133bb2221511a8",
+          "text": "惮涌湍之礚礚兮，听波声之汹汹。",
+          "aliases": [],
+          "sourceText": "惮涌湍之礚々兮，听波声之汹汹。",
+          "correction": {
+            "reason": "涌湍之礚礚兮：底本用日文叠字符号“々”代替第二个“礚”，不是汉字。维基文库《楚辭·九章·悲回风》此处作叠字“礚礚”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:06766cc5f391c7663bcadb5a4fcc0c5a795b43b47aa6420304133bb2221511a8"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0909",
@@ -6304,9 +6403,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0918",
-          "version": "sha256:0ed460d174f9c7a0f1c7a7e557f8e684d85ed155fc7224c133fee63560b72e56",
-          "text": "曰：吾怨往昔之所冀兮，悼来者之悐々。",
-          "aliases": []
+          "version": "sha256:a2ed41420822499acc9d331803a22e83a2c143fa2af386d6bfe8190029e51ad6",
+          "text": "曰：吾怨往昔之所冀兮，悼来者之悐悐。",
+          "aliases": [],
+          "sourceText": "曰：吾怨往昔之所冀兮，悼来者之悐々。",
+          "correction": {
+            "reason": "来者之悐悐：底本用日文叠字符号“々”代替第二个“悐”，不是汉字。维基文库《楚辭·九章·悲回风》此处作叠字“悐悐”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:a2ed41420822499acc9d331803a22e83a2c143fa2af386d6bfe8190029e51ad6"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0919",
@@ -6463,9 +6573,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0943",
-          "version": "sha256:4df1739fdb048524b7e37be58440adb8b0a639b731821e01c48525c7812f0d33",
-          "text": "超氛埃而淑垂阝兮，终不反其故都。",
-          "aliases": []
+          "version": "sha256:7d3230a3a76f9a5bc1f1319bb986b64d7c0c8d1d5d762761f7fc04fa4a93200f",
+          "text": "超氛埃而淑邮兮，终不反其故都。",
+          "aliases": [],
+          "sourceText": "超氛埃而淑垂阝兮，终不反其故都。",
+          "correction": {
+            "reason": "超氛埃而淑邮兮：底本把“郵（邮）”拆成“垂阝”两字，“垂阝”不成字。维基文库《楚辭·遠遊》此句作“淑尤”，洪兴祖补注“尤，一作郵”，朱熹《楚辞集注》作“淑郵”；底本拆开的正是“郵”字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7d3230a3a76f9a5bc1f1319bb986b64d7c0c8d1d5d762761f7fc04fa4a93200f"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-0944",
@@ -7696,9 +7817,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1144",
-          "version": "sha256:ca2cf53834e518382a92bcde6cfd6f33930221ecd9ddaaa19d2fd4c41fe43173",
-          "text": "白日<日宛>晚其将入兮，明月销铄而减毁。",
-          "aliases": []
+          "version": "sha256:5e8a76f1b61a4ff86867bb4382854e1701a199660edc3b858f877ff0d93b8a9a",
+          "text": "白日晼晚其将入兮，明月销铄而减毁。",
+          "aliases": [],
+          "sourceText": "白日<日宛>晚其将入兮，明月销铄而减毁。",
+          "correction": {
+            "reason": "白日晼晚其将入兮：底本用“<日宛>”拼合“晼”字。维基文库《楚辭·九辯》作“白日晼晚其將入兮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:5e8a76f1b61a4ff86867bb4382854e1701a199660edc3b858f877ff0d93b8a9a"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1145",
@@ -7864,9 +7996,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1172",
-          "version": "sha256:510ffa21c70fa85666cd74cf06f68748c7117f7be00a3d2541a94ce748f14777",
-          "text": "邅翼翼而无终兮，忳惛々而愁约。",
-          "aliases": []
+          "version": "sha256:b179815112e9bba09deb09e6f21f947c3cdffc9a29713fc23cae5824c637b58c",
+          "text": "邅翼翼而无终兮，忳惛惛而愁约。",
+          "aliases": [],
+          "sourceText": "邅翼翼而无终兮，忳惛々而愁约。",
+          "correction": {
+            "reason": "兮，忳惛惛而：底本用日文叠字符号“々”代替第二个“惛”，不是汉字。维基文库《楚辭·九辯》此处作叠字“惛惛”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b179815112e9bba09deb09e6f21f947c3cdffc9a29713fc23cae5824c637b58c"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1173",
@@ -7942,9 +8085,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1185",
-          "version": "sha256:0bbd7eb13e14b31a96f5e13b444812dc24bfb90f5483bcbaa45d5ab341752767",
-          "text": "左朱雀之茇茇兮，右苍龙之躣々。",
-          "aliases": []
+          "version": "sha256:e792af548f4a9d5be29eef7cba319bbaad46217f7a6be41d67e34458285dc91f",
+          "text": "左朱雀之茇茇兮，右苍龙之躣躣。",
+          "aliases": [],
+          "sourceText": "左朱雀之茇茇兮，右苍龙之躣々。",
+          "correction": {
+            "reason": "苍龙之躣躣：底本用日文叠字符号“々”代替第二个“躣”，不是汉字。维基文库《楚辭·九辯》此处作叠字“躣躣”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e792af548f4a9d5be29eef7cba319bbaad46217f7a6be41d67e34458285dc91f"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1186",
@@ -7954,9 +8108,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1187",
-          "version": "sha256:8b168c3fe7dcb7752976619cc84464f2ea00f2361a70273a5622b116dc9bdf15",
-          "text": "前轻辌之锵锵兮，后辎乘之从从。",
-          "aliases": []
+          "version": "sha256:17cadf83b8c5fde249543f8e02cb679fdba60ca77b149db099c81ff35305ac7e",
+          "text": "前轾辌之锵锵兮，后辎乘之从从。",
+          "aliases": [],
+          "sourceText": "前轻辌之锵锵兮，后辎乘之从从。",
+          "correction": {
+            "reason": "前轾辌之锵锵兮：轾辌是车名，与下句“后辎乘之从从”相对，“轻”是“轾”的形近误字。维基文库《楚辭·九辯》作“前輊輬之鏘鏘兮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:17cadf83b8c5fde249543f8e02cb679fdba60ca77b149db099c81ff35305ac7e"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1188",
@@ -8203,9 +8368,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1227",
-          "version": "sha256:f50bf5e465068bcae90d095363720ce0ff8ad9e26c329d1a1896cc2e4e885c3a",
-          "text": "豺狼从目，往来侁々些。",
-          "aliases": []
+          "version": "sha256:91c619b30fda5eb0f929def6dc58be0434b1d4809fb43d8dd6dd446adf18d4fe",
+          "text": "豺狼从目，往来侁侁些。",
+          "aliases": [],
+          "sourceText": "豺狼从目，往来侁々些。",
+          "correction": {
+            "reason": "往来侁侁些：底本用日文叠字符号“々”代替第二个“侁”，不是汉字。维基文库《楚辭·招䰟》此处作叠字“侁侁”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:91c619b30fda5eb0f929def6dc58be0434b1d4809fb43d8dd6dd446adf18d4fe"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1228",
@@ -8233,15 +8409,37 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1232",
-          "version": "sha256:1d19b65bc3cb451d87251516706c76e30b4f115a188fad6c3acd0040f4e0e2e9",
-          "text": "土伯九约，其角觺々些。",
-          "aliases": []
+          "version": "sha256:79657a806a438cd3e3e4a289164ce970b151006413c28c05fbf5b487210ddabd",
+          "text": "土伯九约，其角觺觺些。",
+          "aliases": [],
+          "sourceText": "土伯九约，其角觺々些。",
+          "correction": {
+            "reason": "其角觺觺些：底本用日文叠字符号“々”代替第二个“觺”，不是汉字。维基文库《楚辭·招䰟》此处作叠字“觺觺”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:79657a806a438cd3e3e4a289164ce970b151006413c28c05fbf5b487210ddabd"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1233",
-          "version": "sha256:96b604a1ebe452495ff0e15fb7a6b10ac1bea708808a343d76a147ae08e401a9",
-          "text": "敦脄血拇，逐人駓々些。",
-          "aliases": []
+          "version": "sha256:c6ac3613a136b008bec7b5f6118f2396f7052afb38000f5ec8137175f081ef15",
+          "text": "敦脄血拇，逐人駓駓些。",
+          "aliases": [],
+          "sourceText": "敦脄血拇，逐人駓々些。",
+          "correction": {
+            "reason": "逐人駓駓些：底本用日文叠字符号“々”代替第二个“駓”，不是汉字。维基文库《楚辭·招䰟》此处作叠字“駓駓”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c6ac3613a136b008bec7b5f6118f2396f7052afb38000f5ec8137175f081ef15"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1234",
@@ -8647,9 +8845,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1301",
-          "version": "sha256:b9a897eb626cdf1dd58fcd217a4ab2064270c5a2f18bbf44c9c8179e6deb56db",
-          "text": "放陈攵组缨，班其相纷些。",
-          "aliases": []
+          "version": "sha256:50987be3222a6295c232e6f069eaf461ca6d9fa42797a6e873d735d7be831958",
+          "text": "放敶组缨，班其相纷些。",
+          "aliases": [],
+          "sourceText": "放陈攵组缨，班其相纷些。",
+          "correction": {
+            "reason": "放敶组缨：底本把“敶”拆成“陈攵”两字。维基文库《楚辭·招䰟》作“放敶組纓”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:50987be3222a6295c232e6f069eaf461ca6d9fa42797a6e873d735d7be831958"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1302",
@@ -8701,9 +8910,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1310",
-          "version": "sha256:3b7e91951e6ed0d507bd4b6916a96615d83802e5e03d4de052c7cb3003ae60c6",
-          "text": "兰膏明烛，华钅登错些。",
-          "aliases": []
+          "version": "sha256:1e598e66da5ec0a6c46fd0db3521476a118eeffaf9bf9d4520b4585b5603c436",
+          "text": "兰膏明烛，华镫错些。",
+          "aliases": [],
+          "sourceText": "兰膏明烛，华钅登错些。",
+          "correction": {
+            "reason": "兰膏明烛，华镫错些：底本把“镫”拆成“钅登”两字。维基文库《楚辭·招䰟》作“華鐙錯些”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1e598e66da5ec0a6c46fd0db3521476a118eeffaf9bf9d4520b4585b5603c436"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1311",
@@ -8842,9 +9062,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1332",
-          "version": "sha256:95a6077bc2b5e1fb32692b180c2c71e2851b782f4bde764795bede4b1485e27e",
-          "text": "冥凌氵夹行，魂无逃只。",
-          "aliases": []
+          "version": "sha256:0d8ef68eaefec99bd9a93c685204a8c33a461c801af5a406195900194c99199d",
+          "text": "冥凌浃行，魂无逃只。",
+          "aliases": [],
+          "sourceText": "冥凌氵夹行，魂无逃只。",
+          "correction": {
+            "reason": "冥凌浃行：底本把“浃”拆成“氵夹”两字。维基文库《楚辭·大招》作“冥淩浹行”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:0d8ef68eaefec99bd9a93c685204a8c33a461c801af5a406195900194c99199d"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1333",
@@ -8860,9 +9091,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1335",
-          "version": "sha256:833c578191c918f4f16cf4d070217db432722ec53a0d688f1a2bec76e7a3cd29",
-          "text": "东有大海，溺水浟々只。",
-          "aliases": []
+          "version": "sha256:cde30f48527a7862ab1b15b1afcc1a71bb3e1795d7fb31816394b9f45eef0259",
+          "text": "东有大海，溺水浟浟只。",
+          "aliases": [],
+          "sourceText": "东有大海，溺水浟々只。",
+          "correction": {
+            "reason": "溺水浟浟只：底本用日文叠字符号“々”代替第二个“浟”，不是汉字。维基文库《楚辭·大招》此处作叠字“浟浟”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:cde30f48527a7862ab1b15b1afcc1a71bb3e1795d7fb31816394b9f45eef0259"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1336",
@@ -8920,9 +9162,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1345",
-          "version": "sha256:7437d37c1449707f3797136e2881e5a64a9538e37e5467c5a521774d767c5940",
-          "text": "长爪踞牙，讠矣笑狂只。",
-          "aliases": []
+          "version": "sha256:91e6a7d6cd04d069d73e6a73c493a2113a5515707171f3044e3764609fb05269",
+          "text": "长爪踞牙，诶笑狂只。",
+          "aliases": [],
+          "sourceText": "长爪踞牙，讠矣笑狂只。",
+          "correction": {
+            "reason": "长爪踞牙，诶笑狂只：底本把“诶”拆成“讠矣”两字。维基文库《楚辭·大招》作“誒笑狂只”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:91e6a7d6cd04d069d73e6a73c493a2113a5515707171f3044e3764609fb05269"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1346",
@@ -9034,15 +9287,37 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1364",
-          "version": "sha256:6960d206e7c6f776efddef55f6782971d1c15e7235bcd436bc4e6118d0b043e7",
-          "text": "炙鸹烝凫，煔鹑陈攵只。",
-          "aliases": []
+          "version": "sha256:7c91a54c6a81da0ee4b413edc5e2dcd3eba7a8b57dfc59d8ddee166fac2b2ca1",
+          "text": "炙鸹烝凫，煔鹑敶只。",
+          "aliases": [],
+          "sourceText": "炙鸹烝凫，煔鹑陈攵只。",
+          "correction": {
+            "reason": "煔鹑敶只：底本把“敶”拆成“陈攵”两字。维基文库《楚辭·大招》作“煔鶉敶只”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:7c91a54c6a81da0ee4b413edc5e2dcd3eba7a8b57dfc59d8ddee166fac2b2ca1"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1365",
-          "version": "sha256:392c6ae0b4057e53c69d1d4cb19bd184ff548303092162608d081d0d07b72e46",
-          "text": "煎鰿<月隺>雀，遽爽存只。",
-          "aliases": []
+          "version": "sha256:35a3365afbf0a1bf2f5bacf2894d0d594ce4a8b0717ffcac828d2eae7c708096",
+          "text": "煎鰿𦞦雀，遽爽存只。",
+          "aliases": [],
+          "sourceText": "煎鰿<月隺>雀，遽爽存只。",
+          "correction": {
+            "reason": "煎鰿𦞦雀：底本用“<月隺>”拼合“𦞦”（同臛，肉羹）字。维基文库《楚辭·大招》作“煎鰿𦞦雀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:35a3365afbf0a1bf2f5bacf2894d0d594ce4a8b0717ffcac828d2eae7c708096"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1366",
@@ -9772,9 +10047,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1484",
-          "version": "sha256:12739d1336247c9cc11f64c92e75fe1a98f5bee2c2e64f292046b823238593cc",
-          "text": "坱兮轧，山曲<山弗>，心淹留兮恫慌忽。",
-          "aliases": []
+          "version": "sha256:b0f0da693577a22ebc468f302771105c006422c5dfe49e640ca9e74b6378066f",
+          "text": "坱兮轧，山曲𡶒，心淹留兮恫慌忽。",
+          "aliases": [],
+          "sourceText": "坱兮轧，山曲<山弗>，心淹留兮恫慌忽。",
+          "correction": {
+            "reason": "坱兮轧，山曲𡶒：底本用“<山弗>”拼合“𡶒”字。维基文库《楚辭·招隱士》作“山曲𡶒”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b0f0da693577a22ebc468f302771105c006422c5dfe49e640ca9e74b6378066f"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1485",
@@ -9796,15 +10082,37 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1488",
-          "version": "sha256:4547fb8610f489a0d3de7e3b01863bca2bc1c95adf7ad71e7965df8f4893d34e",
-          "text": "青莎杂树兮薠草靃靡，白鹿麚兮或腾或倚。",
-          "aliases": []
+          "version": "sha256:e01a14a4af0798aac3f65dbe446bb622ad21da3bb49e035b51781b5b4091e570",
+          "text": "青莎杂树兮薠草靃靡，白鹿麏麚兮或腾或倚。",
+          "aliases": [],
+          "sourceText": "青莎杂树兮薠草靃靡，白鹿麚兮或腾或倚。",
+          "correction": {
+            "reason": "白鹿麏麚兮或腾或倚：底本“麏”字是私用区编码（U+E154），一般字体显示不出。维基文库《楚辭·招隱士》作“白鹿麏麚兮或騰或倚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e01a14a4af0798aac3f65dbe446bb622ad21da3bb49e035b51781b5b4091e570"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1489",
-          "version": "sha256:857bf46aa62bbe5289c969d5ce7cdf8696edfecd69fa947f3e97f5357e084981",
-          "text": "状貌崟崟兮峨峨，凄凄兮漇々。",
-          "aliases": []
+          "version": "sha256:8160ca3136a67ce2175cc6c689f303b1a767b38b41ab1631f86016c68b49ffb7",
+          "text": "状貌崟崟兮峨峨，凄凄兮漇漇。",
+          "aliases": [],
+          "sourceText": "状貌崟崟兮峨峨，凄凄兮漇々。",
+          "correction": {
+            "reason": "凄凄兮漇漇：底本用日文叠字符号“々”代替第二个“漇”，不是汉字。维基文库《楚辭·招隱士》此处作叠字“漇漇”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8160ca3136a67ce2175cc6c689f303b1a767b38b41ab1631f86016c68b49ffb7"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1490",
@@ -9913,9 +10221,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1506",
-          "version": "sha256:a91e412f76d8d4e9a1a806e2f4337169a312d4785252c682d7d36b2df6fed3d2",
-          "text": "死日将至兮，兴麋鹿同坑。",
-          "aliases": []
+          "version": "sha256:013a1dfeb7e9532c78389dfdbbf0e36cd4bb213967206587fb683414baf3fc13",
+          "text": "死日将至兮，与麋鹿同坑。",
+          "aliases": [],
+          "sourceText": "死日将至兮，兴麋鹿同坑。",
+          "correction": {
+            "reason": "死日将至兮，与麋鹿同坑：“兴”是“与（與）”的形近误字，字词注已说明。维基文库《楚辭·七諫·初放》作“與麋鹿同坈”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:013a1dfeb7e9532c78389dfdbbf0e36cd4bb213967206587fb683414baf3fc13"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1507",
@@ -10315,9 +10634,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1570",
-          "version": "sha256:8fa773550cd48eb5dbcf0d1d9a83ae838bff4c5f00b4715600372482b8aacd8d",
-          "text": "西施媞々而不得见兮，嫫母勃屑而日侍。",
-          "aliases": []
+          "version": "sha256:455a6526204e796104986169bfde0f2817bca3d92a806306d432048541b57ba4",
+          "text": "西施媞媞而不得见兮，嫫母勃屑而日侍。",
+          "aliases": [],
+          "sourceText": "西施媞々而不得见兮，嫫母勃屑而日侍。",
+          "correction": {
+            "reason": "西施媞媞而：底本用日文叠字符号“々”代替第二个“媞”，不是汉字。维基文库《楚辭·七諫·怨世》此处作叠字“媞媞”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:455a6526204e796104986169bfde0f2817bca3d92a806306d432048541b57ba4"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1571",
@@ -10369,9 +10699,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1579",
-          "version": "sha256:e0df6a96b14a9f2f4b708b47cd882b1954111a4c73584e3450bc26882afe6271",
-          "text": "思比干之恲々兮，哀子胥之慎事。",
-          "aliases": []
+          "version": "sha256:d6751a446124f1a5a521e7789dad8d8dbc943f816927b5a64963101d03937a75",
+          "text": "思比干之恲恲兮，哀子胥之慎事。",
+          "aliases": [],
+          "sourceText": "思比干之恲々兮，哀子胥之慎事。",
+          "correction": {
+            "reason": "比干之恲恲兮：底本用日文叠字符号“々”代替第二个“恲”，不是汉字。维基文库《楚辭·七諫·怨世》此处作叠字“恲恲”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d6751a446124f1a5a521e7789dad8d8dbc943f816927b5a64963101d03937a75"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1580",
@@ -10498,9 +10839,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1599",
-          "version": "sha256:2818a52a80a1f181062b4202ef5e44a5a5ce299671d392c05b97ccd0117a2fb8",
-          "text": "行明白而日黑兮，荆棘聚而成林。",
-          "aliases": []
+          "version": "sha256:6596f374d7d2357d68254283462ea3a01521dc43d49470768ad558c063f93b72",
+          "text": "行明白而曰黑兮，荆棘聚而成林。",
+          "aliases": [],
+          "sourceText": "行明白而日黑兮，荆棘聚而成林。",
+          "correction": {
+            "reason": "行明白而曰黑兮：品行明白却被说成黑，“日”是“曰”的形近误字。维基文库《楚辭·七諫·怨思》作“行明白而曰黑兮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6596f374d7d2357d68254283462ea3a01521dc43d49470768ad558c063f93b72"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1600",
@@ -11332,9 +11684,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1732",
-          "version": "sha256:89373d86c771d835578135e5ba406702d0b1ca57418bab7e3f189397196fecae",
-          "text": "白日<日宛>々其将入兮，哀余寿之弗将。",
-          "aliases": []
+          "version": "sha256:041f4247516f83d2966f85147b4942c6e67326693e8fb82ca824d53689c6731b",
+          "text": "白日晼晚其将入兮，哀余寿之弗将。",
+          "aliases": [],
+          "sourceText": "白日<日宛>々其将入兮，哀余寿之弗将。",
+          "correction": {
+            "reason": "白日晼晚其将入兮：底本用“<日宛>”拼合“晼”字，又用日文叠字符号“々”代替“晚”，都不是汉字。维基文库《楚辭·哀時命》作“白日晼晚其將入兮”，与《九辩》同句。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:041f4247516f83d2966f85147b4942c6e67326693e8fb82ca824d53689c6731b"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1733",
@@ -11458,9 +11821,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1753",
-          "version": "sha256:d69c656aa4c01832544b3965dbde43a456faae2fb0608316ffe5152fa9995d94",
-          "text": "愁修夜而宛转兮，气涫{沸鬲}其若波。",
-          "aliases": []
+          "version": "sha256:aba9a1a6a5dd68741dd1ada2363f6f90fe664a8bf8d40c03130ac4938719b2c7",
+          "text": "愁修夜而宛转兮，气涫𩰾其若波。",
+          "aliases": [],
+          "sourceText": "愁修夜而宛转兮，气涫{沸鬲}其若波。",
+          "correction": {
+            "reason": "气涫𩰾其若波：底本用“{沸鬲}”拼合“𩰾”（同沸）字。维基文库《楚辭·哀時命》作“氣涫𩰾其若波”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:aba9a1a6a5dd68741dd1ada2363f6f90fe664a8bf8d40c03130ac4938719b2c7"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1754",
@@ -11476,9 +11850,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1756",
-          "version": "sha256:173f7e738a9e94d34da7dfb423433526a8c3a739fd237f5507dd7252a8cc3e3b",
-          "text": "置援狖於棂槛兮，夫何以责其捷巧？",
-          "aliases": []
+          "version": "sha256:1466c485767e2b7f8f2385b3f194f27c39bb3f166aeab5c7e165353e5fc6ec9d",
+          "text": "置猨狖於棂槛兮，夫何以责其捷巧？",
+          "aliases": [],
+          "sourceText": "置援狖於棂槛兮，夫何以责其捷巧？",
+          "correction": {
+            "reason": "置猨狖於棂槛兮：把猿猴关进笼槛，“援”是“猨”的形近误字。维基文库《楚辭·哀時命》作“置猨狖于櫺檻兮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:1466c485767e2b7f8f2385b3f194f27c39bb3f166aeab5c7e165353e5fc6ec9d"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1757",
@@ -11578,9 +11963,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1773",
-          "version": "sha256:a2279e882217e6e86e328f63ca5e30f2b6b9860c9b3f0adf45e7bcd98d904cb3",
-          "text": "魂眐々以寄独兮，汨徂往而不归。",
-          "aliases": []
+          "version": "sha256:2c431882bd6624bad24b68633fb2250cea24c1256f3c7c23fc0ed598189aa51d",
+          "text": "魂眐眐以寄独兮，汨徂往而不归。",
+          "aliases": [],
+          "sourceText": "魂眐々以寄独兮，汨徂往而不归。",
+          "correction": {
+            "reason": "魂眐眐以：底本用日文叠字符号“々”代替第二个“眐”，不是汉字。维基文库《楚辭·哀時命》此处作叠字“眐眐”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2c431882bd6624bad24b68633fb2250cea24c1256f3c7c23fc0ed598189aa51d"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1774",
@@ -12001,9 +12397,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1839",
-          "version": "sha256:dffd35f6dcafcc2c2eb803081a5fb05281f15759f73a6a666580e89c892d3348",
-          "text": "泱莽莽兮究志，惧吾心兮懤々。",
-          "aliases": []
+          "version": "sha256:30460fc663a366541b48db7d414bc89fce9ab11fa48f99a785d4b6d4ee8e28db",
+          "text": "泱莽莽兮究志，惧吾心兮懤懤。",
+          "aliases": [],
+          "sourceText": "泱莽莽兮究志，惧吾心兮懤々。",
+          "correction": {
+            "reason": "吾心兮懤懤：底本用日文叠字符号“々”代替第二个“懤”，不是汉字。维基文库《楚辭·九懷·危俊》此处作叠字“懤懤”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:30460fc663a366541b48db7d414bc89fce9ab11fa48f99a785d4b6d4ee8e28db"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1840",
@@ -12013,9 +12420,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1841",
-          "version": "sha256:59e408e44a3550ba8e31dcffbcff006d0f09f7d0dc0e6afc9dd1ac00e8ebf44f",
-          "text": "卒莫有兮纤介，永余思兮怞々。",
-          "aliases": []
+          "version": "sha256:f37b5a5be338839a92dcb779eece7392198d93449f1f8bbcdc941a60a4e1a9e1",
+          "text": "卒莫有兮纤介，永余思兮怞怞。",
+          "aliases": [],
+          "sourceText": "卒莫有兮纤介，永余思兮怞々。",
+          "correction": {
+            "reason": "余思兮怞怞：底本用日文叠字符号“々”代替第二个“怞”，不是汉字。维基文库《楚辭·九懷·危俊》此处作叠字“怞怞”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:f37b5a5be338839a92dcb779eece7392198d93449f1f8bbcdc941a60a4e1a9e1"
+            }
+          }
         }
       ]
     },
@@ -12052,9 +12470,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1846",
-          "version": "sha256:15d0510f931108e5cc3b9794ed720840d7d3b75c7f018108f5b869b8eb1e37b2",
-          "text": "袭英衣兮缇纟習，披华裳兮芳芬。",
-          "aliases": []
+          "version": "sha256:de88e453f17d508c6845b15e91f011572dcc7e023824ccd161043935ab48aca5",
+          "text": "袭英衣兮缇䌌，披华裳兮芳芬。",
+          "aliases": [],
+          "sourceText": "袭英衣兮缇纟習，披华裳兮芳芬。",
+          "correction": {
+            "reason": "袭英衣兮缇䌌：底本把“䌌”拆成“纟習”两字。维基文库《楚辭·九懷·昭世》作“襲英衣兮緹䌌”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:de88e453f17d508c6845b15e91f011572dcc7e023824ccd161043935ab48aca5"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1847",
@@ -12199,9 +12628,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1869",
-          "version": "sha256:310fce67de4bec09052176db778d5537a501639637879f6429470f2f21b69247",
-          "text": "榜舫兮下流，东注兮礚々。",
-          "aliases": []
+          "version": "sha256:d4d3c70f50a5502100e5735a4bf31ddb99cece2cd98111174a4b299cda060e80",
+          "text": "榜舫兮下流，东注兮礚礚。",
+          "aliases": [],
+          "sourceText": "榜舫兮下流，东注兮礚々。",
+          "correction": {
+            "reason": "东注兮礚礚：底本用日文叠字符号“々”代替第二个“礚”，不是汉字。维基文库《楚辭·九懷·尊嘉》此处作叠字“礚礚”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d4d3c70f50a5502100e5735a4bf31ddb99cece2cd98111174a4b299cda060e80"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1870",
@@ -12514,9 +12954,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1917",
-          "version": "sha256:eef8234b4b23d2bdcc817320591a4545cf4e0f834099ac0056837c555506afed",
-          "text": "浮云郁兮昼昏，霾土忽兮塺々。",
-          "aliases": []
+          "version": "sha256:2e20bf28b2e0153909e23093186c41cbc6149c2e9ec397841f22794a59f88d51",
+          "text": "浮云郁兮昼昏，霾土忽兮塺塺。",
+          "aliases": [],
+          "sourceText": "浮云郁兮昼昏，霾土忽兮塺々。",
+          "correction": {
+            "reason": "土忽兮塺塺：底本用日文叠字符号“々”代替第二个“塺”，不是汉字。维基文库《楚辭·九懷·陶壅》此处作叠字“塺塺”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2e20bf28b2e0153909e23093186c41cbc6149c2e9ec397841f22794a59f88d51"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1918",
@@ -12619,9 +13070,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1933",
-          "version": "sha256:aa6ef254a524c85ca73a5096ba817ad47d30d47e861d7c2b5645988c928752ce",
-          "text": "鹪<明鸟>开路兮，后属青蛇。",
-          "aliases": []
+          "version": "sha256:3d670458cc5bfc9cf553436e824e19fe5f0dbf9bf8f6f89e9905f46e31ef93e0",
+          "text": "鹪䳟开路兮，后属青蛇。",
+          "aliases": [],
+          "sourceText": "鹪<明鸟>开路兮，后属青蛇。",
+          "correction": {
+            "reason": "鹪䳟开路兮：底本用“<明鸟>”拼合“䳟”字（鹪䳟，神鸟名）。维基文库《楚辭·九懷·株昭》作“鷦䳟開路兮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:3d670458cc5bfc9cf553436e824e19fe5f0dbf9bf8f6f89e9905f46e31ef93e0"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-1934",
@@ -13525,9 +13987,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2078",
-          "version": "sha256:c1b455fa9717a6a30785823472a6261c66490f57729f0a8655a620308d081b5a",
-          "text": "叹曰：飘风蓬龙埃坲々兮，草木摇落时槁悴兮，",
-          "aliases": []
+          "version": "sha256:4c550657b017612a8b57e7ab294e849190921f457b4a654474d4ff0b4c40d4e9",
+          "text": "叹曰：飘风蓬龙埃坲坲兮，草木摇落时槁悴兮，",
+          "aliases": [],
+          "sourceText": "叹曰：飘风蓬龙埃坲々兮，草木摇落时槁悴兮，",
+          "correction": {
+            "reason": "蓬龙埃坲坲兮：底本用日文叠字符号“々”代替第二个“坲”，不是汉字。维基文库《楚辭·九歎·远逝》此处作叠字“坲坲”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:4c550657b017612a8b57e7ab294e849190921f457b4a654474d4ff0b4c40d4e9"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2079",
@@ -13666,9 +14139,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2100",
-          "version": "sha256:23929755cb99b54f38f66a159035206bf8b028ab8fde7a419938d3458a040380",
-          "text": "欲俟时於须臾兮，日阴<日壹>其将暮。",
-          "aliases": []
+          "version": "sha256:d0cb8c7c6aed08366753dfc6e39dbf2a581a53b2130eba8df854c01567a7e1da",
+          "text": "欲俟时於须臾兮，日阴曀其将暮。",
+          "aliases": [],
+          "sourceText": "欲俟时於须臾兮，日阴<日壹>其将暮。",
+          "correction": {
+            "reason": "日阴曀其将暮：底本用“<日壹>”拼合“曀”字。维基文库《楚辭·九歎·惜賢》作“日陰曀其將暮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:d0cb8c7c6aed08366753dfc6e39dbf2a581a53b2130eba8df854c01567a7e1da"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2101",
@@ -13885,9 +14369,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2135",
-          "version": "sha256:4ddc77aff8ec8c8932ca565ada405320a32130415700ce69d888e69f9cd190a3",
-          "text": "葛藟{藟系}於桂树兮，鸱鸮集於木兰。",
-          "aliases": []
+          "version": "sha256:fb9d7fc17f718ed1d3fac0ed56a98674865338a97dad4f9cabdf4cd5018352ff",
+          "text": "葛藟虆於桂树兮，鸱鸮集於木兰。",
+          "aliases": [],
+          "sourceText": "葛藟{藟系}於桂树兮，鸱鸮集於木兰。",
+          "correction": {
+            "reason": "葛藟虆於桂树兮：底本用“{藟系}”拼合“虆”字（缠绕）。维基文库《楚辭·九歎·憂苦》作“葛藟虆於桂樹兮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:fb9d7fc17f718ed1d3fac0ed56a98674865338a97dad4f9cabdf4cd5018352ff"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2136",
@@ -13921,9 +14416,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2141",
-          "version": "sha256:115642494cfaaae495c0be62517a5991ed0acb05e83eaafa4990475043e9a3d7",
-          "text": "思念郢路兮，还顾睠々。",
-          "aliases": []
+          "version": "sha256:8b270d958186c3379e4b0b64b670edbd570a07f641ad8fbd869120092cc388f4",
+          "text": "思念郢路兮，还顾睠睠。",
+          "aliases": [],
+          "sourceText": "思念郢路兮，还顾睠々。",
+          "correction": {
+            "reason": "还顾睠睠：底本用日文叠字符号“々”代替第二个“睠”，不是汉字。维基文库《楚辭·九歎·忧苦》此处作叠字“睠睠”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8b270d958186c3379e4b0b64b670edbd570a07f641ad8fbd869120092cc388f4"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2142",
@@ -14134,9 +14640,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2175",
-          "version": "sha256:8cfa1f7c43adb53df1ce426e0a57616d8ace319ad125704a28715f0eca4a5565",
-          "text": "怀椒聊之蔎々兮，乃逢纷以罹诟也。",
-          "aliases": []
+          "version": "sha256:84c31e1279553f97a36c31c3a39ca4b4efa0326c5f5228fcde040398ab5d9c6d",
+          "text": "怀椒聊之蔎蔎兮，乃逢纷以罹诟也。",
+          "aliases": [],
+          "sourceText": "怀椒聊之蔎々兮，乃逢纷以罹诟也。",
+          "correction": {
+            "reason": "椒聊之蔎蔎兮：底本用日文叠字符号“々”代替第二个“蔎”，不是汉字。维基文库《楚辭·九歎·愍命》此处作叠字“蔎蔎”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:84c31e1279553f97a36c31c3a39ca4b4efa0326c5f5228fcde040398ab5d9c6d"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2176",
@@ -14152,9 +14669,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2178",
-          "version": "sha256:62d448a11cb2a623ad70455fb1263b33153f097e0bc7d589a6595dc8ff327e00",
-          "text": "谗人諓々孰可愬兮，",
-          "aliases": []
+          "version": "sha256:b3d9e245cdc1d560994c3554a903b75865bca7c49dd86141a16c9da1a2340b72",
+          "text": "谗人諓諓孰可愬兮，",
+          "aliases": [],
+          "sourceText": "谗人諓々孰可愬兮，",
+          "correction": {
+            "reason": "谗人諓諓孰：底本用日文叠字符号“々”代替第二个“諓”，不是汉字。维基文库《楚辭·九歎·愍命》此处作叠字“諓諓”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b3d9e245cdc1d560994c3554a903b75865bca7c49dd86141a16c9da1a2340b72"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2179",
@@ -14233,15 +14761,37 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2190",
-          "version": "sha256:d867eca53bc72b87c0c59c9597b7ae43e334dc084cc0d69f231bb9a240014b1a",
-          "text": "发披披以鬤々兮，躬劬劳而瘏悴。",
-          "aliases": []
+          "version": "sha256:6a3740797c5910726976325945761014e67cb74b2dbe03c788908bfff6d84b73",
+          "text": "发披披以鬤鬤兮，躬劬劳而瘏悴。",
+          "aliases": [],
+          "sourceText": "发披披以鬤々兮，躬劬劳而瘏悴。",
+          "correction": {
+            "reason": "披披以鬤鬤兮：底本用日文叠字符号“々”代替第二个“鬤”，不是汉字。维基文库《楚辭·九歎·思古》此处作叠字“鬤鬤”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:6a3740797c5910726976325945761014e67cb74b2dbe03c788908bfff6d84b73"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2191",
-          "version": "sha256:635697061ef2727ce523445040be70a2ad8c754e256964f445d6d26e0c99de78",
-          "text": "魂俇々而南行兮，泣霑襟而濡袂。",
-          "aliases": []
+          "version": "sha256:c00e24fd107da9082e675c2ee5a66450cac44ea146e9757e1cda4f72fbf14afa",
+          "text": "魂俇俇而南行兮，泣霑襟而濡袂。",
+          "aliases": [],
+          "sourceText": "魂俇々而南行兮，泣霑襟而濡袂。",
+          "correction": {
+            "reason": "魂俇俇而：底本用日文叠字符号“々”代替第二个“俇”，不是汉字。维基文库《楚辭·九歎·思古》此处作叠字“俇俇”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c00e24fd107da9082e675c2ee5a66450cac44ea146e9757e1cda4f72fbf14afa"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2192",
@@ -14452,9 +15002,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2225",
-          "version": "sha256:922c4a4ae1724255866bc6a69d783b10e3352ebc92322f1ac991731aeabad45a",
-          "text": "枉玉衡於炎火兮，委两饣官于咸唐。",
-          "aliases": []
+          "version": "sha256:9d63b001d3ce1b34fee7d323404211935327274f79beed8a6584fbd14549a6ab",
+          "text": "枉玉衡於炎火兮，委两馆于咸唐。",
+          "aliases": [],
+          "sourceText": "枉玉衡於炎火兮，委两饣官于咸唐。",
+          "correction": {
+            "reason": "委两馆于咸唐：底本把“馆”拆成“饣官”两字。维基文库《楚辭·九歎·遠遊》作“委兩館於咸唐”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9d63b001d3ce1b34fee7d323404211935327274f79beed8a6584fbd14549a6ab"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2226",
@@ -14617,9 +15178,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2251",
-          "version": "sha256:5ecd10bcff092394c95554ef76c3f0aa0db6319caaf7ea107ba9ac99531801f6",
-          "text": "心烦忄贵兮意无聊，严载驾兮出戏游。",
-          "aliases": []
+          "version": "sha256:b5d9b4c60e462a8e6328906c0e04103ded27a9b072ff01a29cbde4eca74e085e",
+          "text": "心烦愦兮意无聊，严载驾兮出戏游。",
+          "aliases": [],
+          "sourceText": "心烦忄贵兮意无聊，严载驾兮出戏游。",
+          "correction": {
+            "reason": "心烦愦兮意无聊：底本把“愦”拆成“忄贵”两字。维基文库《楚辭·九思·逢尤》作“心煩憒兮意無聊”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b5d9b4c60e462a8e6328906c0e04103ded27a9b072ff01a29cbde4eca74e085e"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2252",
@@ -14707,9 +15279,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2266",
-          "version": "sha256:03557aadcd40a43d61a360f2829182654d65c2e19878725c126322205debded8",
-          "text": "魂茕茕兮不遑寐，目眽々兮寤终朝。",
-          "aliases": []
+          "version": "sha256:51e44421a74ce943ba07edab2d73be7957933b40c9ccedf737c70cfe3e5d9c66",
+          "text": "魂茕茕兮不遑寐，目眽眽兮寤终朝。",
+          "aliases": [],
+          "sourceText": "魂茕茕兮不遑寐，目眽々兮寤终朝。",
+          "correction": {
+            "reason": "寐，目眽眽兮：底本用日文叠字符号“々”代替第二个“眽”，不是汉字。维基文库《楚辭·九思·逢尤》此处作叠字“眽眽”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:51e44421a74ce943ba07edab2d73be7957933b40c9ccedf737c70cfe3e5d9c66"
+            }
+          }
         }
       ]
     },
@@ -14734,15 +15317,37 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2269",
-          "version": "sha256:53a629af7a5ba3bede71e36df560c7e1ee6dfdb3c29064ca6f3c97b0ee683bd4",
-          "text": "令尹兮謷謷，群司兮譨々。",
-          "aliases": []
+          "version": "sha256:2b920e86586599ede66dcce0e17531bc55314ee4d25356ecbd996368a0a620cd",
+          "text": "令尹兮謷謷，群司兮譨譨。",
+          "aliases": [],
+          "sourceText": "令尹兮謷謷，群司兮譨々。",
+          "correction": {
+            "reason": "群司兮譨譨：底本用日文叠字符号“々”代替第二个“譨”，不是汉字。维基文库《楚辭·九思·怨上》此处作叠字“譨譨”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:2b920e86586599ede66dcce0e17531bc55314ee4d25356ecbd996368a0a620cd"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2270",
-          "version": "sha256:1d4b7f5b3ff5168c1f7e4cec75e1392026a051b0d235644d8113cbe4904ca4ef",
-          "text": "哀哉兮淈々，上下兮同流。",
-          "aliases": []
+          "version": "sha256:b73bdc27e4b890c67f9d81f28ee98fe96bf03dfd50badec518c2a4fa13ce739f",
+          "text": "哀哉兮淈淈，上下兮同流。",
+          "aliases": [],
+          "sourceText": "哀哉兮淈々，上下兮同流。",
+          "correction": {
+            "reason": "哀哉兮淈淈：底本用日文叠字符号“々”代替第二个“淈”，不是汉字。维基文库《楚辭·九思·怨上》此处作叠字“淈淈”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b73bdc27e4b890c67f9d81f28ee98fe96bf03dfd50badec518c2a4fa13ce739f"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2271",
@@ -14824,9 +15429,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2284",
-          "version": "sha256:2a2b2b90512f53051ffc6c36b533b6dcbc95d9672fc73edc26c4c18faafeab17",
-          "text": "鸳鸯兮噰々，狐狸兮々。",
-          "aliases": []
+          "version": "sha256:e80fa23967a494c18dfffb585785c90ce3c5e8d6cdd61788d57b7e561db32407",
+          "text": "鸳鸯兮噰噰，狐狸兮徾徾。",
+          "aliases": [],
+          "sourceText": "鸳鸯兮噰々，狐狸兮々。",
+          "correction": {
+            "reason": "鸳鸯兮噰噰，狐狸兮徾徾：底本两处用日文叠字符号“々”，“噰々”当作“噰噰”；“狐狸兮々”更脱去“徾”字，只剩一个叠字号。维基文库《楚辭·九思·怨上》作“鴛鴦兮噰噰，狐貍兮徾徾”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:e80fa23967a494c18dfffb585785c90ce3c5e8d6cdd61788d57b7e561db32407"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2285",
@@ -14989,9 +15605,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2310",
-          "version": "sha256:279e361b246098bfcaa8cd0238d590cfcb402d4e6d671d3da100d0fbc4cd09f7",
-          "text": "时昢々兮且旦，尘莫莫兮未晞。",
-          "aliases": []
+          "version": "sha256:cd134fa159a79bed7d8504f599e26e1ec689fca816bd2809b7636ae0948b5ef1",
+          "text": "时昢昢兮且旦，尘莫莫兮未晞。",
+          "aliases": [],
+          "sourceText": "时昢々兮且旦，尘莫莫兮未晞。",
+          "correction": {
+            "reason": "时昢昢兮：底本用日文叠字符号“々”代替第二个“昢”，不是汉字。维基文库《楚辭·九思·疾世》此处作叠字“昢昢”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:cd134fa159a79bed7d8504f599e26e1ec689fca816bd2809b7636ae0948b5ef1"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2311",
@@ -15022,9 +15649,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2314",
-          "version": "sha256:bc6d0b6602523b644cf33a33ba0d2e2e983e45e7b033c84cfcb9deb1728331fe",
-          "text": "哀世兮睩々，諓々兮嗌喔。",
-          "aliases": []
+          "version": "sha256:b82311579d7d525f51d17ab990e64779b7d7f7aaa722b1ef3e34f9cea2745d66",
+          "text": "哀世兮睩睩，諓諓兮嗌喔。",
+          "aliases": [],
+          "sourceText": "哀世兮睩々，諓々兮嗌喔。",
+          "correction": {
+            "reason": "哀世兮睩睩：底本用日文叠字符号“々”代替第二个“睩”，不是汉字。维基文库《楚辭·九思·悯上》此处作叠字“睩睩”（或其异体）。；諓諓兮：底本用日文叠字符号“々”代替第二个“諓”，不是汉字。维基文库《楚辭·九思·悯上》此处作叠字“諓諓”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:b82311579d7d525f51d17ab990e64779b7d7f7aaa722b1ef3e34f9cea2745d66"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2315",
@@ -15064,9 +15702,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2321",
-          "version": "sha256:872e864bdb0781463932bd4d15b1728997cd0d62deee8b0482a00579826477b3",
-          "text": "川谷兮渊渊，山阜兮峉々。",
-          "aliases": []
+          "version": "sha256:112d2a7c2892afa213e78a3bc7e97eeeca0a5d393ccf149d39a3ed384ec92bb6",
+          "text": "川谷兮渊渊，山阜兮峉峉。",
+          "aliases": [],
+          "sourceText": "川谷兮渊渊，山阜兮峉々。",
+          "correction": {
+            "reason": "山阜兮峉峉：底本用日文叠字符号“々”代替第二个“峉”，不是汉字。维基文库《楚辭·九思·悯上》此处作叠字“峉峉”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:112d2a7c2892afa213e78a3bc7e97eeeca0a5d393ccf149d39a3ed384ec92bb6"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2322",
@@ -15157,9 +15806,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2335",
-          "version": "sha256:024b02627574a9c3f414356ed2a6d9dbbf6bcd55b3626bec6925061ca26e5310",
-          "text": "悼屈子兮遭厄，沉王躬兮湘汨。",
-          "aliases": []
+          "version": "sha256:9419abf630489bef0d3a6d8c18ee72ef877cc8e921c7d8202b84497421509491",
+          "text": "悼屈子兮遭厄，沉玉躬兮湘汨。",
+          "aliases": [],
+          "sourceText": "悼屈子兮遭厄，沉王躬兮湘汨。",
+          "correction": {
+            "reason": "悼屈子兮遭厄，沉玉躬兮湘汨：玉躬指屈原之身，“王”是“玉”的形近误字。维基文库《楚辭·九思·遭厄》作“沈玉躬兮湘汨”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:9419abf630489bef0d3a6d8c18ee72ef877cc8e921c7d8202b84497421509491"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2336",
@@ -15211,9 +15871,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2344",
-          "version": "sha256:bbe294b10eb145e54f7e93bf71d57c0587bb8e9efc6e0f2074a14e5281a3eb23",
-          "text": "云霓纷兮<日奄>翳，参辰回兮颠倒。",
-          "aliases": []
+          "version": "sha256:72b3c8f1976ff74d4500468ae86368f97d68974d325a75e0ec329c51e7c8a68e",
+          "text": "云霓纷兮晻翳，参辰回兮颠倒。",
+          "aliases": [],
+          "sourceText": "云霓纷兮<日奄>翳，参辰回兮颠倒。",
+          "correction": {
+            "reason": "云霓纷兮晻翳：底本用“<日奄>”拼合“晻”字。维基文库《楚辭·九思·遭厄》作“雲霓紛兮晻翳”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:72b3c8f1976ff74d4500468ae86368f97d68974d325a75e0ec329c51e7c8a68e"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2345",
@@ -15352,9 +16023,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2366",
-          "version": "sha256:2c2c819d58f42b6dbd27a357383b562f8d813a54c70a8cab1a306f15d5455bf7",
-          "text": "鹿蹊兮继踵，貒貉兮蟫々。",
-          "aliases": []
+          "version": "sha256:c65f807395130e8fd543c91275ea7802ab66746125543d297b24efcbe910c801",
+          "text": "鹿蹊兮继踵，貒貉兮蟫蟫。",
+          "aliases": [],
+          "sourceText": "鹿蹊兮继踵，貒貉兮蟫々。",
+          "correction": {
+            "reason": "貒貉兮蟫蟫：底本用日文叠字符号“々”代替第二个“蟫”，不是汉字。维基文库《楚辭·九思·悼乱》此处作叠字“蟫蟫”（或其异体）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:c65f807395130e8fd543c91275ea7802ab66746125543d297b24efcbe910c801"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2367",
@@ -15817,9 +16499,20 @@
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2439",
-          "version": "sha256:aeaa2bb0f6fe0a7d91716fc9eacc2e0139bb70305e9e0faa39e50b38f9f3ab39",
-          "text": "就传说兮骑龙，与织女兮合婚。",
-          "aliases": []
+          "version": "sha256:8660090a315c4ad4a92592cf3fb4271491c412ca1c315d740deab5f092db3bcc",
+          "text": "就傅说兮骑龙，与织女兮合婚。",
+          "aliases": [],
+          "sourceText": "就传说兮骑龙，与织女兮合婚。",
+          "correction": {
+            "reason": "就傅说兮骑龙：傅说（yuè），殷高宗贤相，《远游》“奇傅说之托辰星兮”；“传”是“傅”的形近误字，字词注已说明。维基文库《楚辭·九思·守志》作“就傅說兮騎龍”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-20",
+              "textVersion": "sha256:8660090a315c4ad4a92592cf3fb4271491c412ca1c315d740deab5f092db3bcc"
+            }
+          }
         },
         {
           "id": "p-chuci-7154b36cff8a742a-2440",
