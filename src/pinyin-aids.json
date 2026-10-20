@@ -20877,7 +20877,7 @@
     {
         "id": "p-liji-b81c51ec9040b696-0001-pinyin-76-87",
         "target": "p-liji-b81c51ec9040b696-0001",
-        "version": "sha256:f9b567e38712f2f9cd090bcd10dbf8f9cd776a789bbabc37bd9182a14f144f32",
+        "version": "sha256:e4333ad6f6491d4c550cedde9418c9a7a02aed99ffaf894e0d6dd3911b9177dd",
         "kind": "pinyin",
         "start": 76,
         "end": 87,
@@ -20940,7 +20940,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:f9b567e38712f2f9cd090bcd10dbf8f9cd776a789bbabc37bd9182a14f144f32"
+            "textVersion": "sha256:e4333ad6f6491d4c550cedde9418c9a7a02aed99ffaf894e0d6dd3911b9177dd"
         },
         "rights": {
             "author": "Claude (AI)",
