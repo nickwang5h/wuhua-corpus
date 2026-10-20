@@ -33046,6 +33046,13 @@
       "text": "神也者，妙万物而为言者也。动万物者莫疾乎雷，挠万物者莫疾乎风，躁万物者莫乎火，说万物者莫说乎泽，润万物者莫润乎水，终万物始万物者莫盛乎艮。故水火相逮，雷风不相悖，山泽通气，然后能变化，既成万物也。",
       "title": "说卦",
       "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zhouyi.json"
+    },
+    {
+      "id": "p-zhouyi-738cd6b4131de428-0018",
+      "version": "sha256:482301dfe23a8ac6a5063ff49d3df530e7c6d11162592e61c90bc791b4fbbd8b",
+      "text": "系辞上",
+      "title": "64. 未济（卦六十四）",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zhouyi.json"
     }
   ],
   "transitions": [
@@ -98665,6 +98672,20 @@
         {
           "id": "p-zhouyi-e7d2d09429019ed7-0007",
           "version": "sha256:895e00a6ecd480c5c70af0a9af1f265cda5f12fff4eee608fbbdd55ed8a9f704"
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "p-zhouyi-738cd6b4131de428-0018",
+        "version": "sha256:482301dfe23a8ac6a5063ff49d3df530e7c6d11162592e61c90bc791b4fbbd8b"
+      },
+      "kind": "revision",
+      "reason": "撤回上一轮把篇题补作“系辞上”的订正：网站按篇题分页，补字后这一页与前页合并，周易第六十五页以后的页号整体前移，会让已有链接失效。篇题仍作“系辞”，正文“天尊地卑”句首多出的“上”字照旧删去。",
+      "targets": [
+        {
+          "id": "p-zhouyi-738cd6b4131de428-0018",
+          "version": "sha256:2dc0bc94e59a4a95e46fe8364a77e1d10e8d50a9a15a8a940abfae79f4844da7"
         }
       ]
     }
