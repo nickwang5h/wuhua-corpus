@@ -11,8 +11,8 @@
   "emptyChapters": 0,
   "warnings": 825,
   "legacyWorks": 3,
-  "newCharacters": 21599196,
-  "characters": 21707274,
+  "newCharacters": 21598488,
+  "characters": 21706566,
   "rows": [
     {
       "id": "daxue",
@@ -1893,8 +1893,8 @@
       "sourcePages": 1,
       "fetchedPages": 1,
       "chapters": 12,
-      "paragraphs": 735,
-      "characters": 40740,
+      "paragraphs": 711,
+      "characters": 40032,
       "emptyChapters": 0,
       "images": 0,
       "imageChapters": 0,

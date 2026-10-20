@@ -6,7 +6,8 @@ export type StructureOperation =
  | {op:'order'; chapters:string[]; reason:string}
  | {op:'split'; chapter:string; parts:{at:string; title:string}[]; parent?:string; reason:string}
  | {op:'title'; chapter:string; title:string; reason:string}
- | {op:'withdraw'; chapter:string; reason:string};
+ | {op:'withdraw'; chapter:string; reason:string}
+ | {op:'withdraw-tail'; chapter:string; paragraphs:string[]; reason:string};
 export type Structure = Record<string,StructureOperation[]>;
 export type History = {records:Reference[]; transitions:Transition[]};
 
@@ -37,6 +38,15 @@ export function applyStructure(input:TextBook,structure:Structure){
     if(chapter.images?.length||!starts.length||starts[0]!==0||starts.some((n,i)=>n<0||(i>0&&n<=starts[i-1]))||edit.parts.some(p=>!p.title.trim()))throw new Error(`Invalid split: ${chapter.id}`);
     const pieces=edit.parts.map((p,i)=>({...chapter,id:i===0?chapter.id:`${chapter.id}-${String(i+1).padStart(2,'0')}`,title:p.title,...(edit.parent?{path:[...(chapter.path??[]),edit.parent]}:{}),paragraphs:chapter.paragraphs.slice(starts[i],starts[i+1])}));
     book.chapters.splice(index,1,...pieces);
+   }else if(edit.op==='withdraw-tail'){
+    // Only a short run at the very end of a chapter, such as a source site's licence footer.
+    const tail=chapter.paragraphs.slice(-edit.paragraphs.length);
+    if(!edit.paragraphs.length||edit.paragraphs.length>=chapter.paragraphs.length||tail.some((p,i)=>p.id!==edit.paragraphs[i]||p.aliases.length)||tail.reduce((n,p)=>n+Array.from(p.text).length,0)>200)throw new Error(`Withdrawal requires a short chapter tail: ${chapter.id}`);
+    for(const p of tail){
+     withdrawn.records.push({id:p.id,version:p.version,text:p.text,title:chapter.title,source:chapter.source});
+     withdrawn.transitions.push({from:{id:p.id,version:p.version},kind:'withdrawn',reason:edit.reason,targets:[]});
+    }
+    chapter.paragraphs=chapter.paragraphs.slice(0,-tail.length);
    }else if(edit.op==='withdraw'){
     if(chapter.images?.length||!chapter.paragraphs.length||chapter.paragraphs.some(p=>!shortTitle(p.text)||p.aliases.length)||chapter.paragraphs.reduce((n,p)=>n+Array.from(p.text).length,0)>60)throw new Error(`Withdrawal requires title-only chapter: ${chapter.id}`);
     for(const p of chapter.paragraphs){
@@ -67,20 +77,23 @@ export function retainWithdrawals(history:History,withdrawn:History):History{
 }
 
 // Retain the pre-edit layout without duplicating body text or depending on raw caches.
-export type StructureInput = {sha256:string; chapters:(Omit<Chapter,'paragraphs'> & {withdrawn?:Omit<Paragraph,'text'>[]})[]};
+export type StructureInput = {sha256:string; chapters:(Omit<Chapter,'paragraphs'> & {withdrawn?:Omit<Paragraph,'text'>[]; withdrawnTail?:Omit<Paragraph,'text'>[]})[]};
 export function structureInput(book:TextBook,structure:Structure):StructureInput{
- const removed=new Set((structure[book.id]??[]).filter(e=>e.op==='withdraw').map(e=>e.chapter));
- return {sha256:digest(JSON.stringify(book)),chapters:book.chapters.map(({paragraphs,...chapter})=>({...chapter,...(removed.has(chapter.id)?{withdrawn:paragraphs.map(({text,...p})=>p)}:{})}))};
+ const edits=structure[book.id]??[];
+ const removed=new Set(edits.filter(e=>e.op==='withdraw').map(e=>e.chapter));
+ const tails=new Map(edits.flatMap(e=>e.op==='withdraw-tail'?[[e.chapter,new Set(e.paragraphs)] as const]:[]));
+ return {sha256:digest(JSON.stringify(book)),chapters:book.chapters.map(({paragraphs,...chapter})=>({...chapter,...(removed.has(chapter.id)?{withdrawn:paragraphs.map(({text,...p})=>p)}:{}),...(tails.has(chapter.id)?{withdrawnTail:paragraphs.filter(p=>tails.get(chapter.id)!.has(p.id)).map(({text,...p})=>p)}:{})}))};
 }
+const fromHistory=(history:History,p:Omit<Paragraph,'text'>)=>{
+ const record=history.records.find(r=>r.id===p.id&&r.version===p.version);
+ if(!record)throw new Error(`Missing withdrawn source paragraph: ${p.id}`);
+ return {id:p.id,version:p.version,text:record.text,...Object.fromEntries(Object.entries(p).filter(([key])=>key!=='id'&&key!=='version'))} as Paragraph;
+};
 export function restoreStructureInput(book:TextBook,input:StructureInput,structure:Structure,history:History):TextBook{
  const chapters=new Map(book.chapters.map(c=>[c.id,c]));
- const original={...book,chapters:input.chapters.map(({withdrawn,...chapter})=>{
+ const original={...book,chapters:input.chapters.map(({withdrawn,withdrawnTail,...chapter})=>{
   let paragraphs:Paragraph[];
-  if(withdrawn)paragraphs=withdrawn.map(p=>{
-   const record=history.records.find(r=>r.id===p.id&&r.version===p.version);
-   if(!record)throw new Error(`Missing withdrawn source paragraph: ${p.id}`);
-   return {id:p.id,version:p.version,text:record.text,...Object.fromEntries(Object.entries(p).filter(([key])=>key!=='id'&&key!=='version'))} as Paragraph;
-  });
+  if(withdrawn)paragraphs=withdrawn.map(p=>fromHistory(history,p));
   else{
    const split=structure[book.id]?.find(e=>e.op==='split'&&e.chapter===chapter.id);
    const ids=split?.op==='split'?split.parts.map((_,i)=>i===0?chapter.id:`${chapter.id}-${String(i+1).padStart(2,'0')}`):[chapter.id];
@@ -89,6 +102,7 @@ export function restoreStructureInput(book:TextBook,input:StructureInput,structu
     if(!current)throw new Error(`Missing structural chapter: ${id}`);
     return current.paragraphs;
    });
+   if(withdrawnTail)paragraphs=[...paragraphs,...withdrawnTail.map(p=>fromHistory(history,p))];
   }
   return {...chapter,paragraphs};
  })};

@@ -26,13 +26,246 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "2be9b31716c0f16fcc0ad4ac36e2b392da2bb0541382881f5f741b51cfb93161",
+  "normalizedSha256": "c30381283b1de9bb95aa2561e5ab62b317bc2c07f28d58c6ab764e0e8a7dcf36",
   "stats": {
     "chapters": 12,
-    "paragraphs": 735,
-    "characters": 40740,
+    "paragraphs": 711,
+    "characters": 40032,
     "emptyChapters": 0,
     "images": 0,
     "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "2be9b31716c0f16fcc0ad4ac36e2b392da2bb0541382881f5f741b51cfb93161",
+    "chapters": [
+      {
+        "id": "chapter-guliang-dc8982f9558669ba",
+        "number": 1,
+        "title": "隐公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-dc8982f9558669ba-0056",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-dc8982f9558669ba-0057",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-d0730523ec9e1dfe",
+        "number": 2,
+        "title": "桓公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-d0730523ec9e1dfe-0059",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-d0730523ec9e1dfe-0060",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-02a0dc6180c01dbc",
+        "number": 3,
+        "title": "庄公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-02a0dc6180c01dbc-0108",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-02a0dc6180c01dbc-0109",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-c4c0b40e0edadd87",
+        "number": 4,
+        "title": "闵公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-c4c0b40e0edadd87-0012",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-c4c0b40e0edadd87-0013",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-1db2f69109181026",
+        "number": 5,
+        "title": "僖公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-1db2f69109181026-0117",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-1db2f69109181026-0118",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-88ff1e0888ea6dc9",
+        "number": 6,
+        "title": "文公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-88ff1e0888ea6dc9-0061",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-88ff1e0888ea6dc9-0062",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-868e0a3deae689ea",
+        "number": 7,
+        "title": "宣公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-868e0a3deae689ea-0044",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-868e0a3deae689ea-0045",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-642f13b948c95add",
+        "number": 8,
+        "title": "成公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-642f13b948c95add-0060",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-642f13b948c95add-0061",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-1619011cd88a5dc6",
+        "number": 9,
+        "title": "襄公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-1619011cd88a5dc6-0077",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-1619011cd88a5dc6-0078",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-9c234867946e9979",
+        "number": 10,
+        "title": "昭公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-9c234867946e9979-0077",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-9c234867946e9979-0078",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-574a1151c04231e6",
+        "number": 11,
+        "title": "定公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-574a1151c04231e6-0033",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-574a1151c04231e6-0034",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      },
+      {
+        "id": "chapter-guliang-e5b96a525ada8350",
+        "number": 12,
+        "title": "哀公",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/shisanjing/guliang.json",
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-guliang-e5b96a525ada8350-0019",
+            "version": "sha256:2548479271e1f08253fc8ad9181f05596080432bcfa770793d6100564f9d2a46",
+            "aliases": []
+          },
+          {
+            "id": "p-guliang-e5b96a525ada8350-0020",
+            "version": "sha256:f6a421f0ce168ac7546be3c0493db44c55e91c692b506321592c7fb9a92619ef",
+            "aliases": []
+          }
+        ]
+      }
+    ]
   }
 }

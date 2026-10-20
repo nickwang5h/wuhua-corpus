@@ -2580,5 +2580,115 @@
       ],
       "reason": "The pinned source merges separately headed chapters into one unit."
     }
+  ],
+  "guliang": [
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-dc8982f9558669ba",
+      "paragraphs": [
+        "p-guliang-dc8982f9558669ba-0056",
+        "p-guliang-dc8982f9558669ba-0057"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-d0730523ec9e1dfe",
+      "paragraphs": [
+        "p-guliang-d0730523ec9e1dfe-0059",
+        "p-guliang-d0730523ec9e1dfe-0060"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-02a0dc6180c01dbc",
+      "paragraphs": [
+        "p-guliang-02a0dc6180c01dbc-0108",
+        "p-guliang-02a0dc6180c01dbc-0109"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-c4c0b40e0edadd87",
+      "paragraphs": [
+        "p-guliang-c4c0b40e0edadd87-0012",
+        "p-guliang-c4c0b40e0edadd87-0013"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-1db2f69109181026",
+      "paragraphs": [
+        "p-guliang-1db2f69109181026-0117",
+        "p-guliang-1db2f69109181026-0118"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-88ff1e0888ea6dc9",
+      "paragraphs": [
+        "p-guliang-88ff1e0888ea6dc9-0061",
+        "p-guliang-88ff1e0888ea6dc9-0062"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-868e0a3deae689ea",
+      "paragraphs": [
+        "p-guliang-868e0a3deae689ea-0044",
+        "p-guliang-868e0a3deae689ea-0045"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-642f13b948c95add",
+      "paragraphs": [
+        "p-guliang-642f13b948c95add-0060",
+        "p-guliang-642f13b948c95add-0061"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-1619011cd88a5dc6",
+      "paragraphs": [
+        "p-guliang-1619011cd88a5dc6-0077",
+        "p-guliang-1619011cd88a5dc6-0078"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-9c234867946e9979",
+      "paragraphs": [
+        "p-guliang-9c234867946e9979-0077",
+        "p-guliang-9c234867946e9979-0078"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-574a1151c04231e6",
+      "paragraphs": [
+        "p-guliang-574a1151c04231e6-0033",
+        "p-guliang-574a1151c04231e6-0034"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-guliang-e5b96a525ada8350",
+      "paragraphs": [
+        "p-guliang-e5b96a525ada8350-0019",
+        "p-guliang-e5b96a525ada8350-0020"
+      ],
+      "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
+    }
   ]
 }
