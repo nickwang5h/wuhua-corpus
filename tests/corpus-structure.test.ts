@@ -30,6 +30,16 @@ test('structure preserves every paragraph identity, version, text and heading, e
  }
 });
 
+test('a move places a contiguous run after another paragraph and nothing else',async()=>{
+ const book=await jsonFile<TextBook>('src/books/lunyu.json');
+ const chapter=book.chapters[0];
+ const ids=chapter.paragraphs.map(p=>p.id);
+ const {book:moved}=applyStructure(book,{lunyu:[{op:'move',chapter:chapter.id,paragraphs:ids.slice(1,3),after:ids[4],reason:'test'}]});
+ assert.deepEqual(moved.chapters[0].paragraphs.map(p=>p.id),[ids[0],ids[3],ids[4],ids[1],ids[2],...ids.slice(5)]);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'move',chapter:chapter.id,paragraphs:[ids[1],ids[3]],after:ids[4],reason:'test'}]}),/Invalid move/);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'move',chapter:chapter.id,paragraphs:[ids[1]],after:ids[1],reason:'test'}]}),/Invalid move/);
+});
+
 test('structure rejects incomplete orders, missing boundaries, body withdrawals and missing reasons',async()=>{
  const book=await jsonFile<TextBook>('src/books/lunyu.json');
  const chapter=book.chapters[0];

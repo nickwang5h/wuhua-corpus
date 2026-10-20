@@ -7,7 +7,8 @@ export type StructureOperation =
  | {op:'split'; chapter:string; parts:{at:string; title:string}[]; parent?:string; reason:string}
  | {op:'title'; chapter:string; title:string; reason:string}
  | {op:'withdraw'; chapter:string; reason:string}
- | {op:'withdraw-tail'; chapter:string; paragraphs:string[]; reason:string};
+ | {op:'withdraw-tail'; chapter:string; paragraphs:string[]; reason:string}
+ | {op:'move'; chapter:string; paragraphs:string[]; after:string; reason:string};
 export type Structure = Record<string,StructureOperation[]>;
 export type History = {records:Reference[]; transitions:Transition[]};
 
@@ -38,6 +39,14 @@ export function applyStructure(input:TextBook,structure:Structure){
     if(chapter.images?.length||!starts.length||starts[0]!==0||starts.some((n,i)=>n<0||(i>0&&n<=starts[i-1]))||edit.parts.some(p=>!p.title.trim()))throw new Error(`Invalid split: ${chapter.id}`);
     const pieces=edit.parts.map((p,i)=>({...chapter,id:i===0?chapter.id:`${chapter.id}-${String(i+1).padStart(2,'0')}`,title:p.title,...(edit.parent?{path:[...(chapter.path??[]),edit.parent]}:{}),paragraphs:chapter.paragraphs.slice(starts[i],starts[i+1])}));
     book.chapters.splice(index,1,...pieces);
+   }else if(edit.op==='move'){
+    // A contiguous run of paragraphs placed after another paragraph of the same chapter, e.g. a commentary block the source put out of order.
+    const start=chapter.paragraphs.findIndex(p=>p.id===edit.paragraphs[0]);
+    const run=start<0?[]:chapter.paragraphs.slice(start,start+edit.paragraphs.length);
+    const rest=chapter.paragraphs.filter(p=>!edit.paragraphs.includes(p.id));
+    const at=rest.findIndex(p=>p.id===edit.after);
+    if(!edit.paragraphs.length||run.length!==edit.paragraphs.length||run.some((p,i)=>p.id!==edit.paragraphs[i])||at<0)throw new Error(`Invalid move: ${chapter.id}`);
+    chapter.paragraphs=[...rest.slice(0,at+1),...run,...rest.slice(at+1)];
    }else if(edit.op==='withdraw-tail'){
     // Only a short run at the very end of a chapter, such as a source site's licence footer.
     const tail=chapter.paragraphs.slice(-edit.paragraphs.length);
@@ -77,12 +86,13 @@ export function retainWithdrawals(history:History,withdrawn:History):History{
 }
 
 // Retain the pre-edit layout without duplicating body text or depending on raw caches.
-export type StructureInput = {sha256:string; chapters:(Omit<Chapter,'paragraphs'> & {withdrawn?:Omit<Paragraph,'text'>[]; withdrawnTail?:Omit<Paragraph,'text'>[]})[]};
+export type StructureInput = {sha256:string; chapters:(Omit<Chapter,'paragraphs'> & {withdrawn?:Omit<Paragraph,'text'>[]; withdrawnTail?:Omit<Paragraph,'text'>[]; order?:string[]})[]};
 export function structureInput(book:TextBook,structure:Structure):StructureInput{
  const edits=structure[book.id]??[];
  const removed=new Set(edits.filter(e=>e.op==='withdraw').map(e=>e.chapter));
  const tails=new Map(edits.flatMap(e=>e.op==='withdraw-tail'?[[e.chapter,new Set(e.paragraphs)] as const]:[]));
- return {sha256:digest(JSON.stringify(book)),chapters:book.chapters.map(({paragraphs,...chapter})=>({...chapter,...(removed.has(chapter.id)?{withdrawn:paragraphs.map(({text,...p})=>p)}:{}),...(tails.has(chapter.id)?{withdrawnTail:paragraphs.filter(p=>tails.get(chapter.id)!.has(p.id)).map(({text,...p})=>p)}:{})}))};
+ const moved=new Set(edits.filter(e=>e.op==='move').map(e=>e.chapter));
+ return {sha256:digest(JSON.stringify(book)),chapters:book.chapters.map(({paragraphs,...chapter})=>({...chapter,...(removed.has(chapter.id)?{withdrawn:paragraphs.map(({text,...p})=>p)}:{}),...(tails.has(chapter.id)?{withdrawnTail:paragraphs.filter(p=>tails.get(chapter.id)!.has(p.id)).map(({text,...p})=>p)}:{}),...(moved.has(chapter.id)?{order:paragraphs.map(p=>p.id)}:{})}))};
 }
 const fromHistory=(history:History,p:Omit<Paragraph,'text'>)=>{
  const record=history.records.find(r=>r.id===p.id&&r.version===p.version);
@@ -91,7 +101,7 @@ const fromHistory=(history:History,p:Omit<Paragraph,'text'>)=>{
 };
 export function restoreStructureInput(book:TextBook,input:StructureInput,structure:Structure,history:History):TextBook{
  const chapters=new Map(book.chapters.map(c=>[c.id,c]));
- const original={...book,chapters:input.chapters.map(({withdrawn,withdrawnTail,...chapter})=>{
+ const original={...book,chapters:input.chapters.map(({withdrawn,withdrawnTail,order,...chapter})=>{
   let paragraphs:Paragraph[];
   if(withdrawn)paragraphs=withdrawn.map(p=>fromHistory(history,p));
   else{
@@ -103,6 +113,11 @@ export function restoreStructureInput(book:TextBook,input:StructureInput,structu
     return current.paragraphs;
    });
    if(withdrawnTail)paragraphs=[...paragraphs,...withdrawnTail.map(p=>fromHistory(history,p))];
+   if(order){
+    const byId=new Map(paragraphs.map(p=>[p.id,p]));
+    if(order.length!==byId.size||order.some(id=>!byId.has(id)))throw new Error(`Pre-edit order mismatch: ${chapter.id}`);
+    paragraphs=order.map(id=>byId.get(id)!);
+   }
   }
   return {...chapter,paragraphs};
  })};

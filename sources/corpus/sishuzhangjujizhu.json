@@ -27,7 +27,7 @@
     "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
     "attribution": "guopop"
   },
-  "normalizedSha256": "291f97f9062f8b734cdb5417998c2b528e20cb5443ab3aec0c11c3007c16b831",
+  "normalizedSha256": "00eb7c8b4f8758dc2ccbea3f515696289db3137b7e5ae9c2c546762400bb707e",
   "stats": {
     "chapters": 40,
     "paragraphs": 4330,
@@ -35,5 +35,443 @@
     "emptyChapters": 0,
     "images": 0,
     "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "291f97f9062f8b734cdb5417998c2b528e20cb5443ab3aec0c11c3007c16b831",
+    "chapters": [
+      {
+        "id": "chapter-sishuzhangjujizhu-c1879d1bbbcf0e9d",
+        "number": 1,
+        "title": "大學章句序",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-b021968d21c81750",
+        "number": 2,
+        "title": "大學章句",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-22a24c420d452b44",
+        "number": 3,
+        "title": "中庸章句序",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-15e8d0bf643d81b9",
+        "number": 4,
+        "title": "中庸章句",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-1e623aaf7566fc03",
+        "number": 5,
+        "title": "論語序說",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-df5b0a9b0bc807c7",
+        "number": 6,
+        "title": "學而第一",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-6823f034949e2c5e",
+        "number": 7,
+        "title": "爲政第二",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-7d26cbe3e2af0f23",
+        "number": 8,
+        "title": "八佾第三",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-3dc4f978af4c017d",
+        "number": 9,
+        "title": "里仁第四",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-5a1827a54f18645e",
+        "number": 10,
+        "title": "公冶長第五",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-f9fc1cab4199cfd4",
+        "number": 11,
+        "title": "雍也第六",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-08cc8570c2c50a3d",
+        "number": 12,
+        "title": "述而第七",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-82c1eb84894c889a",
+        "number": 13,
+        "title": "泰伯第八",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-eb273fb57256d898",
+        "number": 14,
+        "title": "子罕第九",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-62a3523bd11015ba",
+        "number": 15,
+        "title": "鄕黨第十",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-843582e2f4b63480",
+        "number": 16,
+        "title": "先進第十一",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-79eb6890ff19728f",
+        "number": 17,
+        "title": "顏淵第十二",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-b83ee94b25469565",
+        "number": 18,
+        "title": "子路第十三",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-090df606884efd4f",
+        "number": 19,
+        "title": "憲問第十四",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-e5c4a87ee1bb57f7",
+        "number": 20,
+        "title": "衞靈公第十五",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-1555d56477165d75",
+        "number": 21,
+        "title": "季氏第十六",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-e0b479dafbbba7bc",
+        "number": 22,
+        "title": "陽貨第十七",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-98a223cf90243263",
+        "number": 23,
+        "title": "微子第十八",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-a730636514ea1034",
+        "number": 24,
+        "title": "子張第十九",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-803582d97fb15f4b",
+        "number": 25,
+        "title": "堯曰第二十",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-f859eb6517c5babf",
+        "number": 26,
+        "title": "孟子序",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-fb8e6655dc51de25",
+        "number": 27,
+        "title": "梁惠王章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-5c67f24d150733f7",
+        "number": 28,
+        "title": "梁惠王章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-99f476c5dac5e5cb",
+        "number": 29,
+        "title": "公孫丑章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-0ba5910a0a7fe56f",
+        "number": 30,
+        "title": "公孫丑章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-3f85661c6f23c8f0",
+        "number": 31,
+        "title": "滕文公章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-1d8f2931fd3786ab",
+        "number": 32,
+        "title": "滕文公章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-e05715a8f3d402fe",
+        "number": 33,
+        "title": "離婁章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-523b7c7efc8cc70d",
+        "number": 34,
+        "title": "離婁章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-17c981c9da47f3e5",
+        "number": 35,
+        "title": "萬章章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-18aa67810c26c298",
+        "number": 36,
+        "title": "萬章章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-f1127be978829932",
+        "number": 37,
+        "title": "告子章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter",
+        "order": [
+          "p-sishuzhangjujizhu-f1127be978829932-0001",
+          "p-sishuzhangjujizhu-f1127be978829932-0002",
+          "p-sishuzhangjujizhu-f1127be978829932-0003",
+          "p-sishuzhangjujizhu-f1127be978829932-0004",
+          "p-sishuzhangjujizhu-f1127be978829932-0005",
+          "p-sishuzhangjujizhu-f1127be978829932-0006",
+          "p-sishuzhangjujizhu-f1127be978829932-0007",
+          "p-sishuzhangjujizhu-f1127be978829932-0008",
+          "p-sishuzhangjujizhu-f1127be978829932-0009",
+          "p-sishuzhangjujizhu-f1127be978829932-0010",
+          "p-sishuzhangjujizhu-f1127be978829932-0011",
+          "p-sishuzhangjujizhu-f1127be978829932-0012",
+          "p-sishuzhangjujizhu-f1127be978829932-0013",
+          "p-sishuzhangjujizhu-f1127be978829932-0014",
+          "p-sishuzhangjujizhu-f1127be978829932-0015",
+          "p-sishuzhangjujizhu-f1127be978829932-0016",
+          "p-sishuzhangjujizhu-f1127be978829932-0017",
+          "p-sishuzhangjujizhu-f1127be978829932-0018",
+          "p-sishuzhangjujizhu-f1127be978829932-0019",
+          "p-sishuzhangjujizhu-f1127be978829932-0020",
+          "p-sishuzhangjujizhu-f1127be978829932-0021",
+          "p-sishuzhangjujizhu-f1127be978829932-0022",
+          "p-sishuzhangjujizhu-f1127be978829932-0023",
+          "p-sishuzhangjujizhu-f1127be978829932-0024",
+          "p-sishuzhangjujizhu-f1127be978829932-0025",
+          "p-sishuzhangjujizhu-f1127be978829932-0026",
+          "p-sishuzhangjujizhu-f1127be978829932-0027",
+          "p-sishuzhangjujizhu-f1127be978829932-0028",
+          "p-sishuzhangjujizhu-f1127be978829932-0029",
+          "p-sishuzhangjujizhu-f1127be978829932-0030",
+          "p-sishuzhangjujizhu-f1127be978829932-0031",
+          "p-sishuzhangjujizhu-f1127be978829932-0032",
+          "p-sishuzhangjujizhu-f1127be978829932-0033",
+          "p-sishuzhangjujizhu-f1127be978829932-0034",
+          "p-sishuzhangjujizhu-f1127be978829932-0035",
+          "p-sishuzhangjujizhu-f1127be978829932-0036",
+          "p-sishuzhangjujizhu-f1127be978829932-0037",
+          "p-sishuzhangjujizhu-f1127be978829932-0038",
+          "p-sishuzhangjujizhu-f1127be978829932-0039",
+          "p-sishuzhangjujizhu-f1127be978829932-0040",
+          "p-sishuzhangjujizhu-f1127be978829932-0041",
+          "p-sishuzhangjujizhu-f1127be978829932-0042",
+          "p-sishuzhangjujizhu-f1127be978829932-0043",
+          "p-sishuzhangjujizhu-f1127be978829932-0044",
+          "p-sishuzhangjujizhu-f1127be978829932-0045",
+          "p-sishuzhangjujizhu-f1127be978829932-0046",
+          "p-sishuzhangjujizhu-f1127be978829932-0047",
+          "p-sishuzhangjujizhu-f1127be978829932-0048",
+          "p-sishuzhangjujizhu-f1127be978829932-0049",
+          "p-sishuzhangjujizhu-f1127be978829932-0050",
+          "p-sishuzhangjujizhu-f1127be978829932-0051",
+          "p-sishuzhangjujizhu-f1127be978829932-0052",
+          "p-sishuzhangjujizhu-f1127be978829932-0053",
+          "p-sishuzhangjujizhu-f1127be978829932-0054",
+          "p-sishuzhangjujizhu-f1127be978829932-0055",
+          "p-sishuzhangjujizhu-f1127be978829932-0056",
+          "p-sishuzhangjujizhu-f1127be978829932-0057",
+          "p-sishuzhangjujizhu-f1127be978829932-0058",
+          "p-sishuzhangjujizhu-f1127be978829932-0059",
+          "p-sishuzhangjujizhu-f1127be978829932-0060",
+          "p-sishuzhangjujizhu-f1127be978829932-0061",
+          "p-sishuzhangjujizhu-f1127be978829932-0062",
+          "p-sishuzhangjujizhu-f1127be978829932-0063",
+          "p-sishuzhangjujizhu-f1127be978829932-0064",
+          "p-sishuzhangjujizhu-f1127be978829932-0065",
+          "p-sishuzhangjujizhu-f1127be978829932-0066",
+          "p-sishuzhangjujizhu-f1127be978829932-0067",
+          "p-sishuzhangjujizhu-f1127be978829932-0068",
+          "p-sishuzhangjujizhu-f1127be978829932-0069",
+          "p-sishuzhangjujizhu-f1127be978829932-0070",
+          "p-sishuzhangjujizhu-f1127be978829932-0071",
+          "p-sishuzhangjujizhu-f1127be978829932-0072",
+          "p-sishuzhangjujizhu-f1127be978829932-0073",
+          "p-sishuzhangjujizhu-f1127be978829932-0074",
+          "p-sishuzhangjujizhu-f1127be978829932-0075",
+          "p-sishuzhangjujizhu-f1127be978829932-0076",
+          "p-sishuzhangjujizhu-f1127be978829932-0077",
+          "p-sishuzhangjujizhu-f1127be978829932-0078",
+          "p-sishuzhangjujizhu-f1127be978829932-0079",
+          "p-sishuzhangjujizhu-f1127be978829932-0080",
+          "p-sishuzhangjujizhu-f1127be978829932-0081",
+          "p-sishuzhangjujizhu-f1127be978829932-0082",
+          "p-sishuzhangjujizhu-f1127be978829932-0083",
+          "p-sishuzhangjujizhu-f1127be978829932-0084",
+          "p-sishuzhangjujizhu-f1127be978829932-0085",
+          "p-sishuzhangjujizhu-f1127be978829932-0086",
+          "p-sishuzhangjujizhu-f1127be978829932-0087",
+          "p-sishuzhangjujizhu-f1127be978829932-0088",
+          "p-sishuzhangjujizhu-f1127be978829932-0089",
+          "p-sishuzhangjujizhu-f1127be978829932-0090",
+          "p-sishuzhangjujizhu-f1127be978829932-0091",
+          "p-sishuzhangjujizhu-f1127be978829932-0092",
+          "p-sishuzhangjujizhu-f1127be978829932-0093",
+          "p-sishuzhangjujizhu-f1127be978829932-0094",
+          "p-sishuzhangjujizhu-f1127be978829932-0095",
+          "p-sishuzhangjujizhu-f1127be978829932-0096",
+          "p-sishuzhangjujizhu-f1127be978829932-0097",
+          "p-sishuzhangjujizhu-f1127be978829932-0098",
+          "p-sishuzhangjujizhu-f1127be978829932-0099",
+          "p-sishuzhangjujizhu-f1127be978829932-0100",
+          "p-sishuzhangjujizhu-f1127be978829932-0101",
+          "p-sishuzhangjujizhu-f1127be978829932-0102",
+          "p-sishuzhangjujizhu-f1127be978829932-0103",
+          "p-sishuzhangjujizhu-f1127be978829932-0104",
+          "p-sishuzhangjujizhu-f1127be978829932-0105",
+          "p-sishuzhangjujizhu-f1127be978829932-0106",
+          "p-sishuzhangjujizhu-f1127be978829932-0107",
+          "p-sishuzhangjujizhu-f1127be978829932-0108",
+          "p-sishuzhangjujizhu-f1127be978829932-0109",
+          "p-sishuzhangjujizhu-f1127be978829932-0110",
+          "p-sishuzhangjujizhu-f1127be978829932-0111",
+          "p-sishuzhangjujizhu-f1127be978829932-0112",
+          "p-sishuzhangjujizhu-f1127be978829932-0113",
+          "p-sishuzhangjujizhu-f1127be978829932-0114",
+          "p-sishuzhangjujizhu-f1127be978829932-0115",
+          "p-sishuzhangjujizhu-f1127be978829932-0116",
+          "p-sishuzhangjujizhu-f1127be978829932-0117",
+          "p-sishuzhangjujizhu-f1127be978829932-0118",
+          "p-sishuzhangjujizhu-f1127be978829932-0119",
+          "p-sishuzhangjujizhu-f1127be978829932-0120",
+          "p-sishuzhangjujizhu-f1127be978829932-0121",
+          "p-sishuzhangjujizhu-f1127be978829932-0122",
+          "p-sishuzhangjujizhu-f1127be978829932-0123",
+          "p-sishuzhangjujizhu-f1127be978829932-0124",
+          "p-sishuzhangjujizhu-f1127be978829932-0125",
+          "p-sishuzhangjujizhu-f1127be978829932-0126",
+          "p-sishuzhangjujizhu-f1127be978829932-0127",
+          "p-sishuzhangjujizhu-f1127be978829932-0128",
+          "p-sishuzhangjujizhu-f1127be978829932-0129",
+          "p-sishuzhangjujizhu-f1127be978829932-0130",
+          "p-sishuzhangjujizhu-f1127be978829932-0131",
+          "p-sishuzhangjujizhu-f1127be978829932-0132",
+          "p-sishuzhangjujizhu-f1127be978829932-0133",
+          "p-sishuzhangjujizhu-f1127be978829932-0134",
+          "p-sishuzhangjujizhu-f1127be978829932-0135",
+          "p-sishuzhangjujizhu-f1127be978829932-0136",
+          "p-sishuzhangjujizhu-f1127be978829932-0137",
+          "p-sishuzhangjujizhu-f1127be978829932-0138",
+          "p-sishuzhangjujizhu-f1127be978829932-0139",
+          "p-sishuzhangjujizhu-f1127be978829932-0140",
+          "p-sishuzhangjujizhu-f1127be978829932-0141",
+          "p-sishuzhangjujizhu-f1127be978829932-0142",
+          "p-sishuzhangjujizhu-f1127be978829932-0143",
+          "p-sishuzhangjujizhu-f1127be978829932-0144",
+          "p-sishuzhangjujizhu-f1127be978829932-0145",
+          "p-sishuzhangjujizhu-f1127be978829932-0146",
+          "p-sishuzhangjujizhu-f1127be978829932-0147",
+          "p-sishuzhangjujizhu-f1127be978829932-0148",
+          "p-sishuzhangjujizhu-f1127be978829932-0149",
+          "p-sishuzhangjujizhu-f1127be978829932-0150",
+          "p-sishuzhangjujizhu-f1127be978829932-0151"
+        ]
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-f2e220de9b428686",
+        "number": 38,
+        "title": "吿子章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-de4a4b493c82773a",
+        "number": 39,
+        "title": "盡心章句上",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-sishuzhangjujizhu-35cea53f5212a29f",
+        "number": 40,
+        "title": "盡心章句下",
+        "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E7%BB%8F/%E5%9B%9B%E4%B9%A6%E7%B1%BB/%E5%9B%9B%E4%B9%A6%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8.json",
+        "kind": "chapter"
+      }
+    ]
   }
 }

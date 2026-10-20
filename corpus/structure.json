@@ -2690,5 +2690,21 @@
       ],
       "reason": "The source page's Wikisource licence footer was extracted as the last paragraphs of the chapter; it is not part of the 穀梁傳."
     }
+  ],
+  "sishuzhangjujizhu": [
+    {
+      "op": "move",
+      "chapter": "chapter-sishuzhangjujizhu-f1127be978829932",
+      "paragraphs": [
+        "p-sishuzhangjujizhu-f1127be978829932-0054",
+        "p-sishuzhangjujizhu-f1127be978829932-0055",
+        "p-sishuzhangjujizhu-f1127be978829932-0056",
+        "p-sishuzhangjujizhu-f1127be978829932-0057",
+        "p-sishuzhangjujizhu-f1127be978829932-0058",
+        "p-sishuzhangjujizhu-f1127be978829932-0059"
+      ],
+      "after": "p-sishuzhangjujizhu-f1127be978829932-0067",
+      "reason": "告子上“富岁子弟多赖”章：底本把“口之于味，有同耆也”“惟耳亦然”“惟目亦然”三节及集注排在章首之前；《孟子》原文和集注通行本都在“故龙子曰”一节之后、“故曰：口之于味也”之前。"
+    }
   ]
 }
