@@ -2974,5 +2974,76 @@
       ],
       "reason": "隐二年经“郑人伐卫”被并进了上一条经“夫人子氏薨”之后、其传之前（已从那一段删去）；公羊传经下接传，这是另一条经，底本的经文编号也从“经二八”跳到“经三一”。维基文库《春秋公羊傳/隱公》（修订号 2454699）与《春秋公羊傳註疏/卷02》都在“夫人子氏”的传之后单列“鄭人伐衛”。"
     }
+  ],
+  "zengguofanjiashu": [
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0498",
+        "p-zengguofanjiashu-58c14c94f2a35e15-0499"
+      ],
+      "reason": "第0497段信末“【注释”之后的两段是现代译注本的注释栏：解释“赀”（通“资”）和“甫艮不饬”（实为“簠簋不饬”）的词义，不是曾国藩原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0561"
+      ],
+      "reason": "“赀：通‘资’。资财，钱财。”是现代译注本对上一封信（第0559段“弟可设法捐赀否”）的注释，不是原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0661",
+        "p-zengguofanjiashu-58c14c94f2a35e15-0662"
+      ],
+      "reason": "“【原文】”是译注本的栏目标题，“如景星庆云：好似天上繁星和彩云。”是对上一封信（第0659段“朝臣仰之如景星庆云”）的注释，都不是原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0754"
+      ],
+      "reason": "“一处：即一剂。”是译注本对上一封信（第0752段“偶试一处”）的注释，不是原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0763"
+      ],
+      "reason": "“诰：同‘告’……宋以后‘诰’只限于皇帝任命高级官吏或封爵时用。”是译注本对上一封信“诰轴”“诰封”的注释，不是原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0772"
+      ],
+      "reason": "“不甚很：不很厉害。”是译注本对上一封信（第0771段“男癣病虽发，不甚很”）的注释，不是原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0785",
+        "p-zengguofanjiashu-58c14c94f2a35e15-0786"
+      ],
+      "reason": "“注释”是译注本的栏目标题，“觞：古代喝酒用的器具，此处引申为摆酒设宴。”是对上一封信（第0781段“不称必觞”）的注释，都不是原文。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zengguofanjiashu-58c14c94f2a35e15",
+      "paragraphs": [
+        "p-zengguofanjiashu-58c14c94f2a35e15-0796",
+        "p-zengguofanjiashu-58c14c94f2a35e15-0797",
+        "p-zengguofanjiashu-58c14c94f2a35e15-0798"
+      ],
+      "reason": "“【原文】”是译注本的栏目标题，“综核：综合核查的意思。”“投洽：投契融洽的意思。”是对上一封信（第0793段“润公近颇综核名实，恐亦未必投洽无间也”）的注释，都不是原文。"
+    }
   ]
 }
