@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readdir} from 'node:fs/promises';
 import {applyStructure,retainWithdrawals,restoreStructureInput,type StructureInput,type Structure,type History} from '../scripts/corpus-structure.js';
 import {asSourced} from '../scripts/corpus.js';
-import {jsonFile} from '../scripts/corpus-sources.js';
+import {jsonFile,digest} from '../scripts/corpus-sources.js';
 import type {TextBook} from '../src/types.js';
 import {validateHistory} from '../src/validate.js';
 
@@ -17,14 +17,20 @@ test('structure preserves every paragraph identity, version, text and heading, e
   const original=structure[current.id]?restoreStructureInput(asSourced(current,history.records),(await jsonFile<{structureInput:StructureInput}>(`sources/corpus/${current.id}.json`)).structureInput,structure,history):current;
   const result={original,...applyStructure(original,structure)};
   const {book,withdrawn}=result;
-  assert.deepEqual(tuples(original),[...tuples(book),...withdrawn.records.map(p=>JSON.stringify([p.id,p.version,p.text]))].sort(),current.id);
+  // Inserted paragraphs are the only ones the source never had.
+  const inserted=new Set((structure[current.id]??[]).flatMap(e=>e.op==='insert'?e.paragraphs.map(p=>p.id):[]));
+  const kept={...book,chapters:book.chapters.map(c=>({...c,paragraphs:c.paragraphs.filter(p=>!inserted.has(p.id))}))};
+  assert.deepEqual(tuples(original),[...tuples(kept),...withdrawn.records.map(p=>JSON.stringify([p.id,p.version,p.text]))].sort(),current.id);
   const before=new Map(original.chapters.flatMap(c=>c.paragraphs.map(p=>[p.id,p] as const)));
-  for(const chapter of book.chapters)for(const p of chapter.paragraphs)assert.deepEqual(p,before.get(p.id),p.id);
+  for(const chapter of kept.chapters)for(const p of chapter.paragraphs)assert.deepEqual(p,before.get(p.id),p.id);
   assert.deepEqual(book,structure[current.id]?asSourced(current,history.records):current,current.id);
   assert.deepEqual(retainWithdrawals(history,withdrawn),history,current.id);
   for(const p of withdrawn.records){
    assert.ok(history.records.some(r=>r.id===p.id&&r.version===p.version&&r.text===p.text));
-   assert.ok(history.transitions.some(t=>t.from.id===p.id&&t.from.version===p.version&&t.kind==='withdrawn'&&t.reason&&t.targets.length===0));
+   // A corrected paragraph is withdrawn at the version its corrections reached.
+   let version=p.version;
+   for(let next;(next=history.transitions.find(t=>t.kind==='revision'&&t.from.id===p.id&&t.from.version===version));)version=next.targets[0].version;
+   assert.ok(history.transitions.some(t=>t.from.id===p.id&&t.from.version===version&&t.kind==='withdrawn'&&t.reason&&t.targets.length===0));
   }
   validateHistory(withdrawn.records,withdrawn.transitions,book.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source}))));
  }
@@ -38,6 +44,27 @@ test('a move places a contiguous run after another paragraph and nothing else',a
  assert.deepEqual(moved.chapters[0].paragraphs.map(p=>p.id),[ids[0],ids[3],ids[4],ids[1],ids[2],...ids.slice(5)]);
  assert.throws(()=>applyStructure(book,{lunyu:[{op:'move',chapter:chapter.id,paragraphs:[ids[1],ids[3]],after:ids[4],reason:'test'}]}),/Invalid move/);
  assert.throws(()=>applyStructure(book,{lunyu:[{op:'move',chapter:chapter.id,paragraphs:[ids[1]],after:ids[1],reason:'test'}]}),/Invalid move/);
+});
+
+test('a withdrawn run, a relocated run and an inserted run change only what they name',async()=>{
+ const book=await jsonFile<TextBook>('src/books/lunyu.json');
+ for(const c of book.chapters)for(const p of c.paragraphs)p.aliases=[];
+ const [first,second]=book.chapters;
+ const a=first.paragraphs.map(p=>p.id),b=second.paragraphs.map(p=>p.id);
+ const {book:out,withdrawn}=applyStructure(book,{lunyu:[
+  {op:'withdraw-run',chapter:first.id,paragraphs:a.slice(1,3),reason:'test'},
+  {op:'relocate',chapter:second.id,from:first.id,paragraphs:a.slice(3,5),after:b[0],reason:'test'},
+  {op:'insert',chapter:first.id,source:'https://zh.wikisource.org/w/index.php?oldid=1',paragraphs:[{id:'p-lunyu-test-a0001',text:'子曰'}],reason:'test'},
+ ]});
+ assert.deepEqual(out.chapters[0].paragraphs.map(p=>p.id),['p-lunyu-test-a0001',a[0],...a.slice(5)]);
+ assert.deepEqual(out.chapters[1].paragraphs.map(p=>p.id),[b[0],a[3],a[4],...b.slice(1)]);
+ assert.deepEqual(withdrawn.records.map(r=>r.id),a.slice(1,3));
+ assert.equal(out.chapters[0].paragraphs[0].version,`sha256:${digest('子曰')}`);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'withdraw-run',chapter:first.id,paragraphs:[a[1],a[3]],reason:'test'}]}),/Invalid withdrawal/);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'withdraw-run',chapter:first.id,paragraphs:a,reason:'test'}]}),/Invalid withdrawal/);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'relocate',chapter:first.id,from:first.id,paragraphs:a.slice(1,2),reason:'test'}]}),/Invalid relocation/);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'insert',chapter:first.id,source:'https://example.com/',paragraphs:[{id:'p-lunyu-test-a0001',text:'子曰'}],reason:'test'}]}),/Invalid insertion/);
+ assert.throws(()=>applyStructure(book,{lunyu:[{op:'insert',chapter:first.id,source:'https://zh.wikisource.org/w/index.php?oldid=1',paragraphs:[{id:'p-mengzi-test-a0001',text:'子曰'}],reason:'test'}]}),/Invalid insertion/);
 });
 
 test('structure rejects incomplete orders, missing boundaries, body withdrawals and missing reasons',async()=>{

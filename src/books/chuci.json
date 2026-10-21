@@ -2275,7 +2275,7 @@
     {
       "id": "chapter-chuci-7154b36cff8a742a-70",
       "number": 70,
-      "title": "九歌 湘君",
+      "title": "九歌 湘君 湘夫人",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt",
       "kind": "work",
       "paragraphs": [
@@ -2403,6 +2403,138 @@
           "id": "p-chuci-7154b36cff8a742a-0293",
           "version": "sha256:e54b530f72897afc01c7c52578aa246d30549c6db7d3addea3bc19d9d3b3586d",
           "text": "时不可兮再得，聊逍遥兮容与。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0001",
+          "version": "sha256:7c8d693b6773c7831fb081040de200d1f18d72ca2385c3ea58c40f149abc07e4",
+          "text": "九歌 湘夫人",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0002",
+          "version": "sha256:dca4f47dacebc541533eefe5ded835a32efc0a2af5f30735047c19216bcf0da4",
+          "text": "作者：屈原",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0003",
+          "version": "sha256:cac894df78923c6e0f2f10cc3181cf2a2d1c6cbf4a72f689c47c1a3e24e12a01",
+          "text": "帝子降兮北渚，目眇眇兮愁予。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0004",
+          "version": "sha256:bc3cfd8a3d86ba2f97b4a18734d78d07f9db5279c212f91f17dcf3bd09f30870",
+          "text": "袅袅兮秋风，洞庭波兮木叶下。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0005",
+          "version": "sha256:370416c2a8c29e70b19b1b5041eae78a3c3c91c6d4fb25dcd97b05e9707626f1",
+          "text": "登白薠兮骋望，与佳期兮夕张。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0006",
+          "version": "sha256:f119e3d8124cb453e36c9fbc7c98593bfd5f3aa406c9242a150a63e0debb82b7",
+          "text": "鸟何萃兮蘋中，罾何为兮木上。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0007",
+          "version": "sha256:a311b051e9c5d4db6911540f38985b77e0d31c01f8db8bb849bfda8c1715a103",
+          "text": "沅有芷兮澧有兰，思公子兮未敢言。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0008",
+          "version": "sha256:4d76b0c3a9c8f750db222f224e0498d86d80e8a60c7bb494d56a13125a986f0d",
+          "text": "荒忽兮远望，观流水兮潺湲。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0009",
+          "version": "sha256:3b9fc3841486dc32a02fcd3dd9bc6aeaeaaae4d2fe48ddae29e3cc62659e4520",
+          "text": "麋何食兮庭中？蛟何为兮水裔？",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0010",
+          "version": "sha256:aa83652d1b050fbc5796d37bf81d1e2a5155a604d20ac8f74591b1ccf0e161cc",
+          "text": "朝驰余马兮江皋，夕济兮西澨。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0011",
+          "version": "sha256:c92eff62ccfe49a4b60f4ca47d2b6584a873d90475e4ad9ea30e9947340db8f9",
+          "text": "闻佳人兮召予，将腾驾兮偕逝。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0012",
+          "version": "sha256:4d0fffe142498d125167f195f28d50096757cd5be8d838acb2c41abed91c9277",
+          "text": "筑室兮水中，葺之兮荷盖。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0013",
+          "version": "sha256:f18aa4cfa0cff1f6ccd5792ab17fdc8d322f3f2e06098a2c5bb5fc7c7cca6504",
+          "text": "荪壁兮紫坛，播芳椒兮成堂。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0014",
+          "version": "sha256:56bbb4a78d4e30115848561f8ffd8ecad5c51e5c8fb5620e922d846e63df0a18",
+          "text": "桂栋兮兰橑，辛夷楣兮葯房。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0015",
+          "version": "sha256:cebddf7accae5feca354c94bc96ea362b4dbdcfea24b3d10e5dd1d8aa883e903",
+          "text": "罔薜荔兮为帷，擗蕙櫋兮既张。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0016",
+          "version": "sha256:813cbe16baed318c7f700160d28d7d2216a0dee640fe697cc1e4a86a7e0c26dc",
+          "text": "白玉兮为镇，疏石兰兮为芳。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0017",
+          "version": "sha256:2380d2c0b2362d3aa9f4b10bae491cc4d50281233261baed8e17d082aa207b58",
+          "text": "芷葺兮荷屋，缭之兮杜衡。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0018",
+          "version": "sha256:30fd9fa79df7cdcee5f79b757faa6740d0af92f68d75a2f7ae73b1375b7768d6",
+          "text": "合百草兮实庭，建芳馨兮庑门。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0019",
+          "version": "sha256:ca2e6c2d92ad04383d50d7ce9859f325d814ab7fbecd5efe9730f0d561eab212",
+          "text": "九嶷缤兮并迎，灵之来兮如云。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0020",
+          "version": "sha256:a10e43fae1c9469fe54674bc1aada76de846de443c4445e5f0a55660f965c39c",
+          "text": "捐余袂兮江中，遗余褋兮澧浦。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0021",
+          "version": "sha256:9c14ab872044565db37b5a649dc5e92cb934cdf49ef275900d5758321408aaba",
+          "text": "搴汀洲兮杜若，将以遗兮远者。",
+          "aliases": []
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0022",
+          "version": "sha256:c47a0cc2ff153608622ffe5bc1780f86ce8d7333f85e8ac02bd4b7964467ee56",
+          "text": "时不可兮骤得，聊逍遥兮容与。",
           "aliases": []
         }
       ]

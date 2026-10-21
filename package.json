@@ -27,6 +27,7 @@
     "content:import": "node --import tsx scripts/import-wikisource.ts",
     "content:catalog": "node --import tsx scripts/catalog-content.ts",
     "content:correct": "node --import tsx scripts/correct.ts",
+    "content:structure": "node --import tsx scripts/structure.ts",
     "release": "npm run check:types && npm run check:content && npm test && npm run build && node --import tsx scripts/release.ts",
     "check:boundaries": "node scripts/check-boundaries.mjs",
     "build": "tsc -p tsconfig.build.json && node scripts/copy-books.mjs",

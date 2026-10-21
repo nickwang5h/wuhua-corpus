@@ -27,7 +27,7 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "ebaed3204d7ec3bc20d6ad2fba0a5cc71dd007dfef70930816f49f8625b39cd3",
+  "normalizedSha256": "68c822dec16588ee3e6fe1014ab705a75508c735209b2c525dcc699339e839a1",
   "stats": {
     "chapters": 47,
     "paragraphs": 1732,
@@ -35,5 +35,339 @@
     "emptyChapters": 0,
     "images": 0,
     "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "ebaed3204d7ec3bc20d6ad2fba0a5cc71dd007dfef70930816f49f8625b39cd3",
+    "chapters": [
+      {
+        "id": "chapter-liji-38361a02f8cb0a47",
+        "number": 1,
+        "title": "曲礼",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-e8f45d774d1c0dd7",
+        "number": 2,
+        "title": "檀弓",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-503b290c79e9d7d4",
+        "number": 3,
+        "title": "王制",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-9ec2a30c4c2cc423",
+        "number": 4,
+        "title": "月令",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-3331b9740da85f07",
+        "number": 5,
+        "title": "曾子问",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-85bd03c1098ba8e8",
+        "number": 6,
+        "title": "文王世子",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-b81c51ec9040b696",
+        "number": 7,
+        "title": "礼运",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-72d5687e2ba61bf4",
+        "number": 8,
+        "title": "礼器",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-9d76f1fd5bb2007e",
+        "number": 9,
+        "title": "郊特牲",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-938612c0410c478d",
+        "number": 10,
+        "title": "内则",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-ab355a81029e3a6b",
+        "number": 11,
+        "title": "玉藻",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-689ebe1193b3cc91",
+        "number": 12,
+        "title": "明堂位",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-20819395b52ed54c",
+        "number": 13,
+        "title": "丧服小记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-1b2059bcf4ade53d",
+        "number": 14,
+        "title": "大传",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-b4150442eb1e6545",
+        "number": 15,
+        "title": "少仪",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-160f22e2a2703166",
+        "number": 16,
+        "title": "学记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-ac684dd8b82db3af",
+        "number": 17,
+        "title": "乐记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-21869cd75503dca6",
+        "number": 18,
+        "title": "杂记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-f9853dd57f353be6",
+        "number": 19,
+        "title": "丧大记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-1f4a180a6e573d34",
+        "number": 20,
+        "title": "丧服大记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-3ebbc59ec082a17b",
+        "number": 21,
+        "title": "祭法",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-0dd017a47924ac63",
+        "number": 22,
+        "title": "祭义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-04c602bce8077241",
+        "number": 23,
+        "title": "祭统",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-1cb33f8a724c6ed6",
+        "number": 24,
+        "title": "经解",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-31a2fee66a6cea01",
+        "number": 25,
+        "title": "哀公问",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-84e9f1da54dd370c",
+        "number": 26,
+        "title": "仲尼燕居",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-29757c990db4c284",
+        "number": 27,
+        "title": "孔子闲居",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-b6bf94789a38b24c",
+        "number": 28,
+        "title": "坊记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-7d19271b2419b1b1",
+        "number": 29,
+        "title": "中庸",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-61b200b88dada691",
+        "number": 30,
+        "title": "表记",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-5b6481201f6313ee",
+        "number": 31,
+        "title": "缁衣",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-297ab74121ae3542",
+        "number": 32,
+        "title": "奔丧",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-7ef19a7d031f3a4e",
+        "number": 33,
+        "title": "问丧",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-14779a1730328eaa",
+        "number": 34,
+        "title": "服问",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-a8585ad0f7f1266a",
+        "number": 35,
+        "title": "间传",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-89575b1476519bc6",
+        "number": 36,
+        "title": "三年问",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-916841544e3cdfea",
+        "number": 37,
+        "title": "深衣",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-ac9b30994cfe1858",
+        "number": 38,
+        "title": "投壶",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-78ff47b80fc3d68c",
+        "number": 39,
+        "title": "儒行",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-04722b31e623a124",
+        "number": 40,
+        "title": "大学",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-8df7dcfcd3f46fe8",
+        "number": 41,
+        "title": "冠义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-ea1b9744da72f3e3",
+        "number": 42,
+        "title": "昏义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-4922cdc2fdd2e5bb",
+        "number": 43,
+        "title": "乡饮酒义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-c102a1497a290f12",
+        "number": 44,
+        "title": "射义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-1b6566c22249bf7f",
+        "number": 45,
+        "title": "燕义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-35599e231a36b6c6",
+        "number": 46,
+        "title": "聘义",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-liji-98ddac9dcd7d6fa4",
+        "number": 47,
+        "title": "丧服四制",
+        "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
+        "kind": "chapter"
+      }
+    ]
   }
 }

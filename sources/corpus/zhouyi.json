@@ -27,7 +27,7 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "857ddd9ae6207cef8e2bbb4ad814b590552a45e9d7dea89ca9fdc6c5cf9a6465",
+  "normalizedSha256": "068a2547cd3d77501f7d05dd7ef24778066a4ecb7fa5111cb3a127a6a64b3407",
   "stats": {
     "chapters": 69,
     "paragraphs": 1270,
@@ -51,7 +51,61 @@
         "number": 2,
         "title": "02. 坤（卦二）",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zhouyi.json",
-        "kind": "chapter"
+        "kind": "chapter",
+        "removed": [
+          {
+            "id": "p-zhouyi-3e8b1876ad596858-0028",
+            "version": "sha256:a136840e8c1768ca82ca6aaf7f86dba66a12396b9dc2f9724a822be36076e95f",
+            "aliases": []
+          }
+        ],
+        "order": [
+          "p-zhouyi-3e8b1876ad596858-0001",
+          "p-zhouyi-3e8b1876ad596858-0002",
+          "p-zhouyi-3e8b1876ad596858-0003",
+          "p-zhouyi-3e8b1876ad596858-0004",
+          "p-zhouyi-3e8b1876ad596858-0005",
+          "p-zhouyi-3e8b1876ad596858-0006",
+          "p-zhouyi-3e8b1876ad596858-0007",
+          "p-zhouyi-3e8b1876ad596858-0008",
+          "p-zhouyi-3e8b1876ad596858-0009",
+          "p-zhouyi-3e8b1876ad596858-0010",
+          "p-zhouyi-3e8b1876ad596858-0011",
+          "p-zhouyi-3e8b1876ad596858-0012",
+          "p-zhouyi-3e8b1876ad596858-0013",
+          "p-zhouyi-3e8b1876ad596858-0014",
+          "p-zhouyi-3e8b1876ad596858-0015",
+          "p-zhouyi-3e8b1876ad596858-0016",
+          "p-zhouyi-3e8b1876ad596858-0017",
+          "p-zhouyi-3e8b1876ad596858-0018",
+          "p-zhouyi-3e8b1876ad596858-0019",
+          "p-zhouyi-3e8b1876ad596858-0020",
+          "p-zhouyi-3e8b1876ad596858-0021",
+          "p-zhouyi-3e8b1876ad596858-0022",
+          "p-zhouyi-3e8b1876ad596858-0023",
+          "p-zhouyi-3e8b1876ad596858-0024",
+          "p-zhouyi-3e8b1876ad596858-0025",
+          "p-zhouyi-3e8b1876ad596858-0026",
+          "p-zhouyi-3e8b1876ad596858-0027",
+          "p-zhouyi-3e8b1876ad596858-0028",
+          "p-zhouyi-3e8b1876ad596858-0029",
+          "p-zhouyi-3e8b1876ad596858-0030",
+          "p-zhouyi-3e8b1876ad596858-0031",
+          "p-zhouyi-3e8b1876ad596858-0032",
+          "p-zhouyi-3e8b1876ad596858-0033",
+          "p-zhouyi-3e8b1876ad596858-0034",
+          "p-zhouyi-3e8b1876ad596858-0035",
+          "p-zhouyi-3e8b1876ad596858-0036",
+          "p-zhouyi-3e8b1876ad596858-0037",
+          "p-zhouyi-3e8b1876ad596858-0038",
+          "p-zhouyi-3e8b1876ad596858-0039",
+          "p-zhouyi-3e8b1876ad596858-0040",
+          "p-zhouyi-3e8b1876ad596858-0041",
+          "p-zhouyi-3e8b1876ad596858-0042",
+          "p-zhouyi-3e8b1876ad596858-0043",
+          "p-zhouyi-3e8b1876ad596858-0044",
+          "p-zhouyi-3e8b1876ad596858-0045"
+        ]
       },
       {
         "id": "chapter-zhouyi-1f5273c9509b8806",
@@ -513,7 +567,53 @@
         "number": 68,
         "title": "03. 屯（卦三）",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zhouyi.json",
-        "kind": "chapter"
+        "kind": "chapter",
+        "removed": [
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0001",
+            "version": "sha256:215e8a5eeabcd7013eea9faecf965df79fb40e022b5e937160b480bb5aeffc8d",
+            "aliases": []
+          },
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0002",
+            "version": "sha256:d5e485c2920944646da57e1e843c08e8c5b30f7c37aff7008db31109292725f6",
+            "aliases": []
+          },
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0003",
+            "version": "sha256:314752731afa37e70b005bcab5fd00c40e73ef7b332ae4b7956f80bd4e772a90",
+            "aliases": []
+          },
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0004",
+            "version": "sha256:0f23d85bb469359f082e2c4c532c4851b470542deb490c578a26a3d2a352ba8d",
+            "aliases": []
+          },
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0005",
+            "version": "sha256:3dcae295349ca2be0b898a8ce7711d86aec840ef52445b016fd2fa78bce41381",
+            "aliases": []
+          },
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0006",
+            "version": "sha256:137ede11481db5d5fc4c1e5d023ce5ebf7cf0ca5be682431790237702e666775",
+            "aliases": []
+          },
+          {
+            "id": "p-zhouyi-dc691e41b900ac79-0007",
+            "version": "sha256:b4733015db3a5cee2d8036c997eafa0f31429785494501b17642e508d439f8ed",
+            "aliases": []
+          }
+        ],
+        "order": [
+          "p-zhouyi-dc691e41b900ac79-0001",
+          "p-zhouyi-dc691e41b900ac79-0002",
+          "p-zhouyi-dc691e41b900ac79-0003",
+          "p-zhouyi-dc691e41b900ac79-0004",
+          "p-zhouyi-dc691e41b900ac79-0005",
+          "p-zhouyi-dc691e41b900ac79-0006",
+          "p-zhouyi-dc691e41b900ac79-0007"
+        ]
       },
       {
         "id": "chapter-zhouyi-978ab00d704ae949",

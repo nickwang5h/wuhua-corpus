@@ -1272,7 +1272,7 @@
       {
         "id": "chapter-chuci-7154b36cff8a742a-70",
         "number": 70,
-        "title": "九歌 湘君",
+        "title": "九歌 湘君 湘夫人",
         "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E8%AF%97%E8%97%8F/%E6%A5%9A%E8%BE%9E/%E6%A5%9A%E8%BE%9E.txt"
       },
       {
@@ -7742,13 +7742,13 @@
       {
         "id": "chapter-liji-f9853dd57f353be6",
         "number": 19,
-        "title": "丧大记",
+        "title": "丧大记上",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json"
       },
       {
         "id": "chapter-liji-1f4a180a6e573d34",
         "number": 20,
-        "title": "丧服大记",
+        "title": "丧大记下",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json"
       },
       {
@@ -12522,7 +12522,7 @@
       {
         "id": "chapter-shangshu-fd319a202fb431da",
         "number": 8,
-        "title": "夏书 五子之歌第三",
+        "title": "夏书 五子之歌第三 胤征第四",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json"
       },
       {
@@ -12672,7 +12672,7 @@
       {
         "id": "chapter-shangshu-97ede396cee74fff",
         "number": 33,
-        "title": "周书 金滕第八",
+        "title": "周书 金縢第八",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json"
       },
       {

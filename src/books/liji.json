@@ -8397,7 +8397,7 @@
     {
       "id": "chapter-liji-f9853dd57f353be6",
       "number": 19,
-      "title": "丧大记",
+      "title": "丧大记上",
       "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
       "kind": "chapter",
       "paragraphs": [
@@ -8654,7 +8654,7 @@
     {
       "id": "chapter-liji-1f4a180a6e573d34",
       "number": 20,
-      "title": "丧服大记",
+      "title": "丧大记下",
       "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
       "kind": "chapter",
       "paragraphs": [

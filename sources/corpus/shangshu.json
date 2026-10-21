@@ -26,7 +26,7 @@
     "url": "https://github.com/gujilab/chinese-classical-corpus/blob/09a6873e46760f20027e20bf48814f5c5cc05d66/LICENSE",
     "attribution": "gujilab"
   },
-  "normalizedSha256": "5ce5cc63b1d770e61a406840aba72f330d14ada68d0b783b0032c2deca514960",
+  "normalizedSha256": "f233e098865b3dedf1235d9ea5f93259d79968f17e26f57d836dbcf05c8f6648",
   "stats": {
     "chapters": 57,
     "paragraphs": 460,
@@ -64,7 +64,276 @@
         "number": 4,
         "title": "虞书 皋陶谟第四",
         "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/shangshu.json",
-        "kind": "chapter"
+        "kind": "chapter",
+        "removed": [
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0002",
+            "version": "sha256:f172dab1c733444dce2b665941a1ee14e288262459906518141a8577bcb58f4d",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0003",
+            "version": "sha256:3b4cd4f4b5c3746f32a88a9babbc0c01d2f5acf8c001f74eab26bbcea509f5e8",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0004",
+            "version": "sha256:4e1bea4f7109690bc0bee4851850817ceaaef011b291aa305c113d96fdc5af4d",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0005",
+            "version": "sha256:7156a0b65a1888b1fdeb9a0b0c67a08b213c5ebb94a0706ffd9ecf22f61d68af",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0006",
+            "version": "sha256:9222d6003cabfaa68f4e630997a42ea774dcc1eeaa8052501a25271289b8bab6",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0007",
+            "version": "sha256:a45352069ca7665504cc666e5d4c2e922f79ca5424da9afc7245f148be35db00",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0008",
+            "version": "sha256:2899c63733c8f456fbe69d4c3cca33b2ec7781d3af5c6ede1282990c67e82dcd",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0009",
+            "version": "sha256:2b916f1dfb9b3bbe073cebf1cf8f24172d58856af060ec06b5c44fb621532e12",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0010",
+            "version": "sha256:1c15bed2e181cc7b1b2e47ed9909a0a6e11e04d4c06127b90b7590904ce5ab01",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0011",
+            "version": "sha256:5d07c74adcd005821406bb81c3acea44eabb51663c88cd355ccb3c10a94568f1",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0012",
+            "version": "sha256:b8d25aa5c7f53d9d40c8a8b95ec93280d7ac75f80e69327cc4d7bdf4964d69b6",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0013",
+            "version": "sha256:b25dec7386f5def4f510e326069d5ae53d3a3417fa0fb80508f4982daacacab7",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0014",
+            "version": "sha256:4c1359f207d402fea34a7e80aa384023a07dcceec9d09434a340eb35ae658464",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0015",
+            "version": "sha256:a224800f2a37e59a8dcb5c34e30ebcc645e49c0ae59b81be174614ccaf6aa10b",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0016",
+            "version": "sha256:e85772eb2d7e273e22c10cd321758153561bd466c8c3c751038ef3fd0f7a817d",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0017",
+            "version": "sha256:da704f49568016b8a518c4309760217fd253cfa396cf03dfc09e5b718b77018a",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0018",
+            "version": "sha256:6267c67b6a1750b6d8b140cd1b99081dd8a3a6d17d0c5c22c7eb9ad563c9f769",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0019",
+            "version": "sha256:0a0cde0db203ffe7c60895864ee0fefca8ad09fee8e00ced49fe74330d7fecb2",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0020",
+            "version": "sha256:5638fe9050df59a5c140aea41bd37729e0d0b6465ecddf3b143071cdfeab281e",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0021",
+            "version": "sha256:0d6fb62b67c8e9985b261b61931ffe58fd95a0c57c347f79a654454dfdd79562",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0022",
+            "version": "sha256:92565fe1f2dbf7db0f4f0f92743e93d1068625d324b3764ec1809124370e3f87",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0023",
+            "version": "sha256:3e36d46f84d80653943c0454e59a8955fb7f35239ecee6c807daf3e71f86ea13",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0024",
+            "version": "sha256:f102d037babe5c000c117569a13900e943bba3341f60743e8abe11fe54d9d274",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0025",
+            "version": "sha256:2e8db1ab17308762239b0cee906570e2b293807973e87e9dfc855b8f3e65afef",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0026",
+            "version": "sha256:cca681c5661e7d0d5d5048b5af1ea6fbd5be0f050d5e6a6e0b20ff319d777a9c",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0027",
+            "version": "sha256:80bd85aec509909c65cfb298fdc703cb996fccaa48b79f1af8bbc1f06cdc09f0",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0028",
+            "version": "sha256:a59322f47fd6fe7d8cddf56636e219eec160232e002d96861f1a18395a3474cf",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0029",
+            "version": "sha256:d452514889b98a3eadff79c827e710d13e456f482e8917a313d73f907066197f",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0030",
+            "version": "sha256:6d2b34e6856e8c747a19ad6aa3d2e47eb452850d3b63eb0f1e2b5cb95ed1bfd6",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0031",
+            "version": "sha256:f81bdd59a04351f380b14a5afe3919275a9ab5b793accf9654abcd4b208cedf3",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0032",
+            "version": "sha256:77e4af6d2063e28d2d1fbfe9d277331e9c07f8df14cb2aa5dfeee93b40e40dad",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0033",
+            "version": "sha256:8dc7212ef797754cdbb5e265bd4f6c96d6166b1af955111f201cbac90fcd709b",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0034",
+            "version": "sha256:65d9335e7645bdffdfd0836fa7f8a970be428f0552afa50797439de43ef63e59",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0035",
+            "version": "sha256:faa4405e69e97b5855e15d225dfbf0046dd28866ff5fe25a4294c46f5ed6060f",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0036",
+            "version": "sha256:efb34ebb1a21a94df789cd8be56091fba44cedad16c40da90227bb99acdd5991",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0037",
+            "version": "sha256:b06a108756b729d6c82b4a16d585b3bd8e8cffd0ff5f594f2c48781b6b9a45e9",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0038",
+            "version": "sha256:8d35b5e546de69d2a8af7086d205d07094d56af27a69344d830a59c40f504696",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0039",
+            "version": "sha256:0723aae766034205e78720b631ff4934145613f62e999d1b5b1f1fb903740ce5",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0040",
+            "version": "sha256:d81378b3bfb4c630beb574765f44a131a86784f96a5f97616f14ed6989a2f737",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0041",
+            "version": "sha256:10a8cfb1811937f5a323e2a1136db58aa272b99c455a698b1d6fdfcefbff16ca",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0042",
+            "version": "sha256:34e5e45f9b8d99759cb77cad21f13fb5909417191e15353388501137ca34267b",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0043",
+            "version": "sha256:afd85e75a527cf4d41123e61d6bb10a03b02f3226bd571ff590a77f5f34e2318",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0044",
+            "version": "sha256:b80721de470dae1d9bc0e0c65c0fa16108165dc01d1ae525452e5e5bce3e4249",
+            "aliases": []
+          },
+          {
+            "id": "p-shangshu-ae43f56be9cec579-0045",
+            "version": "sha256:b3f76a6c2b8fe27ec2d392b5639918173067f12b26be2cf1543fd2974ee2c14f",
+            "aliases": []
+          }
+        ],
+        "order": [
+          "p-shangshu-ae43f56be9cec579-0001",
+          "p-shangshu-ae43f56be9cec579-0002",
+          "p-shangshu-ae43f56be9cec579-0003",
+          "p-shangshu-ae43f56be9cec579-0004",
+          "p-shangshu-ae43f56be9cec579-0005",
+          "p-shangshu-ae43f56be9cec579-0006",
+          "p-shangshu-ae43f56be9cec579-0007",
+          "p-shangshu-ae43f56be9cec579-0008",
+          "p-shangshu-ae43f56be9cec579-0009",
+          "p-shangshu-ae43f56be9cec579-0010",
+          "p-shangshu-ae43f56be9cec579-0011",
+          "p-shangshu-ae43f56be9cec579-0012",
+          "p-shangshu-ae43f56be9cec579-0013",
+          "p-shangshu-ae43f56be9cec579-0014",
+          "p-shangshu-ae43f56be9cec579-0015",
+          "p-shangshu-ae43f56be9cec579-0016",
+          "p-shangshu-ae43f56be9cec579-0017",
+          "p-shangshu-ae43f56be9cec579-0018",
+          "p-shangshu-ae43f56be9cec579-0019",
+          "p-shangshu-ae43f56be9cec579-0020",
+          "p-shangshu-ae43f56be9cec579-0021",
+          "p-shangshu-ae43f56be9cec579-0022",
+          "p-shangshu-ae43f56be9cec579-0023",
+          "p-shangshu-ae43f56be9cec579-0024",
+          "p-shangshu-ae43f56be9cec579-0025",
+          "p-shangshu-ae43f56be9cec579-0026",
+          "p-shangshu-ae43f56be9cec579-0027",
+          "p-shangshu-ae43f56be9cec579-0028",
+          "p-shangshu-ae43f56be9cec579-0029",
+          "p-shangshu-ae43f56be9cec579-0030",
+          "p-shangshu-ae43f56be9cec579-0031",
+          "p-shangshu-ae43f56be9cec579-0032",
+          "p-shangshu-ae43f56be9cec579-0033",
+          "p-shangshu-ae43f56be9cec579-0034",
+          "p-shangshu-ae43f56be9cec579-0035",
+          "p-shangshu-ae43f56be9cec579-0036",
+          "p-shangshu-ae43f56be9cec579-0037",
+          "p-shangshu-ae43f56be9cec579-0038",
+          "p-shangshu-ae43f56be9cec579-0039",
+          "p-shangshu-ae43f56be9cec579-0040",
+          "p-shangshu-ae43f56be9cec579-0041",
+          "p-shangshu-ae43f56be9cec579-0042",
+          "p-shangshu-ae43f56be9cec579-0043",
+          "p-shangshu-ae43f56be9cec579-0044",
+          "p-shangshu-ae43f56be9cec579-0045"
+        ]
       },
       {
         "id": "chapter-shangshu-b75dab78ac624147",

@@ -585,6 +585,69 @@
         "chapter-shangshu-23be800f8c5f6d34"
       ],
       "reason": "The source appends chapters out of the traditional reading order."
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-shangshu-ae43f56be9cec579",
+      "paragraphs": [
+        "p-shangshu-ae43f56be9cec579-0002",
+        "p-shangshu-ae43f56be9cec579-0003",
+        "p-shangshu-ae43f56be9cec579-0004",
+        "p-shangshu-ae43f56be9cec579-0005",
+        "p-shangshu-ae43f56be9cec579-0006",
+        "p-shangshu-ae43f56be9cec579-0007",
+        "p-shangshu-ae43f56be9cec579-0008",
+        "p-shangshu-ae43f56be9cec579-0009",
+        "p-shangshu-ae43f56be9cec579-0010",
+        "p-shangshu-ae43f56be9cec579-0011",
+        "p-shangshu-ae43f56be9cec579-0012",
+        "p-shangshu-ae43f56be9cec579-0013",
+        "p-shangshu-ae43f56be9cec579-0014",
+        "p-shangshu-ae43f56be9cec579-0015",
+        "p-shangshu-ae43f56be9cec579-0016",
+        "p-shangshu-ae43f56be9cec579-0017",
+        "p-shangshu-ae43f56be9cec579-0018",
+        "p-shangshu-ae43f56be9cec579-0019",
+        "p-shangshu-ae43f56be9cec579-0020",
+        "p-shangshu-ae43f56be9cec579-0021",
+        "p-shangshu-ae43f56be9cec579-0022",
+        "p-shangshu-ae43f56be9cec579-0023",
+        "p-shangshu-ae43f56be9cec579-0024",
+        "p-shangshu-ae43f56be9cec579-0025",
+        "p-shangshu-ae43f56be9cec579-0026",
+        "p-shangshu-ae43f56be9cec579-0027",
+        "p-shangshu-ae43f56be9cec579-0028",
+        "p-shangshu-ae43f56be9cec579-0029",
+        "p-shangshu-ae43f56be9cec579-0030",
+        "p-shangshu-ae43f56be9cec579-0031",
+        "p-shangshu-ae43f56be9cec579-0032",
+        "p-shangshu-ae43f56be9cec579-0033",
+        "p-shangshu-ae43f56be9cec579-0034",
+        "p-shangshu-ae43f56be9cec579-0035",
+        "p-shangshu-ae43f56be9cec579-0036",
+        "p-shangshu-ae43f56be9cec579-0037",
+        "p-shangshu-ae43f56be9cec579-0038",
+        "p-shangshu-ae43f56be9cec579-0039",
+        "p-shangshu-ae43f56be9cec579-0040",
+        "p-shangshu-ae43f56be9cec579-0041",
+        "p-shangshu-ae43f56be9cec579-0042",
+        "p-shangshu-ae43f56be9cec579-0043",
+        "p-shangshu-ae43f56be9cec579-0044",
+        "p-shangshu-ae43f56be9cec579-0045"
+      ],
+      "reason": "《皋陶谟》一章在本篇正文（0001，止于“予未有知，思曰赞赞襄哉”）之后，又收了《益稷》全文（0002–0010）和《禹贡》全文（0011–0045）。这两篇后面各有专章（第5章《益稷》、第6章《禹贡》），这里是重复。"
+    },
+    {
+      "op": "title",
+      "chapter": "chapter-shangshu-fd319a202fb431da",
+      "title": "夏书 五子之歌第三 胤征第四",
+      "reason": "本章从“羲和湎淫，废时乱日，胤往征之，作《胤征》”起是《胤征》的书序和正文，底本没有另立一章；为不改变后面各篇的页号，在章题里写出两篇。"
+    },
+    {
+      "op": "title",
+      "chapter": "chapter-shangshu-97ede396cee74fff",
+      "title": "周书 金縢第八",
+      "reason": "篇名是《金縢》（縢，缄封的绳索；金縢之匮即以金缄封的匮），“滕”是形近误字。维基文库《尚書/金縢》（修订号 10641677）。章内 0001 书序“周公作《金滕》”以及 0006、0008 正文的同一错字已写进订正清单。"
     }
   ],
   "zhouyi": [
@@ -662,6 +725,53 @@
         "chapter-zhouyi-4d91c5b295141f14"
       ],
       "reason": "The source appends chapters out of the traditional reading order."
+    },
+    {
+      "op": "relocate",
+      "chapter": "chapter-zhouyi-dc691e41b900ac79",
+      "from": "chapter-zhouyi-3e8b1876ad596858",
+      "paragraphs": [
+        "p-zhouyi-3e8b1876ad596858-0029",
+        "p-zhouyi-3e8b1876ad596858-0030",
+        "p-zhouyi-3e8b1876ad596858-0031",
+        "p-zhouyi-3e8b1876ad596858-0032",
+        "p-zhouyi-3e8b1876ad596858-0033",
+        "p-zhouyi-3e8b1876ad596858-0034",
+        "p-zhouyi-3e8b1876ad596858-0035",
+        "p-zhouyi-3e8b1876ad596858-0036",
+        "p-zhouyi-3e8b1876ad596858-0037",
+        "p-zhouyi-3e8b1876ad596858-0038",
+        "p-zhouyi-3e8b1876ad596858-0039",
+        "p-zhouyi-3e8b1876ad596858-0040",
+        "p-zhouyi-3e8b1876ad596858-0041",
+        "p-zhouyi-3e8b1876ad596858-0042",
+        "p-zhouyi-3e8b1876ad596858-0043",
+        "p-zhouyi-3e8b1876ad596858-0044",
+        "p-zhouyi-3e8b1876ad596858-0045"
+      ],
+      "reason": "底本把屯卦的卦画、卦辞、《彖》《象》和六爻（体例与其他六十三卦相同）抄在坤卦一章末尾，屯卦一章只有卦辞和六爻爻辞七段；移回屯卦一章。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhouyi-dc691e41b900ac79",
+      "paragraphs": [
+        "p-zhouyi-dc691e41b900ac79-0001",
+        "p-zhouyi-dc691e41b900ac79-0002",
+        "p-zhouyi-dc691e41b900ac79-0003",
+        "p-zhouyi-dc691e41b900ac79-0004",
+        "p-zhouyi-dc691e41b900ac79-0005",
+        "p-zhouyi-dc691e41b900ac79-0006",
+        "p-zhouyi-dc691e41b900ac79-0007"
+      ],
+      "reason": "屯卦一章原有的七段只录卦辞和六爻爻辞，与移入的完整屯卦（含《彖》《象》）重复。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhouyi-3e8b1876ad596858",
+      "paragraphs": [
+        "p-zhouyi-3e8b1876ad596858-0028"
+      ],
+      "reason": "坤卦一章末尾残留的屯卦标题“03．屯（卦三）”，屯卦正文已移回本卦一章。"
     }
   ],
   "zhengmeng": [
@@ -1765,6 +1875,109 @@
         }
       ],
       "reason": "The pinned source merges separately headed chapters into one unit."
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-chuci-7154b36cff8a742a-70",
+      "after": "p-chuci-7154b36cff8a742a-0293",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2405933",
+      "paragraphs": [
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0001",
+          "text": "九歌 湘夫人"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0002",
+          "text": "作者：屈原"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0003",
+          "text": "帝子降兮北渚，目眇眇兮愁予。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0004",
+          "text": "袅袅兮秋风，洞庭波兮木叶下。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0005",
+          "text": "登白薠兮骋望，与佳期兮夕张。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0006",
+          "text": "鸟何萃兮蘋中，罾何为兮木上。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0007",
+          "text": "沅有芷兮澧有兰，思公子兮未敢言。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0008",
+          "text": "荒忽兮远望，观流水兮潺湲。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0009",
+          "text": "麋何食兮庭中？蛟何为兮水裔？"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0010",
+          "text": "朝驰余马兮江皋，夕济兮西澨。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0011",
+          "text": "闻佳人兮召予，将腾驾兮偕逝。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0012",
+          "text": "筑室兮水中，葺之兮荷盖。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0013",
+          "text": "荪壁兮紫坛，播芳椒兮成堂。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0014",
+          "text": "桂栋兮兰橑，辛夷楣兮葯房。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0015",
+          "text": "罔薜荔兮为帷，擗蕙櫋兮既张。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0016",
+          "text": "白玉兮为镇，疏石兰兮为芳。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0017",
+          "text": "芷葺兮荷屋，缭之兮杜衡。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0018",
+          "text": "合百草兮实庭，建芳馨兮庑门。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0019",
+          "text": "九嶷缤兮并迎，灵之来兮如云。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0020",
+          "text": "捐余袂兮江中，遗余褋兮澧浦。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0021",
+          "text": "搴汀洲兮杜若，将以遗兮远者。"
+        },
+        {
+          "id": "p-chuci-7154b36cff8a742a-a0022",
+          "text": "时不可兮骤得，聊逍遥兮容与。"
+        }
+      ],
+      "reason": "本书《九歌》缺《湘夫人》全文：第 67–130 章是正文，《湘君》（chapter-…-70，止于 0293“时不可兮再得，聊逍遥兮容与。”）之后直接是《大司命》（chapter-…-71），而前面目录式空壳章里有“九歌 湘夫人”（chapter-…-06），可见底本漏抄这一篇。按维基文库《九歌》（楚辞卷第二，页面“楚辭/九歌”重定向至“九歌”，修订号 2405933）“湘夫人”一节逐句抄录，分段照该页 <poem> 一句一行，与本书《湘君》一联一段的分法相同；开头两段仿本书各篇体例加“九歌 湘夫人”“作者：屈原”。字形换成本书的简体：嫋嫋→袅袅等按 opencc 转换；“蘋”本书保留繁体（《九叹》“菉蘋齐叶兮”），不作“苹”；“葯房”的“葯”指白芷，不转“药”；“江臯”依本书作“江皋”；维基文库两处“醴”（“醴有兰”“醴浦”）依本书《湘君》“遗余佩兮澧浦”作“澧”（维基文库《湘君》此处也作“醴”，本书作“澧”，同一地名取本书字形）。注意：照此写法《湘夫人》并入第 70 章，网站第 4 部分（《湘君》）会连带显示《湘夫人》，页号不变；若改为在第 70、71 章之间另立一章，网站第 5–64 部分的页号都会后移一位，需主 agent 权衡。"
+    },
+    {
+      "op": "title",
+      "chapter": "chapter-chuci-7154b36cff8a742a-70",
+      "title": "九歌 湘君 湘夫人",
+      "reason": "本章之后补入了底本漏抄的《湘夫人》；为不改变后面各篇的页号，并在《湘君》一章，章题写出两篇。"
     }
   ],
   "shuihuzhuan": [
@@ -2254,6 +2467,22 @@
         }
       ],
       "reason": "The pinned source merges separately headed chapters into one unit."
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-shuihuzhuan-013d1ca7547c61a2-10",
+      "paragraphs": [
+        "p-shuihuzhuan-013d1ca7547c61a2-0366"
+      ],
+      "reason": "第九回末段“w w w . 2 1 c o m i n g . c o m”是转录来源网站的水印，不是小说文字。整段都是杂物，撤下。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-shuihuzhuan-013d1ca7547c61a2-51",
+      "paragraphs": [
+        "p-shuihuzhuan-013d1ca7547c61a2-1904"
+      ],
+      "reason": "第五十回末与第五十一回开头重复：第五十回 1904 段（“次日又作席面会请众头领作主张。宋江唤王矮虎来说道……当日尽皆筵席，饮酒庆贺。”，宋江把扈三娘许配王英一场）与第五十一回 1919 段后半（“次日，又作席面，会请众头领作主张……当日尽皆筵宴，饮酒庆贺。”）几乎逐句相同。建议撤第五十回这一边的 1904。"
     }
   ],
   "wangbilaozizhu": [
@@ -2705,6 +2934,45 @@
       ],
       "after": "p-sishuzhangjujizhu-f1127be978829932-0067",
       "reason": "告子上“富岁子弟多赖”章：底本把“口之于味，有同耆也”“惟耳亦然”“惟目亦然”三节及集注排在章首之前；《孟子》原文和集注通行本都在“故龙子曰”一节之后、“故曰：口之于味也”之前。"
+    }
+  ],
+  "zuozhuan": [
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zuozhuan-267bffd97178959d",
+      "paragraphs": [
+        "p-zuozhuan-267bffd97178959d-0001"
+      ],
+      "reason": "哀公卷第一段整段只有“回目录”三字，是来源网页的导航链接残留，不是正文。"
+    }
+  ],
+  "liji": [
+    {
+      "op": "title",
+      "chapter": "chapter-liji-1f4a180a6e573d34",
+      "title": "丧大记下",
+      "reason": "第二十章题作“丧服大记”，但内容是《丧大记》的后半：从“大敛布绞，缩者三，横者五”接第十九章末段“小敛布绞……绞紟不在列”，直到篇末“君里椁虞筐，大夫不里椁，士不虞筐”。《礼记》没有《丧服大记》这一篇（相近的只有《丧服小记》《丧服四制》）。这个标题来自上游 gujilab chinese-classical-corpus 的 output/wujing/liji.json（本 Corpus 的 sources/corpus/liji.json 记录的来源），导入时原样保留。两章的分界正是《禮記正義》卷四十四与卷四十五的分界（维基文库《禮記正義/45》，修订号 2256742，卷首“大斂：布絞，縮者三，橫者五”，卷题“喪大記第二十二”）；维基文库《禮記/喪大記》（修订号 11117423）是一整篇，含这两部分。建议题作“丧大记下”。"
+    },
+    {
+      "op": "title",
+      "chapter": "chapter-liji-f9853dd57f353be6",
+      "title": "丧大记上",
+      "reason": "与上一条配套（可选）：第二十章改题“丧大记下”后，第十九章“丧大记”宜相应题作“丧大记上”，两章合起来是《丧大记》全篇。若主 agent 想只改错题，也可只改第二十章。注意本书《曲礼》《檀弓》《杂记》都是上下合为一章，若日后要统一体例，应把这两章合并，但合并会改变页号。"
+    }
+  ],
+  "gongyang": [
+    {
+      "op": "insert",
+      "chapter": "chapter-gongyang-d6e80365de003c5a",
+      "after": "p-gongyang-d6e80365de003c5a-0029",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2454699",
+      "paragraphs": [
+        {
+          "id": "p-gongyang-d6e80365de003c5a-a0001",
+          "text": "（经二九）郑人伐卫。"
+        }
+      ],
+      "reason": "隐二年经“郑人伐卫”被并进了上一条经“夫人子氏薨”之后、其传之前（已从那一段删去）；公羊传经下接传，这是另一条经，底本的经文编号也从“经二八”跳到“经三一”。维基文库《春秋公羊傳/隱公》（修订号 2454699）与《春秋公羊傳註疏/卷02》都在“夫人子氏”的传之后单列“鄭人伐衛”。"
     }
   ]
 }
