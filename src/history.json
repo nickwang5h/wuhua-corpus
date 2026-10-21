@@ -40837,6 +40837,34 @@
       "text": "太祖收诸镇节度兵权，置诸州指挥使，大州十数员，次州六七员，又次州三四员，每员管兵四五百人。本州岛自置营招兵，而军员管之。每遇迁升，则密院出宣付之。用纸一大幅，题其上曰「宣付指挥使某」，却不押号，而以御前大宝印之。军员得此极重，有一人而得数宣者，盖营中亦有数等品级迁转也。指挥有厅，有射场，只在营中升降，不得出官。",
       "title": "朱子语类卷第一百二十八",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt"
+    },
+    {
+      "id": "p-zhuziyulei-ae4c01bae1e4d07b-0073",
+      "version": "sha256:1ac8629ad8f26a137ced1fb2dd521bcdf8e7e7a2f6d1513edd0d80231aa01233",
+      "text": "读诗便长人一格。如今人读诗，何缘会长一格？诗之兴，最不紧要。然兴起人意处，正在兴。会得诗人之兴，便有一格长。「丰水有虬，武王岂不仕！」盖曰，丰水且有虬，武王岂不有事乎！此亦兴之一体，不必更注解。如龟山说关雎处意亦好，然终是说死了，如此便诗眼不活。",
+      "title": "朱子语类卷第八十",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt"
+    },
+    {
+      "id": "p-zhuziyulei-c32c080155aa8663-0021",
+      "version": "sha256:2830c137c56d3b8b4c7595351dc6c0c7a9b4eb5e32b95e5ae512f2b994a8da2d",
+      "text": "王鸠，尝见淮上人说，淮上有之，状如此间之鸠，差小而长，常是雌雄二个不相失。虽然二个不相失，亦不曾相近而立处，须是隔丈来地，所谓「挚而有别」也。「人未尝见其匹居而乘处。」乘处，谓四个同处也。只是二个相随，既不失其偶，又未尝近而相狎，所以为贵也。余正甫云：「『宵行』，自是夜光之虫，夜行于地。『熠耀』，言其光耳，非萤也。虬，今之苦荬。」",
+      "title": "朱子语类卷第八十一",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt"
+    },
+    {
+      "id": "p-zhuziyulei-c32c080155aa8663-0165",
+      "version": "sha256:6b963ac46a5235c66438caa367d5c27c533cbf855d54d324b3a2d11828b9db2e",
+      "text": "采虬",
+      "title": "朱子语类卷第八十一",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt"
+    },
+    {
+      "id": "p-zhuziyulei-c32c080155aa8663-0166",
+      "version": "sha256:62ea1821399739543cc1abf812b5e8a78add6755f56f0f59aa25ad669a448235",
+      "text": "时举说采虬诗。曰：「宣王南征蛮荆，想不甚费力，不曾大段战斗，故只极称其军容之盛而已。」",
+      "title": "朱子语类卷第八十一",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%84%92%E8%97%8F/%E8%AF%AD%E5%BD%95/%E6%9C%B1%E5%AD%90%E8%AF%AD%E7%B1%BB.txt"
     }
   ],
   "transitions": [
@@ -121763,6 +121791,62 @@
         {
           "id": "p-zhuziyulei-b68c093beb62ef87-0051",
           "version": "sha256:0e2d9a65eefb4d816687e27492fda38587ea62765f4d93043b7b956288f07b19"
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "p-zhuziyulei-ae4c01bae1e4d07b-0073",
+        "version": "sha256:1ac8629ad8f26a137ced1fb2dd521bcdf8e7e7a2f6d1513edd0d80231aa01233"
+      },
+      "kind": "revision",
+      "reason": "“芑”（《诗·小雅·采芑》“薄言采芑”，《大雅·文王有声》“丰水有芑”；芑即苦荬菜）被录成了“虬”，形近而误。",
+      "targets": [
+        {
+          "id": "p-zhuziyulei-ae4c01bae1e4d07b-0073",
+          "version": "sha256:da7a38d4b59974de6a9142928ef77b837df9f88108012c30aad736d29d0e5304"
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "p-zhuziyulei-c32c080155aa8663-0021",
+        "version": "sha256:2830c137c56d3b8b4c7595351dc6c0c7a9b4eb5e32b95e5ae512f2b994a8da2d"
+      },
+      "kind": "revision",
+      "reason": "“芑”（《诗·小雅·采芑》“薄言采芑”，《大雅·文王有声》“丰水有芑”；芑即苦荬菜）被录成了“虬”，形近而误。",
+      "targets": [
+        {
+          "id": "p-zhuziyulei-c32c080155aa8663-0021",
+          "version": "sha256:89ff4efc12bddfb537b952d3107bb54d24e13063fee0871add25676f3dc2a311"
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "p-zhuziyulei-c32c080155aa8663-0165",
+        "version": "sha256:6b963ac46a5235c66438caa367d5c27c533cbf855d54d324b3a2d11828b9db2e"
+      },
+      "kind": "revision",
+      "reason": "“芑”（《诗·小雅·采芑》“薄言采芑”，《大雅·文王有声》“丰水有芑”；芑即苦荬菜）被录成了“虬”，形近而误。",
+      "targets": [
+        {
+          "id": "p-zhuziyulei-c32c080155aa8663-0165",
+          "version": "sha256:c70230e99853e65d01a5b2c0451fe4a3a9575ecb63de8ba623793f989d754a85"
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "p-zhuziyulei-c32c080155aa8663-0166",
+        "version": "sha256:62ea1821399739543cc1abf812b5e8a78add6755f56f0f59aa25ad669a448235"
+      },
+      "kind": "revision",
+      "reason": "“芑”（《诗·小雅·采芑》“薄言采芑”，《大雅·文王有声》“丰水有芑”；芑即苦荬菜）被录成了“虬”，形近而误。",
+      "targets": [
+        {
+          "id": "p-zhuziyulei-c32c080155aa8663-0166",
+          "version": "sha256:3b6a58e5f9b229391c1669da7ac622600b8b655e4ad2ef3a72a4a6f8387b90c5"
         }
       ]
     }
