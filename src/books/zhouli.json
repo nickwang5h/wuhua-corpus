@@ -125,9 +125,20 @@
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0019",
-          "version": "sha256:07c145cbc83a71c5b52672488dea3c30179ec9d28cf3027c34c6da8bcf10884f",
-          "text": "人，中士二人，下士四人，府二人，史四人，胥三十人，徒三百人。",
-          "aliases": []
+          "version": "sha256:2085137422a7690685241c3749616ee11bfc0d9f2f09ef76e1cfa9eaecc27291",
+          "text": "䱷人，中士二人，下士四人，府二人，史四人，胥三十人，徒三百人。",
+          "aliases": [],
+          "sourceText": "人，中士二人，下士四人，府二人，史四人，胥三十人，徒三百人。",
+          "correction": {
+            "reason": "䱷人：底本此字是私用區亂碼，網頁上顯示不出。序官此職即漁人，本書職文（天官下）作“䱷人”，维基文库《周禮》作“漁人”；按本書字形改作“䱷”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2085137422a7690685241c3749616ee11bfc0d9f2f09ef76e1cfa9eaecc27291"
+            }
+          }
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0020",
@@ -179,9 +190,20 @@
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0028",
-          "version": "sha256:89e0b45f68f07e9ab3a37de954bbd01068accf0ea464eb1b874045cafa625ab0",
-          "text": "酒人，奄十人，女三十人，奚三百人。",
-          "aliases": []
+          "version": "sha256:a80b7b32a0ff284235b1565ca19d4506e741b88d8309e93a62fc8d85d7f8b018",
+          "text": "酒人，奄十人，女酒三十人，奚三百人。",
+          "aliases": [],
+          "sourceText": "酒人，奄十人，女三十人，奚三百人。",
+          "correction": {
+            "reason": "女酒三十人：底本脫“酒”字。维基文库《周禮》序官作“酒人，奄十人，女酒三十人，奚三百人”；下文“漿人，奄五人，女漿十有五人”“籩人……女籩十人”同例。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a80b7b32a0ff284235b1565ca19d4506e741b88d8309e93a62fc8d85d7f8b018"
+            }
+          }
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0029",
@@ -557,9 +579,20 @@
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0091",
-          "version": "sha256:47467ca3951603e8ef64e71f729a83ec22f9d80fa9253f5f9af0c86a51343d43",
-          "text": "享先王亦如之，贊玉凡、玉爵。",
-          "aliases": []
+          "version": "sha256:973a6878d183f1a4d724411175d061602eae55d40950fab9a602ef786e0b48ee",
+          "text": "享先王亦如之，贊玉几、玉爵。",
+          "aliases": [],
+          "sourceText": "享先王亦如之，贊玉凡、玉爵。",
+          "correction": {
+            "reason": "贊玉几、玉爵：底本“几”误作“凡”。大宰職文作“享先王亦如之，贊玉几、玉爵”；本書下段（小宰前）即作“玉几、玉爵”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:973a6878d183f1a4d724411175d061602eae55d40950fab9a602ef786e0b48ee"
+            }
+          }
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0092",
@@ -677,9 +710,20 @@
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0111",
-          "version": "sha256:9a519d99c33cfc000212cd946d3130db5ffeffe5f3f7792ee2a52c80d8b0e8f3",
-          "text": "凡祭祀，贊王幣爵之事，祼將之事。",
-          "aliases": []
+          "version": "sha256:bbe27a70122fbfca027c3228d7c856d0d7beefd11d984ee4e70bdeca4739583f",
+          "text": "凡祭祀，贊玉幣爵之事，祼將之事。",
+          "aliases": [],
+          "sourceText": "凡祭祀，贊王幣爵之事，祼將之事。",
+          "correction": {
+            "reason": "贊玉幣爵之事：底本“玉”误作“王”。维基文库《周禮》小宰作“凡祭祀，贊玉幣爵之事、祼將之事”；本書大宰職文作“贊玉幣爵之事”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:bbe27a70122fbfca027c3228d7c856d0d7beefd11d984ee4e70bdeca4739583f"
+            }
+          }
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0112",
@@ -1217,9 +1261,20 @@
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0201",
-          "version": "sha256:aa0c296efa518166137b711fd2ad3e21a2f5aa1e1598f3f4e8635c971e99e246",
-          "text": "皮毛、筋骨入于玉府。",
-          "aliases": []
+          "version": "sha256:ed8c24ba7079e628aa48f05b9a95840c275eca6946b35a605cb2b24efa560879",
+          "text": "皮毛、筋角入于玉府。",
+          "aliases": [],
+          "sourceText": "皮毛、筋骨入于玉府。",
+          "correction": {
+            "reason": "皮毛、筋角入于玉府：底本“角”误作“骨”。维基文库《周禮》獸人作“皮毛筋角入于玉府”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ed8c24ba7079e628aa48f05b9a95840c275eca6946b35a605cb2b24efa560879"
+            }
+          }
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0202",
@@ -1265,9 +1320,20 @@
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0209",
-          "version": "sha256:ec9d8ec11dbc37f8a2c45ccf1d19747e3ae5810c895cff4b6f0707ce45a83693",
-          "text": "祭祀，共、蠯、蠃、蚳，以授醢人，",
-          "aliases": []
+          "version": "sha256:d6959a3602137101e233fb687479a099333e25f44d5dc0595ee013ec2bd72840",
+          "text": "祭祀，共蠯、蠃、蚳，以授醢人，",
+          "aliases": [],
+          "sourceText": "祭祀，共、蠯、蠃、蚳，以授醢人，",
+          "correction": {
+            "reason": "共蠯、蠃、蚳：底本“共”後多一頓號，把動詞與所共之物斷開。鼈人職文作“祭祀，共蠯、蠃、蚳，以授醢人”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d6959a3602137101e233fb687479a099333e25f44d5dc0595ee013ec2bd72840"
+            }
+          }
         },
         {
           "id": "p-zhouli-93271cb32d4b5eb0-0210",
@@ -1922,9 +1988,20 @@
         },
         {
           "id": "p-zhouli-0e198a2b6bdf82fe-0104",
-          "version": "sha256:2ae7b3cc1f410a4bfadf424b297f3ac731b1f836b992294ae7b8a301cf5edf27",
-          "text": "凡喪，王則張帟，王重，諸侯再重，孤卿大夫不重。",
-          "aliases": []
+          "version": "sha256:b7bd8a17aa8fcbd5947338d5fea5dd23a9f551afb77a2bf82d19f3c373aa7846",
+          "text": "凡喪，王則張帟，三重，諸侯再重，孤卿大夫不重。",
+          "aliases": [],
+          "sourceText": "凡喪，王則張帟，王重，諸侯再重，孤卿大夫不重。",
+          "correction": {
+            "reason": "王則張帟三重：底本“三”误作“王”。掌次職文作“凡喪，王則張帟三重，諸侯再重，孤卿大夫不重”，與下文“諸侯再重”遞減。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b7bd8a17aa8fcbd5947338d5fea5dd23a9f551afb77a2bf82d19f3c373aa7846"
+            }
+          }
         },
         {
           "id": "p-zhouli-0e198a2b6bdf82fe-0105",
@@ -3791,9 +3868,20 @@
         },
         {
           "id": "p-zhouli-4af474cc58873b67-0166",
-          "version": "sha256:dd46ba80b2369682055dd06232392f76556293c932d1700531d998eb6ebf0f26",
-          "text": "以歲時各數其閭之衆寡，辨其施含。凡春秋之祭祀、役政、喪紀之數，聚衆庶。旣比，則讀灋，書其敬敏任恤者。",
-          "aliases": []
+          "version": "sha256:798815037a5dd1a3545494f972e99b7bc40a70f28bd8a85437717ae3fc73f64a",
+          "text": "以歲時各數其閭之衆寡，辨其施舍。凡春秋之祭祀、役政、喪紀之數，聚衆庶。旣比，則讀灋，書其敬敏任恤者。",
+          "aliases": [],
+          "sourceText": "以歲時各數其閭之衆寡，辨其施含。凡春秋之祭祀、役政、喪紀之數，聚衆庶。旣比，則讀灋，書其敬敏任恤者。",
+          "correction": {
+            "reason": "辨其施舍：底本“舍”误作“含”。维基文库《周禮》閭胥作“辨其施舍”；本書同篇他處均作“施舍”（如“辨其可任者與其施舍者”）。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:798815037a5dd1a3545494f972e99b7bc40a70f28bd8a85437717ae3fc73f64a"
+            }
+          }
         },
         {
           "id": "p-zhouli-4af474cc58873b67-0167",
@@ -3809,9 +3897,20 @@
         },
         {
           "id": "p-zhouli-4af474cc58873b67-0169",
-          "version": "sha256:04d5e2d055f84c2de9f632a6a0195257777191f67cafd3af040c9b37cdb967ec",
-          "text": "徒于國中及郊，則從而授之。",
-          "aliases": []
+          "version": "sha256:f0637d4470e104f91f7ef3aaceb7b41fa90cfea47aec7280a7072e6866300cd2",
+          "text": "徙于國中及郊，則從而授之。",
+          "aliases": [],
+          "sourceText": "徒于國中及郊，則從而授之。",
+          "correction": {
+            "reason": "徙于國中及郊：底本“徙”误作“徒”。维基文库《周禮》比長作“徙于國中及郊，則從而授之”，下句即“若徙于他”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f0637d4470e104f91f7ef3aaceb7b41fa90cfea47aec7280a7072e6866300cd2"
+            }
+          }
         },
         {
           "id": "p-zhouli-4af474cc58873b67-0170",
@@ -4079,9 +4178,20 @@
         },
         {
           "id": "p-zhouli-4af474cc58873b67-0214",
-          "version": "sha256:27784c32049263d0cf79285efe3dd87ccc3e0282a07d04ac27aceaa2272fd62e",
-          "text": "展牲，則吿牲；",
-          "aliases": []
+          "version": "sha256:150d510a0db70aed3163d29068b39718cf9d1770b688d230f9b6701757530760",
+          "text": "展牲，則吿牷；",
+          "aliases": [],
+          "sourceText": "展牲，則吿牲；",
+          "correction": {
+            "reason": "展牲，則告牷：底本“牷”误作“牲”。充人職文作“展牲，則告牷；碩牲，則贊”，牷指毛色純全。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:150d510a0db70aed3163d29068b39718cf9d1770b688d230f9b6701757530760"
+            }
+          }
         },
         {
           "id": "p-zhouli-4af474cc58873b67-0215",
@@ -4508,9 +4618,20 @@
         },
         {
           "id": "p-zhouli-b1b7027e991ff041-0069",
-          "version": "sha256:021df0c7877524c1426a6162dfee9e6e120066f89a6e72c7db1a69fb95b947c5",
-          "text": "大市，曰𢈈而市，百族爲主；朝市，朝時而市，商賈爲主；夕市，夕時而市，販夫販婦爲主。",
-          "aliases": []
+          "version": "sha256:47e2c50369fda2bb43376129a8e0ae15df529795478f9c533fb38206e155c40f",
+          "text": "大市，日𢈈而市，百族爲主；朝市，朝時而市，商賈爲主；夕市，夕時而市，販夫販婦爲主。",
+          "aliases": [],
+          "sourceText": "大市，曰𢈈而市，百族爲主；朝市，朝時而市，商賈爲主；夕市，夕時而市，販夫販婦爲主。",
+          "correction": {
+            "reason": "大市，日昃而市：底本“日”误作“曰”。维基文库《周禮》司市作“大市，日昃而市”，與下文“朝市，朝時而市”“夕市，夕時而市”對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:47e2c50369fda2bb43376129a8e0ae15df529795478f9c533fb38206e155c40f"
+            }
+          }
         },
         {
           "id": "p-zhouli-b1b7027e991ff041-0070",
@@ -4946,9 +5067,20 @@
         },
         {
           "id": "p-zhouli-b1b7027e991ff041-0142",
-          "version": "sha256:01f4ef54fed4ca6b4b4ffd9ecdb43511c6e70421e94db5586e9c48c64dd8fd26",
-          "text": "大喪，使帥其屬以幄帟先，道野役；及窆抱磨，共丘籠及蜃車之役。”",
-          "aliases": []
+          "version": "sha256:2942c3806051e1bcd5223e168e4cf1c0289b32fb7f1a6d878fd032465dbce08d",
+          "text": "大喪，使帥其屬以幄帟先，道野役；及窆抱磨，共丘籠及蜃車之役。",
+          "aliases": [],
+          "sourceText": "大喪，使帥其屬以幄帟先，道野役；及窆抱磨，共丘籠及蜃車之役。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：遂師這一段前後都沒有左引號，维基文库《周禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2942c3806051e1bcd5223e168e4cf1c0289b32fb7f1a6d878fd032465dbce08d"
+            }
+          }
         },
         {
           "id": "p-zhouli-b1b7027e991ff041-0143",
@@ -5678,9 +5810,20 @@
         },
         {
           "id": "p-zhouli-b1b7027e991ff041-0264",
-          "version": "sha256:2a7125a7c6cc6f9f16d2e4d2bb0dbd62cc27050870827a4779d28ebe478e5a44",
-          "text": "犒人，掌共外內朝穴食者之食。",
-          "aliases": []
+          "version": "sha256:b31f661c4f4ecd7e627b30fcbfb5f9141f7577bbc2d9c5b4a7cd62aed688cb1a",
+          "text": "槀人，掌共外內朝冗食者之食。",
+          "aliases": [],
+          "sourceText": "犒人，掌共外內朝穴食者之食。",
+          "correction": {
+            "reason": "槀人：底本“槀”误作“犒”。序官作“槀人，奄八人”（本書地官上），维基文库《周禮》職文亦作“槁人”。；外內朝冗食者之食：底本“冗”误作形近的“穴”。维基文库《周禮》槀人職文作“掌共外內朝冗食者之食”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b31f661c4f4ecd7e627b30fcbfb5f9141f7577bbc2d9c5b4a7cd62aed688cb1a"
+            }
+          }
         },
         {
           "id": "p-zhouli-b1b7027e991ff041-0265",
@@ -5741,9 +5884,20 @@
         },
         {
           "id": "p-zhouli-85cd6420d86a405c-0007",
-          "version": "sha256:76e26d466c07f7f4fb23b25cb1c591cdf547af7d2fb75507c89bae96a1b9c226",
-          "text": "司凡筵，下士二人，府二人，史一人，徒八人。",
-          "aliases": []
+          "version": "sha256:4c107ccd0c5585db06c7fd4d633ab55da4370a40efb962acaf23400134f375fa",
+          "text": "司几筵，下士二人，府二人，史一人，徒八人。",
+          "aliases": [],
+          "sourceText": "司凡筵，下士二人，府二人，史一人，徒八人。",
+          "correction": {
+            "reason": "司几筵：底本“几”误作“凡”。维基文库《周禮》序官作“司几筵”；本書職文作“司几筵，掌五几五席之名物”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4c107ccd0c5585db06c7fd4d633ab55da4370a40efb962acaf23400134f375fa"
+            }
+          }
         },
         {
           "id": "p-zhouli-85cd6420d86a405c-0008",
@@ -6743,9 +6897,20 @@
         },
         {
           "id": "p-zhouli-85cd6420d86a405c-0174",
-          "version": "sha256:84b0ff3513ffe3a307a0ed7d886eb2335b95d60353063df2e416cbf5aef00a96",
-          "text": "凡師不功，則助牽王車。",
-          "aliases": []
+          "version": "sha256:e3921a99cecaf545dc895975dbd98275d890cfa1b4ffd6329d87bc4f5b58ecad",
+          "text": "凡師不功，則助牽主車。",
+          "aliases": [],
+          "sourceText": "凡師不功，則助牽王車。",
+          "correction": {
+            "reason": "助牽主車：底本“主”误作“王”。小宗伯職文作“凡師不功，則助牽主車”，主車載遷廟之主與社主，上文“立軍社，奉主車”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:e3921a99cecaf545dc895975dbd98275d890cfa1b4ffd6329d87bc4f5b58ecad"
+            }
+          }
         },
         {
           "id": "p-zhouli-85cd6420d86a405c-0175",
@@ -7982,9 +8147,20 @@
         },
         {
           "id": "p-zhouli-4b7cbd5d938b790f-0070",
-          "version": "sha256:ab05e2d7cef4699db3fa6e0f1f4797e6d0fc230ea0d6c1a70902662897c375e2",
-          "text": "大祭祀，登歌，繫拊，",
-          "aliases": []
+          "version": "sha256:ef306fed93d4054e1df18997ef9aeae79f493c605da3f8c69cfdeedf35ae0f58",
+          "text": "大祭祀，登歌，擊拊，",
+          "aliases": [],
+          "sourceText": "大祭祀，登歌，繫拊，",
+          "correction": {
+            "reason": "登歌擊拊：底本“擊”误作“繫”。小師職文作“大祭祀，登歌擊拊”；拊是樂器，當言“擊”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ef306fed93d4054e1df18997ef9aeae79f493c605da3f8c69cfdeedf35ae0f58"
+            }
+          }
         },
         {
           "id": "p-zhouli-4b7cbd5d938b790f-0071",
@@ -8678,9 +8854,20 @@
         },
         {
           "id": "p-zhouli-4b7cbd5d938b790f-0186",
-          "version": "sha256:8fd9ce246fbecb7ffc29c10866ba922c897ce755ee2331a2647a057db172c153",
-          "text": "建邦國，先告后士，用牲幣。",
-          "aliases": []
+          "version": "sha256:20d33e729f0ca3d1f69ed98878b0f32c2eb8ce3d4b421ed02670c45b9a0c70f2",
+          "text": "建邦國，先告后土，用牲幣。",
+          "aliases": [],
+          "sourceText": "建邦國，先告后士，用牲幣。",
+          "correction": {
+            "reason": "先告后土：底本“土”误作“士”。维基文库《周禮》大祝作“建邦國，先告后土，用牲幣”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:20d33e729f0ca3d1f69ed98878b0f32c2eb8ce3d4b421ed02670c45b9a0c70f2"
+            }
+          }
         },
         {
           "id": "p-zhouli-4b7cbd5d938b790f-0187",
@@ -11132,9 +11319,20 @@
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0037",
-          "version": "sha256:eb7fd97609b782b73388d21819e06d5d0d67c8a877d06dfc572f16085e81f85b",
-          "text": "旅賁氏，掌執戈盾，來王車而趨，左八人，右八人，車止則持輪。",
-          "aliases": []
+          "version": "sha256:ce6aea5d898c5d2fec243571e0ab7b203423e2293a9ab94a975e15cc035860bf",
+          "text": "旅賁氏，掌執戈盾，夾王車而趨，左八人，右八人，車止則持輪。",
+          "aliases": [],
+          "sourceText": "旅賁氏，掌執戈盾，來王車而趨，左八人，右八人，車止則持輪。",
+          "correction": {
+            "reason": "夾王車而趨：底本“夾”误作形近的“來”。维基文库《周禮》旅賁氏作“掌執戈盾，夾王車而趨”，下文“左八人，右八人”即夾車之數。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ce6aea5d898c5d2fec243571e0ab7b203423e2293a9ab94a975e15cc035860bf"
+            }
+          }
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0038",
@@ -11762,9 +11960,20 @@
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0142",
-          "version": "sha256:6a47cf7796daff924f40c3ece33b336763ce912b2913a5f313eb0f6f3b062ed4",
-          "text": "犯軷，如王路之儀。凡巡守及兵車之會，亦如之。",
-          "aliases": []
+          "version": "sha256:92f0b8497891b5ed34cbd4df1ee5a6da75371b7aefaa35519a5082b5492dadab",
+          "text": "犯軷，如玉路之儀。凡巡守及兵車之會，亦如之。",
+          "aliases": [],
+          "sourceText": "犯軷，如王路之儀。凡巡守及兵車之會，亦如之。",
+          "correction": {
+            "reason": "如玉路之儀：底本“玉”误作“王”。维基文库《周禮》戎僕作“犯軷，如玉路之儀”；本書大馭職文所馭即“玉路”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:92f0b8497891b5ed34cbd4df1ee5a6da75371b7aefaa35519a5082b5492dadab"
+            }
+          }
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0143",
@@ -12158,9 +12367,20 @@
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0208",
-          "version": "sha256:13ac4a655b77ecb2e55ae6590c4957c31102dd48c2c73a5934ef6decaf7e4a86",
-          "text": "王將巡守，則戒于四方，曰：“各脩平乃守，攻乃職事，無敢不敬戒，國有大刑。”",
-          "aliases": []
+          "version": "sha256:5f7edf4eb92b904cc3ec6c167d6b7917ee52de0d4f58219033c8fe0c0cd1fa28",
+          "text": "王將巡守，則戒于四方，曰：“各脩平乃守，攷乃職事，無敢不敬戒，國有大刑。”",
+          "aliases": [],
+          "sourceText": "王將巡守，則戒于四方，曰：“各脩平乃守，攻乃職事，無敢不敬戒，國有大刑。”",
+          "correction": {
+            "reason": "攷乃職事：底本“攷”误作形近的“攻”。维基文库《周禮》作“各脩平乃守，考乃職事”；本書通篇以“攷”為“考”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5f7edf4eb92b904cc3ec6c167d6b7917ee52de0d4f58219033c8fe0c0cd1fa28"
+            }
+          }
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0209",
@@ -12278,9 +12498,20 @@
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0228",
-          "version": "sha256:9c28b8b7211b191ea935afda1a63e9f485e8b5442396dd5887b6eddc41438960",
-          "text": "使小國事大國，大國比小國。”",
-          "aliases": []
+          "version": "sha256:d30b36c890d25bf4b7592581516af24a77c8507fb1682a7e4e1e5e9a3b0c4379",
+          "text": "使小國事大國，大國比小國。",
+          "aliases": [],
+          "sourceText": "使小國事大國，大國比小國。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：形方氏這一段沒有左引號，维基文库《周禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d30b36c890d25bf4b7592581516af24a77c8507fb1682a7e4e1e5e9a3b0c4379"
+            }
+          }
         },
         {
           "id": "p-zhouli-b05e68b80f41102c-0229",
@@ -12623,9 +12854,20 @@
         },
         {
           "id": "p-zhouli-7c19aed3b6424d3e-0045",
-          "version": "sha256:e45f84fcb85865ae8774e44c809086dbae0cb9a021ea826571039f652a3dd21f",
-          "text": "赤友氏，下士一人，徒二人。",
-          "aliases": []
+          "version": "sha256:964277470cb9697ba8df2c27ef7a0eb2def598f59b34026635964173f698044a",
+          "text": "赤犮氏，下士一人，徒二人。",
+          "aliases": [],
+          "sourceText": "赤友氏，下士一人，徒二人。",
+          "correction": {
+            "reason": "赤犮氏：底本序官“犮”误作“友”。本書職文（秋官下）作“赤犮氏，掌除牆屋”，维基文库《周禮》序官亦作“赤犮氏”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:964277470cb9697ba8df2c27ef7a0eb2def598f59b34026635964173f698044a"
+            }
+          }
         },
         {
           "id": "p-zhouli-7c19aed3b6424d3e-0046",
@@ -12905,9 +13147,20 @@
         },
         {
           "id": "p-zhouli-7c19aed3b6424d3e-0092",
-          "version": "sha256:fb02616a6df5010faff728d46248210b59f5dffb1f9a155f96cf5c28b17999e1",
-          "text": "大祭祀，奉大牲。",
-          "aliases": []
+          "version": "sha256:37034890dd52614a9c1d4f78a942c598cea839c1eee8bf7c38000b290f319a3a",
+          "text": "大祭祀，奉犬牲。",
+          "aliases": [],
+          "sourceText": "大祭祀，奉大牲。",
+          "correction": {
+            "reason": "大祭祀，奉犬牲：底本“犬”误作“大”。维基文库《周禮》小司寇作“大祭祀，奉犬牲”，秋官所奉為犬牲。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:37034890dd52614a9c1d4f78a942c598cea839c1eee8bf7c38000b290f319a3a"
+            }
+          }
         },
         {
           "id": "p-zhouli-7c19aed3b6424d3e-0093",
@@ -13163,9 +13416,20 @@
         },
         {
           "id": "p-zhouli-7c19aed3b6424d3e-0135",
-          "version": "sha256:6c9d1a4afcdaf25497e4de4ebd883ea9901e5c58db68fb2f729cba4c1dc37805",
-          "text": "以五戒先後刑罰，母使罪麗于民：一曰誓，用之于軍旅；二曰誥，用之于會同；三曰禁，用諸田役；四曰糾，用諸國中；五曰憲，用諸都鄙。",
-          "aliases": []
+          "version": "sha256:096993d0ba61b9d2a04b70e634131b2f89c0bda1c2347bf5affa9b8372dfb730",
+          "text": "以五戒先後刑罰，毋使罪麗于民：一曰誓，用之于軍旅；二曰誥，用之于會同；三曰禁，用諸田役；四曰糾，用諸國中；五曰憲，用諸都鄙。",
+          "aliases": [],
+          "sourceText": "以五戒先後刑罰，母使罪麗于民：一曰誓，用之于軍旅；二曰誥，用之于會同；三曰禁，用諸田役；四曰糾，用諸國中；五曰憲，用諸都鄙。",
+          "correction": {
+            "reason": "毋使罪麗于民：底本“毋”误作“母”。维基文库《周禮》士師作“以五戒先後刑罰，毋使罪麗于民”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:096993d0ba61b9d2a04b70e634131b2f89c0bda1c2347bf5affa9b8372dfb730"
+            }
+          }
         },
         {
           "id": "p-zhouli-7c19aed3b6424d3e-0136",
@@ -14210,9 +14474,20 @@
         },
         {
           "id": "p-zhouli-35a6a163aff858ad-0047",
-          "version": "sha256:3cb6a9dfc76b1fbfdc87772a47c5d9d03dfa21caec34a872f795d89cdd24e90f",
-          "text": "夏日至，令刊陽木而火之；冬日至，令剥隂本而水之。",
-          "aliases": []
+          "version": "sha256:c6ab57e3fe83fb5aba936e0b55ef50940d31e565d136b73bc5c19ac1e32c7b8b",
+          "text": "夏日至，令刊陽木而火之；冬日至，令剥隂木而水之。",
+          "aliases": [],
+          "sourceText": "夏日至，令刊陽木而火之；冬日至，令剥隂本而水之。",
+          "correction": {
+            "reason": "令剝陰木而水之：底本“木”误作“本”。维基文库《周禮》柞氏作“冬日至，令剝陰木而水之”，與上句“令刊陽木而火之”對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c6ab57e3fe83fb5aba936e0b55ef50940d31e565d136b73bc5c19ac1e32c7b8b"
+            }
+          }
         },
         {
           "id": "p-zhouli-35a6a163aff858ad-0048",
@@ -14300,9 +14575,20 @@
         },
         {
           "id": "p-zhouli-35a6a163aff858ad-0062",
-          "version": "sha256:40232142060b10877386bbc116b15e9a56a1d90756015480506e433283cb4e08",
-          "text": "若欲殺其神，則以牲橭午貫象齒而沈之，則其神死，淵爲陵。",
-          "aliases": []
+          "version": "sha256:06c7f0088721a73ee4cacd849da91b86e07c925ab507f463d838b8a71cf2a628",
+          "text": "若欲殺其神，則以牡橭午貫象齒而沈之，則其神死，淵爲陵。",
+          "aliases": [],
+          "sourceText": "若欲殺其神，則以牲橭午貫象齒而沈之，則其神死，淵爲陵。",
+          "correction": {
+            "reason": "以牡橭午貫象齒：底本“牡”误作“牲”。维基文库《周禮》壺涿氏作“則以牡橭午貫象齒而沈之”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:06c7f0088721a73ee4cacd849da91b86e07c925ab507f463d838b8a71cf2a628"
+            }
+          }
         },
         {
           "id": "p-zhouli-35a6a163aff858ad-0063",
@@ -14336,9 +14622,20 @@
         },
         {
           "id": "p-zhouli-35a6a163aff858ad-0068",
-          "version": "sha256:72d6d531652b8af35ca88dbbaedf6f7566247d0090eaafa451a1ee82e3c510cf",
-          "text": "禁嘂呼歎嗚於國中者，行歌哭於國中之道者。",
-          "aliases": []
+          "version": "sha256:a5b7a01ebf54eab6b0b286ef473474e8f0de819d09b4af7508cb6c195f62b8f9",
+          "text": "禁嘂呼歎鳴於國中者，行歌哭於國中之道者。",
+          "aliases": [],
+          "sourceText": "禁嘂呼歎嗚於國中者，行歌哭於國中之道者。",
+          "correction": {
+            "reason": "禁嘂呼歎鳴於國中者：底本“鳴”误作“嗚”。维基文库《周禮》銜枚氏作“禁嘂呼歎鳴於國中者”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a5b7a01ebf54eab6b0b286ef473474e8f0de819d09b4af7508cb6c195f62b8f9"
+            }
+          }
         },
         {
           "id": "p-zhouli-35a6a163aff858ad-0069",
@@ -15005,9 +15302,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0002",
-          "version": "sha256:5e03a4197b4027f2bee9a4a9af97383d4ee41583ad6fa8f33628fd33b855d2d3",
-          "text": "或坐而論道，或作而行之，或審曲面執，以飭五材，以辨民器，或通四方之珍異以資之，或飭力以長地財，或治絲麻以成之。",
-          "aliases": []
+          "version": "sha256:5798dbaf6692ea5ea7240a5a1a0f2d97eb60a20207c4b1cc77a5959033e7ba1c",
+          "text": "或坐而論道，或作而行之，或審曲面埶，以飭五材，以辨民器，或通四方之珍異以資之，或飭力以長地財，或治絲麻以成之。",
+          "aliases": [],
+          "sourceText": "或坐而論道，或作而行之，或審曲面執，以飭五材，以辨民器，或通四方之珍異以資之，或飭力以長地財，或治絲麻以成之。",
+          "correction": {
+            "reason": "審曲面埶：底本“埶”（勢）误作形近的“執”。维基文库《周禮》考工記作“審曲面勢”；本書匠人“凡天下之地埶”用“埶”字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5798dbaf6692ea5ea7240a5a1a0f2d97eb60a20207c4b1cc77a5959033e7ba1c"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0003",
@@ -15023,9 +15331,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0005",
-          "version": "sha256:5d1e6cae41f12dada0b730ed418109a06b8e9db46615416b627a1807efbfcf4f",
-          "text": "審曲面執，以飭五材，以辨民器，謂之百工；",
-          "aliases": []
+          "version": "sha256:b605500ae8f643355f3067b9e0e06a87f83303dba55a03ab4639f04b24c0ef08",
+          "text": "審曲面埶，以飭五材，以辨民器，謂之百工；",
+          "aliases": [],
+          "sourceText": "審曲面執，以飭五材，以辨民器，謂之百工；",
+          "correction": {
+            "reason": "審曲面埶：底本“埶”误作“執”，依據同上段。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b605500ae8f643355f3067b9e0e06a87f83303dba55a03ab4639f04b24c0ef08"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0006",
@@ -15221,9 +15540,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0038",
-          "version": "sha256:7f356450340ce78e3d7049a683c68ad81adf33473a4b81561d0b2aefa6822cf1",
-          "text": "望其幅，欲其揱爾而纎也；進而眡之，欲其肉稱也，無所取之，取諸易直也。",
-          "aliases": []
+          "version": "sha256:21d599badebc2c5e2758f65506e5ef5411ea4b2e86a4b7fcca18d2c87edd6077",
+          "text": "望其輻，欲其揱爾而纎也；進而眡之，欲其肉稱也，無所取之，取諸易直也。",
+          "aliases": [],
+          "sourceText": "望其幅，欲其揱爾而纎也；進而眡之，欲其肉稱也，無所取之，取諸易直也。",
+          "correction": {
+            "reason": "望其輻：底本“輻”误作“幅”。维基文库《周禮》輪人作“望其輻，欲其揱爾而纖也”；本篇下文“參分其輻之長”“楺輻必齊”均作“輻”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:21d599badebc2c5e2758f65506e5ef5411ea4b2e86a4b7fcca18d2c87edd6077"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0039",
@@ -15233,9 +15563,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0040",
-          "version": "sha256:59e5d16fea494128989f0ea4710a19d3dd9c9f938239a33f20c20f9546def20b",
-          "text": "眡其緶，欲其蚤之正也。",
-          "aliases": []
+          "version": "sha256:f4edea23ebebf39ca0b16a8b429bf7f415f8119f9b59037b4b26c27dde66b8f2",
+          "text": "眡其綆，欲其蚤之正也。",
+          "aliases": [],
+          "sourceText": "眡其緶，欲其蚤之正也。",
+          "correction": {
+            "reason": "眡其綆：底本“綆”误作“緶”。维基文库《周禮》輪人作“視其綆，欲其蚤之正也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f4edea23ebebf39ca0b16a8b429bf7f415f8119f9b59037b4b26c27dde66b8f2"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0041",
@@ -15251,9 +15592,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0043",
-          "version": "sha256:18c9b3f5b81550e05623e8d758c4ae69133eaa10157bf7dbcf72f01075ba8cc5",
-          "text": "陽也者稹理而堅，隂也者䟽理而柔。是故以火養其隂，而齊諸其陽，則轂雖敝不□。",
-          "aliases": []
+          "version": "sha256:5dda6f1d140c4643442f30371c0d27aff97ff74563a9e8ff80e20b9ac30d9b7d",
+          "text": "陽也者稹理而堅，隂也者䟽理而柔。是故以火養其隂，而齊諸其陽，則轂雖敝不藃。",
+          "aliases": [],
+          "sourceText": "陽也者稹理而堅，隂也者䟽理而柔。是故以火養其隂，而齊諸其陽，則轂雖敝不□。",
+          "correction": {
+            "reason": "轂雖敝不藃：底本“藃”作缺字占位“□”。维基文库《周禮》輪人作“則轂雖敝不藃”，與上段“輪雖敝不匡”對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5dda6f1d140c4643442f30371c0d27aff97ff74563a9e8ff80e20b9ac30d9b7d"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0044",
@@ -15491,9 +15843,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0083",
-          "version": "sha256:8737b9be001865ca21b89a3a75f2e23f02db8941e14342f0b77b0dbff557253a",
-          "text": "弓長六尺謂之庇軹，五尺謂之庇輪，四尺謂之庇輪。",
-          "aliases": []
+          "version": "sha256:44450728e35b7b2ff60cb27d3e86dd5dc84b612e256dfbb1c03cf389c8c9fdb1",
+          "text": "弓長六尺謂之庇軹，五尺謂之庇輪，四尺謂之庇軫。",
+          "aliases": [],
+          "sourceText": "弓長六尺謂之庇軹，五尺謂之庇輪，四尺謂之庇輪。",
+          "correction": {
+            "reason": "四尺謂之庇軫：底本“軫”误作“輪”，與上句“五尺謂之庇輪”重複。维基文库《周禮》輪人為蓋作“五尺謂之庇輪，四尺謂之庇軫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:44450728e35b7b2ff60cb27d3e86dd5dc84b612e256dfbb1c03cf389c8c9fdb1"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0084",
@@ -15527,9 +15890,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0089",
-          "version": "sha256:a2f7a74ec2a86a0a6e99909629669d84274556dd127843af909fd04f8b61b455",
-          "text": "蓋已崇則難爲門也，蓋己卑是蔽目也，是故蓋崇十尺。",
-          "aliases": []
+          "version": "sha256:2ba5a9fc760259b0df523f3525aae6ec18507bc7a0424628c9a0b199e9016c5b",
+          "text": "蓋已崇則難爲門也，蓋已卑是蔽目也，是故蓋崇十尺。",
+          "aliases": [],
+          "sourceText": "蓋已崇則難爲門也，蓋己卑是蔽目也，是故蓋崇十尺。",
+          "correction": {
+            "reason": "蓋已卑是蔽目也：底本“已”误作“己”。维基文库《周禮》作“蓋已卑是蔽目也”，與上句“蓋已崇則難爲門也”對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2ba5a9fc760259b0df523f3525aae6ec18507bc7a0424628c9a0b199e9016c5b"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0090",
@@ -15671,9 +16045,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0113",
-          "version": "sha256:2c96bcd0f71cd83bdc7dd5896f5460d4978d81956f996f1a5edaa986f40d1e28",
-          "text": "軌前十尺，而策半之。",
-          "aliases": []
+          "version": "sha256:5ab675e752199895fb8e034bd802c0cb6c531282bd0e3bdc53454e3f2f27b36f",
+          "text": "軓前十尺，而策半之。",
+          "aliases": [],
+          "sourceText": "軌前十尺，而策半之。",
+          "correction": {
+            "reason": "軓前十尺：底本“軓”误作“軌”。维基文库《周禮》輈人作“軓前十尺，而策半之”；本書夏官大馭“祭軓”用此字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5ab675e752199895fb8e034bd802c0cb6c531282bd0e3bdc53454e3f2f27b36f"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0114",
@@ -15803,9 +16188,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0135",
-          "version": "sha256:2521ea730c91262d5ecce5a0b797009f31620f6061e17ee377fe4c0eca47a9a3",
-          "text": "良輈環灂，自伏兎不至軌七寸，軌中有灂，謂之國輈。",
-          "aliases": []
+          "version": "sha256:88942d847630dcfef9c476419b46197925eb40598253fc2a9988f694a57af321",
+          "text": "良輈環灂，自伏兎不至軓七寸，軓中有灂，謂之國輈。",
+          "aliases": [],
+          "sourceText": "良輈環灂，自伏兎不至軌七寸，軌中有灂，謂之國輈。",
+          "correction": {
+            "reason": "自伏兔不至軓七寸，軓中有灂：底本兩“軓”均误作“軌”。维基文库《周禮》輈人作“自伏兔不至軓七寸，軓中有灂”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:88942d847630dcfef9c476419b46197925eb40598253fc2a9988f694a57af321"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0136",
@@ -15989,9 +16385,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0166",
-          "version": "sha256:8f2aaf38632620784ef7ee1d3af344eb1a8bbd2fd15f6b3167afe39361496645",
-          "text": "十分其銑，去二以爲鉦，以其鉦爲之銑間，去二分以爲之鼓間，以其鼓間爲之舞佾，去三分以爲舞廣。",
-          "aliases": []
+          "version": "sha256:47b6376469cd890775e83cafca0cb72ac335940e96f63c9190e5bd959dd2146f",
+          "text": "十分其銑，去二以爲鉦，以其鉦爲之銑間，去二分以爲之鼓間，以其鼓間爲之舞脩，去二分以爲舞廣。",
+          "aliases": [],
+          "sourceText": "十分其銑，去二以爲鉦，以其鉦爲之銑間，去二分以爲之鼓間，以其鼓間爲之舞佾，去三分以爲舞廣。",
+          "correction": {
+            "reason": "以其鼓間爲之舞脩，去二分以爲舞廣：底本“脩”误作“佾”、“二”误作“三”。维基文库《周禮》鳧氏作“以其鼓間為之舞修，去二分以為舞廣”，與上文“去二分以爲之鼓間”同例。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:47b6376469cd890775e83cafca0cb72ac335940e96f63c9190e5bd959dd2146f"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0167",
@@ -16025,9 +16432,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0172",
-          "version": "sha256:96e4913bd9ea5d7de0afd90538cfcaa3b6012eb29a82fd057de58e84e9621acf",
-          "text": "己薄則播，",
-          "aliases": []
+          "version": "sha256:4cc127f525ca93f5857012e4e483953f39c6cd4b09f20c1e9c4ff059efa50320",
+          "text": "已薄則播，",
+          "aliases": [],
+          "sourceText": "己薄則播，",
+          "correction": {
+            "reason": "已薄則播：底本“已”误作“己”。鳧氏作“已厚則石，已薄則播”，维基文库《周禮》作“已”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4cc127f525ca93f5857012e4e483953f39c6cd4b09f20c1e9c4ff059efa50320"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0173",
@@ -16067,9 +16485,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0179",
-          "version": "sha256:83e38766dc10db7497b1939cef6ce4b806e73329be5a3485f69f821a56472609",
-          "text": "爲遂，六分其厚，以其一爲之深而圍之。",
-          "aliases": []
+          "version": "sha256:909c4f886e48dc1add948aa6fd81ae0ebf9f7a68f0adb65b71f2030d211b46a4",
+          "text": "爲遂，六分其厚，以其一爲之深而圜之。",
+          "aliases": [],
+          "sourceText": "爲遂，六分其厚，以其一爲之深而圍之。",
+          "correction": {
+            "reason": "以其一爲之深而圜之：底本“圜”误作“圍”。维基文库《周禮》鳧氏作“以其一為之深而圜之”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:909c4f886e48dc1add948aa6fd81ae0ebf9f7a68f0adb65b71f2030d211b46a4"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0180",
@@ -16469,21 +16898,54 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0246",
-          "version": "sha256:153c2a2dc1e1dadaa466e894fce3c12a68b2a34d0be2eade5687893058b5e729",
-          "text": "㡛氏涷絲，以涗水漚其絲七日，去地尺暴之。",
-          "aliases": []
+          "version": "sha256:26189d2f6aebddb36ce586b1a5730b6a9a6d68897eab719818c48eb7b8df4f40",
+          "text": "㡛氏湅絲，以涗水漚其絲七日，去地尺暴之。",
+          "aliases": [],
+          "sourceText": "㡛氏涷絲，以涗水漚其絲七日，去地尺暴之。",
+          "correction": {
+            "reason": "㡛氏湅絲：底本“湅”（練）误作形近的“涷”。维基文库《周禮》作“㡛氏湅絲”，下文“湅帛”“水湅”同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:26189d2f6aebddb36ce586b1a5730b6a9a6d68897eab719818c48eb7b8df4f40"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0247",
-          "version": "sha256:79020a72b9cd59eac7c2e372afbac42f9f4291c3a3e7aeb0a7b632ee39d17637",
-          "text": "晝暴諸日，夜宿諸井，七日七夜，是謂水涷。",
-          "aliases": []
+          "version": "sha256:156f2802af7b40eda81e112591b5eee0765e9f2977aff8074b0b4f7f473392a3",
+          "text": "晝暴諸日，夜宿諸井，七日七夜，是謂水湅。",
+          "aliases": [],
+          "sourceText": "晝暴諸日，夜宿諸井，七日七夜，是謂水涷。",
+          "correction": {
+            "reason": "是謂水湅：底本“湅”误作“涷”，依據同上。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:156f2802af7b40eda81e112591b5eee0765e9f2977aff8074b0b4f7f473392a3"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0248",
-          "version": "sha256:8b7ce0495c79c34ac140860f08366ce5f671d6ef650cbebda423d47bbd6073bc",
-          "text": "涷帛以欄爲灰，渥淳其帛，實諸澤器，淫之以蜃，",
-          "aliases": []
+          "version": "sha256:27aec856db834bc4455a01c0b4ab148330d69e9d96850d55cfef8da927b6c9fc",
+          "text": "湅帛以欄爲灰，渥淳其帛，實諸澤器，淫之以蜃，",
+          "aliases": [],
+          "sourceText": "涷帛以欄爲灰，渥淳其帛，實諸澤器，淫之以蜃，",
+          "correction": {
+            "reason": "湅帛以欄爲灰：底本“湅”误作“涷”，依據同上。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:27aec856db834bc4455a01c0b4ab148330d69e9d96850d55cfef8da927b6c9fc"
+            }
+          }
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0249",
@@ -16505,9 +16967,20 @@
         },
         {
           "id": "p-zhouli-b193fc7e89e0f5ae-0252",
-          "version": "sha256:79020a72b9cd59eac7c2e372afbac42f9f4291c3a3e7aeb0a7b632ee39d17637",
-          "text": "晝暴諸日，夜宿諸井，七日七夜，是謂水涷。",
-          "aliases": []
+          "version": "sha256:156f2802af7b40eda81e112591b5eee0765e9f2977aff8074b0b4f7f473392a3",
+          "text": "晝暴諸日，夜宿諸井，七日七夜，是謂水湅。",
+          "aliases": [],
+          "sourceText": "晝暴諸日，夜宿諸井，七日七夜，是謂水涷。",
+          "correction": {
+            "reason": "是謂水湅：底本“湅”误作“涷”，依據同上。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:156f2802af7b40eda81e112591b5eee0765e9f2977aff8074b0b4f7f473392a3"
+            }
+          }
         }
       ]
     },
@@ -16994,9 +17467,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0080",
-          "version": "sha256:91789a7c9f2e0b6c0233f501b844569923db4103a53b5ced652c1203d60de33a",
-          "text": "凡兵無過三其身，過三其身，弗能用也，而無己，又以害人。",
-          "aliases": []
+          "version": "sha256:ec0c46e0323cbf96b89fed50895bd1b202894d71186536ee7e8a17a236297c0f",
+          "text": "凡兵無過三其身，過三其身，弗能用也，而無已，又以害人。",
+          "aliases": [],
+          "sourceText": "凡兵無過三其身，過三其身，弗能用也，而無己，又以害人。",
+          "correction": {
+            "reason": "而無已，又以害人：底本“已”误作“己”。维基文库《周禮》廬人作“弗能用也而無已，又以害人”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ec0c46e0323cbf96b89fed50895bd1b202894d71186536ee7e8a17a236297c0f"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0081",
@@ -17006,15 +17490,37 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0082",
-          "version": "sha256:6fb0a1c13dc4ae1b62cfdfa574224b7da155fd94b6a438a2e132cde3daeecc2b",
-          "text": "凡兵，句兵欲無彈，刺兵欲無蜎，是故句兵椑，刺兵搏。",
-          "aliases": []
+          "version": "sha256:97b9948b07aa005ccd128bbc680f6afaf2497cfa18ff84ab774e74ef7064d377",
+          "text": "凡兵，句兵欲無彈，刺兵欲無蜎，是故句兵椑，刺兵摶。",
+          "aliases": [],
+          "sourceText": "凡兵，句兵欲無彈，刺兵欲無蜎，是故句兵椑，刺兵搏。",
+          "correction": {
+            "reason": "句兵椑，刺兵摶：底本“摶”误作“搏”。维基文库《周禮》廬人作“句兵椑，刺兵摶”，摶謂圓。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:97b9948b07aa005ccd128bbc680f6afaf2497cfa18ff84ab774e74ef7064d377"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0083",
-          "version": "sha256:2a78e757e498427de2f70d35be9a16cbce67fc289e0012dbbdac26678172fb25",
-          "text": "𣪠兵同強，舉圍欲細，細則校；刺兵同強，舉圍欲重，重欲傳人，傳人則密，是故侵之。",
-          "aliases": []
+          "version": "sha256:9d0a98c20bf6ae953cfeb26d3a6dadeedd3302dfd86f25787d8fdec206fa46ae",
+          "text": "𣪠兵同強，舉圍欲細，細則校；刺兵同強，舉圍欲重，重欲傅人，傅人則密，是故侵之。",
+          "aliases": [],
+          "sourceText": "𣪠兵同強，舉圍欲細，細則校；刺兵同強，舉圍欲重，重欲傳人，傳人則密，是故侵之。",
+          "correction": {
+            "reason": "重欲傅人，傅人則密：底本兩“傅”均误作“傳”。维基文库《周禮》廬人作“重欲傅人，傅人則密”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:9d0a98c20bf6ae953cfeb26d3a6dadeedd3302dfd86f25787d8fdec206fa46ae"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0084",
@@ -17024,9 +17530,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0085",
-          "version": "sha256:58b753473031d62b8b2e02573cf20c1eb82a77f90f86f386cb297037f1338eab",
-          "text": "凡試廬事，置而摇之，以眡其蜎也，炙諸牆，以眡其橈之均也。橫而摇之，以眡其勁也。",
-          "aliases": []
+          "version": "sha256:1528ed4d142e8fc5bfba7fe644e859e213cf2214f512965ca3b709ef60afd7d1",
+          "text": "凡試廬事，置而摇之，以眡其蜎也，灸諸牆，以眡其橈之均也。橫而摇之，以眡其勁也。",
+          "aliases": [],
+          "sourceText": "凡試廬事，置而摇之，以眡其蜎也，炙諸牆，以眡其橈之均也。橫而摇之，以眡其勁也。",
+          "correction": {
+            "reason": "灸諸牆：底本“灸”误作“炙”。维基文库《周禮》廬人作“灸諸牆，以視其橈之均也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1528ed4d142e8fc5bfba7fe644e859e213cf2214f512965ca3b709ef60afd7d1"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0086",
@@ -17234,9 +17751,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0120",
-          "version": "sha256:52b9a244bd51bfcb4b993bb05282ecf6ecf0e2846830c0db698d4993dffa3efa",
-          "text": "專逹於用，各載其名。",
-          "aliases": []
+          "version": "sha256:85d3499eadd7e4a427696187a8382ba4da641db63d130cb0ee8632908aa860a9",
+          "text": "專逹於川，各載其名。",
+          "aliases": [],
+          "sourceText": "專逹於用，各載其名。",
+          "correction": {
+            "reason": "專達於川：底本“川”误作“用”。维基文库《周禮》匠人作“專達於川，各載其名”，上文言澮。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:85d3499eadd7e4a427696187a8382ba4da641db63d130cb0ee8632908aa860a9"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0121",
@@ -17360,21 +17888,54 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0141",
-          "version": "sha256:9952daea36b5139906e043d28f5e6b8a8850a0508f73a5285ac1dd65ceaa5340",
-          "text": "車人爲耒，庇長尺有一寸，中直者三尺有三寸，上句者二尺有二寸。",
-          "aliases": []
+          "version": "sha256:f91db57578353c0721e1b0c84352fd4fb6f0191d7aed62cb4cfcfbb214223a42",
+          "text": "車人爲耒，庛長尺有一寸，中直者三尺有三寸，上句者二尺有二寸。",
+          "aliases": [],
+          "sourceText": "車人爲耒，庇長尺有一寸，中直者三尺有三寸，上句者二尺有二寸。",
+          "correction": {
+            "reason": "庛長尺有一寸：底本“庛”误作“庇”。维基文库《周禮》車人作“車人為耒，庛長尺有一寸”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f91db57578353c0721e1b0c84352fd4fb6f0191d7aed62cb4cfcfbb214223a42"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0142",
-          "version": "sha256:5927a3436cdf5d9ec0f0964d0de2ac0aeeff06e5457bdffae7e49e5589cf6b8b",
-          "text": "自其庇，縁其外，以至於首，以弦其內，六尺有六寸，與步相中也。",
-          "aliases": []
+          "version": "sha256:113a4014c0ddf2779f8551ba2ddd35da0d62776e24bf699faacdae026b437069",
+          "text": "自其庛，縁其外，以至於首，以弦其內，六尺有六寸，與步相中也。",
+          "aliases": [],
+          "sourceText": "自其庇，縁其外，以至於首，以弦其內，六尺有六寸，與步相中也。",
+          "correction": {
+            "reason": "自其庛：底本“庛”误作“庇”，维基文库《周禮》作“自其庛，緣其外”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:113a4014c0ddf2779f8551ba2ddd35da0d62776e24bf699faacdae026b437069"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0143",
-          "version": "sha256:133ab81b0ecde90cfbde7087e47ec6c72f3eb6f0c76a5217cb20b359c9b67253",
-          "text": "堅地欲直庇，柔地欲句庇。直庇則利推，句庇則利發。倨句磬折，謂之中地。",
-          "aliases": []
+          "version": "sha256:f22aec61155209e070dc6c3a47df032996dc251f3ea5ba4324e92583c00b48d2",
+          "text": "堅地欲直庛，柔地欲句庛。直庛則利推，句庛則利發。倨句磬折，謂之中地。",
+          "aliases": [],
+          "sourceText": "堅地欲直庇，柔地欲句庇。直庇則利推，句庇則利發。倨句磬折，謂之中地。",
+          "correction": {
+            "reason": "堅地欲直庛：底本“庛”误作“庇”，维基文库《周禮》作“堅地欲直庛，柔地欲句庛”。；柔地欲句庛：底本“庛”误作“庇”，依據同上。；直庛則利推：底本“庛”误作“庇”，依據同上。；句庛則利發：底本“庛”误作“庇”，依據同上。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f22aec61155209e070dc6c3a47df032996dc251f3ea5ba4324e92583c00b48d2"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0144",
@@ -17468,9 +18029,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0159",
-          "version": "sha256:9a208b9521a37964ab3c3e3edd43cc20e94d92d7bc65cbec33ebb2abf2dd6420",
-          "text": "凡取幹之道七：柘爲上，檍次之，檿桑次之，橘次之，木爪次之，荆次之，竹爲下。",
-          "aliases": []
+          "version": "sha256:314dd22bed97036fd2029a5deffdc551c9e7d1870f99dd4d89ed9cd90421930d",
+          "text": "凡取幹之道七：柘爲上，檍次之，檿桑次之，橘次之，木瓜次之，荆次之，竹爲下。",
+          "aliases": [],
+          "sourceText": "凡取幹之道七：柘爲上，檍次之，檿桑次之，橘次之，木爪次之，荆次之，竹爲下。",
+          "correction": {
+            "reason": "木瓜次之：底本“瓜”误作“爪”。维基文库《周禮》弓人作“橘次之，木瓜次之，荊次之”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:314dd22bed97036fd2029a5deffdc551c9e7d1870f99dd4d89ed9cd90421930d"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0160",
@@ -17684,9 +18256,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0195",
-          "version": "sha256:730ba8fd91b280dee9d5d378edca5b75d6135756a7b49eac25a5699de69aec2f",
-          "text": "厚其帤則木堅，簿其帤則需，",
-          "aliases": []
+          "version": "sha256:6981793015cf63d710a9b1c295f83add8bef4a072d544b2782682b86969a4e7a",
+          "text": "厚其帤則木堅，薄其帤則需，",
+          "aliases": [],
+          "sourceText": "厚其帤則木堅，簿其帤則需，",
+          "correction": {
+            "reason": "薄其帤則需：底本“薄”误作“簿”。维基文库《周禮》弓人作“厚其帤則木堅，薄其帤則需”，厚、薄對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:6981793015cf63d710a9b1c295f83add8bef4a072d544b2782682b86969a4e7a"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0196",
@@ -17762,9 +18345,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0208",
-          "version": "sha256:21ae5d0aa384f9d84f04573144000dc4f1dc47722f780094b2a19197f0de5f62",
-          "text": "凡爲弓，方其峻而高其拊，長其畏而薄其敝，宛之無己，應。",
-          "aliases": []
+          "version": "sha256:b7e97aba406f5e1d74fe0e20bad6b8d508e928e2361167e4405cdfb96be44f4c",
+          "text": "凡爲弓，方其峻而高其拊，長其畏而薄其敝，宛之無已，應。",
+          "aliases": [],
+          "sourceText": "凡爲弓，方其峻而高其拊，長其畏而薄其敝，宛之無己，應。",
+          "correction": {
+            "reason": "宛之無已，應：底本“已”误作“己”。维基文库《周禮》弓人作“宛之無已，應”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b7e97aba406f5e1d74fe0e20bad6b8d508e928e2361167e4405cdfb96be44f4c"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0209",

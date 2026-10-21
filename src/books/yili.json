@@ -191,9 +191,20 @@
         },
         {
           "id": "p-yili-d25a489416a50456-0030",
-          "version": "sha256:d56c64a3155618e1f1c8d23bbf5742d2c0572ee137f69146a7ae8c550fcfe350",
-          "text": "緇布冠缺項，靑組纓屬于缺。緇纚廣終幅，長六尺。皮弁笄，爵弁笄，緇組紘纁邉，同篋。”",
-          "aliases": []
+          "version": "sha256:9b82593bf8339d064e6c1d7ba1307bf8d492022ddc5daba216f61b45779599a1",
+          "text": "緇布冠缺項，靑組纓屬于缺。緇纚廣終幅，長六尺。皮弁笄，爵弁笄，緇組紘纁邉，同篋。",
+          "aliases": [],
+          "sourceText": "緇布冠缺項，靑組纓屬于缺。緇纚廣終幅，長六尺。皮弁笄，爵弁笄，緇組紘纁邉，同篋。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:9b82593bf8339d064e6c1d7ba1307bf8d492022ddc5daba216f61b45779599a1"
+            }
+          }
         },
         {
           "id": "p-yili-d25a489416a50456-0031",
@@ -449,9 +460,20 @@
         },
         {
           "id": "p-yili-d25a489416a50456-0073",
-          "version": "sha256:f918348eed887bf26e4beed822fca4befbad90343115274429ee33ebc4815591",
-          "text": "入見姑姊，如見母。”",
-          "aliases": []
+          "version": "sha256:dc6efb5a746bc6a7158b38c452b675cee791589aa809aa651f16269519c0e8df",
+          "text": "入見姑姊，如見母。",
+          "aliases": [],
+          "sourceText": "入見姑姊，如見母。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:dc6efb5a746bc6a7158b38c452b675cee791589aa809aa651f16269519c0e8df"
+            }
+          }
         },
         {
           "id": "p-yili-d25a489416a50456-0074",
@@ -1100,9 +1122,20 @@
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0046",
-          "version": "sha256:c696716746688c8c9e91c848cd1d3c531d815ac4787d3e1f81d6f9cd780ab84e",
-          "text": "𠤎者逆退，復位于門東，北靣西上。",
-          "aliases": []
+          "version": "sha256:60f3010a3f385e376cdd399407542000e1dafb03e04eec25587fa8da13b6ab3b",
+          "text": "匕者逆退，復位于門東，北靣西上。",
+          "aliases": [],
+          "sourceText": "𠤎者逆退，復位于門東，北靣西上。",
+          "correction": {
+            "reason": "匕者逆退：底本“匕”作“𠤎”（“化”的古字），是形近错码。维基文库《儀禮》士昬禮此句作“匕者逆退”，本篇上文“匕俎從設”及士虞禮“朼者逆退”同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:60f3010a3f385e376cdd399407542000e1dafb03e04eec25587fa8da13b6ab3b"
+            }
+          }
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0047",
@@ -1220,9 +1253,20 @@
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0066",
-          "version": "sha256:b104a2329c35ad4e890c286d65f64837522a69c6efd06fd1ec6da39cf100f718",
-          "text": "夙興，婦沭浴，纚笄、宵衣以俟見。",
-          "aliases": []
+          "version": "sha256:a72fc52449205c5e813ff05e2f678a6e26833a065c2881e65d133a02da947ca2",
+          "text": "夙興，婦沐浴，纚笄、宵衣以俟見。",
+          "aliases": [],
+          "sourceText": "夙興，婦沭浴，纚笄、宵衣以俟見。",
+          "correction": {
+            "reason": "夙興，婦沐浴：底本“沐”误作“沭”。维基文库《儀禮》士昬禮作“夙興，婦沐浴”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a72fc52449205c5e813ff05e2f678a6e26833a065c2881e65d133a02da947ca2"
+            }
+          }
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0067",
@@ -1448,9 +1492,20 @@
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0104",
-          "version": "sha256:4ab2401c84ba3b9c89bbb2f88c4159d7c9034ce16f7badb37fe65fa0a2805863",
-          "text": "賔致命，釋外足，見文。主人受幣。士受皮者自東出于後，自左受，遂坐攝皮，逆退，適東璧。",
-          "aliases": []
+          "version": "sha256:efc1665c9b7bced84064906c9ab4e63bde27ec08b57f2e13f93161c4b5a12bdf",
+          "text": "賔致命，釋外足，見文。主人受幣。士受皮者自東出于後，自左受，遂坐攝皮，逆退，適東壁。",
+          "aliases": [],
+          "sourceText": "賔致命，釋外足，見文。主人受幣。士受皮者自東出于後，自左受，遂坐攝皮，逆退，適東璧。",
+          "correction": {
+            "reason": "適東壁：底本“壁”误作“璧”。维基文库《儀禮》士昬禮記作“遂坐攝皮，逆退，適東壁”，指東牆。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:efc1665c9b7bced84064906c9ab4e63bde27ec08b57f2e13f93161c4b5a12bdf"
+            }
+          }
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0105",
@@ -1460,9 +1515,20 @@
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0106",
-          "version": "sha256:dc9317cb65ddc944c309f3133bc6102ac2002f59e19f4a04dd964672d837b9b1",
-          "text": "女出于母左，父西靣戒之，必有正焉。若衣若笄，毋戒諸西階上，不降。",
-          "aliases": []
+          "version": "sha256:c9a67b79c9104298be2122d67e480c0b97c81f0acdfb26048d4f4ff64a84cd0e",
+          "text": "女出于母左，父西靣戒之，必有正焉。若衣若笄，母戒諸西階上，不降。",
+          "aliases": [],
+          "sourceText": "女出于母左，父西靣戒之，必有正焉。若衣若笄，毋戒諸西階上，不降。",
+          "correction": {
+            "reason": "母戒諸西階上：底本“母”误作“毋”。维基文库《儀禮》士昬禮記作“母戒諸西階上，不降”，上文“母南面于房外，女出于母左，父西面戒之”，此句是母親在西階上告誡。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c9a67b79c9104298be2122d67e480c0b97c81f0acdfb26048d4f4ff64a84cd0e"
+            }
+          }
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0107",
@@ -1562,9 +1628,20 @@
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0123",
-          "version": "sha256:30102ef2bd436f94d00d9554b612e4f48243e74f1e9af100fe8b12f6b3a19eca",
-          "text": "醴，曰：子爲事故，至於某之室。某有先入之禮，請醴從者。",
-          "aliases": []
+          "version": "sha256:c8f7876de8f1b5010334419df0f2acb865fa2c3a2588738dfe1c19d7f8f6beb6",
+          "text": "醴，曰：子爲事故，至於某之室。某有先人之禮，請醴從者。",
+          "aliases": [],
+          "sourceText": "醴，曰：子爲事故，至於某之室。某有先入之禮，請醴從者。",
+          "correction": {
+            "reason": "某有先人之禮：底本“人”误作“入”。维基文库《儀禮》士昬禮記作“某有先人之禮，請醴從者”，先人指祖先。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c8f7876de8f1b5010334419df0f2acb865fa2c3a2588738dfe1c19d7f8f6beb6"
+            }
+          }
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0124",
@@ -1670,9 +1747,20 @@
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0141",
-          "version": "sha256:2204ea098028bdf5333393bb80557b82d68e35c8db712d24e68fd6eeffc58233",
-          "text": "毋施衿結帨。曰：勉之敬之，夙夜無違宫事。",
-          "aliases": []
+          "version": "sha256:2cf0804fe0dc7bf4c8747a5e5d2b097dee4648f757cdd5d962e4b05e04756507",
+          "text": "母施衿結帨。曰：勉之敬之，夙夜無違宫事。",
+          "aliases": [],
+          "sourceText": "毋施衿結帨。曰：勉之敬之，夙夜無違宫事。",
+          "correction": {
+            "reason": "母施衿結帨：底本“母”误作“毋”。维基文库《儀禮》作“母施衿結帨，曰：勉之敬之”，與上段“父送女，命之曰”對舉，下文“申之以父母之命”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2cf0804fe0dc7bf4c8747a5e5d2b097dee4648f757cdd5d962e4b05e04756507"
+            }
+          }
         },
         {
           "id": "p-yili-c40c1e43bb6555e1-0142",
@@ -2003,9 +2091,20 @@
         },
         {
           "id": "p-yili-19f3ab43e4b750b4-0038",
-          "version": "sha256:b725f32ee5d8cb2a25be8b6ba94a6ad6803cc050628fb61e814c3f146cc601d7",
-          "text": "若父則遊目，母上於面，母下於帶。",
-          "aliases": []
+          "version": "sha256:1fed3c94a3ed421752d842d9d0f84ad1b473c70c54a2b5362690d8ff1d8bdcca",
+          "text": "若父則遊目，毋上於面，毋下於帶。",
+          "aliases": [],
+          "sourceText": "若父則遊目，母上於面，母下於帶。",
+          "correction": {
+            "reason": "毋上於面，毋下於帶：底本“毋”误作“母”。维基文库《儀禮》士相見禮作“若父則遊目，毋上於面，毋下於帶”，是禁止之辭。；毋下於帶：底本“毋”误作“母”，依據同上句。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1fed3c94a3ed421752d842d9d0f84ad1b473c70c54a2b5362690d8ff1d8bdcca"
+            }
+          }
         },
         {
           "id": "p-yili-19f3ab43e4b750b4-0039",
@@ -2384,9 +2483,20 @@
         },
         {
           "id": "p-yili-0e50f5dfd7bda276-0049",
-          "version": "sha256:fb889e375afce091801cd70c8fba7cdf099b819dbc5c2bf89e46048918728a4a",
-          "text": "卒洗，楫讓升。賔西階上疑立。主人實觶酬賔，阼階上北靣坐奠觶，遂拜，執觶興。賔西階上荅拜，",
-          "aliases": []
+          "version": "sha256:7bc2e814c6708fe381b733028c281521e505c345ccf1e60e6bb724953249b79a",
+          "text": "卒洗，揖讓升。賔西階上疑立。主人實觶酬賔，阼階上北靣坐奠觶，遂拜，執觶興。賔西階上荅拜，",
+          "aliases": [],
+          "sourceText": "卒洗，楫讓升。賔西階上疑立。主人實觶酬賔，阼階上北靣坐奠觶，遂拜，執觶興。賔西階上荅拜，",
+          "correction": {
+            "reason": "卒洗，揖讓升：底本“揖”误作“楫”。维基文库《儀禮》鄉飲酒禮作“卒洗，揖讓升”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:7bc2e814c6708fe381b733028c281521e505c345ccf1e60e6bb724953249b79a"
+            }
+          }
         },
         {
           "id": "p-yili-0e50f5dfd7bda276-0050",
@@ -2714,9 +2824,20 @@
         },
         {
           "id": "p-yili-0e50f5dfd7bda276-0104",
-          "version": "sha256:85788e7929fb73f8b52a43871d89ffa044ea197f529335ff40690ea2a8c941bd",
-          "text": "司正升相旅，曰：某子受酬。一酬者降席。",
-          "aliases": []
+          "version": "sha256:907f9f9bc56d489e97640c2d7bd0249814c44cb1eb5d6c0fe6ad8b59d10e0392",
+          "text": "司正升相旅，曰：某子受酬。受酬者降席。",
+          "aliases": [],
+          "sourceText": "司正升相旅，曰：某子受酬。一酬者降席。",
+          "correction": {
+            "reason": "受酬者降席：底本“受”误作“一”。维基文库《儀禮》鄉飲酒禮作“某子受酬。受酬者降席”；本書鄉射禮平行句亦作“受酬者降席”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:907f9f9bc56d489e97640c2d7bd0249814c44cb1eb5d6c0fe6ad8b59d10e0392"
+            }
+          }
         },
         {
           "id": "p-yili-0e50f5dfd7bda276-0105",
@@ -2792,9 +2913,20 @@
         },
         {
           "id": "p-yili-0e50f5dfd7bda276-0117",
-          "version": "sha256:155865282c307ec4a203af26aa79194db8f74c033c89d19fd7be77629a31ed8c",
-          "text": "司正升，立于席端。",
-          "aliases": []
+          "version": "sha256:03e3cbd0aed2e9872af48e2927a2b41461f0cfb2e50762d8d600d740de6a286d",
+          "text": "司正升，立于序端。",
+          "aliases": [],
+          "sourceText": "司正升，立于席端。",
+          "correction": {
+            "reason": "司正升，立于序端：底本“序”误作“席”。维基文库《儀禮》鄉飲酒禮作“司正升立于序端”；本書鄉射禮平行句作“司正升，立于序端”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:03e3cbd0aed2e9872af48e2927a2b41461f0cfb2e50762d8d600d740de6a286d"
+            }
+          }
         },
         {
           "id": "p-yili-0e50f5dfd7bda276-0118",
@@ -3761,9 +3893,20 @@
         },
         {
           "id": "p-yili-b99cf9730101c5f3-0105",
-          "version": "sha256:6731ab8c6d89a7326482425a92d3b089e300c4c799bd7ff6e444ac81f7c68818",
-          "text": "末。旅。",
-          "aliases": []
+          "version": "sha256:d5fe0cc420cba2af06570e836a355cb9491509b4c65f3168f7b9584943f07cc1",
+          "text": "未旅。",
+          "aliases": [],
+          "sourceText": "末。旅。",
+          "correction": {
+            "reason": "未旅：底本“未”误作“末”并點斷。维基文库《儀禮》鄉射禮作“北面立于觶南，未旅”，意為尚未旅酬。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d5fe0cc420cba2af06570e836a355cb9491509b4c65f3168f7b9584943f07cc1"
+            }
+          }
         },
         {
           "id": "p-yili-b99cf9730101c5f3-0106",
@@ -3851,9 +3994,20 @@
         },
         {
           "id": "p-yili-b99cf9730101c5f3-0120",
-          "version": "sha256:aeab9f46021afa0bea74a9a1d35246fbbc027f68ad16b969c43995877b82a81e",
-          "text": "三耦皆袓、決、遂。有司左執弣，右執弦而授弓，",
-          "aliases": []
+          "version": "sha256:124453cd3166fdfbd6a5b51b3a7684dcb28e9968b00113c8430e76e8798976d0",
+          "text": "三耦皆袒、決、遂。有司左執弣，右執弦而授弓，",
+          "aliases": [],
+          "sourceText": "三耦皆袓、決、遂。有司左執弣，右執弦而授弓，",
+          "correction": {
+            "reason": "三耦皆袒、決、遂：底本“袒”误作“袓”。维基文库《儀禮》鄉射禮作“三耦皆袒、決、遂”，本篇他處亦作“袒”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:124453cd3166fdfbd6a5b51b3a7684dcb28e9968b00113c8430e76e8798976d0"
+            }
+          }
         },
         {
           "id": "p-yili-b99cf9730101c5f3-0121",
@@ -5189,9 +5343,20 @@
         },
         {
           "id": "p-yili-b99cf9730101c5f3-0343",
-          "version": "sha256:bdd923a6e7f82895b324057e14d585307dccc1f7622237494c1e067595e13924",
-          "text": "取誘射之矢者，旣拾取矢，而后兼誘射之，乗天而取之。",
-          "aliases": []
+          "version": "sha256:9d647992726db875a1511031fc5dabe219b06f18c2728371791bbbef36671a1a",
+          "text": "取誘射之矢者，旣拾取矢，而后兼誘射之，乗矢而取之。",
+          "aliases": [],
+          "sourceText": "取誘射之矢者，旣拾取矢，而后兼誘射之，乗天而取之。",
+          "correction": {
+            "reason": "兼乘矢而取之：底本“矢”误作“天”。维基文库《儀禮》鄉射禮記作“兼誘射之乘矢而取之”，上文“旣拾取矢”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:9d647992726db875a1511031fc5dabe219b06f18c2728371791bbbef36671a1a"
+            }
+          }
         },
         {
           "id": "p-yili-b99cf9730101c5f3-0344",
@@ -5732,9 +5897,20 @@
         },
         {
           "id": "p-yili-d92bd1c22853efdf-0050",
-          "version": "sha256:b0b61f57874b745b10f5b88b9d2b5e6ef6b29792e230b970631c786fcc648073",
-          "text": "主人荅拜，升受爵以降，奠干。膳，篚更爵洗，升，酌膳酒以降，酢于阼階下，北面坐奠爵，再拜稽首。公荅再拜。",
-          "aliases": []
+          "version": "sha256:a20b5f66411845c6ed69c7c39c4f038954295747d914a367b4c1c3e45e398e61",
+          "text": "主人荅拜，升受爵以降，奠于膳篚更爵洗，升，酌膳酒以降，酢于阼階下，北面坐奠爵，再拜稽首。公荅再拜。",
+          "aliases": [],
+          "sourceText": "主人荅拜，升受爵以降，奠干。膳，篚更爵洗，升，酌膳酒以降，酢于阼階下，北面坐奠爵，再拜稽首。公荅再拜。",
+          "correction": {
+            "reason": "奠于膳篚：底本“于”误作“干”，并誤斷為“奠干。膳，篚”。维基文库《儀禮》燕禮作“升受爵以降，奠于膳篚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a20b5f66411845c6ed69c7c39c4f038954295747d914a367b4c1c3e45e398e61"
+            }
+          }
         },
         {
           "id": "p-yili-d92bd1c22853efdf-0051",
@@ -6587,9 +6763,20 @@
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0006",
-          "version": "sha256:9ce80f9cb0aa7775788ccd3a5f4a0fc1f002b10c640e5e42752e225ed950e90c",
-          "text": "遂命量人、巾車張三侯，大侯之崇，見鵠於參，參見鵠於干，千不及地，武，不繫左下綱。設乏，西十北十。凡乏用革。",
-          "aliases": []
+          "version": "sha256:86dda7c539ad9eb08fc2481909d1ae91574e0544cacd49d2b2e56458f7179e3c",
+          "text": "遂命量人、巾車張三侯，大侯之崇，見鵠於參，參見鵠於干，干不及地，武，不繫左下綱。設乏，西十北十。凡乏用革。",
+          "aliases": [],
+          "sourceText": "遂命量人、巾車張三侯，大侯之崇，見鵠於參，參見鵠於干，千不及地，武，不繫左下綱。設乏，西十北十。凡乏用革。",
+          "correction": {
+            "reason": "干不及地：底本“干”误作“千”。维基文库《儀禮》大射作“參見鵠於干，干不及地”，干指干侯，上句即“參見鵠於干”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:86dda7c539ad9eb08fc2481909d1ae91574e0544cacd49d2b2e56458f7179e3c"
+            }
+          }
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0007",
@@ -7325,9 +7512,20 @@
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0129",
-          "version": "sha256:12c0782820b6c6bded339dd1e476b38e78388ecaa09cea60ee90cfa23d64ccc1",
-          "text": "司射西面誓之曰：公射大侯，大夫射參，士射干。射者非其□侯，中之不獲。卑者與尊者爲耦，不異侯。大史許諾，",
-          "aliases": []
+          "version": "sha256:2fdee5ff024bfb27682a8cd2cfa91f620a356ea821804591454fcd33e541cd79",
+          "text": "司射西面誓之曰：公射大侯，大夫射參，士射干。射者非其侯，中之不獲。卑者與尊者爲耦，不異侯。大史許諾，",
+          "aliases": [],
+          "sourceText": "司射西面誓之曰：公射大侯，大夫射參，士射干。射者非其□侯，中之不獲。卑者與尊者爲耦，不異侯。大史許諾，",
+          "correction": {
+            "reason": "射者非其侯，中之不獲：底本多出缺字占位“□”。维基文库《儀禮》大射作“射者非其侯，中之不獲”，文義完足，無缺字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2fdee5ff024bfb27682a8cd2cfa91f620a356ea821804591454fcd33e541cd79"
+            }
+          }
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0130",
@@ -7433,9 +7631,20 @@
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0147",
-          "version": "sha256:28a49cdd9499485cb329569649571b30251f3dd354b5c3a95a54762766064db8",
-          "text": "司射進，與司馬正交于階前，相左，由堂下西階之東，北面視上射，命曰：毋射！獲！母獵獲。上射揖。司射退，反位，",
-          "aliases": []
+          "version": "sha256:7d25e8a5db17676e639ae93172f3771f0362ad3f120afa00e81b4904b6bc9f66",
+          "text": "司射進，與司馬正交于階前，相左，由堂下西階之東，北面視上射，命曰：毋射獲，毋獵獲。上射揖。司射退，反位，",
+          "aliases": [],
+          "sourceText": "司射進，與司馬正交于階前，相左，由堂下西階之東，北面視上射，命曰：毋射！獲！母獵獲。上射揖。司射退，反位，",
+          "correction": {
+            "reason": "毋射獲，毋獵獲：底本後一“毋”误作“母”，并把“射獲”點斷成“射！獲！”。维基文库《儀禮》大射作“命曰：毋射獲，毋獵獲”，鄉射禮同句結構。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:7d25e8a5db17676e639ae93172f3771f0362ad3f120afa00e81b4904b6bc9f66"
+            }
+          }
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0148",
@@ -8231,9 +8440,20 @@
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0280",
-          "version": "sha256:4183e2e221d9594cc934f8b3cc715ff4fd243fa916ccb895d47ecbcb5fb56662",
-          "text": "賔。諸公、卿皆人門，東面北上。",
-          "aliases": []
+          "version": "sha256:fce6433db7c331c343802da216160c50c26616a36f4a8eb5ce7bd7d49f1188fa",
+          "text": "賔。諸公、卿皆入門，東面北上。",
+          "aliases": [],
+          "sourceText": "賔。諸公、卿皆人門，東面北上。",
+          "correction": {
+            "reason": "諸公、卿皆入門：底本“入”误作“人”。维基文库《儀禮》大射此處作“皆入”，指諸公卿入門就位。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:fce6433db7c331c343802da216160c50c26616a36f4a8eb5ce7bd7d49f1188fa"
+            }
+          }
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0281",
@@ -8441,9 +8661,20 @@
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0315",
-          "version": "sha256:aa6e9d3585bccd89c517c7d66b689ee223f55d46a51d06e8df24ce41d0647366",
-          "text": "宵則庶子執燭於阼階上，司宫執獨於西階上，甸人執大燭於庭，閽人爲獨於門外。",
-          "aliases": []
+          "version": "sha256:21a3d59775f947e7d109422ea86a791693215ab033d5e533421bb7d4bbe1e767",
+          "text": "宵則庶子執燭於阼階上，司宫執燭於西階上，甸人執大燭於庭，閽人爲燭於門外。",
+          "aliases": [],
+          "sourceText": "宵則庶子執燭於阼階上，司宫執獨於西階上，甸人執大燭於庭，閽人爲獨於門外。",
+          "correction": {
+            "reason": "司宫執燭於西階上：底本“燭”误作“獨”。维基文库《儀禮》大射作“司宮執燭于西階上”，燕禮平行句（本書燕禮）作“司宫執燭於西階上”。；閽人爲燭於門外：底本“燭”误作“獨”。维基文库《儀禮》大射作“閽人為大燭于門外”，燕禮平行句作“爲大燭於門外”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:21a3d59775f947e7d109422ea86a791693215ab033d5e533421bb7d4bbe1e767"
+            }
+          }
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0316",
@@ -8459,9 +8690,20 @@
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0318",
-          "version": "sha256:c0b70edeba00e4a3be1fbf58dcffdd800cbc574100f122ca5f134b957da5f8a6",
-          "text": "賔所執脯以賜鍾人于門内，𩅸遂出。",
-          "aliases": []
+          "version": "sha256:a01646b2a6576af46106bf189ebbdeeb7004ef5964f3a08bcfb7c563d7e221cd",
+          "text": "賔所執脯以賜鍾人于門内𩅸，遂出。",
+          "aliases": [],
+          "sourceText": "賔所執脯以賜鍾人于門内，𩅸遂出。",
+          "correction": {
+            "reason": "以賜鍾人于門內霤，遂出：底本誤斷為“門内，𩅸遂出”。维基文库《儀禮》大射作“以賜鐘人于門內霤，遂出”；本書燕禮平行句作“以賜鍾人於門内𩅸，遂出”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a01646b2a6576af46106bf189ebbdeeb7004ef5964f3a08bcfb7c563d7e221cd"
+            }
+          }
         },
         {
           "id": "p-yili-acccd8fb5ced4e82-0319",
@@ -8708,9 +8950,20 @@
         },
         {
           "id": "p-yili-ab19c750f109224e-0037",
-          "version": "sha256:0c5b5ece529b8e44c4e4a174f63eea212adcde6af76f9056eb707ffbb1746a05",
-          "text": "旣□命，同面授上介。",
-          "aliases": []
+          "version": "sha256:9bab95c02a9fda0213668464267c261eac4d81f0f5513dca7003341aace892eb",
+          "text": "旣述命，同面授上介。",
+          "aliases": [],
+          "sourceText": "旣□命，同面授上介。",
+          "correction": {
+            "reason": "旣述命，同面授上介：底本“述”作缺字占位“□”。维基文库《儀禮》聘禮作“既述命，同面授上介”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:9bab95c02a9fda0213668464267c261eac4d81f0f5513dca7003341aace892eb"
+            }
+          }
         },
         {
           "id": "p-yili-ab19c750f109224e-0038",
@@ -11825,9 +12078,20 @@
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0040",
-          "version": "sha256:8ad0be97b8c0d63491f51d54b6308c073bf87c1dd31be39ef7e47242bd40d99c",
-          "text": "大夫長盥，洗東南，西面北上，序進盥。退者與進者交于前。卒盥，序進，南面。七",
-          "aliases": []
+          "version": "sha256:a7f5c308ae98d8b8d051888f7b1a1954c0676914bc1143217cbe45ef54ce9f15",
+          "text": "大夫長盥，洗東南，西面北上，序進盥。退者與進者交于前。卒盥，序進，南面匕。",
+          "aliases": [],
+          "sourceText": "大夫長盥，洗東南，西面北上，序進盥。退者與進者交于前。卒盥，序進，南面。七",
+          "correction": {
+            "reason": "序進，南面匕：底本“匕”误作“七”，并被点断在句末。维基文库《儀禮》公食大夫禮作“卒盥，序進，南面匕”，下句“載者西面”；本篇上文“旅人南面加匕于鼎”、下文“大夫旣匕，匕奠于鼎”可证。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a7f5c308ae98d8b8d051888f7b1a1954c0676914bc1143217cbe45ef54ce9f15"
+            }
+          }
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0041",
@@ -11867,9 +12131,20 @@
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0047",
-          "version": "sha256:77b90c5c07c2164ddecbd4f9c6b27855644874e8e2a09888bfb6bdc4b8409142",
-          "text": "膓、胃、膚皆橫諸爼，垂之。”",
-          "aliases": []
+          "version": "sha256:8cec3089eab8fbd3939447f08e098074047f2e8e1d853f94df077ef18ec16e5e",
+          "text": "膓、胃、膚皆橫諸爼，垂之。",
+          "aliases": [],
+          "sourceText": "膓、胃、膚皆橫諸爼，垂之。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8cec3089eab8fbd3939447f08e098074047f2e8e1d853f94df077ef18ec16e5e"
+            }
+          }
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0048",
@@ -11909,9 +12184,20 @@
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0054",
-          "version": "sha256:76f31234b341ea7734e6cf8918db971417ffdb2d520c98c42f1f252c28653b4b",
-          "text": "賓辭，北面坐遷而東遷所。”",
-          "aliases": []
+          "version": "sha256:741b7f79b3b2209cffcdb58e076a30a0d991a8cb62e825af436115104aa9c48a",
+          "text": "賓辭，北面坐遷而東遷所。",
+          "aliases": [],
+          "sourceText": "賓辭，北面坐遷而東遷所。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:741b7f79b3b2209cffcdb58e076a30a0d991a8cb62e825af436115104aa9c48a"
+            }
+          }
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0055",
@@ -12149,9 +12435,20 @@
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0094",
-          "version": "sha256:54157cbcff7b148a58e97584b5ae9db791d198b281727021b292fcbe85910456",
-          "text": "公辭。賓升，再拜稽首。公荅再拜。賓北面自間坐，左擁簋粱，右執湆以降。",
-          "aliases": []
+          "version": "sha256:f7c8ddbc101e5a1943dc05f92860ba00e531a51c7df7a86865b82457f7c14697",
+          "text": "公辭。賓升，再拜稽首。公荅再拜。賓北面自間坐，左擁簠粱，右執湆以降。",
+          "aliases": [],
+          "sourceText": "公辭。賓升，再拜稽首。公荅再拜。賓北面自間坐，左擁簋粱，右執湆以降。",
+          "correction": {
+            "reason": "左擁簠粱：底本“簠”误作形近的“簋”。维基文库《儀禮》公食大夫禮此句作“左擁簠粱”；禮制粱盛于簠，本書聘禮“兩簠繼之，粱在北”可證。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f7c8ddbc101e5a1943dc05f92860ba00e531a51c7df7a86865b82457f7c14697"
+            }
+          }
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0095",
@@ -12407,9 +12704,20 @@
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0137",
-          "version": "sha256:8a39ddc320e9d68e833f36c15e23c235025eb2ba47c0b4a1cad5aa8d9e3cbfc4",
-          "text": "使大夫各以其爵，朝服以侑幣致之。”",
-          "aliases": []
+          "version": "sha256:beece0326dcb6ef7f8980b1f677a7daa0373600ed831648a0e29dabb8c36e2c4",
+          "text": "使大夫各以其爵，朝服以侑幣致之。",
+          "aliases": [],
+          "sourceText": "使大夫各以其爵，朝服以侑幣致之。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:beece0326dcb6ef7f8980b1f677a7daa0373600ed831648a0e29dabb8c36e2c4"
+            }
+          }
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0138",
@@ -12575,9 +12883,20 @@
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0165",
-          "version": "sha256:f12e8b7b7680e775b896fbe0e0ef6b9fad1c728aa5b9b729b5dc4ad63d78c61f",
-          "text": "鉶芼，牛霍，羊苦，豕薇，皆有滑。",
-          "aliases": []
+          "version": "sha256:58d882d739492f3f4e70329164b9409353b7efb924cde663a90cb038acc87f5c",
+          "text": "鉶芼，牛藿，羊苦，豕薇，皆有滑。",
+          "aliases": [],
+          "sourceText": "鉶芼，牛霍，羊苦，豕薇，皆有滑。",
+          "correction": {
+            "reason": "鉶芼：牛藿：底本“藿”脫去草頭作“霍”。维基文库《儀禮》公食大夫禮記作“鉶芼，牛藿，羊苦，豕薇”，藿為豆葉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:58d882d739492f3f4e70329164b9409353b7efb924cde663a90cb038acc87f5c"
+            }
+          }
         },
         {
           "id": "p-yili-3ef514c4ce4d4da9-0166",
@@ -12806,9 +13125,20 @@
         },
         {
           "id": "p-yili-4b2175145ad43af0-0029",
-          "version": "sha256:a40652e4597202d90ac9db6a138cbca3ced11dd61a5c03a2477ba90bfc9fb68e",
-          "text": "𢷤者謁諸天子，天子辭於侯氏曰：伯父無事，歸寧。乃拜。",
-          "aliases": []
+          "version": "sha256:9ba1584a47019221f5ca63bda112a9b6488bd0fe662f4fb62053eb6a167b75ef",
+          "text": "𢷤者謁諸天子，天子辭於侯氏曰：伯父無事，歸寧乃邦。",
+          "aliases": [],
+          "sourceText": "𢷤者謁諸天子，天子辭於侯氏曰：伯父無事，歸寧。乃拜。",
+          "correction": {
+            "reason": "伯父無事，歸寧乃邦：底本“邦”误作“拜”并點斷。维基文库《儀禮》覲禮作“伯父無事，歸寧乃邦”，意為回去安定你的國家。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:9ba1584a47019221f5ca63bda112a9b6488bd0fe662f4fb62053eb6a167b75ef"
+            }
+          }
         },
         {
           "id": "p-yili-4b2175145ad43af0-0030",
@@ -12902,9 +13232,20 @@
         },
         {
           "id": "p-yili-4b2175145ad43af0-0045",
-          "version": "sha256:12c79ed3bc70f31f58e7c6d88740d1d3b61c8cc823dd32c38324379fe4ff488d",
-          "text": "天子乗龍，載大斾，象日月，升龍、降龍。出，拜日於東門之外，反祀方明。",
-          "aliases": []
+          "version": "sha256:c9ab94b37abb25ef37f13d9094318538662810f44e40a539e914c07a2621bff7",
+          "text": "天子乗龍，載大旂，象日月，升龍、降龍。出，拜日於東門之外，反祀方明。",
+          "aliases": [],
+          "sourceText": "天子乗龍，載大斾，象日月，升龍、降龍。出，拜日於東門之外，反祀方明。",
+          "correction": {
+            "reason": "載大旂，象日月：底本“旂”误作形近的“斾”。维基文库《儀禮》覲禮作“天子乘龍，載大旂，象日月、升龍、降龍”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c9ab94b37abb25ef37f13d9094318538662810f44e40a539e914c07a2621bff7"
+            }
+          }
         },
         {
           "id": "p-yili-4b2175145ad43af0-0046",
@@ -12920,9 +13261,20 @@
         },
         {
           "id": "p-yili-4b2175145ad43af0-0048",
-          "version": "sha256:63002a016cac7ba371293eb62e1191bd2ab5367a6c1ef7b6e7346624638c86a4",
-          "text": "設几侯于東箱，",
-          "aliases": []
+          "version": "sha256:53105fed039dba4d7fabc0e545b80fa7bcced2a3bc8767d0235f9b6085a46ce5",
+          "text": "記：几俟于東箱，",
+          "aliases": [],
+          "sourceText": "設几侯于東箱，",
+          "correction": {
+            "reason": "記：几俟于東箱：底本“記：”误作“設”、“俟”误作“侯”。维基文库《儀禮》覲禮篇末記文作“記：几俟于東箱”；本書聘禮等篇記文亦以“記：”起。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:53105fed039dba4d7fabc0e545b80fa7bcced2a3bc8767d0235f9b6085a46ce5"
+            }
+          }
         },
         {
           "id": "p-yili-4b2175145ad43af0-0049",
@@ -14060,9 +14412,20 @@
         },
         {
           "id": "p-yili-758c69d771463ae8-0024",
-          "version": "sha256:f035902641f9db5b0bc10fd70711a37a377963a36d19acf8334bdfc787620d12",
-          "text": "爲銘，各以其物。亡則以緇長半幅，䞓末長終幅，廣三寸。書銘干未，曰某氏某之柩。",
-          "aliases": []
+          "version": "sha256:93df3065b7bb652184a5476a448d417555fd0eaf618631beb36ac507a3b5f207",
+          "text": "爲銘，各以其物。亡則以緇長半幅，䞓末長終幅，廣三寸。書銘于末，曰某氏某之柩。",
+          "aliases": [],
+          "sourceText": "爲銘，各以其物。亡則以緇長半幅，䞓末長終幅，廣三寸。書銘干未，曰某氏某之柩。",
+          "correction": {
+            "reason": "書銘于末：底本“于”误作“干”、“末”误作“未”。维基文库《儀禮》士喪禮作“書銘於末”，指在旌末書寫銘文。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:93df3065b7bb652184a5476a448d417555fd0eaf618631beb36ac507a3b5f207"
+            }
+          }
         },
         {
           "id": "p-yili-758c69d771463ae8-0025",
@@ -14402,9 +14765,20 @@
         },
         {
           "id": "p-yili-758c69d771463ae8-0081",
-          "version": "sha256:c49feed19c8c5cab8aa5c75718e0b80f2e717e03d6fd10345cf581748d23dfff",
-          "text": "幂用疏布，久之，繫用靲，縣千重。幂用葦席，北面，左衽。帶用靲，賀之，結于後。",
-          "aliases": []
+          "version": "sha256:35c3ae3dc52923a43da1b4bbf94c5cb00f7cc073d21151e35b252a160d8a199e",
+          "text": "幂用疏布，久之，繫用靲，縣于重。幂用葦席，北面，左衽。帶用靲，賀之，結于後。",
+          "aliases": [],
+          "sourceText": "幂用疏布，久之，繫用靲，縣千重。幂用葦席，北面，左衽。帶用靲，賀之，結于後。",
+          "correction": {
+            "reason": "縣于重：底本“于”误作“千”。维基文库《儀禮》士喪禮作“繫用靲，縣於重”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:35c3ae3dc52923a43da1b4bbf94c5cb00f7cc073d21151e35b252a160d8a199e"
+            }
+          }
         },
         {
           "id": "p-yili-758c69d771463ae8-0082",
@@ -14480,9 +14854,20 @@
         },
         {
           "id": "p-yili-758c69d771463ae8-0094",
-          "version": "sha256:37fd37dbb832a8d134d79590bc729d22bc3bd93d71c8bb0876df28b8b3e790c5",
-          "text": "牀策。夷衾。饌于西坫南，",
-          "aliases": []
+          "version": "sha256:5412a3c6840a887e4f11b155828061dc50a67ac23077fc59adae86d2e92f990b",
+          "text": "牀第。夷衾。饌于西坫南，",
+          "aliases": [],
+          "sourceText": "牀策。夷衾。饌于西坫南，",
+          "correction": {
+            "reason": "牀第、夷衾：底本“第”误作“策”。维基文库《儀禮》士喪禮作“牀第，夷衾”；本書既夕禮作“設牀第，當牖”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5412a3c6840a887e4f11b155828061dc50a67ac23077fc59adae86d2e92f990b"
+            }
+          }
         },
         {
           "id": "p-yili-758c69d771463ae8-0095",
@@ -14522,9 +14907,20 @@
         },
         {
           "id": "p-yili-758c69d771463ae8-0101",
-          "version": "sha256:f7794b2360d4be7b07e37505e7e31d1eb7ddb1ee421f2c6238aaa828922dc986",
-          "text": "設牀。策于兩楹之間，衽如初，有枕。",
-          "aliases": []
+          "version": "sha256:750d1a611068147fa8ef3bd837798715dd4fced485aa61087b5c06d9d294b06e",
+          "text": "設牀第于兩楹之間，衽如初，有枕。",
+          "aliases": [],
+          "sourceText": "設牀。策于兩楹之間，衽如初，有枕。",
+          "correction": {
+            "reason": "設牀第于兩楹之間：底本“第”误作“策”并點斷。维基文库《儀禮》士喪禮作“設牀第于兩楹之間，衽如初，有枕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:750d1a611068147fa8ef3bd837798715dd4fced485aa61087b5c06d9d294b06e"
+            }
+          }
         },
         {
           "id": "p-yili-758c69d771463ae8-0102",
@@ -14570,9 +14966,20 @@
         },
         {
           "id": "p-yili-758c69d771463ae8-0109",
-          "version": "sha256:cee3c0bf23f82ebc6dc0aa843ce4334c8b959a21c8fd88fae0818ceac8741fda",
-          "text": "舉者盥，右執七，卻之；左執俎，橫攝之。入，阼階前西面錯。錯俎，北面。",
-          "aliases": []
+          "version": "sha256:ab8f56f3ac721c7f8fe66a3d1b3c8cbb51ab23d6db0d4f2bff09d5ae20274c73",
+          "text": "舉者盥，右執匕，卻之；左執俎，橫攝之。入，阼階前西面錯。錯俎，北面。",
+          "aliases": [],
+          "sourceText": "舉者盥，右執七，卻之；左執俎，橫攝之。入，阼階前西面錯。錯俎，北面。",
+          "correction": {
+            "reason": "右執匕，卻之：底本“匕”误作“七”。维基文库《儀禮》士喪禮作“右執匕，卻之”；下段“右人左執匕”、“卒朼，釋匕于鼎”同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ab8f56f3ac721c7f8fe66a3d1b3c8cbb51ab23d6db0d4f2bff09d5ae20274c73"
+            }
+          }
         },
         {
           "id": "p-yili-758c69d771463ae8-0110",
@@ -15479,9 +15886,20 @@
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0034",
-          "version": "sha256:93b3c9fa13bb32694eef19a1dfccfdb207dc56ae686922602f088b66a744e706",
-          "text": "商祝飾柩，一池。紐前䞓後緇，齊三采，無貝。”",
-          "aliases": []
+          "version": "sha256:0ed117436c40e302392be79ecdac9956370235957326c3356a27ae0483f43e62",
+          "text": "商祝飾柩，一池。紐前䞓後緇，齊三采，無貝。",
+          "aliases": [],
+          "sourceText": "商祝飾柩，一池。紐前䞓後緇，齊三采，無貝。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0ed117436c40e302392be79ecdac9956370235957326c3356a27ae0483f43e62"
+            }
+          }
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0035",
@@ -16025,9 +16443,20 @@
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0125",
-          "version": "sha256:d57fb67cf6b7890e7bc520382ee70f34a9dc0b7ced1ea4f2b094d5c25a91f21f",
-          "text": "主人之史請讀賵，執筭從，柩東，當前束，西面。不命母哭，哭者相止也。唯主人、主婦哭。燭在石，南面。",
-          "aliases": []
+          "version": "sha256:a2f138224fabdeb0d5ceeafb9266179da372d5a136d84b9bb850352dc399321d",
+          "text": "主人之史請讀賵，執筭從，柩東，當前束，西面。不命毋哭，哭者相止也。唯主人、主婦哭。燭在右，南面。",
+          "aliases": [],
+          "sourceText": "主人之史請讀賵，執筭從，柩東，當前束，西面。不命母哭，哭者相止也。唯主人、主婦哭。燭在石，南面。",
+          "correction": {
+            "reason": "不命毋哭：底本“毋”误作“母”。维基文库《儀禮》既夕禮作“不命毋哭，哭者相止也”。；燭在右，南面：底本“右”误作“石”。维基文库《儀禮》既夕禮作“燭在右，南面”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a2f138224fabdeb0d5ceeafb9266179da372d5a136d84b9bb850352dc399321d"
+            }
+          }
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0126",
@@ -16043,9 +16472,20 @@
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0128",
-          "version": "sha256:e01ac3a429ee988ae8b44985385038ceb8827fc244f72ccc3794368e2a4a44ed",
-          "text": "公史自西方，東面，命母哭，主人、主婦皆不哭。讀遣。卒，命哭，滅燭，出。",
-          "aliases": []
+          "version": "sha256:b01a5d6530b28757e160dc767edfad60d5d09cb898a94137b09d0a1b19a08ef5",
+          "text": "公史自西方，東面，命毋哭，主人、主婦皆不哭。讀遣。卒，命哭，滅燭，出。",
+          "aliases": [],
+          "sourceText": "公史自西方，東面，命母哭，主人、主婦皆不哭。讀遣。卒，命哭，滅燭，出。",
+          "correction": {
+            "reason": "命毋哭：底本“毋”误作“母”。维基文库《儀禮》既夕禮作“公史自西方東面，命毋哭”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b01a5d6530b28757e160dc767edfad60d5d09cb898a94137b09d0a1b19a08ef5"
+            }
+          }
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0129",
@@ -16169,9 +16609,20 @@
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0149",
-          "version": "sha256:eeb92e407962a9dce381421e316572b2b3554092d7b14bb9429acf682eacef16",
-          "text": "婦人入，大夫踊，升自阼階。",
-          "aliases": []
+          "version": "sha256:6a48d5422becff0c6e97cc91968b336d308c133b23b0e7b7d073581ae7d8bea6",
+          "text": "婦人入，丈夫踊，升自阼階。",
+          "aliases": [],
+          "sourceText": "婦人入，大夫踊，升自阼階。",
+          "correction": {
+            "reason": "婦人入，丈夫踊：底本“丈”误作“大”。维基文库《儀禮》既夕禮作“婦人入，丈夫踊，升自阼階”；喪禮中“丈夫”“婦人”對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:6a48d5422becff0c6e97cc91968b336d308c133b23b0e7b7d073581ae7d8bea6"
+            }
+          }
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0150",
@@ -16721,9 +17172,20 @@
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0241",
-          "version": "sha256:69aacc71940c99dc12eca68f3c06fe0e27c7635bad4f6569d7a21df9a5a12306",
-          "text": "卜曰“吉”，告從于主婦。主婦哭，婦人皆哭。主婦升堂，哭者皆止。",
-          "aliases": []
+          "version": "sha256:8e59a1b4865dc752975d7ca9dc0f5c36dc3644c212337847116d328bd0ceafd5",
+          "text": "卜日“吉”，告從于主婦。主婦哭，婦人皆哭。主婦升堂，哭者皆止。",
+          "aliases": [],
+          "sourceText": "卜曰“吉”，告從于主婦。主婦哭，婦人皆哭。主婦升堂，哭者皆止。",
+          "correction": {
+            "reason": "卜日吉：底本“日”误作“曰”。维基文库《儀禮》既夕禮記作“卜日吉，告從于主婦”，卜日指占卜葬日，上文“筮宅”相對。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8e59a1b4865dc752975d7ca9dc0f5c36dc3644c212337847116d328bd0ceafd5"
+            }
+          }
         },
         {
           "id": "p-yili-1f6d0f8c16143cbf-0242",
@@ -17138,9 +17600,20 @@
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0033",
-          "version": "sha256:f076b51593f6da54b8193789d81d674922120d6b0f26b858a52ddaaa566e0431",
-          "text": "祝酌醴，命佐食啓㑹”。佐食許諾，啓㑹，郤于敦南，復位。",
-          "aliases": []
+          "version": "sha256:f860729f07c9933e0b3d6e75236405cdaf0df7c031368c44b94b3d06f83f3677",
+          "text": "祝酌醴，命佐食啓㑹。佐食許諾，啓㑹，郤于敦南，復位。",
+          "aliases": [],
+          "sourceText": "祝酌醴，命佐食啓㑹”。佐食許諾，啓㑹，郤于敦南，復位。",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f860729f07c9933e0b3d6e75236405cdaf0df7c031368c44b94b3d06f83f3677"
+            }
+          }
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0034",
@@ -17288,9 +17761,20 @@
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0058",
-          "version": "sha256:794ff012e626b650bc2345e8ce70042400aa4b45a0dcf9c67c31be075d9e48fc",
-          "text": "尸卒食，佐食受肺脊，實于篚。反黍如初設。”",
-          "aliases": []
+          "version": "sha256:91d46123c5dfb229e38efdb627b681ee72778448dfc5bf3dc8cb232d856d5893",
+          "text": "尸卒食，佐食受肺脊，實于篚。反黍如初設。",
+          "aliases": [],
+          "sourceText": "尸卒食，佐食受肺脊，實于篚。反黍如初設。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:91d46123c5dfb229e38efdb627b681ee72778448dfc5bf3dc8cb232d856d5893"
+            }
+          }
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0059",
@@ -17330,15 +17814,37 @@
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0065",
-          "version": "sha256:4f4882bf50346f8169094daefc3cb85eebc5fc6225662ecb57447c2ab1174cfe",
-          "text": "主人獻祝，祝拜，坐受爵，主人荅拜。”",
-          "aliases": []
+          "version": "sha256:b75b0e87120c82f47a6b19386df6488faddaffbef472918557a95989b71164c9",
+          "text": "主人獻祝，祝拜，坐受爵，主人荅拜。",
+          "aliases": [],
+          "sourceText": "主人獻祝，祝拜，坐受爵，主人荅拜。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b75b0e87120c82f47a6b19386df6488faddaffbef472918557a95989b71164c9"
+            }
+          }
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0066",
-          "version": "sha256:50c7ddae1ecbd4ebe6cb0d43b7fa00a06b7504ee2e2dd161a8b619fe2556b711",
-          "text": "薦菹醢，設俎。祝左執爵，祭薦，奠爵，興，取肺，坐祭，嚌之，興，加于俎，祭酒，嘗之。肝從。祝取肝，擩鹽，振祭，嚌之，加于俎，卒爵，拜，主人荅拜。”",
-          "aliases": []
+          "version": "sha256:c6240616c6e570b63c1819520af72f67ab931231ef806a41fda12811c85bc953",
+          "text": "薦菹醢，設俎。祝左執爵，祭薦，奠爵，興，取肺，坐祭，嚌之，興，加于俎，祭酒，嘗之。肝從。祝取肝，擩鹽，振祭，嚌之，加于俎，卒爵，拜，主人荅拜。",
+          "aliases": [],
+          "sourceText": "薦菹醢，設俎。祝左執爵，祭薦，奠爵，興，取肺，坐祭，嚌之，興，加于俎，祭酒，嘗之。肝從。祝取肝，擩鹽，振祭，嚌之，加于俎，卒爵，拜，主人荅拜。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c6240616c6e570b63c1819520af72f67ab931231ef806a41fda12811c85bc953"
+            }
+          }
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0067",
@@ -17492,9 +17998,20 @@
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0092",
-          "version": "sha256:0ec1cfe5b383a714764850061057b9a5245460ed658d0b6f0d9760ec5b3ff565",
-          "text": "載猶進柢，魚進鬐。”",
-          "aliases": []
+          "version": "sha256:5ce8cca31edff2d4189d753d306ef41eb2042a1b61268a678dc5232c262b2bfb",
+          "text": "載猶進柢，魚進鬐。",
+          "aliases": [],
+          "sourceText": "載猶進柢，魚進鬐。”",
+          "correction": {
+            "reason": "刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5ce8cca31edff2d4189d753d306ef41eb2042a1b61268a678dc5232c262b2bfb"
+            }
+          }
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0093",
@@ -17522,9 +18039,20 @@
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0097",
-          "version": "sha256:b12780d2273f5e250e82c2c785075fe565326f8f3acd24a5537e0890ba793df9",
-          "text": "鉶芼，用苦，若薇，有滑，夏用葵，冬用苴，有柶。”",
-          "aliases": []
+          "version": "sha256:850ab5a21aa4ed0dd7674b7e47702f509d3f542e63fe5cf59665c45894950ebb",
+          "text": "鉶芼，用苦，若薇，有滑，夏用葵，冬用荁，有柶。",
+          "aliases": [],
+          "sourceText": "鉶芼，用苦，若薇，有滑，夏用葵，冬用苴，有柶。”",
+          "correction": {
+            "reason": "冬用荁：底本“荁”误作形近的“苴”。维基文库《儀禮》士虞禮記作“夏用葵，冬用荁”；荁是堇類菜，與葵對舉。；刪去孤立的右引號：本章在此之前沒有與之配對的左引號，是底本刪注時殘留的標點，维基文库《儀禮》此處無引號。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:850ab5a21aa4ed0dd7674b7e47702f509d3f542e63fe5cf59665c45894950ebb"
+            }
+          }
         },
         {
           "id": "p-yili-c9e950dd83a1a94f-0098",
@@ -18125,9 +18653,20 @@
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0026",
-          "version": "sha256:a997296156d096884b2956be676abec49e4f7105150f5e90480f3b3fd91329ff",
-          "text": "設洗于阼階東南，壷禁在東序，豆、籩、鉶在東房，南上。凡席兩敦，在西堂。",
-          "aliases": []
+          "version": "sha256:057e5d45a6921d9264cefb0c02f36c819fd07576321883248cde7ff4eefa6242",
+          "text": "設洗于阼階東南，壷禁在東序，豆、籩、鉶在東房，南上。几席兩敦，在西堂。",
+          "aliases": [],
+          "sourceText": "設洗于阼階東南，壷禁在東序，豆、籩、鉶在東房，南上。凡席兩敦，在西堂。",
+          "correction": {
+            "reason": "几、席、兩敦在西堂：底本“几”误作“凡”。维基文库《儀禮》特牲饋食禮作“几、席、兩敦在西堂”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:057e5d45a6921d9264cefb0c02f36c819fd07576321883248cde7ff4eefa6242"
+            }
+          }
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0027",
@@ -18311,9 +18850,20 @@
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0057",
-          "version": "sha256:f98461ec6341d8ca6998cf953499c5fb7a7418c670850d2da3efee3448b38a4d",
-          "text": "賛者錯，爼加七，",
-          "aliases": []
+          "version": "sha256:2fd1a183d0a8e95ab3ea96f346ae9910a0f5e8274cfb5aa4a266815a88df73f1",
+          "text": "賛者錯，爼加匕，",
+          "aliases": [],
+          "sourceText": "賛者錯，爼加七，",
+          "correction": {
+            "reason": "爼加匕：底本“匕”误作“七”。维基文库《儀禮》特牲饋食禮作“贊者錯俎，加匕”，下段即“乃朼”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2fd1a183d0a8e95ab3ea96f346ae9910a0f5e8274cfb5aa4a266815a88df73f1"
+            }
+          }
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0058",
@@ -18329,9 +18879,20 @@
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0060",
-          "version": "sha256:60e587522f517b916e6a5795e73f673ec0704364124473175a9a5183f5bddd86",
-          "text": "卒載，加七于鼎。",
-          "aliases": []
+          "version": "sha256:4ecbcdfa86db05e82e95130d37be6d0e3514d75053dd4dda1b925f730c661836",
+          "text": "卒載，加匕于鼎。",
+          "aliases": [],
+          "sourceText": "卒載，加七于鼎。",
+          "correction": {
+            "reason": "卒載，加匕于鼎：底本“匕”误作“七”。维基文库《儀禮》特牲饋食禮作“卒載，加匕于鼎”；公食大夫禮“匕奠于鼎”同義。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4ecbcdfa86db05e82e95130d37be6d0e3514d75053dd4dda1b925f730c661836"
+            }
+          }
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0061",
@@ -18653,9 +19214,20 @@
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0114",
-          "version": "sha256:2a57ddd501d8ec2dd5e0e6ab8ea3ce87d15d4efcee90022a79dc631194022ca0",
-          "text": "主人左執爵，祭薦。宗人賛祭，奠爵，興，取肺，坐絶祭，嚌之，興，加于爼，坐挩于，祭酒，啐酒，",
-          "aliases": []
+          "version": "sha256:438ffe4661045012e6cc8b5e6f79070f52bc972ece39a26bfca5b7030553511a",
+          "text": "主人左執爵，祭薦。宗人賛祭，奠爵，興，取肺，坐絶祭，嚌之，興，加于爼，坐挩手，祭酒，啐酒，",
+          "aliases": [],
+          "sourceText": "主人左執爵，祭薦。宗人賛祭，奠爵，興，取肺，坐絶祭，嚌之，興，加于爼，坐挩于，祭酒，啐酒，",
+          "correction": {
+            "reason": "坐挩手：底本“手”误作“于”。维基文库《儀禮》特牲饋食禮作“坐挩手，祭酒”；本書有司篇平行句三處作“坐挩手”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:438ffe4661045012e6cc8b5e6f79070f52bc972ece39a26bfca5b7030553511a"
+            }
+          }
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0115",
@@ -18677,9 +19249,20 @@
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0118",
-          "version": "sha256:34a3f3750d6ead4aee4fbd7c1102a91f08250c94fa555dc4c36228231110514d",
-          "text": "尸卒爵，酢，酌，獻洗，及佐食洗爵，酌致于主人，主婦、燔從，皆如初。更爵，酢于主人，卒，復位。",
-          "aliases": []
+          "version": "sha256:ffc521e4bf109b367b87ff91c809d48c807bd55351955fe717ff2a42e24a054f",
+          "text": "尸卒爵，酢，酌，獻祝，及佐食洗爵，酌致于主人，主婦、燔從，皆如初。更爵，酢于主人，卒，復位。",
+          "aliases": [],
+          "sourceText": "尸卒爵，酢，酌，獻洗，及佐食洗爵，酌致于主人，主婦、燔從，皆如初。更爵，酢于主人，卒，復位。",
+          "correction": {
+            "reason": "獻祝，及佐食：底本“祝”误作“洗”。维基文库《儀禮》特牲饋食禮作“尸卒爵，酢，酌，獻祝，及佐食”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ffc521e4bf109b367b87ff91c809d48c807bd55351955fe717ff2a42e24a054f"
+            }
+          }
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0119",
@@ -19055,9 +19638,20 @@
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0181",
-          "version": "sha256:3805b86decc52880c2e6acec823708e51e635a01cd49d5ce7804f672d420f910",
-          "text": "鉶，芼用苦若薇，皆有滑。夏葵，冬苴，",
-          "aliases": []
+          "version": "sha256:29a9f6a9aed9deeb75a69e0992a4aa5462e30d14db44d92a01c2d7f6fa9bbf01",
+          "text": "鉶，芼用苦若薇，皆有滑。夏葵，冬荁，",
+          "aliases": [],
+          "sourceText": "鉶，芼用苦若薇，皆有滑。夏葵，冬苴，",
+          "correction": {
+            "reason": "夏葵，冬荁：底本“荁”误作“苴”。维基文库《儀禮》特牲饋食禮記作“夏葵，冬荁”；本書士虞禮“夏用葵，冬用荁”同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:29a9f6a9aed9deeb75a69e0992a4aa5462e30d14db44d92a01c2d7f6fa9bbf01"
+            }
+          }
         },
         {
           "id": "p-yili-5bf76b8bef10a550-0182",
@@ -19400,9 +19994,20 @@
         },
         {
           "id": "p-yili-de91667509769290-0026",
-          "version": "sha256:a6ffc77bdd5aaed7b86261b27e3fd67588a300c6b5543fe1f31a2b90d33d971b",
-          "text": "司宫摡豆、籩、勺、爵、觚、觶。凡洗篚于東堂下，勺、爵、觚、觶實于篚。卒摡，饌豆、籩與篚于房中，放于西方。設洗于阼階東南，當東榮。",
-          "aliases": []
+          "version": "sha256:f05c0ded493f78a35b725eedbf5ba73ca443469e902a1c3e575ed3914841cdcb",
+          "text": "司宫摡豆、籩、勺、爵、觚、觶。几洗篚于東堂下，勺、爵、觚、觶實于篚。卒摡，饌豆、籩與篚于房中，放于西方。設洗于阼階東南，當東榮。",
+          "aliases": [],
+          "sourceText": "司宫摡豆、籩、勺、爵、觚、觶。凡洗篚于東堂下，勺、爵、觚、觶實于篚。卒摡，饌豆、籩與篚于房中，放于西方。設洗于阼階東南，當東榮。",
+          "correction": {
+            "reason": "几、洗、篚于東堂下：底本“几”误作“凡”。维基文库《儀禮》少牢饋食禮作“司宮摡豆、籩、勺、爵、觚、觶、几、洗、篚于東堂下”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f05c0ded493f78a35b725eedbf5ba73ca443469e902a1c3e575ed3914841cdcb"
+            }
+          }
         },
         {
           "id": "p-yili-de91667509769290-0027",
@@ -19490,15 +20095,37 @@
         },
         {
           "id": "p-yili-de91667509769290-0041",
-          "version": "sha256:701e9b2aeaa68f08ab83ba441d058e9b6fd9701a91414164900563ce346c9ce5",
-          "text": "鼎序入，雍正執一七以從，雍府執四七以從，司士合執二俎以從。司士。賛者二人，皆合執二俎以相從入。",
-          "aliases": []
+          "version": "sha256:d202aff06abad530578f4f5e1e10cf8223f50532656f9f8ae320b9ecd3a1ad69",
+          "text": "鼎序入，雍正執一匕以從，雍府執四匕以從，司士合執二俎以從。司士。賛者二人，皆合執二俎以相從入。",
+          "aliases": [],
+          "sourceText": "鼎序入，雍正執一七以從，雍府執四七以從，司士合執二俎以從。司士。賛者二人，皆合執二俎以相從入。",
+          "correction": {
+            "reason": "雍正執一匕以從：底本“匕”误作“七”。维基文库《儀禮》少牢饋食禮作“雍正執一匕以從，雍府執四匕以從”。；雍府執四匕以從：底本“匕”误作“七”。维基文库《儀禮》少牢饋食禮作“雍府執四匕以從”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d202aff06abad530578f4f5e1e10cf8223f50532656f9f8ae320b9ecd3a1ad69"
+            }
+          }
         },
         {
           "id": "p-yili-de91667509769290-0042",
-          "version": "sha256:62a51c41798d300b55932098aac64dd63f6e594b0d48073a4bbee7bf3deabdae",
-          "text": "陳鼎于東方，當序南，于洗西，皆西面北上。膚爲下七，皆加于鼎東，枋。",
-          "aliases": []
+          "version": "sha256:8627ec71381a2b3e2303c79bc2f9bb50762d794f69a8481bfadef73efb489bd4",
+          "text": "陳鼎于東方，當序南，于洗西，皆西面北上。膚爲下匕，皆加于鼎東，枋。",
+          "aliases": [],
+          "sourceText": "陳鼎于東方，當序南，于洗西，皆西面北上。膚爲下七，皆加于鼎東，枋。",
+          "correction": {
+            "reason": "膚爲下，匕皆加于鼎：底本“匕”误作“七”。维基文库《儀禮》少牢饋食禮作“膚爲下。匕皆加于鼎，東枋”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8627ec71381a2b3e2303c79bc2f9bb50762d794f69a8481bfadef73efb489bd4"
+            }
+          }
         },
         {
           "id": "p-yili-de91667509769290-0043",
@@ -19646,9 +20273,20 @@
         },
         {
           "id": "p-yili-de91667509769290-0067",
-          "version": "sha256:d479467bac95f24f9174eff7e019642cbfcfb69335d3dfd9c39f3972aa5a8736",
-          "text": "上佐食羞兩鉶，取一羊鉶于房中，坐設于韭菹之南。下佐食又取一豕鉶于房中以從。上佐食受，坐設于羊鉶之南。皆芼，皆有柶。尸扱以柶，祭羊鉶，逐以祭豕鉶，嘗羊鉶。",
-          "aliases": []
+          "version": "sha256:2320bb88832df0aff1ec3f984c4979a25529b93d4880e325b3fc753ffefd28e9",
+          "text": "上佐食羞兩鉶，取一羊鉶于房中，坐設于韭菹之南。下佐食又取一豕鉶于房中以從。上佐食受，坐設于羊鉶之南。皆芼，皆有柶。尸扱以柶，祭羊鉶，遂以祭豕鉶，嘗羊鉶。",
+          "aliases": [],
+          "sourceText": "上佐食羞兩鉶，取一羊鉶于房中，坐設于韭菹之南。下佐食又取一豕鉶于房中以從。上佐食受，坐設于羊鉶之南。皆芼，皆有柶。尸扱以柶，祭羊鉶，逐以祭豕鉶，嘗羊鉶。",
+          "correction": {
+            "reason": "遂以祭豕鉶：底本“遂”误作“逐”。维基文库《儀禮》少牢饋食禮作“祭羊鉶，遂以祭豕鉶”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2320bb88832df0aff1ec3f984c4979a25529b93d4880e325b3fc753ffefd28e9"
+            }
+          }
         },
         {
           "id": "p-yili-de91667509769290-0068",
@@ -19766,9 +20404,20 @@
         },
         {
           "id": "p-yili-de91667509769290-0087",
-          "version": "sha256:61af771c444823fbdcc0c973c6e1f720cc542adeaff3e6af0962920fbee23e22",
-          "text": "主人佐執爵，右受佐食，坐祭之，又祭酒，不興，遂啐酒。",
-          "aliases": []
+          "version": "sha256:1e0da3cf9b4d2e33ccf5822af3d7fcd999702ec6ce0a1c6e960d2a642542d9ab",
+          "text": "主人左執爵，右受佐食，坐祭之，又祭酒，不興，遂啐酒。",
+          "aliases": [],
+          "sourceText": "主人佐執爵，右受佐食，坐祭之，又祭酒，不興，遂啐酒。",
+          "correction": {
+            "reason": "主人左執爵，右受佐食：底本“左”误作“佐”。维基文库《儀禮》少牢饋食禮作“主人左執爵，右受佐食”，左右對舉。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1e0da3cf9b4d2e33ccf5822af3d7fcd999702ec6ce0a1c6e960d2a642542d9ab"
+            }
+          }
         },
         {
           "id": "p-yili-de91667509769290-0088",
@@ -20933,9 +21582,20 @@
         },
         {
           "id": "p-yili-75de722408eda2f9-0156",
-          "version": "sha256:f14c11c68664c83a9672a3f763faf38e42a08f569f9eb01e98f84dc17555e17e",
-          "text": "主人出，立于阼階上，西面。祝出，立于西階上，東面。祝告于主人曰：利成。祝入。主人降，立于阼階東，西面。尸謖祀前，尸從，遂出于廟門。祝反，復位于室中。祝命佐食徹尸俎。佐食乃出尸俎于廟門外，有司受，歸之，徹阼薦俎，",
-          "aliases": []
+          "version": "sha256:30217c1a22d7cfb7771dd2e7162d50544f1dcdc46e691d9233572c6542ee150a",
+          "text": "主人出，立于阼階上，西面。祝出，立于西階上，東面。祝告于主人曰：利成。祝入。主人降，立于阼階東，西面。尸謖，祝前，尸從，遂出于廟門。祝反，復位于室中。祝命佐食徹尸俎。佐食乃出尸俎于廟門外，有司受，歸之，徹阼薦俎，",
+          "aliases": [],
+          "sourceText": "主人出，立于阼階上，西面。祝出，立于西階上，東面。祝告于主人曰：利成。祝入。主人降，立于阼階東，西面。尸謖祀前，尸從，遂出于廟門。祝反，復位于室中。祝命佐食徹尸俎。佐食乃出尸俎于廟門外，有司受，歸之，徹阼薦俎，",
+          "correction": {
+            "reason": "尸謖，祝前，尸從：底本“祝”误作“祀”。维基文库《儀禮》有司作“尸謖，祝前，尸從，遂出于廟門”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:30217c1a22d7cfb7771dd2e7162d50544f1dcdc46e691d9233572c6542ee150a"
+            }
+          }
         },
         {
           "id": "p-yili-75de722408eda2f9-0157",

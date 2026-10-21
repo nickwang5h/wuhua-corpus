@@ -44,9 +44,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0005",
-          "version": "sha256:83f956205498ab7751af68ad67c7d90dce3bec7739bbd7c40663cfe611d02ed0",
-          "text": "、昄、晊、将、业、席，大也。",
-          "aliases": []
+          "version": "sha256:b337192cfd6d4bb4423b764a2a51a4b1191e87947acb0d1c4d9adfb841ba6957",
+          "text": "菿、昄、晊、将、业、席，大也。",
+          "aliases": [],
+          "sourceText": "、昄、晊、将、业、席，大也。",
+          "correction": {
+            "reason": "菿、昄、晊：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“菿、昄、晊”，上段末“簡、”與本段首“、昄”之間缺“菿”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b337192cfd6d4bb4423b764a2a51a4b1191e87947acb0d1c4d9adfb841ba6957"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0006",
@@ -74,9 +85,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0010",
-          "version": "sha256:1a563b0ea414de35658867c249e732be24fd9320af5729bcbebba5ccefbf208d",
-          "text": "仪、若、祥、淑、鲜、省、臧、嘉、令、类、纟林、彀、攻、穀、介、徽，",
-          "aliases": []
+          "version": "sha256:99a4b48c928c3630aae70ed56c89ed0ebd20552f0ba1f834eacf0fd39cbbec67",
+          "text": "仪、若、祥、淑、鲜、省、臧、嘉、令、类、𬘭、彀、攻、穀、介、徽，",
+          "aliases": [],
+          "sourceText": "仪、若、祥、淑、鲜、省、臧、嘉、令、类、纟林、彀、攻、穀、介、徽，",
+          "correction": {
+            "reason": "類、綝、彀（綝簡作𬘭）：底本此字是拼合占位“纟林”，网页上显示为零件。维基文库《爾雅》此条作“類、綝、彀（綝簡作𬘭）”，据以换成单字“𬘭”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:99a4b48c928c3630aae70ed56c89ed0ebd20552f0ba1f834eacf0fd39cbbec67"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0011",
@@ -194,9 +216,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0030",
-          "version": "sha256:17b46a587f6b4e8eb287c3af5820babb3b4273b756cdd61ec59cf6353a6328ca",
-          "text": "合攵、郃、盍、翕、仇、偶、妃、匹、会，合也。",
-          "aliases": []
+          "version": "sha256:ba8ec1d73bbbf1713a52261e6dd7a414763bb68310b9d67b50e8cbf98c71d381",
+          "text": "敆、郃、盍、翕、仇、偶、妃、匹、会，合也。",
+          "aliases": [],
+          "sourceText": "合攵、郃、盍、翕、仇、偶、妃、匹、会，合也。",
+          "correction": {
+            "reason": "敆、郃、盍、翕，合也：底本此字是拼合占位“合攵”，网页上显示为零件。维基文库《爾雅》此条作“敆、郃、盍、翕，合也”，据以换成单字“敆、郃”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ba8ec1d73bbbf1713a52261e6dd7a414763bb68310b9d67b50e8cbf98c71d381"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0031",
@@ -224,9 +257,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0035",
-          "version": "sha256:34ad8f7081ecae6d2831987bf38dcc35d3441d8aa87dceafc4fddb28e41ccb24",
-          "text": "、谥、溢、蛰、慎、貉、谧、顗、頠、密、宁，静也。",
-          "aliases": []
+          "version": "sha256:58d047815214d4aba790a3eb048afeaf62317635cd66a145dabc89b02ebaf8f6",
+          "text": "忥、谥、溢、蛰、慎、貉、谧、顗、頠、密、宁，静也。",
+          "aliases": [],
+          "sourceText": "、谥、溢、蛰、慎、貉、谧、顗、頠、密、宁，静也。",
+          "correction": {
+            "reason": "忥、謚、溢，靜也：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“忥、謚、溢，靜也”；本段以頓號起頭，首字“忥”脫落，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:58d047815214d4aba790a3eb048afeaf62317635cd66a145dabc89b02ebaf8f6"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0036",
@@ -332,9 +376,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0053",
-          "version": "sha256:02ad91757c6d4c3d3d7606e862a68fd40809b440da29bc976885f73204c0395c",
-          "text": "骛、务、昏、<昬攵>，强也。",
-          "aliases": []
+          "version": "sha256:59c5d8db44ab57ef7a27116897bcc25267df3b31eb7fe9c785b6226c90caf902",
+          "text": "骛、务、昏、暋，强也。",
+          "aliases": [],
+          "sourceText": "骛、务、昏、<昬攵>，强也。",
+          "correction": {
+            "reason": "昏、暋，強也：底本此字是拼合占位“<昬攵>”，网页上显示为零件。维基文库《爾雅》此条作“昏、暋，強也”，据以换成单字“暋”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:59c5d8db44ab57ef7a27116897bcc25267df3b31eb7fe9c785b6226c90caf902"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0054",
@@ -410,9 +465,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0066",
-          "version": "sha256:9f4360eb9b3fcbaa5ff3e1326b173337850e7c3db604b5477a3427946200b299",
-          "text": "暀々、皇皇、藐藐、穆穆、休、嘉、珍、袆、懿、铄，美也。",
-          "aliases": []
+          "version": "sha256:bed8fe732f058fa71060acce2f7787e6d82b02802a14a1b907b9cbfbf49e9619",
+          "text": "暀暀、皇皇、藐藐、穆穆、休、嘉、珍、袆、懿、铄，美也。",
+          "aliases": [],
+          "sourceText": "暀々、皇皇、藐藐、穆穆、休、嘉、珍、袆、懿、铄，美也。",
+          "correction": {
+            "reason": "暀暀：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“暀暀”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:bed8fe732f058fa71060acce2f7787e6d82b02802a14a1b907b9cbfbf49e9619"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0067",
@@ -422,9 +488,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0068",
-          "version": "sha256:72b6a2ace63136a9223491697ca92c7cdb7a111fce713a8485131a798537e93c",
-          "text": "关关、噰々，音声和也。",
-          "aliases": []
+          "version": "sha256:f15e70a1c7542d90da217ed73fa559c4df8663a764b29ac364f296d690754845",
+          "text": "关关、噰噰，音声和也。",
+          "aliases": [],
+          "sourceText": "关关、噰々，音声和也。",
+          "correction": {
+            "reason": "噰噰：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“噰噰”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f15e70a1c7542d90da217ed73fa559c4df8663a764b29ac364f296d690754845"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0069",
@@ -470,9 +547,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0076",
-          "version": "sha256:aa053bfbafff94b8c155582107565c0646c9317ce8cfc7d02209fb39420b263a",
-          "text": "壑、阬々、滕、征、隍、漮，虚也。",
-          "aliases": []
+          "version": "sha256:a7eea6b77593472eaac95c92f85aa95b507e70182b7a0052935ce01a62333dd6",
+          "text": "壑、阬阬、滕、征、隍、漮，虚也。",
+          "aliases": [],
+          "sourceText": "壑、阬々、滕、征、隍、漮，虚也。",
+          "correction": {
+            "reason": "阬阬：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“阬阬”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a7eea6b77593472eaac95c92f85aa95b507e70182b7a0052935ce01a62333dd6"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0077",
@@ -506,9 +594,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0082",
-          "version": "sha256:70bfd9ecc150dac369dab081044a8d78b195e52d6b4abbf865475d95dd27c53f",
-          "text": "癵、<疒里>、痒、疷、疵、闵、逐、疚、痗、瘥、痱、<疒亶>、瘵、",
-          "aliases": []
+          "version": "sha256:8e4cc46974194db80f2f9b08d72122298a1abb058ac3c5af9d48786467263f14",
+          "text": "癵、㾖、痒、疷、疵、闵、逐、疚、痗、瘥、痱、瘅、瘵、",
+          "aliases": [],
+          "sourceText": "癵、<疒里>、痒、疷、疵、闵、逐、疚、痗、瘥、痱、<疒亶>、瘵、",
+          "correction": {
+            "reason": "癵、㾖、痒：㾖：底本此字是拼合占位“<疒里>”，网页上显示为零件。维基文库《爾雅》此条作“癵、㾖、痒：㾖”，据以换成单字“㾖”。；痱、癉（簡作瘅）、瘵：底本此字是拼合占位“<疒亶>”，网页上显示为零件。维基文库《爾雅》此条作“痱、癉（簡作瘅）、瘵”，据以换成单字“瘅”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8e4cc46974194db80f2f9b08d72122298a1abb058ac3c5af9d48786467263f14"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0083",
@@ -560,9 +659,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0091",
-          "version": "sha256:61910dab7358e9dc1a79694898b02c30d7a742ee39478c80435789e3fbf1515b",
-          "text": "俨、恪、祗、翼、諲、恭、钦、寅、，敬也。",
-          "aliases": []
+          "version": "sha256:e25bbdbf26517adadc4e26b264e7253af35d2a694646a80e72aba95b38357a28",
+          "text": "俨、恪、祗、翼、諲、恭、钦、寅、熯，敬也。",
+          "aliases": [],
+          "sourceText": "俨、恪、祗、翼、諲、恭、钦、寅、，敬也。",
+          "correction": {
+            "reason": "寅、熯，敬也：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“寅、熯，敬也”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:e25bbdbf26517adadc4e26b264e7253af35d2a694646a80e72aba95b38357a28"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0092",
@@ -572,9 +682,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0093",
-          "version": "sha256:44aad9e96995c04fd37740c3cf0d9bad8e5d00f47346f2a30f723422f604fa83",
-          "text": "、俟、替、戾、厎、止、徯，待也。",
-          "aliases": []
+          "version": "sha256:0cfda80900903916bc1724d18d4f11db3d5bcd7775544b10783baa781c961770",
+          "text": "䇓、俟、替、戾、厎、止、徯，待也。",
+          "aliases": [],
+          "sourceText": "、俟、替、戾、厎、止、徯，待也。",
+          "correction": {
+            "reason": "䇓、俟、替，待也：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“䇓、俟、替，待也”；本段以頓號起頭，首字“䇓”脫落，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0cfda80900903916bc1724d18d4f11db3d5bcd7775544b10783baa781c961770"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0094",
@@ -650,9 +771,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0106",
-          "version": "sha256:e2e1474c44f9ee5d78ae6d5eb50df4ec7de76ca431aaf3b89fe00db500d43ae1",
-          "text": "鞠、讠凶、溢，盈也。",
-          "aliases": []
+          "version": "sha256:81e21568cdbc3209de45f630df87db4db8661b752c20a34d11d44b94ef497557",
+          "text": "鞠、讻、溢，盈也。",
+          "aliases": [],
+          "sourceText": "鞠、讠凶、溢，盈也。",
+          "correction": {
+            "reason": "鞠、訩、溢，盈也：底本“訩”（簡作讻）拆成“讠凶”兩個零件。维基文库《爾雅》此字作“哅”（同字異體），通行本作“訩”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:81e21568cdbc3209de45f630df87db4db8661b752c20a34d11d44b94ef497557"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0107",
@@ -752,9 +884,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0123",
-          "version": "sha256:ab1249ede1b1ce3c519aa6846dad5d6c6a599a7dad401be83a3c930fcd17c2d5",
-          "text": "毗刘，乐也。",
-          "aliases": []
+          "version": "sha256:696fd75b79823e042a2e5837618b08a9394751fe335e23b26ef919c3d2f5edc1",
+          "text": "毗刘，暴乐也。",
+          "aliases": [],
+          "sourceText": "毗刘，乐也。",
+          "correction": {
+            "reason": "毗劉，暴樂也：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“毗劉，暴樂也”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:696fd75b79823e042a2e5837618b08a9394751fe335e23b26ef919c3d2f5edc1"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0124",
@@ -806,9 +949,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0132",
-          "version": "sha256:c1583a0b17a46b3d821c6aa7ab01b26766a704f26b73205a33a071ca839659db",
-          "text": "嗟、咨，镸差也。",
-          "aliases": []
+          "version": "sha256:ee9b1278c034b5af9009540c1526d00edc0f21293b7d928d2087ca32f3a5efa6",
+          "text": "嗟、咨，𨲠也。",
+          "aliases": [],
+          "sourceText": "嗟、咨，镸差也。",
+          "correction": {
+            "reason": "嗟、咨，𨲠也：底本此字是拼合占位“镸差”，网页上显示为零件。维基文库《爾雅》此条作“嗟、咨，𨲠也”，据以换成单字“𨲠”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ee9b1278c034b5af9009540c1526d00edc0f21293b7d928d2087ca32f3a5efa6"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0133",
@@ -902,9 +1056,20 @@
         },
         {
           "id": "p-erya-851be178c96ae82c-0148",
-          "version": "sha256:bc688037532d57fd2434c5e53e73d2cb0350d42f797215bf19ce2c2594f30e61",
-          "text": "忄某、怜、惠，爱也。",
-          "aliases": []
+          "version": "sha256:e364987ba88b1caff52e21c1c4a83665e9ffb0ca5fe17aaf73dc41d517318933",
+          "text": "𢜮、怜、惠，爱也。",
+          "aliases": [],
+          "sourceText": "忄某、怜、惠，爱也。",
+          "correction": {
+            "reason": "𢜮、憐、惠，愛也：底本此字是拼合占位“忄某”，网页上显示为零件。维基文库《爾雅》此条作“𢜮、憐、惠，愛也”，据以换成单字“𢜮”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:e364987ba88b1caff52e21c1c4a83665e9ffb0ca5fe17aaf73dc41d517318933"
+            }
+          }
         },
         {
           "id": "p-erya-851be178c96ae82c-0149",
@@ -2441,9 +2606,20 @@
         },
         {
           "id": "p-erya-9b811aa06f0cbe75-0206",
-          "version": "sha256:84ed66f87bfae253d90d7960a846c17c3aec99e6253e5c16e06c5f696d6cfc31",
-          "text": "<黍刃>，胶也。",
-          "aliases": []
+          "version": "sha256:4f6e382cd38ff59662424c0dd6640ed37a925110556303f544b75fc1224f1387",
+          "text": "㓿，胶也。",
+          "aliases": [],
+          "sourceText": "<黍刃>，胶也。",
+          "correction": {
+            "reason": "㓿，膠也：底本此字是拼合占位“<黍刃>”，网页上显示为零件。维基文库《爾雅》此条作“㓿，膠也”，据以换成单字“㓿”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4f6e382cd38ff59662424c0dd6640ed37a925110556303f544b75fc1224f1387"
+            }
+          }
         },
         {
           "id": "p-erya-9b811aa06f0cbe75-0207",
@@ -2579,9 +2755,20 @@
         },
         {
           "id": "p-erya-9b811aa06f0cbe75-0229",
-          "version": "sha256:89299e45fd20a7c7d93429ae56b14eca5dd8ec6ed598a302ae8c8c962a1f727b",
-          "text": "讠凶，讼也。",
-          "aliases": []
+          "version": "sha256:c3caa932d0bcf7279580bbcded549ad94884101a652f0cb4ccc8de76d02ab2bd",
+          "text": "讻，讼也。",
+          "aliases": [],
+          "sourceText": "讠凶，讼也。",
+          "correction": {
+            "reason": "訩，訟也：底本“訩”（簡作讻）拆成“讠凶”。维基文库《爾雅》作“哅，訟也”（同字異體），通行本作“訩”；本書釋詁“鞠、訩、溢，盈也”同字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c3caa932d0bcf7279580bbcded549ad94884101a652f0cb4ccc8de76d02ab2bd"
+            }
+          }
         },
         {
           "id": "p-erya-9b811aa06f0cbe75-0230",
@@ -2825,9 +3012,20 @@
         },
         {
           "id": "p-erya-9b811aa06f0cbe75-0270",
-          "version": "sha256:1effdc0fa7eb5f8b7fc9cce53c8ee6f07b26ab1d3846302d0515fa782d72d928",
-          "text": "非，刖也。",
-          "aliases": []
+          "version": "sha256:0d2dee230ba136b2e1ae7c8fb6611d2a1c5c4a29ef0d1cebf37f5cf58008dbc7",
+          "text": "剕，刖也。",
+          "aliases": [],
+          "sourceText": "非，刖也。",
+          "correction": {
+            "reason": "剕，刖也：底本此字是私用區編碼的偏旁加“非”，網頁上只顯示“非”。维基文库《爾雅》作“剕，刖也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0d2dee230ba136b2e1ae7c8fb6611d2a1c5c4a29ef0d1cebf37f5cf58008dbc7"
+            }
+          }
         },
         {
           "id": "p-erya-9b811aa06f0cbe75-0271",
@@ -3104,9 +3302,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0007",
-          "version": "sha256:46efcf651f1ab8ac2df1542fb77844f97eb8ed8fd92eb5f77bcf3301bc36ca4e",
-          "text": "兢兢、憴々，戒也。",
-          "aliases": []
+          "version": "sha256:bf750244ebb3b969c9831f02cf841a15d1031dc960fe5ba44090c976dc5e58a2",
+          "text": "兢兢、憴憴，戒也。",
+          "aliases": [],
+          "sourceText": "兢兢、憴々，戒也。",
+          "correction": {
+            "reason": "憴憴：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“憴憴”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:bf750244ebb3b969c9831f02cf841a15d1031dc960fe5ba44090c976dc5e58a2"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0008",
@@ -3128,9 +3337,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0011",
-          "version": "sha256:aecac9d14732cc62505564b06ce1a448cb8e0f32e8ced7a55710cdd5f2af109a",
-          "text": "惴惴、憢々，惧也。",
-          "aliases": []
+          "version": "sha256:28378fd86fd7c24436c9167e73010fcb94b2ab30ea4029e3fec8b8e1c2d91d9d",
+          "text": "惴惴、憢憢，惧也。",
+          "aliases": [],
+          "sourceText": "惴惴、憢々，惧也。",
+          "correction": {
+            "reason": "憢憢：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“憢憢”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:28378fd86fd7c24436c9167e73010fcb94b2ab30ea4029e3fec8b8e1c2d91d9d"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0012",
@@ -3164,9 +3384,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0017",
-          "version": "sha256:1eb8d3bafff607babab3e4b9e3b1f10e029c729ea50b30b02ca89a29700fffa4",
-          "text": "蹶蹶、，敏也。",
-          "aliases": []
+          "version": "sha256:d5c1c2ae5bc2842c7144cb6c01dafdba92a753cd69ef1808e3ea6c5ea00a6868",
+          "text": "蹶蹶、踖踖，敏也。",
+          "aliases": [],
+          "sourceText": "蹶蹶、，敏也。",
+          "correction": {
+            "reason": "蹶蹶、踖踖，敏也：底本脫去疊字“踖踖”，只剩頓號。维基文库《爾雅》作“蹶蹶、踖踖，敏也”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d5c1c2ae5bc2842c7144cb6c01dafdba92a753cd69ef1808e3ea6c5ea00a6868"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0018",
@@ -3188,9 +3419,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0021",
-          "version": "sha256:e97dfc58a78726ffacdba898dd2314b52327d18dc638bae879bb3362db1b6e1c",
-          "text": "忯々、惕惕，爱也。",
-          "aliases": []
+          "version": "sha256:cba9b441931320502e82d92852d68eb9fc6b19eb02529ebb026cdf5ffa761bdb",
+          "text": "忯忯、惕惕，爱也。",
+          "aliases": [],
+          "sourceText": "忯々、惕惕，爱也。",
+          "correction": {
+            "reason": "忯忯：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“忯忯”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:cba9b441931320502e82d92852d68eb9fc6b19eb02529ebb026cdf5ffa761bdb"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0022",
@@ -3206,9 +3448,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0024",
-          "version": "sha256:2f67a8854ae9242d75db767e8cc104751477ef51498f2b3c06844c6760cc121b",
-          "text": "懕々、媞々，安也。",
-          "aliases": []
+          "version": "sha256:2f882f3de4b4b815d46437b99f3fe110ba20a82011fedaa1249aa20d956be4bc",
+          "text": "懕懕、媞媞，安也。",
+          "aliases": [],
+          "sourceText": "懕々、媞々，安也。",
+          "correction": {
+            "reason": "懕懕：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“懕懕”，改為重寫原字。；媞媞：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“媞媞”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2f882f3de4b4b815d46437b99f3fe110ba20a82011fedaa1249aa20d956be4bc"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0025",
@@ -3230,15 +3483,37 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0028",
-          "version": "sha256:6018528ca85f4f0f58994447aae0cb0f747d7108ce95609c5e5c8a118f8a4f8e",
-          "text": "懋懋、慔々，勉也。",
-          "aliases": []
+          "version": "sha256:7e56c8c139a5e781dbcdc1535356adcbfb68b83ea649a08a940d9aa8f90b61de",
+          "text": "懋懋、慔慔，勉也。",
+          "aliases": [],
+          "sourceText": "懋懋、慔々，勉也。",
+          "correction": {
+            "reason": "慔慔：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“慔慔”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:7e56c8c139a5e781dbcdc1535356adcbfb68b83ea649a08a940d9aa8f90b61de"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0029",
-          "version": "sha256:d7651576431251a1ea5b890bb810bb091687c459ac65ecbaf28c320c2f73ede7",
-          "text": "庸庸、慅々，劳也。",
-          "aliases": []
+          "version": "sha256:d22de84b11e50aef90ba2db6ddd1b73bef309c7c25f5cd89c60be276824ca9f8",
+          "text": "庸庸、慅慅，劳也。",
+          "aliases": [],
+          "sourceText": "庸庸、慅々，劳也。",
+          "correction": {
+            "reason": "慅慅：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“慅慅”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d22de84b11e50aef90ba2db6ddd1b73bef309c7c25f5cd89c60be276824ca9f8"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0030",
@@ -3254,9 +3529,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0032",
-          "version": "sha256:dae8fceaf451bc747cf4e6f1661f1298969728d49e6cd8e9efe59066e1f99440",
-          "text": "坎坎、墫々，喜也。",
-          "aliases": []
+          "version": "sha256:afc97165f4931116385773725490d0ec66081b3b1d71201175e584b54cc65e50",
+          "text": "坎坎、墫墫，喜也。",
+          "aliases": [],
+          "sourceText": "坎坎、墫々，喜也。",
+          "correction": {
+            "reason": "墫墫：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“墫墫”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:afc97165f4931116385773725490d0ec66081b3b1d71201175e584b54cc65e50"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0033",
@@ -3266,27 +3552,71 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0034",
-          "version": "sha256:4e392bb500fbb30de2c83d2a57fa901a1d94b6c7aa60752d996eed80315f6159",
-          "text": "旭旭、蹻々，憍也。",
-          "aliases": []
+          "version": "sha256:98c81ae1a8b1702d0179a0de883147dd7faf121115e7ed6cf319d5636eac1181",
+          "text": "旭旭、蹻蹻，憍也。",
+          "aliases": [],
+          "sourceText": "旭旭、蹻々，憍也。",
+          "correction": {
+            "reason": "蹻蹻：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“蹻蹻”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:98c81ae1a8b1702d0179a0de883147dd7faf121115e7ed6cf319d5636eac1181"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0035",
-          "version": "sha256:a32aa92874fdbfbb1a638b72e6069a5659610cc3b6ad7b3aafdf1e7b46066230",
-          "text": "梦梦、訰々，乱也。",
-          "aliases": []
+          "version": "sha256:64444595ec51e5f098db968d8cadf502833d17013df22ae1a030ab227a87c9c2",
+          "text": "梦梦、訰訰，乱也。",
+          "aliases": [],
+          "sourceText": "梦梦、訰々，乱也。",
+          "correction": {
+            "reason": "訰訰：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“訰訰”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:64444595ec51e5f098db968d8cadf502833d17013df22ae1a030ab227a87c9c2"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0036",
-          "version": "sha256:684166816395a1c6c8e5f074f5bf95f0f1ecf717f011282172b79cb904919683",
-          "text": "懪々、邈邈，闷也。",
-          "aliases": []
+          "version": "sha256:864328957b91c204a41ac47973e3f2e727f1494d63c46eb0c7f2642de4cc76fb",
+          "text": "懪懪、邈邈，闷也。",
+          "aliases": [],
+          "sourceText": "懪々、邈邈，闷也。",
+          "correction": {
+            "reason": "懪懪：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“懪懪”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:864328957b91c204a41ac47973e3f2e727f1494d63c46eb0c7f2642de4cc76fb"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0037",
-          "version": "sha256:8dbdd7d971138d4c496a0bc3ce84fb9ac093aa46ef79430a24fc0f4935093727",
-          "text": "儚々、洄洄，惛也。",
-          "aliases": []
+          "version": "sha256:be1492a2b769d7633ceeaa12093f670f86e8d61ab95eb369edbf4754d8bfade8",
+          "text": "儚儚、洄洄，惛也。",
+          "aliases": [],
+          "sourceText": "儚々、洄洄，惛也。",
+          "correction": {
+            "reason": "儚儚：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“儚儚”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:be1492a2b769d7633ceeaa12093f670f86e8d61ab95eb369edbf4754d8bfade8"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0038",
@@ -3296,9 +3626,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0039",
-          "version": "sha256:383458a00c3d1c46eb5a3089ec64bc278be36f90193777f6349446320f73beb8",
-          "text": "爞々、炎炎，薰也。",
-          "aliases": []
+          "version": "sha256:83171cadec47108193937fc1299043d13b6e44075525e3c1f53a93f22f984d5a",
+          "text": "爞爞、炎炎，薰也。",
+          "aliases": [],
+          "sourceText": "爞々、炎炎，薰也。",
+          "correction": {
+            "reason": "爞爞：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“爞爞”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:83171cadec47108193937fc1299043d13b6e44075525e3c1f53a93f22f984d5a"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0040",
@@ -3314,9 +3655,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0042",
-          "version": "sha256:5977f144fec3595493c869c29b514487ad5d97cd5f542041f01fdc72487d4712",
-          "text": "佌々、琐琐，小也。",
-          "aliases": []
+          "version": "sha256:1c6bbc059c5ece6db16b2275d55c97d005288d363b92e67799407dd913be6edf",
+          "text": "佌佌、琐琐，小也。",
+          "aliases": [],
+          "sourceText": "佌々、琐琐，小也。",
+          "correction": {
+            "reason": "佌佌：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“佌佌”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1c6bbc059c5ece6db16b2275d55c97d005288d363b92e67799407dd913be6edf"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0043",
@@ -3326,15 +3678,37 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0044",
-          "version": "sha256:46c05034421ed415eb3f7d38251410f93379df7dea4373fd32e57e18a73c5528",
-          "text": "痯々、瘐瘐，病也。",
-          "aliases": []
+          "version": "sha256:0986cbbfd21a88a8b3f4e416eced304ac73c1590288860b239b4af72620a2ad3",
+          "text": "痯痯、瘐瘐，病也。",
+          "aliases": [],
+          "sourceText": "痯々、瘐瘐，病也。",
+          "correction": {
+            "reason": "痯痯：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“痯痯”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0986cbbfd21a88a8b3f4e416eced304ac73c1590288860b239b4af72620a2ad3"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0045",
-          "version": "sha256:3bdda34f676a3a3e4d24e385147d6b4015cd82222965c1b8a4843a94d2469c2a",
-          "text": "殷殷、惸惸、忉忉、慱々、钦钦、京京、忡忡、惙々、怲々、弈弈，",
-          "aliases": []
+          "version": "sha256:871d5ce9724e96ca470abb40e15b68cb1ef80657a39834039bcaabde99b9266c",
+          "text": "殷殷、惸惸、忉忉、慱慱、钦钦、京京、忡忡、惙惙、怲怲、弈弈，",
+          "aliases": [],
+          "sourceText": "殷殷、惸惸、忉忉、慱々、钦钦、京京、忡忡、惙々、怲々、弈弈，",
+          "correction": {
+            "reason": "慱慱：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“慱慱”，改為重寫原字。；惙惙：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“惙惙”，改為重寫原字。；怲怲：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“怲怲”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:871d5ce9724e96ca470abb40e15b68cb1ef80657a39834039bcaabde99b9266c"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0046",
@@ -3344,9 +3718,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0047",
-          "version": "sha256:3fb9f647b769ffbec59a0b0e4db1734bd54bb36257a27742c0f689a5b98bda07",
-          "text": "畇々，田也。",
-          "aliases": []
+          "version": "sha256:81bd83db75042ab971a96dc848169836900f33648373b56807454f53f7f985eb",
+          "text": "畇畇，田也。",
+          "aliases": [],
+          "sourceText": "畇々，田也。",
+          "correction": {
+            "reason": "畇畇：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“畇畇”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:81bd83db75042ab971a96dc848169836900f33648373b56807454f53f7f985eb"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0048",
@@ -3380,9 +3765,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0053",
-          "version": "sha256:40bca7885b8022ce1a10bc56b87e8feb7700cb456b55130135afce42ad365ab5",
-          "text": "挃々，获也。",
-          "aliases": []
+          "version": "sha256:585e3bfda03d0c6947579a66deb76f6544cd0c439659dbb8fed123b54383483f",
+          "text": "挃挃，获也。",
+          "aliases": [],
+          "sourceText": "挃々，获也。",
+          "correction": {
+            "reason": "挃挃：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“挃挃”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:585e3bfda03d0c6947579a66deb76f6544cd0c439659dbb8fed123b54383483f"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0054",
@@ -3392,15 +3788,37 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0055",
-          "version": "sha256:9b8d271c3e01e008229e50b21d63e9cc01e64ef41c3dac31bd17f7379e6ca357",
-          "text": "溞々，淅也。",
-          "aliases": []
+          "version": "sha256:3f06f77591f458fb0d53e63d5d19a44264adde41202f643fb94774fbf210bf58",
+          "text": "溞溞，淅也。",
+          "aliases": [],
+          "sourceText": "溞々，淅也。",
+          "correction": {
+            "reason": "溞溞：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“溞溞”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:3f06f77591f458fb0d53e63d5d19a44264adde41202f643fb94774fbf210bf58"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0056",
-          "version": "sha256:ed0b66f92c52e7ed7fbe59b67af74e5dd58866a18287cc47dd98b614f0a8101a",
-          "text": "烰々，烝也。",
-          "aliases": []
+          "version": "sha256:a20067121c0ae985efd38b662402ad4c56522a94b9a1fcda18fd0be78127a218",
+          "text": "烰烰，烝也。",
+          "aliases": [],
+          "sourceText": "烰々，烝也。",
+          "correction": {
+            "reason": "烰烰：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“烰烰”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a20067121c0ae985efd38b662402ad4c56522a94b9a1fcda18fd0be78127a218"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0057",
@@ -3452,9 +3870,20 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0065",
-          "version": "sha256:9c67797e1d736834c77add2d1bc95dda3b77ad9b46be38cde60ba86350e2a930",
-          "text": "噰々、喈喈，民协服也。",
-          "aliases": []
+          "version": "sha256:39fcbccadb64885382c445ae48eb929a996b8a8fd98cde4e7be4c75e66f034b4",
+          "text": "噰噰、喈喈，民协服也。",
+          "aliases": [],
+          "sourceText": "噰々、喈喈，民协服也。",
+          "correction": {
+            "reason": "噰噰：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“噰噰”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:39fcbccadb64885382c445ae48eb929a996b8a8fd98cde4e7be4c75e66f034b4"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0066",
@@ -3488,15 +3917,37 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0071",
-          "version": "sha256:4f87d3a6d49c3f8e43f0053884bc027cbf84dbe9a8890fcd54eca37a73a1a3ab",
-          "text": "皋皋、琄々，刺素食也。",
-          "aliases": []
+          "version": "sha256:ce0faff1f1d391f158d7d515daa57e6c6d3c817b77b0e4dc3ff224550e4e4f35",
+          "text": "皋皋、琄琄，刺素食也。",
+          "aliases": [],
+          "sourceText": "皋皋、琄々，刺素食也。",
+          "correction": {
+            "reason": "琄琄：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“琄琄”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ce0faff1f1d391f158d7d515daa57e6c6d3c817b77b0e4dc3ff224550e4e4f35"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0072",
-          "version": "sha256:9343d0ce5137acc6204f8e626bc43f24ea3f9e7040bef898e4380179cc6b82f8",
-          "text": "懽々、愮々，忧无告也。",
-          "aliases": []
+          "version": "sha256:6f317e85f07bcb659e82bb5b5bcc40a1e4736ecec8686c7bbcaf314005324ac1",
+          "text": "懽懽、愮愮，忧无告也。",
+          "aliases": [],
+          "sourceText": "懽々、愮々，忧无告也。",
+          "correction": {
+            "reason": "懽懽：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“懽懽”，改為重寫原字。；愮愮：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“愮愮”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:6f317e85f07bcb659e82bb5b5bcc40a1e4736ecec8686c7bbcaf314005324ac1"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0073",
@@ -3506,15 +3957,37 @@
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0074",
-          "version": "sha256:817c51c2de6fef118b4e81a45ee1a869eae880336b742cba08056b59c0600326",
-          "text": "谑谑、謞々，崇谗慝也。",
-          "aliases": []
+          "version": "sha256:f10b824c52ca1a78251ebe242bf0b840745888eab256e3e41a276a4a01683d65",
+          "text": "谑谑、謞謞，崇谗慝也。",
+          "aliases": [],
+          "sourceText": "谑谑、謞々，崇谗慝也。",
+          "correction": {
+            "reason": "謞謞：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“謞謞”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f10b824c52ca1a78251ebe242bf0b840745888eab256e3e41a276a4a01683d65"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0075",
-          "version": "sha256:b443d58badf2d2fa0485596c3846d7f8a8032ad26106d47beee6ed5f26d9de01",
-          "text": "翕翕、訿々，莫供职也。",
-          "aliases": []
+          "version": "sha256:ea38b9fc102079b3380e55b0bd0d7bdb81de2abfb4b638f70d2218a815116d4e",
+          "text": "翕翕、訿訿，莫供职也。",
+          "aliases": [],
+          "sourceText": "翕翕、訿々，莫供职也。",
+          "correction": {
+            "reason": "訿訿：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“訿訿”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ea38b9fc102079b3380e55b0bd0d7bdb81de2abfb4b638f70d2218a815116d4e"
+            }
+          }
         },
         {
           "id": "p-erya-4e0cbe4fcb73a75d-0076",
@@ -4172,9 +4645,20 @@
         },
         {
           "id": "p-erya-72bc3fbefe82c361-0004",
-          "version": "sha256:c2b500f5aa0e0f514f65a8d188477bfe42b65969c0651beb762b5e99ce853557",
-          "text": "西南隅谓之奥，西北隅谓之屋漏，东北隅谓之宧，东南隅谓之{宀交}。",
-          "aliases": []
+          "version": "sha256:38d08bc5b1a53f43248a2fa603a5aaffd6df2425fb00eb2cdd86334d6423075b",
+          "text": "西南隅谓之奥，西北隅谓之屋漏，东北隅谓之宧，东南隅谓之窔。",
+          "aliases": [],
+          "sourceText": "西南隅谓之奥，西北隅谓之屋漏，东北隅谓之宧，东南隅谓之{宀交}。",
+          "correction": {
+            "reason": "東南隅謂之窔：底本此字是拼合占位“{宀交}”，网页上显示为零件。维基文库《爾雅》此条作“東南隅謂之窔”，据以换成单字“窔”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:38d08bc5b1a53f43248a2fa603a5aaffd6df2425fb00eb2cdd86334d6423075b"
+            }
+          }
         },
         {
           "id": "p-erya-72bc3fbefe82c361-0005",
@@ -4202,9 +4686,20 @@
         },
         {
           "id": "p-erya-72bc3fbefe82c361-0009",
-          "version": "sha256:4af7aec969bb492f799570e9474f04cb14caa396914756f5a0619c61fd67a53b",
-          "text": "镘谓之杇，椹谓之。",
-          "aliases": []
+          "version": "sha256:a33e49360340654fcc35b58744452ed14129d91b858dafe92ddcadf8f259d814",
+          "text": "镘谓之杇，椹谓之榩。",
+          "aliases": [],
+          "sourceText": "镘谓之杇，椹谓之。",
+          "correction": {
+            "reason": "椹謂之榩：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“椹謂之榩”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:a33e49360340654fcc35b58744452ed14129d91b858dafe92ddcadf8f259d814"
+            }
+          }
         },
         {
           "id": "p-erya-72bc3fbefe82c361-0010",
@@ -4403,9 +4898,20 @@
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0003",
-          "version": "sha256:becb4180e17f7db7d227faa3867f11b0a936fe76b472a57bbe616c91bc842977",
-          "text": "斪劚谓之定，斫谓之，<庣斗>谓之疀。",
-          "aliases": []
+          "version": "sha256:ba4e377a3a42badbe710bd21d161ff2ab7b6c36d70084f3fb62dfb13720fd648",
+          "text": "斪劚谓之定，斫谓之䦃，𣂁谓之疀。",
+          "aliases": [],
+          "sourceText": "斪劚谓之定，斫谓之，<庣斗>谓之疀。",
+          "correction": {
+            "reason": "斫謂之鐯（簡作䦃），𣂁謂之疀：底本“鐯”是私用區編碼字（顯示為空白），“𣂁”是拼合占位“<庣斗>”。维基文库《爾雅》作“斫謂之鐯。𣂁謂之疀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ba4e377a3a42badbe710bd21d161ff2ab7b6c36d70084f3fb62dfb13720fd648"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0004",
@@ -4487,15 +4993,37 @@
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0017",
-          "version": "sha256:aa4c87e1cb2feb8ebf488b44c0db6f3519cd74896a92f714379f6cf9905422f0",
-          "text": "衣裗谓之衤皃，黼领谓之襮，缘谓之纯，袕谓之。",
-          "aliases": []
+          "version": "sha256:8dcb4482ddde291e5d9bf173fe446551e0201835cf29a97205f23f4d6904d0c4",
+          "text": "衣裗谓之䘽，黼领谓之襮，缘谓之纯，袕谓之褮。",
+          "aliases": [],
+          "sourceText": "衣裗谓之衤皃，黼领谓之襮，缘谓之纯，袕谓之。",
+          "correction": {
+            "reason": "衣裗謂之䘽：底本此字是拼合占位“衤皃”，网页上显示为零件。维基文库《爾雅》此条作“衣裗謂之䘽”，据以换成单字“䘽”。；袕謂之褮：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“袕謂之褮”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8dcb4482ddde291e5d9bf173fe446551e0201835cf29a97205f23f4d6904d0c4"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0018",
-          "version": "sha256:e4a9f7a510d19db36d8020044c8161aa128a75f8cb0bc3aa1bbf68b2cb7a0f20",
-          "text": "衣{此目}谓之襟，衱谓之裾，衿谓之袸。",
-          "aliases": []
+          "version": "sha256:18125bc933540420d71d6141d70b8a622192c734c05ca364af3e27da62cdeaa4",
+          "text": "衣眦谓之襟，衱谓之裾，衿谓之袸。",
+          "aliases": [],
+          "sourceText": "衣{此目}谓之襟，衱谓之裾，衿谓之袸。",
+          "correction": {
+            "reason": "衣眦謂之襟：底本此字是拼合占位“{此目}”。维基文库《爾雅》作“衣眥謂之襟”（眥、眦同字），按占位所示的“此、目”寫作“眦”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:18125bc933540420d71d6141d70b8a622192c734c05ca364af3e27da62cdeaa4"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0019",
@@ -4517,9 +5045,20 @@
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0022",
-          "version": "sha256:d8110c581d9a5dabbd7e91f3413b2121eba3adf6c8c41224a0fce1f4a884044d",
-          "text": "裳削幅谓之。",
-          "aliases": []
+          "version": "sha256:61219e70ee822e255cfff6af3eeb1ee3b406241d3157121da7d19a32cab3c20a",
+          "text": "裳削幅谓之纀。",
+          "aliases": [],
+          "sourceText": "裳削幅谓之。",
+          "correction": {
+            "reason": "裳削幅謂之纀：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“裳削幅謂之纀”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:61219e70ee822e255cfff6af3eeb1ee3b406241d3157121da7d19a32cab3c20a"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0023",
@@ -4541,9 +5080,20 @@
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0026",
-          "version": "sha256:0fcae2070383fa202c523f8dba7f5971f0270e8b8d1a9896ce72b92c3b2fd43c",
-          "text": "抟者谓之<米蘭>，米者谓之糪，肉谓之败，鱼谓之馁。",
-          "aliases": []
+          "version": "sha256:977afc59b6a9abc883daf70330852f9447589355e704307702f0aeb0c92009be",
+          "text": "抟者谓之糷，米者谓之糪，肉谓之败，鱼谓之馁。",
+          "aliases": [],
+          "sourceText": "抟者谓之<米蘭>，米者谓之糪，肉谓之败，鱼谓之馁。",
+          "correction": {
+            "reason": "摶者謂之糷：底本此字是拼合占位“<米蘭>”，网页上显示为零件。维基文库《爾雅》此条作“摶者謂之糷”，据以换成单字“糷”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:977afc59b6a9abc883daf70330852f9447589355e704307702f0aeb0c92009be"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0027",
@@ -4577,9 +5127,20 @@
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0032",
-          "version": "sha256:8ddb1fef090564e6a5c4b7b01069b39f65f2ae5bcaf6382da34540c227428902",
-          "text": "<鬲曾>谓之鬵。鬵，鉹也。",
-          "aliases": []
+          "version": "sha256:3ccf40a9138e1d1d20abe54b6b2a2b15300ae3fa2e9f967c6ce7c8ff3e09cc5e",
+          "text": "䰝谓之鬵。鬵，鉹也。",
+          "aliases": [],
+          "sourceText": "<鬲曾>谓之鬵。鬵，鉹也。",
+          "correction": {
+            "reason": "䰝謂之鬵：底本此字是拼合占位“<鬲曾>”。维基文库《爾雅》作“甑謂之鬵”（甑、䰝同字），按占位所示的“鬲、曾”寫作“䰝”，與阮元本《爾雅》同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:3ccf40a9138e1d1d20abe54b6b2a2b15300ae3fa2e9f967c6ce7c8ff3e09cc5e"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0033",
@@ -4607,9 +5168,20 @@
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0037",
-          "version": "sha256:59020a5fed76f8b5958fcfbb8345d887095f4277f9e3a3f17a555acc58ff8cc7",
-          "text": "旄谓之{艹罢}。",
-          "aliases": []
+          "version": "sha256:6ce0e5dee8ebdc4dd98515dd7a8f726c64c02303bae52f1445ee5119f518eb77",
+          "text": "旄谓之藣。",
+          "aliases": [],
+          "sourceText": "旄谓之{艹罢}。",
+          "correction": {
+            "reason": "旄謂之藣：底本此字是拼合占位“{艹罢}”，网页上显示为零件。维基文库《爾雅》此条作“旄謂之藣”，据以换成单字“藣”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:6ce0e5dee8ebdc4dd98515dd7a8f726c64c02303bae52f1445ee5119f518eb77"
+            }
+          }
         },
         {
           "id": "p-erya-2f84e29ac60d6b5a-0038",
@@ -4955,9 +5527,20 @@
         },
         {
           "id": "p-erya-73be9116aef12e8b-0017",
-          "version": "sha256:151b6f0518e6b047a802edb9934e8550717b336b3397ba2ea587308fff13c779",
-          "text": "正月为陬，二月为如，三月为，四月为余，五月为皋，六月为且，七",
-          "aliases": []
+          "version": "sha256:86b89ca487e649bc1d3dbc238014acb076279f008f59050d9883f69026115295",
+          "text": "正月为陬，二月为如，三月为寎，四月为余，五月为皋，六月为且，七",
+          "aliases": [],
+          "sourceText": "正月为陬，二月为如，三月为，四月为余，五月为皋，六月为且，七",
+          "correction": {
+            "reason": "三月爲寎：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“三月爲寎”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:86b89ca487e649bc1d3dbc238014acb076279f008f59050d9883f69026115295"
+            }
+          }
         },
         {
           "id": "p-erya-73be9116aef12e8b-0018",
@@ -4985,9 +5568,20 @@
         },
         {
           "id": "p-erya-73be9116aef12e8b-0022",
-          "version": "sha256:35f4e0be765d35bf88f2bea561d35975f2bdc97d57087053a003e96c4c15025b",
-          "text": "天气下地不应曰{雨矛}，地气发天不应曰雾。雾谓之晦。",
-          "aliases": []
+          "version": "sha256:b61ea31d49c54ff97ff365a3b212da88f012511ad1560d346d9810517cf14a0f",
+          "text": "天气下地不应曰雺，地气发天不应曰雾。雾谓之晦。",
+          "aliases": [],
+          "sourceText": "天气下地不应曰{雨矛}，地气发天不应曰雾。雾谓之晦。",
+          "correction": {
+            "reason": "地不應曰雺：底本此字是拼合占位“{雨矛}”，网页上显示为零件。维基文库《爾雅》此条作“地不應曰雺”，据以换成单字“雺”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b61ea31d49c54ff97ff365a3b212da88f012511ad1560d346d9810517cf14a0f"
+            }
+          }
         },
         {
           "id": "p-erya-73be9116aef12e8b-0023",
@@ -4997,9 +5591,20 @@
         },
         {
           "id": "p-erya-73be9116aef12e8b-0024",
-          "version": "sha256:f45e9afd1a35f19e294dec8bea255cf8d3f63dddcc679360815eeb8af3165f23",
-          "text": "弇日为蔽云。疾雷为霆霓。雨{雨见}为霄雪。",
-          "aliases": []
+          "version": "sha256:7f8d05769ddd5f669a78517290f390267e6fbe429d6cb4ed5ea61d9bf7a61029",
+          "text": "弇日为蔽云。疾雷为霆霓。雨䨘为霄雪。",
+          "aliases": [],
+          "sourceText": "弇日为蔽云。疾雷为霆霓。雨{雨见}为霄雪。",
+          "correction": {
+            "reason": "雨䨘爲霄雪：底本此字是拼合占位“{雨见}”，网页上显示为零件。维基文库《爾雅》此条作“雨䨘爲霄雪”，据以换成单字“䨘”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:7f8d05769ddd5f669a78517290f390267e6fbe429d6cb4ed5ea61d9bf7a61029"
+            }
+          }
         },
         {
           "id": "p-erya-73be9116aef12e8b-0025",
@@ -5129,9 +5734,20 @@
         },
         {
           "id": "p-erya-73be9116aef12e8b-0046",
-          "version": "sha256:5c9d1625a3576e2ea98993c89d5cedda590f4e7b09407995ecf5ea7a7e555561",
-          "text": "是禷是礻马，师祭也。既伯既祷，马祭也。禘，大祭也。绎，又祭也。",
-          "aliases": []
+          "version": "sha256:cf0e75d42f8644e4e68dffe35ff31909e4a384662695765ecb8063e359bc7768",
+          "text": "是禷是祃，师祭也。既伯既祷，马祭也。禘，大祭也。绎，又祭也。",
+          "aliases": [],
+          "sourceText": "是禷是礻马，师祭也。既伯既祷，马祭也。禘，大祭也。绎，又祭也。",
+          "correction": {
+            "reason": "是禷是禡，師祭也：底本“禡”（簡作祃）拆成“礻马”。维基文库《爾雅》作“是禷是禡”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:cf0e75d42f8644e4e68dffe35ff31909e4a384662695765ecb8063e359bc7768"
+            }
+          }
         },
         {
           "id": "p-erya-73be9116aef12e8b-0047",
@@ -5504,9 +6120,20 @@
         },
         {
           "id": "p-erya-8e49afeb807c597a-0007",
-          "version": "sha256:d4fb2930d7f6f6ceac901c07105c0f5b14c1913fd99ff0f2de91a8eee51bd697",
-          "text": "崒者，厜<厂义>。",
-          "aliases": []
+          "version": "sha256:28102c003de0ebfdede9907b9ccd397b7185f7343d5e3a1f8a94f0d825b7ce48",
+          "text": "崒者，厜㕒。",
+          "aliases": [],
+          "sourceText": "崒者，厜<厂义>。",
+          "correction": {
+            "reason": "崒者，厜㕒：底本此字是拼合占位“<厂义>”。维基文库《爾雅》作“厜嶬”（嶬、㕒同字），按占位所示寫作“㕒”，與阮元本同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:28102c003de0ebfdede9907b9ccd397b7185f7343d5e3a1f8a94f0d825b7ce48"
+            }
+          }
         },
         {
           "id": "p-erya-8e49afeb807c597a-0008",
@@ -5693,9 +6320,20 @@
         },
         {
           "id": "p-erya-b4987913e528aef9-0018",
-          "version": "sha256:a61fd10b9a4199f06d9e249cacf03f4ffc8f9166fe252aaaeecc9fd63362dec6",
-          "text": "“汎汎杨舟，绋缡维之”。绋，<索率>也。缡，緌也。",
-          "aliases": []
+          "version": "sha256:4a6699e50fd68df349d508f7856724e685ede0ecc853298ae169c0a1adf1da5d",
+          "text": "“汎汎杨舟，绋缡维之”。绋，繂也。缡，緌也。",
+          "aliases": [],
+          "sourceText": "“汎汎杨舟，绋缡维之”。绋，<索率>也。缡，緌也。",
+          "correction": {
+            "reason": "紼，繂也：底本此字是拼合占位“<索率>”，网页上显示为零件。维基文库《爾雅》此条作“紼，繂也”，据以换成单字“繂”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4a6699e50fd68df349d508f7856724e685ede0ecc853298ae169c0a1adf1da5d"
+            }
+          }
         },
         {
           "id": "p-erya-b4987913e528aef9-0019",
@@ -5780,9 +6418,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0003",
-          "version": "sha256:96dade81481cf085b8521a6931fe0b6aa8e8da0f4d068c5663dd22395aaccc7c",
-          "text": "葝，山。",
-          "aliases": []
+          "version": "sha256:2721a674bbde2b13c2d08e2eea83fffa529412b65926395beff8100808c8738c",
+          "text": "葝，山薤。",
+          "aliases": [],
+          "sourceText": "葝，山。",
+          "correction": {
+            "reason": "葝，山薤：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“葝，山薤”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2721a674bbde2b13c2d08e2eea83fffa529412b65926395beff8100808c8738c"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0004",
@@ -5864,9 +6513,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0017",
-          "version": "sha256:a3510cc0b0d5726e2918abbd5138362a01de32e2cc1944a95379625bd8edeef1",
-          "text": "{艹庳}，鼠莞。",
-          "aliases": []
+          "version": "sha256:05ce0da4cda4495d6f67e9244522c0da7d80023ad980cba372e662a24b66e342",
+          "text": "萆，鼠莞。",
+          "aliases": [],
+          "sourceText": "{艹庳}，鼠莞。",
+          "correction": {
+            "reason": "萆，鼠莞：底本此字是拼合占位“{艹庳}”，网页上显示为零件。维基文库《爾雅》此条作“萆，鼠莞”，据以换成单字“萆”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:05ce0da4cda4495d6f67e9244522c0da7d80023ad980cba372e662a24b66e342"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0018",
@@ -5960,9 +6620,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0033",
-          "version": "sha256:bfcdcfdba457944cd8c09eb6716a0b85915d96d2279ad8f2849adc9497d43251",
-          "text": "{艹龠}，雀麦。",
-          "aliases": []
+          "version": "sha256:c97f556ae74f1630379d298eab4a2a1109a439130e0fdc9e57f3410b216c67d8",
+          "text": "蘥，雀麦。",
+          "aliases": [],
+          "sourceText": "{艹龠}，雀麦。",
+          "correction": {
+            "reason": "蘥，雀麥：底本此字是拼合占位“{艹龠}”，网页上显示为零件。维基文库《爾雅》此条作“蘥，雀麥”，据以换成单字“蘥”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c97f556ae74f1630379d298eab4a2a1109a439130e0fdc9e57f3410b216c67d8"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0034",
@@ -6002,9 +6673,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0040",
-          "version": "sha256:0e41fda077207f1817834cd62a2e1ac2169fda308dd271a5f842260f571a44bf",
-          "text": "，怀羊。",
-          "aliases": []
+          "version": "sha256:193f28027d66049926ee0b3d28d7b99896d1dd735e4e9b8e5876f4b45289b136",
+          "text": "藱，怀羊。",
+          "aliases": [],
+          "sourceText": "，怀羊。",
+          "correction": {
+            "reason": "藱，懷羊：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“藱，懷羊”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:193f28027d66049926ee0b3d28d7b99896d1dd735e4e9b8e5876f4b45289b136"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0041",
@@ -6014,9 +6696,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0042",
-          "version": "sha256:08ef4b97202d313eac9e3493bb503af07c9ac22733ca32abdfea124a9cd75334",
-          "text": "{艹突}，芦萉。",
-          "aliases": []
+          "version": "sha256:6743de78a02fa4bcc1088fed5f758d1d78171fc51d0ae22654498ef3f94e68fd",
+          "text": "葖，芦萉。",
+          "aliases": [],
+          "sourceText": "{艹突}，芦萉。",
+          "correction": {
+            "reason": "葖，蘆萉：底本此字是拼合占位“{艹突}”，网页上显示为零件。维基文库《爾雅》此条作“葖，蘆萉”，据以换成单字“葖”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:6743de78a02fa4bcc1088fed5f758d1d78171fc51d0ae22654498ef3f94e68fd"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0043",
@@ -6026,9 +6719,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0044",
-          "version": "sha256:c1d181bf8f9fd3462a30234bf766ebd12d381bded3dc530ea557a8b07ac4cbf8",
-          "text": "筍，竹萌，{汤}，竹。",
-          "aliases": []
+          "version": "sha256:5b969b24aae175b3741f8e0b70a65c24992f55a520cd1d60e62c0a61c69a63ae",
+          "text": "筍，竹萌。簜，竹。",
+          "aliases": [],
+          "sourceText": "筍，竹萌，{汤}，竹。",
+          "correction": {
+            "reason": "筍，竹萌。簜，竹：底本“簜”是私用區編碼的竹頭加“汤”拼成的占位，兩條還被逗號連成一條。维基文库《爾雅》作“筍，竹萌。簜，竹”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5b969b24aae175b3741f8e0b70a65c24992f55a520cd1d60e62c0a61c69a63ae"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0045",
@@ -6074,9 +6778,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0052",
-          "version": "sha256:738ab726c50bc783a76be5e44c80fd6c254091ab611347111d2e9f840157f181",
-          "text": "葍，{艹富}。",
-          "aliases": []
+          "version": "sha256:0ef1223f689ac8b069dad24ee0aa12d07189b55291176f8789d76c986f34c68f",
+          "text": "葍，䔰。",
+          "aliases": [],
+          "sourceText": "葍，{艹富}。",
+          "correction": {
+            "reason": "葍，䔰：底本此字是拼合占位“{艹富}”，网页上显示为零件。维基文库《爾雅》此条作“葍，䔰”，据以换成单字“䔰”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0ef1223f689ac8b069dad24ee0aa12d07189b55291176f8789d76c986f34c68f"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0053",
@@ -6104,9 +6819,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0057",
-          "version": "sha256:403653d6a49db177a575771567d87a05b38accf73336b4cda6fc8eb73e4a18db",
-          "text": "莁荑，{艹杀}蘠。",
-          "aliases": []
+          "version": "sha256:5680a707886499c2366487a9e9eaca81e2acd882224edfc87481a69f86659241",
+          "text": "莁荑，蔱蘠。",
+          "aliases": [],
+          "sourceText": "莁荑，{艹杀}蘠。",
+          "correction": {
+            "reason": "莁荑，蔱蘠：底本此字是拼合占位“{艹杀}”，网页上显示为零件。维基文库《爾雅》此条作“莁荑，蔱蘠”，据以换成单字“蔱”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5680a707886499c2366487a9e9eaca81e2acd882224edfc87481a69f86659241"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0058",
@@ -6128,9 +6854,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0061",
-          "version": "sha256:76c9cc014a47e711d31e8e002db186b8755dffdc89b067aadc8e6400db8190e7",
-          "text": "{艹秭}，苵。",
-          "aliases": []
+          "version": "sha256:1f0585a802a8b4496899f3457f1920c53c6dacf80f9db33f1d11815cacbda0db",
+          "text": "蕛，苵。",
+          "aliases": [],
+          "sourceText": "{艹秭}，苵。",
+          "correction": {
+            "reason": "蕛，苵：底本此字是拼合占位“{艹秭}”，网页上显示为零件。维基文库《爾雅》此条作“蕛，苵”，据以换成单字“蕛”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1f0585a802a8b4496899f3457f1920c53c6dacf80f9db33f1d11815cacbda0db"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0062",
@@ -6140,9 +6877,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0063",
-          "version": "sha256:c40fd1537f29c21018ece6c1a85fb0c98ddd65eaa4be828276fec42438207335",
-          "text": "，鸿薈。",
-          "aliases": []
+          "version": "sha256:fd823baf52d71519cbe2c50ebf095196e0c2602d6ca47737fcb7ac5820581105",
+          "text": "薤，鸿薈。",
+          "aliases": [],
+          "sourceText": "，鸿薈。",
+          "correction": {
+            "reason": "薤，鴻薈：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“薤，鴻薈”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:fd823baf52d71519cbe2c50ebf095196e0c2602d6ca47737fcb7ac5820581105"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0064",
@@ -6158,9 +6906,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0066",
-          "version": "sha256:876544f5c1d86c595d7810027decc8fd2e112a24bcdd8bb7c964b265e4dcbb5f",
-          "text": "，蓚。",
-          "aliases": []
+          "version": "sha256:fbdada89a926688d3b7f1b86a18dbfed300c6050b10155e739de128ec244f863",
+          "text": "蓧，蓚。",
+          "aliases": [],
+          "sourceText": "，蓚。",
+          "correction": {
+            "reason": "蓧，蓨：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“蓧，蓨”（“蓚”“蓨”同字）；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:fbdada89a926688d3b7f1b86a18dbfed300c6050b10155e739de128ec244f863"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0067",
@@ -6260,9 +7019,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0083",
-          "version": "sha256:5e0739995da3d04ebfd4f5167ea1136ce9ce14c4b9006fcd4d3da03b31e542a7",
-          "text": "{艹龙}，天{艹龠}。",
-          "aliases": []
+          "version": "sha256:c1b39fefb4565abde649f5816a980cdc84a1be4a5f81ecfb87a592c6c9105cc8",
+          "text": "茏，天蘥。",
+          "aliases": [],
+          "sourceText": "{艹龙}，天{艹龠}。",
+          "correction": {
+            "reason": "蘢（簡作茏），天蘥：底本兩字都是拼合占位“{艹龙}”“{艹龠}”。维基文库《爾雅》作“蘢，天蘥”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c1b39fefb4565abde649f5816a980cdc84a1be4a5f81ecfb87a592c6c9105cc8"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0084",
@@ -6344,15 +7114,37 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0097",
-          "version": "sha256:d41ec4f6508141c62d6bda02b04e2c02b964c0fe8ddd0f4f3aed6545207460b9",
-          "text": "蔨，鹿{艹靃}，其实莥。",
-          "aliases": []
+          "version": "sha256:4e3cfeb0e7be354f2a9d495f98b42a937f6ca05a8b33fa1af73e828d0d20d7ac",
+          "text": "蔨，鹿藿，其实莥。",
+          "aliases": [],
+          "sourceText": "蔨，鹿{艹靃}，其实莥。",
+          "correction": {
+            "reason": "蔨，鹿藿：底本此字是拼合占位“{艹靃}”（艹頭加靃，即“藿”）。维基文库《爾雅》作“鹿靃”，阮元本作“鹿藿”，按占位所示寫作“藿”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4e3cfeb0e7be354f2a9d495f98b42a937f6ca05a8b33fa1af73e828d0d20d7ac"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0098",
-          "version": "sha256:5ca051696c1231d87992d95c9c4eb54b4379f40c5bf4680a81044c4eadfaef62",
-          "text": "，侯莎，其实媞。",
-          "aliases": []
+          "version": "sha256:bceb7e31e7897d2a2c01328f3dba60ddbff5fcb71a245f5a6edc30691d98b77b",
+          "text": "薃，侯莎，其实媞。",
+          "aliases": [],
+          "sourceText": "，侯莎，其实媞。",
+          "correction": {
+            "reason": "薃，侯莎，其實媞：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“薃，侯莎，其實媞”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:bceb7e31e7897d2a2c01328f3dba60ddbff5fcb71a245f5a6edc30691d98b77b"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0099",
@@ -6434,9 +7226,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0112",
-          "version": "sha256:47f5a937ef55d59c6741ab5e950d6c95e36f165ca9abb8aea1c1f19e38edbf06",
-          "text": "蓫、{艹殇}，马尾。",
-          "aliases": []
+          "version": "sha256:28a96c6f797c77120604633ee68f72d3c92b3d3dde6aefd2f7db78541a72c60f",
+          "text": "蓫薚，马尾。",
+          "aliases": [],
+          "sourceText": "蓫、{艹殇}，马尾。",
+          "correction": {
+            "reason": "蓫薚，馬尾：底本“薚”是拼合占位“{艹殇}”，又被頓號與“蓫”隔開。维基文库《爾雅》作“蓫薚，馬尾”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:28a96c6f797c77120604633ee68f72d3c92b3d3dde6aefd2f7db78541a72c60f"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0113",
@@ -6518,9 +7321,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0126",
-          "version": "sha256:644bd744cdad5cec8690254db1bf14c6f416e01aeb8aa8e40d9a0df9fec74962",
-          "text": "薜，牡{艹赞}。",
-          "aliases": []
+          "version": "sha256:cbff93f8d2bef29b2099b39b8ce250afd0368217250f3e72fba2deda91e53a87",
+          "text": "薜，牡𧄽。",
+          "aliases": [],
+          "sourceText": "薜，牡{艹赞}。",
+          "correction": {
+            "reason": "薛，牡𧄽：底本此字是拼合占位“{艹赞}”。维基文库《爾雅》作“牡𧄽”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:cbff93f8d2bef29b2099b39b8ce250afd0368217250f3e72fba2deda91e53a87"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0127",
@@ -6632,9 +7446,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0145",
-          "version": "sha256:3af2e65d630b8910c058007922c36823cfcfbf31f436034f06ea94a512c85124",
-          "text": "藒车，{艹乞}舆。",
-          "aliases": []
+          "version": "sha256:25b9c03f48cf14570ebbfdba347a734bed4295f5b47daba9d9a38952d29fd856",
+          "text": "藒车，芞舆。",
+          "aliases": [],
+          "sourceText": "藒车，{艹乞}舆。",
+          "correction": {
+            "reason": "藒車，芞輿：底本此字是拼合占位“{艹乞}”，网页上显示为零件。维基文库《爾雅》此条作“藒車，芞輿”，据以换成单字“芞”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:25b9c03f48cf14570ebbfdba347a734bed4295f5b47daba9d9a38952d29fd856"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0146",
@@ -6674,9 +7499,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0152",
-          "version": "sha256:dabdf109a90b085519459a9b818bbf2c87f599fd559c0a6004b18dc11ec2f4a3",
-          "text": "钩，{艹暌}姑。",
-          "aliases": []
+          "version": "sha256:68bce8a33805fa0d6f2467033e2c38c0d3a2603c971e4ce5741e98f9c6f07bbd",
+          "text": "钩，藈姑。",
+          "aliases": [],
+          "sourceText": "钩，{艹暌}姑。",
+          "correction": {
+            "reason": "鉤，藈姑：底本此字是拼合占位“{艹暌}”，网页上显示为零件。维基文库《爾雅》此条作“鉤，藈姑”，据以换成单字“藈”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:68bce8a33805fa0d6f2467033e2c38c0d3a2603c971e4ce5741e98f9c6f07bbd"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0153",
@@ -6710,9 +7546,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0158",
-          "version": "sha256:5661a44df595f5a095ded89f7921c5f6e9f025a5e8ffb5165eff2b8dc160220e",
-          "text": "蔜；赤，枹蓟。",
-          "aliases": []
+          "version": "sha256:5b0c051b1593dfeb7c2a8ec90c314b1c84453a01875b6702bab734f59602ce25",
+          "text": "蔝，蔜。赤，枹蓟。",
+          "aliases": [],
+          "sourceText": "蔜；赤，枹蓟。",
+          "correction": {
+            "reason": "蔝，蔜。赤，枹薊：底本脫去條首“蔝”，又把兩條用分號連在一起。维基文库《爾雅》作“盱，虺牀。蔝，蔜。赤，枹薊”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5b0c051b1593dfeb7c2a8ec90c314b1c84453a01875b6702bab734f59602ce25"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0159",
@@ -6734,9 +7581,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0162",
-          "version": "sha256:7b2a22b1b94423593e0804c3564dc435da732a3579695c3c784e47bb7d5ae4c4",
-          "text": "召，陵苕。黄华蔈，白华茇。",
-          "aliases": []
+          "version": "sha256:d573b09582419f4ebddf47e5d96346cad38624134541d06203f016161249c758",
+          "text": "苕，陵苕。黄华蔈，白华茇。",
+          "aliases": [],
+          "sourceText": "召，陵苕。黄华蔈，白华茇。",
+          "correction": {
+            "reason": "苕，陵苕：底本條首“苕”脫去草頭作“召”。维基文库《爾雅》作“苕，陵苕。黃華蔈，白華茇”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d573b09582419f4ebddf47e5d96346cad38624134541d06203f016161249c758"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0163",
@@ -6788,9 +7646,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0171",
-          "version": "sha256:eee3c0160b78d8d710e2325d9725e80fac7ab365517cb1dc8fc847f2a8b9258b",
-          "text": "{笞心}，箭萌。",
-          "aliases": []
+          "version": "sha256:24889a476439aaa0f6321b9611c2487789585dbf5496d2a6de0d0d02da125542",
+          "text": "䈚，箭萌。",
+          "aliases": [],
+          "sourceText": "{笞心}，箭萌。",
+          "correction": {
+            "reason": "䈚，箭萌：底本此字是拼合占位“{笞心}”，网页上显示为零件。维基文库《爾雅》此条作“䈚，箭萌”，据以换成单字“䈚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:24889a476439aaa0f6321b9611c2487789585dbf5496d2a6de0d0d02da125542"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0172",
@@ -6848,9 +7717,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0181",
-          "version": "sha256:df208a1ce9a7aa67c768eeb406b20d38e3d19105f5fc6da62ef9b57bef418785",
-          "text": "{艹遬}，牡茅。",
-          "aliases": []
+          "version": "sha256:1354b98fd24a06577b58c68a0a28925a8fe5263b223decdd710a62d6ebebe1bb",
+          "text": "藗，牡茅。",
+          "aliases": [],
+          "sourceText": "{艹遬}，牡茅。",
+          "correction": {
+            "reason": "藗，牡茅：底本此字是拼合占位“{艹遬}”，网页上显示为零件。维基文库《爾雅》此条作“藗，牡茅”，据以换成单字“藗”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1354b98fd24a06577b58c68a0a28925a8fe5263b223decdd710a62d6ebebe1bb"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0182",
@@ -6860,9 +7740,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0183",
-          "version": "sha256:0956167550ec101d0d2c91e2993a79d5064ae8d21e5620bf8de1d722c56e7e2d",
-          "text": "蕨，{艹鳖}。",
-          "aliases": []
+          "version": "sha256:d6312272223e002c49465dcd24f7b939f2f286f99c2a6e39f5e5882bdbbdebde",
+          "text": "蕨，虌。",
+          "aliases": [],
+          "sourceText": "蕨，{艹鳖}。",
+          "correction": {
+            "reason": "蕨，虌：底本此字是拼合占位“{艹鳖}”，网页上显示为零件。维基文库《爾雅》此条作“蕨，虌”，据以换成单字“虌”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d6312272223e002c49465dcd24f7b939f2f286f99c2a6e39f5e5882bdbbdebde"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0184",
@@ -6914,9 +7805,20 @@
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0192",
-          "version": "sha256:c1bf4b4141b7025260287cbb9230fa332be85cba0441d53a6bab870f65afd3d7",
-          "text": "葽绕，蕀{艹冤}。",
-          "aliases": []
+          "version": "sha256:3ee59a20f959621eaf8cad4f187e0e207132709dfe7197a70a2e38af4431a1d8",
+          "text": "葽绕，蕀蒬。",
+          "aliases": [],
+          "sourceText": "葽绕，蕀{艹冤}。",
+          "correction": {
+            "reason": "葽繞，棘蒬：底本此字是拼合占位“{艹冤}”，网页上显示为零件。维基文库《爾雅》此条作“葽繞，棘蒬”，据以换成单字“蒬”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:3ee59a20f959621eaf8cad4f187e0e207132709dfe7197a70a2e38af4431a1d8"
+            }
+          }
         },
         {
           "id": "p-erya-be8c1851e2d15e7b-0193",
@@ -7175,9 +8077,20 @@
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0016",
-          "version": "sha256:299d6a3699ccd58899b155ec6fa8008c03a385834a6ef6f0f7286c104d93dc72",
-          "text": "楥，柜枊。",
-          "aliases": []
+          "version": "sha256:8e382e26939aeb14420905e67a12003664f5db788991e7439be9758593771202",
+          "text": "楥，柜柳。",
+          "aliases": [],
+          "sourceText": "楥，柜枊。",
+          "correction": {
+            "reason": "楥，柜柳：底本“柳”误作形近的“枊”。维基文库《爾雅》作“楥，柜柳”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8e382e26939aeb14420905e67a12003664f5db788991e7439be9758593771202"
+            }
+          }
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0017",
@@ -7229,9 +8142,20 @@
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0025",
-          "version": "sha256:0918b2b1467a1710aff7180d06b25e62b75ac3b223cf6a42f9b6bf4d4eb38f51",
-          "text": "魄，榽。",
-          "aliases": []
+          "version": "sha256:cef1d4b3e591a8330056c8bf1400f76ea90ff11019259325495f0cca0d8fb8e2",
+          "text": "魄，榽橀。",
+          "aliases": [],
+          "sourceText": "魄，榽。",
+          "correction": {
+            "reason": "魄，榽橀：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“魄，榽橀”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:cef1d4b3e591a8330056c8bf1400f76ea90ff11019259325495f0cca0d8fb8e2"
+            }
+          }
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0026",
@@ -7325,9 +8249,20 @@
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0041",
-          "version": "sha256:6ef7a4811ea7729a4cfc3ff4ea7fa861e0a29a18f7fb727382ec59c5c574574a",
-          "text": "枫，欇々。",
-          "aliases": []
+          "version": "sha256:fdda7837f353220276685589ea5a6cbec8fa22705c878083b9de450c9b882d79",
+          "text": "枫，欇欇。",
+          "aliases": [],
+          "sourceText": "枫，欇々。",
+          "correction": {
+            "reason": "欇欇：底本疊字的第二字寫成“々”，與同篇“兢兢”“皇皇”等疊字寫法不一，有的字體也顯示不出。维基文库《爾雅》作“欇欇”，改為重寫原字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:fdda7837f353220276685589ea5a6cbec8fa22705c878083b9de450c9b882d79"
+            }
+          }
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0042",
@@ -7463,9 +8398,20 @@
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0064",
-          "version": "sha256:6b6eb78fa87e5f9f61bdd9abc3789e5027b566f2f8fd435a7150e4c9e91a3380",
-          "text": "棪，<木速>其。",
-          "aliases": []
+          "version": "sha256:7aa1a235201efacea177693eb069dc311c44bc1731b1f507e55beb5ecbcdb343",
+          "text": "棪，㯈其。",
+          "aliases": [],
+          "sourceText": "棪，<木速>其。",
+          "correction": {
+            "reason": "棪，㯈其：底本此字是拼合占位“<木速>”，网页上显示为零件。维基文库《爾雅》此条作“棪，㯈其”，据以换成单字“㯈”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:7aa1a235201efacea177693eb069dc311c44bc1731b1f507e55beb5ecbcdb343"
+            }
+          }
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0065",
@@ -7619,9 +8565,20 @@
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0090",
-          "version": "sha256:043b6209aad7cd9124be33f5dc98082bc32a8fe35211f04ac9066dbd683bcfa8",
-          "text": "木相磨，<木埶>。",
-          "aliases": []
+          "version": "sha256:73d42de286d516da430abeaaa2ca95d98cb48ca94e591a0dfabef800b9d83dbb",
+          "text": "木相磨，槸。",
+          "aliases": [],
+          "sourceText": "木相磨，<木埶>。",
+          "correction": {
+            "reason": "木相磨，槸：底本此字是拼合占位“<木埶>”，网页上显示为零件。维基文库《爾雅》此条作“木相磨，槸”，据以换成单字“槸”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:73d42de286d516da430abeaaa2ca95d98cb48ca94e591a0dfabef800b9d83dbb"
+            }
+          }
         },
         {
           "id": "p-erya-bd935fe06a542ba0-0091",
@@ -7724,9 +8681,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0003",
-          "version": "sha256:f6d73ce42369233415e44f43f2f44c85877a5a8a7919fff9304d15bb1e0077be",
-          "text": "螾，入耳。",
-          "aliases": []
+          "version": "sha256:98d92796e5399801ca0c715106e5c6489c9dfbb659f6d7f76cef0664e539b87b",
+          "text": "螾𧊔，入耳。",
+          "aliases": [],
+          "sourceText": "螾，入耳。",
+          "correction": {
+            "reason": "螾𧊔，入耳：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“螾𧊔，入耳”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:98d92796e5399801ca0c715106e5c6489c9dfbb659f6d7f76cef0664e539b87b"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0004",
@@ -7742,9 +8710,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0006",
-          "version": "sha256:23cfeed942eb1bb6ca37b36289746bd79957684542e61305021cdd4509107b9d",
-          "text": "，茅蜩。",
-          "aliases": []
+          "version": "sha256:8dae38ea8e478746de9ce6909bedd213675f2c1b4672c59fb94bc28685b1c797",
+          "text": "蠽，茅蜩。",
+          "aliases": [],
+          "sourceText": "，茅蜩。",
+          "correction": {
+            "reason": "蠽，茅蜩：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“蠽，茅蜩”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:8dae38ea8e478746de9ce6909bedd213675f2c1b4672c59fb94bc28685b1c797"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0007",
@@ -7772,9 +8751,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0011",
-          "version": "sha256:eed51d14dd7e30ea5953cd81a2f5e57e3605a3fe1b47e1e2ffce7a551788674b",
-          "text": "蝎，蛣<虫屈>。",
-          "aliases": []
+          "version": "sha256:cc3758573cebbb3142e83a568c03be307f2ca8ecb44b32048845e5230e7caea8",
+          "text": "蝎，蛣𧌑。",
+          "aliases": [],
+          "sourceText": "蝎，蛣<虫屈>。",
+          "correction": {
+            "reason": "蠍，蛣𧌑：底本此字是拼合占位“<虫屈>”，网页上显示为零件。维基文库《爾雅》此条作“蠍，蛣𧌑”，据以换成单字“𧌑”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:cc3758573cebbb3142e83a568c03be307f2ca8ecb44b32048845e5230e7caea8"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0012",
@@ -7820,9 +8810,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0019",
-          "version": "sha256:6453bd40236a4bea5ac4f69c0a5eb3a71a46f1621c2955c5716c10ed8e4c4109",
-          "text": "蛄{施虫}，强<虫芊>。",
-          "aliases": []
+          "version": "sha256:bd72657b02ececdb7abfcbadd8062cb31652d4611f5aab4a85322ad3c9819bc6",
+          "text": "蛄䗐，强䖹。",
+          "aliases": [],
+          "sourceText": "蛄{施虫}，强<虫芊>。",
+          "correction": {
+            "reason": "蛄䗐，強䖹：底本此字是拼合占位“{施虫}”，网页上显示为零件。维基文库《爾雅》此条作“蛄䗐，強䖹”，据以换成单字“䗐”。；蛄䗐，強䖹：底本此字是拼合占位“<虫芊>”，网页上显示为零件。维基文库《爾雅》此条作“蛄䗐，強䖹”，据以换成单字“䖹”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:bd72657b02ececdb7abfcbadd8062cb31652d4611f5aab4a85322ad3c9819bc6"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0020",
@@ -7856,9 +8857,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0025",
-          "version": "sha256:4d9cc8d13062b863512e591452d02559e9d06061f1ae5d152e79230d7446f0aa",
-          "text": "螁，马<虫戋>。",
-          "aliases": []
+          "version": "sha256:aa5515374a917b5fee25f1e1842a5c6d24f2f0c073d1f3325bff0cb2ebc03dda",
+          "text": "螁，马䗃。",
+          "aliases": [],
+          "sourceText": "螁，马<虫戋>。",
+          "correction": {
+            "reason": "螁，馬䗃：底本此字是拼合占位“<虫戋>”，网页上显示为零件。维基文库《爾雅》此条作“螁，馬䗃”，据以换成单字“䗃”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:aa5515374a917b5fee25f1e1842a5c6d24f2f0c073d1f3325bff0cb2ebc03dda"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0026",
@@ -7958,9 +8970,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0042",
-          "version": "sha256:585b5b853252abcffa190eefedaed7a9b016e1e3494654c5cc9d008a24a70bdf",
-          "text": "，螪何。",
-          "aliases": []
+          "version": "sha256:d97965fa8d975f5cb355ef8b1e5e5b8b06e05c3ab4772804077911cbb684afa8",
+          "text": "蛶，螪何。",
+          "aliases": [],
+          "sourceText": "，螪何。",
+          "correction": {
+            "reason": "蛶，螪何：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“蛶，螪何”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d97965fa8d975f5cb355ef8b1e5e5b8b06e05c3ab4772804077911cbb684afa8"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0043",
@@ -7988,9 +9011,20 @@
         },
         {
           "id": "p-erya-27d28c461b1c6744-0047",
-          "version": "sha256:87b4347a88072d52cb1102bcbcff1bdae772cb64a885b1201c6984a187144148",
-          "text": "，飞蚁，其子蚳。",
-          "aliases": []
+          "version": "sha256:f0f3907b68b17d27ce542a2055339f54a99fa281f14e8e39b2e3e1a67beabfec",
+          "text": "螱，飞蚁，其子蚳。",
+          "aliases": [],
+          "sourceText": "，飞蚁，其子蚳。",
+          "correction": {
+            "reason": "螱，飛螘，其子蚳：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“螱，飛螘，其子蚳”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f0f3907b68b17d27ce542a2055339f54a99fa281f14e8e39b2e3e1a67beabfec"
+            }
+          }
         },
         {
           "id": "p-erya-27d28c461b1c6744-0048",
@@ -8267,9 +9301,20 @@
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0016",
-          "version": "sha256:2dea67018e85bb86e477292cddbce3fd681eb82a9ca835e3671cfd3e539c89e4",
-          "text": "{列鱼}，鱴刀。",
-          "aliases": []
+          "version": "sha256:6f366607e8779e22c5759d5f031d0f058a467e1695ee8de5b5493889a4741df3",
+          "text": "鮤，鱴刀。",
+          "aliases": [],
+          "sourceText": "{列鱼}，鱴刀。",
+          "correction": {
+            "reason": "鮤，鱴刀：底本此字是拼合占位“{列鱼}”，网页上显示为零件。维基文库《爾雅》此条作“鮤，鱴刀”，据以换成单字“鮤”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:6f366607e8779e22c5759d5f031d0f058a467e1695ee8de5b5493889a4741df3"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0017",
@@ -8279,9 +9324,20 @@
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0018",
-          "version": "sha256:e75f68a2f21c3308f27095e3c3ae38571470a70490ddd85fc9debbee0f0c50ea",
-          "text": "鱼有力者。",
-          "aliases": []
+          "version": "sha256:d9c3b3af3853691044e95e2d4e37366cec9cfa4241167deb0cea2fc53a506394",
+          "text": "鱼有力者，鰴。",
+          "aliases": [],
+          "sourceText": "鱼有力者。",
+          "correction": {
+            "reason": "魚有力者，鰴：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“魚有力者，鰴”；本條只剩“魚有力者”，被釋的“鰴”脫落，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:d9c3b3af3853691044e95e2d4e37366cec9cfa4241167deb0cea2fc53a506394"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0019",
@@ -8303,9 +9359,20 @@
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0022",
-          "version": "sha256:234b6fcf7ca5d38ad65843339e0c9b9e3e694f832e00444c51e1b81e814e1c79",
-          "text": "，鯠。",
-          "aliases": []
+          "version": "sha256:5f77eff80c21a5ab36cf921b4d210e4e2eaaff4925a468d30d47db01eb28c94f",
+          "text": "鯬，鯠。",
+          "aliases": [],
+          "sourceText": "，鯠。",
+          "correction": {
+            "reason": "鯬鯠：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“鯬鯠”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5f77eff80c21a5ab36cf921b4d210e4e2eaaff4925a468d30d47db01eb28c94f"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0023",
@@ -8339,9 +9406,20 @@
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0028",
-          "version": "sha256:a816b528d53c4da905da127b55654c1ec466b26e51d786610f7d0d705099ab97",
-          "text": "鼁<酋黾>，蟾诸，在水者黾。",
-          "aliases": []
+          "version": "sha256:f09fe6834c11368f2accdd04680e32f10b95ae09bc0287245f752af9ca7f9480",
+          "text": "鼁𪓰，蟾诸，在水者黾。",
+          "aliases": [],
+          "sourceText": "鼁<酋黾>，蟾诸，在水者黾。",
+          "correction": {
+            "reason": "鼁𪓰，蟾諸：底本此字是拼合占位“<酋黾>”，网页上显示为零件。维基文库《爾雅》此条作“鼁𪓰，蟾諸”，据以换成单字“𪓰”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f09fe6834c11368f2accdd04680e32f10b95ae09bc0287245f752af9ca7f9480"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0029",
@@ -8399,9 +9477,20 @@
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0038",
-          "version": "sha256:f61c236228d8fe7926c6b6182d4685964dbf67b0ec92974e367bc863a4215dc6",
-          "text": "贝，居陆<贝猋>，在水者蜬。",
-          "aliases": []
+          "version": "sha256:ed263ce1df22e2fc2aaa8f683f7427dfcc16e1278f7ff859c7682faf223341b7",
+          "text": "贝，居陆贆，在水者蜬。",
+          "aliases": [],
+          "sourceText": "贝，居陆<贝猋>，在水者蜬。",
+          "correction": {
+            "reason": "居陸贆：底本此字是拼合占位“<贝猋>”，网页上显示为零件。维基文库《爾雅》此条作“居陸贆”，据以换成单字“贆”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ed263ce1df22e2fc2aaa8f683f7427dfcc16e1278f7ff859c7682faf223341b7"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0039",
@@ -8435,15 +9524,37 @@
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0044",
-          "version": "sha256:675fec9f57dea53f25722cbe94ebead77ab650ac8f45d83fd944043533d784f7",
-          "text": "<虫困>，大而险。",
-          "aliases": []
+          "version": "sha256:da09e0d28b08ea99ec8786beeaed9cc3301b4285a2966a414be9bc769b3e14da",
+          "text": "𧋕，大而险。",
+          "aliases": [],
+          "sourceText": "<虫困>，大而险。",
+          "correction": {
+            "reason": "𧋕，大而險：底本此字是拼合占位“<虫困>”，网页上显示为零件。维基文库《爾雅》此条作“𧋕，大而險”，据以换成单字“𧋕”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:da09e0d28b08ea99ec8786beeaed9cc3301b4285a2966a414be9bc769b3e14da"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0045",
-          "version": "sha256:174eabb864fc9064d0f917f24ded4b792b06ca55c1f02eaa30deace3d90148cb",
-          "text": "<虫责>，小而橢。",
-          "aliases": []
+          "version": "sha256:75b635ad996f18f150d97acca5a1d8869373e473fa64a90fd1ba04766e7a7178",
+          "text": "𧐐，小而橢。",
+          "aliases": [],
+          "sourceText": "<虫责>，小而橢。",
+          "correction": {
+            "reason": "𧐐，小而橢：底本此字是拼合占位“<虫责>”，网页上显示为零件。维基文库《爾雅》此条作“𧐐，小而橢”，据以换成单字“𧐐”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:75b635ad996f18f150d97acca5a1d8869373e473fa64a90fd1ba04766e7a7178"
+            }
+          }
         },
         {
           "id": "p-erya-7e0ad02c197bf4b9-0046",
@@ -8552,9 +9663,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0006",
-          "version": "sha256:2903f70d7277a5fd45d6b89e6570a8b1632efa3c0dc0508f75d3e0aca90406ef",
-          "text": "鵅，鵋<其鸟>。",
-          "aliases": []
+          "version": "sha256:940f7eb36220f39fa92dbbd35cee4cb47cd2c2e08df5c04ff1e0411a43bf71fb",
+          "text": "鵅，鵋䳢。",
+          "aliases": [],
+          "sourceText": "鵅，鵋<其鸟>。",
+          "correction": {
+            "reason": "鵅，鵋䳢：底本此字是拼合占位“<其鸟>”，网页上显示为零件。维基文库《爾雅》此条作“鵅，鵋䳢”，据以换成单字“䳢”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:940f7eb36220f39fa92dbbd35cee4cb47cd2c2e08df5c04ff1e0411a43bf71fb"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0007",
@@ -8588,9 +9710,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0012",
-          "version": "sha256:2d8467dd978f611e7cd742ca642610f1b9cfaa0a2ee4c238b95c47add4a30aa2",
-          "text": "鵅，乌<暴鸟>。",
-          "aliases": []
+          "version": "sha256:0241c683d8d1858e80bf7dde8ae52872cdfafdbc8d5f83fae60a19c6a9cd318e",
+          "text": "鵅，乌𪈚。",
+          "aliases": [],
+          "sourceText": "鵅，乌<暴鸟>。",
+          "correction": {
+            "reason": "鵅，烏𪈚：底本此字是拼合占位“<暴鸟>”，网页上显示为零件。维基文库《爾雅》此条作“鵅，烏𪈚”，据以换成单字“𪈚”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0241c683d8d1858e80bf7dde8ae52872cdfafdbc8d5f83fae60a19c6a9cd318e"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0013",
@@ -8606,9 +9739,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0015",
-          "version": "sha256:8293d0a795b9715d9acea05adf9023b9af9cd799c750c2170a388cae7e967355",
-          "text": "鳽，。",
-          "aliases": []
+          "version": "sha256:0259ba475a97ab586b40a5e3df80a9e6fcda28bb7b6083bd74db5da04328ad66",
+          "text": "鳽，䴔䴖。",
+          "aliases": [],
+          "sourceText": "鳽，。",
+          "correction": {
+            "reason": "鳽，鵁鶄（簡作䴔䴖）：底本此處是私用區編碼字，網頁上顯示為空白。维基文库《爾雅》作“鳽，鵁鶄（簡作䴔䴖）”，據以換成標準字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0259ba475a97ab586b40a5e3df80a9e6fcda28bb7b6083bd74db5da04328ad66"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0016",
@@ -8648,9 +9792,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0022",
-          "version": "sha256:5d2787230e8b7e37f7dbfef0fcab246e55b0cc34b95423dfc216812c4aa4b8bf",
-          "text": "鶨，<其鸟>老。",
-          "aliases": []
+          "version": "sha256:80741db9ef37f62adeb8fabac648c898ab7879e0e6cab70785dee809bd06e8bd",
+          "text": "鶨，䳢老。",
+          "aliases": [],
+          "sourceText": "鶨，<其鸟>老。",
+          "correction": {
+            "reason": "鶨，䳢老：底本此字是拼合占位“<其鸟>”，网页上显示为零件。维基文库《爾雅》此条作“鶨，䳢老”，据以换成单字“䳢”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:80741db9ef37f62adeb8fabac648c898ab7879e0e6cab70785dee809bd06e8bd"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0023",
@@ -8684,15 +9839,37 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0028",
-          "version": "sha256:b555af2eb3d0147a21f9acc54f80da9e753c01c9102eb21fd88876643e85d25c",
-          "text": "<即鸟>鸰，雝渠。",
-          "aliases": []
+          "version": "sha256:1e4ce8ff80d3ebcd45630ac5a8baffa2059b2ee8f02c3873a31d48301325bc6b",
+          "text": "𪃹鸰，雝渠。",
+          "aliases": [],
+          "sourceText": "<即鸟>鸰，雝渠。",
+          "correction": {
+            "reason": "𪃹鴒，雝渠：底本此字是拼合占位“<即鸟>”，网页上显示为零件。维基文库《爾雅》此条作“𪃹鴒，雝渠”，据以换成单字“𪃹”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:1e4ce8ff80d3ebcd45630ac5a8baffa2059b2ee8f02c3873a31d48301325bc6b"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0029",
-          "version": "sha256:3a9de60b674b1bf7a0e8869dd8bb3c02c9a50e22b18382fd4efa244f4c1972a3",
-          "text": "斯，鹎鶋。",
-          "aliases": []
+          "version": "sha256:4d61a253a38ae81022a2f7ddd44ba29b25ceba907db474c3e281b7e50b831e3b",
+          "text": "鸴斯，鹎鶋。",
+          "aliases": [],
+          "sourceText": "斯，鹎鶋。",
+          "correction": {
+            "reason": "鷽斯（簡作鸴斯），鵯鶋：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“鷽斯（簡作鸴斯），鵯鶋”；本條條首脫字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:4d61a253a38ae81022a2f7ddd44ba29b25ceba907db474c3e281b7e50b831e3b"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0030",
@@ -8810,9 +9987,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0049",
-          "version": "sha256:4b6de44bb60b5470957a0fd4f5fbb84aa42e47abc43b3443bef24660797aac72",
-          "text": "鴔，戴鵀。",
-          "aliases": []
+          "version": "sha256:220d260d77ec730198d33f11eedcbb1e1aa50917625fe1d51daf496e87f54a61",
+          "text": "鵖鴔，戴鵀。",
+          "aliases": [],
+          "sourceText": "鴔，戴鵀。",
+          "correction": {
+            "reason": "鵖鴔，戴鵀：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“鵖鴔，戴鵀”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:220d260d77ec730198d33f11eedcbb1e1aa50917625fe1d51daf496e87f54a61"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0050",
@@ -8840,9 +10028,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0054",
-          "version": "sha256:30e7be2693cc18c63a40822a0329b4726cf1de83c1b0c489e5ea3908959520a4",
-          "text": "鴢，头。",
-          "aliases": []
+          "version": "sha256:2b6834d81ef925a63c947fdd04a341a08282d625862c9895af72c7a488a2de1f",
+          "text": "鴢，头䴔。",
+          "aliases": [],
+          "sourceText": "鴢，头。",
+          "correction": {
+            "reason": "鴢，頭鵁（簡作䴔）：底本此處是私用區編碼字，網頁上顯示為空白。维基文库《爾雅》作“鴢，頭鵁（簡作䴔）”，據以換成標準字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2b6834d81ef925a63c947fdd04a341a08282d625862c9895af72c7a488a2de1f"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0055",
@@ -8858,15 +10057,37 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0057",
-          "version": "sha256:8d2419e0d956ae1684e2385a796c30aa7a75c0629d63d2e78b07b7bc1110f895",
-          "text": "鶟，{胡鸟}鸟。",
-          "aliases": []
+          "version": "sha256:ed56b7fcee36e09ac1ed582f5828d46c495f0a20d496c3be2760a3894c97c6ef",
+          "text": "鶟，鶦鸟。",
+          "aliases": [],
+          "sourceText": "鶟，{胡鸟}鸟。",
+          "correction": {
+            "reason": "鶟，鶦鳥：底本此字是拼合占位“{胡鸟}”，网页上显示为零件。维基文库《爾雅》此条作“鶟，鶦鳥”，据以换成单字“鶦”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:ed56b7fcee36e09ac1ed582f5828d46c495f0a20d496c3be2760a3894c97c6ef"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0058",
-          "version": "sha256:7a12196e5bd89d737ad7882d621bcb138081022ab3d965ea36a7bbef35b2b3be",
-          "text": "狂，鸟。",
-          "aliases": []
+          "version": "sha256:73c85dd2acf4cebfe765936f595431a53d256d7f5f7bb82cb86bc35c42d8e2aa",
+          "text": "狂，㝱鸟。",
+          "aliases": [],
+          "sourceText": "狂，鸟。",
+          "correction": {
+            "reason": "狂，㝱鳥：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“狂，㝱鳥”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:73c85dd2acf4cebfe765936f595431a53d256d7f5f7bb82cb86bc35c42d8e2aa"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0059",
@@ -8960,15 +10181,37 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0074",
-          "version": "sha256:441fb755d9ea771fc8aa269a381bd933dcaf3a87b0292d5b2fa3600747721079",
-          "text": "，斫木。",
-          "aliases": []
+          "version": "sha256:daf3db20ab5742929d46b160e19172bad2fb63d311283b4f85fe25721cbe71c7",
+          "text": "䴕，斫木。",
+          "aliases": [],
+          "sourceText": "，斫木。",
+          "correction": {
+            "reason": "鴷（簡作䴕），斲木：底本此處是私用區編碼字，網頁上顯示為空白。维基文库《爾雅》作“鴷（簡作䴕），斲木”，據以換成標準字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:daf3db20ab5742929d46b160e19172bad2fb63d311283b4f85fe25721cbe71c7"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0075",
-          "version": "sha256:d047485c0ae299c62821d7eb725f0a50aaa16d94e142a85ff037e10e3ecf8224",
-          "text": "{敫鸟}，鶶鷵。",
-          "aliases": []
+          "version": "sha256:dcd1f14619c904edd64b10b99ab9515e0a380ab4b6d0aa146846357956c473e4",
+          "text": "鸄，鶶鷵。",
+          "aliases": [],
+          "sourceText": "{敫鸟}，鶶鷵。",
+          "correction": {
+            "reason": "鸄，鶶鷵：底本此字是拼合占位“{敫鸟}”，网页上显示为零件。维基文库《爾雅》此条作“鸄，鶶鷵”，据以换成单字“鸄”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:dcd1f14619c904edd64b10b99ab9515e0a380ab4b6d0aa146846357956c473e4"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0076",
@@ -8978,9 +10221,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0077",
-          "version": "sha256:676ebe8d759d68a710b873945922400149b946a769ddcd0cd6837ecc3e4a0d66",
-          "text": "鹭，春鉏。",
-          "aliases": []
+          "version": "sha256:94a7458b0c8a8e4a50cef75e794db13dde20eaf114a7c6be82317fd8b2f46b63",
+          "text": "鹭，舂鉏。",
+          "aliases": [],
+          "sourceText": "鹭，春鉏。",
+          "correction": {
+            "reason": "鷺，舂鉏：底本“舂”误作形近的“春”。维基文库《爾雅》作“鷺，舂鉏”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:94a7458b0c8a8e4a50cef75e794db13dde20eaf114a7c6be82317fd8b2f46b63"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0078",
@@ -9020,9 +10274,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0084",
-          "version": "sha256:9bab4675264f90add11ca7adcf47a7ae6973065bba3d48239363e93eb2859793",
-          "text": "雗雉，<卓鸟>雉。",
-          "aliases": []
+          "version": "sha256:15fb6f5026c5bd05ff889152b0bd5a0a9409851120134b44c5119abaf82f6aeb",
+          "text": "雗雉，鵫雉。",
+          "aliases": [],
+          "sourceText": "雗雉，<卓鸟>雉。",
+          "correction": {
+            "reason": "雗雉，鵫雉：底本此字是拼合占位“<卓鸟>”，网页上显示为零件。维基文库《爾雅》此条作“雗雉，鵫雉”，据以换成单字“鵫”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:15fb6f5026c5bd05ff889152b0bd5a0a9409851120134b44c5119abaf82f6aeb"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0085",
@@ -9038,9 +10303,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0087",
-          "version": "sha256:5f141188bb771f4c5f5b5b28f9d8da830566d9f48d1ff6d01c92945530eb4bec",
-          "text": "南方曰，东方曰鶅，北方曰鵗，西方曰鷷。",
-          "aliases": []
+          "version": "sha256:60b3709638120bdcdc66c140acab3668469baa60387b7ae522ff7ec70fb8a741",
+          "text": "南方曰𤾊，东方曰鶅，北方曰鵗，西方曰鷷。",
+          "aliases": [],
+          "sourceText": "南方曰，东方曰鶅，北方曰鵗，西方曰鷷。",
+          "correction": {
+            "reason": "南方曰𤾊：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“南方曰𤾊”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:60b3709638120bdcdc66c140acab3668469baa60387b7ae522ff7ec70fb8a741"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0088",
@@ -9056,9 +10332,20 @@
         },
         {
           "id": "p-erya-6f193d6b96861380-0090",
-          "version": "sha256:6d62e0a6a584bbd726635b91d17d12fe9feafd96e9d35533986b8ae2ff3b41fc",
-          "text": "鹊丑，其飞也翪。",
-          "aliases": []
+          "version": "sha256:df35dbd5b036c11456c226e675ef0a53da52743dd69d92f1191dd7f159bfd117",
+          "text": "鹊鵙丑，其飞也翪。",
+          "aliases": [],
+          "sourceText": "鹊丑，其飞也翪。",
+          "correction": {
+            "reason": "鵲鵙醜：底本此處是私用區編碼字，網頁上顯示為空白。维基文库《爾雅》作“鵲鵙醜”，據以換成標準字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:df35dbd5b036c11456c226e675ef0a53da52743dd69d92f1191dd7f159bfd117"
+            }
+          }
         },
         {
           "id": "p-erya-6f193d6b96861380-0091",
@@ -9149,27 +10436,71 @@
       "paragraphs": [
         {
           "id": "p-erya-c2ef0ce166bdb16b-0001",
-          "version": "sha256:7d92e88ca827bf27908509a9d03d01e071f250bffb237b7da2d8708f8d0b27ca",
-          "text": "麋，牡麔，牝麎，其子{鹿夭}，其迹躔，绝有力狄。",
-          "aliases": []
+          "version": "sha256:74decc37e7693fd0c8b95a6a3e4bdaa5fd72e2347b390bb68573408de01da40c",
+          "text": "麋，牡麔，牝麎，其子䴠，其迹躔，绝有力狄。",
+          "aliases": [],
+          "sourceText": "麋，牡麔，牝麎，其子{鹿夭}，其迹躔，绝有力狄。",
+          "correction": {
+            "reason": "其子䴠：底本此字是拼合占位“{鹿夭}”，网页上显示为零件。维基文库《爾雅》此条作“其子䴠”，据以换成单字“䴠”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:74decc37e7693fd0c8b95a6a3e4bdaa5fd72e2347b390bb68573408de01da40c"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0002",
-          "version": "sha256:0d29970596de0aa88c0fb09d7fcad1427958784b338985ac33f911599f5eed19",
-          "text": "鹿，牡麚，牝麀，其子麛，其迹速，绝有力{鹿幵}。",
-          "aliases": []
+          "version": "sha256:c253136e38d3678e11d7fa82d03e66e1982ab7e94b2ac699fae75dee0a5343fd",
+          "text": "鹿，牡麚，牝麀，其子麛，其迹速，绝有力𪊑。",
+          "aliases": [],
+          "sourceText": "鹿，牡麚，牝麀，其子麛，其迹速，绝有力{鹿幵}。",
+          "correction": {
+            "reason": "絕有力，𪊑：底本此字是拼合占位“{鹿幵}”，网页上显示为零件。维基文库《爾雅》此条作“絕有力，𪊑”，据以换成单字“𪊑”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c253136e38d3678e11d7fa82d03e66e1982ab7e94b2ac699fae75dee0a5343fd"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0003",
-          "version": "sha256:2024d6839eb1946414721845e805146116f0306325361fb163010a44cf74af58",
-          "text": "麕，牡麌，牝麜，其子{鹿旦}，其迹解，绝有力<豸幵>。",
-          "aliases": []
+          "version": "sha256:02c407837cea97330c6d6e5ac061be56b7e731eb9027bcbe20d5ca84dc5eab5c",
+          "text": "麕，牡麌，牝麜，其子麆，其迹解，绝有力豜。",
+          "aliases": [],
+          "sourceText": "麕，牡麌，牝麜，其子{鹿旦}，其迹解，绝有力<豸幵>。",
+          "correction": {
+            "reason": "其子麆：底本此字是拼合占位“{鹿旦}”，网页上显示为零件。维基文库《爾雅》此条作“其子麆”，据以换成单字“麆”。；絕有力，豜：底本此字是拼合占位“<豸幵>”，网页上显示为零件。维基文库《爾雅》此条作“絕有力，豜”，据以换成单字“豜”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:02c407837cea97330c6d6e5ac061be56b7e731eb9027bcbe20d5ca84dc5eab5c"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0004",
-          "version": "sha256:ecba5969e7e00f760cc075754f4d05b9bb59571265d2aa4853f16dd08b2ca37b",
-          "text": "狼，牡貛，牝狼，其子，獥，绝有力，迅。",
-          "aliases": []
+          "version": "sha256:315d5f17400589ed243810f9848bec3a3a72c5fd676f69c1c2920b50c199be25",
+          "text": "狼，牡貛，牝狼，其子獥，绝有力，迅。",
+          "aliases": [],
+          "sourceText": "狼，牡貛，牝狼，其子，獥，绝有力，迅。",
+          "correction": {
+            "reason": "其子獥：底本“其子”與“獥”之間多一逗號，把一句拆開。维基文库《爾雅》作“其子獥”，與上文“其子麛”“其子麆”同例。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:315d5f17400589ed243810f9848bec3a3a72c5fd676f69c1c2920b50c199be25"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0005",
@@ -9179,15 +10510,37 @@
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0006",
-          "version": "sha256:966d9bdc7fe8df735132f55658534fd386a4ab4f9085b2570ef6bf31fa0805cf",
-          "text": "豕子，猪。<豸隋>，<豸贲>。幺，幼。奏者<豸昷>。豕生三豵，二师，",
-          "aliases": []
+          "version": "sha256:72fc97336a5dde66d14bed5f92f195b964659a171593ebf525a04aabcbaaeec1",
+          "text": "豕子，猪。䝐，豮。幺，幼。奏者豱。豕生三豵，二师，",
+          "aliases": [],
+          "sourceText": "豕子，猪。<豸隋>，<豸贲>。幺，幼。奏者<豸昷>。豕生三豵，二师，",
+          "correction": {
+            "reason": "䝐豶：底本此字是拼合占位“<豸隋>”，网页上显示为零件。维基文库《爾雅》此条作“䝐豶”，据以换成单字“䝐”。；䝐豶（簡作豮）：底本此字是拼合占位“<豸贲>”。维基文库《爾雅》作“䝐豶”。；奏者豱：底本此字是拼合占位“<豸昷>”。维基文库《爾雅》作“奏者豱”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:72fc97336a5dde66d14bed5f92f195b964659a171593ebf525a04aabcbaaeec1"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0007",
-          "version": "sha256:bc6aef3d4d448b030502d3fa414448cfcdc92a8d3c95d98c41d40b406952fa25",
-          "text": "一特。所寝，橧。四豴皆白，豥。其迹刻，绝有力<豕厄>。牝豝。",
-          "aliases": []
+          "version": "sha256:0e09da6e0f6ada6a46834d828f5d719200537a49aa7f4031a9027ac71b1a6b80",
+          "text": "一特。所寝，橧。四豴皆白，豥。其迹刻，绝有力豟。牝豝。",
+          "aliases": [],
+          "sourceText": "一特。所寝，橧。四豴皆白，豥。其迹刻，绝有力<豕厄>。牝豝。",
+          "correction": {
+            "reason": "絕有力，豟：底本此字是拼合占位“<豕厄>”（豕旁加戹，即“豟”）。维基文库《爾雅》作“䝈”（同字異體），阮元本作“豟”，按占位所示寫作“豟”；本書釋畜“彘五尺爲”同此字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0e09da6e0f6ada6a46834d828f5d719200537a49aa7f4031a9027ac71b1a6b80"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0008",
@@ -9203,15 +10556,37 @@
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0010",
-          "version": "sha256:078bd005f99634fdb5dfd8bfabeefb85aa44dc606943b17ff41250050ac41260",
-          "text": "甝，白虎。<虎儵>，黑虎。",
-          "aliases": []
+          "version": "sha256:0a7abd6fee7bda20b521a489a6b4885a0bc79f296b887dfa89550d405d9959ac",
+          "text": "甝，白虎。虪，黑虎。",
+          "aliases": [],
+          "sourceText": "甝，白虎。<虎儵>，黑虎。",
+          "correction": {
+            "reason": "虪，黑虎：底本此字是拼合占位“<虎儵>”，网页上显示为零件。维基文库《爾雅》此条作“虪，黑虎”，据以换成单字“虪”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:0a7abd6fee7bda20b521a489a6b4885a0bc79f296b887dfa89550d405d9959ac"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0011",
-          "version": "sha256:3b6fa40d2fbc3754434c820296376a1af5f532129fec89f86558fae73a096523",
-          "text": "<豕出>，无前足。",
-          "aliases": []
+          "version": "sha256:5468c682fe2d877c0712c8d986a49c3fb65c862be340fa8f418989301ef7cc0e",
+          "text": "貀，无前足。",
+          "aliases": [],
+          "sourceText": "<豕出>，无前足。",
+          "correction": {
+            "reason": "貀，無前足：底本此字是拼合占位“<豕出>”，网页上显示为零件。维基文库《爾雅》此条作“貀，無前足”，据以换成单字“貀”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:5468c682fe2d877c0712c8d986a49c3fb65c862be340fa8f418989301ef7cc0e"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0012",
@@ -9227,9 +10602,20 @@
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0014",
-          "version": "sha256:f11c025360157c2ede471da5849bcae8a382dd5ff69fdcef1c96adbffbbb62d2",
-          "text": "貍子，<豸隶>。",
-          "aliases": []
+          "version": "sha256:f8eecc4d1c04c51b90d48e83c74559546ad94e2f12b30a7e8d8cedfde3ab8bb3",
+          "text": "貍子，𧳙。",
+          "aliases": [],
+          "sourceText": "貍子，<豸隶>。",
+          "correction": {
+            "reason": "貍子，𧳙：底本此字是拼合占位“<豸隶>”，网页上显示为零件。维基文库《爾雅》此条作“貍子，𧳙”，据以换成单字“𧳙”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:f8eecc4d1c04c51b90d48e83c74559546ad94e2f12b30a7e8d8cedfde3ab8bb3"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0015",
@@ -9263,9 +10649,20 @@
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0020",
-          "version": "sha256:6d34aeb83cb468052dbc70ae9db245d4cbd1b789246e77d6064c72fb684df155",
-          "text": "貙<豸曼>，似貍。",
-          "aliases": []
+          "version": "sha256:c0bb97691e4d0ed76603baad0ae9de16be4dc12ae7e4e708f47c61cdf1c0dee5",
+          "text": "貙獌，似貍。",
+          "aliases": [],
+          "sourceText": "貙<豸曼>，似貍。",
+          "correction": {
+            "reason": "貙獌，似貍：底本此字是拼合占位“<豸曼>”，网页上显示为零件。维基文库《爾雅》此条作“貙獌，似貍”，据以换成单字“獌”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:c0bb97691e4d0ed76603baad0ae9de16be4dc12ae7e4e708f47c61cdf1c0dee5"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0021",
@@ -9371,9 +10768,20 @@
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0038",
-          "version": "sha256:0273f422ad8b315fae3539ba38e3558edab65a208e7224df766eb9098611a5be",
-          "text": "貍、狐、貒，貈丑。其足蹯，其迹。",
-          "aliases": []
+          "version": "sha256:e844b7394bab201805352a2c3b2cd8f1f62c8b961c4c835c668b097a26eb10a0",
+          "text": "貍、狐、貒，貈丑。其足蹯，其迹𠘯。",
+          "aliases": [],
+          "sourceText": "貍、狐、貒，貈丑。其足蹯，其迹。",
+          "correction": {
+            "reason": "其跡，𠘯：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“其跡，𠘯”，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:e844b7394bab201805352a2c3b2cd8f1f62c8b961c4c835c668b097a26eb10a0"
+            }
+          }
         },
         {
           "id": "p-erya-c2ef0ce166bdb16b-0039",
@@ -9632,9 +11040,20 @@
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0026",
-          "version": "sha256:0ec2fc8fcdb1f9852fa81cab909b71c8481de74db8fc75f00b781e8adbbedd3a",
-          "text": "苍白杂毛，骓。彤白杂毛，騢。白马黄鬛，骆。白马黑唇，駩。",
-          "aliases": []
+          "version": "sha256:3cc4bb2d9782caabbb4228645cd38606d23077f04135bc2f24f5bab7541c2192",
+          "text": "苍白杂毛，骓。彤白杂毛，騢。白马黑鬛，骆。白马黑唇，駩。",
+          "aliases": [],
+          "sourceText": "苍白杂毛，骓。彤白杂毛，騢。白马黄鬛，骆。白马黑唇，駩。",
+          "correction": {
+            "reason": "白馬黑鬣，駱：底本“黑”误作“黄”。维基文库《爾雅》作“白馬黑鬣，駱”，《說文》亦以駱為白馬黑鬣尾；上文“駵馬黃脊”另是一條。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:3cc4bb2d9782caabbb4228645cd38606d23077f04135bc2f24f5bab7541c2192"
+            }
+          }
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0027",
@@ -9668,9 +11087,20 @@
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0032",
-          "version": "sha256:536561caa7920500f862b074a3e21efc05eda8cd1563a9a9c930db82376cfb4a",
-          "text": "牛。",
-          "aliases": []
+          "version": "sha256:2e8b95e5730274cf055955a41659e42e3160ad98b5c4740cdee00fe4b8f81956",
+          "text": "犦牛。",
+          "aliases": [],
+          "sourceText": "牛。",
+          "correction": {
+            "reason": "犦牛：底本脫去一個生僻字，只剩標點（或條目殘缺）。维基文库《爾雅》此處作“犦牛”；本條只剩“牛”字，據補。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2e8b95e5730274cf055955a41659e42e3160ad98b5c4740cdee00fe4b8f81956"
+            }
+          }
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0033",
@@ -9746,9 +11176,20 @@
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0045",
-          "version": "sha256:801c88e37bf4d354b5eb1c1d14c5b6d8a8ac8318faed6bb711500958718036b6",
-          "text": "犬生三猣，二师，一犭蕲。",
-          "aliases": []
+          "version": "sha256:94424b4b36a719c9e7e607abc96159466c28e5656573d241b248678c9f9295a0",
+          "text": "犬生三猣，二师，一玂。",
+          "aliases": [],
+          "sourceText": "犬生三猣，二师，一犭蕲。",
+          "correction": {
+            "reason": "犬生三猣、二師、一玂：底本“玂”拆成“犭蕲”兩個零件。维基文库《爾雅》作“一玂”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:94424b4b36a719c9e7e607abc96159466c28e5656573d241b248678c9f9295a0"
+            }
+          }
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0046",
@@ -9794,9 +11235,20 @@
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0053",
-          "version": "sha256:81e68b18d350badade16a1f509ee4c053b1d9bc709248b0107b5b485526452b1",
-          "text": "彘五尺为<豕厄>。",
-          "aliases": []
+          "version": "sha256:2994f73292891d294807eee1e8c88308c35ef1e6a81bfaeba0793a8b5370dab4",
+          "text": "彘五尺为豟。",
+          "aliases": [],
+          "sourceText": "彘五尺为<豕厄>。",
+          "correction": {
+            "reason": "彘五尺爲豟：底本此字是拼合占位“<豕厄>”。维基文库《爾雅》作“䝈”（同字異體），阮元本作“豟”，與本書釋獸“絕有力，豟”同字。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:2994f73292891d294807eee1e8c88308c35ef1e6a81bfaeba0793a8b5370dab4"
+            }
+          }
         },
         {
           "id": "p-erya-153c4b98c60ff64e-0054",
