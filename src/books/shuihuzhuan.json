@@ -15137,9 +15137,20 @@
         },
         {
           "id": "p-shuihuzhuan-013d1ca7547c61a2-2149",
-          "version": "sha256:ca6b9f6f025b5a2469970233703c209259e17099acc9a68d243b18e614684985",
-          "text": "第五十六 回吴用使时迁盗甲 汤隆赚徐宁上山",
-          "aliases": []
+          "version": "sha256:29c5cc4007c7505b0b340d0f1db876bd23aed91adb6089866c3f9cfd3eaeda26",
+          "text": "第五十六回 吴用使时迁盗甲 汤隆赚徐宁上山",
+          "aliases": [],
+          "sourceText": "第五十六 回吴用使时迁盗甲 汤隆赚徐宁上山",
+          "correction": {
+            "reason": "第五十六回回目：底本空格錯位，排成“第五十六 回吴用使时迁盗甲 汤隆赚徐宁上山”。全書其他回目都作“第N回 上句 下句”（如本章首段“第五十五回 高太尉大兴三路兵 呼延灼摆布连环马”、下一章“第五十七回 徐宁教使钩镰枪 宋江大破连环马”），改成同一格式。回目文字與維基文庫《水滸傳 (120回本)/第056回》（修订号 966261）“吳用使時遷盜甲　湯隆賺徐寧上山”相同。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:29c5cc4007c7505b0b340d0f1db876bd23aed91adb6089866c3f9cfd3eaeda26"
+            }
+          }
         },
         {
           "id": "p-shuihuzhuan-013d1ca7547c61a2-2150",
