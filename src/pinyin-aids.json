@@ -21867,7 +21867,7 @@
     {
         "id": "p-hongloumeng-fd3febf13ed09456-0002-pinyin-2949-2978",
         "target": "p-hongloumeng-fd3febf13ed09456-0002",
-        "version": "sha256:21ee17296048fdcda8cd687589f08659a18b891ebda80bdea4bfe05640489609",
+        "version": "sha256:d3c9effdfc8de0004b6cc6a4472ad71cd05d0354b28ad4d70c540e153452ed46",
         "kind": "pinyin",
         "start": 2949,
         "end": 2978,
@@ -22032,7 +22032,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:21ee17296048fdcda8cd687589f08659a18b891ebda80bdea4bfe05640489609"
+            "textVersion": "sha256:d3c9effdfc8de0004b6cc6a4472ad71cd05d0354b28ad4d70c540e153452ed46"
         },
         "rights": {
             "author": "Claude (AI)",
@@ -24240,7 +24240,7 @@
     {
         "id": "p-hongloumeng-a71e7c923093c1fa-0075-pinyin-4-11",
         "target": "p-hongloumeng-a71e7c923093c1fa-0075",
-        "version": "sha256:9d9d3a9d385fbe833d1859a3365f3bc42c8962fc828c5ab6322824f23b7c8829",
+        "version": "sha256:93bb1cc137d575e61438011a4182da5cf7935663fb4f56542ce64f052310bd4e",
         "kind": "pinyin",
         "start": 4,
         "end": 11,
@@ -24291,7 +24291,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:9d9d3a9d385fbe833d1859a3365f3bc42c8962fc828c5ab6322824f23b7c8829"
+            "textVersion": "sha256:93bb1cc137d575e61438011a4182da5cf7935663fb4f56542ce64f052310bd4e"
         },
         "rights": {
             "author": "Claude (AI)",
