@@ -354,9 +354,20 @@
       "paragraphs": [
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0001",
-          "version": "sha256:ebadd5cee943a63b177054a28b9b8f020f90fc26423be65425ed1240d58dcb48",
-          "text": "䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣乾竭然反亨許庚〉",
-          "aliases": []
+          "version": "sha256:153051969ebf915e2402d1a45407a86f8773600f21d1c74ea8d76313acb539fa",
+          "text": "䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣乾竭然反亨許庚反〉",
+          "aliases": [],
+          "sourceText": "䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣乾竭然反亨許庚〉",
+          "correction": {
+            "reason": "乾卦初九注“乾竭然反亨許庚”：陆德明音切“許庚”后脱“反”字。本书他处给“亨”注音均作“亨許庚反”（卷二大有九三注、卷二随上六注、卷十序卦注），据补。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:153051969ebf915e2402d1a45407a86f8773600f21d1c74ea8d76313acb539fa"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0002",
@@ -5287,9 +5298,20 @@
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0023",
-          "version": "sha256:8744381c2323c64413c5419912166d256d817995ace95c81d94d69e94ccd334c",
-          "text": "䷟〈巽上震下〉恒亨无咎利貞〈恒而亨以濟三事也恒之為道亨乃无咎也恒通无咎乃〉",
-          "aliases": []
+          "version": "sha256:b45ee1af357dbae9d0a8003877b573522a5735b67673e20f3eecfd5edc315481",
+          "text": "䷟〈巽下震上〉恒亨无咎利貞〈恒而亨以濟三事也恒之為道亨乃无咎也恒通无咎乃〉",
+          "aliases": [],
+          "sourceText": "䷟〈巽上震下〉恒亨无咎利貞〈恒而亨以濟三事也恒之為道亨乃无咎也恒通无咎乃〉",
+          "correction": {
+            "reason": "恒卦卦符下小字“巽上震下”上下颠倒：恒卦是雷风恒，巽下震上，彖辞即云“刚上而柔下，雷风相与，巽而动”；本书其余六十三卦都写作“某下某上”（如益卦“震下巽上”）。四库底本此处原误，据卦体改正。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-21",
+              "textVersion": "sha256:b45ee1af357dbae9d0a8003877b573522a5735b67673e20f3eecfd5edc315481"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0024",
