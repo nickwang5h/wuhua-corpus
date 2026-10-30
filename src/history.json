@@ -103956,6 +103956,13 @@
       "text": "真人游，驾八龙，曜日月，载云旗，徘徊逌，乐所之。真人游，太阶夷，□原辟，天门开，雨蒙蒙，风，登黄山，出栖迟，江河清，洛无埃。云气消，真人来。真人来，惟乐哉！时世易，好乐隤，真人去，与天回。反未央，延年寿，（□）独敖世，望我，何时反。趈漫漫，路日远。",
       "title": "卷四",
       "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E9%98%AE%E7%B1%8D%E9%9B%86.txt"
+    },
+    {
+      "id": "p-zhouyi-978ab00d704ae949-0031",
+      "version": "sha256:70908afe77be68a34ef247d63347e77dd242a807f958b21fc4c4c3be4c0ed41d",
+      "text": "子曰：「书不尽言，言不尽意。」然则圣人之意，其不可见乎。子曰：「圣人立象以尽意，设卦以尽情伪，系辞以尽其言，变而通之以尽利，鼓之舞之以尽神。」",
+      "title": "系辞上",
+      "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/zhouyi.json"
     }
   ],
   "transitions": [
@@ -298954,7 +298961,7 @@
         "version": "sha256:c83ab8b9e222dfcd657949a6730152f9aedaf8d1e53a84371b5dbfc4e67ed415"
       },
       "kind": "revision",
-      "reason": "与同篇物不可以终过、终遯、终壮句式一致，剥穷上反下自成一句，本义同",
+      "reason": "两种断法都有依据：维基文库《易傳·序卦》断作终尽，剥穷上反下；周易正义、程颐连读终尽剥。取前者，与同篇物不可以终过、终遯、终壮句式一致",
       "targets": [
         {
           "id": "p-zhouyi-081498eea6fb71bc-0004",
@@ -311055,6 +311062,20 @@
         {
           "id": "p-ruanjiji-e29419adcb3981e7-0030",
           "version": "sha256:e542a6b9f3c5bf764eab76c98316b96c8ddcb291890b77355414a473b6b00e4b"
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "p-zhouyi-978ab00d704ae949-0031",
+        "version": "sha256:70908afe77be68a34ef247d63347e77dd242a807f958b21fc4c4c3be4c0ed41d"
+      },
+      "kind": "revision",
+      "reason": "孔疏说此节夫子自发其问、疑而问之，下节夫子还自释，然则圣人之意其不可见乎仍是孔子的话，引号不在言不尽意后收束；孔疏说此句疑而问之，是孔子的问话，句末用问号，在此收引号",
+      "targets": [
+        {
+          "id": "p-zhouyi-978ab00d704ae949-0031",
+          "version": "sha256:cb0e5959c0c4802ccaf7fb33fc5bb27ccb1d5d20f684569c825ae0b5456d8e87"
         }
       ]
     }
