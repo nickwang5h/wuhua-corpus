@@ -1919,15 +1919,37 @@
         },
         {
           "id": "p-zhouyi-c146797089a151eb-0004",
-          "version": "sha256:84d89df427e49497eed8954b416f629b6f6f3dd12c1defa0f708fe87faa156ee",
-          "text": "《彖》曰：“同人”，柔得位得中，而应乎乾，曰同人。同人曰：“同人于野，亨。利涉大川”，乾行也。文明以健，中正而应，君子正也。唯君子为能通",
-          "aliases": []
+          "version": "sha256:825b488a8929ae0b7a8e6c9a1e47cf40c18f7771b31e40b1b4d40d1e57b591c8",
+          "text": "《彖》曰：“同人”，柔得位得中，而应乎乾，曰同人。同人曰：“同人于野，亨。利涉大川”，乾行也。文明以健，中正而应，君子正也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：“同人”，柔得位得中，而应乎乾，曰同人。同人曰：“同人于野，亨。利涉大川”，乾行也。文明以健，中正而应，君子正也。唯君子为能通",
+          "correction": {
+            "reason": "一句拆在两段，后段整段是句尾；把这句的前半从前段挪到后段，两段各止于句末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:825b488a8929ae0b7a8e6c9a1e47cf40c18f7771b31e40b1b4d40d1e57b591c8"
+            }
+          }
         },
         {
           "id": "p-zhouyi-c146797089a151eb-0005",
-          "version": "sha256:82e92c1aa84e68bfb8ee9329887ffaee59802249331978ec90dd6b35b2f97075",
-          "text": "天下之志。",
-          "aliases": []
+          "version": "sha256:fe85e344157ce102fcd87da281a18f19bad46d4e8882e4f46186527adb69f4fb",
+          "text": "唯君子为能通天下之志。",
+          "aliases": [],
+          "sourceText": "天下之志。",
+          "correction": {
+            "reason": "一句拆在两段，后段整段是句尾；把这句的前半从前段挪到后段，两段各止于句末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:fe85e344157ce102fcd87da281a18f19bad46d4e8882e4f46186527adb69f4fb"
+            }
+          }
         },
         {
           "id": "p-zhouyi-c146797089a151eb-0006",
@@ -2275,15 +2297,37 @@
         },
         {
           "id": "p-zhouyi-5857313d6ea33e06-0004",
-          "version": "sha256:6c0b6421ff0eae1e54c70b9a45b2569d050eea0ba8e87528572b7f637a376b87",
-          "text": "《彖》曰：豫，刚应而志行，顺以动，豫。豫顺以动，故天地如之，而况建侯行师乎？天地以顺动，故日月不过，而四时不忒。圣人以顺动，则刑罚清而民",
-          "aliases": []
+          "version": "sha256:d0d04fd60a0f9f7568751b55ebfbbbf601dbffab1688cff1d76d1e0849456dc9",
+          "text": "《彖》曰：豫，刚应而志行，顺以动，豫。豫顺以动，故天地如之，而况建侯行师乎？天地以顺动，故日月不过，而四时不忒。",
+          "aliases": [],
+          "sourceText": "《彖》曰：豫，刚应而志行，顺以动，豫。豫顺以动，故天地如之，而况建侯行师乎？天地以顺动，故日月不过，而四时不忒。圣人以顺动，则刑罚清而民",
+          "correction": {
+            "reason": "一句拆在两段，后段整段是句尾；把这句的前半从前段挪到后段，两段各止于句末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:d0d04fd60a0f9f7568751b55ebfbbbf601dbffab1688cff1d76d1e0849456dc9"
+            }
+          }
         },
         {
           "id": "p-zhouyi-5857313d6ea33e06-0005",
-          "version": "sha256:c7ea52fe0e5e82878331120042d3ff981f24157fc08440150e1758ea05e5777a",
-          "text": "服，豫之时义大矣哉！",
-          "aliases": []
+          "version": "sha256:48aaed164f1a0ed845c4d302aa1e2e06b88f6002cafd9e226e0fd4241b4d8405",
+          "text": "圣人以顺动，则刑罚清而民服，豫之时义大矣哉！",
+          "aliases": [],
+          "sourceText": "服，豫之时义大矣哉！",
+          "correction": {
+            "reason": "一句拆在两段，后段整段是句尾；把这句的前半从前段挪到后段，两段各止于句末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:48aaed164f1a0ed845c4d302aa1e2e06b88f6002cafd9e226e0fd4241b4d8405"
+            }
+          }
         },
         {
           "id": "p-zhouyi-5857313d6ea33e06-0006",
@@ -8046,15 +8090,37 @@
         },
         {
           "id": "p-zhouyi-e26438511ebbfb27-0004",
-          "version": "sha256:979f62cc4a6a6b4af4a4f52d1dec1f6ec4e619d27f555d609b1d7c0b93412421",
-          "text": "《彖》曰：小过，小者过而亨也。过以利贞，与时行也。柔得中，是以小事吉也。刚失位而不中，是以不可大事也。有飞鸟之象焉，“飞鸟遗之音，不宜上，",
-          "aliases": []
+          "version": "sha256:b4b069aa2f9c709d0bf263633bd270d536ab631531a0b8928c40a79e9507b06c",
+          "text": "《彖》曰：小过，小者过而亨也。过以利贞，与时行也。柔得中，是以小事吉也。刚失位而不中，是以不可大事也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：小过，小者过而亨也。过以利贞，与时行也。柔得中，是以小事吉也。刚失位而不中，是以不可大事也。有飞鸟之象焉，“飞鸟遗之音，不宜上，",
+          "correction": {
+            "reason": "一句拆在两段，后段整段是句尾；把这句的前半从前段挪到后段，两段各止于句末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:b4b069aa2f9c709d0bf263633bd270d536ab631531a0b8928c40a79e9507b06c"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e26438511ebbfb27-0005",
-          "version": "sha256:34de5c8641ef918c8ed6d250c01409f0cafc377cd8e893fecd15d2a7f9c2ab6b",
-          "text": "宜下，大吉”，上逆而下顺也。",
-          "aliases": []
+          "version": "sha256:f851fa19de3725d1edd86fb0344dc16cb309be4e9a85e1d6e0f8a7bf5c4c6054",
+          "text": "有飞鸟之象焉，“飞鸟遗之音，不宜上，宜下，大吉”，上逆而下顺也。",
+          "aliases": [],
+          "sourceText": "宜下，大吉”，上逆而下顺也。",
+          "correction": {
+            "reason": "一句拆在两段，后段整段是句尾；把这句的前半从前段挪到后段，两段各止于句末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f851fa19de3725d1edd86fb0344dc16cb309be4e9a85e1d6e0f8a7bf5c4c6054"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e26438511ebbfb27-0006",

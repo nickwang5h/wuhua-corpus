@@ -9315,7 +9315,7 @@
     {
         "id": "p-shiji-b520f31f16bdeea9-0005-pinyin-1188-1204",
         "target": "p-shiji-b520f31f16bdeea9-0005",
-        "version": "sha256:8a0d4a2654da7e56631f20cb9b055981cb66e90ad4f79c2023fd1e70c260577c",
+        "version": "sha256:807456ad8c491aecbfeba9238dbc9cf206b195b965565c3eb3cd24d17400f040",
         "kind": "pinyin",
         "start": 1188,
         "end": 1204,
@@ -9420,7 +9420,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:8a0d4a2654da7e56631f20cb9b055981cb66e90ad4f79c2023fd1e70c260577c"
+            "textVersion": "sha256:807456ad8c491aecbfeba9238dbc9cf206b195b965565c3eb3cd24d17400f040"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -9909,7 +9909,7 @@
     {
         "id": "p-shiji-e29fdf33b5500e85-0007-pinyin-5247-5278",
         "target": "p-shiji-e29fdf33b5500e85-0007",
-        "version": "sha256:8226a3c7a2c3395239b77b3d389474e0e578959384023eda24cff39cf6952c52",
+        "version": "sha256:5bfa7cb2992c96bef6b5a1da886ae2e868e33182ebe51a1a0845b056197e7fae",
         "kind": "pinyin",
         "start": 5247,
         "end": 5278,
@@ -10104,7 +10104,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:8226a3c7a2c3395239b77b3d389474e0e578959384023eda24cff39cf6952c52"
+            "textVersion": "sha256:5bfa7cb2992c96bef6b5a1da886ae2e868e33182ebe51a1a0845b056197e7fae"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -10275,7 +10275,7 @@
     {
         "id": "p-shiji-4b8ef542c165c61c-0038-pinyin-126-196",
         "target": "p-shiji-4b8ef542c165c61c-0038",
-        "version": "sha256:dcea07de322fd24268eddac0aa3e4187679298b0dc2c5a19601f2368a6f49a02",
+        "version": "sha256:fe47a63b523964dd7a234e9187f79bfcb25e3640ea6c3037ab163d87b79a9809",
         "kind": "pinyin",
         "start": 126,
         "end": 196,
@@ -10704,7 +10704,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:dcea07de322fd24268eddac0aa3e4187679298b0dc2c5a19601f2368a6f49a02"
+            "textVersion": "sha256:fe47a63b523964dd7a234e9187f79bfcb25e3640ea6c3037ab163d87b79a9809"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -10833,7 +10833,7 @@
     {
         "id": "p-shiji-f94e9666330ad91b-0005-pinyin-1973-1990",
         "target": "p-shiji-f94e9666330ad91b-0005",
-        "version": "sha256:cfc5cb37fd331510fd9bd4d4b22092c8b2fec0624ec87acf57a6f693c54301f0",
+        "version": "sha256:a5caee00d76f7f0cc035350b880170e933e54c1d9ceedb8ae44bf3bf86566e86",
         "kind": "pinyin",
         "start": 1973,
         "end": 1990,
@@ -10944,7 +10944,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:cfc5cb37fd331510fd9bd4d4b22092c8b2fec0624ec87acf57a6f693c54301f0"
+            "textVersion": "sha256:a5caee00d76f7f0cc035350b880170e933e54c1d9ceedb8ae44bf3bf86566e86"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -14835,7 +14835,7 @@
     {
         "id": "p-shiji-52c2f859eb460493-0005-pinyin-535-570",
         "target": "p-shiji-52c2f859eb460493-0005",
-        "version": "sha256:f7e02da2a07641da691922e1e0d897b26c8e68077e11122ba551cb91184bf331",
+        "version": "sha256:9b7f44d3f20b44eeb6fab92dec4f1b03f87f2e21ec5df9aad861ea20a6d41fc3",
         "kind": "pinyin",
         "start": 535,
         "end": 570,
@@ -15054,7 +15054,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:f7e02da2a07641da691922e1e0d897b26c8e68077e11122ba551cb91184bf331"
+            "textVersion": "sha256:9b7f44d3f20b44eeb6fab92dec4f1b03f87f2e21ec5df9aad861ea20a6d41fc3"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -16965,7 +16965,7 @@
     {
         "id": "p-shiji-e29fdf33b5500e85-0008-pinyin-1126-1155",
         "target": "p-shiji-e29fdf33b5500e85-0008",
-        "version": "sha256:70909ff4b49b6f50d2b3272bba7bc1e7f0f9a264a52ff703346d6ce4ae15bc11",
+        "version": "sha256:134737511650df4b2b8052a696aec0755ee01a06c24ad18cad7654adc503eb5c",
         "kind": "pinyin",
         "start": 1126,
         "end": 1155,
@@ -17148,7 +17148,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:70909ff4b49b6f50d2b3272bba7bc1e7f0f9a264a52ff703346d6ce4ae15bc11"
+            "textVersion": "sha256:134737511650df4b2b8052a696aec0755ee01a06c24ad18cad7654adc503eb5c"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -20355,7 +20355,7 @@
     {
         "id": "p-shiji-f94e9666330ad91b-0005-pinyin-463-479",
         "target": "p-shiji-f94e9666330ad91b-0005",
-        "version": "sha256:cfc5cb37fd331510fd9bd4d4b22092c8b2fec0624ec87acf57a6f693c54301f0",
+        "version": "sha256:a5caee00d76f7f0cc035350b880170e933e54c1d9ceedb8ae44bf3bf86566e86",
         "kind": "pinyin",
         "start": 463,
         "end": 479,
@@ -20460,7 +20460,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:cfc5cb37fd331510fd9bd4d4b22092c8b2fec0624ec87acf57a6f693c54301f0"
+            "textVersion": "sha256:a5caee00d76f7f0cc035350b880170e933e54c1d9ceedb8ae44bf3bf86566e86"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -20472,7 +20472,7 @@
     {
         "id": "p-shiji-52c2f859eb460493-0005-pinyin-598-616",
         "target": "p-shiji-52c2f859eb460493-0005",
-        "version": "sha256:f7e02da2a07641da691922e1e0d897b26c8e68077e11122ba551cb91184bf331",
+        "version": "sha256:9b7f44d3f20b44eeb6fab92dec4f1b03f87f2e21ec5df9aad861ea20a6d41fc3",
         "kind": "pinyin",
         "start": 598,
         "end": 616,
@@ -20589,7 +20589,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:f7e02da2a07641da691922e1e0d897b26c8e68077e11122ba551cb91184bf331"
+            "textVersion": "sha256:9b7f44d3f20b44eeb6fab92dec4f1b03f87f2e21ec5df9aad861ea20a6d41fc3"
         },
         "rights": {
             "author": "Codex (AI)",
