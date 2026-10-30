@@ -80,24 +80,35 @@
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0011",
-          "version": "sha256:5518dcd256c54ddf780b20ddb1b09324662afa8937784c788c9fc1d0b9ccf68e",
-          "text": "《彖》曰：大哉乾元，万物资始，乃统天。云行雨施，品物流形。大明终始，六位时成。时乘六龙以御天。乾道变化，各正性命。保合大和，乃利贞。首出庶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhouyi-be15bc8490b288dd-0012",
-          "version": "sha256:7c3be74b16f78731a366e9450130ac2105a1e09a4577e9b87ba7e8c7683da89b",
-          "text": "物，万国咸宁。",
+          "version": "sha256:d85de52f7050742df5ad855ead3a29ec0015cc3d3dc1b58fbb9ceca944d72e4d",
+          "text": "《彖》曰：大哉乾元，万物资始，乃统天。云行雨施，品物流形。大明终始，六位时成。时乘六龙以御天。乾道变化，各正性命。保合大和，乃利贞。",
           "aliases": [],
-          "sourceText": "物，万国威宁。",
+          "sourceText": "《彖》曰：大哉乾元，万物资始，乃统天。云行雨施，品物流形。大明终始，六位时成。时乘六龙以御天。乾道变化，各正性命。保合大和，乃利贞。首出庶",
           "correction": {
-            "reason": "乾卦《彖》：“首出庶物，万国咸宁。”咸，皆也；“威宁”讲不通，“威”是“咸”的形近误字。Corpus《周易注》卷一同句作“首出庶物萬國咸寜”，王弼注“萬國所以寜各以有君也”。",
+            "reason": "挪动：一句拆在两段，首出庶物，万国咸宁一句挪到后段",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
               "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:7c3be74b16f78731a366e9450130ac2105a1e09a4577e9b87ba7e8c7683da89b"
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:d85de52f7050742df5ad855ead3a29ec0015cc3d3dc1b58fbb9ceca944d72e4d"
+            }
+          }
+        },
+        {
+          "id": "p-zhouyi-be15bc8490b288dd-0012",
+          "version": "sha256:fc6f0001fc9ae4305bb6bb392b86a7c815774f9953764ff607d18948eab2ffe6",
+          "text": "首出庶物，万国咸宁。",
+          "aliases": [],
+          "sourceText": "物，万国威宁。",
+          "correction": {
+            "reason": "乾卦《彖》：“首出庶物，万国咸宁。”咸，皆也；“威宁”讲不通，“威”是“咸”的形近误字。Corpus《周易注》卷一同句作“首出庶物萬國咸寜”，王弼注“萬國所以寜各以有君也”。；挪动：一句拆在两段，首出庶物，万国咸宁一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:fc6f0001fc9ae4305bb6bb392b86a7c815774f9953764ff607d18948eab2ffe6"
             }
           }
         },
@@ -115,15 +126,37 @@
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0015",
-          "version": "sha256:add9dc39fb7f646a447c985a1d2522caeb223d1dc76ff29e0e6b3849f1ea1f25",
-          "text": "《文言》曰：“元”者，善之长也；“亨”者，嘉之会也；“利”者，义之和也；“贞”者，事之干也。君子体仁，足以长人；嘉会，足以合礼；利物，足",
-          "aliases": []
+          "version": "sha256:790e89931f63588d17ee2df0cfc0373afc43af9932598264f5d8698a57c8288d",
+          "text": "《文言》曰：“元”者，善之长也；“亨”者，嘉之会也；“利”者，义之和也；“贞”者，事之干也。君子体仁，足以长人；嘉会，足以合礼；利物，足以和义；贞固，足以干事。",
+          "aliases": [],
+          "sourceText": "《文言》曰：“元”者，善之长也；“亨”者，嘉之会也；“利”者，义之和也；“贞”者，事之干也。君子体仁，足以长人；嘉会，足以合礼；利物，足",
+          "correction": {
+            "reason": "挪动：一句拆在两段，君子体仁至足以干事一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:790e89931f63588d17ee2df0cfc0373afc43af9932598264f5d8698a57c8288d"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0016",
-          "version": "sha256:5002f984266f8d546d50f914a485de796b971ee6e79f0b82a7e0e49c7dbb9403",
-          "text": "以和义；贞固，足以干事。君子行此四德者，故曰“乾：元、亨、利、贞。”",
-          "aliases": []
+          "version": "sha256:1b5bd5f72b9944a941a09ed72cae0f24c4f83946a1c2dceaa41f990b61c21333",
+          "text": "君子行此四德者，故曰“乾：元、亨、利、贞。”",
+          "aliases": [],
+          "sourceText": "以和义；贞固，足以干事。君子行此四德者，故曰“乾：元、亨、利、贞。”",
+          "correction": {
+            "reason": "挪动：一句拆在两段，君子体仁至足以干事一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:1b5bd5f72b9944a941a09ed72cae0f24c4f83946a1c2dceaa41f990b61c21333"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0017",
@@ -133,27 +166,71 @@
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0018",
-          "version": "sha256:99bfc9c8ace6e90b0d1b279d08296e303c907fea9e19c31d18514a7c971873a1",
-          "text": "九二曰“见龙在田，利见大人”，何谓也？子曰：“龙德而正中者也。庸言之信，庸行之谨，闲邪存其诚，善世而不伐，德博而化。《易》曰：‘见龙在田，",
-          "aliases": []
+          "version": "sha256:a701b13cac182162b5700e4d6e28ef35ff7b7a300d685ab9ec41c796c5608fd7",
+          "text": "九二曰“见龙在田，利见大人”，何谓也？子曰：“龙德而正中者也。庸言之信，庸行之谨，闲邪存其诚，善世而不伐，德博而化。",
+          "aliases": [],
+          "sourceText": "九二曰“见龙在田，利见大人”，何谓也？子曰：“龙德而正中者也。庸言之信，庸行之谨，闲邪存其诚，善世而不伐，德博而化。《易》曰：‘见龙在田，",
+          "correction": {
+            "reason": "挪动：一句拆在两段，《易》曰见龙在田，利见大人，君德也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:a701b13cac182162b5700e4d6e28ef35ff7b7a300d685ab9ec41c796c5608fd7"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0019",
-          "version": "sha256:274276a44f03f1d8e68373094487947a4691f267be895285a94f3cb5a477b88b",
-          "text": "利见大人’，君德也。”",
-          "aliases": []
+          "version": "sha256:fabf3e89fc34ae572f4f0d3b5e5ec087e72cdc09c775384c3a72f866f8422817",
+          "text": "《易》曰：‘见龙在田，利见大人’，君德也。”",
+          "aliases": [],
+          "sourceText": "利见大人’，君德也。”",
+          "correction": {
+            "reason": "挪动：一句拆在两段，《易》曰见龙在田，利见大人，君德也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:fabf3e89fc34ae572f4f0d3b5e5ec087e72cdc09c775384c3a72f866f8422817"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0020",
-          "version": "sha256:90efbb170c9a152e577ede55745843de3d60c1ab69598cbf0bffac12e21c1a9c",
-          "text": "九三曰“君子终日乾乾，夕惕若厉，无咎”，何谓也？子曰：“君子进德修业。忠信所以进德也。修辞立其诚，所以居业也。知至至之，可与几也。知终终",
-          "aliases": []
+          "version": "sha256:c071c3f6fd28d8e67cf759bf2b9618cf61ac238fe41730f9284186b284250a34",
+          "text": "九三曰“君子终日乾乾，夕惕若厉，无咎”，何谓也？子曰：“君子进德修业。忠信所以进德也。修辞立其诚，所以居业也。知至至之，可与几也。",
+          "aliases": [],
+          "sourceText": "九三曰“君子终日乾乾，夕惕若厉，无咎”，何谓也？子曰：“君子进德修业。忠信所以进德也。修辞立其诚，所以居业也。知至至之，可与几也。知终终",
+          "correction": {
+            "reason": "挪动：一句拆在两段，知终终之，可与存义也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:c071c3f6fd28d8e67cf759bf2b9618cf61ac238fe41730f9284186b284250a34"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0021",
-          "version": "sha256:7b9567ef7cbcd4c5f0775a07de137f626674b5124df99fcf9fda2ee8c97a6f72",
-          "text": "之，可与存义也。是故居上位而不骄，在下位而不忧，故乾乾因其时而惕，虽危无咎矣。”",
-          "aliases": []
+          "version": "sha256:c432859841ef2fbcb74e9e5d21b6eabad665e90fb1b16ce43548d1222315d3af",
+          "text": "知终终之，可与存义也。是故居上位而不骄，在下位而不忧，故乾乾因其时而惕，虽危无咎矣。”",
+          "aliases": [],
+          "sourceText": "之，可与存义也。是故居上位而不骄，在下位而不忧，故乾乾因其时而惕，虽危无咎矣。”",
+          "correction": {
+            "reason": "挪动：一句拆在两段，知终终之，可与存义也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:c432859841ef2fbcb74e9e5d21b6eabad665e90fb1b16ce43548d1222315d3af"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0022",
@@ -181,27 +258,71 @@
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0026",
-          "version": "sha256:698312b6864e5277a08ad56054f6b282b9be48a225802a4937c55734a7d48795",
-          "text": "“潜龙勿用”，下也。“见龙在田”，时舍也。“终日乾乾”，行事也。“或跃在渊”，自试也。“飞龙在天”，上治也。“亢龙有悔”，穷之灾也。乾",
-          "aliases": []
+          "version": "sha256:3ba4dca210f357319fe98b7f83067c46a7fceab1a6802057a11053f13fd45ca0",
+          "text": "“潜龙勿用”，下也。“见龙在田”，时舍也。“终日乾乾”，行事也。“或跃在渊”，自试也。“飞龙在天”，上治也。“亢龙有悔”，穷之灾也。",
+          "aliases": [],
+          "sourceText": "“潜龙勿用”，下也。“见龙在田”，时舍也。“终日乾乾”，行事也。“或跃在渊”，自试也。“飞龙在天”，上治也。“亢龙有悔”，穷之灾也。乾",
+          "correction": {
+            "reason": "挪动：一句拆在两段，乾元用九，天下治也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:3ba4dca210f357319fe98b7f83067c46a7fceab1a6802057a11053f13fd45ca0"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0027",
-          "version": "sha256:7c662ce417ef43a1fe702eaa737735a93f35ac77fbc33e869cdab7e2748de03c",
-          "text": "元“用九”，天下治也。",
-          "aliases": []
+          "version": "sha256:85e83c3d927990aad809efe86dd0a9e76d1c1a9ec1e306d1bc11f7ddd3d82941",
+          "text": "乾元“用九”，天下治也。",
+          "aliases": [],
+          "sourceText": "元“用九”，天下治也。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，乾元用九，天下治也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:85e83c3d927990aad809efe86dd0a9e76d1c1a9ec1e306d1bc11f7ddd3d82941"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0028",
-          "version": "sha256:fc72105c9b033bec94eabf54a5a0c949c82de40e63bb4a2d18203f64ec177486",
-          "text": "“潜龙勿用”，阳气潜藏。“见龙在田”，天下文明。“终日乾乾”，与时偕行。“或跃在渊”，乾道乃革。“飞龙在天”，乃位乎天德。“亢龙有悔”，",
-          "aliases": []
+          "version": "sha256:4d8beb6c5443ec47aeb030d3f493372c7665bbbe6cb1143a9e51118592ce785a",
+          "text": "“潜龙勿用”，阳气潜藏。“见龙在田”，天下文明。“终日乾乾”，与时偕行。“或跃在渊”，乾道乃革。“飞龙在天”，乃位乎天德。“亢龙有悔”，与时偕极。",
+          "aliases": [],
+          "sourceText": "“潜龙勿用”，阳气潜藏。“见龙在田”，天下文明。“终日乾乾”，与时偕行。“或跃在渊”，乾道乃革。“飞龙在天”，乃位乎天德。“亢龙有悔”，",
+          "correction": {
+            "reason": "挪动：一句拆在两段，亢龙有悔，与时偕极一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:4d8beb6c5443ec47aeb030d3f493372c7665bbbe6cb1143a9e51118592ce785a"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0029",
-          "version": "sha256:1629266b491a87da951d10ee3e6f06fb4c386fd422ad2401837900438253fc5a",
-          "text": "与时偕极。乾元“用九”，乃见天则。",
-          "aliases": []
+          "version": "sha256:36ea22d8b90ead2706fd641f29fe88adc0766a30e5cc7334d4328b1f6017a39a",
+          "text": "乾元“用九”，乃见天则。",
+          "aliases": [],
+          "sourceText": "与时偕极。乾元“用九”，乃见天则。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，亢龙有悔，与时偕极一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:36ea22d8b90ead2706fd641f29fe88adc0766a30e5cc7334d4328b1f6017a39a"
+            }
+          }
         },
         {
           "id": "p-zhouyi-be15bc8490b288dd-0030",
@@ -274,15 +395,37 @@
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0004",
-          "version": "sha256:03b54630bc4950fd8cb7123464a930644e2852bef56cc7504a511b8ddf142eee",
-          "text": "《彖》曰：至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆。含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子。君子攸行，先迷失道，",
-          "aliases": []
+          "version": "sha256:829e9955aa8a27cc12b1eeb8d6b0228b80a01f269ad04761a3deb7b453ecd602",
+          "text": "《彖》曰：至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆。含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞，君子攸行，先迷失道，后顺得常。",
+          "aliases": [],
+          "sourceText": "《彖》曰：至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆。含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子。君子攸行，先迷失道，",
+          "correction": {
+            "reason": "孔疏本作柔顺利贞，君子攸行，君子重出；挪动：一句拆在两段，柔顺利贞至后顺得常一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:829e9955aa8a27cc12b1eeb8d6b0228b80a01f269ad04761a3deb7b453ecd602"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0005",
-          "version": "sha256:d9ab69b300295c9920bfe1d70b1a1ac1dd26940efdbf1956cc515f5a9a55b319",
-          "text": "后顺得常。西南得朋，乃与类行。东北丧朋，乃终有庆。安贞之吉，应地无疆。",
-          "aliases": []
+          "version": "sha256:77e7f952c87198ab351bdc002e7f54df9ae6875b3e5c4fe5a20fc5802becaca4",
+          "text": "西南得朋，乃与类行。东北丧朋，乃终有庆。安贞之吉，应地无疆。",
+          "aliases": [],
+          "sourceText": "后顺得常。西南得朋，乃与类行。东北丧朋，乃终有庆。安贞之吉，应地无疆。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，柔顺利贞至后顺得常一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:77e7f952c87198ab351bdc002e7f54df9ae6875b3e5c4fe5a20fc5802becaca4"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0006",
@@ -292,9 +435,20 @@
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0007",
-          "version": "sha256:f07ad36f7d095d86f2527e2f9c4bea45417bba28f6e8aa0ea15e5c59db85d706",
-          "text": "初六：履霜，坚冰至。",
-          "aliases": []
+          "version": "sha256:8926035cc8044137322d0e4dac6e850e7bf520bd8b61c06d56f79083c88a7e8c",
+          "text": "初六，履霜，坚冰至。",
+          "aliases": [],
+          "sourceText": "初六：履霜，坚冰至。",
+          "correction": {
+            "reason": "爻题后用逗号，与本卦别爻统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:8926035cc8044137322d0e4dac6e850e7bf520bd8b61c06d56f79083c88a7e8c"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0008",
@@ -322,9 +476,20 @@
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0012",
-          "version": "sha256:f2edc18c8eedc813f852ccbb94127759980ff79aa573012a4d5bd2bbcff6bd6e",
-          "text": "《象》曰“含章可贞”，以时发也。“或从王事”，知光大也。",
-          "aliases": []
+          "version": "sha256:7dbcd50bd1cf319fc6404c420fda829fe50ccddb1f0587d56cacf62981015b09",
+          "text": "《象》曰：“含章可贞”，以时发也。“或从王事”，知光大也。",
+          "aliases": [],
+          "sourceText": "《象》曰“含章可贞”，以时发也。“或从王事”，知光大也。",
+          "correction": {
+            "reason": "《象》曰后缺冒号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:7dbcd50bd1cf319fc6404c420fda829fe50ccddb1f0587d56cacf62981015b09"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0013",
@@ -376,15 +541,37 @@
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0021",
-          "version": "sha256:127717399b43e03d0c1f3defc13c348afe3533efcb5049103cb617f8a7619341",
-          "text": "《文言》曰：坤至柔而动也刚，至静而德方，后得主而有常，含万物而化光。坤道其顺乎，承天而时行。积善之家必有馀庆，积不善之家必有馀殃。臣弑其君，",
-          "aliases": []
+          "version": "sha256:cd2a9bfde08af0103356968b61bd28a2616a94fc58c0fbf2ebb2895c64b91c79",
+          "text": "《文言》曰：坤至柔而动也刚，至静而德方，后得主而有常，含万物而化光。坤道其顺乎，承天而时行。积善之家必有馀庆，积不善之家必有馀殃。",
+          "aliases": [],
+          "sourceText": "《文言》曰：坤至柔而动也刚，至静而德方，后得主而有常，含万物而化光。坤道其顺乎，承天而时行。积善之家必有馀庆，积不善之家必有馀殃。臣弑其君，",
+          "correction": {
+            "reason": "挪动：一句拆在两段，臣弑其君至由辩之不早辩也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:cd2a9bfde08af0103356968b61bd28a2616a94fc58c0fbf2ebb2895c64b91c79"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0022",
-          "version": "sha256:5bb281f709aa056d92e74a3deb02d9e3f894c8eec32ec2583f9318b32149f363",
-          "text": "子弑其父，非一朝一夕之故，其所由来者渐矣，由辩之不早辩也。",
-          "aliases": []
+          "version": "sha256:f00466a589d4e8ab5c3ca13146a25121b5e87c1cdc1124d43307929dad18553e",
+          "text": "臣弑其君，子弑其父，非一朝一夕之故，其所由来者渐矣，由辩之不早辩也。",
+          "aliases": [],
+          "sourceText": "子弑其父，非一朝一夕之故，其所由来者渐矣，由辩之不早辩也。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，臣弑其君至由辩之不早辩也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f00466a589d4e8ab5c3ca13146a25121b5e87c1cdc1124d43307929dad18553e"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0023",
@@ -406,15 +593,37 @@
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0026",
-          "version": "sha256:5c53252f132e1d30491a682129153412bd0e8f7166bf0ac77b658ec37c4e2b7d",
-          "text": "君子黄中通理，正位居体，美在其中而畅于四支，发于事业，美之至也。阴疑于阳必战，为其嫌于无阳也，故称“龙”焉。犹未离其类也，故称“血”",
-          "aliases": []
+          "version": "sha256:4777b434824368e19f9989357c78726e95ecadb113e7955918687758ba5c0796",
+          "text": "君子黄中通理，正位居体，美在其中而畅于四支，发于事业，美之至也。阴疑于阳必战，为其嫌于无阳也，故称“龙”焉。犹未离其类也，故称“血”焉。",
+          "aliases": [],
+          "sourceText": "君子黄中通理，正位居体，美在其中而畅于四支，发于事业，美之至也。阴疑于阳必战，为其嫌于无阳也，故称“龙”焉。犹未离其类也，故称“血”",
+          "correction": {
+            "reason": "挪动：一句拆在两段，犹未离其类也，故称血焉一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:4777b434824368e19f9989357c78726e95ecadb113e7955918687758ba5c0796"
+            }
+          }
         },
         {
           "id": "p-zhouyi-3e8b1876ad596858-0027",
-          "version": "sha256:37ea76bf4ebc70b45547d16d1883461abcb1f1c3ac5977fad8cee79886ee2e7f",
-          "text": "焉。夫玄黄者，天地之杂也，天玄而地黄。",
-          "aliases": []
+          "version": "sha256:9fcb40f82b0bcb23c2f20972d8d0da753b59a327d7861c020cfc6c58162e5bb5",
+          "text": "夫玄黄者，天地之杂也，天玄而地黄。",
+          "aliases": [],
+          "sourceText": "焉。夫玄黄者，天地之杂也，天玄而地黄。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，犹未离其类也，故称血焉一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:9fcb40f82b0bcb23c2f20972d8d0da753b59a327d7861c020cfc6c58162e5bb5"
+            }
+          }
         }
       ]
     },
@@ -561,15 +770,37 @@
         },
         {
           "id": "p-zhouyi-1f5273c9509b8806-0003",
-          "version": "sha256:81df0bcc6160f798a82c277b30480dd7372dfeab2f0759f1f65061032c6f7bb4",
-          "text": "《蒙》：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。《彖》曰：蒙，山下有险，险而止，蒙。“蒙亨”，以亨行，时中也。“匪",
-          "aliases": []
+          "version": "sha256:d23a6e7e21cb27c527bd1a7aab28f60b16a5989876069fbfea65e14da5492c5f",
+          "text": "《蒙》：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。《彖》曰：蒙，山下有险，险而止，蒙。“蒙亨”，以亨行，时中也。",
+          "aliases": [],
+          "sourceText": "《蒙》：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。《彖》曰：蒙，山下有险，险而止，蒙。“蒙亨”，以亨行，时中也。“匪",
+          "correction": {
+            "reason": "挪动：一句拆在两段，匪我求童蒙，童蒙求我，志应也一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:d23a6e7e21cb27c527bd1a7aab28f60b16a5989876069fbfea65e14da5492c5f"
+            }
+          }
         },
         {
           "id": "p-zhouyi-1f5273c9509b8806-0004",
-          "version": "sha256:0b9566dbc8d319d61adfbb94f1f4490cf20baad9882f21da60a35c72f2c93a5d",
-          "text": "我求童蒙，童蒙求我”。志应也。“初筮告”，以刚中也。“再三渎，渎则不告”，渎蒙也。蒙以养正，圣功也。",
-          "aliases": []
+          "version": "sha256:6b9cdff4819534a326223a7f5d7d6e8165ff75160f0774660a715edcc8ac84e3",
+          "text": "“匪我求童蒙，童蒙求我”，志应也。“初筮告”，以刚中也。“再三渎，渎则不告”，渎蒙也。蒙以养正，圣功也。",
+          "aliases": [],
+          "sourceText": "我求童蒙，童蒙求我”。志应也。“初筮告”，以刚中也。“再三渎，渎则不告”，渎蒙也。蒙以养正，圣功也。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，匪我求童蒙，童蒙求我，志应也一句挪到后段；引语与解释同句，句号应作逗号，与履、晋同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:6b9cdff4819534a326223a7f5d7d6e8165ff75160f0774660a715edcc8ac84e3"
+            }
+          }
         },
         {
           "id": "p-zhouyi-1f5273c9509b8806-0005",
@@ -743,9 +974,20 @@
         },
         {
           "id": "p-zhouyi-95e3be13222c74fb-0013",
-          "version": "sha256:ad66be5000e362623771c3289e63739ea5493a291cc79658ffca7bee70cf3338",
-          "text": "《象》曰：“需于血，”顺以听也。",
-          "aliases": []
+          "version": "sha256:5ed85626e771e9b8dab1f35ca8dc104575958dbb7eb2e5f2c7aab9f277488fcf",
+          "text": "《象》曰：“需于血”，顺以听也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“需于血，”顺以听也。",
+          "correction": {
+            "reason": "逗号应在收引号外",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:5ed85626e771e9b8dab1f35ca8dc104575958dbb7eb2e5f2c7aab9f277488fcf"
+            }
+          }
         },
         {
           "id": "p-zhouyi-95e3be13222c74fb-0014",
@@ -877,21 +1119,54 @@
         },
         {
           "id": "p-zhouyi-e6a5e5e358f31c27-0015",
-          "version": "sha256:31ef4c533cf0cb4a930817c4f3a0b347c157d0bf46b7fb6a0405de41df4a8538",
-          "text": "九五：讼，元吉。",
-          "aliases": []
+          "version": "sha256:a06da7bdffc4e3507d8d054bb46366215edfaac914d06cfd4dfaa76d666c150e",
+          "text": "九五，讼，元吉。",
+          "aliases": [],
+          "sourceText": "九五：讼，元吉。",
+          "correction": {
+            "reason": "爻题后用逗号，与本卦别爻统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:a06da7bdffc4e3507d8d054bb46366215edfaac914d06cfd4dfaa76d666c150e"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e6a5e5e358f31c27-0016",
-          "version": "sha256:7a926950de35aac5a9647916e17ea726e384df96e5ba86c69443598ba75f6daa",
-          "text": "《象》曰：“讼，元吉”以中正也。",
-          "aliases": []
+          "version": "sha256:56c2aa57bff360b70f09e078139a72fb91247a8abe39e60aad202ccd5abfc953",
+          "text": "《象》曰：“讼，元吉”，以中正也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“讼，元吉”以中正也。",
+          "correction": {
+            "reason": "引语后缺逗号，与别爻小《象》同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:56c2aa57bff360b70f09e078139a72fb91247a8abe39e60aad202ccd5abfc953"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e6a5e5e358f31c27-0017",
-          "version": "sha256:2be3bbb64f8fbe02ef337d6033bbcdf49acd0bd55ecc5b0dcb89ba3d26400c11",
-          "text": "上九：或锡之鞶带，终朝三褫之。",
-          "aliases": []
+          "version": "sha256:4e4bc7595e8489e49181929cfea0d1685782519fb13c58ecb446579abf1459df",
+          "text": "上九，或锡之鞶带，终朝三褫之。",
+          "aliases": [],
+          "sourceText": "上九：或锡之鞶带，终朝三褫之。",
+          "correction": {
+            "reason": "爻题后用逗号，与本卦别爻统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:4e4bc7595e8489e49181929cfea0d1685782519fb13c58ecb446579abf1459df"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e6a5e5e358f31c27-0018",
@@ -946,9 +1221,20 @@
         },
         {
           "id": "p-zhouyi-c02df312a5108513-0007",
-          "version": "sha256:6ab3cd912e9dfc6bb701f3cb542fb58e18f6b7fda4e784d1c308da294e136970",
-          "text": "《象》曰：“师出以律，”失律凶也。",
-          "aliases": []
+          "version": "sha256:7168f7dd4ed2ead7b455d78b097a619df6fd476f18496dda60994e0e2c65735a",
+          "text": "《象》曰：“师出以律”，失律凶也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“师出以律，”失律凶也。",
+          "correction": {
+            "reason": "逗号应在收引号外",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:7168f7dd4ed2ead7b455d78b097a619df6fd476f18496dda60994e0e2c65735a"
+            }
+          }
         },
         {
           "id": "p-zhouyi-c02df312a5108513-0008",
@@ -1081,9 +1367,20 @@
         },
         {
           "id": "p-zhouyi-c662219c5d00ea9e-0011",
-          "version": "sha256:3fbeaa3ae25ca2a8531182d8bb7e389a2ec27d2a9911e80e3ad76ba5a7574ce2",
-          "text": "《象》曰：比之匪人”，不亦伤乎？",
-          "aliases": []
+          "version": "sha256:f2e6dfaf3919965c126b7008a0c78319fd36bd64ef6ce296f3f5d9fa744e4859",
+          "text": "《象》曰：“比之匪人”，不亦伤乎？",
+          "aliases": [],
+          "sourceText": "《象》曰：比之匪人”，不亦伤乎？",
+          "correction": {
+            "reason": "缺开引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f2e6dfaf3919965c126b7008a0c78319fd36bd64ef6ce296f3f5d9fa744e4859"
+            }
+          }
         },
         {
           "id": "p-zhouyi-c662219c5d00ea9e-0012",
@@ -1162,9 +1459,20 @@
         },
         {
           "id": "p-zhouyi-a3fceec3bdd5eb5c-0006",
-          "version": "sha256:991b56d1ab8444b6380c2fa24054e5839e55c5689a048e5325cc706872a0693b",
-          "text": "初九，“复自道，何其咎？吉。",
-          "aliases": []
+          "version": "sha256:5c98e54ab792602993edac0f14968a5bb358b5935465b1a8cc70720dc9c822e6",
+          "text": "初九，复自道，何其咎？吉。",
+          "aliases": [],
+          "sourceText": "初九，“复自道，何其咎？吉。",
+          "correction": {
+            "reason": "爻辞不加引号，开引号多出且无收引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:5c98e54ab792602993edac0f14968a5bb358b5935465b1a8cc70720dc9c822e6"
+            }
+          }
         },
         {
           "id": "p-zhouyi-a3fceec3bdd5eb5c-0007",
@@ -1315,9 +1623,20 @@
         },
         {
           "id": "p-zhouyi-0efa2a565df18433-0013",
-          "version": "sha256:fadc0f529f999f97505433ea1bda75ccc161c63f4393c1d9fd0d812bbdd1adca",
-          "text": "《象》曰：“愬愬终吉”。志行也。",
-          "aliases": []
+          "version": "sha256:8f75615fdea5a3c2ea67b7c42bb64695c95cecdf608fc928f63eb6979d95cfe2",
+          "text": "《象》曰：“愬愬终吉”，志行也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“愬愬终吉”。志行也。",
+          "correction": {
+            "reason": "引语与解释同句，句号应作逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:8f75615fdea5a3c2ea67b7c42bb64695c95cecdf608fc928f63eb6979d95cfe2"
+            }
+          }
         },
         {
           "id": "p-zhouyi-0efa2a565df18433-0014",
@@ -1654,9 +1973,20 @@
         },
         {
           "id": "p-zhouyi-c146797089a151eb-0013",
-          "version": "sha256:0b0bbd4fb7aafe20be81b959cde26b37f18f31c17d5126b7adf4899c5152b897",
-          "text": "九四，乘其墉，弗克攻，吉",
-          "aliases": []
+          "version": "sha256:34bf8213f15022946de18ccaccb00e7e4bdb407cfe28bcea09640d6794f5337f",
+          "text": "九四，乘其墉，弗克攻，吉。",
+          "aliases": [],
+          "sourceText": "九四，乘其墉，弗克攻，吉",
+          "correction": {
+            "reason": "爻辞句末缺句号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:34bf8213f15022946de18ccaccb00e7e4bdb407cfe28bcea09640d6794f5337f"
+            }
+          }
         },
         {
           "id": "p-zhouyi-c146797089a151eb-0014",
@@ -2337,9 +2667,20 @@
         },
         {
           "id": "p-zhouyi-ab16b67d50a7c3c2-0011",
-          "version": "sha256:bbc1eb7bf04084a55183fd295f89c42f1ff74e88052afe353621e0e77410dd85",
-          "text": "《象》曰：“甘临”，位不当也。“既忧之”。咎不长也。",
-          "aliases": []
+          "version": "sha256:51f8878485f07b98bb8d6174c4588994f9bbec5a0ac2ceab1cbb5932a0e495a5",
+          "text": "《象》曰：“甘临”，位不当也。“既忧之”，咎不长也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“甘临”，位不当也。“既忧之”。咎不长也。",
+          "correction": {
+            "reason": "引语与解释同句，句号应作逗号，与履、晋同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:51f8878485f07b98bb8d6174c4588994f9bbec5a0ac2ceab1cbb5932a0e495a5"
+            }
+          }
         },
         {
           "id": "p-zhouyi-ab16b67d50a7c3c2-0012",
@@ -2565,9 +2906,20 @@
         },
         {
           "id": "p-zhouyi-ea93713d1bee51c3-0012",
-          "version": "sha256:c7217df33f293ecb980f21c519ad669477b70ed53ff60319c3340b3e838afb65",
-          "text": "九四，“噬干胏，得金矢。利艰贞，吉。",
-          "aliases": []
+          "version": "sha256:d3539eea59bcf04774d12d0485834e836b463a9d8ed41b73f88a8d32cff5545f",
+          "text": "九四，噬干胏，得金矢。利艰贞，吉。",
+          "aliases": [],
+          "sourceText": "九四，“噬干胏，得金矢。利艰贞，吉。",
+          "correction": {
+            "reason": "爻辞不加引号，开引号多出且无收引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:d3539eea59bcf04774d12d0485834e836b463a9d8ed41b73f88a8d32cff5545f"
+            }
+          }
         },
         {
           "id": "p-zhouyi-ea93713d1bee51c3-0013",
@@ -2768,9 +3120,20 @@
         },
         {
           "id": "p-zhouyi-25498066801c408a-0006",
-          "version": "sha256:aeddb1988a5a9d2de1e214c0e931dc613c068822f764737864a5ded69d59cf9b",
-          "text": "初六：剥床以足，蔑贞凶。",
-          "aliases": []
+          "version": "sha256:18b528886ead24791534924b005d8b2a619db997e90cf73c33cbe1b9775aa29c",
+          "text": "初六，剥床以足，蔑贞凶。",
+          "aliases": [],
+          "sourceText": "初六：剥床以足，蔑贞凶。",
+          "correction": {
+            "reason": "爻题后用逗号，与别卦统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:18b528886ead24791534924b005d8b2a619db997e90cf73c33cbe1b9775aa29c"
+            }
+          }
         },
         {
           "id": "p-zhouyi-25498066801c408a-0007",
@@ -2780,9 +3143,20 @@
         },
         {
           "id": "p-zhouyi-25498066801c408a-0008",
-          "version": "sha256:51b95e04a4b376195e9e99fc80fa612ae5b44366842d8d76820a17147c85cb75",
-          "text": "六二：剥床以辨，蔑贞凶。",
-          "aliases": []
+          "version": "sha256:ca6b92e75a81148b556714d3bd34d5f694530b86518db54498967ad3d72065d8",
+          "text": "六二，剥床以辨，蔑贞凶。",
+          "aliases": [],
+          "sourceText": "六二：剥床以辨，蔑贞凶。",
+          "correction": {
+            "reason": "爻题后用逗号，与别卦统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:ca6b92e75a81148b556714d3bd34d5f694530b86518db54498967ad3d72065d8"
+            }
+          }
         },
         {
           "id": "p-zhouyi-25498066801c408a-0009",
@@ -2792,9 +3166,20 @@
         },
         {
           "id": "p-zhouyi-25498066801c408a-0010",
-          "version": "sha256:26e30efb4db387f3f89f3111cad6cd7cb9969f14a783ea9ff5c05f345e791c87",
-          "text": "六三：剥之，无咎。",
-          "aliases": []
+          "version": "sha256:4d6fc69d520360a9e6159e307642b07cea6d80bc83dc3c697e091aa693f9ec0a",
+          "text": "六三，剥之，无咎。",
+          "aliases": [],
+          "sourceText": "六三：剥之，无咎。",
+          "correction": {
+            "reason": "爻题后用逗号，与别卦统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:4d6fc69d520360a9e6159e307642b07cea6d80bc83dc3c697e091aa693f9ec0a"
+            }
+          }
         },
         {
           "id": "p-zhouyi-25498066801c408a-0011",
@@ -2804,9 +3189,20 @@
         },
         {
           "id": "p-zhouyi-25498066801c408a-0012",
-          "version": "sha256:8f12ab4cc91cc6c9d7d0c8341669a18e9d1ada0d6d3b33b2109ff8b4f030c4c4",
-          "text": "六四：剥床以肤，凶。",
-          "aliases": []
+          "version": "sha256:17fdc83a9f78bc2e5fd520ada0dc37bd8a78bce143ba4eb29f72542516353ebb",
+          "text": "六四，剥床以肤，凶。",
+          "aliases": [],
+          "sourceText": "六四：剥床以肤，凶。",
+          "correction": {
+            "reason": "爻题后用逗号，与别卦统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:17fdc83a9f78bc2e5fd520ada0dc37bd8a78bce143ba4eb29f72542516353ebb"
+            }
+          }
         },
         {
           "id": "p-zhouyi-25498066801c408a-0013",
@@ -2816,9 +3212,20 @@
         },
         {
           "id": "p-zhouyi-25498066801c408a-0014",
-          "version": "sha256:d0e82931ac87815d20b62d5b1ad4c8e9cd1bd91998a50a09fb64a1e52b2593a8",
-          "text": "六五：贯鱼以宫人宠，无不利。",
-          "aliases": []
+          "version": "sha256:31b9df43ee37aca3c9fb35a3a8f92b6083c4758d9de6e76ddd42589dc889c3f5",
+          "text": "六五，贯鱼以宫人宠，无不利。",
+          "aliases": [],
+          "sourceText": "六五：贯鱼以宫人宠，无不利。",
+          "correction": {
+            "reason": "爻题后用逗号，与别卦统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:31b9df43ee37aca3c9fb35a3a8f92b6083c4758d9de6e76ddd42589dc889c3f5"
+            }
+          }
         },
         {
           "id": "p-zhouyi-25498066801c408a-0015",
@@ -2828,9 +3235,20 @@
         },
         {
           "id": "p-zhouyi-25498066801c408a-0016",
-          "version": "sha256:8a9732f6fb1798107721bac2b1f686a8551f60e03440b58642047bb4353d387f",
-          "text": "上九：硕果不食，君子得舆，小人剥庐。",
-          "aliases": []
+          "version": "sha256:26fbcb4338bfd836b78eaecdf54646c31479e5c46fe5d1a7e5adcdf453ebf5ec",
+          "text": "上九，硕果不食，君子得舆，小人剥庐。",
+          "aliases": [],
+          "sourceText": "上九：硕果不食，君子得舆，小人剥庐。",
+          "correction": {
+            "reason": "爻题后用逗号，与别卦统一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:26fbcb4338bfd836b78eaecdf54646c31479e5c46fe5d1a7e5adcdf453ebf5ec"
+            }
+          }
         },
         {
           "id": "p-zhouyi-25498066801c408a-0017",
@@ -3358,9 +3776,20 @@
         },
         {
           "id": "p-zhouyi-95074c93db990ed9-0009",
-          "version": "sha256:913560d00896bebdd5c20565b4acdaa515538966f59b8489e89608a2d6fbe0e5",
-          "text": "《象》曰：“老夫女妻，”，过以相与也。",
-          "aliases": []
+          "version": "sha256:d23c0928887d7b8ffb88cd2a220698b3f4600d618f8350ac10f9fd720c465cd1",
+          "text": "《象》曰：“老夫女妻”，过以相与也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“老夫女妻，”，过以相与也。",
+          "correction": {
+            "reason": "引号内多一逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:d23c0928887d7b8ffb88cd2a220698b3f4600d618f8350ac10f9fd720c465cd1"
+            }
+          }
         },
         {
           "id": "p-zhouyi-95074c93db990ed9-0010",
@@ -3439,15 +3868,37 @@
         },
         {
           "id": "p-zhouyi-0d40199b1271c81b-0004",
-          "version": "sha256:c6c9cc81caf8f4d1795288406b78cb6d35e05367b4c5a3f6d3ffcf30417f636b",
-          "text": "《彖》曰：“习坎”，重险也。水流而不盈。行险而不失其信。维心亨，乃",
-          "aliases": []
+          "version": "sha256:633bd25ba4231c863d9125afd6a332a6f74992e78db81f82d8f7d6caa2c6c8d8",
+          "text": "《彖》曰：“习坎”，重险也。水流而不盈。行险而不失其信。维心亨，乃以刚中也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：“习坎”，重险也。水流而不盈。行险而不失其信。维心亨，乃",
+          "correction": {
+            "reason": "挪动：一句拆在两段，维心亨，乃以刚中也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:633bd25ba4231c863d9125afd6a332a6f74992e78db81f82d8f7d6caa2c6c8d8"
+            }
+          }
         },
         {
           "id": "p-zhouyi-0d40199b1271c81b-0005",
-          "version": "sha256:4cdadcaef510d8f2b5d3511703d371983e85b9001932ea82e44a68cd299958af",
-          "text": "以刚中也。“行有尚”，往有功也。天险，不可升也。地险，山川丘陵也。王公设险以守其国。险之时用大矣哉！",
-          "aliases": []
+          "version": "sha256:15f8dc10a70f42cf1340fd77bbc1d80848df372556db35475dc9ef4c686ec9f0",
+          "text": "“行有尚”，往有功也。天险，不可升也。地险，山川丘陵也。王公设险以守其国。险之时用大矣哉！",
+          "aliases": [],
+          "sourceText": "以刚中也。“行有尚”，往有功也。天险，不可升也。地险，山川丘陵也。王公设险以守其国。险之时用大矣哉！",
+          "correction": {
+            "reason": "挪动：一句拆在两段，维心亨，乃以刚中也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:15f8dc10a70f42cf1340fd77bbc1d80848df372556db35475dc9ef4c686ec9f0"
+            }
+          }
         },
         {
           "id": "p-zhouyi-0d40199b1271c81b-0006",
@@ -3673,15 +4124,37 @@
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0004",
-          "version": "sha256:e526627e272b08b116eff093dd92034d526352369a5a1e6e6f170ad9b82da47e",
-          "text": "《彖》曰：咸，感也。柔上而刚下，二气感应以相与。止而说，男下女，是以“亨利贞，取女吉”也。天地感而万物化生，圣人感人心而天下和平。观其所",
-          "aliases": []
+          "version": "sha256:198104f3169dca410f1cdd42d198a742a02549f6685270791417d63ba613da43",
+          "text": "《彖》曰：咸，感也。柔上而刚下，二气感应以相与。止而说，男下女，是以“亨利贞，取女吉”也。天地感而万物化生，圣人感人心而天下和平。",
+          "aliases": [],
+          "sourceText": "《彖》曰：咸，感也。柔上而刚下，二气感应以相与。止而说，男下女，是以“亨利贞，取女吉”也。天地感而万物化生，圣人感人心而天下和平。观其所",
+          "correction": {
+            "reason": "挪动：一句拆在两段，观其所感，而天地万物之情可见矣一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:198104f3169dca410f1cdd42d198a742a02549f6685270791417d63ba613da43"
+            }
+          }
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0005",
-          "version": "sha256:b1ea517a7e4f614b5fe9bbf7631ebc937cb13bc9f0c892a5beb3bf2272375647",
-          "text": "感，而天地万物之情可见矣。",
-          "aliases": []
+          "version": "sha256:e61b896fc1c6e5d4801880bc85f2323ba92a7d4ed20ed4aae0d3cb1d8ec688c5",
+          "text": "观其所感，而天地万物之情可见矣。",
+          "aliases": [],
+          "sourceText": "感，而天地万物之情可见矣。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，观其所感，而天地万物之情可见矣一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e61b896fc1c6e5d4801880bc85f2323ba92a7d4ed20ed4aae0d3cb1d8ec688c5"
+            }
+          }
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0006",
@@ -3697,9 +4170,20 @@
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0008",
-          "version": "sha256:da181e0721e628aa1e72cc695efd6bd51ebba47fa3f24d4c35549d756c321955",
-          "text": "《象》曰“咸其拇”，志在外也。",
-          "aliases": []
+          "version": "sha256:33c64ff183f27591fefd801f76ba7fb229ce1dffd78573bf17a15a280bd90c51",
+          "text": "《象》曰：“咸其拇”，志在外也。",
+          "aliases": [],
+          "sourceText": "《象》曰“咸其拇”，志在外也。",
+          "correction": {
+            "reason": "《象》曰后缺冒号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:33c64ff183f27591fefd801f76ba7fb229ce1dffd78573bf17a15a280bd90c51"
+            }
+          }
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0009",
@@ -3709,9 +4193,20 @@
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0010",
-          "version": "sha256:1866af18b6b4ddd2429371d64acb5ba61ab8a4d0d2f963fec559ce4f24aa8b5a",
-          "text": "《象》曰虽“凶居吉”，顺不害也。",
-          "aliases": []
+          "version": "sha256:7ab035a5176de5c48ee4505af5ee3e6983cf6dd659c635e30de4c82467ce34c6",
+          "text": "《象》曰：虽“凶居吉”，顺不害也。",
+          "aliases": [],
+          "sourceText": "《象》曰虽“凶居吉”，顺不害也。",
+          "correction": {
+            "reason": "《象》曰后缺冒号；虽是《象》自己的话，留在引号外，与讼初六小《象》虽“小有言”同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:7ab035a5176de5c48ee4505af5ee3e6983cf6dd659c635e30de4c82467ce34c6"
+            }
+          }
         },
         {
           "id": "p-zhouyi-4104bcd4f7ea2546-0011",
@@ -3790,15 +4285,37 @@
         },
         {
           "id": "p-zhouyi-37db271110d5eb7e-0004",
-          "version": "sha256:81564a88d16bc02dc8e726806ba38b436da8494677a69be8f50ec1bf19759732",
-          "text": "《彖》曰：恒，久也。刚上而柔下。雷风相与，巽而动，刚柔皆应，恒。“恒亨无咎利贞”，久于其道也。天地之道恒久而不已也。“利有攸往”，终则",
-          "aliases": []
+          "version": "sha256:5d8709e11061180d58abab2b32f0c02f359cdf036c099512d16da8d12de41075",
+          "text": "《彖》曰：恒，久也。刚上而柔下。雷风相与，巽而动，刚柔皆应，恒。“恒亨无咎利贞”，久于其道也。天地之道恒久而不已也。“利有攸往”，终则有始也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：恒，久也。刚上而柔下。雷风相与，巽而动，刚柔皆应，恒。“恒亨无咎利贞”，久于其道也。天地之道恒久而不已也。“利有攸往”，终则",
+          "correction": {
+            "reason": "挪动：一句拆在两段，利有攸往，终则有始也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:5d8709e11061180d58abab2b32f0c02f359cdf036c099512d16da8d12de41075"
+            }
+          }
         },
         {
           "id": "p-zhouyi-37db271110d5eb7e-0005",
-          "version": "sha256:bb787339f651f1da2dcedefd56993bcbeab44f04010e36ede80c369e6c3da45d",
-          "text": "有始也。日月得天而能久照，四时变化而能久成。圣人久于其道而天下化成。观其所恒，而天地万物之情可见矣。",
-          "aliases": []
+          "version": "sha256:52051414cf21dc191608285516975f63986ad6cdbc0353bc51ac9ded582fc20e",
+          "text": "日月得天而能久照，四时变化而能久成。圣人久于其道而天下化成。观其所恒，而天地万物之情可见矣。",
+          "aliases": [],
+          "sourceText": "有始也。日月得天而能久照，四时变化而能久成。圣人久于其道而天下化成。观其所恒，而天地万物之情可见矣。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，利有攸往，终则有始也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:52051414cf21dc191608285516975f63986ad6cdbc0353bc51ac9ded582fc20e"
+            }
+          }
         },
         {
           "id": "p-zhouyi-37db271110d5eb7e-0006",
@@ -3814,9 +4331,20 @@
         },
         {
           "id": "p-zhouyi-37db271110d5eb7e-0008",
-          "version": "sha256:c122a9e6302ae0a366a3281e0430b56e7d83f6cccd472b0ed51dd0c03dfcb792",
-          "text": "《《象》曰：“浚恒”之“凶”，始求深也。",
-          "aliases": []
+          "version": "sha256:e84082f5ee20481f91857994ecad7c78890ada077b420584c477e2b9ac559084",
+          "text": "《象》曰：“浚恒”之“凶”，始求深也。",
+          "aliases": [],
+          "sourceText": "《《象》曰：“浚恒”之“凶”，始求深也。",
+          "correction": {
+            "reason": "多一书名号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e84082f5ee20481f91857994ecad7c78890ada077b420584c477e2b9ac559084"
+            }
+          }
         },
         {
           "id": "p-zhouyi-37db271110d5eb7e-0009",
@@ -4158,9 +4686,20 @@
         },
         {
           "id": "p-zhouyi-aea96ea94010f2de-0007",
-          "version": "sha256:2999dc74bd60ebbe8a9468af3dab3b606943ff67d474c6cda1fc9d47de325e41",
-          "text": "《象》曰：“晋如摧如”，独行正也。“裕无咎”。未受命也。",
-          "aliases": []
+          "version": "sha256:e8003dc568ac2fc84e8a1cee2fb4cb67ba4b66f5ea4972d1720952458a95741f",
+          "text": "《象》曰：“晋如摧如”，独行正也。“裕无咎”，未受命也。",
+          "aliases": [],
+          "sourceText": "《象》曰：“晋如摧如”，独行正也。“裕无咎”。未受命也。",
+          "correction": {
+            "reason": "引语与解释同句，句号应作逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e8003dc568ac2fc84e8a1cee2fb4cb67ba4b66f5ea4972d1720952458a95741f"
+            }
+          }
         },
         {
           "id": "p-zhouyi-aea96ea94010f2de-0008",
@@ -4390,15 +4929,37 @@
         },
         {
           "id": "p-zhouyi-93e564dcd836c6a5-0004",
-          "version": "sha256:9b9375972da69a959de1ab79719b78ff06d386f41e12f4947a506250fe55dada",
-          "text": "《彖》曰：家人，女正位乎内，男正位乎外。男女正，天地之大义也。家人有严君焉，父母之谓也。父父，子子，兄兄，弟弟，夫夫，妇妇，而家道正。正",
-          "aliases": []
+          "version": "sha256:12cd6dda18bfe772fc9ba5156657f110ce92f8ec80821643da769f1f135caf25",
+          "text": "《彖》曰：家人，女正位乎内，男正位乎外。男女正，天地之大义也。家人有严君焉，父母之谓也。父父，子子，兄兄，弟弟，夫夫，妇妇，而家道正。",
+          "aliases": [],
+          "sourceText": "《彖》曰：家人，女正位乎内，男正位乎外。男女正，天地之大义也。家人有严君焉，父母之谓也。父父，子子，兄兄，弟弟，夫夫，妇妇，而家道正。正",
+          "correction": {
+            "reason": "挪动：一句拆在两段，正家而天下定矣一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:12cd6dda18bfe772fc9ba5156657f110ce92f8ec80821643da769f1f135caf25"
+            }
+          }
         },
         {
           "id": "p-zhouyi-93e564dcd836c6a5-0005",
-          "version": "sha256:5a2368615b035741b17454568ab2ad999dd67e4a8d52ebbaaf9109eec8c2f3d0",
-          "text": "家而天下定矣。",
-          "aliases": []
+          "version": "sha256:831eb173e64a097ab9cdb3a9520ebadf1fac07a03cc0893c617cec70efced64f",
+          "text": "正家而天下定矣。",
+          "aliases": [],
+          "sourceText": "家而天下定矣。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，正家而天下定矣一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:831eb173e64a097ab9cdb3a9520ebadf1fac07a03cc0893c617cec70efced64f"
+            }
+          }
         },
         {
           "id": "p-zhouyi-93e564dcd836c6a5-0006",
@@ -4466,9 +5027,20 @@
         },
         {
           "id": "p-zhouyi-93e564dcd836c6a5-0013",
-          "version": "sha256:6a7fa52734821fb97008af0663b80b940c24473ef7ec619e0d140f66aa4852b8",
-          "text": "九四，富家，大吉。",
-          "aliases": []
+          "version": "sha256:8b2dde850d1441fcd2bdf6f981b5a22c7c2f79a0e3b0de6f0a45a0c7c1154c40",
+          "text": "六四，富家，大吉。",
+          "aliases": [],
+          "sourceText": "九四，富家，大吉。",
+          "correction": {
+            "reason": "王弼注、正义、本义都作六四，此爻是阴爻，小《象》顺在位也是阴爻口吻",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:8b2dde850d1441fcd2bdf6f981b5a22c7c2f79a0e3b0de6f0a45a0c7c1154c40"
+            }
+          }
         },
         {
           "id": "p-zhouyi-93e564dcd836c6a5-0014",
@@ -4529,15 +5101,37 @@
         },
         {
           "id": "p-zhouyi-af9fee9484d94e00-0004",
-          "version": "sha256:9e46c1c1441ae1c5a85dbe6c5fb8dcb3d68811852c6e08cbecea7b14bb378caa",
-          "text": "《彖》曰：睽，火动而上，泽动而下。二女同居，其志不同行。说而丽乎明，柔进而上行，得中而应乎刚，是以小事吉。天地睽而其事同也。男女睽而其志通",
-          "aliases": []
+          "version": "sha256:612fc82c5c0abea49600b0b8079bae050978fee5e04e64ee65f42beb19ebc1c2",
+          "text": "《彖》曰：睽，火动而上，泽动而下。二女同居，其志不同行。说而丽乎明，柔进而上行，得中而应乎刚，是以小事吉。天地睽而其事同也。男女睽而其志通也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：睽，火动而上，泽动而下。二女同居，其志不同行。说而丽乎明，柔进而上行，得中而应乎刚，是以小事吉。天地睽而其事同也。男女睽而其志通",
+          "correction": {
+            "reason": "挪动：一句拆在两段，男女睽而其志通也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:612fc82c5c0abea49600b0b8079bae050978fee5e04e64ee65f42beb19ebc1c2"
+            }
+          }
         },
         {
           "id": "p-zhouyi-af9fee9484d94e00-0005",
-          "version": "sha256:96b6fb8b5d0152c25786ac41476c16a408d9e259ac6fb07ae8c028b8c5a30e66",
-          "text": "也。万物睽而其事类也，睽之时用大矣哉！",
-          "aliases": []
+          "version": "sha256:043e0d4835fc87a59aac29e46a25a07756bcfdae1c00fc519a3b5f84165ae791",
+          "text": "万物睽而其事类也，睽之时用大矣哉！",
+          "aliases": [],
+          "sourceText": "也。万物睽而其事类也，睽之时用大矣哉！",
+          "correction": {
+            "reason": "挪动：一句拆在两段，男女睽而其志通也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:043e0d4835fc87a59aac29e46a25a07756bcfdae1c00fc519a3b5f84165ae791"
+            }
+          }
         },
         {
           "id": "p-zhouyi-af9fee9484d94e00-0006",
@@ -4607,15 +5201,37 @@
         },
         {
           "id": "p-zhouyi-af9fee9484d94e00-0017",
-          "version": "sha256:1fb38af86ebf81db63a0018533b9d4cc4b1c19d79c95ccb7ef9861dc2785aa4f",
-          "text": "上九，睽孤见豕负途，载鬼一车，先张之弧，后说之弧，匪寇，婚媾。往遇",
-          "aliases": []
+          "version": "sha256:aafb19554ff140fa077489e251374a5290544b3bef61dff71a653a680568296b",
+          "text": "上九，睽孤见豕负途，载鬼一车，先张之弧，后说之弧，匪寇，婚媾。",
+          "aliases": [],
+          "sourceText": "上九，睽孤见豕负途，载鬼一车，先张之弧，后说之弧，匪寇，婚媾。往遇",
+          "correction": {
+            "reason": "挪动：一句拆在两段，往遇雨则吉一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:aafb19554ff140fa077489e251374a5290544b3bef61dff71a653a680568296b"
+            }
+          }
         },
         {
           "id": "p-zhouyi-af9fee9484d94e00-0018",
-          "version": "sha256:fa3a7ebcf89089a5224d9095e084652d6aa8d1eb9d5180a712250817632e580a",
-          "text": "雨则吉。",
-          "aliases": []
+          "version": "sha256:d39fb2d83a9f78b84c03a1efc2f5c5ab6973792c0599017bc9dd954217aaf00a",
+          "text": "往遇雨则吉。",
+          "aliases": [],
+          "sourceText": "雨则吉。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，往遇雨则吉一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:d39fb2d83a9f78b84c03a1efc2f5c5ab6973792c0599017bc9dd954217aaf00a"
+            }
+          }
         },
         {
           "id": "p-zhouyi-af9fee9484d94e00-0019",
@@ -4652,15 +5268,37 @@
         },
         {
           "id": "p-zhouyi-bada7c17384098c5-0004",
-          "version": "sha256:1b17ac695a7eb007970c24ae4546ed91698c67527baf9947559857e5c177273a",
-          "text": "《彖》曰：蹇，难也，险在前也。见险而能止，知矣哉！蹇，利西南”，往得中也。“不利东北”，其道穷也。“利见大人”，往有功也。当位”贞吉”，",
-          "aliases": []
+          "version": "sha256:11dc79941223654c0e5d86d3395ce75b91d1c0d968b89a2534dba32deaa856c5",
+          "text": "《彖》曰：蹇，难也，险在前也。见险而能止，知矣哉！“蹇，利西南”，往得中也。“不利东北”，其道穷也。“利见大人”，往有功也。当位“贞吉”，以正邦也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：蹇，难也，险在前也。见险而能止，知矣哉！蹇，利西南”，往得中也。“不利东北”，其道穷也。“利见大人”，往有功也。当位”贞吉”，",
+          "correction": {
+            "reason": "缺开引号，照解卦《彖》“解，利西南”补；开引号方向错；挪动：一句拆在两段，当位贞吉，以正邦也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:11dc79941223654c0e5d86d3395ce75b91d1c0d968b89a2534dba32deaa856c5"
+            }
+          }
         },
         {
           "id": "p-zhouyi-bada7c17384098c5-0005",
-          "version": "sha256:b3ba01d4a3a2c008cc101e1f58b56a0436e0e6f6f78f5dee96cb697943b7348c",
-          "text": "以正邦也。蹇之时用大矣哉！",
-          "aliases": []
+          "version": "sha256:e5556a3b9543d52e4553eac5787b67d6d54f9b22594ff08ceed258637f3d445a",
+          "text": "蹇之时用大矣哉！",
+          "aliases": [],
+          "sourceText": "以正邦也。蹇之时用大矣哉！",
+          "correction": {
+            "reason": "挪动：一句拆在两段，当位贞吉，以正邦也一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e5556a3b9543d52e4553eac5787b67d6d54f9b22594ff08ceed258637f3d445a"
+            }
+          }
         },
         {
           "id": "p-zhouyi-bada7c17384098c5-0006",
@@ -4775,9 +5413,20 @@
         },
         {
           "id": "p-zhouyi-2ee08c8e75c563af-0005",
-          "version": "sha256:f8dc44f500d8c0f10d3f9ade627efe70a6a33f8302e8082388a8b3c3d345bc35",
-          "text": "“其来复吉”，乃得中也。“有攸往夙吉。”，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之时大矣哉！",
-          "aliases": []
+          "version": "sha256:910f4ab3cee1f51d14eaf6e4c0377b1611cf70eac4314a3183893fca72b1dc18",
+          "text": "“其来复吉”，乃得中也。“有攸往夙吉”，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之时大矣哉！",
+          "aliases": [],
+          "sourceText": "“其来复吉”，乃得中也。“有攸往夙吉。”，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之时大矣哉！",
+          "correction": {
+            "reason": "引号内多一句号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:910f4ab3cee1f51d14eaf6e4c0377b1611cf70eac4314a3183893fca72b1dc18"
+            }
+          }
         },
         {
           "id": "p-zhouyi-2ee08c8e75c563af-0006",
@@ -4997,15 +5646,37 @@
         },
         {
           "id": "p-zhouyi-e90f9ceb48b7e4d3-0004",
-          "version": "sha256:cf20824e6c3c63cdf4234583e8612251be828d44d8d131b47abe86efe666bde7",
-          "text": "《彖》曰：“益”，损上益下，民说无疆。自上下下，其道大光。“利有攸往”，中正有庆。“利涉大川”，木道乃行。益动而巽，日进无疆。天施地生，",
-          "aliases": []
+          "version": "sha256:ed7966f6ae7c271d6b607c606604dd79c1929433a61f68940d2f54d798dd6bf7",
+          "text": "《彖》曰：“益”，损上益下，民说无疆。自上下下，其道大光。“利有攸往”，中正有庆。“利涉大川”，木道乃行。益动而巽，日进无疆。天施地生，其益无方。",
+          "aliases": [],
+          "sourceText": "《彖》曰：“益”，损上益下，民说无疆。自上下下，其道大光。“利有攸往”，中正有庆。“利涉大川”，木道乃行。益动而巽，日进无疆。天施地生，",
+          "correction": {
+            "reason": "挪动：一句拆在两段，天施地生，其益无方一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:ed7966f6ae7c271d6b607c606604dd79c1929433a61f68940d2f54d798dd6bf7"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e90f9ceb48b7e4d3-0005",
-          "version": "sha256:991cd496337ac45b79c64397ec1fa7bef8de95033534e83c50691cb75d6a9d8f",
-          "text": "其益无方。凡益之道，与时偕行。",
-          "aliases": []
+          "version": "sha256:4738436debc7968955b1d540b4c854f303630a726d55cd8e2537aa81b8b324f3",
+          "text": "凡益之道，与时偕行。",
+          "aliases": [],
+          "sourceText": "其益无方。凡益之道，与时偕行。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，天施地生，其益无方一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:4738436debc7968955b1d540b4c854f303630a726d55cd8e2537aa81b8b324f3"
+            }
+          }
         },
         {
           "id": "p-zhouyi-e90f9ceb48b7e4d3-0006",
@@ -5231,9 +5902,20 @@
         },
         {
           "id": "p-zhouyi-b5abfee1a9b3390b-0004",
-          "version": "sha256:1539bac946c552ab2e7c96a2a4a4e45a15034e5234188881ca2d0d957c68afe0",
-          "text": "《彖》曰：姤，遇也，柔遇刚也。勿用取女”，不可与长也。天地相遇，品物咸章也。刚遇中正，天下大行也。姤之时义大矣哉！",
-          "aliases": []
+          "version": "sha256:e865688b0f90600df30e3e4478c0c7b62b78b5ce2050470e2a10e891fe203623",
+          "text": "《彖》曰：姤，遇也，柔遇刚也。“勿用取女”，不可与长也。天地相遇，品物咸章也。刚遇中正，天下大行也。姤之时义大矣哉！",
+          "aliases": [],
+          "sourceText": "《彖》曰：姤，遇也，柔遇刚也。勿用取女”，不可与长也。天地相遇，品物咸章也。刚遇中正，天下大行也。姤之时义大矣哉！",
+          "correction": {
+            "reason": "缺开引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e865688b0f90600df30e3e4478c0c7b62b78b5ce2050470e2a10e891fe203623"
+            }
+          }
         },
         {
           "id": "p-zhouyi-b5abfee1a9b3390b-0005",
@@ -5342,15 +6024,37 @@
         },
         {
           "id": "p-zhouyi-5f6a45cc8ad00312-0004",
-          "version": "sha256:3df88db70bc15bdbd3b4273efe95e70a67f3d8e635bd19afb17d9f9491b5c078",
-          "text": "《彖》曰：“萃”，聚也。顺以说，刚中而应，故聚也。“王假有庙”，致孝享也。“利见大人亨”，聚以正也。“用大牲吉，利有攸往”，顺天命也。观",
-          "aliases": []
+          "version": "sha256:12e6e6f0433685e2f46a8c12cf0995476ef31d1e56d89880c00d4e2640124384",
+          "text": "《彖》曰：“萃”，聚也。顺以说，刚中而应，故聚也。“王假有庙”，致孝享也。“利见大人亨”，聚以正也。“用大牲吉，利有攸往”，顺天命也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：“萃”，聚也。顺以说，刚中而应，故聚也。“王假有庙”，致孝享也。“利见大人亨”，聚以正也。“用大牲吉，利有攸往”，顺天命也。观",
+          "correction": {
+            "reason": "挪动：一句拆在两段，观其所聚，而天地万物之情可见矣一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:12e6e6f0433685e2f46a8c12cf0995476ef31d1e56d89880c00d4e2640124384"
+            }
+          }
         },
         {
           "id": "p-zhouyi-5f6a45cc8ad00312-0005",
-          "version": "sha256:b3d465d32047f32ad58371a726ad5ef328222721198bac9e4b4588a79c8677b3",
-          "text": "其所聚，而天地万物之情可见矣。",
-          "aliases": []
+          "version": "sha256:e7e9d3ac57602334e0958cbfeaec351b6970d04a12f8113aa455bcf1deba744d",
+          "text": "观其所聚，而天地万物之情可见矣。",
+          "aliases": [],
+          "sourceText": "其所聚，而天地万物之情可见矣。",
+          "correction": {
+            "reason": "挪动：一句拆在两段，观其所聚，而天地万物之情可见矣一句挪到后段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e7e9d3ac57602334e0958cbfeaec351b6970d04a12f8113aa455bcf1deba744d"
+            }
+          }
         },
         {
           "id": "p-zhouyi-5f6a45cc8ad00312-0006",
@@ -5709,9 +6413,20 @@
         },
         {
           "id": "p-zhouyi-73e1eefff97ca593-0004",
-          "version": "sha256:9cf0a5f26e602edf2e0d917614e8565346cd1f72a836c5109b7891212eec0b11",
-          "text": "《彖》曰：巽乎水而上水，井。井养而不穷也。“改邑不改井，”乃以刚中也。“汔至，亦未繘井”，未有功也。“羸其瓶”，是以凶也。",
-          "aliases": []
+          "version": "sha256:1848ec4441034bf29ebceafa23f9e3f7fa939914b78c4c51bc86c07f03d2521b",
+          "text": "《彖》曰：巽乎水而上水，井。井养而不穷也。“改邑不改井”，乃以刚中也。“汔至，亦未繘井”，未有功也。“羸其瓶”，是以凶也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：巽乎水而上水，井。井养而不穷也。“改邑不改井，”乃以刚中也。“汔至，亦未繘井”，未有功也。“羸其瓶”，是以凶也。",
+          "correction": {
+            "reason": "逗号应在收引号外",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:1848ec4441034bf29ebceafa23f9e3f7fa939914b78c4c51bc86c07f03d2521b"
+            }
+          }
         },
         {
           "id": "p-zhouyi-73e1eefff97ca593-0005",
@@ -5820,15 +6535,37 @@
         },
         {
           "id": "p-zhouyi-a3c6ade0438a60cf-0004",
-          "version": "sha256:752081f74585ed9cf03ae3819d8e2cbd07b8d9b3ac13ce5832e960f327437573",
-          "text": "《彖》曰：革，水火相息，二女同居，其志不相得曰革。“已日乃孚”，革而信之。文明以说，大亨以正。革而当，其悔乃亡。天地革而四时成，汤武革命，",
-          "aliases": []
+          "version": "sha256:29134dc31045d4d26ed6fccc69febcfea3322b7082e1f36de5a42f412b1482b3",
+          "text": "《彖》曰：革，水火相息，二女同居，其志不相得曰革。“已日乃孚”，革而信之。文明以说，大亨以正。革而当，其悔乃亡。天地革而四时成，汤武革命，顺乎天而应乎人。",
+          "aliases": [],
+          "sourceText": "《彖》曰：革，水火相息，二女同居，其志不相得曰革。“已日乃孚”，革而信之。文明以说，大亨以正。革而当，其悔乃亡。天地革而四时成，汤武革命，",
+          "correction": {
+            "reason": "挪动：一句拆在两段，天地革而四时成至顺乎天而应乎人一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:29134dc31045d4d26ed6fccc69febcfea3322b7082e1f36de5a42f412b1482b3"
+            }
+          }
         },
         {
           "id": "p-zhouyi-a3c6ade0438a60cf-0005",
-          "version": "sha256:633e5a70644f688b08e1da5f8381e547294bab0f99ea15d75f33d75b505e2113",
-          "text": "顺乎天而应乎人。革之时大矣哉！",
-          "aliases": []
+          "version": "sha256:55b34b38e0627d4a218f2452c86a683b891c1cd4c50cfbf5aeafc328b275f005",
+          "text": "革之时大矣哉！",
+          "aliases": [],
+          "sourceText": "顺乎天而应乎人。革之时大矣哉！",
+          "correction": {
+            "reason": "挪动：一句拆在两段，天地革而四时成至顺乎天而应乎人一句挪到前段",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:55b34b38e0627d4a218f2452c86a683b891c1cd4c50cfbf5aeafc328b275f005"
+            }
+          }
         },
         {
           "id": "p-zhouyi-a3c6ade0438a60cf-0006",
@@ -6447,9 +7184,20 @@
         },
         {
           "id": "p-zhouyi-fa189e82d0a2ae9e-0013",
-          "version": "sha256:421ffeffe4d2a4130f8ae35f5cb78322718515e146cedd419173789596fbb79a",
-          "text": "象曰：“愆期”之志，有待而行也。",
-          "aliases": []
+          "version": "sha256:1874e7cd694e893249f75299683acb5586a05542b949e1ebb25d5d6923724097",
+          "text": "《象》曰：“愆期”之志，有待而行也。",
+          "aliases": [],
+          "sourceText": "象曰：“愆期”之志，有待而行也。",
+          "correction": {
+            "reason": "缺书名号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:1874e7cd694e893249f75299683acb5586a05542b949e1ebb25d5d6923724097"
+            }
+          }
         },
         {
           "id": "p-zhouyi-fa189e82d0a2ae9e-0014",
@@ -7415,9 +8163,20 @@
         },
         {
           "id": "p-zhouyi-2f67d31dc9cac90b-0004",
-          "version": "sha256:093ee083be2b6b6a20afac2214aaad8e381c5abb0512ec5d77761fba768de266",
-          "text": "《彖》曰：“既济，亨”，小者亨也。“利贞”。刚柔正而位当也。“初吉”，柔得中也。“终止则乱”，其道穷也。",
-          "aliases": []
+          "version": "sha256:e8325af6f39d9681f4f7cb22a92e3893be3c15dfb26b9e0fe3ea6a8ce99c165e",
+          "text": "《彖》曰：“既济，亨”，小者亨也。“利贞”，刚柔正而位当也。“初吉”，柔得中也。“终止则乱”，其道穷也。",
+          "aliases": [],
+          "sourceText": "《彖》曰：“既济，亨”，小者亨也。“利贞”。刚柔正而位当也。“初吉”，柔得中也。“终止则乱”，其道穷也。",
+          "correction": {
+            "reason": "引语与解释同句，句号应作逗号，与履、晋同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e8325af6f39d9681f4f7cb22a92e3893be3c15dfb26b9e0fe3ea6a8ce99c165e"
+            }
+          }
         },
         {
           "id": "p-zhouyi-2f67d31dc9cac90b-0005",
@@ -7439,9 +8198,20 @@
         },
         {
           "id": "p-zhouyi-2f67d31dc9cac90b-0008",
-          "version": "sha256:e8dab0e85ccdad8b1ee011d2388cd8e91c33365f98c25eeaa66980185a29c183",
-          "text": "六二，“妇丧其茀，勿逐，七日得。",
-          "aliases": []
+          "version": "sha256:216f9732f7b0b964b993c826542c0bd47c75bbc03c23221bbbe985800f37e086",
+          "text": "六二，妇丧其茀，勿逐，七日得。",
+          "aliases": [],
+          "sourceText": "六二，“妇丧其茀，勿逐，七日得。",
+          "correction": {
+            "reason": "爻辞不加引号，开引号多出且无收引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:216f9732f7b0b964b993c826542c0bd47c75bbc03c23221bbbe985800f37e086"
+            }
+          }
         },
         {
           "id": "p-zhouyi-2f67d31dc9cac90b-0009",
@@ -7856,9 +8626,20 @@
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0005",
-          "version": "sha256:dabe4784760189d6ae45c12b0eacd78cc80b865b0770e4c480ca4b43d8f7eee0",
-          "text": "是故，吉凶者，失得之象也。悔吝者，懮虞之象也。变化者，进退之象也。刚柔者，昼夜之象也。六爻之动，三极之道也。是故，君子所居而安者，易之序也。所乐而玩者，爻之辞也。",
-          "aliases": []
+          "version": "sha256:f3bb3fb2c398876a04de8955f7c7ac311a4919570656173e5f3e9329b8937e8c",
+          "text": "是故，吉凶者，失得之象也。悔吝者，忧虞之象也。变化者，进退之象也。刚柔者，昼夜之象也。六爻之动，三极之道也。是故，君子所居而安者，易之序也。所乐而玩者，爻之辞也。",
+          "aliases": [],
+          "sourceText": "是故，吉凶者，失得之象也。悔吝者，懮虞之象也。变化者，进退之象也。刚柔者，昼夜之象也。六爻之动，三极之道也。是故，君子所居而安者，易之序也。所乐而玩者，爻之辞也。",
+          "correction": {
+            "reason": "懮是错字，维基文库《周易正义》作憂，简体作忧",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f3bb3fb2c398876a04de8955f7c7ac311a4919570656173e5f3e9329b8937e8c"
+            }
+          }
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0006",
@@ -7874,30 +8655,52 @@
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0008",
-          "version": "sha256:80d072da7cf0cd8728fa963f3ae65b165466420cfb53a906efcec6fd97287452",
-          "text": "是故，列贵贱者存乎位。齐小大者，存乎卦。辩吉凶者，存乎辞。懮悔吝者，存乎介。震无咎者，存乎悔。是故，卦有小大，辞有险易。辞也者，各指其所之。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhouyi-978ab00d704ae949-0009",
-          "version": "sha256:14a6a19ffba5e51b75d242762ecfca96790f7d90468a4243522973a5cd8cb495",
-          "text": "易与天地准，故能弥纶天地之道。仰以观于天文，俯以察于地理，是故知幽明之故。原始反终，故知死生之说。精气为物，游魂为变，是故知鬼神之情状。与天地相似，故不违。知周乎万物，而道济天下，故不过。旁行而不流，乐天知命，故不懮。安土敦乎仁，故能爱。范围天地之化而不过，曲成万物而不遗，通乎昼夜之道而知，故神无方而易无体。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhouyi-978ab00d704ae949-0010",
-          "version": "sha256:573c501aa5d6ee88bf8323e8daf18e1dcccde49391663117c94c66db69024131",
-          "text": "一阴一阳之谓道，继之者善也，成之者性也。仁者见之谓之仁，知者见之谓之知。百姓日用而不知，故君子之道鲜矣。显诸仁，藏诸用，鼓万物而不与圣人同懮，盛德大业至矣哉。富有之谓大业，日新之谓盛德。生生之谓易，成象之谓乾，效法之谓坤，极数知来之谓占，通变之谓事，阴阳不测之谓神。",
+          "version": "sha256:b45b41b50462e8b0c7acc6cdebfd63a7388fe39ed80775a5b47b0d59436f1883",
+          "text": "是故，列贵贱者存乎位。齐小大者，存乎卦。辩吉凶者，存乎辞。忧悔吝者，存乎介。震无咎者，存乎悔。是故，卦有小大，辞有险易。辞也者，各指其所之。",
           "aliases": [],
-          "sourceText": "一阴一阳之谓道，继之者善也，成之者性也。仁者见之谓之仁，知者见之谓之知。百姓日用而不知，故君子之道鲜矣。显诸仁，藏诸用，鼓万物而不与圣人同懮，盛德大业至矣哉。富有之谓大业，日新之谓盛德。生生之谓易，成象之谓干，效法之为坤，极数知来之谓占，通变之谓事，阴阳不测之谓神。",
+          "sourceText": "是故，列贵贱者存乎位。齐小大者，存乎卦。辩吉凶者，存乎辞。懮悔吝者，存乎介。震无咎者，存乎悔。是故，卦有小大，辞有险易。辞也者，各指其所之。",
           "correction": {
-            "reason": "殆知阁本机器简化把“乾”误转为“干”。语出《周易·系辞》《说卦》（如“乾知大始”“乾以易知”“乾道成男”“成象之谓乾”），乾指乾卦，规范简体仍作“乾”。；《系辞上》“成象之谓乾，效法之谓坤”：底本“为”是“谓”之误，上下句全用“之谓”。本书另一份《系辞上》（第64章所附）即作“效法之谓坤”，维基文库《易傳·繫辭上》同。",
+            "reason": "懮是错字，维基文库《周易正义》作憂，简体作忧",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
               "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:573c501aa5d6ee88bf8323e8daf18e1dcccde49391663117c94c66db69024131"
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:b45b41b50462e8b0c7acc6cdebfd63a7388fe39ed80775a5b47b0d59436f1883"
+            }
+          }
+        },
+        {
+          "id": "p-zhouyi-978ab00d704ae949-0009",
+          "version": "sha256:5cd29e87935de0849dabe82fa6c3c9de4fce798c6254fe2862fdd674b3234df6",
+          "text": "易与天地准，故能弥纶天地之道。仰以观于天文，俯以察于地理，是故知幽明之故。原始反终，故知死生之说。精气为物，游魂为变，是故知鬼神之情状。与天地相似，故不违。知周乎万物，而道济天下，故不过。旁行而不流，乐天知命，故不忧。安土敦乎仁，故能爱。范围天地之化而不过，曲成万物而不遗，通乎昼夜之道而知，故神无方而易无体。",
+          "aliases": [],
+          "sourceText": "易与天地准，故能弥纶天地之道。仰以观于天文，俯以察于地理，是故知幽明之故。原始反终，故知死生之说。精气为物，游魂为变，是故知鬼神之情状。与天地相似，故不违。知周乎万物，而道济天下，故不过。旁行而不流，乐天知命，故不懮。安土敦乎仁，故能爱。范围天地之化而不过，曲成万物而不遗，通乎昼夜之道而知，故神无方而易无体。",
+          "correction": {
+            "reason": "懮是错字，维基文库《周易正义》作憂，简体作忧",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:5cd29e87935de0849dabe82fa6c3c9de4fce798c6254fe2862fdd674b3234df6"
+            }
+          }
+        },
+        {
+          "id": "p-zhouyi-978ab00d704ae949-0010",
+          "version": "sha256:8b29b6957f6ca11c4e34038235df2a21af766372c6a93e870f4c1f1171bbc6b4",
+          "text": "一阴一阳之谓道，继之者善也，成之者性也。仁者见之谓之仁，知者见之谓之知。百姓日用而不知，故君子之道鲜矣。显诸仁，藏诸用，鼓万物而不与圣人同忧，盛德大业至矣哉。富有之谓大业，日新之谓盛德。生生之谓易，成象之谓乾，效法之谓坤，极数知来之谓占，通变之谓事，阴阳不测之谓神。",
+          "aliases": [],
+          "sourceText": "一阴一阳之谓道，继之者善也，成之者性也。仁者见之谓之仁，知者见之谓之知。百姓日用而不知，故君子之道鲜矣。显诸仁，藏诸用，鼓万物而不与圣人同懮，盛德大业至矣哉。富有之谓大业，日新之谓盛德。生生之谓易，成象之谓干，效法之为坤，极数知来之谓占，通变之谓事，阴阳不测之谓神。",
+          "correction": {
+            "reason": "殆知阁本机器简化把“乾”误转为“干”。语出《周易·系辞》《说卦》（如“乾知大始”“乾以易知”“乾道成男”“成象之谓乾”），乾指乾卦，规范简体仍作“乾”。；《系辞上》“成象之谓乾，效法之谓坤”：底本“为”是“谓”之误，上下句全用“之谓”。本书另一份《系辞上》（第64章所附）即作“效法之谓坤”，维基文库《易傳·繫辭上》同。；懮是错字，维基文库《周易正义》作憂，简体作忧",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:8b29b6957f6ca11c4e34038235df2a21af766372c6a93e870f4c1f1171bbc6b4"
             }
           }
         },
@@ -7920,9 +8723,20 @@
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0012",
-          "version": "sha256:16d9d4f15888f99eca43dc4e15fe3b396986130a229e145a3727784205cc3e55",
-          "text": "子曰：「易其至矣乎！」，夫易，圣人所以崇德而广业也。知崇礼卑，崇效天，卑法地。天地设位，而易行乎其中矣，成性存存，道义之门。",
-          "aliases": []
+          "version": "sha256:17eb442df5519aac29f46da8724652750fb66d0ada5c4aaf4bf18cc7ac636025",
+          "text": "子曰：「易其至矣乎！夫易，圣人所以崇德而广业也。知崇礼卑，崇效天，卑法地。天地设位，而易行乎其中矣，成性存存，道义之门。」",
+          "aliases": [],
+          "sourceText": "子曰：「易其至矣乎！」，夫易，圣人所以崇德而广业也。知崇礼卑，崇效天，卑法地。天地设位，而易行乎其中矣，成性存存，道义之门。",
+          "correction": {
+            "reason": "孔疏本子曰一直说到道义之门，夫易以下也是孔子的话，引号不应在第一句后收束，也多一逗号；子曰的引语到本章末道义之门止，补收引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:17eb442df5519aac29f46da8724652750fb66d0ada5c4aaf4bf18cc7ac636025"
+            }
+          }
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0013",
@@ -7968,9 +8782,20 @@
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0020",
-          "version": "sha256:e765a19e7f87ae01c6388448b979bd55b88156c1f5f66673316ae1b93db17f08",
-          "text": "子曰：「作易者其知盗乎？易曰：负且乘，致寇至。负也者，小人之事也。乘也者，君子之器也。小人而乘君子之器，盗思夺之矣！上慢下暴，盗思伐之矣！慢藏诲盗，冶容诲淫，易曰：「负且乘，致寇至，盗之招也。」",
-          "aliases": []
+          "version": "sha256:f6968917483a42adcba4933efe806631ba8d0aef1ea31ee432a9f1e26b3a6d1c",
+          "text": "子曰：「作易者其知盗乎？易曰：『负且乘，致寇至。』负也者，小人之事也。乘也者，君子之器也。小人而乘君子之器，盗思夺之矣！上慢下暴，盗思伐之矣！慢藏诲盗，冶容诲淫，易曰：『负且乘，致寇至』，盗之招也。」",
+          "aliases": [],
+          "sourceText": "子曰：「作易者其知盗乎？易曰：负且乘，致寇至。负也者，小人之事也。乘也者，君子之器也。小人而乘君子之器，盗思夺之矣！上慢下暴，盗思伐之矣！慢藏诲盗，冶容诲淫，易曰：「负且乘，致寇至，盗之招也。」",
+          "correction": {
+            "reason": "孔疏本此处引爻辞负且乘，致寇至，在孔子话内加内层引号；孔疏本作《易》曰负且乘，致寇至，盗之招也，盗之招也是孔子的话，内引号收在致寇至后，补子曰的收引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f6968917483a42adcba4933efe806631ba8d0aef1ea31ee432a9f1e26b3a6d1c"
+            }
+          }
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0021",
@@ -8067,9 +8892,20 @@
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0031",
-          "version": "sha256:ccb7d7037e3c77f984d880549eda6b2cff779b04eb700967e8f2d3b7cded75a4",
-          "text": "子曰：「书不尽言，言不尽意。然则圣人之意，其不可见乎。」子曰：「圣人立象以尽意，设卦以尽情伪，系辞以尽其言，变而通之以尽利，鼓之舞之以尽神。」",
-          "aliases": []
+          "version": "sha256:70908afe77be68a34ef247d63347e77dd242a807f958b21fc4c4c3be4c0ed41d",
+          "text": "子曰：「书不尽言，言不尽意。」然则圣人之意，其不可见乎。子曰：「圣人立象以尽意，设卦以尽情伪，系辞以尽其言，变而通之以尽利，鼓之舞之以尽神。」",
+          "aliases": [],
+          "sourceText": "子曰：「书不尽言，言不尽意。然则圣人之意，其不可见乎。」子曰：「圣人立象以尽意，设卦以尽情伪，系辞以尽其言，变而通之以尽利，鼓之舞之以尽神。」",
+          "correction": {
+            "reason": "孔疏本子曰只括书不尽言，言不尽意，然则圣人之意，其不可见乎是作者的设问（疏：夫子自发其问）；同上，设问不在孔子话内，删去多出的收引号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:70908afe77be68a34ef247d63347e77dd242a807f958b21fc4c4c3be4c0ed41d"
+            }
+          }
         },
         {
           "id": "p-zhouyi-978ab00d704ae949-0032",
@@ -8135,9 +8971,20 @@
         },
         {
           "id": "p-zhouyi-986543166f207136-0006",
-          "version": "sha256:97b6567b993c88e63385aa434c1f7f9a2dc60ae513a5fc12a8fa44ba44a4f538",
-          "text": "《易》曰“憧憧往来，朋从尔思。”子曰：“天下何思何虑？天下同归而殊途，一致而百虑。天下何思何虑？日往则月来，月往则日来，日月相推而明生焉。",
-          "aliases": []
+          "version": "sha256:91dffd7717b0cd4a118098e35e1810b0cb31387e72348c1a335c1187414fa9ce",
+          "text": "《易》曰：“憧憧往来，朋从尔思。”子曰：“天下何思何虑？天下同归而殊途，一致而百虑。天下何思何虑？日往则月来，月往则日来，日月相推而明生焉。",
+          "aliases": [],
+          "sourceText": "《易》曰“憧憧往来，朋从尔思。”子曰：“天下何思何虑？天下同归而殊途，一致而百虑。天下何思何虑？日往则月来，月往则日来，日月相推而明生焉。",
+          "correction": {
+            "reason": "《易》曰后缺冒号，与本篇别处同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:91dffd7717b0cd4a118098e35e1810b0cb31387e72348c1a335c1187414fa9ce"
+            }
+          }
         },
         {
           "id": "p-zhouyi-986543166f207136-0007",
@@ -8426,9 +9273,20 @@
         },
         {
           "id": "p-zhouyi-081498eea6fb71bc-0004",
-          "version": "sha256:c83ab8b9e222dfcd657949a6730152f9aedaf8d1e53a84371b5dbfc4e67ed415",
-          "text": "剥者，剥也。物不可以终尽剥，穷上反下，故受之以《复》。复则不妄矣，故受之以《无妄》。有无妄，物然后可畜，故受之以《大畜》。物畜然后可养，故受之以《颐》。颐者，养也。不养则不可动，故受之以《大过》。物不可以终过，故受之以《坎》。坎者，陷也。陷必有所丽，故受之以《离》。离者，丽也。",
-          "aliases": []
+          "version": "sha256:feda681c483697c3f3daf2672ae3423cdb73ed550398942f223467df667fa6dd",
+          "text": "剥者，剥也。物不可以终尽，剥穷上反下，故受之以《复》。复则不妄矣，故受之以《无妄》。有无妄，物然后可畜，故受之以《大畜》。物畜然后可养，故受之以《颐》。颐者，养也。不养则不可动，故受之以《大过》。物不可以终过，故受之以《坎》。坎者，陷也。陷必有所丽，故受之以《离》。离者，丽也。",
+          "aliases": [],
+          "sourceText": "剥者，剥也。物不可以终尽剥，穷上反下，故受之以《复》。复则不妄矣，故受之以《无妄》。有无妄，物然后可畜，故受之以《大畜》。物畜然后可养，故受之以《颐》。颐者，养也。不养则不可动，故受之以《大过》。物不可以终过，故受之以《坎》。坎者，陷也。陷必有所丽，故受之以《离》。离者，丽也。",
+          "correction": {
+            "reason": "与同篇物不可以终过、终遯、终壮句式一致，剥穷上反下自成一句，本义同",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:feda681c483697c3f3daf2672ae3423cdb73ed550398942f223467df667fa6dd"
+            }
+          }
         },
         {
           "id": "p-zhouyi-081498eea6fb71bc-0005",

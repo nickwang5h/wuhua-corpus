@@ -442,9 +442,20 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0012",
-          "version": "sha256:8f292addfbe768d3a1718ee6ae9ab0f03fe8e9c2725af7665b5722672da5b05e",
-          "text": "〈用心存公進不在私疑以為慮不謬於果故元咎也躍羊灼反上音可意會猶以救反與音預謬靡幼反〉",
-          "aliases": []
+          "version": "sha256:9544a9f17f627d337e030d79873f5125187cc4611c282167acbd122eef4fb76c",
+          "text": "〈用心存公進不在私疑以為慮不謬於果故无咎也躍羊灼反上音可意會猶以救反與音預謬靡幼反〉",
+          "aliases": [],
+          "sourceText": "〈用心存公進不在私疑以為慮不謬於果故元咎也躍羊灼反上音可意會猶以救反與音預謬靡幼反〉",
+          "correction": {
+            "reason": "孔疏本王弼注作故无咎也，元是无之讹",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:9544a9f17f627d337e030d79873f5125187cc4611c282167acbd122eef4fb76c"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0013",
@@ -466,15 +477,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0016",
-          "version": "sha256:8fa1be111ab0c58dcb1fcf2eeab87bfc1c0d78182cacf89890372b596e8b3dec",
-          "text": "〈剛健而居人之首則物之所不與也以柔順而為不正則佞邪之道也故乾吉在无首坤利在永貞亢苦浪〉",
-          "aliases": []
+          "version": "sha256:a7fcb3a7af3904523e97566f9bd73a3ba9ecec8699dc2658f6cc312f84d50b4c",
+          "text": "〈剛健而居人之首則物之所不與也以柔順而為不正則佞邪之道也故乾吉在无首坤利在永貞亢苦浪反〉",
+          "aliases": [],
+          "sourceText": "〈剛健而居人之首則物之所不與也以柔順而為不正則佞邪之道也故乾吉在无首坤利在永貞亢苦浪〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义亢苦浪反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:a7fcb3a7af3904523e97566f9bd73a3ba9ecec8699dc2658f6cc312f84d50b4c"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0017",
-          "version": "sha256:0bd65793c05810873dc22c15e715ecfc3dce5cb78d59018e8df653fa133530cb",
-          "text": "反彖曰大哉乾元萬物資始乃統天雲行雨施品物流",
-          "aliases": []
+          "version": "sha256:f506613fd15b5aa3305476a948a9238a52a6364e9979ca1799103788c16425f0",
+          "text": "彖曰大哉乾元萬物資始乃統天雲行雨施品物流",
+          "aliases": [],
+          "sourceText": "反彖曰大哉乾元萬物資始乃統天雲行雨施品物流",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义亢苦浪反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f506613fd15b5aa3305476a948a9238a52a6364e9979ca1799103788c16425f0"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0018",
@@ -556,15 +589,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0031",
-          "version": "sha256:907278a397c6280fb5dbdbfb342c65635a55d621ca56ef59a2962ea34174ff84",
-          "text": "而隱者也不易乎世〈不為世俗所移易也造鄭徂早反王肅七到反長張丈反幹古旦〉",
-          "aliases": []
+          "version": "sha256:637e26b736b71e2dd62bce8f8a4a0a11efd87e680ab32b96781a353823b59c62",
+          "text": "而隱者也不易乎世〈不為世俗所移易也造鄭徂早反王肅七到反長張丈反幹古旦反〉",
+          "aliases": [],
+          "sourceText": "而隱者也不易乎世〈不為世俗所移易也造鄭徂早反王肅七到反長張丈反幹古旦〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义幹古旦反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:637e26b736b71e2dd62bce8f8a4a0a11efd87e680ab32b96781a353823b59c62"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0032",
-          "version": "sha256:f81ff92248b3b7e0e949a1a327e8fd8fecc032c478390e41bc7b25e2ec940195",
-          "text": "反不成乎名遯世无悶不見是而无悶樂則行之憂則",
-          "aliases": []
+          "version": "sha256:0f70b0373259b7bbe2a05474d2fde46bc94a531fd784cc50b1bc42f45eb9c6ac",
+          "text": "不成乎名遯世无悶不見是而无悶樂則行之憂則",
+          "aliases": [],
+          "sourceText": "反不成乎名遯世无悶不見是而无悶樂則行之憂則",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义幹古旦反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:0f70b0373259b7bbe2a05474d2fde46bc94a531fd784cc50b1bc42f45eb9c6ac"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0033",
@@ -1356,15 +1411,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0157",
-          "version": "sha256:775515d26e063f19a171f16d0333fd1a2dd61a35fdc92e4719ecbd47651e1ff2",
-          "text": "彖曰蒙山下有險險而止蒙〈退則困險進則閡山不知所適蒙之義也閡五代〉",
-          "aliases": []
+          "version": "sha256:2c880ccd61e29f887bf35cdf48d0e5649b19c237ee3bc3f75ed489e7e11ef22a",
+          "text": "彖曰蒙山下有險險而止蒙〈退則困險進則閡山不知所適蒙之義也閡五代反〉",
+          "aliases": [],
+          "sourceText": "彖曰蒙山下有險險而止蒙〈退則困險進則閡山不知所適蒙之義也閡五代〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义閡五代反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:2c880ccd61e29f887bf35cdf48d0e5649b19c237ee3bc3f75ed489e7e11ef22a"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0158",
-          "version": "sha256:592d803945b5d1f0f45099808435a1630d86b91778bc547f42e5f0e56395c6a7",
-          "text": "反蒙亨以亨行時中也〈時之所願唯願亨也以亨行之得時中也中張仲反注同又〉",
-          "aliases": []
+          "version": "sha256:560439b70e27c940c20bb419b07db3cd575cb3a868a43c3ae0432b5b9cd53ad7",
+          "text": "蒙亨以亨行時中也〈時之所願唯願亨也以亨行之得時中也中張仲反注同又〉",
+          "aliases": [],
+          "sourceText": "反蒙亨以亨行時中也〈時之所願唯願亨也以亨行之得時中也中張仲反注同又〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义閡五代反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:560439b70e27c940c20bb419b07db3cd575cb3a868a43c3ae0432b5b9cd53ad7"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0159",
@@ -1548,15 +1625,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0189",
-          "version": "sha256:d85753d5eee400a387bd527f064d4bb280e2e875eefc66c053b9a562ed2f24f4",
-          "text": "〈需于沙也不至致宼故曰小有言也近不逼難遠不後時履健居中以待其會雖小有言以吉終也後胡豆〉",
-          "aliases": []
+          "version": "sha256:1c6ec7163e44f5d91df635cf86d66a013767b3cf57b7c48865ca64a59095d799",
+          "text": "〈需于沙也不至致宼故曰小有言也近不逼難遠不後時履健居中以待其會雖小有言以吉終也後胡豆反〉",
+          "aliases": [],
+          "sourceText": "〈需于沙也不至致宼故曰小有言也近不逼難遠不後時履健居中以待其會雖小有言以吉終也後胡豆〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义後胡豆反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:1c6ec7163e44f5d91df635cf86d66a013767b3cf57b7c48865ca64a59095d799"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0190",
-          "version": "sha256:cecdbe0e9b545f480af023c14f1eabc5b876293da93b439d6bf9a1a4371560cb",
-          "text": "反象曰需于沙衍在中也雖小有言以吉終也九三需",
-          "aliases": []
+          "version": "sha256:3277a57e9db5a5d8670273cd162f9e7740e6d89664b9e77b3e087c32a44c642a",
+          "text": "象曰需于沙衍在中也雖小有言以吉終也九三需",
+          "aliases": [],
+          "sourceText": "反象曰需于沙衍在中也雖小有言以吉終也九三需",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义後胡豆反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:3277a57e9db5a5d8670273cd162f9e7740e6d89664b9e77b3e087c32a44c642a"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0191",
@@ -1590,15 +1689,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0196",
-          "version": "sha256:965ffbe214c262498efd3f60b307fc743eb47848d673dfcc5b9eace6b58bce84",
-          "text": "酒食貞吉〈需之所須以待逹也已得天位暢其中正无所復須故酒食而已獲貞吉也已音紀又音〉",
-          "aliases": []
+          "version": "sha256:266dbac0c56459406ca1a4fdd7ac3e8877dbbc765f9f426fd76806fa36f0db59",
+          "text": "酒食貞吉〈需之所須以待逹也已得天位暢其中正无所復須故酒食而已獲貞吉也已音紀又音已〉",
+          "aliases": [],
+          "sourceText": "酒食貞吉〈需之所須以待逹也已得天位暢其中正无所復須故酒食而已獲貞吉也已音紀又音〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义已音紀又音已的已字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:266dbac0c56459406ca1a4fdd7ac3e8877dbbc765f9f426fd76806fa36f0db59"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0197",
-          "version": "sha256:fa7fe89427c1d0d3c8ed84fc8b62ecc9b83953ba7fa23a82e06f9d81e849ae9a",
-          "text": "已象曰酒食貞吉以中正也上六入于穴有不速之客",
-          "aliases": []
+          "version": "sha256:3007813b6e01a066ffa7f203bd8c36b4afdc525f41824a5d75741889be4c17b3",
+          "text": "象曰酒食貞吉以中正也上六入于穴有不速之客",
+          "aliases": [],
+          "sourceText": "已象曰酒食貞吉以中正也上六入于穴有不速之客",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义已音紀又音已的已字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:3007813b6e01a066ffa7f203bd8c36b4afdc525f41824a5d75741889be4c17b3"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0198",
@@ -2048,15 +2169,37 @@
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0254",
-          "version": "sha256:05a8ba875dcac9ca8b208288b3cd5085247d46289374f31fd5f51c8e3807d4c6",
-          "text": "〈也夫无者求有有者不求所與危者求安安者不求所保火有其炎寒者附之故已茍安焉則不寧之方皆來〉",
-          "aliases": []
+          "version": "sha256:9d13d72586833067b56347e05f2921d51f7adcd6e2d3d429448ea04feed3738b",
+          "text": "〈也夫无者求有有者不求所與危者求安安者不求所保火有其炎寒者附之故已茍安焉則不寧之方皆來矣〉",
+          "aliases": [],
+          "sourceText": "〈也夫无者求有有者不求所與危者求安安者不求所保火有其炎寒者附之故已茍安焉則不寧之方皆來〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末不寧之方皆來矣的矣字，孔疏本注作不甯方來矣）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:9d13d72586833067b56347e05f2921d51f7adcd6e2d3d429448ea04feed3738b"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0255",
-          "version": "sha256:8dabfbb0ce31e4b3d6e53a503390bde1b3090167f9868532c4601a0f39e18458",
-          "text": "矣後夫凶其道窮也〈將合和親而獨在後親成則誅是以凶也〉象曰地上有",
-          "aliases": []
+          "version": "sha256:ce582617fbfbcafe9e00c4c1ddddb9c61eaf32d5fc31451dfdf31650e49ccee9",
+          "text": "後夫凶其道窮也〈將合和親而獨在後親成則誅是以凶也〉象曰地上有",
+          "aliases": [],
+          "sourceText": "矣後夫凶其道窮也〈將合和親而獨在後親成則誅是以凶也〉象曰地上有",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末不寧之方皆來矣的矣字，孔疏本注作不甯方來矣）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:ce582617fbfbcafe9e00c4c1ddddb9c61eaf32d5fc31451dfdf31650e49ccee9"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-7de25db9ce68151f-0256",
@@ -2655,9 +2798,20 @@
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0028",
-          "version": "sha256:d0abc29ce58f571b7b776459d335478d4647bc617951041fa2220a748e4b32cf",
-          "text": "不通也上下不交而天下无邦也内陰而外陽内柔而",
-          "aliases": []
+          "version": "sha256:5a78e94ebdc278229dec56f9c1583e44d4eeb08e093c8484940a7caa105145ff",
+          "text": "通也上下不交而天下无邦也内陰而外陽内柔而",
+          "aliases": [],
+          "sourceText": "不通也上下不交而天下无邦也内陰而外陽内柔而",
+          "correction": {
+            "reason": "《彖》作万物不通也，上行末与本行首的不字重出",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:5a78e94ebdc278229dec56f9c1583e44d4eeb08e093c8484940a7caa105145ff"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0029",
@@ -3079,15 +3233,37 @@
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0095",
-          "version": "sha256:75c21469117205c73e691139b043a9ce0c45840b26a080882d99de9bb0580243",
-          "text": "〈也能體謙謙其唯君子用涉大難物无害也〉象曰謙謙君子卑以自牧也〈牧養〉",
-          "aliases": []
+          "version": "sha256:e7b7f219eb69f2d6c4273b0c1b057e0fc2116f22964c0903e54ba12c248c1afd",
+          "text": "〈也能體謙謙其唯君子用涉大難物无害也〉象曰謙謙君子卑以自牧也〈牧養也〉",
+          "aliases": [],
+          "sourceText": "〈也能體謙謙其唯君子用涉大難物无害也〉象曰謙謙君子卑以自牧也〈牧養〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注牧養也的也字，孔疏本注作牧，養也）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e7b7f219eb69f2d6c4273b0c1b057e0fc2116f22964c0903e54ba12c248c1afd"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0096",
-          "version": "sha256:c45223efd79098ccf18aa8781f3ef60fc02812eff33b950a030af8f208fb577a",
-          "text": "也六二鳴謙貞吉〈鳴者聲名聞之謂也得位居中謙而正焉〉象曰鳴謙貞吉",
-          "aliases": []
+          "version": "sha256:c251b0cfa381b747dbcceb85298eed18e7f29b0d8713e1288db155c8acf383f4",
+          "text": "六二鳴謙貞吉〈鳴者聲名聞之謂也得位居中謙而正焉〉象曰鳴謙貞吉",
+          "aliases": [],
+          "sourceText": "也六二鳴謙貞吉〈鳴者聲名聞之謂也得位居中謙而正焉〉象曰鳴謙貞吉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注牧養也的也字，孔疏本注作牧，養也）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:c251b0cfa381b747dbcceb85298eed18e7f29b0d8713e1288db155c8acf383f4"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-35b17a552b4ba289-0097",
@@ -4630,15 +4806,37 @@
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0140",
-          "version": "sha256:a528a78a7e1587c3e395e156a707f3d66c6c09646d78de34f2b7caa60ff4f298",
-          "text": "〈反養下故曰顚頥拂經于丘也以此而養未見其福也以此而行未見有與故曰頥征凶顚丁田反拂符弗〉",
-          "aliases": []
+          "version": "sha256:512a6aeeef0c20c305bddb20901c68c835bb83ced5b87cd9e333badddaf43d4c",
+          "text": "〈反養下故曰顚頥拂經于丘也以此而養未見其福也以此而行未見有與故曰頥征凶顚丁田反拂符弗反〉",
+          "aliases": [],
+          "sourceText": "〈反養下故曰顚頥拂經于丘也以此而養未見其福也以此而行未見有與故曰頥征凶顚丁田反拂符弗〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义拂符弗反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:512a6aeeef0c20c305bddb20901c68c835bb83ced5b87cd9e333badddaf43d4c"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0141",
-          "version": "sha256:cb26f8162e102d1f35a5a3bccae709259b13a205c72aafa566066d4f4e87e7cc",
-          "text": "反象曰六二征凶行失類也〈類皆上養而二處下養初〉六三拂頥貞",
-          "aliases": []
+          "version": "sha256:7c35bc1161b026fd3e24ebd028008a66eb27641bf7dff06a55dc4c36725850bf",
+          "text": "象曰六二征凶行失類也〈類皆上養而二處下養初〉六三拂頥貞",
+          "aliases": [],
+          "sourceText": "反象曰六二征凶行失類也〈類皆上養而二處下養初〉六三拂頥貞",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义拂符弗反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:7c35bc1161b026fd3e24ebd028008a66eb27641bf7dff06a55dc4c36725850bf"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0142",
@@ -4912,15 +5110,37 @@
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0187",
-          "version": "sha256:d04ec702062bb9e47dd2c96ca2d71ae56d3d88d6b35347f1b5ccdf002b0a3cb0",
-          "text": "〈道凶也行險而不能自濟習坎而入坎窞失道而窮在坎底上无應援可以自濟是以凶也窞徒坎反坎底〉",
-          "aliases": []
+          "version": "sha256:0df4403946c5a8c3267407043d35aa5dff29dfd82fc8a7c2b7f674f395400cb0",
+          "text": "〈道凶也行險而不能自濟習坎而入坎窞失道而窮在坎底上无應援可以自濟是以凶也窞徒坎反坎底也〉",
+          "aliases": [],
+          "sourceText": "〈道凶也行險而不能自濟習坎而入坎窞失道而窮在坎底上无應援可以自濟是以凶也窞徒坎反坎底〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义坎底也的也字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:0df4403946c5a8c3267407043d35aa5dff29dfd82fc8a7c2b7f674f395400cb0"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0188",
-          "version": "sha256:708745e54f1d64ee47a2f00c8f21d09520f4cb5a9172aa250c852f48c8347d26",
-          "text": "也象曰習坎入坎失道凶也九二坎有險求小得〈履失其位〉",
-          "aliases": []
+          "version": "sha256:144131ea861b564e486383792822d0e3c4c3e738a77054bd47d860d9ef849779",
+          "text": "象曰習坎入坎失道凶也九二坎有險求小得〈履失其位〉",
+          "aliases": [],
+          "sourceText": "也象曰習坎入坎失道凶也九二坎有險求小得〈履失其位〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义坎底也的也字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:144131ea861b564e486383792822d0e3c4c3e738a77054bd47d860d9ef849779"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-337693a3e43140a8-0189",
@@ -6029,9 +6249,20 @@
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0143",
-          "version": "sha256:703261e6cf6519244a40f9f4653c5dba9360d84c46540ee112df1c2317cf046f",
-          "text": "家文相愛也上九有孚威如終吉〈處家人之終居家道之成刑于寡妻以著〉",
-          "aliases": []
+          "version": "sha256:00569723cd0f84550412ee1a5b0ac074a9ef5ec75c1e3c728725392ab7aaf242",
+          "text": "家交相愛也上九有孚威如終吉〈處家人之終居家道之成刑于寡妻以著〉",
+          "aliases": [],
+          "sourceText": "家文相愛也上九有孚威如終吉〈處家人之終居家道之成刑于寡妻以著〉",
+          "correction": {
+            "reason": "九五小《象》作交相爱也，孔疏本同，文是交之讹",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:00569723cd0f84550412ee1a5b0ac074a9ef5ec75c1e3c728725392ab7aaf242"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0144",
@@ -6635,15 +6866,37 @@
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0244",
-          "version": "sha256:6382e31d05c7a648276104894a134d868389154188c14cd8150c9af801e381ed",
-          "text": "〈人用其力事竭其功知者慮能明者慮䇿弗能違也則衆才之用盡矣獲益而得十朋之龜足以盡天人之助〉",
-          "aliases": []
+          "version": "sha256:771d43cad3edaf6dbdaa7e7c5b8d355ceb42c87acf2a993523efc09dddbf81bb",
+          "text": "〈人用其力事竭其功知者慮能明者慮䇿弗能違也則衆才之用盡矣獲益而得十朋之龜足以盡天人之助也〉",
+          "aliases": [],
+          "sourceText": "〈人用其力事竭其功知者慮能明者慮䇿弗能違也則衆才之用盡矣獲益而得十朋之龜足以盡天人之助〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末足以盡天人之助也的也字，孔疏本注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:771d43cad3edaf6dbdaa7e7c5b8d355ceb42c87acf2a993523efc09dddbf81bb"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0245",
-          "version": "sha256:85f31aba5e3a8b64331ddde652417499ab8603ccb53891d39976ee9233aec25d",
-          "text": "也象曰六五元吉自上祐也上九弗損益之无咎貞吉",
-          "aliases": []
+          "version": "sha256:2c6db3d1b5ef853347983c78a0cab75c48fb88d7b2720d9fc5b3dd3292a74a50",
+          "text": "象曰六五元吉自上祐也上九弗損益之无咎貞吉",
+          "aliases": [],
+          "sourceText": "也象曰六五元吉自上祐也上九弗損益之无咎貞吉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末足以盡天人之助也的也字，孔疏本注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:2c6db3d1b5ef853347983c78a0cab75c48fb88d7b2720d9fc5b3dd3292a74a50"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-dc9bdb7b3172bd35-0246",
@@ -7528,15 +7781,37 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0107",
-          "version": "sha256:20eb6a4919a97949d75f4d0bc7a248f574c4a07694ca83cba50f57992b761dc2",
-          "text": "〈谷也困之為道不過數嵗者也以困而藏困解乃出故曰三嵗不覿臀徒敦反株張愚反覿大歴反遯徒困〉",
-          "aliases": []
+          "version": "sha256:5878e96a6e15ef43a578ad5b0d1dacd6153eab9feba5430f146426e18f39ad08",
+          "text": "〈谷也困之為道不過數嵗者也以困而藏困解乃出故曰三嵗不覿臀徒敦反株張愚反覿大歴反遯徒困反〉",
+          "aliases": [],
+          "sourceText": "〈谷也困之為道不過數嵗者也以困而藏困解乃出故曰三嵗不覿臀徒敦反株張愚反覿大歴反遯徒困〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义遯徒困反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:5878e96a6e15ef43a578ad5b0d1dacd6153eab9feba5430f146426e18f39ad08"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0108",
-          "version": "sha256:7adcaf5d3ea20000b9153b65642be409bc0d4c424ba3c1642b9229bf7b50c219",
-          "text": "反象曰入于幽谷幽不明也〈言幽者不明之辭也入于不明以自藏也〉九二",
-          "aliases": []
+          "version": "sha256:823c1cc1f6ab49f2678669edb9c7fb379ef276c06d9cb0cd03281456899e4229",
+          "text": "象曰入于幽谷幽不明也〈言幽者不明之辭也入于不明以自藏也〉九二",
+          "aliases": [],
+          "sourceText": "反象曰入于幽谷幽不明也〈言幽者不明之辭也入于不明以自藏也〉九二",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义遯徒困反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:823c1cc1f6ab49f2678669edb9c7fb379ef276c06d9cb0cd03281456899e4229"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0109",
@@ -7702,15 +7977,37 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0136",
-          "version": "sha256:be46764411d73b54deef267929a2ea1c4ae95e90e7d7401be67d099b834c1bb1",
-          "text": "〈汲同也羸律悲反瓶白經反〉彖曰巽乎水而上水井〈音舉上之上上時掌反下皆〉",
-          "aliases": []
+          "version": "sha256:bdf7e1d04cecc381f50b681a5d316131c0762c987415fe2dc7eac74e401cef8b",
+          "text": "〈汲同也羸律悲反瓶白經反〉彖曰巽乎水而上水井〈音舉上之上上時掌反下皆同〉",
+          "aliases": [],
+          "sourceText": "〈汲同也羸律悲反瓶白經反〉彖曰巽乎水而上水井〈音舉上之上上時掌反下皆〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义下皆同的同字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:bdf7e1d04cecc381f50b681a5d316131c0762c987415fe2dc7eac74e401cef8b"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0137",
-          "version": "sha256:3d45e7ef0ead713ce2b4fdc8b0a5db43e29c0c20267387d65970e129bfea74a9",
-          "text": "同井養而不窮也改邑不改井乃以剛中也〈以剛處中故能定居〉",
-          "aliases": []
+          "version": "sha256:22302d483d209d36423e283d641be4c1d38cfe4dac4ecbd3661af9855d038ed1",
+          "text": "井養而不窮也改邑不改井乃以剛中也〈以剛處中故能定居〉",
+          "aliases": [],
+          "sourceText": "同井養而不窮也改邑不改井乃以剛中也〈以剛處中故能定居〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义下皆同的同字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:22302d483d209d36423e283d641be4c1d38cfe4dac4ecbd3661af9855d038ed1"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0138",
@@ -8332,15 +8629,37 @@
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0230",
-          "version": "sha256:17d3b0d2dc7686be75f023281d7b2a2136073675fa78f74f922860f826ceee7a",
-          "text": "〈衆若其震也遂困難矣履夫不正不能除恐使物安已徳未光也泥乃計反荀本遂作隊泥乃低反難乃旦〉",
-          "aliases": []
+          "version": "sha256:0523e1c1c12e444baf5d9451a38a77d79a2c68cd953c3ec023ddc84dde1a9b92",
+          "text": "〈衆若其震也遂困難矣履夫不正不能除恐使物安已徳未光也泥乃計反荀本遂作隊泥乃低反難乃旦反〉",
+          "aliases": [],
+          "sourceText": "〈衆若其震也遂困難矣履夫不正不能除恐使物安已徳未光也泥乃計反荀本遂作隊泥乃低反難乃旦〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义難乃旦反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:0523e1c1c12e444baf5d9451a38a77d79a2c68cd953c3ec023ddc84dde1a9b92"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0231",
-          "version": "sha256:842b54a365eec9a9baf505cc5a0c94922b78d901101aa0450530dca921b06d62",
-          "text": "反象曰震遂泥未光也六五震往來厲億无喪有事〈往則〉",
-          "aliases": []
+          "version": "sha256:a84c021bda78b37fa844302d9a053ae4c3029745e6f6f786ef59dffb0c86dd23",
+          "text": "象曰震遂泥未光也六五震往來厲億无喪有事〈往則〉",
+          "aliases": [],
+          "sourceText": "反象曰震遂泥未光也六五震往來厲億无喪有事〈往則〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义難乃旦反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:a84c021bda78b37fa844302d9a053ae4c3029745e6f6f786ef59dffb0c86dd23"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-c0d582a41b68c142-0232",
@@ -10394,21 +10713,54 @@
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0032",
-          "version": "sha256:68c8ebb037d3376dc06ae945ab527e001e9f2df01722c1f1d3e512cb02ff4573",
-          "text": "〈卦吉凶之狀見乎爻至於悔吝无咎其例一也吉凶悔吝小疵无咎皆生乎變事有小大故下歴言五者之差〉",
-          "aliases": []
+          "version": "sha256:133b4c2c96f51625fd779f6b3302288000b68c6663cea71f96760e15b7335234",
+          "text": "〈卦吉凶之狀見乎爻至於悔吝无咎其例一也吉凶悔吝小疵无咎皆生乎變事有小大故下歴言五者之差也〉",
+          "aliases": [],
+          "sourceText": "〈卦吉凶之狀見乎爻至於悔吝无咎其例一也吉凶悔吝小疵无咎皆生乎變事有小大故下歴言五者之差〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（韩注下歴言五者之差也的也字，孔疏本韩注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:133b4c2c96f51625fd779f6b3302288000b68c6663cea71f96760e15b7335234"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0033",
-          "version": "sha256:02d76f8479b0fa1bebabfc330a7ba1a0eea8fc429e6665139b92c3fc5a0f69aa",
-          "text": "也憂悔吝者存乎介〈介纎介也王弼曰憂悔吝之時其介不可慢也即悔吝者言乎小疵〉",
-          "aliases": []
+          "version": "sha256:72fc376867594230a50ba7ac6134cc8f02c51d7f2d3452b1208433801a8470dc",
+          "text": "憂悔吝者存乎介〈介纎介也王弼曰憂悔吝之時其介不可慢也即悔吝者言乎小疵也〉",
+          "aliases": [],
+          "sourceText": "也憂悔吝者存乎介〈介纎介也王弼曰憂悔吝之時其介不可慢也即悔吝者言乎小疵〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（韩注下歴言五者之差也的也字，孔疏本韩注同）；上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（韩注即悔吝者言乎小疵也的也字，孔疏本韩注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:72fc376867594230a50ba7ac6134cc8f02c51d7f2d3452b1208433801a8470dc"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0034",
-          "version": "sha256:9361b04402c0eb7d77c14622b38008eda01da9ed22240eca212a3e72350e3d60",
-          "text": "也震无咎者存乎悔〈无咎者善補過也震動也故動而无咎存乎悔過也〉是故卦",
-          "aliases": []
+          "version": "sha256:0e505a04bdbef338b6d96cebf527f3842b1707e9b82f99a25f143c7e959fdb50",
+          "text": "震无咎者存乎悔〈无咎者善補過也震動也故動而无咎存乎悔過也〉是故卦",
+          "aliases": [],
+          "sourceText": "也震无咎者存乎悔〈无咎者善補過也震動也故動而无咎存乎悔過也〉是故卦",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（韩注即悔吝者言乎小疵也的也字，孔疏本韩注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:0e505a04bdbef338b6d96cebf527f3842b1707e9b82f99a25f143c7e959fdb50"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0035",
@@ -10628,15 +10980,37 @@
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0071",
-          "version": "sha256:c050bf131a6032644dba870ca28ba6234ced9b3ccf3f4a8e35da796eb9ffb711",
-          "text": "〈也坤則順以承陽功盡於巳用止乎形者也故乾以專直言乎其材坤以翕闢言乎其形翕虗級反闢婢亦〉",
-          "aliases": []
+          "version": "sha256:f7f163277b166c1320baa84ab30b754613a2614a88fe1806df0fdc415b3c226b",
+          "text": "〈也坤則順以承陽功盡於巳用止乎形者也故乾以專直言乎其材坤以翕闢言乎其形翕虗級反闢婢亦反〉",
+          "aliases": [],
+          "sourceText": "〈也坤則順以承陽功盡於巳用止乎形者也故乾以專直言乎其材坤以翕闢言乎其形翕虗級反闢婢亦〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义闢婢亦反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:f7f163277b166c1320baa84ab30b754613a2614a88fe1806df0fdc415b3c226b"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0072",
-          "version": "sha256:4f612524b76c18bbd1f3dc584ab0bf146e62eb11213c4edd39c3bbf1dbac4920",
-          "text": "反廣大配天地變通配四時隂陽之義配日月易簡之",
-          "aliases": []
+          "version": "sha256:73a8c5c222febed943d8a7ba61b0c2681a589b27451819650f41edb983455aa7",
+          "text": "廣大配天地變通配四時隂陽之義配日月易簡之",
+          "aliases": [],
+          "sourceText": "反廣大配天地變通配四時隂陽之義配日月易簡之",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义闢婢亦反的反字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:73a8c5c222febed943d8a7ba61b0c2681a589b27451819650f41edb983455aa7"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0073",
@@ -10940,15 +11314,37 @@
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0123",
-          "version": "sha256:893d0ea242a804b91bd088f2f9886aed36553c0acb9c16b3a692ff8a6e8965c3",
-          "text": "百二十當萬物之數也〈二篇三百八十四爻隂陽各半合萬一千五百二十策期音〉",
-          "aliases": []
+          "version": "sha256:1e4a283495e6ee3d245184d80c658540d13abcf4cd0d4442b071bf8a29221afa",
+          "text": "百二十當萬物之數也〈二篇三百八十四爻隂陽各半合萬一千五百二十策期音基〉",
+          "aliases": [],
+          "sourceText": "百二十當萬物之數也〈二篇三百八十四爻隂陽各半合萬一千五百二十策期音〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义期音基的基字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:1e4a283495e6ee3d245184d80c658540d13abcf4cd0d4442b071bf8a29221afa"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0124",
-          "version": "sha256:e5c3e58cf378f80f44fbe7066214b38eee6891d773427e8bf415acc34040315d",
-          "text": "基是故四營而成易〈分而爲二以象両一營也掛一以象三二營也揲之以四三營也歸〉",
-          "aliases": []
+          "version": "sha256:92965377b958a31d48e3bc6e3bd0ad2858de9ab0f937d8cf65be3f569d454e50",
+          "text": "是故四營而成易〈分而爲二以象両一營也掛一以象三二營也揲之以四三營也歸〉",
+          "aliases": [],
+          "sourceText": "基是故四營而成易〈分而爲二以象両一營也掛一以象三二營也揲之以四三營也歸〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（注末音义期音基的基字）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:92965377b958a31d48e3bc6e3bd0ad2858de9ab0f937d8cf65be3f569d454e50"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-5e9a64bb0df2067e-0125",
@@ -12016,15 +12412,37 @@
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0109",
-          "version": "sha256:affd1bcc524a02b302e04869d07c4e52ffe8ddceaf136c4c665cb0c072628354",
-          "text": "易之興也其於中古乎作易者其有憂患乎〈无憂患則不為而足〉",
-          "aliases": []
+          "version": "sha256:e6fa0fd549c23c6eb3be3267dfcf04fd0f02ffb838952a0791b3b39809ae04b3",
+          "text": "易之興也其於中古乎作易者其有憂患乎〈无憂患則不為而足也〉",
+          "aliases": [],
+          "sourceText": "易之興也其於中古乎作易者其有憂患乎〈无憂患則不為而足〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（韩注无憂患則不為而足也的也字，孔疏本韩注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:e6fa0fd549c23c6eb3be3267dfcf04fd0f02ffb838952a0791b3b39809ae04b3"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0110",
-          "version": "sha256:3908cb4497132f2f0b828fb13d1044ab2a31398dafc217ae373377cc7705539c",
-          "text": "也是故履德之基也〈基所蹈也〉謙德之柄也復德之本也〈夫動〉",
-          "aliases": []
+          "version": "sha256:b1c9ab17286f75fa1f19ebeb8f6615ee227741936eb3285a73e3eb8a45f65e82",
+          "text": "是故履德之基也〈基所蹈也〉謙德之柄也復德之本也〈夫動〉",
+          "aliases": [],
+          "sourceText": "也是故履德之基也〈基所蹈也〉謙德之柄也復德之本也〈夫動〉",
+          "correction": {
+            "reason": "上一行注末的残字落在本行行首，被当成经文另起一段；孔疏本经文无此字，挪回上一行注末（韩注无憂患則不為而足也的也字，孔疏本韩注同）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-10-30",
+              "textVersion": "sha256:b1c9ab17286f75fa1f19ebeb8f6615ee227741936eb3285a73e3eb8a45f65e82"
+            }
+          }
         },
         {
           "id": "p-zhouyizhu-4fa1a42d843d3ab9-0111",
