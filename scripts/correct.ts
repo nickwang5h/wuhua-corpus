@@ -10,7 +10,7 @@
  * the next number for the three hand-imported books), the old version goes into
  * history with a revision transition, and pinyin or editorial aids on the old
  * version follow it when the change lies outside their range, or move with their
- * characters when the change only inserts punctuation.
+ * characters when the change touches only punctuation.
  */
 import {readFileSync,writeFileSync} from 'node:fs';
 import {digest} from './corpus-sources.js';
@@ -18,16 +18,22 @@ import type {TextBook,Reference,Transition} from '../src/types.js';
 
 type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number; all?:boolean};
 type Aid={target:string; version:string; start?:number; end?:number; review?:{textVersion?:string}; tokens?:{start:number;end:number}[]};
-const PUNCTUATION=new Set('，。、；：！？“”‘’《》〈〉');
-// When `after` is `before` with only punctuation inserted, the new code-point index of each old one.
-function punctuationOnly(before:string,after:string):number[]|undefined{
- const a=Array.from(before),b=Array.from(after),map:number[]=[];
- let i=0;
- for(let j=0;j<b.length;j++){
-  if(i<a.length&&a[i]===b[j]){map.push(j);i++;}
-  else if(!PUNCTUATION.has(b[j]))return undefined;
- }
- return i===a.length&&b.length>a.length?map:undefined;
+const PUNCTUATION=new Set('，。、；：！？“”‘’《》〈〉·');
+// When `after` differs from `before` only in punctuation (marks added, dropped or moved), the new
+// code-point index of each old character that is not punctuation.
+function punctuationOnly(before:string,after:string):Map<number,number>|undefined{
+ const keep=(s:string)=>Array.from(s).flatMap((c,i)=>PUNCTUATION.has(c)?[]:[[i,c] as const]);
+ const a=keep(before),b=keep(after);
+ if(a.length!==b.length||a.some(([,c],k)=>c!==b[k][1])||before===after)return undefined;
+ return new Map(a.map(([i],k)=>[i,b[k][0]]));
+}
+// An aid's range [start,end) in the new text: from its first to its last character that is not punctuation.
+function moved(shift:Map<number,number>,start:number,end:number):[number,number]{
+ let s=start,e=end-1;
+ while(s<e&&!shift.has(s))s++;
+ while(e>s&&!shift.has(e))e--;
+ if(!shift.has(s)||!shift.has(e))throw new Error(`an aid range [${start},${end}) holds only punctuation`);
+ return [shift.get(s)!,shift.get(e)!+1];
 }
 const [file,flag]=process.argv.slice(2);
 if(!file)throw new Error('Usage: content:correct <corrections.json> [--dry-run]');
@@ -81,10 +87,9 @@ for(const list of byParagraph.values()){
   if(aid.target!==id||aid.version!==oldVersion)continue;
   const s=aid.start??0,e=aid.end??Array.from(oldText).length;
   if(shift){
-   // Only punctuation was inserted: every old character keeps its order, so ranges move with it.
-   if(aid.start!==undefined)aid.start=shift[aid.start];
-   if(aid.end!==undefined)aid.end=shift[aid.end-1]+1;
-   for(const t of aid.tokens??[]){t.start=shift[t.start];t.end=shift[t.end-1]+1;}
+   // Only punctuation changed: every other character keeps its order, so ranges move with it.
+   if(aid.start!==undefined&&aid.end!==undefined)[aid.start,aid.end]=moved(shift,aid.start,aid.end);
+   for(const t of aid.tokens??[])[t.start,t.end]=moved(shift,t.start,t.end);
   }else if(changed.some(([a,z])=>a<e&&z>s)||Array.from(text).length!==Array.from(oldText).length)throw new Error(`${id}: an aid in ${f} covers the change; edit it by hand`);
   aid.version=version;
   if(aid.review?.textVersion===oldVersion)aid.review.textVersion=version;
