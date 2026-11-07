@@ -9,7 +9,8 @@
  * ID; its first sourceText is kept, its version moves on (sha256 of the text, or
  * the next number for the three hand-imported books), the old version goes into
  * history with a revision transition, and pinyin or editorial aids on the old
- * version follow it when the change lies outside their range.
+ * version follow it when the change lies outside their range, or move with their
+ * characters when the change only inserts punctuation.
  */
 import {readFileSync,writeFileSync} from 'node:fs';
 import {digest} from './corpus-sources.js';
@@ -17,6 +18,17 @@ import type {TextBook,Reference,Transition} from '../src/types.js';
 
 type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number; all?:boolean};
 type Aid={target:string; version:string; start?:number; end?:number; review?:{textVersion?:string}; tokens?:{start:number;end:number}[]};
+const PUNCTUATION=new Set('，。、；：！？“”‘’《》〈〉');
+// When `after` is `before` with only punctuation inserted, the new code-point index of each old one.
+function punctuationOnly(before:string,after:string):number[]|undefined{
+ const a=Array.from(before),b=Array.from(after),map:number[]=[];
+ let i=0;
+ for(let j=0;j<b.length;j++){
+  if(i<a.length&&a[i]===b[j]){map.push(j);i++;}
+  else if(!PUNCTUATION.has(b[j]))return undefined;
+ }
+ return i===a.length&&b.length>a.length?map:undefined;
+}
 const [file,flag]=process.argv.slice(2);
 if(!file)throw new Error('Usage: content:correct <corrections.json> [--dry-run]');
 const items:Item[]=JSON.parse(readFileSync(file,'utf8'));
@@ -64,10 +76,16 @@ for(const list of byParagraph.values()){
  if(text===oldText)throw new Error(`${id}: the corrections leave the text unchanged`);
  const version=/^\d+$/.test(oldVersion)?String(Number(oldVersion)+1):`sha256:${digest(text)}`;
  const reason=list.map(i=>i.reason.trim()).join('；');
+ const shift=punctuationOnly(oldText,text);
  for(const [f,list2] of Object.entries(aids))for(const aid of list2){
   if(aid.target!==id||aid.version!==oldVersion)continue;
   const s=aid.start??0,e=aid.end??Array.from(oldText).length;
-  if(changed.some(([a,z])=>a<e&&z>s)||Array.from(text).length!==Array.from(oldText).length)throw new Error(`${id}: an aid in ${f} covers the change; edit it by hand`);
+  if(shift){
+   // Only punctuation was inserted: every old character keeps its order, so ranges move with it.
+   if(aid.start!==undefined)aid.start=shift[aid.start];
+   if(aid.end!==undefined)aid.end=shift[aid.end-1]+1;
+   for(const t of aid.tokens??[]){t.start=shift[t.start];t.end=shift[t.end-1]+1;}
+  }else if(changed.some(([a,z])=>a<e&&z>s)||Array.from(text).length!==Array.from(oldText).length)throw new Error(`${id}: an aid in ${f} covers the change; edit it by hand`);
   aid.version=version;
   if(aid.review?.textVersion===oldVersion)aid.review.textVersion=version;
  }
