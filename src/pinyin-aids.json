@@ -7812,7 +7812,7 @@
     {
         "id": "p-laozi-2354026-41-1-pinyin-84-109",
         "target": "p-laozi-2354026-41-1",
-        "version": "1",
+        "version": "2",
         "kind": "pinyin",
         "start": 84,
         "end": 109,
@@ -7941,7 +7941,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "1"
+            "textVersion": "2"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -9315,7 +9315,7 @@
     {
         "id": "p-shiji-b520f31f16bdeea9-0005-pinyin-1188-1204",
         "target": "p-shiji-b520f31f16bdeea9-0005",
-        "version": "sha256:53a5bf0e3d2ab161dd0a9fe904b1431b8b346f853fc99b7a2d519069ed57e714",
+        "version": "sha256:2ae182d389f657b9a947eebe0652a22ddfe14741061f1a0aab05a4ae190ec913",
         "kind": "pinyin",
         "start": 1490,
         "end": 1508,
@@ -9420,7 +9420,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:53a5bf0e3d2ab161dd0a9fe904b1431b8b346f853fc99b7a2d519069ed57e714"
+            "textVersion": "sha256:2ae182d389f657b9a947eebe0652a22ddfe14741061f1a0aab05a4ae190ec913"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -9909,7 +9909,7 @@
     {
         "id": "p-shiji-e29fdf33b5500e85-0007-pinyin-5247-5278",
         "target": "p-shiji-e29fdf33b5500e85-0007",
-        "version": "sha256:5c019b72da3b3d9529fb47edd7cd50ed4c781098da061fc89d4bc7aba1d4c464",
+        "version": "sha256:a00831bfcea799c0d05dfc867879b3211593ff8bfa3a6c99e007cdb74138ad5e",
         "kind": "pinyin",
         "start": 6548,
         "end": 6585,
@@ -10104,7 +10104,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:5c019b72da3b3d9529fb47edd7cd50ed4c781098da061fc89d4bc7aba1d4c464"
+            "textVersion": "sha256:a00831bfcea799c0d05dfc867879b3211593ff8bfa3a6c99e007cdb74138ad5e"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -11838,7 +11838,7 @@
     {
         "id": "p-hanfeizi-8a3e426df92bdd7a-0016-pinyin-62-70",
         "target": "p-hanfeizi-8a3e426df92bdd7a-0016",
-        "version": "sha256:a5fc6b373c818c42adec9d0cba7bc5b30b25b7db56a16408f0cffeb8adc08c5a",
+        "version": "sha256:425cc29f93e786e4ae278ff49cf4323e94c90e709b0e83c5419fc49e3bc7d538",
         "kind": "pinyin",
         "start": 62,
         "end": 70,
@@ -11889,7 +11889,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:a5fc6b373c818c42adec9d0cba7bc5b30b25b7db56a16408f0cffeb8adc08c5a"
+            "textVersion": "sha256:425cc29f93e786e4ae278ff49cf4323e94c90e709b0e83c5419fc49e3bc7d538"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -14163,7 +14163,7 @@
     {
         "id": "p-mozi-5634c21c4ab8380b-0001-pinyin-397-427",
         "target": "p-mozi-5634c21c4ab8380b-0001",
-        "version": "sha256:484abadf80734e3a0c7c76257793f6e50abe076c0b45520874ef1f341af5f785",
+        "version": "sha256:8f2fc99b32efb779dfb6844871be4cb326800598cb0332046ec55a52e9c6b261",
         "kind": "pinyin",
         "start": 397,
         "end": 427,
@@ -14316,7 +14316,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:484abadf80734e3a0c7c76257793f6e50abe076c0b45520874ef1f341af5f785"
+            "textVersion": "sha256:8f2fc99b32efb779dfb6844871be4cb326800598cb0332046ec55a52e9c6b261"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -20877,7 +20877,7 @@
     {
         "id": "p-liji-b81c51ec9040b696-0001-pinyin-76-87",
         "target": "p-liji-b81c51ec9040b696-0001",
-        "version": "sha256:e4333ad6f6491d4c550cedde9418c9a7a02aed99ffaf894e0d6dd3911b9177dd",
+        "version": "sha256:f032401eb227aee5592404b568e273d3b762f206a4638d481676925fc8ad51f3",
         "kind": "pinyin",
         "start": 76,
         "end": 87,
@@ -20940,7 +20940,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:e4333ad6f6491d4c550cedde9418c9a7a02aed99ffaf894e0d6dd3911b9177dd"
+            "textVersion": "sha256:f032401eb227aee5592404b568e273d3b762f206a4638d481676925fc8ad51f3"
         },
         "rights": {
             "author": "Claude (AI)",
@@ -21867,7 +21867,7 @@
     {
         "id": "p-hongloumeng-fd3febf13ed09456-0002-pinyin-2949-2978",
         "target": "p-hongloumeng-fd3febf13ed09456-0002",
-        "version": "sha256:d3c9effdfc8de0004b6cc6a4472ad71cd05d0354b28ad4d70c540e153452ed46",
+        "version": "sha256:0cc4e2001057fd162b37c4bae3c908958a5be0c3c87041e1918ee5d7d9f6dc45",
         "kind": "pinyin",
         "start": 2949,
         "end": 2978,
@@ -22032,7 +22032,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:d3c9effdfc8de0004b6cc6a4472ad71cd05d0354b28ad4d70c540e153452ed46"
+            "textVersion": "sha256:0cc4e2001057fd162b37c4bae3c908958a5be0c3c87041e1918ee5d7d9f6dc45"
         },
         "rights": {
             "author": "Claude (AI)",
@@ -23001,7 +23001,7 @@
     {
         "id": "p-daxue-ec3fa9f16b3930a2-0006-pinyin-11-19",
         "target": "p-daxue-ec3fa9f16b3930a2-0006",
-        "version": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911",
+        "version": "sha256:d5ce7bd1ae5a9496bd185a7c68f3aeb1fb40c445420d22f2fe0c81b7c347e533",
         "kind": "pinyin",
         "start": 11,
         "end": 19,
@@ -23046,7 +23046,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911"
+            "textVersion": "sha256:d5ce7bd1ae5a9496bd185a7c68f3aeb1fb40c445420d22f2fe0c81b7c347e533"
         },
         "rights": {
             "author": "Claude (AI)",
@@ -25071,7 +25071,7 @@
     {
         "id": "p-daxue-ec3fa9f16b3930a2-0006-pinyin-49-60",
         "target": "p-daxue-ec3fa9f16b3930a2-0006",
-        "version": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911",
+        "version": "sha256:d5ce7bd1ae5a9496bd185a7c68f3aeb1fb40c445420d22f2fe0c81b7c347e533",
         "kind": "pinyin",
         "start": 49,
         "end": 60,
@@ -25140,7 +25140,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911"
+            "textVersion": "sha256:d5ce7bd1ae5a9496bd185a7c68f3aeb1fb40c445420d22f2fe0c81b7c347e533"
         },
         "rights": {
             "author": "Claude (AI)",

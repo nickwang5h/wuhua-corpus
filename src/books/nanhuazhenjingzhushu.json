@@ -42009,12 +42009,23 @@
         },
         {
           "id": "p-nanhuazhenjingzhushu-f70b7412ed5d09bd-0567",
-          "version": "sha256:3a907318fa484f528c8bb6b3bce17763b3250bb71ce80a4703a62c599224cf7c",
-          "text": "〈〔疏〕解,悟也。靈，知也。知其愚惑者，聖人也。隨而任之，故愚非惑也。大愚惑者，凡俗也，心識闇鄙，觸境生迷，所以竟世終身不覺悟也。〉",
+          "version": "sha256:696787567d95dd980a9ec5f9fada2b99230ce6a18b76060cb6b57030b0aaa156",
+          "text": "〈〔疏〕解，悟也。靈，知也。知其愚惑者，聖人也。隨而任之，故愚非惑也。大愚惑者，凡俗也，心識闇鄙，觸境生迷，所以竟世終身不覺悟也。〉",
           "aliases": [],
           "headingPath": [
             "外篇天地第十二"
-          ]
+          ],
+          "sourceText": "〈〔疏〕解,悟也。靈，知也。知其愚惑者，聖人也。隨而任之，故愚非惑也。大愚惑者，凡俗也，心識闇鄙，觸境生迷，所以竟世終身不覺悟也。〉",
+          "correction": {
+            "reason": "半角标点“,”改为全角“，”，只改符号宽度",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:696787567d95dd980a9ec5f9fada2b99230ce6a18b76060cb6b57030b0aaa156"
+            }
+          }
         },
         {
           "id": "p-nanhuazhenjingzhushu-f70b7412ed5d09bd-0568",

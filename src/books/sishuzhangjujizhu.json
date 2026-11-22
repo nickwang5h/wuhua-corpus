@@ -22221,9 +22221,20 @@
         },
         {
           "id": "p-sishuzhangjujizhu-523b7c7efc8cc70d-0062",
-          "version": "sha256:911a03decc4c6b691638019d62f0d059851c9a39e77edcd4dcc3dd97bceae385",
-          "text": "○孟子曰：“人之所以異於禽於獸者幾希，庶民去之，君子存之。",
-          "aliases": []
+          "version": "sha256:75d20eb45133a6aca12a8eb8186ecbf8909bcaa9dce7b3d0f27dbd871865ee21",
+          "text": "○孟子曰：“人之所以異於禽獸者幾希，庶民去之，君子存之。",
+          "aliases": [],
+          "sourceText": "○孟子曰：“人之所以異於禽於獸者幾希，庶民去之，君子存之。",
+          "correction": {
+            "reason": "删去衍出的“於”，据维基文库《孟子》离娄下“人之所以異於禽獸者幾希”及下段朱注“實無以異於禽獸”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:75d20eb45133a6aca12a8eb8186ecbf8909bcaa9dce7b3d0f27dbd871865ee21"
+            }
+          }
         },
         {
           "id": "p-sishuzhangjujizhu-523b7c7efc8cc70d-0063",

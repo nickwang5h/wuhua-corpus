@@ -1153,9 +1153,20 @@
         },
         {
           "id": "p-shijing-c0d5a3dd7df23fe5-0004",
-          "version": "sha256:9e174e0e33fc6e852888be117cd4218b03914f591bfe5861eabb1f9726edee7a",
-          "text": "招招舟子，人涉卬否。不涉卬否，卬须我友。",
-          "aliases": []
+          "version": "sha256:a5ca603cc37974f593f785cdc91f7bae3143e202076b6b73632ea848e0519b9f",
+          "text": "招招舟子，人涉卬否。人涉卬否，卬须我友。",
+          "aliases": [],
+          "sourceText": "招招舟子，人涉卬否。不涉卬否，卬须我友。",
+          "correction": {
+            "reason": "“不涉卬否”作“人涉卬否”（与上句叠出），据维基文库《詩經·匏有苦葉》“人涉卬否，人涉卬否”及《毛詩正義》卷二同章",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:a5ca603cc37974f593f785cdc91f7bae3143e202076b6b73632ea848e0519b9f"
+            }
+          }
         }
       ]
     },
@@ -1833,9 +1844,20 @@
         },
         {
           "id": "p-shijing-51f88fa47d4d5233-0002",
-          "version": "sha256:5455617227c3376f38ae1b1244e7767d126564db4efc3320989888b610ba2f45",
-          "text": "瞻彼淇奥，绿竹青青。有匪君子，充耳秀莹，会弁如星。瑟兮僴兮。赫兮咺兮，有匪君子，终不可谖兮。",
-          "aliases": []
+          "version": "sha256:71854b30dbb0cdd8c5def24c8bd7b59e6e4836efdf2edb030ff7b3046f0559f5",
+          "text": "瞻彼淇奥，绿竹青青。有匪君子，充耳琇莹，会弁如星。瑟兮僴兮。赫兮咺兮，有匪君子，终不可谖兮。",
+          "aliases": [],
+          "sourceText": "瞻彼淇奥，绿竹青青。有匪君子，充耳秀莹，会弁如星。瑟兮僴兮。赫兮咺兮，有匪君子，终不可谖兮。",
+          "correction": {
+            "reason": "“秀莹”作“琇莹”，据维基文库《詩經·淇奧》“充耳琇瑩”、《毛詩正義》卷三同句及毛传“琇瑩，美石也”，本书都人士亦作“充耳琇实”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:71854b30dbb0cdd8c5def24c8bd7b59e6e4836efdf2edb030ff7b3046f0559f5"
+            }
+          }
         },
         {
           "id": "p-shijing-51f88fa47d4d5233-0003",
@@ -2613,9 +2635,20 @@
         },
         {
           "id": "p-shijing-3f52619e5f150a48-0002",
-          "version": "sha256:52a5463991b32be13a95b630eaea643b6e54a898d7ea46802f3c0015d0028086",
-          "text": "叔于田，乘乘黄。两服上襄，两骖雁行。叔在薮，火烈具扬。叔善射忌，又良御忌。抑罄控忌，抑纵送忌。",
-          "aliases": []
+          "version": "sha256:1de0ac4a26986961b63c750fa1ee82a45ab8e9412757c7cdd6ff8afa0facdfbf",
+          "text": "叔于田，乘乘黄。两服上襄，两骖雁行。叔在薮，火烈具扬。叔善射忌，又良御忌。抑磬控忌，抑纵送忌。",
+          "aliases": [],
+          "sourceText": "叔于田，乘乘黄。两服上襄，两骖雁行。叔在薮，火烈具扬。叔善射忌，又良御忌。抑罄控忌，抑纵送忌。",
+          "correction": {
+            "reason": "“罄控”作“磬控”，据维基文库《詩經·大叔于田》“抑磬控忌”、《毛詩正義》卷四同句及毛传“騁馬曰磬”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:1de0ac4a26986961b63c750fa1ee82a45ab8e9412757c7cdd6ff8afa0facdfbf"
+            }
+          }
         },
         {
           "id": "p-shijing-3f52619e5f150a48-0003",
@@ -3170,21 +3203,54 @@
       "paragraphs": [
         {
           "id": "p-shijing-bfd11edd2e4ef99e-0001",
-          "version": "sha256:82eb6798365880084a1af3e25e0cf94378973044c282e3bb8a2775135decbe14",
-          "text": "子之还兮，遭我乎狃之间兮。并驱从两肩兮，揖我谓我儇兮。",
-          "aliases": []
+          "version": "sha256:a5d09e3fb4e3c1a0c9a7e19f6f0becf24ab6dec4da30525d2ef505eb3c07162b",
+          "text": "子之还兮，遭我乎峱之间兮。并驱从两肩兮，揖我谓我儇兮。",
+          "aliases": [],
+          "sourceText": "子之还兮，遭我乎狃之间兮。并驱从两肩兮，揖我谓我儇兮。",
+          "correction": {
+            "reason": "山名“峱”误作“狃”，据维基文库《詩經·還》“遭我乎峱之閒兮”及《毛詩正義》卷五毛传“峱，山名”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:a5d09e3fb4e3c1a0c9a7e19f6f0becf24ab6dec4da30525d2ef505eb3c07162b"
+            }
+          }
         },
         {
           "id": "p-shijing-bfd11edd2e4ef99e-0002",
-          "version": "sha256:03941a30cea6a1a5a3cfc07613722de1b18c749a378c95554144743d89e3b64a",
-          "text": "子之茂兮，遭我乎狃之道兮。并驱从两牡兮，揖我谓我好兮。",
-          "aliases": []
+          "version": "sha256:a445e1096971ad207679130f524cb36e4911df3e90898a6842e272a8157fd10d",
+          "text": "子之茂兮，遭我乎峱之道兮。并驱从两牡兮，揖我谓我好兮。",
+          "aliases": [],
+          "sourceText": "子之茂兮，遭我乎狃之道兮。并驱从两牡兮，揖我谓我好兮。",
+          "correction": {
+            "reason": "山名“峱”误作“狃”，据维基文库《詩經·還》“遭我乎峱之道兮”及《毛詩正義》卷五同句",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:a445e1096971ad207679130f524cb36e4911df3e90898a6842e272a8157fd10d"
+            }
+          }
         },
         {
           "id": "p-shijing-bfd11edd2e4ef99e-0003",
-          "version": "sha256:f04ee86a4eca868bdf44255f9e41d6aaa9d7254e8bcf315704d9c7457810c35d",
-          "text": "子之昌兮，遭我乎狃之阳兮。并驱从两狼兮，揖我谓我臧兮。",
-          "aliases": []
+          "version": "sha256:aeedc5ee5a474184d914fd4e81ece6079f99edd8e9900bfd097f7a6ce12000c2",
+          "text": "子之昌兮，遭我乎峱之阳兮。并驱从两狼兮，揖我谓我臧兮。",
+          "aliases": [],
+          "sourceText": "子之昌兮，遭我乎狃之阳兮。并驱从两狼兮，揖我谓我臧兮。",
+          "correction": {
+            "reason": "山名“峱”误作“狃”，据维基文库《詩經·還》“遭我乎峱之陽兮”及《毛詩正義》卷五毛传“峱，山名”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:aeedc5ee5a474184d914fd4e81ece6079f99edd8e9900bfd097f7a6ce12000c2"
+            }
+          }
         }
       ]
     },
@@ -3201,9 +3267,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-f98fa245ae85c7a5-0001",
-          "version": "sha256:e98bed01b6913398b135a1f604678a864923cfc62308a83df5bb5769b5e9c211",
-          "text": "俟我于着乎而，充耳以素乎而，尚之以琼华乎而。",
-          "aliases": []
+          "version": "sha256:a63b93003dd9ebd9fc46b66bc0a2d4bcaef1db63dc1ec2519731acfb43a007bb",
+          "text": "俟我于著乎而，充耳以素乎而，尚之以琼华乎而。",
+          "aliases": [],
+          "sourceText": "俟我于着乎而，充耳以素乎而，尚之以琼华乎而。",
+          "correction": {
+            "reason": "“着”是繁转简时把“著”误转所致；人名、地名或篇名用字，读zhù，应作“著”。",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:a63b93003dd9ebd9fc46b66bc0a2d4bcaef1db63dc1ec2519731acfb43a007bb"
+            }
+          }
         },
         {
           "id": "p-shijing-f98fa245ae85c7a5-0002",
@@ -3881,9 +3958,20 @@
         },
         {
           "id": "p-shijing-d726d33e84ed4f61-0002",
-          "version": "sha256:9185dabe336c1e656d23ea85489d600310b5f0fbeff04a8c642740473e2e6166",
-          "text": "有杕之杜，其叶箐箐。独行睘睘。岂无他人？不如我同姓。嗟行之人，胡不比焉？人无兄弟，胡不佽焉？",
-          "aliases": []
+          "version": "sha256:7138012ee5d6a9b18b29afbeb6fd596950c51e3e04870f8f5c9f926cd9ff3b95",
+          "text": "有杕之杜，其叶菁菁。独行睘睘。岂无他人？不如我同姓。嗟行之人，胡不比焉？人无兄弟，胡不佽焉？",
+          "aliases": [],
+          "sourceText": "有杕之杜，其叶箐箐。独行睘睘。岂无他人？不如我同姓。嗟行之人，胡不比焉？人无兄弟，胡不佽焉？",
+          "correction": {
+            "reason": "“箐箐”作“菁菁”，据维基文库《詩經·杕杜》“其葉菁菁”及《毛詩正義》卷六毛传“菁菁，葉盛也”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:7138012ee5d6a9b18b29afbeb6fd596950c51e3e04870f8f5c9f926cd9ff3b95"
+            }
+          }
         }
       ]
     },
@@ -3937,9 +4025,20 @@
         },
         {
           "id": "p-shijing-0f26488f2ed6d812-0003",
-          "version": "sha256:84417e2d01dbaf233cef03ac98beee7d00b99ce85847580202a82a1d7ace8919",
-          "text": "肃肃鸨行，集于苞桑，王事靡盬，不能蓺稻梁。父母何尝？悠悠苍天，曷其有常？",
-          "aliases": []
+          "version": "sha256:44d97c1d444669f753991960474229a37121fdb2c995cb81e4bb2092616c943e",
+          "text": "肃肃鸨行，集于苞桑，王事靡盬，不能蓺稻粱。父母何尝？悠悠苍天，曷其有常？",
+          "aliases": [],
+          "sourceText": "肃肃鸨行，集于苞桑，王事靡盬，不能蓺稻梁。父母何尝？悠悠苍天，曷其有常？",
+          "correction": {
+            "reason": "“稻梁”作“稻粱”，据维基文库《詩經·鴇羽》“不能蓺稻粱”及《毛詩正義》卷六同句，本书甫田亦作“黍稷稻粱”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:44d97c1d444669f753991960474229a37121fdb2c995cb81e4bb2092616c943e"
+            }
+          }
         }
       ]
     },
@@ -4613,9 +4712,20 @@
         },
         {
           "id": "p-shijing-3a7da81638f2a523-0002",
-          "version": "sha256:acff976820e42e63ed222d91a801c80ff3f26639d825e060ccfeb1897660d2f5",
-          "text": "月出皓兮。佼人懰兮。舒忧受兮。劳心慅兮。",
-          "aliases": []
+          "version": "sha256:22256f161c2581063743116571b2266e7103a10659ae501931aed71ee0074dc7",
+          "text": "月出皓兮。佼人懰兮。舒懮受兮。劳心慅兮。",
+          "aliases": [],
+          "sourceText": "月出皓兮。佼人懰兮。舒忧受兮。劳心慅兮。",
+          "correction": {
+            "reason": "“忧受”作“懮受”（舒迟貌），据维基文库《詩經·月出》“舒懮受兮”及《毛詩正義》卷七释文“懮，於久反，舒貌”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:22256f161c2581063743116571b2266e7103a10659ae501931aed71ee0074dc7"
+            }
+          }
         },
         {
           "id": "p-shijing-3a7da81638f2a523-0003",
@@ -5704,9 +5814,20 @@
         },
         {
           "id": "p-shijing-526f5fc488f47004-0004",
-          "version": "sha256:5222734cac41c127961301b94fcaa93b37367e859e5d43de174fa364c9969dcc",
-          "text": "匪载匪来，忧心孔疚。斯逝不至，而多为恤。卜筮偕止，会言近止，征夫迩止！",
-          "aliases": []
+          "version": "sha256:359a918dabbedb2353ae840af93aad1a2b619925d1ba0f0effed51ce8fe90499",
+          "text": "匪载匪来，忧心孔疚。期逝不至，而多为恤。卜筮偕止，会言近止，征夫迩止！",
+          "aliases": [],
+          "sourceText": "匪载匪来，忧心孔疚。斯逝不至，而多为恤。卜筮偕止，会言近止，征夫迩止！",
+          "correction": {
+            "reason": "“斯逝”作“期逝”，据维基文库《詩經·杕杜》（小雅）“期逝不至”及《毛詩正義》卷九同句与正义“以下章期逝不至”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:359a918dabbedb2353ae840af93aad1a2b619925d1ba0f0effed51ce8fe90499"
+            }
+          }
         }
       ]
     },
@@ -6109,9 +6230,20 @@
         },
         {
           "id": "p-shijing-e7c706ab9b2ee76f-0002",
-          "version": "sha256:0386491f06ef7268b18eff1d63328a1b836e3e4d7fbb85f1f0d386b11cda6355",
-          "text": "田车既好，田牡孔阜。东有甫草，驾言行狩。",
-          "aliases": []
+          "version": "sha256:030592bf838ff6bdfa35c5cd3cd53a83c0288225831418aaf8e79177a18fdf9a",
+          "text": "田车既好，四牡孔阜。东有甫草，驾言行狩。",
+          "aliases": [],
+          "sourceText": "田车既好，田牡孔阜。东有甫草，驾言行狩。",
+          "correction": {
+            "reason": "“田牡”作“四牡”，据维基文库《詩經·車攻》“田車既好，四牡孔阜”及《毛詩正義》卷十同句，本书吉日同句亦作“四牡孔阜”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:030592bf838ff6bdfa35c5cd3cd53a83c0288225831418aaf8e79177a18fdf9a"
+            }
+          }
         },
         {
           "id": "p-shijing-e7c706ab9b2ee76f-0003",
@@ -6662,9 +6794,20 @@
         },
         {
           "id": "p-shijing-8b64ba668ab669f5-0007",
-          "version": "sha256:9c6938b6eec1bbec38f4ebe6b3943b1227e7315871140d17cfea379508222ff5",
-          "text": "瞻彼阪田，有菀其特。天之杌我，如不我克。彼求我则，如不我得。执我仇仇，亦不我力。",
-          "aliases": []
+          "version": "sha256:1da4d8e3b665ccf1502793eef22410ab4a946c38124cc2ff11cc67e65aed1056",
+          "text": "瞻彼阪田，有菀其特。天之扤我，如不我克。彼求我则，如不我得。执我仇仇，亦不我力。",
+          "aliases": [],
+          "sourceText": "瞻彼阪田，有菀其特。天之杌我，如不我克。彼求我则，如不我得。执我仇仇，亦不我力。",
+          "correction": {
+            "reason": "“杌”作“扤”，据维基文库《詩經·正月》“天之扤我”及《毛詩正義》卷十二毛传“扤，動也”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:1da4d8e3b665ccf1502793eef22410ab4a946c38124cc2ff11cc67e65aed1056"
+            }
+          }
         },
         {
           "id": "p-shijing-8b64ba668ab669f5-0008",
@@ -6819,9 +6962,20 @@
         },
         {
           "id": "p-shijing-50a12aecc5a68722-0006",
-          "version": "sha256:cec8c903689e8093b2d8e9e2246461ef2919e596bae24429fb8e3c24797e606d",
-          "text": "维曰予仕，孔棘且殆。云不何使，得罪于天子；亦云可使，怨及朋友。",
-          "aliases": []
+          "version": "sha256:71c59b1ed0a1ef99a2e0ea6d983d4c9c20359abc73259e2f65bb9b5244b59dcd",
+          "text": "维曰予仕，孔棘且殆。云不可使，得罪于天子；亦云可使，怨及朋友。",
+          "aliases": [],
+          "sourceText": "维曰予仕，孔棘且殆。云不何使，得罪于天子；亦云可使，怨及朋友。",
+          "correction": {
+            "reason": "“不何使”作“不可使”，据维基文库《詩經·雨無正》“云不可使”、《毛詩正義》卷十二同句，及本段下句“亦云可使”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:71c59b1ed0a1ef99a2e0ea6d983d4c9c20359abc73259e2f65bb9b5244b59dcd"
+            }
+          }
         },
         {
           "id": "p-shijing-50a12aecc5a68722-0007",
@@ -8329,9 +8483,20 @@
         },
         {
           "id": "p-shijing-6f32f09eeba28c64-0004",
-          "version": "sha256:4ff40afec66cfe1fe01e9c31b89f3804b1be5dbb4069780b3b84ce63974e4948",
-          "text": "民之无良，相怨一方。受爵不让，至于已斯亡。",
-          "aliases": []
+          "version": "sha256:de1e93c1a9410088ef07d931df1a141e3a7d70bd6ba1c343d4db55ef2bbf2e05",
+          "text": "民之无良，相怨一方。受爵不让，至于己斯亡。",
+          "aliases": [],
+          "sourceText": "民之无良，相怨一方。受爵不让，至于已斯亡。",
+          "correction": {
+            "reason": "“已”作“己”，据维基文库《詩經·角弓》“至于己斯亡”及《毛詩正義》卷十五同句与疏“至於己斯亡”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:de1e93c1a9410088ef07d931df1a141e3a7d70bd6ba1c343d4db55ef2bbf2e05"
+            }
+          }
         },
         {
           "id": "p-shijing-6f32f09eeba28c64-0005",
@@ -8815,9 +8980,20 @@
         },
         {
           "id": "p-shijing-457b76b7a7cdf756-0005",
-          "version": "sha256:1ae94bca65327caa752a87410bb5f2186a3b277742d398db72aa512a2675569c",
-          "text": "侯服于周，天命靡常。殷士肤敏。裸将于京。厥作裸将，常服黼冔。王之荩臣。无念尔祖。",
-          "aliases": []
+          "version": "sha256:6a7bfd4a98a043770c0d80571220669708d4b90ecdd6574330e755d224545237",
+          "text": "侯服于周，天命靡常。殷士肤敏。祼将于京。厥作祼将，常服黼冔。王之荩臣。无念尔祖。",
+          "aliases": [],
+          "sourceText": "侯服于周，天命靡常。殷士肤敏。裸将于京。厥作裸将，常服黼冔。王之荩臣。无念尔祖。",
+          "correction": {
+            "reason": "“裸”作“祼”（灌鬯之祭），据维基文库《詩經·文王》“祼將于京”及《毛詩正義》卷十六毛传“祼，灌鬯也”；“裸”作“祼”，据维基文库《詩經·文王》“厥作祼將”及《毛詩正義》卷十六同句",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:6a7bfd4a98a043770c0d80571220669708d4b90ecdd6574330e755d224545237"
+            }
+          }
         },
         {
           "id": "p-shijing-457b76b7a7cdf756-0006",
@@ -10529,9 +10705,20 @@
         },
         {
           "id": "p-shijing-3917624375a892c0-0002",
-          "version": "sha256:8afa6f2b6d2a91f1f5d91e52ff453b81554b774ed104f9a4cff99eb70d6ed977",
-          "text": "靡神不举，靡爱斯牲。圭壁既卒，宁莫我听？",
-          "aliases": []
+          "version": "sha256:3388f661660d9d405eef594b438b118fe01d86429810277c52a9d2108af792ad",
+          "text": "靡神不举，靡爱斯牲。圭璧既卒，宁莫我听？",
+          "aliases": [],
+          "sourceText": "靡神不举，靡爱斯牲。圭壁既卒，宁莫我听？",
+          "correction": {
+            "reason": "“圭壁”作“圭璧”，据维基文库《詩經·雲漢》“圭璧既卒”及《毛詩正義》卷十八同句",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:3388f661660d9d405eef594b438b118fe01d86429810277c52a9d2108af792ad"
+            }
+          }
         },
         {
           "id": "p-shijing-3917624375a892c0-0003",
@@ -10801,9 +10988,20 @@
         },
         {
           "id": "p-shijing-b23835e416ca8f93-0007",
-          "version": "sha256:16db6169504b3b7be399506b76a9080820379cd01b8ebbb4abb6073bfc0b3a27",
-          "text": "玄衮赤舄，钩膺镂锡，鞹鞃浅幭，鞗革金厄。",
-          "aliases": []
+          "version": "sha256:bdea89b525878e29d1c1f9920ae6e9274baba450fff8195245dea37a25c89f49",
+          "text": "玄衮赤舄，钩膺镂钖，鞹鞃浅幭，鞗革金厄。",
+          "aliases": [],
+          "sourceText": "玄衮赤舄，钩膺镂锡，鞹鞃浅幭，鞗革金厄。",
+          "correction": {
+            "reason": "“锡”作“钖”（鍚，马额上的金饰），据维基文库《詩經·韓奕》“鉤膺鏤鍚”及《毛詩正義》卷十八毛传“鏤鍚，有金鏤其鍚也”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:bdea89b525878e29d1c1f9920ae6e9274baba450fff8195245dea37a25c89f49"
+            }
+          }
         },
         {
           "id": "p-shijing-b23835e416ca8f93-0008",
@@ -11032,9 +11230,20 @@
         },
         {
           "id": "p-shijing-920582db0d46caa3-0007",
-          "version": "sha256:9a61d520a517d07c022651c1a0677f047d05dd5272f63a41c5f4415cb6c13658",
-          "text": "鞫人忮忒。谮始竞背。岂曰不极？伊胡为慝？如贾三倍，君子是识。",
-          "aliases": []
+          "version": "sha256:703dd810b383d5f890f9ef9a5d101a6f5d855423a590f9f5f4b8eb9cc95b4b45",
+          "text": "鞫人忮忒。谮始竟背。岂曰不极？伊胡为慝？如贾三倍，君子是识。",
+          "aliases": [],
+          "sourceText": "鞫人忮忒。谮始竞背。岂曰不极？伊胡为慝？如贾三倍，君子是识。",
+          "correction": {
+            "reason": "“竞背”作“竟背”，据维基文库《詩經·瞻卬》“譖始竟背”及《毛詩正義》卷十八同句与郑笺“竟，猶終也”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:703dd810b383d5f890f9ef9a5d101a6f5d855423a590f9f5f4b8eb9cc95b4b45"
+            }
+          }
         },
         {
           "id": "p-shijing-920582db0d46caa3-0008",
@@ -11310,18 +11519,18 @@
         },
         {
           "id": "p-shijing-fe04a930b475a544-0002",
-          "version": "sha256:91de6d2e361557b5591454a9ad8a7611a884f99afce46b6230435283529c8925",
-          "text": "明昭有周，式序在位。载戢干戈，载橐弓矢。我求懿德，肆于时夏，允王保之。",
+          "version": "sha256:dae426744cd48f76025703c1fbdbad73e516ec6e5ce0abf4cf74d9e4b55f4387",
+          "text": "明昭有周，式序在位。载戢干戈，载櫜弓矢。我求懿德，肆于时夏，允王保之。",
           "aliases": [],
           "sourceText": "明昭有周，式序在位。载戢干戈，载橐弓矢。我求懿德，四于时夏，允王保之。",
           "correction": {
-            "reason": "肆于时夏：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆于时夏”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。",
+            "reason": "肆于时夏：维基文库《詩經》、维基文库《毛詩正義》（阮刻十三經注疏本）均作“肆于时夏”（繁体）。底本通篇没有“肆”字，凡《毛詩》作“肆”处一律作“四”，同书又有“陆”作“六”、“玖”作“九”、“贰”作“二”、“壹”作“一”，是上游把大写数字转成小写造成的，不是古书通假。；“橐”作“櫜”（弓衣），据维基文库《詩經·時邁》“載櫜弓矢”及《毛詩正義》卷十九所引宣十二年《左傳》同句，本书彤弓亦作“受言櫜之”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:91de6d2e361557b5591454a9ad8a7611a884f99afce46b6230435283529c8925"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:dae426744cd48f76025703c1fbdbad73e516ec6e5ce0abf4cf74d9e4b55f4387"
             }
           }
         }
@@ -11346,9 +11555,20 @@
         },
         {
           "id": "p-shijing-74cc359b7e92695f-0002",
-          "version": "sha256:033bf979051da18bc25ced9b3440c3b407618ea2c79704e7bb031767cd854caf",
-          "text": "钟鼓喤喤，磬莞将将，降福穰穰。降福简简，威仪反反。既醉既饱，福禄来反。",
-          "aliases": []
+          "version": "sha256:1375807e8e62d0715bb0e5187a55e21fdcbd9aa2a433794f4c938000efe011b1",
+          "text": "钟鼓喤喤，磬筦将将，降福穰穰。降福简简，威仪反反。既醉既饱，福禄来反。",
+          "aliases": [],
+          "sourceText": "钟鼓喤喤，磬莞将将，降福穰穰。降福简简，威仪反反。既醉既饱，福禄来反。",
+          "correction": {
+            "reason": "“磬莞”作“磬筦”（筦即管），据维基文库《詩經·執競》“磬筦將將”及《毛詩正義》卷十九同句",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:1375807e8e62d0715bb0e5187a55e21fdcbd9aa2a433794f4c938000efe011b1"
+            }
+          }
         }
       ]
     },
@@ -11365,9 +11585,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-0b69fac9a9d94e8f-0001",
-          "version": "sha256:b7d3e76b6d1bf3c915d1bd8e3143064a39d6f136d807e7672f7021440714d8f1",
-          "text": "思文后稷，克配彼天。立我烝民，莫菲尔极。贻我来牟，帝命率育，无此疆尔界。陈常于时夏。",
-          "aliases": []
+          "version": "sha256:b3c5b13d1de56cf2d01da5fa56424e988f1aae6c41fc14cf20a0637272f33ddd",
+          "text": "思文后稷，克配彼天。立我烝民，莫匪尔极。贻我来牟，帝命率育，无此疆尔界。陈常于时夏。",
+          "aliases": [],
+          "sourceText": "思文后稷，克配彼天。立我烝民，莫菲尔极。贻我来牟，帝命率育，无此疆尔界。陈常于时夏。",
+          "correction": {
+            "reason": "“莫菲”作“莫匪”，据维基文库《詩經·思文》“莫匪爾極”及《毛詩正義》卷十九同句",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:b3c5b13d1de56cf2d01da5fa56424e988f1aae6c41fc14cf20a0637272f33ddd"
+            }
+          }
         }
       ]
     },
@@ -11746,9 +11977,20 @@
       "paragraphs": [
         {
           "id": "p-shijing-beb65935633760db-0001",
-          "version": "sha256:6cd359f435db0c55b6efb753d199a919e118f5e6c99c0f4bd6a98acc706e3fba",
-          "text": "畟畟良耜，俶载南亩。播厥百谷，实函斯活。或来瞻女，载筐及莒，其饟伊黍。",
-          "aliases": []
+          "version": "sha256:8a875caf6b2f810ccc727d938b591c864f1a347c74df9a8d0913dea7b25f018a",
+          "text": "畟畟良耜，俶载南亩。播厥百谷，实函斯活。或来瞻女，载筐及筥，其饟伊黍。",
+          "aliases": [],
+          "sourceText": "畟畟良耜，俶载南亩。播厥百谷，实函斯活。或来瞻女，载筐及莒，其饟伊黍。",
+          "correction": {
+            "reason": "“莒”作“筥”（竹器），据维基文库《詩經·良耜》“載筐及筥”及《毛詩正義》卷十九同句，本书采苹亦作“维筐及筥”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:8a875caf6b2f810ccc727d938b591c864f1a347c74df9a8d0913dea7b25f018a"
+            }
+          }
         },
         {
           "id": "p-shijing-beb65935633760db-0002",
@@ -11884,9 +12126,20 @@
         },
         {
           "id": "p-shijing-e6ecaa60a833ea23-0003",
-          "version": "sha256:f98172f4a5104cf90e7b39d1f6d75980e6facecb62dc4ad526487a3ddbf5886c",
-          "text": "駉駉牡马，在坰之野。溥言駉者，有驒有骆，有骝有雒，以车绎绎。思无斁思，马斯作。",
-          "aliases": []
+          "version": "sha256:3a22e8e076c417504b7445d78584e44d001d83ce5c831a26f6014b7927f67e87",
+          "text": "駉駉牡马，在坰之野。薄言駉者，有驒有骆，有骝有雒，以车绎绎。思无斁思，马斯作。",
+          "aliases": [],
+          "sourceText": "駉駉牡马，在坰之野。溥言駉者，有驒有骆，有骝有雒，以车绎绎。思无斁思，马斯作。",
+          "correction": {
+            "reason": "“溥言”作“薄言”，据维基文库《詩經·駉》第三章“薄言駉者”、《毛詩正義》卷二十同句，本篇其余三章亦作“薄言駉者”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:3a22e8e076c417504b7445d78584e44d001d83ce5c831a26f6014b7927f67e87"
+            }
+          }
         },
         {
           "id": "p-shijing-e6ecaa60a833ea23-0004",
@@ -12055,9 +12308,20 @@
         },
         {
           "id": "p-shijing-6d2ea588d492b954-0010",
-          "version": "sha256:9863d7843b20a222ebfded94c3b9f874143d21a82df7f3038aa8a1ad69f99fed",
-          "text": "孝孙有庆。俾尔炽而昌，俾尔寿而臧。保彼东方，鲁邦是尝。不亏不崩，不震不腾。",
-          "aliases": []
+          "version": "sha256:ba64806bd3093980a9ab06222ae029572b28cc23da347f0a9686c2f77413bd30",
+          "text": "孝孙有庆。俾尔炽而昌，俾尔寿而臧。保彼东方，鲁邦是常。不亏不崩，不震不腾。",
+          "aliases": [],
+          "sourceText": "孝孙有庆。俾尔炽而昌，俾尔寿而臧。保彼东方，鲁邦是尝。不亏不崩，不震不腾。",
+          "correction": {
+            "reason": "“是尝”作“是常”，据维基文库《詩經·閟宮》“魯邦是常”及《毛詩正義》卷二十同句与正义“言其常守魯國”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:ba64806bd3093980a9ab06222ae029572b28cc23da347f0a9686c2f77413bd30"
+            }
+          }
         },
         {
           "id": "p-shijing-6d2ea588d492b954-0011",
@@ -12245,9 +12509,20 @@
         },
         {
           "id": "p-shijing-159f4289fdec18e3-0002",
-          "version": "sha256:d21da703d4bdc3a059f78ec03ed889627ed9d2011f5fcb0cef37de33b2d1e2f6",
-          "text": "玄王桓拨，受小国是达，受大国是达。率履不越，遂视既发。相士烈烈。海外有截。",
-          "aliases": []
+          "version": "sha256:3deb36d1a09682e7f5b90e3ab26c434bbafb5b283fcfbfb562962d49b8b06067",
+          "text": "玄王桓拨，受小国是达，受大国是达。率履不越，遂视既发。相土烈烈。海外有截。",
+          "aliases": [],
+          "sourceText": "玄王桓拨，受小国是达，受大国是达。率履不越，遂视既发。相士烈烈。海外有截。",
+          "correction": {
+            "reason": "“相士”作“相土”（契孙之名），据维基文库《詩經·長發》“相土烈烈”、《毛詩正義》卷二十毛传“相土，契孫也”及本库《史记·殷本纪》“子相土立”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:3deb36d1a09682e7f5b90e3ab26c434bbafb5b283fcfbfb562962d49b8b06067"
+            }
+          }
         },
         {
           "id": "p-shijing-159f4289fdec18e3-0003",
@@ -12324,9 +12599,20 @@
         },
         {
           "id": "p-shijing-79cd2135d019b252-0006",
-          "version": "sha256:d579a3775d5176572c7de23e2efb623a0df99709472ad137d91625f8cb8b2ea4",
-          "text": "陟彼景山，松伯丸丸。是断是迁，方斫是虔。松桷有梴，旅楹有闲，寝成孔安。",
-          "aliases": []
+          "version": "sha256:6fba64a820c0787f146290b743967e863a0a467f156b03b2af13fe5d1cf1c959",
+          "text": "陟彼景山，松柏丸丸。是断是迁，方斫是虔。松桷有梴，旅楹有闲，寝成孔安。",
+          "aliases": [],
+          "sourceText": "陟彼景山，松伯丸丸。是断是迁，方斫是虔。松桷有梴，旅楹有闲，寝成孔安。",
+          "correction": {
+            "reason": "“松伯”作“松柏”，据维基文库《詩經·殷武》“松柏丸丸”及《毛詩正義》卷二十“松栢丸丸”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:6fba64a820c0787f146290b743967e863a0a467f156b03b2af13fe5d1cf1c959"
+            }
+          }
         }
       ]
     }

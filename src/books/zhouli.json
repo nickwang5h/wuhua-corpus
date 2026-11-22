@@ -10038,9 +10038,20 @@
         },
         {
           "id": "p-zhouli-e2cca1c4645d42f5-0055",
-          "version": "sha256:a50a12ed5d64c28a9ab27ff2a9bdb1df5d2c150083dfb97b5b591c595a1414f8",
-          "text": "圉師，乘一人，徒二人。圉人，良馬匹二人，駑馬麗一人。",
-          "aliases": []
+          "version": "sha256:ffe7f8331a41411991d61f22fc4bcde786f849a02a5a86c7905eee579a1d4dff",
+          "text": "圉師，乘一人，徒二人。圉人，良馬匹一人，駑馬麗一人。",
+          "aliases": [],
+          "sourceText": "圉師，乘一人，徒二人。圉人，良馬匹二人，駑馬麗一人。",
+          "correction": {
+            "reason": "“二人”作“一人”，据维基文库《周禮》夏官序官“圉人：良馬匹一人”及《周禮註疏》卷二十八同句（鄭注“良，善也。麗，耦也”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:ffe7f8331a41411991d61f22fc4bcde786f849a02a5a86c7905eee579a1d4dff"
+            }
+          }
         },
         {
           "id": "p-zhouli-e2cca1c4645d42f5-0056",
@@ -17461,9 +17472,20 @@
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0079",
-          "version": "sha256:cf8bf4415e867309640910e88dc763061687459cac9653e81443644aec9ada8e",
-          "text": "廬人爲廬器，戈秘六尺有六寸，殳長尋有四尺，車㦸常，酋矛常有四尺，夷矛三尋。",
-          "aliases": []
+          "version": "sha256:2723ba2891ab9c5f59071b39fd10e275dba2169bf787e7def8d2415e6ba6515f",
+          "text": "廬人爲廬器，戈柲六尺有六寸，殳長尋有四尺，車㦸常，酋矛常有四尺，夷矛三尋。",
+          "aliases": [],
+          "sourceText": "廬人爲廬器，戈秘六尺有六寸，殳長尋有四尺，車㦸常，酋矛常有四尺，夷矛三尋。",
+          "correction": {
+            "reason": "“秘”作“柲”（禾木形近），据维基文库《周禮·考工記》“戈柲六尺有六寸”、《周禮註疏》卷四十一同句（鄭注“柲猶柄也”）及本书考工记 0026 同句作“戈柲”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:2723ba2891ab9c5f59071b39fd10e275dba2169bf787e7def8d2415e6ba6515f"
+            }
+          }
         },
         {
           "id": "p-zhouli-9a01dacf12d167a7-0080",

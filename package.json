@@ -1,6 +1,6 @@
 {
   "name": "@wuhua/corpus",
-  "version": "2026.11.13-corrections12",
+  "version": "2026.11.22-corrections13",
   "private": true,
   "type": "module",
   "exports": {
@@ -28,7 +28,7 @@
     "content:catalog": "node --import tsx scripts/catalog-content.ts",
     "content:correct": "node --import tsx scripts/correct.ts",
     "content:structure": "node --import tsx scripts/structure.ts",
-    "release": "npm run check:types && npm run check:content && npm test && npm run build && node --import tsx scripts/release.ts",
+    "release": "npm run check:types && npm run check:content && npm run corpus:audit -- --check && npm test && npm run build && node --import tsx scripts/release.ts",
     "check:boundaries": "node scripts/check-boundaries.mjs",
     "build": "tsc -p tsconfig.build.json && node scripts/copy-books.mjs",
     "check:content": "npm run check:corpus && npm run corpus:check && npm run corpus:route:check",
@@ -38,6 +38,8 @@
     "corpus:check": "node --import tsx scripts/corpus.ts check",
     "corpus:sync": "node --import tsx scripts/corpus.ts sync",
     "corpus:report": "node --import tsx scripts/corpus.ts report",
+    "corpus:audit": "node --import tsx scripts/corpus-audit.ts",
+    "corpus:collate": "node --import tsx scripts/collate.ts",
     "corpus:route:check": "node --import tsx scripts/corpus-route-pilot.ts",
     "corpus:route:preview": "node --import tsx scripts/corpus-route-pilot.ts --write",
     "pinyin:prepare": "node --import tsx scripts/pinyin.ts prepare",

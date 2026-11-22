@@ -50,9 +50,20 @@
         },
         {
           "id": "p-daxue-ec3fa9f16b3930a2-0006",
-          "version": "sha256:6cfe5af77bbbda6bee2bb3a2e5a87607d505ede9b5b12c90b88e144cd0866911",
-          "text": "汤之盘铭曰：「茍日新，日日新，又日新。」《康诰》曰：「作新民。」《诗》曰：「周虽旧邦，其命惟新。」是故君子无所不用其极。",
-          "aliases": []
+          "version": "sha256:d5ce7bd1ae5a9496bd185a7c68f3aeb1fb40c445420d22f2fe0c81b7c347e533",
+          "text": "汤之盘铭曰：「苟日新，日日新，又日新。」《康诰》曰：「作新民。」《诗》曰：「周虽旧邦，其命惟新。」是故君子无所不用其极。",
+          "aliases": [],
+          "sourceText": "汤之盘铭曰：「茍日新，日日新，又日新。」《康诰》曰：「作新民。」《诗》曰：「周虽旧邦，其命惟新。」是故君子无所不用其极。",
+          "correction": {
+            "reason": "“茍”(U+830D)改为“苟”(U+82DF)，汤之盘铭“苟日新”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:d5ce7bd1ae5a9496bd185a7c68f3aeb1fb40c445420d22f2fe0c81b7c347e533"
+            }
+          }
         },
         {
           "id": "p-daxue-ec3fa9f16b3930a2-0007",

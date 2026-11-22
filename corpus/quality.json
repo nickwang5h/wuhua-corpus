@@ -1,0 +1,1956 @@
+{
+ "total": {
+  "privateUse": 276,
+  "placeholder": 297,
+  "composite": 102,
+  "sourceTag": 423,
+  "halfWidth": 11,
+  "latin": 483,
+  "kana": 7,
+  "innerSpace": 4299,
+  "unbalancedChapters": 572,
+  "unpunctuatedChapters": 58
+ },
+ "books": [
+  {
+   "id": "baopuzi",
+   "title": "抱朴子內篇",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 87244,
+   "punctuationPer100": 17.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 1,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "chuanxilu",
+   "title": "傳習錄",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 65032,
+   "punctuationPer100": 17.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "chuci",
+   "title": "楚辭",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 27711,
+   "punctuationPer100": 17,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 108,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "chunqiu",
+   "title": "春秋",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 16668,
+   "punctuationPer100": 25.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "chunqiufanlu",
+   "title": "春秋繁露",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 59374,
+   "punctuationPer100": 20.1,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 4,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 1,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 4,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "datongshu",
+   "title": "大同書",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 161762,
+   "punctuationPer100": 16.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 2,
+    "sourceTag": 0,
+    "halfWidth": 1,
+    "latin": 6,
+    "kana": 0,
+    "innerSpace": 141,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "daxue",
+   "title": "大學",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 1753,
+   "punctuationPer100": 20.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "dutongjianlun",
+   "title": "讀通鑑論",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 473850,
+   "punctuationPer100": 16.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 13,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 1,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 19,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "erchengyishu",
+   "title": "河南程氏遺書",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 150613,
+   "punctuationPer100": 18.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 2,
+    "kana": 0,
+    "innerSpace": 12,
+    "unbalancedChapters": 10,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "erya",
+   "title": "爾雅",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 10324,
+   "punctuationPer100": 45.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 4,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "fenshu",
+   "title": "焚書",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 136437,
+   "punctuationPer100": 15.4,
+   "defects": {
+    "privateUse": 3,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 238,
+    "unbalancedChapters": 6,
+    "unpunctuatedChapters": 1
+   }
+  },
+  {
+   "id": "gongsunlongzi",
+   "title": "公孫龍子",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 9186,
+   "punctuationPer100": 20,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 2,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "gongyang",
+   "title": "春秋公羊傳",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 51660,
+   "punctuationPer100": 20.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "gongzizhenji",
+   "title": "龔自珍集",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 114846,
+   "punctuationPer100": 18.2,
+   "defects": {
+    "privateUse": 22,
+    "placeholder": 21,
+    "composite": 8,
+    "sourceTag": 0,
+    "halfWidth": 1,
+    "latin": 9,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "guanzi",
+   "title": "管子",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 127905,
+   "punctuationPer100": 20.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 1,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 11,
+    "unbalancedChapters": 4,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "guguolunheng",
+   "title": "國故論衡",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 76276,
+   "punctuationPer100": 18.2,
+   "defects": {
+    "privateUse": 30,
+    "placeholder": 1,
+    "composite": 60,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 14,
+    "kana": 0,
+    "innerSpace": 118,
+    "unbalancedChapters": 3,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "guliang",
+   "title": "春秋穀梁傳",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 31784,
+   "punctuationPer100": 25,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "guwenguanzhi",
+   "title": "古文觀止",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 108018,
+   "punctuationPer100": 19.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 24,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "haiguotuzhi",
+   "title": "海國圖志",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 201505,
+   "punctuationPer100": 17.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 4,
+    "halfWidth": 7,
+    "latin": 120,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "hanfeizi",
+   "title": "韓非子",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 107862,
+   "punctuationPer100": 18.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 16,
+    "unbalancedChapters": 4,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "hanshanlaozijie",
+   "title": "老子道德經註",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 50703,
+   "punctuationPer100": 18,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 2,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "hanshu",
+   "title": "漢書",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 728964,
+   "punctuationPer100": 19.8,
+   "defects": {
+    "privateUse": 77,
+    "placeholder": 0,
+    "composite": 2,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 22,
+    "unbalancedChapters": 36,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "hanyuji",
+   "title": "昌黎先生集",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 209006,
+   "punctuationPer100": 18.3,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 12,
+    "unbalancedChapters": 17,
+    "unpunctuatedChapters": 1
+   }
+  },
+  {
+   "id": "hongloumeng",
+   "title": "紅樓夢",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 714428,
+   "punctuationPer100": 15.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 8,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 3,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "huainanzi",
+   "title": "淮南子",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 131519,
+   "punctuationPer100": 19.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "jiayouji",
+   "title": "嘉祐集",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 82189,
+   "punctuationPer100": 16.9,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "jikangji",
+   "title": "嵇康集",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 35196,
+   "punctuationPer100": 0,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 4,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 11
+   }
+  },
+  {
+   "id": "jinsilu",
+   "title": "近思錄",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 98777,
+   "punctuationPer100": 7.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 3,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 9,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "kongzijiayu",
+   "title": "孔子家語",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 57754,
+   "punctuationPer100": 20.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 5,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "laozi",
+   "title": "老子",
+   "provider": "zhwikisource-legacy",
+   "script": "繁",
+   "characters": 5285,
+   "punctuationPer100": 21.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "liezi",
+   "title": "列子",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 30729,
+   "punctuationPer100": 20.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "liji",
+   "title": "禮記",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 97967,
+   "punctuationPer100": 21.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 39,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "linjilu",
+   "title": "鎮州臨濟慧照禪師語錄",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 16331,
+   "punctuationPer100": 19.3,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "liuzongyuanji",
+   "title": "柳河東集",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 217206,
+   "punctuationPer100": 19.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 86,
+    "unbalancedChapters": 22,
+    "unpunctuatedChapters": 1
+   }
+  },
+  {
+   "id": "liuzutanjing",
+   "title": "六祖大師法寶壇經",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 26444,
+   "punctuationPer100": 17.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 210,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "luanchengji",
+   "title": "欒城集",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 308044,
+   "punctuationPer100": 17.7,
+   "defects": {
+    "privateUse": 3,
+    "placeholder": 3,
+    "composite": 5,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "lujiuyuanji",
+   "title": "陸九淵集",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 207335,
+   "punctuationPer100": 0,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 3,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 157,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 5
+   }
+  },
+  {
+   "id": "lunheng",
+   "title": "論衡",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 210926,
+   "punctuationPer100": 20.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 15,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "lunyu",
+   "title": "论语",
+   "provider": "zhwikisource-legacy",
+   "script": "繁",
+   "characters": 15941,
+   "punctuationPer100": 25.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 4,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "lvshichunqiu",
+   "title": "呂氏春秋",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 106215,
+   "punctuationPer100": 19.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 2,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "mengzi",
+   "title": "孟子",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 35378,
+   "punctuationPer100": 20.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 9,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "mengziziyishuzheng",
+   "title": "孟子字義疏證",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 30929,
+   "punctuationPer100": 17.3,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 3,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "mingyidaifanglu",
+   "title": "明夷待訪錄",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 19429,
+   "punctuationPer100": 16.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "mozi",
+   "title": "墨子",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 76183,
+   "punctuationPer100": 19.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 3,
+    "unbalancedChapters": 16,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "nanhuazhenjingzhushu",
+   "title": "南華真經註疏",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 291276,
+   "punctuationPer100": 19.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 2,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "ouyangxiuji",
+   "title": "歐陽文忠公集",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 827533,
+   "punctuationPer100": 17,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 36,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 339,
+    "unbalancedChapters": 39,
+    "unpunctuatedChapters": 3
+   }
+  },
+  {
+   "id": "qianfulun",
+   "title": "潛夫論",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 45025,
+   "punctuationPer100": 20,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 13,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "renjiancihua",
+   "title": "人間詞話",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 4272,
+   "punctuationPer100": 16.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "rizhilu",
+   "title": "日知錄",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 395541,
+   "punctuationPer100": 17.6,
+   "defects": {
+    "privateUse": 25,
+    "placeholder": 3,
+    "composite": 14,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 6,
+    "kana": 7,
+    "innerSpace": 0,
+    "unbalancedChapters": 32,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "ruanjiji",
+   "title": "阮籍集",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 23337,
+   "punctuationPer100": 18.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 5,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 2,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "sanguoyanyi",
+   "title": "三國演義",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 495339,
+   "punctuationPer100": 18.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 125,
+    "unbalancedChapters": 10,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shangjunshu",
+   "title": "商君書",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 20152,
+   "punctuationPer100": 19.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shangshu",
+   "title": "尚書",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 25701,
+   "punctuationPer100": 23.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 6,
+    "unbalancedChapters": 9,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shaonianzhongguoshuo",
+   "title": "少年中國說",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 3245,
+   "punctuationPer100": 16.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shiji",
+   "title": "史記",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 1061906,
+   "punctuationPer100": 16.9,
+   "defects": {
+    "privateUse": 36,
+    "placeholder": 45,
+    "composite": 0,
+    "sourceTag": 419,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 738,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 2
+   }
+  },
+  {
+   "id": "shijing",
+   "title": "詩經",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 29646,
+   "punctuationPer100": 24.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shishuoxinyu",
+   "title": "世說新語",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 66881,
+   "punctuationPer100": 19.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 3,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 22,
+    "unbalancedChapters": 3,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shuihuzhuan",
+   "title": "水滸傳",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 776931,
+   "punctuationPer100": 16,
+   "defects": {
+    "privateUse": 35,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 260,
+    "unbalancedChapters": 44,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "shuoyuan",
+   "title": "說苑",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 108277,
+   "punctuationPer100": 20.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "sishuzhangjujizhu",
+   "title": "四書章句集注",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 200101,
+   "punctuationPer100": 21.5,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 10,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "songcisanbaishou",
+   "title": "宋詞三百首",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 24876,
+   "punctuationPer100": 20.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "sunzi",
+   "title": "孫子兵法",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 8205,
+   "punctuationPer100": 22.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "sushiji",
+   "title": "東坡全集",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 247415,
+   "punctuationPer100": 16.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 278,
+    "unbalancedChapters": 18,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "taijitushuo",
+   "title": "太極圖說",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 266,
+   "punctuationPer100": 23.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "tangshisanbaishou",
+   "title": "唐詩三百首",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 20032,
+   "punctuationPer100": 14.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 59,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "taoyuanmingji",
+   "title": "陶淵明集",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 37229,
+   "punctuationPer100": 19.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 12,
+    "unbalancedChapters": 2,
+    "unpunctuatedChapters": 1
+   }
+  },
+  {
+   "id": "tianyanlun",
+   "title": "天演論",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 97557,
+   "punctuationPer100": 16.3,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 162,
+    "kana": 0,
+    "innerSpace": 3,
+    "unbalancedChapters": 2,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "tongshu",
+   "title": "通書",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 2630,
+   "punctuationPer100": 24.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 2,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "wanganshiji",
+   "title": "臨川文集",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 432732,
+   "punctuationPer100": 15.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 10,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 508,
+    "unbalancedChapters": 18,
+    "unpunctuatedChapters": 2
+   }
+  },
+  {
+   "id": "wangbilaozizhu",
+   "title": "老子道德經注",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 11986,
+   "punctuationPer100": 19.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "wangwenchenggongquanshu",
+   "title": "王文成公全書",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 676787,
+   "punctuationPer100": 11.3,
+   "defects": {
+    "privateUse": 24,
+    "placeholder": 1,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 401,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 2
+   }
+  },
+  {
+   "id": "wenxindiaolong",
+   "title": "文心雕龍",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 38110,
+   "punctuationPer100": 20.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 5,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "wudenghuiyuan",
+   "title": "五燈會元",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 584035,
+   "punctuationPer100": 21.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 2,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 17,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "xiaojing",
+   "title": "孝經",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 1799,
+   "punctuationPer100": 21.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "ximing",
+   "title": "西銘",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 253,
+   "punctuationPer100": 26.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "xinminshuo",
+   "title": "新民說",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 100089,
+   "punctuationPer100": 14.7,
+   "defects": {
+    "privateUse": 6,
+    "placeholder": 0,
+    "composite": 6,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 161,
+    "kana": 0,
+    "innerSpace": 29,
+    "unbalancedChapters": 4,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "xinxu",
+   "title": "新序",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 48174,
+   "punctuationPer100": 20.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "xiyouji",
+   "title": "西遊記",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 593227,
+   "punctuationPer100": 17.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 3,
+    "kana": 0,
+    "innerSpace": 3,
+    "unbalancedChapters": 17,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "xunzi",
+   "title": "荀子",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 79013,
+   "punctuationPer100": 19.3,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 4,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 10,
+    "unbalancedChapters": 9,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "yanshijiaxun",
+   "title": "顏氏家訓",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 32978,
+   "punctuationPer100": 20.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 4,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "yantielun",
+   "title": "鹽鐵論",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 49713,
+   "punctuationPer100": 19.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 10,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "yanyuanji",
+   "title": "顏元集",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 191186,
+   "punctuationPer100": 17.4,
+   "defects": {
+    "privateUse": 6,
+    "placeholder": 1,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 15,
+    "unbalancedChapters": 8,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "yili",
+   "title": "儀禮",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 56745,
+   "punctuationPer100": 27.3,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "yuanqiang",
+   "title": "原強",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 17714,
+   "punctuationPer100": 15.6,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zenggongji",
+   "title": "元豐類稿",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 254783,
+   "punctuationPer100": 17.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 19,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 29,
+    "unbalancedChapters": 10,
+    "unpunctuatedChapters": 1
+   }
+  },
+  {
+   "id": "zengguofanjiashu",
+   "title": "曾國藩家書",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 88057,
+   "punctuationPer100": 15.4,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 3,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhanguoce",
+   "title": "戰國策",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 131422,
+   "punctuationPer100": 18.7,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 1,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhengmeng",
+   "title": "正蒙",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 22427,
+   "punctuationPer100": 17.9,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 17,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhonglun",
+   "title": "中論",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 21080,
+   "punctuationPer100": 3.2,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 1,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 17
+   }
+  },
+  {
+   "id": "zhongyong",
+   "title": "中庸",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 3567,
+   "punctuationPer100": 21.8,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhouli",
+   "title": "周禮",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 49382,
+   "punctuationPer100": 23.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhouyi",
+   "title": "周易",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 23601,
+   "punctuationPer100": 27.3,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhouyizhu",
+   "title": "周易注",
+   "provider": "zhwikisource",
+   "script": "繁",
+   "characters": 71585,
+   "punctuationPer100": 0,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 7,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 11
+   }
+  },
+  {
+   "id": "zhuangzi",
+   "title": "庄子",
+   "provider": "zhwikisource-legacy",
+   "script": "繁",
+   "characters": 65157,
+   "punctuationPer100": 19.5,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 0,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zhuziyulei",
+   "title": "朱子語類",
+   "provider": "daizhige",
+   "script": "简",
+   "characters": 1544366,
+   "punctuationPer100": 18.2,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 7,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 81,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zizhitongjian",
+   "title": "資治通鑑",
+   "provider": "guopop",
+   "script": "繁",
+   "characters": 2569486,
+   "punctuationPer100": 18.3,
+   "defects": {
+    "privateUse": 1,
+    "placeholder": 46,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 260,
+    "unbalancedChapters": 10,
+    "unpunctuatedChapters": 0
+   }
+  },
+  {
+   "id": "zuozhuan",
+   "title": "春秋左氏傳",
+   "provider": "gujilab",
+   "script": "简",
+   "characters": 197034,
+   "punctuationPer100": 23.1,
+   "defects": {
+    "privateUse": 0,
+    "placeholder": 0,
+    "composite": 0,
+    "sourceTag": 0,
+    "halfWidth": 0,
+    "latin": 0,
+    "kana": 0,
+    "innerSpace": 0,
+    "unbalancedChapters": 9,
+    "unpunctuatedChapters": 0
+   }
+  }
+ ]
+}

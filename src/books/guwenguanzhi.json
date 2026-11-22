@@ -17975,9 +17975,20 @@
         },
         {
           "id": "p-guwenguanzhi-bfbd454998391af1-0036",
-          "version": "sha256:45fa301bcff59ff8cf412ff87baa796c6696df507a4d444d877d5bab15d90c22",
-          "text": "薊邱之植、植於汶簧、",
-          "aliases": []
+          "version": "sha256:b4f6943ae73cd1141776793fa1f7e04b01fe5953372bb40663f807bbd9b95745",
+          "text": "薊邱之植、植於汶篁、",
+          "aliases": [],
+          "sourceText": "薊邱之植、植於汶簧、",
+          "correction": {
+            "reason": "“簧”作“篁”，据维基文库《史記三家註》卷八十《樂毅列傳》“薊丘之植植於汶篁”，集解“竹田曰篁”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:b4f6943ae73cd1141776793fa1f7e04b01fe5953372bb40663f807bbd9b95745"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-bfbd454998391af1-0037",
@@ -42845,9 +42856,20 @@
         },
         {
           "id": "p-guwenguanzhi-c2e7ee1d1a97e574-0004",
-          "version": "sha256:73ea3694a540ac69d27356ebe1ac00db4a7804aee5f2d33409ab4aae655fd3bb",
-          "text": "乃推曰:",
-          "aliases": []
+          "version": "sha256:4b52753a852d23914c8cb22a6e6615e9ba01715344b3841829b2a5fe1423e4e2",
+          "text": "乃推曰：",
+          "aliases": [],
+          "sourceText": "乃推曰:",
+          "correction": {
+            "reason": "半角标点“:”改为全角“：”，只改符号宽度",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:4b52753a852d23914c8cb22a6e6615e9ba01715344b3841829b2a5fe1423e4e2"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-c2e7ee1d1a97e574-0005",
@@ -44960,9 +44982,20 @@
         },
         {
           "id": "p-guwenguanzhi-d4e54aeee00a36b4-0044",
-          "version": "sha256:e2f96d1a9b2ef388a5d5fe2db815841c245545cb84b0b3b0bd7a4b2e10435a4a",
-          "text": "古之人不余欺也!”",
-          "aliases": []
+          "version": "sha256:dafddd083bd79123a425ab787e44c9fb647702aa705446e4b3f9a7572a05b10d",
+          "text": "古之人不余欺也！”",
+          "aliases": [],
+          "sourceText": "古之人不余欺也!”",
+          "correction": {
+            "reason": "半角标点“!”改为全角“！”，只改符号宽度",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:dafddd083bd79123a425ab787e44c9fb647702aa705446e4b3f9a7572a05b10d"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-d4e54aeee00a36b4-0045",
@@ -46232,9 +46265,20 @@
         },
         {
           "id": "p-guwenguanzhi-479a3bcf3b53116c-0033",
-          "version": "sha256:7e24adc8044dee08e28fc84ba6ddd60dc359c6f2f5055e3f4ea5bd067d7638f7",
-          "text": "夢一道士，羽衣蹁躚，過臨皋之下，揖予而言曰：「赤壁之遊樂乎?」",
-          "aliases": []
+          "version": "sha256:ce5e78822aac9363231594e33a3a37134024e5b7912b0b46865f908186a6f895",
+          "text": "夢一道士，羽衣蹁躚，過臨皋之下，揖予而言曰：「赤壁之遊樂乎？」",
+          "aliases": [],
+          "sourceText": "夢一道士，羽衣蹁躚，過臨皋之下，揖予而言曰：「赤壁之遊樂乎?」",
+          "correction": {
+            "reason": "半角标点“?”改为全角“？”，只改符号宽度",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:ce5e78822aac9363231594e33a3a37134024e5b7912b0b46865f908186a6f895"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-479a3bcf3b53116c-0034",
@@ -49028,9 +49072,20 @@
         },
         {
           "id": "p-guwenguanzhi-b45e9f67127d52f0-0011",
-          "version": "sha256:7e6e9a5eb26b9adeb05984239848aa007a7b390643103d8575cf9e6e1604dc80",
-          "text": "象之不仁，蓋其始焉耳，又烏知其終之不見化於舜也?",
-          "aliases": []
+          "version": "sha256:5189c2749a93619c857887ab3e7d7ccead05eee9fd8d2fd4d3f688a35d012a85",
+          "text": "象之不仁，蓋其始焉耳，又烏知其終之不見化於舜也？",
+          "aliases": [],
+          "sourceText": "象之不仁，蓋其始焉耳，又烏知其終之不見化於舜也?",
+          "correction": {
+            "reason": "半角标点“?”改为全角“？”，只改符号宽度",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:5189c2749a93619c857887ab3e7d7ccead05eee9fd8d2fd4d3f688a35d012a85"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-b45e9f67127d52f0-0012",
@@ -49874,9 +49929,20 @@
         },
         {
           "id": "p-guwenguanzhi-d8b501d7bf0b6e93-0016",
-          "version": "sha256:d0d292e7d80c74d5c9b63249539dc0daad7e85dc481ec8605fc9cf0a3e136719",
-          "text": "君旣沒，而海內之薦紳大夫至今言及君，無不酸鼻而流涕。嗚呼！集中所載《鳴劍》、《籌邊》諸什，試令後之人讀之，其足以寒賊臣之膽，而躍塞坦戰士之馬，而作之愾也，固矣。",
-          "aliases": []
+          "version": "sha256:b54ca9d8c6f3df28db655dd190b58d9b9238d73e83eaba918642b3b46c8b4acd",
+          "text": "君旣沒，而海內之薦紳大夫至今言及君，無不酸鼻而流涕。嗚呼！集中所載《鳴劍》、《籌邊》諸什，試令後之人讀之，其足以寒賊臣之膽，而躍塞垣戰士之馬，而作之愾也，固矣。",
+          "aliases": [],
+          "sourceText": "君旣沒，而海內之薦紳大夫至今言及君，無不酸鼻而流涕。嗚呼！集中所載《鳴劍》、《籌邊》諸什，試令後之人讀之，其足以寒賊臣之膽，而躍塞坦戰士之馬，而作之愾也，固矣。",
+          "correction": {
+            "reason": "“坦”作“垣”，据维基文库《青霞先生文集序》“而躍塞垣戰士之馬”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-22",
+              "textVersion": "sha256:b54ca9d8c6f3df28db655dd190b58d9b9238d73e83eaba918642b3b46c8b4acd"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-d8b501d7bf0b6e93-0017",
