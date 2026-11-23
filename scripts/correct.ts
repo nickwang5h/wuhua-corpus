@@ -19,7 +19,7 @@ import type {TextBook,Reference,Transition} from '../src/types.js';
 
 type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number; all?:boolean};
 type Aid={target:string; version:string; start?:number; end?:number; review?:{textVersion?:string}; tokens?:{start:number;end:number}[]};
-const PUNCTUATION=new Set('，。、；：！？“”‘’《》〈〉·');
+const PUNCTUATION=new Set('，。、；：！？“”‘’「」『』《》〈〉（）〔〕【】·—…﹕');
 // When `after` differs from `before` only in punctuation (marks added, dropped or moved), the new
 // code-point index of each old character that is not punctuation.
 function punctuationOnly(before:string,after:string):Map<number,number>|undefined{
@@ -71,7 +71,8 @@ for(const list of byParagraph.values()){
  let place=Array.from(oldText,(_,i)=>i);
  for(const item of list){
   const at:number[]=[];
-  for(let i=text.indexOf(item.find);i>=0;i=text.indexOf(item.find,i+1))at.push(i);
+  // Occurrences do not overlap: 「□□」 is found once in 「□□□」, not twice.
+  for(let i=text.indexOf(item.find);i>=0;i=text.indexOf(item.find,i+item.find.length))at.push(i);
   const indexes=item.all?at:[item.nth===undefined?(at.length===1?at[0]:-1):at[item.nth]??-1];
   if(!indexes.length||indexes.some(i=>i<0))throw new Error(`${id}: “${item.find}” found ${at.length} times`);
   // From the end, so earlier offsets stay put; code-point ranges in the text before the change, for aids.
