@@ -6,10 +6,11 @@ import {asSourced} from '../scripts/corpus.js';
 import {jsonFile,digest} from '../scripts/corpus-sources.js';
 import type {TextBook} from '../src/types.js';
 import {validateHistory} from '../src/validate.js';
+import {readHistory} from '../scripts/history-store.js';
 
 test('structure preserves every paragraph identity, version, text and heading, except recorded withdrawals',async()=>{
  const structure=await jsonFile<Structure>('corpus/structure.json');
- const history=await jsonFile<History>('src/history.json');
+ const history:History=readHistory();
  const tuples=(book:TextBook)=>book.chapters.flatMap(c=>c.paragraphs.map(p=>JSON.stringify([p.id,p.version,p.text]))).sort();
  for(const name of await readdir(new URL('../src/books/',import.meta.url))){
   if(!name.endsWith('.json'))continue;

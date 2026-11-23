@@ -15,6 +15,7 @@
  */
 import {readFileSync,writeFileSync} from 'node:fs';
 import {digest} from './corpus-sources.js';
+import {readHistory,writeHistory} from './history-store.js';
 import type {TextBook,Reference,Transition} from '../src/types.js';
 
 type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number; all?:boolean};
@@ -47,7 +48,7 @@ const today=new Date().toISOString().slice(0,10);
 const raw=new Map<string,string>();
 const read=(f:string)=>{const s=readFileSync(f,'utf8');raw.set(f,s);return JSON.parse(s);};
 const write=(f:string,data:unknown)=>{const s=raw.get(f)!;writeFileSync(f,JSON.stringify(data,null,/\n( +)/.exec(s)?.[1].length??2)+(s.endsWith('\n')?'\n':''));};
-const history:{records:Reference[];transitions:Transition[]}=read('src/history.json');
+const history:{records:Reference[];transitions:Transition[]}=readHistory();
 const aidFiles=['src/pinyin-aids.json','src/editorial-aids.json'];
 const aids:Record<string,Aid[]>=Object.fromEntries(aidFiles.map(f=>[f,read(f)]));
 const books=new Map<string,TextBook>();
@@ -134,7 +135,7 @@ for(const list of byParagraph.values()){
 }
 if(flag!=='--dry-run'){
  for(const [id,b] of books)write(`src/books/${id}.json`,b);
- write('src/history.json',history);
+ writeHistory(history);
  for(const [f,list] of Object.entries(aids))write(f,list);
 }
 console.log(`${byParagraph.size} paragraphs${flag==='--dry-run'?' (dry run)':''}`);

@@ -1,5 +1,6 @@
 import manifest from './manifest.json' with {type:'json'};
-import history from './history.json' with {type:'json'};
+import {volumes} from './history/index.js';
+import {mergeVolumes} from './history-volumes.js';
 import type { TextBook, Reference, Paragraph, Chapter, Transition } from './types.js';
 import works from './works.json' with {type:'json'};
 export {works};
@@ -25,9 +26,9 @@ export function findReference(book:TextBook,id:string):{chapter:Chapter;paragrap
   if(paragraph.id===id||alias) return {chapter,paragraph,ref:{id,version:alias?.version||paragraph.version,text:alias?alias.text:paragraph.text,title:`${book.metadata?.title||works.find(w=>w.id===book.id)?.title||book.id} · ${chapter.title}`,source:chapter.source,...(alias?{start:alias.start,end:alias.end}:{})}};
  }
 }
-// Reviewed transitions are explicit data. Empty means no published text has been replaced yet.
-export const transitions=history.transitions as Transition[];
-export const historicalReferences=history.records as Reference[];
+// Reviewed transitions are explicit data, merged from the history volumes. Empty means no published text has been replaced yet.
+export const transitions:Transition[]=/*#__PURE__*/mergeVolumes(volumes,'transitions');
+export const historicalReferences:Reference[]=/*#__PURE__*/mergeVolumes(volumes,'records');
 export function historicalReference(id:string,version?:string){return historicalReferences.find(r=>r.id===id&&(!version||r.version===version));}
 export function successors(ref:Pick<Reference,'id'|'version'>,changes:Transition[]=transitions){return changes.find(t=>t.from.id===ref.id&&t.from.version===ref.version);}
 

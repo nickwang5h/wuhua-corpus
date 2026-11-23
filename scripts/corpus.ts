@@ -7,6 +7,7 @@ import {validateBooks,validateHistory} from '../src/validate.js';
 import {applyStructure,retainWithdrawals,structureInput,restoreStructureInput,type Structure,type History} from './corpus-structure.js';
 import type {TextBook,Chapter} from '../src/types.js';
 import {ArchiveSource} from './corpus-archive.js';
+import {readHistory,writeHistory} from './history-store.js';
 import {applyMetadata,type EditorialMetadata} from './corpus-metadata.js';
 const adapters={...primaryAdapters,guopop:new ArchiveSource('guopop'),daizhige:new ArchiveSource('daizhige'),nk2028:new ArchiveSource('nk2028')};
 const frozen=new Set(['laozi','lunyu','zhuangzi']);
@@ -39,7 +40,7 @@ export async function checkCorpus(){
  const targets=await jsonFile<Target[]>('corpus/targets.json');
  const books:TextBook[]=[];
  const navigation=await jsonFile<any[]>('src/manifest.json');
- const history=await jsonFile<History>('src/history.json');
+ const history=readHistory();
  const structure=await jsonFile<Structure>('corpus/structure.json');
  const metadata=await jsonFile<EditorialMetadata>('corpus/metadata.json');
  for(const t of targets){let book:TextBook;try{book=await jsonFile<TextBook>(`src/books/${t.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code==='ENOENT')continue;throw e;}
@@ -83,14 +84,14 @@ async function build(target:Target,plan:Plan,override:Override){
  const source={...plan,normalizer:'wuhua-html-v1',...(structure[target.id]?{structureInput:structureInput(original,structure)}:{}),license:plan.provider==='zhwikisource'?{name:'Wikisource contributor terms; underlying work rights retained upstream',url:'https://zh.wikisource.org/wiki/Wikisource:版權信息',attribution:'中文維基文庫貢獻者'}:{name:plan.provider==='gujilab'?'CC0-1.0 (upstream dataset declaration)':'Unverified; upstream repository terms recorded for later review',url:plan.provider==='gujilab'?`https://github.com/gujilab/chinese-classical-corpus/blob/${plan.pages[0].revision}/LICENSE`:plan.pages[0].source,attribution:plan.provider},warnings:[...new Set(warnings)],normalizedSha256:digest(JSON.stringify(book)),stats};
  // Never silently revise previously ingested text: changed candidates remain in cache.
  let previous:TextBook|undefined;try{previous=await jsonFile<TextBook>(`src/books/${target.id}.json`);}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
- const history=await jsonFile<History>('src/history.json');
+ const history=readHistory();
  // Only an explicit structure edit may replace the exact pinned, unedited book.
  const updated=previous?applyMetadata(previous,metadata):undefined;
  const structuralUpdate=structure[target.id]?.length&&updated&&JSON.stringify(updated)===JSON.stringify(original);
  if(updated&&JSON.stringify(asSourced(updated,history.records))!==JSON.stringify(book)&&!structuralUpdate){await save(`.cache/wuhua-corpus/candidates/${target.id}.json`,book);throw new Error('Canonical changed; candidate saved. Explicit revision/history required.');}
  const retained=retainWithdrawals(history,withdrawn);
  validateHistory(withdrawn.records,withdrawn.transitions,book.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source}))));
- if(JSON.stringify(retained)!==JSON.stringify(history))await save('src/history.json',retained);
+ if(JSON.stringify(retained)!==JSON.stringify(history))writeHistory(retained);
  await save(`src/books/${target.id}.json`,updated&&!structuralUpdate?updated:book);await save(`sources/corpus/${target.id}.json`,source);
  return {id:target.id,title:target.title,priority:target.priority??'P1',status:'resolved',provider:plan.provider,...stats,warnings:source.warnings};
 }

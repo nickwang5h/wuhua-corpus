@@ -7,11 +7,15 @@ import {validateBooks,validateHistory,validateAids} from '../src/validate';
 import {convert} from './import-wikisource';
 import {applyMetadata,type EditorialMetadata} from './corpus-metadata';
 import {jsonFile} from './corpus-sources';
+import {checkSealed,readHistory} from './history-store';
 const books=await Promise.all(manifest.map(b=>readBook(b.id)));
 const metadata=await jsonFile<EditorialMetadata>('corpus/metadata.json');
 for(const book of books)if(JSON.stringify(applyMetadata(book,metadata))!==JSON.stringify(book))throw new Error(`Stale editorial metadata: ${book.id}`);
 for(const a of editorialAids){const p=books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs)).find(p=>p.id===a.target);if(!p||p.version!==a.version||a.review.textVersion!==p.version||!a.rights.author||!a.rights.license||!a.text||!Number.isInteger(a.start)||!Number.isInteger(a.end)||a.start!<0||a.end!<=a.start!||a.end!>Array.from(p.text).length)throw new Error(`Invalid editorial aid ${a.id}`);}
 validateBooks(books);validateAids([...editorialAids,...pinyinAids],books);
+// The package exports and the scripts read the same volumes; sealed ones stay as committed.
+checkSealed();
+if(JSON.stringify(readHistory())!==JSON.stringify({records:historicalReferences,transitions}))throw new Error('History volumes read differently by the package and the scripts');
 validateHistory(historicalReferences,transitions,books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));
 const snapshot=JSON.parse(await readFile(new URL('../sources/wikisource.json',import.meta.url),'utf8'));
 if(!snapshot.license||!snapshot.licenseUrl||!snapshot.attribution)throw new Error('Missing source rights');

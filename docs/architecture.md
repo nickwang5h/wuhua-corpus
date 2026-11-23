@@ -1,6 +1,6 @@
 # Corpus 契约
 
-`src/books/*.json` 是唯一现行 canonical 编辑源；`src/manifest.json` 由 catalog 命令派生。`sources/wikisource.json` 保存固定修订、贡献者与许可。`src/history.json` 保留旧引用和显式 revision/split/merge/withdrawn 映射；空历史不等于可以删除未来旧版本。
+`src/books/*.json` 是唯一现行 canonical 编辑源；`src/manifest.json` 由 catalog 命令派生。`sources/wikisource.json` 保存固定修订、贡献者与许可。`src/history/` 的各卷合起来保留旧引用和显式 revision/split/merge/withdrawn 映射（分卷规则见 development.md）；空历史不等于可以删除未来旧版本。
 
 `src/index.ts` 提供稳定引用解析与同站 release 加载器，`types.ts`、`validate.ts` 提供类型与数据验证。`pinyin-aids.json` 和 `editorial-aids.json` 有稳定 target/version/range、review 和 rights，保留在 Corpus；通过明确修订与新 release 分发，审核状态反映实际情况。
 

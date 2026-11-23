@@ -13,6 +13,7 @@ import {readFileSync,writeFileSync} from 'node:fs';
 import {applyStructure,retainWithdrawals,restoreStructureInput,structureInput,type Structure,type History,type StructureInput} from './corpus-structure.js';
 import {asSourced} from './corpus.js';
 import {digest} from './corpus-sources.js';
+import {readHistory,writeHistory} from './history-store.js';
 import type {TextBook} from '../src/types.js';
 
 const ids=process.argv.slice(2);
@@ -22,7 +23,7 @@ const raw=new Map<string,string>();
 const read=<T>(f:string):T=>{const s=readFileSync(f,'utf8');raw.set(f,s);return JSON.parse(s);};
 const write=(f:string,data:unknown)=>{const s=raw.get(f)!;writeFileSync(f,JSON.stringify(data,null,/\n( +)/.exec(s)?.[1].length??2)+(s.endsWith('\n')?'\n':''));};
 const structure=read<Structure>('corpus/structure.json');
-let history=read<History>('src/history.json');
+let history:History=readHistory();
 const results:[string,TextBook,unknown][]=[];
 for(const id of ids){
  const current=read<TextBook>(`src/books/${id}.json`);
@@ -46,4 +47,4 @@ for(const id of ids){
 }
 // Nothing is written until every book has gone through.
 for(const [id,book,source] of results){write(`src/books/${id}.json`,book);write(`sources/corpus/${id}.json`,source);}
-write('src/history.json',history);
+writeHistory(history);

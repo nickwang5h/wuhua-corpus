@@ -10,7 +10,7 @@ Corpus 远程为 `nickwang5h/wuhua-corpus`，主分支 `main`。它不部署业�
 npm run release
 ```
 
-该命令依次检查类型、内容、边界和测试，构建后生成 `releases/{release}/`，包含 books JSON、manifest、原图 assets、npm tarball 和记录 SHA-256 的 release.json。没有内容变化的文档清理不需要新 release。
+该命令依次检查类型、内容、边界和测试，把 `src/history/unreleased.json` 封存为本版的历史卷（见 development.md「历史分卷」，`src/history/` 的改动随发版提交），构建后生成 `releases/{release}/`，包含 books JSON、manifest、原图 assets、npm tarball 和记录 SHA-256 的 release.json。没有内容变化的文档清理不需要新 release。
 
 已分发目录和 tarball 不可覆盖。修复需要新版本。生成失败、尚未分发的临时候选可清理重做，但不得以此替换已被产品使用的版本。正文版本只因真实底文更正而变化，不随打包日期变化。
 
