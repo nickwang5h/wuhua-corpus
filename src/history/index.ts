@@ -2,5 +2,6 @@
 // `npm run history:seal` (part of `npm run release`) names unreleased.json after the release and adds it here.
 import type {HistoryVolume} from '../history-volumes.js';
 import v0001 from './0001.json' with {type:'json'};
+import v2026_11_23_corrections22 from './2026-11-23-corrections22.json' with {type:'json'};
 import vunreleased from './unreleased.json' with {type:'json'};
-export const volumes=[v0001,vunreleased] as unknown as HistoryVolume[];
+export const volumes=[v0001,v2026_11_23_corrections22,vunreleased] as unknown as HistoryVolume[];

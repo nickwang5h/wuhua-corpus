@@ -7,9 +7,9 @@
   "halfWidth": 11,
   "latin": 477,
   "kana": 2,
-  "innerSpace": 3620,
-  "unbalancedChapters": 570,
-  "unpunctuatedChapters": 38
+  "innerSpace": 3544,
+  "unbalancedChapters": 572,
+  "unpunctuatedChapters": 12
  },
  "books": [
   {
@@ -537,7 +537,7 @@
    "title": "嵇康集",
    "provider": "daizhige",
    "script": "简",
-   "characters": 35197,
+   "characters": 35046,
    "punctuationPer100": 18.7,
    "defects": {
     "privateUse": 0,
@@ -558,7 +558,7 @@
    "provider": "daizhige",
    "script": "简",
    "characters": 98776,
-   "punctuationPer100": 7.4,
+   "punctuationPer100": 8.8,
    "defects": {
     "privateUse": 0,
     "placeholder": 3,
@@ -568,7 +568,7 @@
     "latin": 0,
     "kana": 0,
     "innerSpace": 9,
-    "unbalancedChapters": 0,
+    "unbalancedChapters": 1,
     "unpunctuatedChapters": 0
    }
   },
@@ -737,8 +737,8 @@
    "title": "陸九淵集",
    "provider": "daizhige",
    "script": "简",
-   "characters": 207335,
-   "punctuationPer100": 0,
+   "characters": 207338,
+   "punctuationPer100": 16.6,
    "defects": {
     "privateUse": 0,
     "placeholder": 3,
@@ -747,9 +747,9 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 157,
+    "innerSpace": 133,
     "unbalancedChapters": 0,
-    "unpunctuatedChapters": 5
+    "unpunctuatedChapters": 0
    }
   },
   {
@@ -1098,7 +1098,7 @@
    "provider": "gujilab",
    "script": "简",
    "characters": 1061967,
-   "punctuationPer100": 16.9,
+   "punctuationPer100": 18.1,
    "defects": {
     "privateUse": 7,
     "placeholder": 19,
@@ -1107,9 +1107,9 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 738,
+    "innerSpace": 736,
     "unbalancedChapters": 0,
-    "unpunctuatedChapters": 2
+    "unpunctuatedChapters": 0
    }
   },
   {
@@ -1418,7 +1418,7 @@
    "provider": "daizhige",
    "script": "简",
    "characters": 676787,
-   "punctuationPer100": 11.3,
+   "punctuationPer100": 15.5,
    "defects": {
     "privateUse": 24,
     "placeholder": 1,
@@ -1427,9 +1427,9 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 401,
-    "unbalancedChapters": 0,
-    "unpunctuatedChapters": 2
+    "innerSpace": 351,
+    "unbalancedChapters": 1,
+    "unpunctuatedChapters": 0
    }
   },
   {
@@ -1777,8 +1777,8 @@
    "title": "中論",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 21080,
-   "punctuationPer100": 3.2,
+   "characters": 21082,
+   "punctuationPer100": 18.8,
    "defects": {
     "privateUse": 0,
     "placeholder": 1,
@@ -1789,7 +1789,7 @@
     "kana": 0,
     "innerSpace": 0,
     "unbalancedChapters": 0,
-    "unpunctuatedChapters": 17
+    "unpunctuatedChapters": 0
    }
   },
   {
