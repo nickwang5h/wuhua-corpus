@@ -3,9 +3,25 @@ import {spawnSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {join} from 'node:path';
 import {createHash} from 'node:crypto';
+import {readFileSync} from 'node:fs';
+import {tmpdir} from 'node:os';
 import {contentRelease,manifest} from '../src';
+import {mergeHistory,packagedVolume,type HistoryVolume} from '../src/history-volumes';
+import {readHistory,volumeNames} from './history-store';
 import {readBook} from './read-book';
 const root=fileURLToPath(new URL('../',import.meta.url));
+const LIMIT=70e6;
+// The archive's history must be the repository's, with no record text.
+async function checkPackagedHistory(archive:string){
+ const out=await mkdtemp(join(tmpdir(),'wuhua-corpus-history-'));
+ try {
+  const tar=spawnSync('tar',['-xzf',archive,'-C',out,'package/lib/src/history'],{encoding:'utf8'});
+  if(tar.status!==0)throw new Error(tar.stderr);
+  const volumes=volumeNames().map(name=>JSON.parse(readFileSync(join(out,'package/lib/src/history',`${name}.json`),'utf8')) as HistoryVolume);
+  if(volumes.some(volume=>volume.records.some(record=>'text' in record)))throw new Error(`${archive} carries the text of historical records`);
+  if(JSON.stringify(mergeHistory(volumes))!==JSON.stringify(packagedVolume(readHistory())))throw new Error(`${archive} carries a history that differs from src/history/`);
+ } finally {await rm(out,{recursive:true,force:true});}
+}
 const releases=join(root,'releases');await mkdir(releases,{recursive:true});
 const staging=await mkdtemp(join(releases,'.staging-'));
 try {
@@ -13,6 +29,9 @@ try {
  if(packed.status!==0)throw new Error(packed.stderr);
  const [{filename}]=JSON.parse(packed.stdout);
  const archive=await readFile(join(staging,filename));
+ // The sites commit this archive, and GitHub refuses files over 100 MB.
+ if(archive.length>LIMIT)throw new Error(`${filename} is ${(archive.length/1e6).toFixed(1)} MB, over the ${LIMIT/1e6} MB limit: see “历史分卷” in docs/development.md`);
+ await checkPackagedHistory(join(staging,filename));
  const sha256=createHash('sha256').update(archive).digest('hex');
  await mkdir(join(staging,'books'));
  await cp(join(root,'src/assets'),join(staging,'assets'),{recursive:true});

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {mkdtempSync,mkdirSync,readFileSync,writeFileSync,existsSync} from 'node:fs';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
-import {mergeHistory,mergeVolumes,type History,type HistoryVolume} from '../src/history-volumes.js';
+import {mergeHistory,mergeVolumes,packagedVolume,type History,type HistoryVolume} from '../src/history-volumes.js';
 import {indexSource,overlay,readHistory,sealHistory,volumeNames,writeHistory} from '../scripts/history-store.js';
 import {retainWithdrawals} from '../scripts/corpus-structure.js';
 import type {Reference,Transition} from '../src/types.js';
@@ -29,6 +29,16 @@ test('volumes merge in order: drops of earlier entries first, then additions',()
  assert.deepEqual(mergeHistory([base,next]),{records:[record('b','1'),record('c','1'),record('a','1')],transitions:[revision('b','1','2'),revision('c','1','2')]});
  assert.throws(()=>mergeVolumes([base,{records:[],transitions:[],drop:{records:[{id:'z',version:'1'}]}}],'records'),/drops records z@1/);
  assert.throws(()=>mergeVolumes([base,{records:[record('a','1')],transitions:[]}],'records'),/adds records a@1 twice/);
+});
+
+test('packaged volumes leave out record text only, and merge to the same history without it',()=>{
+ const base:HistoryVolume={records:[record('a','1'),record('b','1')],transitions:[revision('a','1','2'),revision('b','1','2')]};
+ const next:HistoryVolume={records:[record('c','1')],transitions:[revision('c','1','2')],drop:{records:[{id:'a',version:'1'}],transitions:[{id:'a',version:'1'}]}};
+ const packed=[base,next].map(packagedVolume);
+ assert.deepEqual(packed[0].records[0],{id:'a',version:'1',title:'篇',source:'https://zh.wikisource.org/?oldid=1'});
+ assert.deepEqual(packed[1].drop,next.drop);
+ assert.deepEqual(mergeHistory(packed as HistoryVolume[]),packagedVolume(mergeHistory([base,next])));
+ assert.equal(base.records[0].text,'a@1');
 });
 
 test('a correction only appends to the open volume',()=>{

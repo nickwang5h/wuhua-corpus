@@ -15,8 +15,9 @@ for(const a of editorialAids){const p=books.flatMap(b=>b.chapters.flatMap(c=>c.p
 validateBooks(books);validateAids([...editorialAids,...pinyinAids],books);
 // The package exports and the scripts read the same volumes; sealed ones stay as committed.
 checkSealed();
-if(JSON.stringify(readHistory())!==JSON.stringify({records:historicalReferences,transitions}))throw new Error('History volumes read differently by the package and the scripts');
-validateHistory(historicalReferences,transitions,books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));
+const history=readHistory();
+if(JSON.stringify(history)!==JSON.stringify({records:historicalReferences,transitions}))throw new Error('History volumes read differently by the package and the scripts');
+validateHistory(history.records,transitions,books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));
 const snapshot=JSON.parse(await readFile(new URL('../sources/wikisource.json',import.meta.url),'utf8'));
 if(!snapshot.license||!snapshot.licenseUrl||!snapshot.attribution)throw new Error('Missing source rights');
 const imported=convert(snapshot.pages);

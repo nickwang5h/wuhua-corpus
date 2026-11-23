@@ -17,6 +17,8 @@
 
 全部旧版本文字（records）和版本迁移（transitions）存在 `src/history/` 的几卷里，`src/history/index.ts` 按先后列出各卷；包导出的 `transitions`、`historicalReferences` 和脚本读到的，都是各卷依次合并的结果，与从前单个 `src/history.json` 的内容和顺序相同。
 
+发布包里的历史不带旧文字：`npm run build` 在 tsc 之后跑 `scripts/package-history.mjs`，把 `lib/src/history/` 各卷的 records 去掉 `text`（id、version、title、source 和全部 transitions 照留，`drop` 不变）。两个站只用迁移关系（哪个版本变成哪个、撤回了哪段），而旧文字压缩后约 30 MB，曾让站点提交的 tgz 逼近 GitHub 单文件 100 MB 的上限。所以包导出的 `historicalReferences` 类型是 `HistoricalReference`（`text` 可选），在包里 `text` 一律没有；要旧文字就在本仓库用 `scripts/history-store.ts` 的 `readHistory()`。仓库内的脚本和测试（`check:content`、`content:correct`、`content:structure`、`corpus:sync`、tests）读的是 `src/`，仍是全量历史；`validateHistory` 要核对拆分区间，须传全量 records。`scripts/release.ts` 打包后核对：tgz 不超过 70 MB，tgz 里的历史各卷没有一条记录带 `text`，且合并后与 `src/history/` 去掉文字后完全相同。超限时先看是不是历史文字又进了包，再看书本身是否大幅增加。
+
 - `0001.json`：2026-11-23 拆卷时的整份历史（到 2026-11-23-corrections21 为止，一百多 MB），由 Git LFS 保存，从此只读。拆卷是把原文件原样挪过来，LFS 对象没变。
 - `<release>.json`：每个 release 新增的部分，以 contentRelease 命名，发出后只读。小文件，普通 Git 保存。
 - `unreleased.json`：尚未发版的改动。`content:correct`、`content:structure`、`corpus:sync` 等读入合并后的历史，照旧追加或删去几条，写回时只改这一卷：里面是比已封存各卷多出的条目，以及要删去的旧条目的键（`drop`，记录按 `id@version`，迁移按出发的 `id@version`）。合并时每卷先删后加。

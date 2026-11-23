@@ -1,7 +1,7 @@
 import manifest from './manifest.json' with {type:'json'};
 import {volumes} from './history/index.js';
 import {mergeVolumes} from './history-volumes.js';
-import type { TextBook, Reference, Paragraph, Chapter, Transition } from './types.js';
+import type { TextBook, Reference, HistoricalReference, Paragraph, Chapter, Transition } from './types.js';
 import works from './works.json' with {type:'json'};
 export {works};
 import conceptData from './concepts.json' with {type:'json'};
@@ -28,7 +28,8 @@ export function findReference(book:TextBook,id:string):{chapter:Chapter;paragrap
 }
 // Reviewed transitions are explicit data, merged from the history volumes. Empty means no published text has been replaced yet.
 export const transitions:Transition[]=/*#__PURE__*/mergeVolumes(volumes,'transitions');
-export const historicalReferences:Reference[]=/*#__PURE__*/mergeVolumes(volumes,'records');
+// Retired versions, by id@version with title and source. Their text is in the repository only: the package leaves it out.
+export const historicalReferences:HistoricalReference[]=/*#__PURE__*/mergeVolumes(volumes,'records');
 export function historicalReference(id:string,version?:string){return historicalReferences.find(r=>r.id===id&&(!version||r.version===version));}
 export function successors(ref:Pick<Reference,'id'|'version'>,changes:Transition[]=transitions){return changes.find(t=>t.from.id===ref.id&&t.from.version===ref.version);}
 

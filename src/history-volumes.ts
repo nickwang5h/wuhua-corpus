@@ -36,3 +36,10 @@ export function mergeVolumes<K extends Kind>(volumes:HistoryVolume[],kind:K):Ent
 export function mergeHistory(volumes:HistoryVolume[]):History{
  return {records:mergeVolumes(volumes,'records'),transitions:mergeVolumes(volumes,'transitions')};
 }
+/**
+ * A volume as the package carries it: every transition, and every record without its text. The
+ * retired wording (over 100 MB) stays in the repository; the sites need only which version became which.
+ */
+export function packagedVolume(volume:HistoryVolume){
+ return {...volume,records:volume.records.map(({text:_,...record})=>record)};
+}
