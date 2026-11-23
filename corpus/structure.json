@@ -7303,5 +7303,42 @@
       "title": "本性篇第十三",
       "reason": "篇题“夲”是“本”的俗写，改通行字，便于按篇名检索"
     }
+  ],
+  "jikangji": [
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-jikangji-7bf9923b7af63dc1",
+      "paragraphs": [
+        "p-jikangji-7bf9923b7af63dc1-0067",
+        "p-jikangji-7bf9923b7af63dc1-0068"
+      ],
+      "reason": "《答二郭三首》下的 0067“归伊此往昔事……惄焉如调饥”、0068“离别自古有……敬徳在慎躯”是郭遐周赠诗的重出：0067 与 0064 第20–80字（“归伊此徃昔事”至“惄焉如调饥”，即第二首后半）逐字相同，只“徃/往”“湏/须”两处异写；0068 与 0064 第81–170字（“离别自古有”至“敬徳在慎躯”，即第三首）相同，只“懐/怀”“隠/隐”“説/说”“嵗/岁”“厯/歴”异写和“岂得更/岂更得”互倒。四库本卷01 原样有这两段；维基文库《嵇中散集 (四部叢刊本)》卷第一《答二郭三首》下没有，《古詩紀》卷二十八两段都在郭遐周《贈嵇康三首》里。撤下。"
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-jikangji-7bf9923b7af63dc1",
+      "after": "p-jikangji-7bf9923b7af63dc1-0025",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+      "paragraphs": [
+        {
+          "id": "p-jikangji-7bf9923b7af63dc1-a0001",
+          "text": "忧愤诗一首"
+        }
+      ],
+      "reason": "0025（秀才答诗第四首）段末混进下一篇题目“忧愤诗一首”（底本四库本把题目接在“终始不亏”后同一行）；四部叢刊本卷第一题目另行（作“幽憤詩一首”）。题目文字照底本取出，单列一段放在 0025 之后、0026《幽愤诗》正文之前；0025 段末的题目文字由订正清单同时删去。"
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-jikangji-7bf9923b7af63dc1",
+      "after": "p-jikangji-7bf9923b7af63dc1-0078",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+      "paragraphs": [
+        {
+          "id": "p-jikangji-7bf9923b7af63dc1-a0002",
+          "text": "酒会诗七首"
+        }
+      ],
+      "reason": "0078（阮德如答诗第二首）段末混进下一组诗题目“酒会诗七首”（底本四库本把题目接在“聊以酬来章”后同一行）；四部叢刊本卷第一目录“酒會詩七首”另列一题。题目文字照底本取出，单列一段放在 0078 之后、0079“乐哉苑中游”之前；0078 段末的题目文字由订正清单同时删去。"
+    }
   ]
 }

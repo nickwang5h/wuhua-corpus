@@ -41,7 +41,7 @@
     "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
     "attribution": "daizhige"
   },
-  "normalizedSha256": "a59640f56f4d16b2d6110bbe811264154b13175d5f6b5c864e3fa45bd1740806",
+  "normalizedSha256": "b5916a98c2ec4844b1a111ca4c387ca5c3f32975e1056a660b8f33c46f768762",
   "stats": {
     "chapters": 11,
     "paragraphs": 129,
@@ -50,5 +50,187 @@
     "images": 0,
     "imageChapters": 0
   },
-  "variantVolumeHeadings": true
+  "variantVolumeHeadings": true,
+  "structureInput": {
+    "sha256": "a59640f56f4d16b2d6110bbe811264154b13175d5f6b5c864e3fa45bd1740806",
+    "chapters": [
+      {
+        "id": "chapter-jikangji-1028c63bfd95426f",
+        "number": 1,
+        "title": "提要",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-7bf9923b7af63dc1",
+        "number": 2,
+        "title": "嵇中散集巻一",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter",
+        "removed": [
+          {
+            "id": "p-jikangji-7bf9923b7af63dc1-0067",
+            "version": "sha256:5490baa14875b96cbd9117c8a386f310c7eb6caab0190e40f51a54bc34afb0dd",
+            "aliases": []
+          },
+          {
+            "id": "p-jikangji-7bf9923b7af63dc1-0068",
+            "version": "sha256:637d400deb90bd52976bdcbedc75c340897278b15100345205ac9b7974f35a51",
+            "aliases": []
+          }
+        ],
+        "order": [
+          "p-jikangji-7bf9923b7af63dc1-0001",
+          "p-jikangji-7bf9923b7af63dc1-0002",
+          "p-jikangji-7bf9923b7af63dc1-0003",
+          "p-jikangji-7bf9923b7af63dc1-0004",
+          "p-jikangji-7bf9923b7af63dc1-0005",
+          "p-jikangji-7bf9923b7af63dc1-0006",
+          "p-jikangji-7bf9923b7af63dc1-0007",
+          "p-jikangji-7bf9923b7af63dc1-0008",
+          "p-jikangji-7bf9923b7af63dc1-0009",
+          "p-jikangji-7bf9923b7af63dc1-0010",
+          "p-jikangji-7bf9923b7af63dc1-0011",
+          "p-jikangji-7bf9923b7af63dc1-0012",
+          "p-jikangji-7bf9923b7af63dc1-0013",
+          "p-jikangji-7bf9923b7af63dc1-0014",
+          "p-jikangji-7bf9923b7af63dc1-0015",
+          "p-jikangji-7bf9923b7af63dc1-0016",
+          "p-jikangji-7bf9923b7af63dc1-0017",
+          "p-jikangji-7bf9923b7af63dc1-0018",
+          "p-jikangji-7bf9923b7af63dc1-0019",
+          "p-jikangji-7bf9923b7af63dc1-0020",
+          "p-jikangji-7bf9923b7af63dc1-0021",
+          "p-jikangji-7bf9923b7af63dc1-0022",
+          "p-jikangji-7bf9923b7af63dc1-0023",
+          "p-jikangji-7bf9923b7af63dc1-0024",
+          "p-jikangji-7bf9923b7af63dc1-0025",
+          "p-jikangji-7bf9923b7af63dc1-0026",
+          "p-jikangji-7bf9923b7af63dc1-0027",
+          "p-jikangji-7bf9923b7af63dc1-0028",
+          "p-jikangji-7bf9923b7af63dc1-0029",
+          "p-jikangji-7bf9923b7af63dc1-0030",
+          "p-jikangji-7bf9923b7af63dc1-0031",
+          "p-jikangji-7bf9923b7af63dc1-0032",
+          "p-jikangji-7bf9923b7af63dc1-0033",
+          "p-jikangji-7bf9923b7af63dc1-0034",
+          "p-jikangji-7bf9923b7af63dc1-0035",
+          "p-jikangji-7bf9923b7af63dc1-0036",
+          "p-jikangji-7bf9923b7af63dc1-0037",
+          "p-jikangji-7bf9923b7af63dc1-0038",
+          "p-jikangji-7bf9923b7af63dc1-0039",
+          "p-jikangji-7bf9923b7af63dc1-0040",
+          "p-jikangji-7bf9923b7af63dc1-0041",
+          "p-jikangji-7bf9923b7af63dc1-0042",
+          "p-jikangji-7bf9923b7af63dc1-0043",
+          "p-jikangji-7bf9923b7af63dc1-0044",
+          "p-jikangji-7bf9923b7af63dc1-0045",
+          "p-jikangji-7bf9923b7af63dc1-0046",
+          "p-jikangji-7bf9923b7af63dc1-0047",
+          "p-jikangji-7bf9923b7af63dc1-0048",
+          "p-jikangji-7bf9923b7af63dc1-0049",
+          "p-jikangji-7bf9923b7af63dc1-0050",
+          "p-jikangji-7bf9923b7af63dc1-0051",
+          "p-jikangji-7bf9923b7af63dc1-0052",
+          "p-jikangji-7bf9923b7af63dc1-0053",
+          "p-jikangji-7bf9923b7af63dc1-0054",
+          "p-jikangji-7bf9923b7af63dc1-0055",
+          "p-jikangji-7bf9923b7af63dc1-0056",
+          "p-jikangji-7bf9923b7af63dc1-0057",
+          "p-jikangji-7bf9923b7af63dc1-0058",
+          "p-jikangji-7bf9923b7af63dc1-0059",
+          "p-jikangji-7bf9923b7af63dc1-0060",
+          "p-jikangji-7bf9923b7af63dc1-0061",
+          "p-jikangji-7bf9923b7af63dc1-0062",
+          "p-jikangji-7bf9923b7af63dc1-0063",
+          "p-jikangji-7bf9923b7af63dc1-0064",
+          "p-jikangji-7bf9923b7af63dc1-0065",
+          "p-jikangji-7bf9923b7af63dc1-0066",
+          "p-jikangji-7bf9923b7af63dc1-0067",
+          "p-jikangji-7bf9923b7af63dc1-0068",
+          "p-jikangji-7bf9923b7af63dc1-0069",
+          "p-jikangji-7bf9923b7af63dc1-0070",
+          "p-jikangji-7bf9923b7af63dc1-0071",
+          "p-jikangji-7bf9923b7af63dc1-0072",
+          "p-jikangji-7bf9923b7af63dc1-0073",
+          "p-jikangji-7bf9923b7af63dc1-0074",
+          "p-jikangji-7bf9923b7af63dc1-0075",
+          "p-jikangji-7bf9923b7af63dc1-0076",
+          "p-jikangji-7bf9923b7af63dc1-0077",
+          "p-jikangji-7bf9923b7af63dc1-0078",
+          "p-jikangji-7bf9923b7af63dc1-0079",
+          "p-jikangji-7bf9923b7af63dc1-0080",
+          "p-jikangji-7bf9923b7af63dc1-0081",
+          "p-jikangji-7bf9923b7af63dc1-0082",
+          "p-jikangji-7bf9923b7af63dc1-0083",
+          "p-jikangji-7bf9923b7af63dc1-0084",
+          "p-jikangji-7bf9923b7af63dc1-0085",
+          "p-jikangji-7bf9923b7af63dc1-0086"
+        ]
+      },
+      {
+        "id": "chapter-jikangji-89c7ee0df6465473",
+        "number": 3,
+        "title": "嵇中散集巻二",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-9427003c533890c5",
+        "number": 4,
+        "title": "嵇中散集巻三",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-74ea71706f441142",
+        "number": 5,
+        "title": "嵇中散集巻四",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-de61c6bf3fdd51e9",
+        "number": 6,
+        "title": "嵇中散集巻五",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-b090dde914f8ed5b",
+        "number": 7,
+        "title": "嵇中散集巻六",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-736c5eb8b722900e",
+        "number": 8,
+        "title": "嵇中散集巻七",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-ad4af07e9dad9172",
+        "number": 9,
+        "title": "嵇中散集巻八",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-dea98ae623b6824b",
+        "number": 10,
+        "title": "嵇中散集巻九",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-jikangji-4273fba7dead2fe4",
+        "number": 11,
+        "title": "嵇中散集巻十",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%B5%87%E4%B8%AD%E6%95%A3%E9%9B%86.txt",
+        "kind": "chapter"
+      }
+    ]
+  }
 }
