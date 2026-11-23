@@ -21429,7 +21429,7 @@
                 "start": 16,
                 "end": 17,
                 "text": "食",
-                "pinyin": "shí"
+                "pinyin": "sì"
             },
             {
                 "start": 17,
@@ -21621,7 +21621,7 @@
                 "start": 62,
                 "end": 63,
                 "text": "予",
-                "pinyin": "yǔ"
+                "pinyin": "yú"
             },
             {
                 "start": 63,
@@ -21861,7 +21861,7 @@
             "author": "Claude (AI)",
             "license": "unreleased editorial draft",
             "source": "https://raw.githubusercontent.com/gujilab/chinese-classical-corpus/09a6873e46760f20027e20bf48814f5c5cc05d66/output/wujing/liji.json",
-            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+            "note": "Readings checked by Claude (AI) in sentence context for Learn quotations, October 2026 finishing round. Corrected from the generator: 替天行道 xíng; 只欠/只教 zhǐ; 攪得 de; 为食 wéi; 曾子 zēng; 微与 yú (as 欤); 捨不得 shě bu de; 弗为 wéi; 几席 jī; 聪明 míng in the song; 釘鈀 pá. Modern Mandarin reading aid, not a reconstruction; AI-checked draft, no human review. Corrected 2026-11-23 after a content check: 而食之 sì (to feed them; 食 elsewhere in the passage stays shí) and 予唯不食 yú (the pronoun I), as in 起予者商也.\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
         }
     },
     {
