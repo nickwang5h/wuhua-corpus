@@ -1,6 +1,6 @@
 {
  "total": {
-  "privateUse": 193,
+  "privateUse": 189,
   "placeholder": 213,
   "composite": 91,
   "sourceTag": 423,
@@ -737,7 +737,7 @@
    "title": "陸九淵集",
    "provider": "daizhige",
    "script": "简",
-   "characters": 207338,
+   "characters": 207778,
    "punctuationPer100": 16.6,
    "defects": {
     "privateUse": 0,
@@ -1097,7 +1097,7 @@
    "title": "史記",
    "provider": "gujilab",
    "script": "简",
-   "characters": 1061967,
+   "characters": 1061971,
    "punctuationPer100": 18.1,
    "defects": {
     "privateUse": 7,
@@ -1417,10 +1417,10 @@
    "title": "王文成公全書",
    "provider": "daizhige",
    "script": "简",
-   "characters": 676787,
+   "characters": 676791,
    "punctuationPer100": 15.5,
    "defects": {
-    "privateUse": 24,
+    "privateUse": 20,
     "placeholder": 1,
     "composite": 0,
     "sourceTag": 0,
