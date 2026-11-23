@@ -3191,9 +3191,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-11145f7d31f0c174-0001",
-          "version": "sha256:46b9bdb188811381bcba08dbf6a80b090f8681ac5a1a214f1ddaf592cbac778c",
-          "text": "王鳯姐弄權鐵寺鏡，秦鯨卿得趣饅頭庵。",
-          "aliases": []
+          "version": "sha256:965da9611d548a4c51c89fe39f36f7f1c0bc66d8596b6754ce486ab1ed7ac8c9",
+          "text": "王鳯姐弄權鐵檻寺，秦鯨卿得趣饅頭庵。",
+          "aliases": [],
+          "sourceText": "王鳯姐弄權鐵寺鏡，秦鯨卿得趣饅頭庵。",
+          "correction": {
+            "reason": "（同类，单列）回目“鐵寺鏡”作“鐵檻寺”：程甲本第3冊第58頁回首原刻作“鐵寺鏡”（录文已校作“檻寺”），目錄与本书目錄、本回正文皆作“鐵檻寺”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:965da9611d548a4c51c89fe39f36f7f1c0bc66d8596b6754ce486ab1ed7ac8c9"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-11145f7d31f0c174-0002",
@@ -3945,9 +3956,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-bd45944feb756d5f-0001",
-          "version": "sha256:a4f2cce8e8f114421046e6f674284950cbf3129d364dcc161facd48e1e3b78da",
-          "text": "聴曲交寳玉悟禪機，製燈謎賈政悲䜟語。",
-          "aliases": []
+          "version": "sha256:f67a494a8b636df563ac9ba5f6e55c8299f995814cbc1e2067747bef3893b206",
+          "text": "聴曲文寳玉悟禪機，製燈謎賈政悲䜟語。",
+          "aliases": [],
+          "sourceText": "聴曲交寳玉悟禪機，製燈謎賈政悲䜟語。",
+          "correction": {
+            "reason": "（同类，单列）回目“曲交”作“曲文”：程甲本回首“𦗟曲文寳玉悟禪機”、目錄与本书目錄皆作“曲文”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f67a494a8b636df563ac9ba5f6e55c8299f995814cbc1e2067747bef3893b206"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-bd45944feb756d5f-0002",
@@ -4539,9 +4561,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-50aa62e2e8ca23a3-0001",
-          "version": "sha256:65ffeab7339c8ba795077d80b0f92862196ad72c7e5e5a6e08cab9a4b136ef91",
-          "text": "魇魔法叔嫂逢五鬼，通靈玉䝉蔽遇雙眞。",
-          "aliases": []
+          "version": "sha256:7541e19e3e67f1dcf271120f768980dca80bad308e8b6b5384bc62d46fa4851e",
+          "text": "魘魔法叔嫂逢五鬼，通靈玉䝉蔽遇雙眞。",
+          "aliases": [],
+          "sourceText": "魇魔法叔嫂逢五鬼，通靈玉䝉蔽遇雙眞。",
+          "correction": {
+            "reason": "回目“魇”恢复繁体“魘”：程甲本第5冊第50頁回首、第1冊目錄、本书目錄皆作“魘魔法”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:7541e19e3e67f1dcf271120f768980dca80bad308e8b6b5384bc62d46fa4851e"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-50aa62e2e8ca23a3-0002",
@@ -5393,9 +5426,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-49ed6f9336701b3b-0001",
-          "version": "sha256:91844a08a01cc20e46b4b497ce90e6d80535ca010eaed84ccc338c6c7ed7b015",
-          "text": "白玉釧親嚐蓮葉𡙡，黃金驚巧結梅花絡。",
-          "aliases": []
+          "version": "sha256:9bc0a805eb2363553557d58fc5116421b88231076c2dda560f1cda3b6efc0a78",
+          "text": "白玉釧親嚐蓮葉𡙡，黃金鶯巧結梅花絡。",
+          "aliases": [],
+          "sourceText": "白玉釧親嚐蓮葉𡙡，黃金驚巧結梅花絡。",
+          "correction": {
+            "reason": "（同类，单列）回目“黃金驚”作“黃金鶯”：程甲本回首、目錄与本书目錄皆作“黃金鶯巧結梅花絡”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:9bc0a805eb2363553557d58fc5116421b88231076c2dda560f1cda3b6efc0a78"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-49ed6f9336701b3b-0002",
@@ -6164,9 +6208,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-fd3febf13ed09456-0001",
-          "version": "sha256:27147478f992cf144f0af3933ced9b7b9af4e8146831ac42382e3b683b843a18",
-          "text": "史太君两宴大观園，金鸳鸯三宣牙牌令",
-          "aliases": []
+          "version": "sha256:50c5ae205b423018a7dd074296dc8149f403f544fa4a85f0a6cf251ce1643665",
+          "text": "史太君兩宴大觀園，金鴛鴦三宣牙牌令。",
+          "aliases": [],
+          "sourceText": "史太君两宴大观園，金鸳鸯三宣牙牌令",
+          "correction": {
+            "reason": "回目简体“两、观、鸳鸯”恢复繁体，补句末句号：程甲本第8冊第54頁回首、目錄与本书目錄皆作“史太君兩宴大觀園　金鴛鴦三宣牙牌令”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:50c5ae205b423018a7dd074296dc8149f403f544fa4a85f0a6cf251ce1643665"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-fd3febf13ed09456-0002",
@@ -6283,9 +6338,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-7c5f91f561fd415b-0001",
-          "version": "sha256:fab9b991932b6b82623940df1e56c62154b28f43cf6ad6de55e53f615283e7b8",
-          "text": "閒取樂偶攅金慶籌 不了情暫撮土爲香",
-          "aliases": []
+          "version": "sha256:9423b4f58791963f9965cfd4af8dc42031d61a3e7cd5f4766bb9768dfbcaa8b4",
+          "text": "閒取樂偶攅金慶壽，不了情暫撮土爲香",
+          "aliases": [],
+          "sourceText": "閒取樂偶攅金慶籌 不了情暫撮土爲香",
+          "correction": {
+            "reason": "（同类，单列）回目“慶籌”作“慶壽”，并把两句间空格改作逗号：程甲本回首、目錄与本书目錄皆作“閒取樂偶攅金慶壽”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:9423b4f58791963f9965cfd4af8dc42031d61a3e7cd5f4766bb9768dfbcaa8b4"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-7c5f91f561fd415b-0002",
@@ -7755,18 +7821,18 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-9a2b0ba8b4699c8c-0001",
-          "version": "sha256:9267ddf1a1112ce9797bc21b16e060dd9b3a415c64646637f24bf4b68a8ad2cb",
-          "text": "薛小妹新編懷古詩实，胡庸醫亂用虎狼藥。",
+          "version": "sha256:0708c1b88d90e8ce96f40a750a67c06bf3d64f1d3668b2d058151d01799ac12f",
+          "text": "薛小妹新編懷古詩，胡庸醫亂用虎狼藥。",
           "aliases": [],
           "sourceText": "薛小妹新編懷古詩实，胡庸醫亂用虎狼樂。",
           "correction": {
-            "reason": "第五十一回回目：底本“胡庸醫亂用虎狼樂”，“樂”当作“藥”。维基文库《紅樓夢》回目作“胡庸醫亂用虎狼藥”。",
+            "reason": "第五十一回回目：底本“胡庸醫亂用虎狼樂”，“樂”当作“藥”。维基文库《紅樓夢》回目作“胡庸醫亂用虎狼藥”。；回目衍“实”：程甲本第11冊第2頁回首、目錄与本书目錄皆作“薛小妹新編懷古詩”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:9267ddf1a1112ce9797bc21b16e060dd9b3a415c64646637f24bf4b68a8ad2cb"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:0708c1b88d90e8ce96f40a750a67c06bf3d64f1d3668b2d058151d01799ac12f"
             }
           }
         },
@@ -8039,9 +8105,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-cdcc6d4002522e4c-0001",
-          "version": "sha256:d3fcac2947c7fee22ee567bca9469e69ed42c390f158ed6620e97dcdb70d6ee1",
-          "text": "俏平兒情掩虾鬚鐲，勇晴雯病補雀毛裘。",
-          "aliases": []
+          "version": "sha256:d01dcadeaa1c225628b60d3de5ebc19e31ec0efcd6af1fc9e89e5d8fb56ecddf",
+          "text": "俏平兒情掩蝦鬚鐲，勇晴雯病補雀毛裘。",
+          "aliases": [],
+          "sourceText": "俏平兒情掩虾鬚鐲，勇晴雯病補雀毛裘。",
+          "correction": {
+            "reason": "回目“虾”恢复繁体“蝦”：程甲本第11冊第15頁回首、目錄与本书目錄皆作“蝦鬚鐲”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d01dcadeaa1c225628b60d3de5ebc19e31ec0efcd6af1fc9e89e5d8fb56ecddf"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-cdcc6d4002522e4c-0002",
@@ -8973,9 +9050,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-2d31943be4b56fbf-0001",
-          "version": "sha256:e1bd6a347052e46e53c067f4b9e80bcc28488b67c33e6a200be13786e0e3f023",
-          "text": "情小妹耻情歸，二郎一冷入空門。",
-          "aliases": []
+          "version": "sha256:ed86e79f4712cf71ff88eab9a99e17e9fd0376265cf78c22383e3c4806b69df2",
+          "text": "情小妹耻情歸地府，冷二郎一冷入空門。",
+          "aliases": [],
+          "sourceText": "情小妹耻情歸，二郎一冷入空門。",
+          "correction": {
+            "reason": "（同类，单列）回目脱“地府”“冷”三字：程甲本第14冊第15頁回首、目錄与本书目錄皆作“情小妹耻情歸地府　冷二郎一冷入空門”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:ed86e79f4712cf71ff88eab9a99e17e9fd0376265cf78c22383e3c4806b69df2"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-2d31943be4b56fbf-0002",
@@ -9495,9 +9583,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-cb89bc4ae66c2a7e-0001",
-          "version": "sha256:7a2bb553b6c3ab6017cb2278190f3f7b8b1d87369762f53f3f4223f3f694287c",
-          "text": "痴丫頭悞捨綉春囊，懦小姐不問纍金鳳",
-          "aliases": []
+          "version": "sha256:cb299a0d414ab1311f701d51bc82f40cb21effdc5dd78d971f897d60a93e8d59",
+          "text": "痴丫頭悞拾綉春囊，懦小姐不問纍金鳳",
+          "aliases": [],
+          "sourceText": "痴丫頭悞捨綉春囊，懦小姐不問纍金鳳",
+          "correction": {
+            "reason": "（同类，单列）回目“悞捨”作“悞拾”：程甲本回首、目錄与本书目錄皆作“拾”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:cb299a0d414ab1311f701d51bc82f40cb21effdc5dd78d971f897d60a93e8d59"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-cb89bc4ae66c2a7e-0002",
@@ -10951,9 +11050,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-ef9443aa792dde60-0001",
-          "version": "sha256:e78fc3e945cad65fecd6189c4f3c9df6b28fd6584d3a97baed8c878701dd620b",
-          "text": "感秋深撫琴悲往事，坐觀寂走火入邪魔。",
-          "aliases": []
+          "version": "sha256:4be99c405b345ec9cbcd8744dc3929c6c3b01f1ec16227102922956559edef7c",
+          "text": "感秋深撫琴悲往事，坐禪寂走火入邪魔。",
+          "aliases": [],
+          "sourceText": "感秋深撫琴悲往事，坐觀寂走火入邪魔。",
+          "correction": {
+            "reason": "（同类，单列）回目“坐觀寂”作“坐禪寂”：程甲本回首、目錄与本书目錄皆作“坐禪寂走火入邪魔”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4be99c405b345ec9cbcd8744dc3929c6c3b01f1ec16227102922956559edef7c"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-ef9443aa792dde60-0002",
@@ -11633,9 +11743,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-77220f7f28670608-0001",
-          "version": "sha256:f17405710e2f167f684ea3599f7e34a3e0216b083c8d07238203b4498dff98ad",
-          "text": "瞞消息鳳姐設竒謀，洩機闕顰兒迷本性。",
-          "aliases": []
+          "version": "sha256:54646d6a056a192fb79f21e440383ea441395142e81de56c531647650b78f0f4",
+          "text": "瞞消息鳳姐設竒謀，洩機關顰兒迷本性。",
+          "aliases": [],
+          "sourceText": "瞞消息鳳姐設竒謀，洩機闕顰兒迷本性。",
+          "correction": {
+            "reason": "（同类，单列）回目“機闕”作“機關”：程甲本回首、目錄与本书目錄皆作“洩機關顰兒迷本性”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:54646d6a056a192fb79f21e440383ea441395142e81de56c531647650b78f0f4"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-77220f7f28670608-0002",
@@ -12483,9 +12604,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-17020bed07806991-0001",
-          "version": "sha256:5af46968791036cd3924dd6153388164b18f0a712f3b31c4a3e684d374acf333",
-          "text": "阻超凡隹人雙䕶玉，欣聚黨惡子獨承家。",
-          "aliases": []
+          "version": "sha256:a45d40df51a02331b86b87587902dc6c2dbf1d3edbf194cf17ff72a2990480ee",
+          "text": "阻超凡佳人雙䕶玉，欣聚黨惡子獨承家。",
+          "aliases": [],
+          "sourceText": "阻超凡隹人雙䕶玉，欣聚黨惡子獨承家。",
+          "correction": {
+            "reason": "（同类，单列）回目“隹人”作“佳人”：程甲本回首、目錄与本书目錄皆作“佳人”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:a45d40df51a02331b86b87587902dc6c2dbf1d3edbf194cf17ff72a2990480ee"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-17020bed07806991-0002",
