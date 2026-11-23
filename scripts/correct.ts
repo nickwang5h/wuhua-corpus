@@ -9,8 +9,9 @@
  * ID; its first sourceText is kept, its version moves on (sha256 of the text, or
  * the next number for the three hand-imported books), the old version goes into
  * history with a revision transition, and pinyin or editorial aids on the old
- * version follow it when the change lies outside their range, or move with their
- * characters when the change touches only punctuation.
+ * version follow it when the change lies outside their range (moving with their
+ * characters when text is added or removed before them), or when the change touches only
+ * punctuation.
  */
 import {readFileSync,writeFileSync} from 'node:fs';
 import {digest} from './corpus-sources.js';
@@ -67,6 +68,7 @@ for(const list of byParagraph.values()){
  const oldText=p.text,oldVersion=p.version;
  let text=oldText;
  const changed:[number,number][]=[];
+ let place=Array.from(oldText,(_,i)=>i);
  for(const item of list){
   const at:number[]=[];
   for(let i=text.indexOf(item.find);i>=0;i=text.indexOf(item.find,i+1))at.push(i);
@@ -74,8 +76,16 @@ for(const list of byParagraph.values()){
   if(!indexes.length||indexes.some(i=>i<0))throw new Error(`${id}: “${item.find}” found ${at.length} times`);
   // From the end, so earlier offsets stay put; code-point ranges in the text before the change, for aids.
   for(const index of [...indexes].reverse()){
-   const start=Array.from(text.slice(0,index)).length;
-   changed.push([start,start+Array.from(item.find).length]);
+   // The find carries context to be unique; only what differs from the replacement is changed.
+   const was=Array.from(item.find),now=Array.from(item.replace);
+   let head=0,tail=0;
+   while(head<was.length&&head<now.length&&was[head]===now[head])head++;
+   while(tail<was.length-head&&tail<now.length-head&&was[was.length-1-tail]===now[now.length-1-tail])tail++;
+   const start=Array.from(text.slice(0,index)).length+head;
+   const found=was.length-head-tail,put=now.length-head-tail;
+   changed.push([start,start+found]);
+   // Where each code point of the old text stands now: gone inside the replaced run, moved after it.
+   place=place.map(at=>at<0||at<start?at:at<start+found?-1:at+put-found);
    text=text.slice(0,index)+item.replace+text.slice(index+item.find.length);
   }
  }
@@ -90,7 +100,16 @@ for(const list of byParagraph.values()){
    // Only punctuation changed: every other character keeps its order, so ranges move with it.
    if(aid.start!==undefined&&aid.end!==undefined)[aid.start,aid.end]=moved(shift,aid.start,aid.end);
    for(const t of aid.tokens??[])[t.start,t.end]=moved(shift,t.start,t.end);
-  }else if(changed.some(([a,z])=>a<e&&z>s)||Array.from(text).length!==Array.from(oldText).length)throw new Error(`${id}: an aid in ${f} covers the change; edit it by hand`);
+  }else{
+   // The aid's characters must all survive, still side by side; then it moves with them.
+   const kept=place.slice(s,e);
+   if(!kept.length||kept.some((at,k)=>at<0||at!==kept[0]+k))throw new Error(`${id}: an aid in ${f} covers the change; edit it by hand`);
+   const by=kept[0]-s;
+   if(by){
+    if(aid.start!==undefined&&aid.end!==undefined){aid.start+=by;aid.end+=by;}
+    for(const t of aid.tokens??[]){t.start+=by;t.end+=by;}
+   }
+  }
   aid.version=version;
   if(aid.review?.textVersion===oldVersion)aid.review.textVersion=version;
  }

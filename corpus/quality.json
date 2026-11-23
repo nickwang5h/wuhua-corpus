@@ -1,14 +1,14 @@
 {
  "total": {
-  "privateUse": 236,
-  "placeholder": 240,
-  "composite": 94,
+  "privateUse": 231,
+  "placeholder": 238,
+  "composite": 91,
   "sourceTag": 423,
   "halfWidth": 11,
-  "latin": 480,
+  "latin": 477,
   "kana": 2,
-  "innerSpace": 4297,
-  "unbalancedChapters": 572,
+  "innerSpace": 3641,
+  "unbalancedChapters": 571,
   "unpunctuatedChapters": 58
  },
  "books": [
@@ -117,7 +117,7 @@
    "title": "大同書",
    "provider": "daizhige",
    "script": "简",
-   "characters": 161762,
+   "characters": 161764,
    "punctuationPer100": 16.9,
    "defects": {
     "privateUse": 0,
@@ -277,12 +277,12 @@
    "title": "龔自珍集",
    "provider": "daizhige",
    "script": "简",
-   "characters": 114846,
+   "characters": 114866,
    "punctuationPer100": 18.2,
    "defects": {
-    "privateUse": 22,
+    "privateUse": 20,
     "placeholder": 21,
-    "composite": 8,
+    "composite": 5,
     "sourceTag": 0,
     "halfWidth": 1,
     "latin": 9,
@@ -397,7 +397,7 @@
    "title": "韓非子",
    "provider": "guopop",
    "script": "繁",
-   "characters": 107862,
+   "characters": 107863,
    "punctuationPer100": 18.6,
    "defects": {
     "privateUse": 0,
@@ -677,7 +677,7 @@
    "title": "柳河東集",
    "provider": "guopop",
    "script": "繁",
-   "characters": 217206,
+   "characters": 217207,
    "punctuationPer100": 19.1,
    "defects": {
     "privateUse": 0,
@@ -717,10 +717,10 @@
    "title": "欒城集",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 308044,
+   "characters": 308052,
    "punctuationPer100": 17.7,
    "defects": {
-    "privateUse": 3,
+    "privateUse": 1,
     "placeholder": 3,
     "composite": 5,
     "sourceTag": 0,
@@ -877,7 +877,7 @@
    "title": "墨子",
    "provider": "guopop",
    "script": "繁",
-   "characters": 76183,
+   "characters": 76187,
    "punctuationPer100": 19.9,
    "defects": {
     "privateUse": 0,
@@ -917,17 +917,17 @@
    "title": "歐陽文忠公集",
    "provider": "guopop",
    "script": "繁",
-   "characters": 827533,
+   "characters": 827560,
    "punctuationPer100": 17,
    "defects": {
     "privateUse": 1,
-    "placeholder": 36,
+    "placeholder": 34,
     "composite": 0,
     "sourceTag": 0,
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 339,
+    "innerSpace": 309,
     "unbalancedChapters": 39,
     "unpunctuatedChapters": 3
    }
@@ -1017,8 +1017,8 @@
    "title": "三國演義",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 495339,
-   "punctuationPer100": 18.4,
+   "characters": 494105,
+   "punctuationPer100": 18.5,
    "defects": {
     "privateUse": 0,
     "placeholder": 0,
@@ -1027,7 +1027,7 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 125,
+    "innerSpace": 4,
     "unbalancedChapters": 10,
     "unpunctuatedChapters": 0
    }
@@ -1157,10 +1157,10 @@
    "title": "水滸傳",
    "provider": "daizhige",
    "script": "简",
-   "characters": 776942,
+   "characters": 776957,
    "punctuationPer100": 16,
    "defects": {
-    "privateUse": 24,
+    "privateUse": 23,
     "placeholder": 0,
     "composite": 0,
     "sourceTag": 0,
@@ -1168,7 +1168,7 @@
     "latin": 0,
     "kana": 0,
     "innerSpace": 260,
-    "unbalancedChapters": 44,
+    "unbalancedChapters": 43,
     "unpunctuatedChapters": 0
    }
   },
@@ -1257,7 +1257,7 @@
    "title": "東坡全集",
    "provider": "guopop",
    "script": "繁",
-   "characters": 247415,
+   "characters": 247414,
    "punctuationPer100": 16.9,
    "defects": {
     "privateUse": 0,
@@ -1377,7 +1377,7 @@
    "title": "臨川文集",
    "provider": "guopop",
    "script": "繁",
-   "characters": 432732,
+   "characters": 432738,
    "punctuationPer100": 15.8,
    "defects": {
     "privateUse": 0,
@@ -1387,7 +1387,7 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 508,
+    "innerSpace": 7,
     "unbalancedChapters": 18,
     "unpunctuatedChapters": 2
    }
@@ -1557,7 +1557,7 @@
    "title": "西遊記",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 593227,
+   "characters": 593197,
    "punctuationPer100": 17.5,
    "defects": {
     "privateUse": 0,
@@ -1565,7 +1565,7 @@
     "composite": 0,
     "sourceTag": 0,
     "halfWidth": 0,
-    "latin": 3,
+    "latin": 0,
     "kana": 0,
     "innerSpace": 3,
     "unbalancedChapters": 17,
@@ -1697,7 +1697,7 @@
    "title": "元豐類稿",
    "provider": "guopop",
    "script": "繁",
-   "characters": 254783,
+   "characters": 254794,
    "punctuationPer100": 17.2,
    "defects": {
     "privateUse": 0,
@@ -1877,7 +1877,7 @@
    "title": "庄子",
    "provider": "zhwikisource-legacy",
    "script": "繁",
-   "characters": 65157,
+   "characters": 65158,
    "punctuationPer100": 19.5,
    "defects": {
     "privateUse": 0,
@@ -1917,7 +1917,7 @@
    "title": "資治通鑑",
    "provider": "guopop",
    "script": "繁",
-   "characters": 2569520,
+   "characters": 2569534,
    "punctuationPer100": 18.3,
    "defects": {
     "privateUse": 1,
@@ -1927,7 +1927,7 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 260,
+    "innerSpace": 256,
     "unbalancedChapters": 10,
     "unpunctuatedChapters": 0
    }

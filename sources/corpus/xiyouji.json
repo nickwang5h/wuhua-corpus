@@ -1137,7 +1137,7 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "6a13dddb69b026b3e709d373d0803b60c60f8b5622d3a82e63baceb9fd646c7f",
+  "normalizedSha256": "04fa00ff8ffe02b36660d76135ff49ea1bcfa5271d92067f77351e95d8d9e475",
   "stats": {
     "chapters": 101,
     "paragraphs": 5446,
@@ -1145,5 +1145,809 @@
     "emptyChapters": 0,
     "images": 0,
     "imageChapters": 0
+  },
+  "structureInput": {
+    "sha256": "6a13dddb69b026b3e709d373d0803b60c60f8b5622d3a82e63baceb9fd646c7f",
+    "chapters": [
+      {
+        "id": "chapter-xiyouji-4dbc324261454f42",
+        "number": 1,
+        "title": "第001回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2562136",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-dd6abefeecbe7a04",
+        "number": 2,
+        "title": "第002回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2449088",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-d68ceace1a67a70b",
+        "number": 3,
+        "title": "第003回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2610943",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-1f0f00c2b9c86de5",
+        "number": 4,
+        "title": "第004回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2449093",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-518bad7811597631",
+        "number": 5,
+        "title": "第005回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455554",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-2284eaab9b4cc803",
+        "number": 6,
+        "title": "第006回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2634386",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-305cc69b5e8d159d",
+        "number": 7,
+        "title": "第007回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2646669",
+        "kind": "chapter",
+        "removed": [
+          {
+            "id": "p-xiyouji-305cc69b5e8d159d-0001",
+            "version": "sha256:75b2f2099fe29f8f5eb0e8d9f4837cb955c7fb7be34a451bd97ebbcc5e9bb895",
+            "aliases": []
+          }
+        ],
+        "order": [
+          "p-xiyouji-305cc69b5e8d159d-0001",
+          "p-xiyouji-305cc69b5e8d159d-0002",
+          "p-xiyouji-305cc69b5e8d159d-0003",
+          "p-xiyouji-305cc69b5e8d159d-0004",
+          "p-xiyouji-305cc69b5e8d159d-0005",
+          "p-xiyouji-305cc69b5e8d159d-0006",
+          "p-xiyouji-305cc69b5e8d159d-0007",
+          "p-xiyouji-305cc69b5e8d159d-0008",
+          "p-xiyouji-305cc69b5e8d159d-0009",
+          "p-xiyouji-305cc69b5e8d159d-0010",
+          "p-xiyouji-305cc69b5e8d159d-0011",
+          "p-xiyouji-305cc69b5e8d159d-0012",
+          "p-xiyouji-305cc69b5e8d159d-0013",
+          "p-xiyouji-305cc69b5e8d159d-0014",
+          "p-xiyouji-305cc69b5e8d159d-0015",
+          "p-xiyouji-305cc69b5e8d159d-0016",
+          "p-xiyouji-305cc69b5e8d159d-0017",
+          "p-xiyouji-305cc69b5e8d159d-0018",
+          "p-xiyouji-305cc69b5e8d159d-0019",
+          "p-xiyouji-305cc69b5e8d159d-0020",
+          "p-xiyouji-305cc69b5e8d159d-0021",
+          "p-xiyouji-305cc69b5e8d159d-0022",
+          "p-xiyouji-305cc69b5e8d159d-0023",
+          "p-xiyouji-305cc69b5e8d159d-0024",
+          "p-xiyouji-305cc69b5e8d159d-0025",
+          "p-xiyouji-305cc69b5e8d159d-0026",
+          "p-xiyouji-305cc69b5e8d159d-0027",
+          "p-xiyouji-305cc69b5e8d159d-0028",
+          "p-xiyouji-305cc69b5e8d159d-0029",
+          "p-xiyouji-305cc69b5e8d159d-0030",
+          "p-xiyouji-305cc69b5e8d159d-0031",
+          "p-xiyouji-305cc69b5e8d159d-0032",
+          "p-xiyouji-305cc69b5e8d159d-0033",
+          "p-xiyouji-305cc69b5e8d159d-0034",
+          "p-xiyouji-305cc69b5e8d159d-0035",
+          "p-xiyouji-305cc69b5e8d159d-0036",
+          "p-xiyouji-305cc69b5e8d159d-0037",
+          "p-xiyouji-305cc69b5e8d159d-0038",
+          "p-xiyouji-305cc69b5e8d159d-0039",
+          "p-xiyouji-305cc69b5e8d159d-0040",
+          "p-xiyouji-305cc69b5e8d159d-0041",
+          "p-xiyouji-305cc69b5e8d159d-0042",
+          "p-xiyouji-305cc69b5e8d159d-0043",
+          "p-xiyouji-305cc69b5e8d159d-0044",
+          "p-xiyouji-305cc69b5e8d159d-0045",
+          "p-xiyouji-305cc69b5e8d159d-0046",
+          "p-xiyouji-305cc69b5e8d159d-0047",
+          "p-xiyouji-305cc69b5e8d159d-0048",
+          "p-xiyouji-305cc69b5e8d159d-0049",
+          "p-xiyouji-305cc69b5e8d159d-0050",
+          "p-xiyouji-305cc69b5e8d159d-0051",
+          "p-xiyouji-305cc69b5e8d159d-0052",
+          "p-xiyouji-305cc69b5e8d159d-0053",
+          "p-xiyouji-305cc69b5e8d159d-0054",
+          "p-xiyouji-305cc69b5e8d159d-0055",
+          "p-xiyouji-305cc69b5e8d159d-0056",
+          "p-xiyouji-305cc69b5e8d159d-0057",
+          "p-xiyouji-305cc69b5e8d159d-0058",
+          "p-xiyouji-305cc69b5e8d159d-0059",
+          "p-xiyouji-305cc69b5e8d159d-0060",
+          "p-xiyouji-305cc69b5e8d159d-0061",
+          "p-xiyouji-305cc69b5e8d159d-0062",
+          "p-xiyouji-305cc69b5e8d159d-0063",
+          "p-xiyouji-305cc69b5e8d159d-0064",
+          "p-xiyouji-305cc69b5e8d159d-0065",
+          "p-xiyouji-305cc69b5e8d159d-0066",
+          "p-xiyouji-305cc69b5e8d159d-0067",
+          "p-xiyouji-305cc69b5e8d159d-0068",
+          "p-xiyouji-305cc69b5e8d159d-0069",
+          "p-xiyouji-305cc69b5e8d159d-0070",
+          "p-xiyouji-305cc69b5e8d159d-0071",
+          "p-xiyouji-305cc69b5e8d159d-0072",
+          "p-xiyouji-305cc69b5e8d159d-0073",
+          "p-xiyouji-305cc69b5e8d159d-0074",
+          "p-xiyouji-305cc69b5e8d159d-0075",
+          "p-xiyouji-305cc69b5e8d159d-0076",
+          "p-xiyouji-305cc69b5e8d159d-0077",
+          "p-xiyouji-305cc69b5e8d159d-0078",
+          "p-xiyouji-305cc69b5e8d159d-0079",
+          "p-xiyouji-305cc69b5e8d159d-0080",
+          "p-xiyouji-305cc69b5e8d159d-0081",
+          "p-xiyouji-305cc69b5e8d159d-0082",
+          "p-xiyouji-305cc69b5e8d159d-0083"
+        ]
+      },
+      {
+        "id": "chapter-xiyouji-7f2820862a3d86bb",
+        "number": 8,
+        "title": "第008回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1807472",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-6e396da1e83af02c",
+        "number": 9,
+        "title": "第009回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1962034",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-b2a9a69765e1308f",
+        "number": 10,
+        "title": "第010回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2194739",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-1044c57d9ec4e274",
+        "number": 11,
+        "title": "第011回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500624",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-0953e98ef9d00a27",
+        "number": 12,
+        "title": "第012回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500623",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-318074092489f172",
+        "number": 13,
+        "title": "第013回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500625",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-afbb6855e4eda4ac",
+        "number": 14,
+        "title": "第014回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455563",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-80d5af93c9798296",
+        "number": 15,
+        "title": "第015回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455564",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-fa8024238f087a92",
+        "number": 16,
+        "title": "第016回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455565",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-d1c56a4fd3aaad91",
+        "number": 17,
+        "title": "第017回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2597258",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-23f47f7b48e31e20",
+        "number": 18,
+        "title": "第018回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455567",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-20ea4324237503d0",
+        "number": 19,
+        "title": "第019回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455568",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-c1a1ac99ca023f3e",
+        "number": 20,
+        "title": "第020回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455569",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-a2e6ea13f54d6e99",
+        "number": 21,
+        "title": "第021回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2609807",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-08eb7e619d8223c5",
+        "number": 22,
+        "title": "第022回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=7910914",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-cec68b4a2944bd95",
+        "number": 23,
+        "title": "第023回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1512800",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-1e437665e191bcc4",
+        "number": 24,
+        "title": "第024回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455573",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-f1cac9a9ef3a5a1f",
+        "number": 25,
+        "title": "第025回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455574",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-46f547e10db3e1d2",
+        "number": 26,
+        "title": "第026回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808230",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-abaca7a436267dac",
+        "number": 27,
+        "title": "第027回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455576",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-278c0a13bf5638e9",
+        "number": 28,
+        "title": "第028回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455577",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-0a302144972fc6e2",
+        "number": 29,
+        "title": "第029回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455578",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-8069786a07562f71",
+        "number": 30,
+        "title": "第030回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455579",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-a5932b7d1a8db3b2",
+        "number": 31,
+        "title": "第031回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455580",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-26370aa2ed0a036f",
+        "number": 32,
+        "title": "第032回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808364",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-88f093d824c1ed3a",
+        "number": 33,
+        "title": "第033回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500615",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-56ab081ae4c88fbd",
+        "number": 34,
+        "title": "第034回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500614",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-12fffec15a3d9cb2",
+        "number": 35,
+        "title": "第035回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500616",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-c7b6f5322b8d41b1",
+        "number": 36,
+        "title": "第036回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455585",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-f562c9811f22a123",
+        "number": 37,
+        "title": "第037回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808441",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-76628394838aa164",
+        "number": 38,
+        "title": "第038回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455587",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-69e0ee76816b929e",
+        "number": 39,
+        "title": "第039回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500596",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-78545feb8f0d8f55",
+        "number": 40,
+        "title": "第040回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808481",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-d363219b145d2eaa",
+        "number": 41,
+        "title": "第041回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500598",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-2479ddd4a0ffe030",
+        "number": 42,
+        "title": "第042回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808580",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-eb430c71394ec8b3",
+        "number": 43,
+        "title": "第043回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455592",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-c6d291f542f21fd3",
+        "number": 44,
+        "title": "第044回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455593",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-a9733258d6858890",
+        "number": 45,
+        "title": "第045回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455594",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-2fa124395debe92a",
+        "number": 46,
+        "title": "第046回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1557967",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-876fd9c020a8437d",
+        "number": 47,
+        "title": "第047回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2598626",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-78705b911e331883",
+        "number": 48,
+        "title": "第048回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808610",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-37c2490083f073ad",
+        "number": 49,
+        "title": "第049回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808612",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-e4e2a3ede38967dd",
+        "number": 50,
+        "title": "第050回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1498134",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-53c947ad3af4524d",
+        "number": 51,
+        "title": "第051回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1498138",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-836f91f4d7d58983",
+        "number": 52,
+        "title": "第052回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1498137",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-476e8b7e05baac96",
+        "number": 53,
+        "title": "第053回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1498139",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-59ec28d7f9b338ef",
+        "number": 54,
+        "title": "第054回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455603",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-7e1ce8b46bf92c2f",
+        "number": 55,
+        "title": "第055回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2316520",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-71544cc501947bc3",
+        "number": 56,
+        "title": "第056回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455605",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-8f2500b65e47d4ab",
+        "number": 57,
+        "title": "第057回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2031415",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-04a814183680b67d",
+        "number": 58,
+        "title": "第058回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455607",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-d9a32e209997f4bd",
+        "number": 59,
+        "title": "第059回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455608",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-fd2878bf08929392",
+        "number": 60,
+        "title": "第060回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500612",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-51289160ccb7fc7f",
+        "number": 61,
+        "title": "第061回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500610",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-5a27e3b238a978b0",
+        "number": 62,
+        "title": "第062回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500611",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-f44ca786af15195a",
+        "number": 63,
+        "title": "第063回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808654",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-d913c823236f3c63",
+        "number": 64,
+        "title": "第064回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455613",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-4602bd009fb71943",
+        "number": 65,
+        "title": "第065回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455614",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-58d089bcddce2246",
+        "number": 66,
+        "title": "第066回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455615",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-9daa7aa9539a5600",
+        "number": 67,
+        "title": "第067回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455616",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-e2ad00a41ef00caf",
+        "number": 68,
+        "title": "第068回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455617",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-cd21e5697f9def5d",
+        "number": 69,
+        "title": "第069回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455618",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-f5c449ad861d9b37",
+        "number": 70,
+        "title": "第070回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455619",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-d84a0f8228e57d34",
+        "number": 71,
+        "title": "第071回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455620",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-ca2d0b07a4a26ff0",
+        "number": 72,
+        "title": "第072回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2557105",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-0a8789748349c511",
+        "number": 73,
+        "title": "第073回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500620",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-c79b3c5617897464",
+        "number": 74,
+        "title": "第074回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500622",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-7e891143921e37a6",
+        "number": 75,
+        "title": "第075回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2093000",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-44f3a150bdeaaa9a",
+        "number": 76,
+        "title": "第076回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1557754",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-15c4414271fd3575",
+        "number": 77,
+        "title": "第077回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455626",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-b3349ccc87e5bee5",
+        "number": 78,
+        "title": "第078回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455627",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-a3551b41d2a15ecc",
+        "number": 79,
+        "title": "第079回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455628",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-0a55501dc4a3f408",
+        "number": 80,
+        "title": "第080回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1808715",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-fcc52aae3797182b",
+        "number": 81,
+        "title": "第081回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455630",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-b2d8855e7c5bad00",
+        "number": 82,
+        "title": "第082回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455631",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-ebc017141064a8be",
+        "number": 83,
+        "title": "第083回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455632",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-e81f52220618b253",
+        "number": 84,
+        "title": "第084回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=2597328",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-16ab421488f6b9ff",
+        "number": 85,
+        "title": "第085回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455634",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-ce184fc10cceffad",
+        "number": 86,
+        "title": "第086回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500525",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-7bd6b50e86dc6cd0",
+        "number": 87,
+        "title": "第087回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500526",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-652bb8c1d4860fad",
+        "number": 88,
+        "title": "第088回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500527",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-83512b673bb9a4f8",
+        "number": 89,
+        "title": "第089回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500528",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-24339925cc27d0bc",
+        "number": 90,
+        "title": "第090回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455639",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-28ed6c57bab81e84",
+        "number": 91,
+        "title": "第091回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455640",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-940bce1a6d94c3d2",
+        "number": 92,
+        "title": "第092回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455641",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-679def8a0ae0e718",
+        "number": 93,
+        "title": "第093回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455642",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-947902ec9113d776",
+        "number": 94,
+        "title": "第094回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500607",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-0522eca11530ae16",
+        "number": 95,
+        "title": "第095回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500606",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-b4dca53e563c92bf",
+        "number": 96,
+        "title": "第096回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500608",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-85ce341ad91d61af",
+        "number": 97,
+        "title": "第097回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1455646",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-90d3d1219d0cf765",
+        "number": 98,
+        "title": "第098回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500530",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-0233f5abf1523708",
+        "number": 99,
+        "title": "第099回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1558059",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-483b81295b84bc5a",
+        "number": 100,
+        "title": "第100回",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=1500545",
+        "kind": "chapter"
+      },
+      {
+        "id": "chapter-xiyouji-6854cab2083d3b3d",
+        "number": 101,
+        "title": "附錄",
+        "source": "https://zh.wikisource.org/w/index.php?oldid=168354",
+        "kind": "chapter"
+      }
+    ]
   }
 }

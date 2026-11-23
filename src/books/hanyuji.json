@@ -6367,9 +6367,20 @@
         },
         {
           "id": "p-hanyuji-9053c60c0cd142ec-0296",
-          "version": "sha256:cb1c73e78a16bb58aa90a1f1fe0b9dd268d80fdb1e63d9db9948814923f844eb",
-          "text": "威容䘮蕭爽，近新迷逺舊。拘官計日月，欲進七可又。因縁窺其湫，",
-          "aliases": []
+          "version": "sha256:a346770714e36b38e5bdead005fd8507cb40f5334a5df03587c9a8c3656608b3",
+          "text": "威容䘮蕭爽，近新迷逺舊。拘官計日月，欲進不可又。因縁窺其湫，",
+          "aliases": [],
+          "sourceText": "威容䘮蕭爽，近新迷逺舊。拘官計日月，欲進七可又。因縁窺其湫，",
+          "correction": {
+            "reason": "“七可”作“不可”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“七”形近而誤，句不成義",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:a346770714e36b38e5bdead005fd8507cb40f5334a5df03587c9a8c3656608b3"
+            }
+          }
         },
         {
           "id": "p-hanyuji-9053c60c0cd142ec-0297",
@@ -10168,9 +10179,20 @@
         },
         {
           "id": "p-hanyuji-41005a80bd4187e0-0412",
-          "version": "sha256:8b9c425fad51debd832cc0fa92cb5bb8e50d777f92131e1dab690e7a477fd0fc",
-          "text": "嗟哉董生朝出至夜歸，讀古人書，盡日不得息。或山而樵，或水而漁。",
-          "aliases": []
+          "version": "sha256:d6e4088417b2d36146e2e83194f10d87b90a6a8b991a9f4add91a7efe53a1b6c",
+          "text": "嗟哉董生朝出耕夜歸，讀古人書，盡日不得息。或山而樵，或水而漁。",
+          "aliases": [],
+          "sourceText": "嗟哉董生朝出至夜歸，讀古人書，盡日不得息。或山而樵，或水而漁。",
+          "correction": {
+            "reason": "“朝出至夜歸”作“朝出耕夜歸”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《嗟哉董生行》、《風雅翼》卷十三",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d6e4088417b2d36146e2e83194f10d87b90a6a8b991a9f4add91a7efe53a1b6c"
+            }
+          }
         },
         {
           "id": "p-hanyuji-41005a80bd4187e0-0413",
@@ -11383,9 +11405,20 @@
         },
         {
           "id": "p-hanyuji-955c6d742fe22a98-0175",
-          "version": "sha256:e06bc5c62d0cc9da7453cef01e25a61df9b75c37e38241c5f48a546ec49e5190",
-          "text": "誰惜之。爲此徑須沽酒飲，自外天地棄不疑。近憐老杜無檢束，爛漫長醉多文辭。”“屈原離騷二十五，",
-          "aliases": []
+          "version": "sha256:857855d395d19afbd1006842ec418f7624f00c4a8f2fbd7b5411f8a4ae19b875",
+          "text": "誰惜之。爲此徑須沽酒飲，自外天地棄不疑。近憐李杜無檢束，爛漫長醉多文辭。”“屈原離騷二十五，",
+          "aliases": [],
+          "sourceText": "誰惜之。爲此徑須沽酒飲，自外天地棄不疑。近憐老杜無檢束，爛漫長醉多文辭。”“屈原離騷二十五，",
+          "correction": {
+            "reason": "“老杜”作“李杜”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《感春》、《全唐詩》卷三百三十八“近憐李杜無檢束”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:857855d395d19afbd1006842ec418f7624f00c4a8f2fbd7b5411f8a4ae19b875"
+            }
+          }
         },
         {
           "id": "p-hanyuji-955c6d742fe22a98-0176",
@@ -14059,9 +14092,20 @@
         },
         {
           "id": "p-hanyuji-2b31b6c49d3d773c-0024",
-          "version": "sha256:4c28d30bcd03ab6117aefc9df9f9f807d76f6112bb407481ca8048c2cf0b7895",
-          "text": "南山來，文字得我驚。館置使讀書，曰有求歸聲。我令之罘歸，失得柏與馬。",
-          "aliases": []
+          "version": "sha256:7e3d749a2d91c2c43c0a6212fcdc1c32d30831f9932fff87f3978811e32717ba",
+          "text": "南山來，文字得我驚。館置使讀書，日有求歸聲。我令之罘歸，失得柏與馬。",
+          "aliases": [],
+          "sourceText": "南山來，文字得我驚。館置使讀書，曰有求歸聲。我令之罘歸，失得柏與馬。",
+          "correction": {
+            "reason": "“曰有求歸聲”作“日有求歸聲”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“日有”言每日，“曰”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:7e3d749a2d91c2c43c0a6212fcdc1c32d30831f9932fff87f3978811e32717ba"
+            }
+          }
         },
         {
           "id": "p-hanyuji-2b31b6c49d3d773c-0025",
@@ -15253,9 +15297,20 @@
         },
         {
           "id": "p-hanyuji-2b31b6c49d3d773c-0223",
-          "version": "sha256:4aec5ab9495b6cf299e1f66fa9ad675637dee6c4cc095f8984bf688e7583e88b",
-          "text": "半塗喜開鑿，𣲖别失大江。吾欲盈其氣，不令見摩幢。牛羊滿田野，",
-          "aliases": []
+          "version": "sha256:edf7d40aeb6d6b47b8908d7a28c90ca8f45bdc555a823a56080d7716c8a78f6b",
+          "text": "半塗喜開鑿，𣲖别失大江。吾欲盈其氣，不令見麾幢。牛羊滿田野，",
+          "aliases": [],
+          "sourceText": "半塗喜開鑿，𣲖别失大江。吾欲盈其氣，不令見摩幢。牛羊滿田野，",
+          "correction": {
+            "reason": "“摩幢”作“麾幢”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；旌麾幢節，“摩”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:edf7d40aeb6d6b47b8908d7a28c90ca8f45bdc555a823a56080d7716c8a78f6b"
+            }
+          }
         },
         {
           "id": "p-hanyuji-2b31b6c49d3d773c-0224",
@@ -16748,9 +16803,20 @@
         },
         {
           "id": "p-hanyuji-26610cb89ac3ff25-0074",
-          "version": "sha256:91ccd46e4e525811132a7982894574d7872bb230ac7e73ca2ee978140eb12475",
-          "text": "不虞卒見困，汗出愧且駭。吏曰聊戯官，儂甞使往罷。嶺南大抵同，官去道苦遼。下此三千里，有州始名潮。惡溪瘴獨聚，雷電常洶洶。",
-          "aliases": []
+          "version": "sha256:a9cc8cde493339057cb4bf81d8de34c2d8f44ca809cd3e759fce329d5f519255",
+          "text": "不虞卒見困，汗出愧且駭。吏曰聊戯官，儂甞使往罷。嶺南大抵同，官去道苦遼。下此三千里，有州始名潮。惡溪瘴毒聚，雷電常洶洶。",
+          "aliases": [],
+          "sourceText": "不虞卒見困，汗出愧且駭。吏曰聊戯官，儂甞使往罷。嶺南大抵同，官去道苦遼。下此三千里，有州始名潮。惡溪瘴獨聚，雷電常洶洶。",
+          "correction": {
+            "reason": "“瘴獨聚”作“瘴毒聚”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《瀧吏》、《全唐詩》卷三百四十一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:a9cc8cde493339057cb4bf81d8de34c2d8f44ca809cd3e759fce329d5f519255"
+            }
+          }
         },
         {
           "id": "p-hanyuji-26610cb89ac3ff25-0075",
@@ -17138,9 +17204,20 @@
         },
         {
           "id": "p-hanyuji-26610cb89ac3ff25-0139",
-          "version": "sha256:f102a3f6d2ff2651b1e32655e27310ff7ac5bfebb0ff0cbf2029c0d9bdfd736d",
-          "text": "滅無口，其誰識涯圻？暮 投民村，髙處水半扉。大雞俱上屋，不復走與飛。篙舟入其家，暝聞屋中唏。",
-          "aliases": []
+          "version": "sha256:8001a88e1be05f34e24aac4201507a982017123502de9866684d8486171a248e",
+          "text": "滅無口，其誰識涯圻？暮 投民村，髙處水半扉。犬雞俱上屋，不復走與飛。篙舟入其家，暝聞屋中唏。",
+          "aliases": [],
+          "sourceText": "滅無口，其誰識涯圻？暮 投民村，髙處水半扉。大雞俱上屋，不復走與飛。篙舟入其家，暝聞屋中唏。",
+          "correction": {
+            "reason": "“大雞”作“犬雞”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；雞犬上屋，“大”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:8001a88e1be05f34e24aac4201507a982017123502de9866684d8486171a248e"
+            }
+          }
         },
         {
           "id": "p-hanyuji-26610cb89ac3ff25-0140",
@@ -23614,9 +23691,20 @@
         },
         {
           "id": "p-hanyuji-d615f365d59136ee-0762",
-          "version": "sha256:49f0b9d8743ce94b56eb202612ee16deab61361ec380e026dd4aa9ab86294601",
-          "text": "声明動朝闕，光寵耀凉洛。旁午降絲綸，中堅擁鼓鐸。",
-          "aliases": []
+          "version": "sha256:c993b784c964d40a0c902a133e22ff46c267fe5f5c3f566cbcec762bec512cc7",
+          "text": "声明動朝闕，光寵耀京洛。旁午降絲綸，中堅擁鼓鐸。",
+          "aliases": [],
+          "sourceText": "声明動朝闕，光寵耀凉洛。旁午降絲綸，中堅擁鼓鐸。",
+          "correction": {
+            "reason": "“凉洛”作“京洛”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《晚秋郾城夜會聯句》、《唐詩鏡》卷三十九",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c993b784c964d40a0c902a133e22ff46c267fe5f5c3f566cbcec762bec512cc7"
+            }
+          }
         },
         {
           "id": "p-hanyuji-d615f365d59136ee-0763",
@@ -23830,9 +23918,20 @@
         },
         {
           "id": "p-hanyuji-d615f365d59136ee-0798",
-          "version": "sha256:88165f0c8ba2d99fd9a1c97a36a4dbcd1dd86b4392fda107cd9ea871e1ffa5a8",
-          "text": "道舊生感激，當歌發酬酢。”“羣孫輕騎紈，下客豐醴酪。",
-          "aliases": []
+          "version": "sha256:1671f2db8a7523f293f2033653279aefc62a1a9bfa7d91f94625565fe7a1eac1",
+          "text": "道舊生感激，當歌發酬酢。”“羣孫輕綺紈，下客豐醴酪。",
+          "aliases": [],
+          "sourceText": "道舊生感激，當歌發酬酢。”“羣孫輕騎紈，下客豐醴酪。",
+          "correction": {
+            "reason": "“輕騎紈”作“輕綺紈”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《唐詩鏡》卷三十九、《别本韓文考異》卷八",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:1671f2db8a7523f293f2033653279aefc62a1a9bfa7d91f94625565fe7a1eac1"
+            }
+          }
         },
         {
           "id": "p-hanyuji-d615f365d59136ee-0799",
@@ -25127,18 +25226,18 @@
         },
         {
           "id": "p-hanyuji-b0ca732a1a73f502-0191",
-          "version": "sha256:ae95bda2922a947b8177953038cfdcf1f12b13b61f54fb8d268eb24ea96e1e15",
-          "text": "瓦沼晨朝水自清，小蠱無數不知名。忽然分散無蹤影，惟有魚兒作隊行。",
+          "version": "sha256:aec6cb35ed76daabd0162bc6752c4f68005beaf5a9728dbe38c2a5e1bdba418b",
+          "text": "瓦沼晨朝水自清，小蟲無數不知名。忽然分散無蹤影，惟有魚兒作隊行。",
           "aliases": [],
           "sourceText": "瓦沼晨朝水自清，小蠱無數不知名。忽然分散無蹤影，惟有魚皃作隊行。",
           "correction": {
-            "reason": "《盆池》“惟有魚皃作隊行”：“皃”（貌）是“兒”的形近误字。维基文库《昌黎先生集》卷九作“惟有魚兒作隊行”。",
+            "reason": "《盆池》“惟有魚皃作隊行”：“皃”（貌）是“兒”的形近误字。维基文库《昌黎先生集》卷九作“惟有魚兒作隊行”。；“小蠱”作“小蟲”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；水中小蟲，“蠱”形近而誤",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-21",
-              "textVersion": "sha256:ae95bda2922a947b8177953038cfdcf1f12b13b61f54fb8d268eb24ea96e1e15"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:aec6cb35ed76daabd0162bc6752c4f68005beaf5a9728dbe38c2a5e1bdba418b"
             }
           }
         },
@@ -27179,9 +27278,20 @@
         },
         {
           "id": "p-hanyuji-31e3ab9a21a054e8-0240",
-          "version": "sha256:4b5a2937b8c009f0021f7a0a638e9dab7c5ed43d8cc7d5f2a41629ac4dc9ade7",
-          "text": "文武成功後，居寪百辟師。林園窮勝事，鍾鼓樂清時。擺落遺高論，雕鑴出小詩。自然無不可，范蠡爾其誰。",
-          "aliases": []
+          "version": "sha256:ea24ae26af0ae246b3d49be5e37b3d3da13fc8e02865c688cb7b8df5df5a663a",
+          "text": "文武成功後，居爲百辟師。林園窮勝事，鍾鼓樂清時。擺落遺高論，雕鑴出小詩。自然無不可，范蠡爾其誰。",
+          "aliases": [],
+          "sourceText": "文武成功後，居寪百辟師。林園窮勝事，鍾鼓樂清時。擺落遺高論，雕鑴出小詩。自然無不可，范蠡爾其誰。",
+          "correction": {
+            "reason": "“寪”作“爲”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“寪”字不成義，形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:ea24ae26af0ae246b3d49be5e37b3d3da13fc8e02865c688cb7b8df5df5a663a"
+            }
+          }
         },
         {
           "id": "p-hanyuji-31e3ab9a21a054e8-0241",
@@ -27403,9 +27513,20 @@
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0018",
-          "version": "sha256:204ab29a818953116fdd13d98bd3a109c4040026f6e13dedfb30457f0d95600f",
-          "text": "嗚呼！其亦不思而已矣。如古之無聖人，人之𩔖㓕乆矣。何也？無羽毛鱗介以居寒𤍠也，無爪牙以爭食也。是故，君者，出令者也；臣者，行君之令而致之民者也；民者，出粟米麻絲、作器血、通貨財，以事其上者也。",
-          "aliases": []
+          "version": "sha256:223cc25d272af850a5d448c1d8b1d900c6db75ec3527f3fb84e0645884d8832b",
+          "text": "嗚呼！其亦不思而已矣。如古之無聖人，人之𩔖㓕乆矣。何也？無羽毛鱗介以居寒𤍠也，無爪牙以爭食也。是故，君者，出令者也；臣者，行君之令而致之民者也；民者，出粟米麻絲、作器皿、通貨財，以事其上者也。",
+          "aliases": [],
+          "sourceText": "嗚呼！其亦不思而已矣。如古之無聖人，人之𩔖㓕乆矣。何也？無羽毛鱗介以居寒𤍠也，無爪牙以爭食也。是故，君者，出令者也；臣者，行君之令而致之民者也；民者，出粟米麻絲、作器血、通貨財，以事其上者也。",
+          "correction": {
+            "reason": "“器血”作“器皿”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》、本語料庫《古文觀止》原道及同篇下文“作器皿”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:223cc25d272af850a5d448c1d8b1d900c6db75ec3527f3fb84e0645884d8832b"
+            }
+          }
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0019",
@@ -27433,9 +27554,20 @@
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0023",
-          "version": "sha256:7b1c1e334793c4a2ec2e79dfdebeaa0e6f4ac6114502f14b425fc06e8ca7667c",
-          "text": "傳曰：“古之欲明明德於天下者，先治其國；欲治其國者，先濟其家；欲齊其家者，先脩其身；欲脩其身者，先正其心；欲正其心者，先誠其意。”然則古之所謂正心而誠意者，將以有爲也。今也欲治其心，而外天下國家，",
-          "aliases": []
+          "version": "sha256:846a82a2a924604307239867df5ff9b20292dc93dc977e82cbd4465e83fc0499",
+          "text": "傳曰：“古之欲明明德於天下者，先治其國；欲治其國者，先齊其家；欲齊其家者，先脩其身；欲脩其身者，先正其心；欲正其心者，先誠其意。”然則古之所謂正心而誠意者，將以有爲也。今也欲治其心，而外天下國家，",
+          "aliases": [],
+          "sourceText": "傳曰：“古之欲明明德於天下者，先治其國；欲治其國者，先濟其家；欲齊其家者，先脩其身；欲脩其身者，先正其心；欲正其心者，先誠其意。”然則古之所謂正心而誠意者，將以有爲也。今也欲治其心，而外天下國家，",
+          "correction": {
+            "reason": "“先濟其家”作“先齊其家”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》原道（引《大學》），下句即“欲齊其家者”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:846a82a2a924604307239867df5ff9b20292dc93dc977e82cbd4465e83fc0499"
+            }
+          }
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0024",
@@ -27649,9 +27781,20 @@
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0059",
-          "version": "sha256:2d8398e26a8cc43377e00f55d814e0bbe5d2ef4504501041e17b99bcfb6e5ef0",
-          "text": "其於人也，曰：“彼雖能是，其人不足稱也；彼雖善是，其用不足稱也。”㪯其一，不計其十，究其舊，不圖其新，恐恐然惟懼其人之有聞也。是不亦責於人者己詳乎？夫是之謂不以衆人待其身，而以聖人望於人，吾未見其尊己也。",
-          "aliases": []
+          "version": "sha256:39977fad0842803807f777229dee8149fd660b4883e212aaeea7b35273325386",
+          "text": "其於人也，曰：“彼雖能是，其人不足稱也；彼雖善是，其用不足稱也。”㪯其一，不計其十，究其舊，不圖其新，恐恐然惟懼其人之有聞也。是不亦責於人者已詳乎？夫是之謂不以衆人待其身，而以聖人望於人，吾未見其尊己也。",
+          "aliases": [],
+          "sourceText": "其於人也，曰：“彼雖能是，其人不足稱也；彼雖善是，其用不足稱也。”㪯其一，不計其十，究其舊，不圖其新，恐恐然惟懼其人之有聞也。是不亦責於人者己詳乎？夫是之謂不以衆人待其身，而以聖人望於人，吾未見其尊己也。",
+          "correction": {
+            "reason": "“己詳”作“已詳”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》原毀",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:39977fad0842803807f777229dee8149fd660b4883e212aaeea7b35273325386"
+            }
+          }
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0060",
@@ -27817,9 +27960,20 @@
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0087",
-          "version": "sha256:cb794b5e11abaebc78f21508d28af232b3170f6bd1b46d9683a1ba91408e04ea",
-          "text": "先生曰：“今之用人也不詳，位乎朝者，吾取某與某而己，在下者多干朝，凡吾與者若千人。”愈曰：“先生之與者，盡於此乎？其皆賢乎？抑猶有㪯其多而缺其少乎？”",
-          "aliases": []
+          "version": "sha256:82e39218fc542c978232d9cba9bba8f7764b4f6992afc84254f1f9975f4e0ff4",
+          "text": "先生曰：“今之用人也不詳，位乎朝者，吾取某與某而已，在下者多干朝，凡吾與者若千人。”愈曰：“先生之與者，盡於此乎？其皆賢乎？抑猶有㪯其多而缺其少乎？”",
+          "aliases": [],
+          "sourceText": "先生曰：“今之用人也不詳，位乎朝者，吾取某與某而己，在下者多干朝，凡吾與者若千人。”愈曰：“先生之與者，盡於此乎？其皆賢乎？抑猶有㪯其多而缺其少乎？”",
+          "correction": {
+            "reason": "“而己”作“而已”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；句末語辭當作“已”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:82e39218fc542c978232d9cba9bba8f7764b4f6992afc84254f1f9975f4e0ff4"
+            }
+          }
         },
         {
           "id": "p-hanyuji-dbfd7b1392ccc218-0088",
@@ -29477,9 +29631,20 @@
         },
         {
           "id": "p-hanyuji-61775462ce7f1333-0021",
-          "version": "sha256:9d3c0e8fcebe4b8182c77a2ab2000cb4226a7e1b770dc3ad394043ff17c32098",
-          "text": "居則與天子爲心膂，出則與天子爲股肱。四海九州之人，自百官己下，其孰不願忠而望賜？",
-          "aliases": []
+          "version": "sha256:a96852059569ed23a098eddfdeabf04ecf145866ff9c021d159ae792d84b5b1e",
+          "text": "居則與天子爲心膂，出則與天子爲股肱。四海九州之人，自百官已下，其孰不願忠而望賜？",
+          "aliases": [],
+          "sourceText": "居則與天子爲心膂，出則與天子爲股肱。四海九州之人，自百官己下，其孰不願忠而望賜？",
+          "correction": {
+            "reason": "“己下”作“已下”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“已下”即以下",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:a96852059569ed23a098eddfdeabf04ecf145866ff9c021d159ae792d84b5b1e"
+            }
+          }
         },
         {
           "id": "p-hanyuji-61775462ce7f1333-0022",
@@ -29608,9 +29773,20 @@
         },
         {
           "id": "p-hanyuji-61775462ce7f1333-0041",
-          "version": "sha256:aefa0dcd555923670a5802d72304dd9c32d0f06751e768bd993d5989f2c0b6b0",
-          "text": "逺見救援不至，而賊來益衆，必以其言爲信。外無待而猶死守，人相食且盡，雖愚人不能数日而知死處矣。逺之不畏死亦明矣。烏有城壞其徒俱死，獨䝉愧恥求活？雖至愚者不忍爲。嗚呼！而謂逺之賢而爲之邪？",
-          "aliases": []
+          "version": "sha256:c45f939fada6f8e85fddd28553693670e53a2de4a6d2d849e79169ddbafb2716",
+          "text": "逺見救援不至，而賊來益衆，必以其言爲信。外無待而猶死守，人相食且盡，雖愚人亦能数日而知死處矣。逺之不畏死亦明矣。烏有城壞其徒俱死，獨䝉愧恥求活？雖至愚者不忍爲。嗚呼！而謂逺之賢而爲之邪？",
+          "aliases": [],
+          "sourceText": "逺見救援不至，而賊來益衆，必以其言爲信。外無待而猶死守，人相食且盡，雖愚人不能数日而知死處矣。逺之不畏死亦明矣。烏有城壞其徒俱死，獨䝉愧恥求活？雖至愚者不忍爲。嗚呼！而謂逺之賢而爲之邪？",
+          "correction": {
+            "reason": "“不能”作“亦能”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《張中丞傳後敘》、《文苑英華》卷三百七十“雖愚人亦能數日而知死處矣”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c45f939fada6f8e85fddd28553693670e53a2de4a6d2d849e79169ddbafb2716"
+            }
+          }
         },
         {
           "id": "p-hanyuji-61775462ce7f1333-0042",
@@ -29877,9 +30053,20 @@
         },
         {
           "id": "p-hanyuji-61775462ce7f1333-0084",
-          "version": "sha256:9a2729bcefc8a019a6f3b683b55e54b38af9e9b7e2fd455a64c9964d5e519f92",
-          "text": "刼衆阻兵。懍懍栗栗，若墜若覆。時維隴西公，受命作潘。爰自洛京，單車來臨。遂拯其危，遂去其疵。",
-          "aliases": []
+          "version": "sha256:d30169ab5631197b93adf2a8c2e9f8596f49ac6b38368e4d562198e84487376c",
+          "text": "刼衆阻兵。懍懍栗栗，若墜若覆。時維隴西公，受命作藩。爰自洛京，單車來臨。遂拯其危，遂去其疵。",
+          "aliases": [],
+          "sourceText": "刼衆阻兵。懍懍栗栗，若墜若覆。時維隴西公，受命作潘。爰自洛京，單車來臨。遂拯其危，遂去其疵。",
+          "correction": {
+            "reason": "“作潘”作“作藩”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；受命為藩鎮",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d30169ab5631197b93adf2a8c2e9f8596f49ac6b38368e4d562198e84487376c"
+            }
+          }
         },
         {
           "id": "p-hanyuji-61775462ce7f1333-0085",
@@ -31281,9 +31468,20 @@
         },
         {
           "id": "p-hanyuji-873c202ffd895f51-0116",
-          "version": "sha256:e4fda3a1e340566954807811815073f1aa85aafa9be8a746bf182e10e274ae5c",
-          "text": "或曰：陽子之不求聞而人聞之，不求用而君用之，不得己而起，守其道而不變，何子過之深也？愈曰：自古聖人賢士，皆非有求於聞用也，",
-          "aliases": []
+          "version": "sha256:54ccd515969219a4efd066574fd9e88f0c093f9b80e19b1e11582ad1366ff7fc",
+          "text": "或曰：陽子之不求聞而人聞之，不求用而君用之，不得已而起，守其道而不變，何子過之深也？愈曰：自古聖人賢士，皆非有求於聞用也，",
+          "aliases": [],
+          "sourceText": "或曰：陽子之不求聞而人聞之，不求用而君用之，不得己而起，守其道而不變，何子過之深也？愈曰：自古聖人賢士，皆非有求於聞用也，",
+          "correction": {
+            "reason": "“不得己”作“不得已”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》爭臣論",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:54ccd515969219a4efd066574fd9e88f0c093f9b80e19b1e11582ad1366ff7fc"
+            }
+          }
         },
         {
           "id": "p-hanyuji-873c202ffd895f51-0117",
@@ -31358,9 +31556,20 @@
         },
         {
           "id": "p-hanyuji-873c202ffd895f51-0127",
-          "version": "sha256:cdc399337083f863fc3b47ff4eff477320e64abfe0b153f19fa09fdb789bcf7d",
-          "text": "傳曰：“惟善人能受盡言。”謂其聞而能改之也。子告我曰：“陽子可以爲有道之士也。”今雖不能及己，陽子將不得爲善人乎哉！",
-          "aliases": []
+          "version": "sha256:f8ace13654049bbcba459ede158cb9367c5855d20e78df263ee86a436b0e7d89",
+          "text": "傳曰：“惟善人能受盡言。”謂其聞而能改之也。子告我曰：“陽子可以爲有道之士也。”今雖不能及已，陽子將不得爲善人乎哉！",
+          "aliases": [],
+          "sourceText": "傳曰：“惟善人能受盡言。”謂其聞而能改之也。子告我曰：“陽子可以爲有道之士也。”今雖不能及己，陽子將不得爲善人乎哉！",
+          "correction": {
+            "reason": "“及己”作“及已”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》爭臣論“今雖不能及已”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f8ace13654049bbcba459ede158cb9367c5855d20e78df263ee86a436b0e7d89"
+            }
+          }
         },
         {
           "id": "p-hanyuji-873c202ffd895f51-0128",
@@ -31741,9 +31950,20 @@
         },
         {
           "id": "p-hanyuji-873c202ffd895f51-0189",
-          "version": "sha256:81c883676bbe5c055a6d230117a1a8e76d2c7b2b336a7ad0644edf6df1088508",
-          "text": "禮文殘缺，師道不傳，不識禮之所謂不稅，果不遣服乎？無乃别有所指，而傳注者失其宗乎？伏惟兄道德純明，躬行古道，如此之𩔖，必經於心而有所决定，不惜示及。幸甚，幸甚！泥水馬弱不敢出，不果鞠躬親問而以書，悚息尤深。",
-          "aliases": []
+          "version": "sha256:05a5bc0d3914b82c45c2920aef2fcf180e2c0383e10c12cf308780e194d1e800",
+          "text": "禮文殘缺，師道不傳，不識禮之所謂不稅，果不追服乎？無乃别有所指，而傳注者失其宗乎？伏惟兄道德純明，躬行古道，如此之𩔖，必經於心而有所决定，不惜示及。幸甚，幸甚！泥水馬弱不敢出，不果鞠躬親問而以書，悚息尤深。",
+          "aliases": [],
+          "sourceText": "禮文殘缺，師道不傳，不識禮之所謂不稅，果不遣服乎？無乃别有所指，而傳注者失其宗乎？伏惟兄道德純明，躬行古道，如此之𩔖，必經於心而有所决定，不惜示及。幸甚，幸甚！泥水馬弱不敢出，不果鞠躬親問而以書，悚息尤深。",
+          "correction": {
+            "reason": "“遣服”作“追服”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；上文論“不稅”，即不追服喪",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:05a5bc0d3914b82c45c2920aef2fcf180e2c0383e10c12cf308780e194d1e800"
+            }
+          }
         },
         {
           "id": "p-hanyuji-873c202ffd895f51-0190",
@@ -32469,9 +32689,20 @@
         },
         {
           "id": "p-hanyuji-695b4309f9a02be0-0080",
-          "version": "sha256:15c854395d56fa0d66d1fc55a020df533d2b8056301723cacf361bcf6e69739b",
-          "text": "故事，有當言。未賞，敢不言。有不便於已，輙吐私情，閤下所宜憐也。",
-          "aliases": []
+          "version": "sha256:cb59a8439370baf9c1c4cfec4c60394a92152cad25a7db8390bb6e46cdbf6799",
+          "text": "故事，有當言。未嘗，敢不言。有不便於已，輙吐私情，閤下所宜憐也。",
+          "aliases": [],
+          "sourceText": "故事，有當言。未賞，敢不言。有不便於已，輙吐私情，閤下所宜憐也。",
+          "correction": {
+            "reason": "“未賞”作“未嘗”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“賞”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:cb59a8439370baf9c1c4cfec4c60394a92152cad25a7db8390bb6e46cdbf6799"
+            }
+          }
         },
         {
           "id": "p-hanyuji-695b4309f9a02be0-0081",
@@ -32921,9 +33152,20 @@
         },
         {
           "id": "p-hanyuji-f09688f2f0ebfbcd-0057",
-          "version": "sha256:5bcc1ff89ea8f16f2d44bf643de74e3679d41571ebde2eb8689f8fa522796b87",
-          "text": "天災時變、昆蟲草木之妖，皆已銷息；天下之所謂禮樂、刑政、敎化之具，皆已脩理；風俗皆已敦厚；動植之物，風雨霜露之所霑被者，皆已得宜；休徴嘉瑞、麟鳯龜龍之属，皆已備至。而周公以聖人之才，慿叔父之親，其所輔理承化之功，又盡章章如是，其所求進見之士，豈復有賢於周公者哉？不惟不賢於周公而己，豈復有賢於時百執事者哉？豈復有所計議能𥙷於周公之化者哉？然而周公求之如此其急，惟恐耳目有所不聞見，思慮有所未及，以負成王託周公之意，不得於天下之心。",
-          "aliases": []
+          "version": "sha256:e913bd3f779c698ef8db07f6c7fa8a49478e6e852136f0066189fddfe13beb29",
+          "text": "天災時變、昆蟲草木之妖，皆已銷息；天下之所謂禮樂、刑政、敎化之具，皆已脩理；風俗皆已敦厚；動植之物，風雨霜露之所霑被者，皆已得宜；休徴嘉瑞、麟鳯龜龍之属，皆已備至。而周公以聖人之才，慿叔父之親，其所輔理承化之功，又盡章章如是，其所求進見之士，豈復有賢於周公者哉？不惟不賢於周公而已，豈復有賢於時百執事者哉？豈復有所計議能𥙷於周公之化者哉？然而周公求之如此其急，惟恐耳目有所不聞見，思慮有所未及，以負成王託周公之意，不得於天下之心。",
+          "aliases": [],
+          "sourceText": "天災時變、昆蟲草木之妖，皆已銷息；天下之所謂禮樂、刑政、敎化之具，皆已脩理；風俗皆已敦厚；動植之物，風雨霜露之所霑被者，皆已得宜；休徴嘉瑞、麟鳯龜龍之属，皆已備至。而周公以聖人之才，慿叔父之親，其所輔理承化之功，又盡章章如是，其所求進見之士，豈復有賢於周公者哉？不惟不賢於周公而己，豈復有賢於時百執事者哉？豈復有所計議能𥙷於周公之化者哉？然而周公求之如此其急，惟恐耳目有所不聞見，思慮有所未及，以負成王託周公之意，不得於天下之心。",
+          "correction": {
+            "reason": "“而己”作“而已”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；句末語辭當作“已”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e913bd3f779c698ef8db07f6c7fa8a49478e6e852136f0066189fddfe13beb29"
+            }
+          }
         },
         {
           "id": "p-hanyuji-f09688f2f0ebfbcd-0058",
@@ -33347,9 +33589,20 @@
         },
         {
           "id": "p-hanyuji-f09688f2f0ebfbcd-0128",
-          "version": "sha256:d906fcb5719e0c7e87732bdc0771828422f34d26b3cd6e9cb0192e7574477f8d",
-          "text": "籍聞議論者皆云：方今居古方伯連帥之職，生一方得專制於其境内者，惟閤下心事犖犖，與俗輩不同。籍固以藏之胷中矣。",
-          "aliases": []
+          "version": "sha256:77e15d85ad1dcf6074edaffe1b6d9e6f0fc586daad9184d590bdb4a443b3f53d",
+          "text": "籍聞議論者皆云：方今居古方伯連帥之職，坐一方得專制於其境内者，惟閤下心事犖犖，與俗輩不同。籍固以藏之胷中矣。",
+          "aliases": [],
+          "sourceText": "籍聞議論者皆云：方今居古方伯連帥之職，生一方得專制於其境内者，惟閤下心事犖犖，與俗輩不同。籍固以藏之胷中矣。",
+          "correction": {
+            "reason": "“生一方”作“坐一方”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《代張籍與李浙東書》“坐一方得專制於其境內者”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:77e15d85ad1dcf6074edaffe1b6d9e6f0fc586daad9184d590bdb4a443b3f53d"
+            }
+          }
         },
         {
           "id": "p-hanyuji-f09688f2f0ebfbcd-0129",
@@ -34069,9 +34322,20 @@
         },
         {
           "id": "p-hanyuji-f5be5fe0fd37501a-0064",
-          "version": "sha256:650c31b123c34b8e8642f4c150030872f73b344ebf042c3632d5623def4363d5",
-          "text": "愈再拜：愈之獲見於閣下有年矣。始者未嘗辱一言之譽，貧賤也，衣食於奔走，不得朝夕継見。其後閤下位益尊，伺候於門牆者日益進。",
-          "aliases": []
+          "version": "sha256:2cd3c7c24975ebd5b8dafcfd6469d1022b6fc807d97c23d56dc3ec8fdf257b5c",
+          "text": "愈再拜：愈之獲見於閣下有年矣。始者亦嘗辱一言之譽，貧賤也，衣食於奔走，不得朝夕継見。其後閤下位益尊，伺候於門牆者日益進。",
+          "aliases": [],
+          "sourceText": "愈再拜：愈之獲見於閣下有年矣。始者未嘗辱一言之譽，貧賤也，衣食於奔走，不得朝夕継見。其後閤下位益尊，伺候於門牆者日益進。",
+          "correction": {
+            "reason": "“未嘗”作“亦嘗”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》與陳給事書“始者亦嘗辱一言之譽”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:2cd3c7c24975ebd5b8dafcfd6469d1022b6fc807d97c23d56dc3ec8fdf257b5c"
+            }
+          }
         },
         {
           "id": "p-hanyuji-f5be5fe0fd37501a-0065",
@@ -34408,9 +34672,20 @@
         },
         {
           "id": "p-hanyuji-f5be5fe0fd37501a-0115",
-          "version": "sha256:4752ae3a82e6cc72d2ffdf2e33130c35cc7d022590bdc9d73087d670d048024d",
-          "text": "後丗復有揚子雲，必好之矣。”子雲死近千載，意未有揚子雲，可歎也！其時桓譚亦以爲雄書勝老子。",
-          "aliases": []
+          "version": "sha256:87e57272461421de22ceae2f3a5da2e2a5e950895387617281a4142e0419cb6d",
+          "text": "後丗復有揚子雲，必好之矣。”子雲死近千載，竟未有揚子雲，可歎也！其時桓譚亦以爲雄書勝老子。",
+          "aliases": [],
+          "sourceText": "後丗復有揚子雲，必好之矣。”子雲死近千載，意未有揚子雲，可歎也！其時桓譚亦以爲雄書勝老子。",
+          "correction": {
+            "reason": "“意未有”作“竟未有”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“竟”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:87e57272461421de22ceae2f3a5da2e2a5e950895387617281a4142e0419cb6d"
+            }
+          }
         },
         {
           "id": "p-hanyuji-f5be5fe0fd37501a-0116",
@@ -34957,9 +35232,20 @@
         },
         {
           "id": "p-hanyuji-5eca10cafeb4dc18-0039",
-          "version": "sha256:bd220e3f2dfa412ed2be064cb1bb90c7f00863ea45ccf46ce0506cc977e65416",
-          "text": "若聖人之道，不用文則己，用則必尚其能者。能者非他，能自樹立，不因循者是也。有文字來，誰不爲文？然其存於今者，必其能者也。顧常以此爲說耳。",
-          "aliases": []
+          "version": "sha256:c10d1b79cb6b59cb314fab78dc1b60d251c1777af7ada5d1ae7c6ad01a485045",
+          "text": "若聖人之道，不用文則已，用則必尚其能者。能者非他，能自樹立，不因循者是也。有文字來，誰不爲文？然其存於今者，必其能者也。顧常以此爲說耳。",
+          "aliases": [],
+          "sourceText": "若聖人之道，不用文則己，用則必尚其能者。能者非他，能自樹立，不因循者是也。有文字來，誰不爲文？然其存於今者，必其能者也。顧常以此爲說耳。",
+          "correction": {
+            "reason": "“則己”作“則已”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“不用文則已”言不用則罷",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c10d1b79cb6b59cb314fab78dc1b60d251c1777af7ada5d1ae7c6ad01a485045"
+            }
+          }
         },
         {
           "id": "p-hanyuji-5eca10cafeb4dc18-0040",
@@ -40148,9 +40434,20 @@
         },
         {
           "id": "p-hanyuji-5d607c98423cfa01-0132",
-          "version": "sha256:a0fc4b41a937e4de0928846674067dbfbfccc2c3044d572d369f125fea000242",
-          "text": "一在天之涯，一在地之角，生而影不與吾形相依，死而䰟不與吾夢相椄。吾實爲之，其又何尤！彼蒼者天，曷其有極！自今已往，吾其無意於人丗矣。當求数頃之田於伊、潁之上，以待餘年；",
-          "aliases": []
+          "version": "sha256:b9857daae9bbe667c276b67f77bc8c082b5e19ed8344b1dc39fee93899b48d80",
+          "text": "一在天之涯，一在地之角，生而影不與吾形相依，死而䰟不與吾夢相接。吾實爲之，其又何尤！彼蒼者天，曷其有極！自今已往，吾其無意於人丗矣。當求数頃之田於伊、潁之上，以待餘年；",
+          "aliases": [],
+          "sourceText": "一在天之涯，一在地之角，生而影不與吾形相依，死而䰟不與吾夢相椄。吾實爲之，其又何尤！彼蒼者天，曷其有極！自今已往，吾其無意於人丗矣。當求数頃之田於伊、潁之上，以待餘年；",
+          "correction": {
+            "reason": "“相椄”作“相接”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》祭十二郎文",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:b9857daae9bbe667c276b67f77bc8c082b5e19ed8344b1dc39fee93899b48d80"
+            }
+          }
         },
         {
           "id": "p-hanyuji-5d607c98423cfa01-0133",
@@ -40367,9 +40664,20 @@
         },
         {
           "id": "p-hanyuji-b5a92d76302b174d-0011",
-          "version": "sha256:539843ace0cf76f6fffd3c6859744d0dfd4ed5320e478c361f56136f3e3d0ca2",
-          "text": "已虖元賔！壽也者，吾不知其所慕；天也者，吾不知其所惡。生而不淑，孰謂其壽？",
-          "aliases": []
+          "version": "sha256:1a05b782ddde86bc9942df792051bcae2999bc22668f38572188b0ff0f6bc2fd",
+          "text": "已虖元賔！壽也者，吾不知其所慕；夭也者，吾不知其所惡。生而不淑，孰謂其壽？",
+          "aliases": [],
+          "sourceText": "已虖元賔！壽也者，吾不知其所慕；天也者，吾不知其所惡。生而不淑，孰謂其壽？",
+          "correction": {
+            "reason": "“天也者”作“夭也者”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及上句“壽也者”相對",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:1a05b782ddde86bc9942df792051bcae2999bc22668f38572188b0ff0f6bc2fd"
+            }
+          }
         },
         {
           "id": "p-hanyuji-b5a92d76302b174d-0012",
@@ -42153,9 +42461,20 @@
         },
         {
           "id": "p-hanyuji-4004abfb74d5b942-0025",
-          "version": "sha256:3061d64c83563647aaf01cd1f487a002ad12556f51baa24e2a0107835284bf55",
-          "text": "遂爲給亊中。出爲商州刺史、金商防禦使。改河南少尹，行大尹事。半歳，拜大尹。元和四年十一月二十二日，无疾暴薨，年六十。明年二月甲午，從葬懷州。夫人常山郡君，張州、彭州刺史贈礼部侍郎蔇",
-          "aliases": []
+          "version": "sha256:b74d60793596aecbb5577ff5bb8915828b57cf24005cc19a0421e0f41186161c",
+          "text": "遂爲給亊中。出爲商州刺史、金商防禦使。改河南少尹，行大尹事。半歳，拜大尹。元和四年十一月二十二日，无疾暴薨，年六十。明年二月甲午，從葬懷州。夫人常山郡君，張氏，彭州刺史贈礼部侍郎蔇",
+          "aliases": [],
+          "sourceText": "遂爲給亊中。出爲商州刺史、金商防禦使。改河南少尹，行大尹事。半歳，拜大尹。元和四年十一月二十二日，无疾暴薨，年六十。明年二月甲午，從葬懷州。夫人常山郡君，張州、彭州刺史贈礼部侍郎蔇",
+          "correction": {
+            "reason": "“張州、彭州刺史”作“張氏，彭州刺史”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》“常山郡君張氏彭州刺史”；夫人姓張，“州”涉下文而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:b74d60793596aecbb5577ff5bb8915828b57cf24005cc19a0421e0f41186161c"
+            }
+          }
         },
         {
           "id": "p-hanyuji-4004abfb74d5b942-0026",
@@ -42525,9 +42844,20 @@
         },
         {
           "id": "p-hanyuji-4004abfb74d5b942-0087",
-          "version": "sha256:1e568ab079aa202b4e6cb5aaa40beae42d61155f3aa0882c569aa746b5e52851",
-          "text": "十七年，疾廢朝夕，八月庚戍薨，享年六十一。天子爲之不能臨朝者三日，",
-          "aliases": []
+          "version": "sha256:198f11d10dd9f55e8b6d933be10703f6aa34d638d5fe231bf81aa393f2d59041",
+          "text": "十七年，疾廢朝夕，八月庚戌薨，享年六十一。天子爲之不能臨朝者三日，",
+          "aliases": [],
+          "sourceText": "十七年，疾廢朝夕，八月庚戍薨，享年六十一。天子爲之不能臨朝者三日，",
+          "correction": {
+            "reason": "干支“庚戍”作“庚戌”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；地支只有“戌”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:198f11d10dd9f55e8b6d933be10703f6aa34d638d5fe231bf81aa393f2d59041"
+            }
+          }
         },
         {
           "id": "p-hanyuji-4004abfb74d5b942-0088",
@@ -43539,9 +43869,20 @@
         },
         {
           "id": "p-hanyuji-b5064aa5bf85afd9-0017",
-          "version": "sha256:4950ef56c577e6bd22c6956e747af1303d258d03f7fa559fe7d1e9b7657e180b",
-          "text": "王之遭誣在理，念太如老，將驚而戚，",
-          "aliases": []
+          "version": "sha256:e21dab01e835974762775d14d773079c49d4618eb0ccbedeb0bbaac1799859f3",
+          "text": "王之遭誣在理，念太妃老，將驚而戚，",
+          "aliases": [],
+          "sourceText": "王之遭誣在理，念太如老，將驚而戚，",
+          "correction": {
+            "reason": "“太如”作“太妃”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“如”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e21dab01e835974762775d14d773079c49d4618eb0ccbedeb0bbaac1799859f3"
+            }
+          }
         },
         {
           "id": "p-hanyuji-b5064aa5bf85afd9-0018",
@@ -44406,9 +44747,20 @@
         },
         {
           "id": "p-hanyuji-e4eb53f7b4843625-0025",
-          "version": "sha256:879a4aee9bff2bfe3efb364e03cd2146439814f87d6e0bb212e96c62f852a6a8",
-          "text": "樊子使來速銘，曰：“不則無以掩諸幽。”乃序而鉻之。先生諱郊，字東野。父庭玢，",
-          "aliases": []
+          "version": "sha256:bb2668efe4e5bf9975efd252cd54ddd140c95517ad97c707706e203aa7cedba6",
+          "text": "樊子使來速銘，曰：“不則無以掩諸幽。”乃序而銘之。先生諱郊，字東野。父庭玢，",
+          "aliases": [],
+          "sourceText": "樊子使來速銘，曰：“不則無以掩諸幽。”乃序而鉻之。先生諱郊，字東野。父庭玢，",
+          "correction": {
+            "reason": "“鉻之”作“銘之”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；墓誌序而銘之",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:bb2668efe4e5bf9975efd252cd54ddd140c95517ad97c707706e203aa7cedba6"
+            }
+          }
         },
         {
           "id": "p-hanyuji-e4eb53f7b4843625-0026",
@@ -45014,9 +45366,20 @@
         },
         {
           "id": "p-hanyuji-e82bdfeb79c00c4a-0043",
-          "version": "sha256:10ec5255d80add20393db561005731fb0c53776b9e1a537311aa61c466d8505a",
-          "text": "還鎭告疾，其复五月戊子薨，年五十五。訃至，上悼愴罷朝，遣郎中臨弔，贈尚書左僕射。以其年十一月景申，葬萬年鳯棲原。",
-          "aliases": []
+          "version": "sha256:f893df915626ed3374d0f25652c2dd8c76aa5bbdc9f011a945dddadb02bb5fbd",
+          "text": "還鎭告疾，其夏五月戊子薨，年五十五。訃至，上悼愴罷朝，遣郎中臨弔，贈尚書左僕射。以其年十一月景申，葬萬年鳯棲原。",
+          "aliases": [],
+          "sourceText": "還鎭告疾，其复五月戊子薨，年五十五。訃至，上悼愴罷朝，遣郎中臨弔，贈尚書左僕射。以其年十一月景申，葬萬年鳯棲原。",
+          "correction": {
+            "reason": "“其复”作“其夏”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“复”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f893df915626ed3374d0f25652c2dd8c76aa5bbdc9f011a945dddadb02bb5fbd"
+            }
+          }
         },
         {
           "id": "p-hanyuji-e82bdfeb79c00c4a-0044",
@@ -46217,9 +46580,20 @@
         },
         {
           "id": "p-hanyuji-ce975f82ef333420-0071",
-          "version": "sha256:dc3cab4657ed0951da585bc26111a534f1bd011583e53bc7fcb77190619b9d5b",
-          "text": "或又曰：“舜死葬蒼梧，二妃從之不及，溺死沅、湘之間。”今謂竹書紀年帝王之没皆曰“陟”。“陟”，昇也，謂昇天也。書曰：“殷禮陟配天”，言以道終，其德恊天也。書紀舜之没云“陟”者，與竹書、周書同文也。其下言“方乃死”者，所以釋“陟”爲“死”也。地之勢東南不如，言舜南廵而死，冝言“下方”，不得言“陟方”也。以此謂舜死葬蒼梧，於時二妃從之不及而溺者，皆不可信。",
-          "aliases": []
+          "version": "sha256:529b44d895a8ed665be02ecc745256f33d919577c4f7ab6ec5e2a564ee638656",
+          "text": "或又曰：“舜死葬蒼梧，二妃從之不及，溺死沅、湘之間。”余謂竹書紀年帝王之没皆曰“陟”。“陟”，昇也，謂昇天也。書曰：“殷禮陟配天”，言以道終，其德恊天也。書紀舜之没云“陟”者，與竹書、周書同文也。其下言“方乃死”者，所以釋“陟”爲“死”也。地之勢東南不如，言舜南廵而死，冝言“下方”，不得言“陟方”也。以此謂舜死葬蒼梧，於時二妃從之不及而溺者，皆不可信。",
+          "aliases": [],
+          "sourceText": "或又曰：“舜死葬蒼梧，二妃從之不及，溺死沅、湘之間。”今謂竹書紀年帝王之没皆曰“陟”。“陟”，昇也，謂昇天也。書曰：“殷禮陟配天”，言以道終，其德恊天也。書紀舜之没云“陟”者，與竹書、周書同文也。其下言“方乃死”者，所以釋“陟”爲“死”也。地之勢東南不如，言舜南廵而死，冝言“下方”，不得言“陟方”也。以此謂舜死葬蒼梧，於時二妃從之不及而溺者，皆不可信。",
+          "correction": {
+            "reason": "“今謂”作“余謂”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《黃陵廟碑》、《昌黎先生集》卷三十一",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:529b44d895a8ed665be02ecc745256f33d919577c4f7ab6ec5e2a564ee638656"
+            }
+          }
         },
         {
           "id": "p-hanyuji-ce975f82ef333420-0072",
@@ -46276,9 +46650,20 @@
         },
         {
           "id": "p-hanyuji-ce975f82ef333420-0079",
-          "version": "sha256:41b94eef783f0cf8efe7e478ebd0b55410fa331e37687fc59f7a8648e15a89fc",
-          "text": "歴御史屬三院，止尚書郎。生景肅，守三郡，終傳凉王；生政，襄、鄧等州防禦使、鄂州採訪使，贈吏部尚書。公尚書之弟某子。公諱仲舒，字弘中。",
-          "aliases": []
+          "version": "sha256:a45a23756f68c0c97f574cba0a1d062b213cc411f9c5a943de868eed93bb0ec2",
+          "text": "歴御史屬三院，止尚書郎。生景肅，守三郡，終傅凉王；生政，襄、鄧等州防禦使、鄂州採訪使，贈吏部尚書。公尚書之弟某子。公諱仲舒，字弘中。",
+          "aliases": [],
+          "sourceText": "歴御史屬三院，止尚書郎。生景肅，守三郡，終傳凉王；生政，襄、鄧等州防禦使、鄂州採訪使，贈吏部尚書。公尚書之弟某子。公諱仲舒，字弘中。",
+          "correction": {
+            "reason": "“傳凉王”作“傅凉王”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；王傅是官名，“傳”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:a45a23756f68c0c97f574cba0a1d062b213cc411f9c5a943de868eed93bb0ec2"
+            }
+          }
         },
         {
           "id": "p-hanyuji-ce975f82ef333420-0080",
@@ -46771,9 +47156,20 @@
         },
         {
           "id": "p-hanyuji-9b090ff6fbc2f52a-0058",
-          "version": "sha256:0e5a7753cee8f2aa55a532b9102aa6f3db2bc410a59c686e331cf0d9188e12e8",
-          "text": "子厚前時少年，勇於爲人，不自貴重顧藉，謂功業可立就，故坐廢退。旣道，又無相知有氣力得位者推挽，故卒死於窮裔，材不爲丗用，道不行於時也。",
-          "aliases": []
+          "version": "sha256:3ed1d8001a02f33b54256c92ad9e03ca2e712969181fb812c5001e82ca14687b",
+          "text": "子厚前時少年，勇於爲人，不自貴重顧藉，謂功業可立就，故坐廢退。旣退，又無相知有氣力得位者推挽，故卒死於窮裔，材不爲丗用，道不行於時也。",
+          "aliases": [],
+          "sourceText": "子厚前時少年，勇於爲人，不自貴重顧藉，謂功業可立就，故坐廢退。旣道，又無相知有氣力得位者推挽，故卒死於窮裔，材不爲丗用，道不行於時也。",
+          "correction": {
+            "reason": "“旣道”作“旣退”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》柳子厚墓誌銘“既退，又無相知有氣力得位者推挽”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:3ed1d8001a02f33b54256c92ad9e03ca2e712969181fb812c5001e82ca14687b"
+            }
+          }
         },
         {
           "id": "p-hanyuji-9b090ff6fbc2f52a-0059",
@@ -47941,9 +48337,20 @@
         },
         {
           "id": "p-hanyuji-d614b5eeded7fbc6-0029",
-          "version": "sha256:bc71b0254a3861e18ff08803f17b03796e9f7a6971ab6be7801a75fdcd5ded57",
-          "text": "爲華州録事參軍，爭事，爭事於刺史。去官，爲陸渾令。河南尹鄭餘慶薦之朝，拜南鄭",
-          "aliases": []
+          "version": "sha256:ef3b79769aef73355368033b628d27f7864b3a57c21df3f8d6bb578e8df599dd",
+          "text": "爲華州録事參軍，爭事於刺史。去官，爲陸渾令。河南尹鄭餘慶薦之朝，拜南鄭",
+          "aliases": [],
+          "sourceText": "爲華州録事參軍，爭事，爭事於刺史。去官，爲陸渾令。河南尹鄭餘慶薦之朝，拜南鄭",
+          "correction": {
+            "reason": "“爭事”重出，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》“錄事參軍爭事於刺史”刪衍文",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:ef3b79769aef73355368033b628d27f7864b3a57c21df3f8d6bb578e8df599dd"
+            }
+          }
         },
         {
           "id": "p-hanyuji-d614b5eeded7fbc6-0030",
@@ -48232,9 +48639,20 @@
         },
         {
           "id": "p-hanyuji-d614b5eeded7fbc6-0072",
-          "version": "sha256:389c05b9139773587b5cb1c2b9d502ca319222f699f906d4924aa2409f492e85",
-          "text": "貞元十七年九月丁夘，隴西李翶合葬其皇祖考貝州司法恭軍楚金、皇祖妣清河崔氏夫人于汴州開封縣某里。",
-          "aliases": []
+          "version": "sha256:dbc784baee8f6d9cff3327bf7c4443f9afb409e6c69a8813ee6b7a8084ad99fd",
+          "text": "貞元十七年九月丁夘，隴西李翶合葬其皇祖考貝州司法參軍楚金、皇祖妣清河崔氏夫人于汴州開封縣某里。",
+          "aliases": [],
+          "sourceText": "貞元十七年九月丁夘，隴西李翶合葬其皇祖考貝州司法恭軍楚金、皇祖妣清河崔氏夫人于汴州開封縣某里。",
+          "correction": {
+            "reason": "“司法恭軍”作“司法參軍”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；官名",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:dbc784baee8f6d9cff3327bf7c4443f9afb409e6c69a8813ee6b7a8084ad99fd"
+            }
+          }
         },
         {
           "id": "p-hanyuji-d614b5eeded7fbc6-0073",
@@ -48328,9 +48746,20 @@
         },
         {
           "id": "p-hanyuji-d614b5eeded7fbc6-0088",
-          "version": "sha256:99a14fd3b20c81074b5db459c97882c8ea97bae6d500b6f6fbc24b69fb7ed480",
-          "text": "法曹爭尤強，遂并收法曹，竟奏殺仇，籍其家，而釋法曹。法曹出，徑歸卧家，念河南勢弗可敗，氣憤弗食，歐血卒。 夷都人至今猶道之。處士少而孤，母夫人憐之，讀書學文，皆不待強教，卒以自立。在母夫人側，油油翼翼，不忍去時歳。母夫人旣終，育㓜弟與歸宗之妹，經營勤甚，未暇進仕也。年三十有六，元和二年五月壬辰，以疾卒。有男十歳，曰義；女九歳，曰孟；又有女，生處士卒後，未名。",
-          "aliases": []
+          "version": "sha256:c89021d6d300d7094cddf0590d5a675963463213355eaf0b14ea0f1f89ac0a47",
+          "text": "法曹爭尤強，遂并收法曹，竟奏殺仇，籍其家，而釋法曹。法曹出，徑歸卧家，念河南勢弗可敗，氣憤弗食，歐血卒。 東都人至今猶道之。處士少而孤，母夫人憐之，讀書學文，皆不待強教，卒以自立。在母夫人側，油油翼翼，不忍去時歳。母夫人旣終，育㓜弟與歸宗之妹，經營勤甚，未暇進仕也。年三十有六，元和二年五月壬辰，以疾卒。有男十歳，曰義；女九歳，曰孟；又有女，生處士卒後，未名。",
+          "aliases": [],
+          "sourceText": "法曹爭尤強，遂并收法曹，竟奏殺仇，籍其家，而釋法曹。法曹出，徑歸卧家，念河南勢弗可敗，氣憤弗食，歐血卒。 夷都人至今猶道之。處士少而孤，母夫人憐之，讀書學文，皆不待強教，卒以自立。在母夫人側，油油翼翼，不忍去時歳。母夫人旣終，育㓜弟與歸宗之妹，經營勤甚，未暇進仕也。年三十有六，元和二年五月壬辰，以疾卒。有男十歳，曰義；女九歳，曰孟；又有女，生處士卒後，未名。",
+          "correction": {
+            "reason": "“夷都人”作“東都人”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“夷”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c89021d6d300d7094cddf0590d5a675963463213355eaf0b14ea0f1f89ac0a47"
+            }
+          }
         },
         {
           "id": "p-hanyuji-d614b5eeded7fbc6-0089",
@@ -48564,9 +48993,20 @@
         },
         {
           "id": "p-hanyuji-c96a22e94e81f189-0023",
-          "version": "sha256:15022e5ff88bab0f3dc61cb2cb644fa0b3b6bd1fe2611c02c7bd2c441feee03b",
-          "text": "曾祖諱延，潭州長沙令；祖諱晦，常州參。父諱良甫，左驍衛兵曹參軍。況立名行，人士譽之。韓氏嫁九年，生一男一女，年二十七，以疾卒，",
-          "aliases": []
+          "version": "sha256:4d57a0ef97612ea9f98da92a2ec78e58350f21ab0dcbfb260f5ce7eb9410a640",
+          "text": "曾祖諱延，潭州長沙令；祖諱晦，常州參軍。父諱良甫，左驍衛兵曹參軍。況立名行，人士譽之。韓氏嫁九年，生一男一女，年二十七，以疾卒，",
+          "aliases": [],
+          "sourceText": "曾祖諱延，潭州長沙令；祖諱晦，常州參。父諱良甫，左驍衛兵曹參軍。況立名行，人士譽之。韓氏嫁九年，生一男一女，年二十七，以疾卒，",
+          "correction": {
+            "reason": "“常州參”下脫“軍”字，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》“常州參軍”補",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4d57a0ef97612ea9f98da92a2ec78e58350f21ab0dcbfb260f5ce7eb9410a640"
+            }
+          }
         },
         {
           "id": "p-hanyuji-c96a22e94e81f189-0024",
@@ -49306,18 +49746,18 @@
         },
         {
           "id": "p-hanyuji-a6fa85e687c1c40a-0002",
-          "version": "sha256:4ddcd51a89e0155a1bfbad6506ec927bb6429c98e004a629f1d1987dcb29e483",
-          "text": "故金紫光禄大夫檢校尚書左僕射同中書門下平章事兼汴州刺史充宣武軍節度副大使知節度事管内支度營田汴宋亳潁等州顴察處置等使上柱國隴西郡開國公贈太傅董公行狀",
+          "version": "sha256:30038de851fb1a31f5ddde7ad21cf78befde1c3aeb1e9130fbc5ca09b9e01302",
+          "text": "故金紫光禄大夫檢校尚書左僕射同中書門下平章事兼汴州刺史充宣武軍節度副大使知節度事管内支度營田汴宋亳潁等州觀察處置等使上柱國隴西郡開國公贈太傅董公行狀",
           "aliases": [],
           "sourceText": "故金紫光禄大夫檢校尚書左僕射同中書門下平章事兼汴州刺史充宣武軍節度副大使知節度事管内支度營田汴宋亳潁等州顴察處置等使上柱國隴西郡開國公贈太傳董公行狀",
           "correction": {
-            "reason": "“公贈太傳董公”：官名“太傅”“少傅”的“傅”误作“傳”（形近），同书他处亦作“傅”；维基文库同文作“傅”。",
+            "reason": "“公贈太傳董公”：官名“太傅”“少傅”的“傅”误作“傳”（形近），同书他处亦作“傅”；维基文库同文作“傅”。；“顴察”作“觀察”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；觀察處置使",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-21",
-              "textVersion": "sha256:4ddcd51a89e0155a1bfbad6506ec927bb6429c98e004a629f1d1987dcb29e483"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:30038de851fb1a31f5ddde7ad21cf78befde1c3aeb1e9130fbc5ca09b9e01302"
             }
           }
         },
@@ -49425,9 +49865,20 @@
         },
         {
           "id": "p-hanyuji-a6fa85e687c1c40a-0020",
-          "version": "sha256:b623bab4331b59a7973faa5ef4e1cde4fb92b929a191e65a9a8f3d6c4852640f",
-          "text": "雖有大過，猶將揜焉。如公則誰敢議？”語己，懷光拜曰：“天賜公活懷光之命。”喜且泣，公亦泣。則又語其將卒如語懷光者，將卒呼曰：“天賜公活吾三軍之命。”拜且泣，公亦泣。故懷光卒不與朱泚。當是時，懷光幾不反。公氣仁，語若不能出口，及當事，乃更踈亮捷給。其詞忠，其容貌温然，故有言於人，無不信。",
-          "aliases": []
+          "version": "sha256:f6624b38d1e8280a13c5dd8abb38883ec348566d19f078bda1db95b99f12d5b7",
+          "text": "雖有大過，猶將揜焉。如公則誰敢議？”語已，懷光拜曰：“天賜公活懷光之命。”喜且泣，公亦泣。則又語其將卒如語懷光者，將卒呼曰：“天賜公活吾三軍之命。”拜且泣，公亦泣。故懷光卒不與朱泚。當是時，懷光幾不反。公氣仁，語若不能出口，及當事，乃更踈亮捷給。其詞忠，其容貌温然，故有言於人，無不信。",
+          "aliases": [],
+          "sourceText": "雖有大過，猶將揜焉。如公則誰敢議？”語己，懷光拜曰：“天賜公活懷光之命。”喜且泣，公亦泣。則又語其將卒如語懷光者，將卒呼曰：“天賜公活吾三軍之命。”拜且泣，公亦泣。故懷光卒不與朱泚。當是時，懷光幾不反。公氣仁，語若不能出口，及當事，乃更踈亮捷給。其詞忠，其容貌温然，故有言於人，無不信。",
+          "correction": {
+            "reason": "“語己”作“語已”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；言畢為“語已”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f6624b38d1e8280a13c5dd8abb38883ec348566d19f078bda1db95b99f12d5b7"
+            }
+          }
         },
         {
           "id": "p-hanyuji-a6fa85e687c1c40a-0021",
@@ -49799,9 +50250,20 @@
         },
         {
           "id": "p-hanyuji-a6fa85e687c1c40a-0075",
-          "version": "sha256:007f2d8df38e33c4902770ca2419f9adc419df8c60ecd24fad8c7370015da9b6",
-          "text": "武德𥘉，朝京師，拜武候大將軍，封南陽郡公。卒葬大梁新里，趙郡李華刻碑頌之。君才生珉，爲玉鈴衛倉曹參軍事，贈尚書左僕射。生季龍，爲嵐州刺史，贈司空，清河崔元翰銘其德於碑，在新里。司空生燧，爲司徒、侍中、北平王，贈太傅，謚莊武。莊武之勲勞在䇿書。君其長子也，少舉明經，司徒公作藩太原，授河南府參軍。建中四年，司徒公使將武人子弟才力之士三百人，朝行在扞衛，獻御服、用物、弓甲、煑器、幄幕，奔走危難。上嘉其勤，超拜太常丞，賜章服，遷少府少監、太僕少卿。",
-          "aliases": []
+          "version": "sha256:6b9bb49d89238d39407f8cb5e308adb51278040c1920c4380f591606d9395cba",
+          "text": "武德𥘉，朝京師，拜武候大將軍，封南陽郡公。卒葬大梁新里，趙郡李華刻碑頌之。君才生珉，爲玉鈐衛倉曹參軍事，贈尚書左僕射。生季龍，爲嵐州刺史，贈司空，清河崔元翰銘其德於碑，在新里。司空生燧，爲司徒、侍中、北平王，贈太傅，謚莊武。莊武之勲勞在䇿書。君其長子也，少舉明經，司徒公作藩太原，授河南府參軍。建中四年，司徒公使將武人子弟才力之士三百人，朝行在扞衛，獻御服、用物、弓甲、煑器、幄幕，奔走危難。上嘉其勤，超拜太常丞，賜章服，遷少府少監、太僕少卿。",
+          "aliases": [],
+          "sourceText": "武德𥘉，朝京師，拜武候大將軍，封南陽郡公。卒葬大梁新里，趙郡李華刻碑頌之。君才生珉，爲玉鈴衛倉曹參軍事，贈尚書左僕射。生季龍，爲嵐州刺史，贈司空，清河崔元翰銘其德於碑，在新里。司空生燧，爲司徒、侍中、北平王，贈太傅，謚莊武。莊武之勲勞在䇿書。君其長子也，少舉明經，司徒公作藩太原，授河南府參軍。建中四年，司徒公使將武人子弟才力之士三百人，朝行在扞衛，獻御服、用物、弓甲、煑器、幄幕，奔走危難。上嘉其勤，超拜太常丞，賜章服，遷少府少監、太僕少卿。",
+          "correction": {
+            "reason": "官名“玉鈴衛”作“玉鈐衛”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《舊唐書》卷一百三十四“左玉鈐衛倉曹”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:6b9bb49d89238d39407f8cb5e308adb51278040c1920c4380f591606d9395cba"
+            }
+          }
         },
         {
           "id": "p-hanyuji-a6fa85e687c1c40a-0076",
@@ -49876,9 +50338,20 @@
         },
         {
           "id": "p-hanyuji-a6fa85e687c1c40a-0086",
-          "version": "sha256:30389fe5b29f377fbd6eeb97ece0e0a9682603741c760c800b4af112201c834c",
-          "text": "凡法始立必有病。今使人各輸其士物以爲租賦，則州縣無見錢。州縣無見錢，而穀米布帛未重，則用不足。而官吏之禄俸，月减其舊三之一，各置鑄錢，使新錢一當五者以給之，輕重平乃止。四法用，錢必輕，榖米布帛必重，百姓必均矣。謹録奏聞，伏聽勅旨。謹奏。",
-          "aliases": []
+          "version": "sha256:631c6c4e2ef660dbf0951c1e11c6d881655721f8d834bd2dd328f8e120d38e7b",
+          "text": "凡法始立必有病。今使人各輸其土物以爲租賦，則州縣無見錢。州縣無見錢，而穀米布帛未重，則用不足。而官吏之禄俸，月减其舊三之一，各置鑄錢，使新錢一當五者以給之，輕重平乃止。四法用，錢必輕，榖米布帛必重，百姓必均矣。謹録奏聞，伏聽勅旨。謹奏。",
+          "aliases": [],
+          "sourceText": "凡法始立必有病。今使人各輸其士物以爲租賦，則州縣無見錢。州縣無見錢，而穀米布帛未重，則用不足。而官吏之禄俸，月减其舊三之一，各置鑄錢，使新錢一當五者以給之，輕重平乃止。四法用，錢必輕，榖米布帛必重，百姓必均矣。謹録奏聞，伏聽勅旨。謹奏。",
+          "correction": {
+            "reason": "“士物”作“土物”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；以土產為租賦",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:631c6c4e2ef660dbf0951c1e11c6d881655721f8d834bd2dd328f8e120d38e7b"
+            }
+          }
         }
       ]
     },
@@ -50701,9 +51174,20 @@
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0076",
-          "version": "sha256:7f39abbef8fdc1587459a8c4a4088689f87b4eb4311e49eed7f70fc8225d951b",
-          "text": "臣某言：臣以去年正月上䟽論佛骨事，先朝恕臣愚直，不加大罪，自刑部侍郎貶授潮州刺史。伏遇其年七月十三日恩赦至，其年十月二十四日，準例量移，改授𡊮州刺史。 以今月八日到任上訖。臣某誠歡誠喜，頓首頓首。伏以州小地狹，稅賦及時，人安吏循，閭里無事。微臣惟當布陛下惟新之澤，守國家太平之規，勸以耕桑，使無怠隋而已。臣以愚陋無堪，累䝉朝廷奬用，掌誥西掖，司刑南宫，𩔰榮頻煩，稱效寂蔑。又䝉赦其罪累，授以方州。德重恩弘，身微命賤，無階答謝，惟積慙惶。無任感恩慙惕之至。謹差軍事副將郝泰奉表陳謝以聞。",
-          "aliases": []
+          "version": "sha256:bcc8b3494a7c22fe4be47769ed0c9c87bb9a79dafc59e3b7098029ab8b3a3217",
+          "text": "臣某言：臣以去年正月上䟽論佛骨事，先朝恕臣愚直，不加大罪，自刑部侍郎貶授潮州刺史。伏遇其年七月十三日恩赦至，其年十月二十四日，準例量移，改授𡊮州刺史。 以今月八日到任上訖。臣某誠歡誠喜，頓首頓首。伏以州小地狹，稅賦及時，人安吏循，閭里無事。微臣惟當布陛下惟新之澤，守國家太平之規，勸以耕桑，使無怠惰而已。臣以愚陋無堪，累䝉朝廷奬用，掌誥西掖，司刑南宫，𩔰榮頻煩，稱效寂蔑。又䝉赦其罪累，授以方州。德重恩弘，身微命賤，無階答謝，惟積慙惶。無任感恩慙惕之至。謹差軍事副將郝泰奉表陳謝以聞。",
+          "aliases": [],
+          "sourceText": "臣某言：臣以去年正月上䟽論佛骨事，先朝恕臣愚直，不加大罪，自刑部侍郎貶授潮州刺史。伏遇其年七月十三日恩赦至，其年十月二十四日，準例量移，改授𡊮州刺史。 以今月八日到任上訖。臣某誠歡誠喜，頓首頓首。伏以州小地狹，稅賦及時，人安吏循，閭里無事。微臣惟當布陛下惟新之澤，守國家太平之規，勸以耕桑，使無怠隋而已。臣以愚陋無堪，累䝉朝廷奬用，掌誥西掖，司刑南宫，𩔰榮頻煩，稱效寂蔑。又䝉赦其罪累，授以方州。德重恩弘，身微命賤，無階答謝，惟積慙惶。無任感恩慙惕之至。謹差軍事副將郝泰奉表陳謝以聞。",
+          "correction": {
+            "reason": "“怠隋”作“怠惰”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“隋”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:bcc8b3494a7c22fe4be47769ed0c9c87bb9a79dafc59e3b7098029ab8b3a3217"
+            }
+          }
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0077",
@@ -50761,9 +51245,20 @@
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0086",
-          "version": "sha256:6442c9cfe9ac2001b897a494ab169d1c560e45fa0aa776f45799ba270734fa3b",
-          "text": "臣某言：伏承閏正月二十七日，皇太后光膺令典，受𠕋宫闈，歡心始自於内朝，孝理遂形於寰海。臣某誠歡誠喜，頓首頓首。皇太后夙賛先皇，弼成至化，誕生明聖，纉継鴻休，華胥實賛於軒圖，文母有光於周道，恭惟懿德，克配前芳。皇帝陛下出震承乾，垂衣御極，式展臣子之志，以明教化之源，禮命載崇，華夷同慶。同待罪外郡，不獲隨例稱賀闕廷，無任踊躍欣歡之至，",
-          "aliases": []
+          "version": "sha256:c0255ae54bd39ad90242acad22b0d15e17eb52c10cc1d72348f78a949e96ae63",
+          "text": "臣某言：伏承閏正月二十七日，皇太后光膺令典，受𠕋宫闈，歡心始自於内朝，孝理遂形於寰海。臣某誠歡誠喜，頓首頓首。皇太后夙賛先皇，弼成至化，誕生明聖，纉継鴻休，華胥實賛於軒圖，文母有光於周道，恭惟懿德，克配前芳。皇帝陛下出震承乾，垂衣御極，式展臣子之志，以明教化之源，禮命載崇，華夷同慶。臣待罪外郡，不獲隨例稱賀闕廷，無任踊躍欣歡之至，",
+          "aliases": [],
+          "sourceText": "臣某言：伏承閏正月二十七日，皇太后光膺令典，受𠕋宫闈，歡心始自於内朝，孝理遂形於寰海。臣某誠歡誠喜，頓首頓首。皇太后夙賛先皇，弼成至化，誕生明聖，纉継鴻休，華胥實賛於軒圖，文母有光於周道，恭惟懿德，克配前芳。皇帝陛下出震承乾，垂衣御極，式展臣子之志，以明教化之源，禮命載崇，華夷同慶。同待罪外郡，不獲隨例稱賀闕廷，無任踊躍欣歡之至，",
+          "correction": {
+            "reason": "“同待罪”作“臣待罪”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；表文自稱“臣”，“同”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c0255ae54bd39ad90242acad22b0d15e17eb52c10cc1d72348f78a949e96ae63"
+            }
+          }
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0087",
@@ -50862,18 +51357,18 @@
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0101",
-          "version": "sha256:cdb7a5f5ac96efcb236568c4238b60b2f50f05b414bc136cefbbadacc9394f1a",
-          "text": "右伏凖建中元年正月五日制：常參官及刺史授上訖，三日内舉一人自代者。前伴官詞學優長，才器端實；早登科第，亦更臺省；往因過犯，貶黜至今，十五餘年。自領漳州，悉心爲治， 官吏懲懼，不敢爲非；百姓安寧，並得其所。臣在潮州之日，與其州界相接；臣之政事，逺所不如。乞以代臣，庶爲允當。謹録奏聞。",
+          "version": "sha256:bac825557b41cbee1a24bb2a9fe9be1d9680b23a02389c92fc5c50cc84e40fc5",
+          "text": "右伏凖建中元年正月五日制：常參官及刺史授上訖，三日内舉一人自代者。前件官詞學優長，才器端實；早登科第，亦更臺省；往因過犯，貶黜至今，十五餘年。自領漳州，悉心爲治， 官吏懲懼，不敢爲非；百姓安寧，並得其所。臣在潮州之日，與其州界相接；臣之政事，逺所不如。乞以代臣，庶爲允當。謹録奏聞。",
           "aliases": [],
           "sourceText": "右伏凖建中元年正月五日制：常參官及刺史授上訖，三日内舉一人自代者。前伴官詞學優長，才器端實；早登科第，亦更臺省；往因過犯，貶黜至仐，十五餘年。自領漳州，悉心爲治， 官吏懲懼，不敢爲非；百姓安寧，並得其所。臣在潮州之日，與其州界相接；臣之政事，逺所不如。乞以代臣，庶爲允當。謹録奏聞。",
           "correction": {
-            "reason": "“黜至仐，十”：“仐”是“今”的讹字（本书“今”字通行数百处，零星作“仐”是录入时形近混入），此处文义只能是“今”；维基文库同文作“今”。",
+            "reason": "“黜至仐，十”：“仐”是“今”的讹字（本书“今”字通行数百处，零星作“仐”是录入时形近混入），此处文义只能是“今”；维基文库同文作“今”。；“前伴官”作“前件官”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；公文“前件官”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-21",
-              "textVersion": "sha256:cdb7a5f5ac96efcb236568c4238b60b2f50f05b414bc136cefbbadacc9394f1a"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:bac825557b41cbee1a24bb2a9fe9be1d9680b23a02389c92fc5c50cc84e40fc5"
             }
           }
         },
@@ -50885,9 +51380,20 @@
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0103",
-          "version": "sha256:d3ba8a432cdd8d17ba54004c7d8bce88c17ee62200da2c9a70a1d42c15aff298",
-          "text": "臣某言：伏奉正月二十七日詔書，大行皇帝奄棄萬國。承詔哀惶，號踊無地；伏惟聖情，何可堪處！大行皇帝功濟寰區，仁霑動植；奉諱之日，率土崩心；凡在臣子，不勝殞製。伏惟陛下痛貫宸極，聖情難居。臣拘守逺郡，不獲匍匐奉慰，瞻望闕庭，且悲且戀。謹奉表陳慰以聞。",
-          "aliases": []
+          "version": "sha256:b4c38b3664b356f85c0f22c2cfc8cb32350cc5cf02b976cb0bd0f8697638ae07",
+          "text": "臣某言：伏奉正月二十七日詔書，大行皇帝奄棄萬國。承詔哀惶，號踊無地；伏惟聖情，何可堪處！大行皇帝功濟寰區，仁霑動植；奉諱之日，率土崩心；凡在臣子，不勝殞裂。伏惟陛下痛貫宸極，聖情難居。臣拘守逺郡，不獲匍匐奉慰，瞻望闕庭，且悲且戀。謹奉表陳慰以聞。",
+          "aliases": [],
+          "sourceText": "臣某言：伏奉正月二十七日詔書，大行皇帝奄棄萬國。承詔哀惶，號踊無地；伏惟聖情，何可堪處！大行皇帝功濟寰區，仁霑動植；奉諱之日，率土崩心；凡在臣子，不勝殞製。伏惟陛下痛貫宸極，聖情難居。臣拘守逺郡，不獲匍匐奉慰，瞻望闕庭，且悲且戀。謹奉表陳慰以聞。",
+          "correction": {
+            "reason": "“殞製”作“殞裂”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“製”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:b4c38b3664b356f85c0f22c2cfc8cb32350cc5cf02b976cb0bd0f8697638ae07"
+            }
+          }
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0104",
@@ -50915,9 +51421,20 @@
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0108",
-          "version": "sha256:5aa64250f9cee7949ce7e5f4eee3fa6d2359c56265794975243b57af421bae40",
-          "text": "臣某言：臣得所管國子、太學、廣文、四門，及書、筭、律等士館學生沈周封等六百人狀，",
-          "aliases": []
+          "version": "sha256:ddf6a2cb1c91a6e7dee0e249524e7bb4439e4c73b658fd1e15e12c06ba8ebb7d",
+          "text": "臣某言：臣得所管國子、太學、廣文、四門，及書、筭、律等七館學生沈周封等六百人狀，",
+          "aliases": [],
+          "sourceText": "臣某言：臣得所管國子、太學、廣文、四門，及書、筭、律等士館學生沈周封等六百人狀，",
+          "correction": {
+            "reason": "“士館”作“七館”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；國子監七館，“士”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:ddf6a2cb1c91a6e7dee0e249524e7bb4439e4c73b658fd1e15e12c06ba8ebb7d"
+            }
+          }
         },
         {
           "id": "p-hanyuji-006f41ec97aca16f-0109",
@@ -51558,18 +52075,18 @@
         },
         {
           "id": "p-hanyuji-560e85b7ca02c4a0-0088",
-          "version": "sha256:cb2e13ec63980dbd41afa59dd8480cc32334e163c88393424394518e88d433da",
-          "text": "今臣計其新法，亦用十萬不啻，减得十萬，却用十萬，所亡所得，一無贏餘也。平叔又請以糶鹽多少爲刺史縣令殿最，多者遷轉，不拘常例，如闕課利，依條科責者。刺史縣令，職在分憂，今惟以鹽利多少爲之升黜，不復考其治行，非唐虞三載考黜陟幽明之義也。",
+          "version": "sha256:24d53d711ae9dc6c94af2e5f0656aa307f6d3e67e69e7fb1fae98d1a80c704ba",
+          "text": "今臣計其新法，亦用十萬不啻，减得十萬，却用十萬，所亡所得，一無贏餘也。平叔又請以糶鹽多少爲刺史縣令殿最，多者遷轉，不拘常例，如闕課利，依條科責者。刺史縣令，職在分憂，今惟以鹽利多少爲之升黜，不復考其治行，非唐虞三載考績黜陟幽明之義也。",
           "aliases": [],
           "sourceText": "仐臣計其新法，亦用十萬不啻，减得十萬，却用十萬，所亡所得，一無贏餘也。平叔又請以糶鹽多少爲刺史縣令殿最，多者遷轉，不拘常例，如闕課利，依條科責者。刺史縣令，職在分憂，今惟以鹽利多少爲之升黜，不復考其治行，非唐虞三載考黜陟幽明之義也。",
           "correction": {
-            "reason": "“仐臣計”：“仐”是“今”的讹字（本书“今”字通行数百处，零星作“仐”是录入时形近混入），此处文义只能是“今”；维基文库同文作“今”。",
+            "reason": "“仐臣計”：“仐”是“今”的讹字（本书“今”字通行数百处，零星作“仐”是录入时形近混入），此处文义只能是“今”；维基文库同文作“今”。；“考”下脫“績”字，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《尚書》舜典“三載考績，三考黜陟幽明”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-21",
-              "textVersion": "sha256:cb2e13ec63980dbd41afa59dd8480cc32334e163c88393424394518e88d433da"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:24d53d711ae9dc6c94af2e5f0656aa307f6d3e67e69e7fb1fae98d1a80c704ba"
             }
           }
         },
@@ -51662,9 +52179,20 @@
         },
         {
           "id": "p-hanyuji-560e85b7ca02c4a0-0098",
-          "version": "sha256:313a93cfb7d734e9cda3d2d4c7b2175d8b1c3e6855f2a8a762bcaa9ba4dc4088",
-          "text": "若官不自糶鹽，此色人等不糶鹽而食，官自糶塩，即糴而食之，則信如平叔所言矣。若官自糶與不自糶，皆常糴塩而食，則今官自糶，亦無利也。所謂知其一而不知其二，見其近而不見其逺也。國家榷塩，糶與商人，商人納榷，糶與百姓，",
-          "aliases": []
+          "version": "sha256:aa524607a76750be501c0e7f62efe66ef0f8ec5b443dea93fc60cdcdb3c8244b",
+          "text": "若官不自糶鹽，此色人等不糴鹽而食，官自糶塩，即糴而食之，則信如平叔所言矣。若官自糶與不自糶，皆常糴塩而食，則今官自糶，亦無利也。所謂知其一而不知其二，見其近而不見其逺也。國家榷塩，糶與商人，商人納榷，糶與百姓，",
+          "aliases": [],
+          "sourceText": "若官不自糶鹽，此色人等不糶鹽而食，官自糶塩，即糴而食之，則信如平叔所言矣。若官自糶與不自糶，皆常糴塩而食，則今官自糶，亦無利也。所謂知其一而不知其二，見其近而不見其逺也。國家榷塩，糶與商人，商人納榷，糶與百姓，",
+          "correction": {
+            "reason": "“不糶鹽”作“不糴鹽”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；買鹽為糴，下句“官自糶鹽”乃賣",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:aa524607a76750be501c0e7f62efe66ef0f8ec5b443dea93fc60cdcdb3c8244b"
+            }
+          }
         },
         {
           "id": "p-hanyuji-560e85b7ca02c4a0-0099",
@@ -52099,9 +52627,20 @@
         },
         {
           "id": "p-hanyuji-44ec3a0a8a48c1ac-0028",
-          "version": "sha256:39a350af7ec206dd89e8966e400598d701395ce4a81b601af3a8e05cd8fa7afa",
-          "text": "其友名子輿，忽然憂且思，褰裳觸泥水，裹飯往食之。入門相對語，天命良不疑。好事漆園吏，書之存雄辭。千年事已逺，二子情可推。我讀此篇日，正當雨雪時。吾身固己困，吾友復何爲？薄粥不足裹，深泥諒難馳。曽無子輿事，空賦子桑詩。",
-          "aliases": []
+          "version": "sha256:d5be88d6e04ddda9396f30d48735f700552c3bb1e9724e1661e26a7d35a23c04",
+          "text": "其友名子輿，忽然憂且思，褰裳觸泥水，裹飯往食之。入門相對語，天命良不疑。好事漆園吏，書之存雄辭。千年事已逺，二子情可推。我讀此篇日，正當雨雪時。吾身固已困，吾友復何爲？薄粥不足裹，深泥諒難馳。曽無子輿事，空賦子桑詩。",
+          "aliases": [],
+          "sourceText": "其友名子輿，忽然憂且思，褰裳觸泥水，裹飯往食之。入門相對語，天命良不疑。好事漆園吏，書之存雄辭。千年事已逺，二子情可推。我讀此篇日，正當雨雪時。吾身固己困，吾友復何爲？薄粥不足裹，深泥諒難馳。曽無子輿事，空賦子桑詩。",
+          "correction": {
+            "reason": "“固己困”作“固已困”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“已”為副詞",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d5be88d6e04ddda9396f30d48735f700552c3bb1e9724e1661e26a7d35a23c04"
+            }
+          }
         },
         {
           "id": "p-hanyuji-44ec3a0a8a48c1ac-0029",
@@ -52384,9 +52923,20 @@
         },
         {
           "id": "p-hanyuji-9cc51f06b771aeb2-0025",
-          "version": "sha256:dbf453b6e1435c30e431cd70a9024ec79e0cca11a14d348ddc2f26f5a9109599",
-          "text": "是以勞思長懷，中夜起坐，度時揣己，廢然而返，雖欲從之，求由也已。又常念古之人日己進，今之人日已退。",
-          "aliases": []
+          "version": "sha256:f5c616f0ecf748a62d205faf9ce34b9d30fd7dcd2622f8cd836deeda83739907",
+          "text": "是以勞思長懷，中夜起坐，度時揣己，廢然而返，雖欲從之，求由也已。又常念古之人日已進，今之人日已退。",
+          "aliases": [],
+          "sourceText": "是以勞思長懷，中夜起坐，度時揣己，廢然而返，雖欲從之，求由也已。又常念古之人日己進，今之人日已退。",
+          "correction": {
+            "reason": "“日己進”作“日已進”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及下句“今之人日已退”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f5c616f0ecf748a62d205faf9ce34b9d30fd7dcd2622f8cd836deeda83739907"
+            }
+          }
         },
         {
           "id": "p-hanyuji-9cc51f06b771aeb2-0026",
@@ -53281,9 +53831,20 @@
         },
         {
           "id": "p-hanyuji-acef5cc359159664-0058",
-          "version": "sha256:12e7d3d04f116211df2803b386cd52efb070f0c471e8984cd1f3970a274e5826",
-          "text": "井東北數十歩，有楚昭王廟。有舊時髙木方株，多不得其名，歷代莫敢剪伐。尤多古松大竹。",
-          "aliases": []
+          "version": "sha256:94f337af7e13dd09d1f778204628d44dda03b909fc8c0dfb2c20285425bc7997",
+          "text": "井東北數十歩，有楚昭王廟。有舊時髙木萬株，多不得其名，歷代莫敢剪伐。尤多古松大竹。",
+          "aliases": [],
+          "sourceText": "井東北數十歩，有楚昭王廟。有舊時髙木方株，多不得其名，歷代莫敢剪伐。尤多古松大竹。",
+          "correction": {
+            "reason": "“方株”作“萬株”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及維基文庫《記宜城驛》、《昌黎先生集》外集卷四“有舊時高木萬株”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:94f337af7e13dd09d1f778204628d44dda03b909fc8c0dfb2c20285425bc7997"
+            }
+          }
         },
         {
           "id": "p-hanyuji-acef5cc359159664-0059",
@@ -53346,9 +53907,20 @@
         },
         {
           "id": "p-hanyuji-acef5cc359159664-0067",
-          "version": "sha256:5b3cc9103915049736f0d5b1cdf5630b9dee1a4aa3fc152e5e4838c547025652",
-          "text": "是來也，余黜於徐州，將西居於洛陽，汎舟於清冷池，泊於文雅臺下，西望商丘，東望脩竹園，入微子廟，求鄒陽、校叔、司馬相如之故文。乆立於廟陛間，悲那頌之不作於是者已乆。",
-          "aliases": []
+          "version": "sha256:5c6e4b42bc85a812e94cc6c81d9b6096011bd6a67feb6df8d4f3ba699d2d4dde",
+          "text": "是來也，余黜於徐州，將西居於洛陽，汎舟於清冷池，泊於文雅臺下，西望商丘，東望脩竹園，入微子廟，求鄒陽、枚叔、司馬相如之故文。乆立於廟陛間，悲那頌之不作於是者已乆。",
+          "aliases": [],
+          "sourceText": "是來也，余黜於徐州，將西居於洛陽，汎舟於清冷池，泊於文雅臺下，西望商丘，東望脩竹園，入微子廟，求鄒陽、校叔、司馬相如之故文。乆立於廟陛間，悲那頌之不作於是者已乆。",
+          "correction": {
+            "reason": "“校叔”作“枚叔”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《漢書》枚乘傳（枚乘字叔），與鄒陽、司馬相如並稱",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5c6e4b42bc85a812e94cc6c81d9b6096011bd6a67feb6df8d4f3ba699d2d4dde"
+            }
+          }
         },
         {
           "id": "p-hanyuji-acef5cc359159664-0068",
@@ -53748,9 +54320,20 @@
         },
         {
           "id": "p-hanyuji-bfa2fbf917a14f00-0016",
-          "version": "sha256:e6ed8dc7667292d4edc39b1158caa21dbe18b189d1a93bfd2f5216fe2a345a4f",
-          "text": "比年旱歉，先聖憂人，特詔逋科，悉皆蠲免。而實敢肆誣罔，復令徴剥，頗紊朝廷之法，實惟聚歛之臣。",
-          "aliases": []
+          "version": "sha256:4d194b963abdbee35a74d953b15da88951f74cfcc42137094ec4a426cf66ba4b",
+          "text": "比年旱歉，先聖憂人，特詔逋租，悉皆蠲免。而實敢肆誣罔，復令徴剥，頗紊朝廷之法，實惟聚歛之臣。",
+          "aliases": [],
+          "sourceText": "比年旱歉，先聖憂人，特詔逋科，悉皆蠲免。而實敢肆誣罔，復令徴剥，頗紊朝廷之法，實惟聚歛之臣。",
+          "correction": {
+            "reason": "“逋科”作“逋租”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；蠲免逋欠租賦",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4d194b963abdbee35a74d953b15da88951f74cfcc42137094ec4a426cf66ba4b"
+            }
+          }
         },
         {
           "id": "p-hanyuji-bfa2fbf917a14f00-0017",
@@ -53863,9 +54446,20 @@
         },
         {
           "id": "p-hanyuji-18d895c2dad509d7-0007",
-          "version": "sha256:571567ef9d39044c050e9bdac2899dbc64ecc06a55a63bba7cdb37fac886c9ca",
-          "text": "乙丑，停塩鐡使進獻。舊塩鐵錢物，悉入正庫，一助經費。其後主此務者，稍以時市珍翫時新物充進獻，以求恩澤。其後益甚，歳淮錢物，謂之羡餘，而經入益少。至貞元末，逐月有獻焉，謂之月進，至是乃罷。",
-          "aliases": []
+          "version": "sha256:615797adda45b9103fef7e93ed24b151912594c1d45a260dd0d163dfca923b00",
+          "text": "乙丑，停塩鐡使進獻。舊塩鐵錢物，悉入正庫，一助經費。其後主此務者，稍以時市珍翫時新物充進獻，以求恩澤。其後益甚，歳進錢物，謂之羡餘，而經入益少。至貞元末，逐月有獻焉，謂之月進，至是乃罷。",
+          "aliases": [],
+          "sourceText": "乙丑，停塩鐡使進獻。舊塩鐵錢物，悉入正庫，一助經費。其後主此務者，稍以時市珍翫時新物充進獻，以求恩澤。其後益甚，歳淮錢物，謂之羡餘，而經入益少。至貞元末，逐月有獻焉，謂之月進，至是乃罷。",
+          "correction": {
+            "reason": "“歳淮”作“歳進”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；歲進羨餘，“淮”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:615797adda45b9103fef7e93ed24b151912594c1d45a260dd0d163dfca923b00"
+            }
+          }
         },
         {
           "id": "p-hanyuji-18d895c2dad509d7-0008",
@@ -53886,9 +54480,20 @@
         },
         {
           "id": "p-hanyuji-18d895c2dad509d7-0009",
-          "version": "sha256:6607f8c73ef6300bf3966fddd53c152c9ba11c8381e2e83a3aa9ee84c8edd446",
-          "text": "癸酉，出後宫并教坊女妓六百人，聽其親戚迎于九仙門，百姓相聚，讙呼大喜。 景戍，詔曰：“檢校司空、平章事杜佑可檢校司徒、平章事，充度支并塩鐵使。以浙西觀察李錡爲浙西節度、檢校刑部尚書。”賜徐州軍額曰武寕。制曰：“朕新委元臣，綜釐重務，爰求貳職，固在能臣。起居舎人王叔文，精識瓌材，寡徒少欲，質直無𨼆，沈深有謀。其忠也，盡致君之大方；其言也，逹爲政之要道。凡所詢訪，皆合大猷，冝継前勞，佇光新命。可度支塩鐵副使，依前翰林學士，本官賜如故。”",
-          "aliases": []
+          "version": "sha256:1f8faaac12d4fc4d1efd1ba206d4c866ceb0624b3615b0f0fda6892df4db1ab5",
+          "text": "癸酉，出後宫并教坊女妓六百人，聽其親戚迎于九仙門，百姓相聚，讙呼大喜。 景戌，詔曰：“檢校司空、平章事杜佑可檢校司徒、平章事，充度支并塩鐵使。以浙西觀察李錡爲浙西節度、檢校刑部尚書。”賜徐州軍額曰武寕。制曰：“朕新委元臣，綜釐重務，爰求貳職，固在能臣。起居舎人王叔文，精識瓌材，寡徒少欲，質直無𨼆，沈深有謀。其忠也，盡致君之大方；其言也，逹爲政之要道。凡所詢訪，皆合大猷，冝継前勞，佇光新命。可度支塩鐵副使，依前翰林學士，本官賜如故。”",
+          "aliases": [],
+          "sourceText": "癸酉，出後宫并教坊女妓六百人，聽其親戚迎于九仙門，百姓相聚，讙呼大喜。 景戍，詔曰：“檢校司空、平章事杜佑可檢校司徒、平章事，充度支并塩鐵使。以浙西觀察李錡爲浙西節度、檢校刑部尚書。”賜徐州軍額曰武寕。制曰：“朕新委元臣，綜釐重務，爰求貳職，固在能臣。起居舎人王叔文，精識瓌材，寡徒少欲，質直無𨼆，沈深有謀。其忠也，盡致君之大方；其言也，逹爲政之要道。凡所詢訪，皆合大猷，冝継前勞，佇光新命。可度支塩鐵副使，依前翰林學士，本官賜如故。”",
+          "correction": {
+            "reason": "干支“景戍”作“景戌”（景即丙，避諱），據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；地支只有“戌”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:1f8faaac12d4fc4d1efd1ba206d4c866ceb0624b3615b0f0fda6892df4db1ab5"
+            }
+          }
         },
         {
           "id": "p-hanyuji-18d895c2dad509d7-0010",
@@ -54100,9 +54705,20 @@
         },
         {
           "id": "p-hanyuji-182bbb615afd535a-0003",
-          "version": "sha256:8d4565e46d42de75a70fdfd973c1eed2fe976353ad1159d08bb61c10c93eddcd",
-          "text": "貶宣州巡官羊士諤爲汀州寕化縣尉。士諤性傾躁，時以公事至京，遇叔文用事，朋黨相𤌙，頗不能平，公言其非。叔文聞之怒，欲下詔斬之，執誼不可；則令杖殺之，執誼又以爲不可，遂貶焉。由是叔文始大惡執誼，往來二人門下者皆懼。先時，劉闢以劒南節度副使將韋皐之意于叔文，求都領劒南三川，謂叔文曰：“太尉使某致微誠於公，若與其三川，當以死相助；若不用，某亦當有以相酬。”",
-          "aliases": []
+          "version": "sha256:2432ba44998431a1cc0ff59599685ed4505ef3fcc6aaae9fb94d40916cc6c78d",
+          "text": "貶宣州巡官羊士諤爲汀州寕化縣尉。士諤性輕躁，時以公事至京，遇叔文用事，朋黨相𤌙，頗不能平，公言其非。叔文聞之怒，欲下詔斬之，執誼不可；則令杖殺之，執誼又以爲不可，遂貶焉。由是叔文始大惡執誼，往來二人門下者皆懼。先時，劉闢以劒南節度副使將韋皐之意于叔文，求都領劒南三川，謂叔文曰：“太尉使某致微誠於公，若與其三川，當以死相助；若不用，某亦當有以相酬。”",
+          "aliases": [],
+          "sourceText": "貶宣州巡官羊士諤爲汀州寕化縣尉。士諤性傾躁，時以公事至京，遇叔文用事，朋黨相𤌙，頗不能平，公言其非。叔文聞之怒，欲下詔斬之，執誼不可；則令杖殺之，執誼又以爲不可，遂貶焉。由是叔文始大惡執誼，往來二人門下者皆懼。先時，劉闢以劒南節度副使將韋皐之意于叔文，求都領劒南三川，謂叔文曰：“太尉使某致微誠於公，若與其三川，當以死相助；若不用，某亦當有以相酬。”",
+          "correction": {
+            "reason": "“傾躁”作“輕躁”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“傾”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:2432ba44998431a1cc0ff59599685ed4505ef3fcc6aaae9fb94d40916cc6c78d"
+            }
+          }
         },
         {
           "id": "p-hanyuji-182bbb615afd535a-0004",
@@ -54244,18 +54860,18 @@
         },
         {
           "id": "p-hanyuji-182bbb615afd535a-0027",
-          "version": "sha256:784e2a98bad583f39d6de5edbd2c8bd793c2f3a40343a372974c0fe30c435afd",
-          "text": "𥘉，城之妹夫亡在他處，家貧不能葬，城親與其弟舁尸以歸，葬於其居之側，往返千餘里。卒時年六十餘。戊午，以戸部侍郎潘孟陽爲度支、塩鐵轉運副使。其日，王伾詐稱疾自免。自叔文歸第，伾日詣中人并杜佑，請起叔文爲相，且㧾北軍。旣不得，請以威逺軍使平章事，又不得。其黨皆憂悸不自保。伾至其日坐翰林中，䟽三上，不報。知事不濟，行且卧，至有忽呌曰：“伾中風矣！”明日，遂輿歸不出。戊子，以禮部侍郎權德輿爲户部侍郎，以倉部郎中、判度支陳諌爲河中少尹。伾、叔文之黨於是始去。乙未，詔：“軍國政事，宜權令皇太子某勾當。百辟羣后，中外庶僚，悉心輔翼，以底于理。宣布朕意，咸使知聞。”上自𥘉即位，則疾患不能言，至四月，益甚，時扶坐殿，羣臣望拜而已，未甞有進見者。天下事皆專断於叔文，而李忠言、王伾爲之内主，執誼行之於外。朋黨諠譁，榮辱進退，生於造次，惟其所欲，不拘程度。旣知内外厭毒，慮見摧敗，即謀兵權，欲以自固。而人情益疑懼，不測其所爲，朝夕伺候。㑹其與執誼交惡，心腹内離，外有韋皐、裴垍、嚴綬等牋表，",
+          "version": "sha256:c440f1f16eb05961eb15dd1582f5ed673a390f45eacd0b738f825cf42ae48998",
+          "text": "𥘉，城之妹夫亡在他處，家貧不能葬，城親與其弟舁尸以歸，葬於其居之側，往返千餘里。卒時年六十餘。戊午，以戸部侍郎潘孟陽爲度支、塩鐵轉運副使。其日，王伾詐稱疾自免。自叔文歸第，伾日詣中人并杜佑，請起叔文爲相，且㧾北軍。旣不得，請以威逺軍使平章事，又不得。其黨皆憂悸不自保。伾至其日坐翰林中，䟽三上，不報。知事不濟，行且卧，至夜忽呌曰：“伾中風矣！”明日，遂輿歸不出。戊子，以禮部侍郎權德輿爲户部侍郎，以倉部郎中、判度支陳諌爲河中少尹。伾、叔文之黨於是始去。乙未，詔：“軍國政事，宜權令皇太子某勾當。百辟羣后，中外庶僚，悉心輔翼，以底于理。宣布朕意，咸使知聞。”上自𥘉即位，則疾患不能言，至四月，益甚，時扶坐殿，羣臣望拜而已，未甞有進見者。天下事皆專断於叔文，而李忠言、王伾爲之内主，執誼行之於外。朋黨諠譁，榮辱進退，生於造次，惟其所欲，不拘程度。旣知内外厭毒，慮見摧敗，即謀兵權，欲以自固。而人情益疑懼，不測其所爲，朝夕伺候。㑹其與執誼交惡，心腹内離，外有韋皐、裴垍、嚴綬等牋表，",
           "aliases": [],
           "sourceText": "𥘉，城之妹夫亡在他處，家貧不能葬，城親與其弟舁尸以歸，葬於其居之側，往返千餘里。卒時年六十餘。戊午，以戸部侍郎潘孟陽爲度支、塩鐵轉運副使。其日，王伾詐稱疾自免。自叔文歸第，伾日詣中人并杜佑，請起叔文爲相，且㧾北軍。旣不得，請以威逺軍使平章事，又不得。其黨皆憂悸不自保。伾至其日生翰林中，䟽三上，不報。知事不濟，行且卧，至有忽呌曰：“伾中風矣！”明日，遂輿歸不出。戊子，以禮部侍郎權德輿爲户部侍郎，以倉部郎中、判度支陳諌爲河中少尹。伾、叔文之黨於是始去。乙未，詔：“軍國政事，宜權令皇太子某勾當。百辟羣后，中外庶僚，悉心輔翼，以底于理。宣布朕意，咸使知聞。”上自𥘉即位，則疾患不能言，至四月，益甚，時扶坐殿，羣臣望拜而已，未甞有進見者。天下事皆專断於叔文，而李忠言、王伾爲之内主，執誼行之於外。朋黨諠譁，榮辱進退，生於造次，惟其所欲，不拘程度。旣知内外厭毒，慮見摧敗，即謀兵權，欲以自固。而人情益疑懼，不測其所爲，朝夕伺候。㑹其與執誼交惡，心腹内離，外有韋皐、裴垍、嚴綬等牋表，",
           "correction": {
-            "reason": "《順宗實録》卷五“伾至其日生翰林中，䟽三上，不報”：“生”是“坐”的形近误字。维基文库《順宗實錄》卷五作“伾至其日坐翰林中”。",
+            "reason": "《順宗實録》卷五“伾至其日生翰林中，䟽三上，不報”：“生”是“坐”的形近误字。维基文库《順宗實錄》卷五作“伾至其日坐翰林中”。；“至有”作“至夜”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“有”字句不成義",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-21",
-              "textVersion": "sha256:784e2a98bad583f39d6de5edbd2c8bd793c2f3a40343a372974c0fe30c435afd"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c440f1f16eb05961eb15dd1582f5ed673a390f45eacd0b738f825cf42ae48998"
             }
           }
         },
@@ -54341,9 +54957,20 @@
         },
         {
           "id": "p-hanyuji-c35f0a65a2b9f143-0009",
-          "version": "sha256:1770a1f8b03112797b63fdad18246865cd0c77bc098dda18b98c80a2f7bb4a46",
-          "text": "國有大命，恩俾惟新，宜因紀元之慶，用覃在宥之澤。宜改貞元二十一年爲永貞元年。自貞元二十一年八月五日昧爽己前，天下應犯死罪，特降從流，流已下遞减一等。”又下誥曰：“人倫之本，王化之先，爰舉令圖，允資内輔，式表后妃之德，俾形邦國之風，兹禮經之大典也。良娣王氏，家承茂族，德冠中宫，雅修彤管之規，克佩姆師之訓。自服勤蘋藻，祗奉宗祧，令範益彰，母儀斯著。宜正長秋之位，以明継躰之尊。良媛董氏，備位後庭，素稱淑愼，進升號位，礼亦冝之。",
-          "aliases": []
+          "version": "sha256:e6d740377c628d5a268728e2d75a096c7ecdc01e67b68e12b8f644d70e350703",
+          "text": "國有大命，恩俾惟新，宜因紀元之慶，用覃在宥之澤。宜改貞元二十一年爲永貞元年。自貞元二十一年八月五日昧爽已前，天下應犯死罪，特降從流，流已下遞减一等。”又下誥曰：“人倫之本，王化之先，爰舉令圖，允資内輔，式表后妃之德，俾形邦國之風，兹禮經之大典也。良娣王氏，家承茂族，德冠中宫，雅修彤管之規，克佩姆師之訓。自服勤蘋藻，祗奉宗祧，令範益彰，母儀斯著。宜正長秋之位，以明継躰之尊。良媛董氏，備位後庭，素稱淑愼，進升號位，礼亦冝之。",
+          "aliases": [],
+          "sourceText": "國有大命，恩俾惟新，宜因紀元之慶，用覃在宥之澤。宜改貞元二十一年爲永貞元年。自貞元二十一年八月五日昧爽己前，天下應犯死罪，特降從流，流已下遞减一等。”又下誥曰：“人倫之本，王化之先，爰舉令圖，允資内輔，式表后妃之德，俾形邦國之風，兹禮經之大典也。良娣王氏，家承茂族，德冠中宫，雅修彤管之規，克佩姆師之訓。自服勤蘋藻，祗奉宗祧，令範益彰，母儀斯著。宜正長秋之位，以明継躰之尊。良媛董氏，備位後庭，素稱淑愼，進升號位，礼亦冝之。",
+          "correction": {
+            "reason": "“己前”作“已前”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；赦文“昧爽已前”即以前",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e6d740377c628d5a268728e2d75a096c7ecdc01e67b68e12b8f644d70e350703"
+            }
+          }
         },
         {
           "id": "p-hanyuji-c35f0a65a2b9f143-0010",
@@ -54371,9 +54998,20 @@
         },
         {
           "id": "p-hanyuji-c35f0a65a2b9f143-0014",
-          "version": "sha256:01ab61c1b6e6d38e0f08fc0685a7e3145bfee472aaa5c74ed06eec0865abec5b",
-          "text": "因歔欷流涕，聞者咸竊𥬇之。雖判兩使事，未甞以簿書爲意，日引其黨，屏人切切細語，謀奪宦者兵，以制四海之命。旣令范希朝、韓泰揔綂京西諸城鎮行營兵馬，中人尚未悟。㑹邊上諸將各以狀辭中尉，且言“方属希朝”，中人始悟兵柄爲叔文所奪，乃大怒曰：“從其謀，吾屬必死其手。”密令其使歸告諸將曰：“無以兵屬人。”希朝至奉天，諸將無至者。韓泰白叔文，計無所出，唯曰：“柰何！柰何！”無幾而母死，執誼益不用其語。叔文怒，與其黨日夜謀起復，起復必先斬執誼，而盡誅不附己者，聞者皆恟懼。皇太子旣監國，遂逐之，明年乃殺之。伓，杭州人，病死遷所，其黨皆斥逐。叔文最所賢重者李景儉，而最所謂竒才者吕温。叔文用事時，景儉持母䘮在東都，而吕温使吐蕃半歳，至叔文敗方歸，故二人皆不得用。叔文敗後数月，乃貶執誼爲崖州司馬，後二年，病死海上。執誼，杜黄裳子壻，與黄裳同在相位，故最在後貶。執誼，進士對策髙等，驟遷拾遺，年二十餘入翰林，巧惠便辟，媚幸於德宗，而性貪婪詭賊。其從祖兄夏卿爲吏部侍郎，執誼爲翰林學士，受財爲人求科第，夏卿不應，乃探出懷中金以内夏卿䄂，夏卿驚曰：“吾與卿頼先人德致名位，幸各已逹，豈可如此自毀壞！”",
-          "aliases": []
+          "version": "sha256:2fbfd066132b51ae1b71a5cf1494e1266a6a0fcf49b634e4db9a27bebfe08322",
+          "text": "因歔欷流涕，聞者咸竊𥬇之。雖判兩使事，未甞以簿書爲意，日引其黨，屏人切切細語，謀奪宦者兵，以制四海之命。旣令范希朝、韓泰揔綂京西諸城鎮行營兵馬，中人尚未悟。㑹邊上諸將各以狀辭中尉，且言“方属希朝”，中人始悟兵柄爲叔文所奪，乃大怒曰：“從其謀，吾屬必死其手。”密令其使歸告諸將曰：“無以兵屬人。”希朝至奉天，諸將無至者。韓泰白叔文，計無所出，唯曰：“柰何！柰何！”無幾而母死，執誼益不用其語。叔文怒，與其黨日夜謀起復，起復必先斬執誼，而盡誅不附己者，聞者皆恟懼。皇太子旣監國，遂逐之，明年乃殺之。伾，杭州人，病死遷所，其黨皆斥逐。叔文最所賢重者李景儉，而最所謂竒才者吕温。叔文用事時，景儉持母䘮在東都，而吕温使吐蕃半歳，至叔文敗方歸，故二人皆不得用。叔文敗後数月，乃貶執誼爲崖州司馬，後二年，病死海上。執誼，杜黄裳子壻，與黄裳同在相位，故最在後貶。執誼，進士對策髙等，驟遷拾遺，年二十餘入翰林，巧惠便辟，媚幸於德宗，而性貪婪詭賊。其從祖兄夏卿爲吏部侍郎，執誼爲翰林學士，受財爲人求科第，夏卿不應，乃探出懷中金以内夏卿䄂，夏卿驚曰：“吾與卿頼先人德致名位，幸各已逹，豈可如此自毀壞！”",
+          "aliases": [],
+          "sourceText": "因歔欷流涕，聞者咸竊𥬇之。雖判兩使事，未甞以簿書爲意，日引其黨，屏人切切細語，謀奪宦者兵，以制四海之命。旣令范希朝、韓泰揔綂京西諸城鎮行營兵馬，中人尚未悟。㑹邊上諸將各以狀辭中尉，且言“方属希朝”，中人始悟兵柄爲叔文所奪，乃大怒曰：“從其謀，吾屬必死其手。”密令其使歸告諸將曰：“無以兵屬人。”希朝至奉天，諸將無至者。韓泰白叔文，計無所出，唯曰：“柰何！柰何！”無幾而母死，執誼益不用其語。叔文怒，與其黨日夜謀起復，起復必先斬執誼，而盡誅不附己者，聞者皆恟懼。皇太子旣監國，遂逐之，明年乃殺之。伓，杭州人，病死遷所，其黨皆斥逐。叔文最所賢重者李景儉，而最所謂竒才者吕温。叔文用事時，景儉持母䘮在東都，而吕温使吐蕃半歳，至叔文敗方歸，故二人皆不得用。叔文敗後数月，乃貶執誼爲崖州司馬，後二年，病死海上。執誼，杜黄裳子壻，與黄裳同在相位，故最在後貶。執誼，進士對策髙等，驟遷拾遺，年二十餘入翰林，巧惠便辟，媚幸於德宗，而性貪婪詭賊。其從祖兄夏卿爲吏部侍郎，執誼爲翰林學士，受財爲人求科第，夏卿不應，乃探出懷中金以内夏卿䄂，夏卿驚曰：“吾與卿頼先人德致名位，幸各已逹，豈可如此自毀壞！”",
+          "correction": {
+            "reason": "“伓”作“伾”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及同篇王伾之名",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:2fbfd066132b51ae1b71a5cf1494e1266a6a0fcf49b634e4db9a27bebfe08322"
+            }
+          }
         },
         {
           "id": "p-hanyuji-c35f0a65a2b9f143-0015",
@@ -54542,9 +55180,20 @@
         },
         {
           "id": "p-hanyuji-1ddb9c1caef2c2bf-0016",
-          "version": "sha256:7cc3f992c044afd66f9fa4818e3e56ad0d63cd925ad5fc141f02d00da63241a4",
-          "text": "進中書舎人。𥘉，憲宗將平蔡，命御史中丞裴度使諸軍按視。及還，具言賊可㓕，與宰相議不合。愈亦奏言：“淮西連年侵掠，得不償費，其敗可立而待。然未可知者，在陛下斷與不㫁耳。”執政不喜。㑹有人詆愈在冮陵時爲裴均所厚，均子鍔素無狀，愈爲文章字命鍔，謗語囂暴，由是改太子右庶子。",
-          "aliases": []
+          "version": "sha256:e9fc19fcdeb3c2ed368acf56543e5ac985caf1c62898e6372704dd60ebcbf80c",
+          "text": "進中書舎人。𥘉，憲宗將平蔡，命御史中丞裴度使諸軍按視。及還，具言賊可㓕，與宰相議不合。愈亦奏言：“淮西連年侵掠，得不償費，其敗可立而待。然未可知者，在陛下斷與不㫁耳。”執政不喜。㑹有人詆愈在江陵時爲裴均所厚，均子鍔素無狀，愈爲文章字命鍔，謗語囂暴，由是改太子右庶子。",
+          "aliases": [],
+          "sourceText": "進中書舎人。𥘉，憲宗將平蔡，命御史中丞裴度使諸軍按視。及還，具言賊可㓕，與宰相議不合。愈亦奏言：“淮西連年侵掠，得不償費，其敗可立而待。然未可知者，在陛下斷與不㫁耳。”執政不喜。㑹有人詆愈在冮陵時爲裴均所厚，均子鍔素無狀，愈爲文章字命鍔，謗語囂暴，由是改太子右庶子。",
+          "correction": {
+            "reason": "“冮陵”作“江陵”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》；“冮”形近而誤",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e9fc19fcdeb3c2ed368acf56543e5ac985caf1c62898e6372704dd60ebcbf80c"
+            }
+          }
         },
         {
           "id": "p-hanyuji-1ddb9c1caef2c2bf-0017",
@@ -54638,9 +55287,20 @@
         },
         {
           "id": "p-hanyuji-1ddb9c1caef2c2bf-0032",
-          "version": "sha256:d4c0bc656251a119e389509d1041ea48eb945361ffe7a2c1512d5cf6010421d4",
-          "text": "匹夫而爲百丗師，一言而爲天下法，是皆有以參天地之化，𨵿盛衰之運。其生也有自來，其逝也有所爲矣。故申、吕自嶽降，而傳說爲列星，古今所傳，不可誣也。孟子曰：“吾善養浩然之氣。”是氣也，寓於㝷常之中，而塞乎天地之間。卒然遇之，則王公失其貴，晉、楚失其富，良、平失其智，賁、育失其勇，儀、秦失其辯。是孰使之然哉？其必有不依形而立，不恃力而行，不待生而存，不隨死而亡者矣。故在天爲星辰，在地爲河嶽，幽則爲鬼神，而明則復爲人。此理之常，無足怪者。自東漢以來，道䘮文弊，異端並起，歴唐正觀、開元之盛，輔以房、杜、姚、宋而不能救。獨韓文公起布衣，談𥬇而麾之，天下靡然從公，復歸于正，盖三百年於此矣。文起八代之衰，而道濟天下之溺；忠犯人主之怒，而勇奪三軍之帥，此豈非參天地，関盛衰，浩然而獨存者乎？盖嘗論天人之辨，以謂人無所不至，惟天不容僞。智可以欺王公，不可以欺豚魚；力可以得天下，不可以得匹夫匹婦之心。故公之精誠，能開衡山之雲，而不能回憲宗之惑；能馴鱷魚之暴，而不能弭皇父鏄、李逢吉之謗；能信於南海之民，廟食百丗，而不能使其身一日安於朝廷之上。盖其所能者，天也；其所不能者，人也。始潮人未知學，公命進士趙德爲之師，自是潮之士皆篤於文行，延及齊民，至于今，號称易治。信乎孔子之言：“君子學道則愛人，而小人學道則易使也。”潮人之事公也，飲食必𥙊，水旱疾疫，凡有求必禱焉。而廟在刺史公堂之後，民以出入爲艱。前守欲請諸朝作新廟，不果。元祐五年，朝散郎王君滌來守是邦，凡所以養士治民者，一以公爲師。民旣恱服，則出令曰：“願新公廟者聽。”民讙趨之。卜地於州之城南七里，期年而廟成。或曰：“公去國萬里而謫于潮，不能一歳而歸，没而有知，其不眷恋于潮也審矣。”軾曰：“不然。公之神在天下者，如水之在地中，無所往而不在也。而潮人獨信之深，思之至，焄蒿悽愴，若或見之。譬如鑿井得泉，而曰水專在是，豈理也哉？”元豐七年，詔封公昌𥠖伯，故榜曰“昌𥠖伯韓文公之廟”。潮人請書其事于石，因爲作詩以遺之，使歌以祀公。其詞曰：",
-          "aliases": []
+          "version": "sha256:e7d73f5cade52a10f9d0ae81a2e4e6f1af03b0732f26ebf4fe1e1b32b1e57dde",
+          "text": "匹夫而爲百丗師，一言而爲天下法，是皆有以參天地之化，𨵿盛衰之運。其生也有自來，其逝也有所爲矣。故申、吕自嶽降，而傅說爲列星，古今所傳，不可誣也。孟子曰：“吾善養浩然之氣。”是氣也，寓於㝷常之中，而塞乎天地之間。卒然遇之，則王公失其貴，晉、楚失其富，良、平失其智，賁、育失其勇，儀、秦失其辯。是孰使之然哉？其必有不依形而立，不恃力而行，不待生而存，不隨死而亡者矣。故在天爲星辰，在地爲河嶽，幽則爲鬼神，而明則復爲人。此理之常，無足怪者。自東漢以來，道䘮文弊，異端並起，歴唐正觀、開元之盛，輔以房、杜、姚、宋而不能救。獨韓文公起布衣，談𥬇而麾之，天下靡然從公，復歸于正，盖三百年於此矣。文起八代之衰，而道濟天下之溺；忠犯人主之怒，而勇奪三軍之帥，此豈非參天地，関盛衰，浩然而獨存者乎？盖嘗論天人之辨，以謂人無所不至，惟天不容僞。智可以欺王公，不可以欺豚魚；力可以得天下，不可以得匹夫匹婦之心。故公之精誠，能開衡山之雲，而不能回憲宗之惑；能馴鱷魚之暴，而不能弭皇甫鎛、李逢吉之謗；能信於南海之民，廟食百丗，而不能使其身一日安於朝廷之上。盖其所能者，天也；其所不能者，人也。始潮人未知學，公命進士趙德爲之師，自是潮之士皆篤於文行，延及齊民，至于今，號称易治。信乎孔子之言：“君子學道則愛人，而小人學道則易使也。”潮人之事公也，飲食必𥙊，水旱疾疫，凡有求必禱焉。而廟在刺史公堂之後，民以出入爲艱。前守欲請諸朝作新廟，不果。元祐五年，朝散郎王君滌來守是邦，凡所以養士治民者，一以公爲師。民旣恱服，則出令曰：“願新公廟者聽。”民讙趨之。卜地於州之城南七里，期年而廟成。或曰：“公去國萬里而謫于潮，不能一歳而歸，没而有知，其不眷恋于潮也審矣。”軾曰：“不然。公之神在天下者，如水之在地中，無所往而不在也。而潮人獨信之深，思之至，焄蒿悽愴，若或見之。譬如鑿井得泉，而曰水專在是，豈理也哉？”元豐七年，詔封公昌𥠖伯，故榜曰“昌𥠖伯韓文公之廟”。潮人請書其事于石，因爲作詩以遺之，使歌以祀公。其詞曰：",
+          "aliases": [],
+          "sourceText": "匹夫而爲百丗師，一言而爲天下法，是皆有以參天地之化，𨵿盛衰之運。其生也有自來，其逝也有所爲矣。故申、吕自嶽降，而傳說爲列星，古今所傳，不可誣也。孟子曰：“吾善養浩然之氣。”是氣也，寓於㝷常之中，而塞乎天地之間。卒然遇之，則王公失其貴，晉、楚失其富，良、平失其智，賁、育失其勇，儀、秦失其辯。是孰使之然哉？其必有不依形而立，不恃力而行，不待生而存，不隨死而亡者矣。故在天爲星辰，在地爲河嶽，幽則爲鬼神，而明則復爲人。此理之常，無足怪者。自東漢以來，道䘮文弊，異端並起，歴唐正觀、開元之盛，輔以房、杜、姚、宋而不能救。獨韓文公起布衣，談𥬇而麾之，天下靡然從公，復歸于正，盖三百年於此矣。文起八代之衰，而道濟天下之溺；忠犯人主之怒，而勇奪三軍之帥，此豈非參天地，関盛衰，浩然而獨存者乎？盖嘗論天人之辨，以謂人無所不至，惟天不容僞。智可以欺王公，不可以欺豚魚；力可以得天下，不可以得匹夫匹婦之心。故公之精誠，能開衡山之雲，而不能回憲宗之惑；能馴鱷魚之暴，而不能弭皇父鏄、李逢吉之謗；能信於南海之民，廟食百丗，而不能使其身一日安於朝廷之上。盖其所能者，天也；其所不能者，人也。始潮人未知學，公命進士趙德爲之師，自是潮之士皆篤於文行，延及齊民，至于今，號称易治。信乎孔子之言：“君子學道則愛人，而小人學道則易使也。”潮人之事公也，飲食必𥙊，水旱疾疫，凡有求必禱焉。而廟在刺史公堂之後，民以出入爲艱。前守欲請諸朝作新廟，不果。元祐五年，朝散郎王君滌來守是邦，凡所以養士治民者，一以公爲師。民旣恱服，則出令曰：“願新公廟者聽。”民讙趨之。卜地於州之城南七里，期年而廟成。或曰：“公去國萬里而謫于潮，不能一歳而歸，没而有知，其不眷恋于潮也審矣。”軾曰：“不然。公之神在天下者，如水之在地中，無所往而不在也。而潮人獨信之深，思之至，焄蒿悽愴，若或見之。譬如鑿井得泉，而曰水專在是，豈理也哉？”元豐七年，詔封公昌𥠖伯，故榜曰“昌𥠖伯韓文公之廟”。潮人請書其事于石，因爲作詩以遺之，使歌以祀公。其詞曰：",
+          "correction": {
+            "reason": "“傳說”作“傅說”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》潮州韓文公廟碑；“皇父鏄”作“皇甫鎛”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及本語料庫《古文觀止》潮州韓文公廟碑",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e7d73f5cade52a10f9d0ae81a2e4e6f1af03b0732f26ebf4fe1e1b32b1e57dde"
+            }
+          }
         },
         {
           "id": "p-hanyuji-1ddb9c1caef2c2bf-0033",
@@ -55085,9 +55745,20 @@
         },
         {
           "id": "p-hanyuji-5f9c573c017a8556-0072",
-          "version": "sha256:037e0b84f665d45085050647970c25794ff7a3eaa1b0a068b967f6775fd3ef2b",
-          "text": "右謹按符瑞圖，“王者德至於地，則嘉禾生。”伏惟皇帝陛下，道合天地，恩霑動植，邇無不恊，逺無不賔，神人以和，風雨咸若。前件嘉禾等，或兩根並植，一穗連房；或延蔓敷榮，異實共𦷾。旣叶和同之慶，乆標豐稔之祥。感自皇恩，微莖何極於造化；親逢嘉瑞，小臣喜遇於休明。無任。",
-          "aliases": []
+          "version": "sha256:2d0b7b9fb9bb160e862fc12f3aa2ee233be08d182650e86a87a33b011788f988",
+          "text": "右謹按符瑞圖，“王者德至於地，則嘉禾生。”伏惟皇帝陛下，道合天地，恩霑動植，邇無不恊，逺無不賔，神人以和，風雨咸若。前件嘉禾等，或兩根並植，一穗連房；或延蔓敷榮，異實共𦷾。旣叶和同之慶，又標豐稔之祥。感自皇恩，微莖何極於造化；親逢嘉瑞，小臣喜遇於休明。無任。",
+          "aliases": [],
+          "sourceText": "右謹按符瑞圖，“王者德至於地，則嘉禾生。”伏惟皇帝陛下，道合天地，恩霑動植，邇無不恊，逺無不賔，神人以和，風雨咸若。前件嘉禾等，或兩根並植，一穗連房；或延蔓敷榮，異實共𦷾。旣叶和同之慶，乆標豐稔之祥。感自皇恩，微莖何極於造化；親逢嘉瑞，小臣喜遇於休明。無任。",
+          "correction": {
+            "reason": "“乆標”作“又標”，據維基文庫《東雅堂韓昌黎集註 (四庫全書本)》及上句“旣叶和同之慶”相對",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:2d0b7b9fb9bb160e862fc12f3aa2ee233be08d182650e86a87a33b011788f988"
+            }
+          }
         },
         {
           "id": "p-hanyuji-5f9c573c017a8556-0073",

@@ -950,109 +950,109 @@
     {
         "id": "learning-to-walk-pinyin",
         "target": "p-zhuangzi-9853823-17-29",
-        "version": "1",
+        "version": "2",
         "kind": "pinyin",
-        "start": 163,
-        "end": 182,
+        "start": 164,
+        "end": 183,
         "review": {
             "status": "draft",
             "author": "Wuhua (AI-assisted editorial draft)",
-            "textVersion": "1"
+            "textVersion": "2"
         },
         "tokens": [
             {
-                "start": 163,
-                "end": 164,
+                "start": 164,
+                "end": 165,
                 "text": "未",
                 "pinyin": "wèi"
             },
             {
-                "start": 164,
-                "end": 165,
+                "start": 165,
+                "end": 166,
                 "text": "得",
                 "pinyin": "dé"
             },
             {
-                "start": 165,
-                "end": 166,
+                "start": 166,
+                "end": 167,
                 "text": "國",
                 "pinyin": "guó"
             },
             {
-                "start": 166,
-                "end": 167,
+                "start": 167,
+                "end": 168,
                 "text": "能",
                 "pinyin": "néng"
             },
             {
-                "start": 168,
-                "end": 169,
+                "start": 169,
+                "end": 170,
                 "text": "又",
                 "pinyin": "yòu"
             },
             {
-                "start": 169,
-                "end": 170,
+                "start": 170,
+                "end": 171,
                 "text": "失",
                 "pinyin": "shī"
             },
             {
-                "start": 170,
-                "end": 171,
+                "start": 171,
+                "end": 172,
                 "text": "其",
                 "pinyin": "qí"
             },
             {
-                "start": 171,
-                "end": 172,
+                "start": 172,
+                "end": 173,
                 "text": "故",
                 "pinyin": "gù"
             },
             {
-                "start": 172,
-                "end": 173,
+                "start": 173,
+                "end": 174,
                 "text": "行",
                 "pinyin": "xíng"
             },
             {
-                "start": 173,
-                "end": 174,
+                "start": 174,
+                "end": 175,
                 "text": "矣",
                 "pinyin": "yǐ"
             },
             {
-                "start": 175,
-                "end": 176,
+                "start": 176,
+                "end": 177,
                 "text": "直",
                 "pinyin": "zhí"
             },
             {
-                "start": 176,
-                "end": 177,
+                "start": 177,
+                "end": 178,
                 "text": "匍",
                 "pinyin": "pú"
             },
             {
-                "start": 177,
-                "end": 178,
+                "start": 178,
+                "end": 179,
                 "text": "匐",
                 "pinyin": "fú"
             },
             {
-                "start": 178,
-                "end": 179,
+                "start": 179,
+                "end": 180,
                 "text": "而",
                 "pinyin": "ér"
             },
             {
-                "start": 179,
-                "end": 180,
+                "start": 180,
+                "end": 181,
                 "text": "歸",
                 "pinyin": "guī"
             },
             {
-                "start": 180,
-                "end": 181,
+                "start": 181,
+                "end": 182,
                 "text": "耳",
                 "pinyin": "ěr"
             }
@@ -9432,7 +9432,7 @@
     {
         "id": "p-hanfeizi-8a3e426df92bdd7a-0013-pinyin-24-50",
         "target": "p-hanfeizi-8a3e426df92bdd7a-0013",
-        "version": "sha256:e3c0cf012a5b1c01e077fe5f6d871befbfa57a2d312a1b4095d7aa0194031675",
+        "version": "sha256:26383e49b98fd9091a1ed7bb0ab1de5858e7bcb14c52045f5d79935af2333310",
         "kind": "pinyin",
         "start": 24,
         "end": 50,
@@ -9561,7 +9561,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:e3c0cf012a5b1c01e077fe5f6d871befbfa57a2d312a1b4095d7aa0194031675"
+            "textVersion": "sha256:26383e49b98fd9091a1ed7bb0ab1de5858e7bcb14c52045f5d79935af2333310"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -13953,7 +13953,7 @@
     {
         "id": "p-hanfeizi-c32b9cb82f74ed17-0003-pinyin-318-347",
         "target": "p-hanfeizi-c32b9cb82f74ed17-0003",
-        "version": "sha256:8a7153f3094797171bfe3aba2981ebbb94f1c5153e055c061aec5f989e4d77be",
+        "version": "sha256:3f925c0b83899a84d5f71c437b4025bcae9d97735d9e9b8f7b633514e17edcb2",
         "kind": "pinyin",
         "start": 318,
         "end": 347,
@@ -14082,7 +14082,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:8a7153f3094797171bfe3aba2981ebbb94f1c5153e055c061aec5f989e4d77be"
+            "textVersion": "sha256:3f925c0b83899a84d5f71c437b4025bcae9d97735d9e9b8f7b633514e17edcb2"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -14730,7 +14730,7 @@
     {
         "id": "p-hanfeizi-5afa4b1de3340acd-0144-pinyin-0-18",
         "target": "p-hanfeizi-5afa4b1de3340acd-0144",
-        "version": "sha256:817166ce5b88c701b278db85e5a5fdaf2a417b4ab86d7365809a649ea28721a2",
+        "version": "sha256:29b69afc85be3148fa092b4de5d45ecb96e9ac509db4193332e388e2225b1921",
         "kind": "pinyin",
         "start": 0,
         "end": 18,
@@ -14823,7 +14823,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:817166ce5b88c701b278db85e5a5fdaf2a417b4ab86d7365809a649ea28721a2"
+            "textVersion": "sha256:29b69afc85be3148fa092b4de5d45ecb96e9ac509db4193332e388e2225b1921"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -15372,7 +15372,7 @@
     {
         "id": "p-mozi-fcb831c46d843d7b-0001-pinyin-481-529",
         "target": "p-mozi-fcb831c46d843d7b-0001",
-        "version": "sha256:281d5a516343499a08acf89e6a6983733fe2d1a1426c12d6ca71837e358efbe6",
+        "version": "sha256:20b9bf8e7c6cb0d26a9b79f6db141f787fff25bae59a088086d37fe49adc6acd",
         "kind": "pinyin",
         "start": 481,
         "end": 529,
@@ -15633,7 +15633,7 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:281d5a516343499a08acf89e6a6983733fe2d1a1426c12d6ca71837e358efbe6"
+            "textVersion": "sha256:20b9bf8e7c6cb0d26a9b79f6db141f787fff25bae59a088086d37fe49adc6acd"
         },
         "rights": {
             "author": "Codex (AI)",
@@ -15945,176 +15945,176 @@
     {
         "id": "p-mozi-03fa0d78f8ae369c-0001-pinyin-217-250",
         "target": "p-mozi-03fa0d78f8ae369c-0001",
-        "version": "sha256:27da789d650854abd6c24e6f4af3b48696cf5418bc8fa26a462535f07f8df340",
+        "version": "sha256:076f1d25f621e1d0fe31f4f0c4a07faf7484681399ae6dbff6a4ed65ec377d29",
         "kind": "pinyin",
-        "start": 217,
-        "end": 250,
+        "start": 218,
+        "end": 251,
         "tokens": [
             {
-                "start": 217,
-                "end": 218,
+                "start": 218,
+                "end": 219,
                 "text": "今",
                 "pinyin": "jīn"
             },
             {
-                "start": 218,
-                "end": 219,
+                "start": 219,
+                "end": 220,
                 "text": "至",
                 "pinyin": "zhì"
             },
             {
-                "start": 219,
-                "end": 220,
+                "start": 220,
+                "end": 221,
                 "text": "大",
                 "pinyin": "dà"
             },
             {
-                "start": 220,
-                "end": 221,
+                "start": 221,
+                "end": 222,
                 "text": "爲",
                 "pinyin": "wéi"
             },
             {
-                "start": 221,
-                "end": 222,
+                "start": 222,
+                "end": 223,
                 "text": "攻",
                 "pinyin": "gōng"
             },
             {
-                "start": 222,
-                "end": 223,
+                "start": 223,
+                "end": 224,
                 "text": "國",
                 "pinyin": "guó"
             },
             {
-                "start": 224,
-                "end": 225,
+                "start": 225,
+                "end": 226,
                 "text": "則",
                 "pinyin": "zé"
             },
             {
-                "start": 225,
-                "end": 226,
+                "start": 226,
+                "end": 227,
                 "text": "弗",
                 "pinyin": "fú"
             },
             {
-                "start": 226,
-                "end": 227,
+                "start": 227,
+                "end": 228,
                 "text": "知",
                 "pinyin": "zhī"
             },
             {
-                "start": 227,
-                "end": 228,
+                "start": 228,
+                "end": 229,
                 "text": "非",
                 "pinyin": "fēi"
             },
             {
-                "start": 229,
-                "end": 230,
+                "start": 230,
+                "end": 231,
                 "text": "從",
                 "pinyin": "cóng"
             },
             {
-                "start": 230,
-                "end": 231,
+                "start": 231,
+                "end": 232,
                 "text": "而",
                 "pinyin": "ér"
             },
             {
-                "start": 231,
-                "end": 232,
+                "start": 232,
+                "end": 233,
                 "text": "譽",
                 "pinyin": "yù"
             },
             {
-                "start": 232,
-                "end": 233,
+                "start": 233,
+                "end": 234,
                 "text": "之",
                 "pinyin": "zhī"
-            },
-            {
-                "start": 234,
-                "end": 235,
-                "text": "謂",
-                "pinyin": "wèi"
             },
             {
                 "start": 235,
                 "end": 236,
-                "text": "之",
-                "pinyin": "zhī"
-            },
-            {
-                "start": 236,
-                "end": 237,
-                "text": "義",
-                "pinyin": "yì"
-            },
-            {
-                "start": 238,
-                "end": 239,
-                "text": "此",
-                "pinyin": "cǐ"
-            },
-            {
-                "start": 239,
-                "end": 240,
-                "text": "可",
-                "pinyin": "kě"
-            },
-            {
-                "start": 240,
-                "end": 241,
                 "text": "謂",
                 "pinyin": "wèi"
             },
             {
-                "start": 241,
-                "end": 242,
-                "text": "知",
-                "pinyin": "zhī"
-            },
-            {
-                "start": 242,
-                "end": 243,
-                "text": "義",
-                "pinyin": "yì"
-            },
-            {
-                "start": 243,
-                "end": 244,
-                "text": "與",
-                "pinyin": "yǔ"
-            },
-            {
-                "start": 244,
-                "end": 245,
-                "text": "不",
-                "pinyin": "bù"
-            },
-            {
-                "start": 245,
-                "end": 246,
-                "text": "義",
-                "pinyin": "yì"
-            },
-            {
-                "start": 246,
-                "end": 247,
+                "start": 236,
+                "end": 237,
                 "text": "之",
                 "pinyin": "zhī"
             },
             {
+                "start": 237,
+                "end": 238,
+                "text": "義",
+                "pinyin": "yì"
+            },
+            {
+                "start": 239,
+                "end": 240,
+                "text": "此",
+                "pinyin": "cǐ"
+            },
+            {
+                "start": 240,
+                "end": 241,
+                "text": "可",
+                "pinyin": "kě"
+            },
+            {
+                "start": 241,
+                "end": 242,
+                "text": "謂",
+                "pinyin": "wèi"
+            },
+            {
+                "start": 242,
+                "end": 243,
+                "text": "知",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 243,
+                "end": 244,
+                "text": "義",
+                "pinyin": "yì"
+            },
+            {
+                "start": 244,
+                "end": 245,
+                "text": "與",
+                "pinyin": "yǔ"
+            },
+            {
+                "start": 245,
+                "end": 246,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
+                "start": 246,
+                "end": 247,
+                "text": "義",
+                "pinyin": "yì"
+            },
+            {
                 "start": 247,
                 "end": 248,
-                "text": "别",
-                "pinyin": "bié"
+                "text": "之",
+                "pinyin": "zhī"
             },
             {
                 "start": 248,
                 "end": 249,
+                "text": "别",
+                "pinyin": "bié"
+            },
+            {
+                "start": 249,
+                "end": 250,
                 "text": "乎",
                 "pinyin": "hū"
             }
@@ -16122,13 +16122,13 @@
         "review": {
             "status": "draft",
             "author": "Codex (AI)",
-            "textVersion": "sha256:27da789d650854abd6c24e6f4af3b48696cf5418bc8fa26a462535f07f8df340"
+            "textVersion": "sha256:076f1d25f621e1d0fe31f4f0c4a07faf7484681399ae6dbff6a4ed65ec377d29"
         },
         "rights": {
             "author": "Codex (AI)",
             "license": "unreleased editorial draft",
             "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%AD%90/%E6%9D%82%E5%AE%B6%E7%B1%BB/%E5%A2%A8%E5%AD%90.json",
-            "note": "已按整句及相邻语境进行AI草稿核对：墨子·非攻上：攻国之义。核对多音、稀字、异体及轻声：大@219=dà：大小或程度大义；爲@220=wéi：为攻国，进行攻国之事，动词读wéi；保留原字爲，生成器归一化字为为；國@222=guó：原文國为国的繁体字；按本句词义保留普通话guó；保留原字國，生成器归一化字为国；則@224=zé：原文則为则的繁体字；按本句词义保留普通话zé；保留原字則，生成器归一化字为则；知@226=zhī：知道、认识或知识义；從@229=cóng：随从、进而义；保留原字從，生成器归一化字为从；譽@231=yù：原文譽为誉的繁体字；按本句词义保留普通话yù；保留原字譽，生成器归一化字为誉；謂@234=wèi：原文謂为谓的繁体字；按本句词义保留普通话wèi；保留原字謂，生成器归一化字为谓；義@236=yì：原文義为义的繁体字；按本句词义保留普通话yì；保留原字義，生成器归一化字为义；何@239=hé：疑问代词或反问副词；謂@240=wèi：原文謂为谓的繁体字；按本句词义保留普通话wèi；保留原字謂，生成器归一化字为谓；知@241=zhī：知道、认识或知识义；義@242=yì：原文義为义的繁体字；按本句词义保留普通话yì；保留原字義，生成器归一化字为义；與@243=yǔ：和、同义；保留原字與，生成器归一化字为与；不@244=bù：否定副词，字典调，不记语流变调；義@245=yì：原文義为义的繁体字；按本句词义保留普通话yì；保留原字義，生成器归一化字为义；别@247=bié：区别义。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://zdic.net/hans/為。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
+            "note": "已按整句及相邻语境进行AI草稿核对：墨子·非攻上：攻国之义。核对多音、稀字、异体及轻声：大@220=dà：大小或程度大义；爲@221=wéi：为攻国，进行攻国之事，动词读wéi；保留原字爲，生成器归一化字为为；國@223=guó：原文國为国的繁体字；按本句词义保留普通话guó；保留原字國，生成器归一化字为国；則@225=zé：原文則为则的繁体字；按本句词义保留普通话zé；保留原字則，生成器归一化字为则；知@227=zhī：知道、认识或知识义；從@230=cóng：随从、进而义；保留原字從，生成器归一化字为从；譽@232=yù：原文譽为誉的繁体字；按本句词义保留普通话yù；保留原字譽，生成器归一化字为誉；謂@235=wèi：原文謂为谓的繁体字；按本句词义保留普通话wèi；保留原字謂，生成器归一化字为谓；義@237=yì：原文義为义的繁体字；按本句词义保留普通话yì；保留原字義，生成器归一化字为义；可@240=kě：可以，助动词（底本“何”已于 2026-10 订正为“可”）；謂@241=wèi：原文謂为谓的繁体字；按本句词义保留普通话wèi；保留原字謂，生成器归一化字为谓；知@242=zhī：知道、认识或知识义；義@243=yì：原文義为义的繁体字；按本句词义保留普通话yì；保留原字義，生成器归一化字为义；與@244=yǔ：和、同义；保留原字與，生成器归一化字为与；不@245=bù：否定副词，字典调，不记语流变调；義@246=yì：原文義为义的繁体字；按本句词义保留普通话yì；保留原字義，生成器归一化字为义；别@248=bié：区别义。一、不保留字典声调；君子、孔子、子墨子、嬰兒等古文称谓保留字调，不套用现代词尾轻声。参考已实际查询的词典条目：https://zdic.net/hans/為。这是现代普通话阅读辅助，不是古音重建；仅由Codex（AI）核对，未获新增人工审核，保持draft。\nCandidate generator: {\"engine\":\"pinyin-pro@3.29.4\",\"normalizer\":\"opencc-js@1.4.2\",\"rules\":\"1\",\"tones\":\"dictionary\"}. AI-assisted draft; pronunciation review remains pending."
         }
     },
     {
@@ -24642,176 +24642,176 @@
     {
         "id": "p-mozi-e5d65f334f41ba93-0001-pinyin-1025-1058",
         "target": "p-mozi-e5d65f334f41ba93-0001",
-        "version": "sha256:ced03d9f30f227baf9ded517c80b424017b1465843416de2c7c1cac83fd2e13f",
+        "version": "sha256:bffb112d30612c07d1b97ac9ab1118f0b72bbbcccf9ceaf069e258b92bef3299",
         "kind": "pinyin",
-        "start": 1025,
-        "end": 1058,
+        "start": 1026,
+        "end": 1059,
         "tokens": [
             {
-                "start": 1025,
-                "end": 1026,
+                "start": 1026,
+                "end": 1027,
                 "text": "當",
                 "pinyin": "dāng"
             },
             {
-                "start": 1026,
-                "end": 1027,
-                "text": "使",
-                "pinyin": "shǐ"
-            },
-            {
                 "start": 1027,
                 "end": 1028,
-                "text": "若",
-                "pinyin": "ruò"
+                "text": "使",
+                "pinyin": "shǐ"
             },
             {
                 "start": 1028,
                 "end": 1029,
-                "text": "二",
-                "pinyin": "èr"
+                "text": "若",
+                "pinyin": "ruò"
             },
             {
                 "start": 1029,
                 "end": 1030,
-                "text": "士",
-                "pinyin": "shì"
+                "text": "二",
+                "pinyin": "èr"
             },
             {
                 "start": 1030,
                 "end": 1031,
+                "text": "士",
+                "pinyin": "shì"
+            },
+            {
+                "start": 1031,
+                "end": 1032,
                 "text": "者",
                 "pinyin": "zhě"
             },
             {
-                "start": 1032,
-                "end": 1033,
-                "text": "言",
-                "pinyin": "yán"
-            },
-            {
                 "start": 1033,
                 "end": 1034,
-                "text": "必",
-                "pinyin": "bì"
+                "text": "言",
+                "pinyin": "yán"
             },
             {
                 "start": 1034,
                 "end": 1035,
-                "text": "信",
-                "pinyin": "xìn"
-            },
-            {
-                "start": 1036,
-                "end": 1037,
-                "text": "行",
-                "pinyin": "xíng"
-            },
-            {
-                "start": 1037,
-                "end": 1038,
                 "text": "必",
                 "pinyin": "bì"
             },
             {
+                "start": 1035,
+                "end": 1036,
+                "text": "信",
+                "pinyin": "xìn"
+            },
+            {
+                "start": 1037,
+                "end": 1038,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
                 "start": 1038,
                 "end": 1039,
+                "text": "必",
+                "pinyin": "bì"
+            },
+            {
+                "start": 1039,
+                "end": 1040,
                 "text": "果",
                 "pinyin": "guǒ"
             },
             {
-                "start": 1040,
-                "end": 1041,
+                "start": 1041,
+                "end": 1042,
                 "text": "使",
                 "pinyin": "shǐ"
             },
             {
-                "start": 1041,
-                "end": 1042,
-                "text": "言",
-                "pinyin": "yán"
-            },
-            {
                 "start": 1042,
                 "end": 1043,
-                "text": "行",
-                "pinyin": "xíng"
+                "text": "言",
+                "pinyin": "yán"
             },
             {
                 "start": 1043,
                 "end": 1044,
-                "text": "之",
-                "pinyin": "zhī"
-            },
-            {
-                "start": 1044,
-                "end": 1045,
-                "text": "合",
-                "pinyin": "hé"
-            },
-            {
-                "start": 1045,
-                "end": 1046,
-                "text": "猶",
-                "pinyin": "yóu"
-            },
-            {
-                "start": 1046,
-                "end": 1047,
-                "text": "合",
-                "pinyin": "hé"
-            },
-            {
-                "start": 1047,
-                "end": 1048,
-                "text": "符",
-                "pinyin": "fú"
-            },
-            {
-                "start": 1048,
-                "end": 1049,
-                "text": "節",
-                "pinyin": "jié"
-            },
-            {
-                "start": 1049,
-                "end": 1050,
-                "text": "也",
-                "pinyin": "yě"
-            },
-            {
-                "start": 1051,
-                "end": 1052,
-                "text": "無",
-                "pinyin": "wú"
-            },
-            {
-                "start": 1052,
-                "end": 1053,
-                "text": "言",
-                "pinyin": "yán"
-            },
-            {
-                "start": 1053,
-                "end": 1054,
-                "text": "而",
-                "pinyin": "ér"
-            },
-            {
-                "start": 1054,
-                "end": 1055,
-                "text": "不",
-                "pinyin": "bù"
-            },
-            {
-                "start": 1055,
-                "end": 1056,
                 "text": "行",
                 "pinyin": "xíng"
             },
             {
+                "start": 1044,
+                "end": 1045,
+                "text": "之",
+                "pinyin": "zhī"
+            },
+            {
+                "start": 1045,
+                "end": 1046,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 1046,
+                "end": 1047,
+                "text": "猶",
+                "pinyin": "yóu"
+            },
+            {
+                "start": 1047,
+                "end": 1048,
+                "text": "合",
+                "pinyin": "hé"
+            },
+            {
+                "start": 1048,
+                "end": 1049,
+                "text": "符",
+                "pinyin": "fú"
+            },
+            {
+                "start": 1049,
+                "end": 1050,
+                "text": "節",
+                "pinyin": "jié"
+            },
+            {
+                "start": 1050,
+                "end": 1051,
+                "text": "也",
+                "pinyin": "yě"
+            },
+            {
+                "start": 1052,
+                "end": 1053,
+                "text": "無",
+                "pinyin": "wú"
+            },
+            {
+                "start": 1053,
+                "end": 1054,
+                "text": "言",
+                "pinyin": "yán"
+            },
+            {
+                "start": 1054,
+                "end": 1055,
+                "text": "而",
+                "pinyin": "ér"
+            },
+            {
+                "start": 1055,
+                "end": 1056,
+                "text": "不",
+                "pinyin": "bù"
+            },
+            {
                 "start": 1056,
                 "end": 1057,
+                "text": "行",
+                "pinyin": "xíng"
+            },
+            {
+                "start": 1057,
+                "end": 1058,
                 "text": "也",
                 "pinyin": "yě"
             }
@@ -24819,7 +24819,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:ced03d9f30f227baf9ded517c80b424017b1465843416de2c7c1cac83fd2e13f"
+            "textVersion": "sha256:bffb112d30612c07d1b97ac9ab1118f0b72bbbcccf9ceaf069e258b92bef3299"
         },
         "rights": {
             "author": "Claude (AI)",

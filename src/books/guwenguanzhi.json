@@ -44703,9 +44703,20 @@
         },
         {
           "id": "p-guwenguanzhi-4890159c8672eb03-0026",
-          "version": "sha256:b230639af545ed7f17541764fee1e27f9f31d51d5e2fd294cb9c751d4325d09f",
-          "text": "乃作放鶴、招鶴之歌曰：「鶴飛去兮西山之缺，高翔而下覽兮擇所適。翻然斂翼，宛將集兮，忽何所見，矯然而復擊。獨終日於澗穀之間兮，啄蒼苔而履白石。",
-          "aliases": []
+          "version": "sha256:d69c7c51cec5ff1b9e379b7b0b49d9b28b0fe1dbf5736bcdda89f7863109f5a6",
+          "text": "乃作放鶴、招鶴之歌曰：「鶴飛去兮西山之缺，高翔而下覽兮擇所適。翻然斂翼，宛將集兮，忽何所見，矯然而復擊。獨終日於澗谷之間兮，啄蒼苔而履白石。",
+          "aliases": [],
+          "sourceText": "乃作放鶴、招鶴之歌曰：「鶴飛去兮西山之缺，高翔而下覽兮擇所適。翻然斂翼，宛將集兮，忽何所見，矯然而復擊。獨終日於澗穀之間兮，啄蒼苔而履白石。",
+          "correction": {
+            "reason": "“穀”作“谷”：山谷、谷名之“谷”，底本由简体“谷”转繁时误作五穀的“穀”（蘇軾《放鶴亭記》“獨終日於澗谷之間兮”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d69c7c51cec5ff1b9e379b7b0b49d9b28b0fe1dbf5736bcdda89f7863109f5a6"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-4890159c8672eb03-0027",
@@ -48760,9 +48771,20 @@
         },
         {
           "id": "p-guwenguanzhi-360b54e52bab3629-0010",
-          "version": "sha256:46d9d24edb98a5c1eb8460523c620a671605bae254fa9462d1c9283816f71818",
-          "text": "蓋周之時有三朝：庫門之外爲正朝，詢謀大臣在焉；路門之外爲治朝，日視朝在焉；路門之內曰內朝，亦曰燕朝。《玉藻》雲：「君日出而視朝，退適路寢聽政。」",
-          "aliases": []
+          "version": "sha256:4be65edf7fc3f16fcebbe007e5f8533145950cdc4ac2ca3d176e9e0d703973cf",
+          "text": "蓋周之時有三朝：庫門之外爲正朝，詢謀大臣在焉；路門之外爲治朝，日視朝在焉；路門之內曰內朝，亦曰燕朝。《玉藻》云：「君日出而視朝，退適路寢聽政。」",
+          "aliases": [],
+          "sourceText": "蓋周之時有三朝：庫門之外爲正朝，詢謀大臣在焉；路門之外爲治朝，日視朝在焉；路門之內曰內朝，亦曰燕朝。《玉藻》雲：「君日出而視朝，退適路寢聽政。」",
+          "correction": {
+            "reason": "“雲”作“云”：言说之“云”（詩云、或云、云云），底本由简体“云”转繁时误作雲霧的“雲”（“《玉藻》云”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4be65edf7fc3f16fcebbe007e5f8533145950cdc4ac2ca3d176e9e0d703973cf"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-360b54e52bab3629-0011",
@@ -49012,9 +49034,20 @@
       "paragraphs": [
         {
           "id": "p-guwenguanzhi-b45e9f67127d52f0-0001",
-          "version": "sha256:5d8cc561ccc7a73cd0c313ba55d62534cd877f9343780594442b6a8b04659491",
-          "text": "靈博之山，有象祠焉。其下諸苗夷之居者，鹹神而祠之。宣尉安君，因諸苗夷之請，新其祠屋，而請記於予。予曰：「毀之乎，其新之也？",
-          "aliases": []
+          "version": "sha256:d0e83e41016d6381e48b7933bbdc2c7502655639c7b6b4cd603ff8c7fa2fcbd1",
+          "text": "靈博之山，有象祠焉。其下諸苗夷之居者，咸神而祠之。宣尉安君，因諸苗夷之請，新其祠屋，而請記於予。予曰：「毀之乎，其新之也？",
+          "aliases": [],
+          "sourceText": "靈博之山，有象祠焉。其下諸苗夷之居者，鹹神而祠之。宣尉安君，因諸苗夷之請，新其祠屋，而請記於予。予曰：「毀之乎，其新之也？",
+          "correction": {
+            "reason": "“鹹”作“咸”（皆、都）：底本由简体“咸”转繁时误作咸味的“鹹”，此处是“都”义（王守仁《象祠記》“苗夷之居者，咸神而祠之”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d0e83e41016d6381e48b7933bbdc2c7502655639c7b6b4cd603ff8c7fa2fcbd1"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-b45e9f67127d52f0-0002",
@@ -49060,9 +49093,20 @@
         },
         {
           "id": "p-guwenguanzhi-b45e9f67127d52f0-0009",
-          "version": "sha256:6ca82f0677575e58ab08beb3ff962a39c496a91943d51087633d299efa42489e",
-          "text": "意象之死，其在幹羽旣格之後乎？",
-          "aliases": []
+          "version": "sha256:17bd09f06a57435a8b38c6846f6e7f8c67d385d1a5a3de671603a74752e0bb5b",
+          "text": "意象之死，其在干羽旣格之後乎？",
+          "aliases": [],
+          "sourceText": "意象之死，其在幹羽旣格之後乎？",
+          "correction": {
+            "reason": "“幹羽”作“干羽”：《尚書·大禹謨》“舞干羽于兩階”，底本由简体转繁误作“幹”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:17bd09f06a57435a8b38c6846f6e7f8c67d385d1a5a3de671603a74752e0bb5b"
+            }
+          }
         },
         {
           "id": "p-guwenguanzhi-b45e9f67127d52f0-0010",

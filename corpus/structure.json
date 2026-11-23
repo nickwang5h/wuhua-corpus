@@ -5407,5 +5407,1122 @@
       ],
       "reason": "鲍彪注“元作某”的原字混入正文、独立成段；四库本鲍注《战国策》此处正文无此字，注作“元作”此字"
     }
+  ],
+  "sanguoyanyi": [
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-cd63b770e505f4cd",
+      "paragraphs": [
+        "p-sanguoyanyi-cd63b770e505f4cd-0007"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-d60abfaf321db901",
+      "paragraphs": [
+        "p-sanguoyanyi-d60abfaf321db901-0026",
+        "p-sanguoyanyi-d60abfaf321db901-0027"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-0fd6c5bd638550ae",
+      "paragraphs": [
+        "p-sanguoyanyi-0fd6c5bd638550ae-0011",
+        "p-sanguoyanyi-0fd6c5bd638550ae-0012"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-cb8ca287544e00a3",
+      "paragraphs": [
+        "p-sanguoyanyi-cb8ca287544e00a3-0026",
+        "p-sanguoyanyi-cb8ca287544e00a3-0027"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-7755f5166246688e",
+      "paragraphs": [
+        "p-sanguoyanyi-7755f5166246688e-0023",
+        "p-sanguoyanyi-7755f5166246688e-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b8869427b5bb2f8c",
+      "paragraphs": [
+        "p-sanguoyanyi-b8869427b5bb2f8c-0023",
+        "p-sanguoyanyi-b8869427b5bb2f8c-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-9a981208510c15c2",
+      "paragraphs": [
+        "p-sanguoyanyi-9a981208510c15c2-0037",
+        "p-sanguoyanyi-9a981208510c15c2-0038"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b3d5a6413ca3aeb7",
+      "paragraphs": [
+        "p-sanguoyanyi-b3d5a6413ca3aeb7-0070",
+        "p-sanguoyanyi-b3d5a6413ca3aeb7-0071"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-d4febee521badd95",
+      "paragraphs": [
+        "p-sanguoyanyi-d4febee521badd95-0017",
+        "p-sanguoyanyi-d4febee521badd95-0018"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-02c6333c992691df",
+      "paragraphs": [
+        "p-sanguoyanyi-02c6333c992691df-0019",
+        "p-sanguoyanyi-02c6333c992691df-0020"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-819d07dde246f671",
+      "paragraphs": [
+        "p-sanguoyanyi-819d07dde246f671-0026",
+        "p-sanguoyanyi-819d07dde246f671-0027"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b8faa1effe84bd54",
+      "paragraphs": [
+        "p-sanguoyanyi-b8faa1effe84bd54-0031",
+        "p-sanguoyanyi-b8faa1effe84bd54-0032"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-fb545a5dd2f3effb",
+      "paragraphs": [
+        "p-sanguoyanyi-fb545a5dd2f3effb-0021",
+        "p-sanguoyanyi-fb545a5dd2f3effb-0022"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e38b51d38c9aa24d",
+      "paragraphs": [
+        "p-sanguoyanyi-e38b51d38c9aa24d-0028",
+        "p-sanguoyanyi-e38b51d38c9aa24d-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-1b5f325fa57df278",
+      "paragraphs": [
+        "p-sanguoyanyi-1b5f325fa57df278-0027",
+        "p-sanguoyanyi-1b5f325fa57df278-0028"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-f5da6b30ef42ba0a",
+      "paragraphs": [
+        "p-sanguoyanyi-f5da6b30ef42ba0a-0047",
+        "p-sanguoyanyi-f5da6b30ef42ba0a-0048"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-de9d4d35e1f4482d",
+      "paragraphs": [
+        "p-sanguoyanyi-de9d4d35e1f4482d-0046",
+        "p-sanguoyanyi-de9d4d35e1f4482d-0047"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-f17a39d640563a6c",
+      "paragraphs": [
+        "p-sanguoyanyi-f17a39d640563a6c-0048",
+        "p-sanguoyanyi-f17a39d640563a6c-0049"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-973926c8981402bd",
+      "paragraphs": [
+        "p-sanguoyanyi-973926c8981402bd-0051",
+        "p-sanguoyanyi-973926c8981402bd-0052"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-5eb997d96c78ab47",
+      "paragraphs": [
+        "p-sanguoyanyi-5eb997d96c78ab47-0031",
+        "p-sanguoyanyi-5eb997d96c78ab47-0032"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-724070e9fc7357a5",
+      "paragraphs": [
+        "p-sanguoyanyi-724070e9fc7357a5-0029",
+        "p-sanguoyanyi-724070e9fc7357a5-0030"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-3f6fd381ed6bba25",
+      "paragraphs": [
+        "p-sanguoyanyi-3f6fd381ed6bba25-0057",
+        "p-sanguoyanyi-3f6fd381ed6bba25-0058"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-498954d7bd6eafd4",
+      "paragraphs": [
+        "p-sanguoyanyi-498954d7bd6eafd4-0025",
+        "p-sanguoyanyi-498954d7bd6eafd4-0026"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-04865e4c92e29813",
+      "paragraphs": [
+        "p-sanguoyanyi-04865e4c92e29813-0037",
+        "p-sanguoyanyi-04865e4c92e29813-0038"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-1fa374534a4990b7",
+      "paragraphs": [
+        "p-sanguoyanyi-1fa374534a4990b7-0034",
+        "p-sanguoyanyi-1fa374534a4990b7-0035"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e8f34a43f9610d48",
+      "paragraphs": [
+        "p-sanguoyanyi-e8f34a43f9610d48-0036",
+        "p-sanguoyanyi-e8f34a43f9610d48-0037"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-cbf08e72cd0147a9",
+      "paragraphs": [
+        "p-sanguoyanyi-cbf08e72cd0147a9-0026",
+        "p-sanguoyanyi-cbf08e72cd0147a9-0027"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-73b32d90817f90e2",
+      "paragraphs": [
+        "p-sanguoyanyi-73b32d90817f90e2-0033",
+        "p-sanguoyanyi-73b32d90817f90e2-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-0145e0943a27ac5d",
+      "paragraphs": [
+        "p-sanguoyanyi-0145e0943a27ac5d-0028",
+        "p-sanguoyanyi-0145e0943a27ac5d-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-03161f467e827fdf",
+      "paragraphs": [
+        "p-sanguoyanyi-03161f467e827fdf-0020",
+        "p-sanguoyanyi-03161f467e827fdf-0021"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b9f052e5e9d5cf74",
+      "paragraphs": [
+        "p-sanguoyanyi-b9f052e5e9d5cf74-0038",
+        "p-sanguoyanyi-b9f052e5e9d5cf74-0039"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-fe76e11219958c0f",
+      "paragraphs": [
+        "p-sanguoyanyi-fe76e11219958c0f-0040",
+        "p-sanguoyanyi-fe76e11219958c0f-0041"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-44f3e2dc70596ece",
+      "paragraphs": [
+        "p-sanguoyanyi-44f3e2dc70596ece-0042",
+        "p-sanguoyanyi-44f3e2dc70596ece-0043"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-fefc8f165fd823f3",
+      "paragraphs": [
+        "p-sanguoyanyi-fefc8f165fd823f3-0035",
+        "p-sanguoyanyi-fefc8f165fd823f3-0036"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-d8c55a3953ec1d9c",
+      "paragraphs": [
+        "p-sanguoyanyi-d8c55a3953ec1d9c-0041",
+        "p-sanguoyanyi-d8c55a3953ec1d9c-0042"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-7aba35c3320eaac9",
+      "paragraphs": [
+        "p-sanguoyanyi-7aba35c3320eaac9-0044",
+        "p-sanguoyanyi-7aba35c3320eaac9-0045"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-2e3af0ff797bb2d7",
+      "paragraphs": [
+        "p-sanguoyanyi-2e3af0ff797bb2d7-0045",
+        "p-sanguoyanyi-2e3af0ff797bb2d7-0046"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-2256103d1d9876dd",
+      "paragraphs": [
+        "p-sanguoyanyi-2256103d1d9876dd-0028",
+        "p-sanguoyanyi-2256103d1d9876dd-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-5ea5f7f203966a06",
+      "paragraphs": [
+        "p-sanguoyanyi-5ea5f7f203966a06-0029",
+        "p-sanguoyanyi-5ea5f7f203966a06-0030"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-c62faa87ec8abdc4",
+      "paragraphs": [
+        "p-sanguoyanyi-c62faa87ec8abdc4-0076",
+        "p-sanguoyanyi-c62faa87ec8abdc4-0077"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-af2c05651c461178",
+      "paragraphs": [
+        "p-sanguoyanyi-af2c05651c461178-0049",
+        "p-sanguoyanyi-af2c05651c461178-0050"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-861f08da7b5d2951",
+      "paragraphs": [
+        "p-sanguoyanyi-861f08da7b5d2951-0034",
+        "p-sanguoyanyi-861f08da7b5d2951-0035"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e1c28c090e8acfc6",
+      "paragraphs": [
+        "p-sanguoyanyi-e1c28c090e8acfc6-0040",
+        "p-sanguoyanyi-e1c28c090e8acfc6-0041"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-029513f90d52d43f",
+      "paragraphs": [
+        "p-sanguoyanyi-029513f90d52d43f-0052",
+        "p-sanguoyanyi-029513f90d52d43f-0053"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-a17aa429dc0bf3c6",
+      "paragraphs": [
+        "p-sanguoyanyi-a17aa429dc0bf3c6-0033",
+        "p-sanguoyanyi-a17aa429dc0bf3c6-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-f0b2c8f0015cfe6e",
+      "paragraphs": [
+        "p-sanguoyanyi-f0b2c8f0015cfe6e-0031",
+        "p-sanguoyanyi-f0b2c8f0015cfe6e-0032"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-bedc2eb810a5792f",
+      "paragraphs": [
+        "p-sanguoyanyi-bedc2eb810a5792f-0049",
+        "p-sanguoyanyi-bedc2eb810a5792f-0050"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-05f81d22b7eaff00",
+      "paragraphs": [
+        "p-sanguoyanyi-05f81d22b7eaff00-0038",
+        "p-sanguoyanyi-05f81d22b7eaff00-0039"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-8d95ad0226ccec30",
+      "paragraphs": [
+        "p-sanguoyanyi-8d95ad0226ccec30-0058",
+        "p-sanguoyanyi-8d95ad0226ccec30-0059"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-41ae03e0c8046524",
+      "paragraphs": [
+        "p-sanguoyanyi-41ae03e0c8046524-0029",
+        "p-sanguoyanyi-41ae03e0c8046524-0030"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-0ce75fbdf3ab6576",
+      "paragraphs": [
+        "p-sanguoyanyi-0ce75fbdf3ab6576-0041",
+        "p-sanguoyanyi-0ce75fbdf3ab6576-0042"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b0440f81d0144ab8",
+      "paragraphs": [
+        "p-sanguoyanyi-b0440f81d0144ab8-0035",
+        "p-sanguoyanyi-b0440f81d0144ab8-0036"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-da4bfc7e26093fae",
+      "paragraphs": [
+        "p-sanguoyanyi-da4bfc7e26093fae-0032",
+        "p-sanguoyanyi-da4bfc7e26093fae-0033"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-2ebb1874d1ef2fb1",
+      "paragraphs": [
+        "p-sanguoyanyi-2ebb1874d1ef2fb1-0032",
+        "p-sanguoyanyi-2ebb1874d1ef2fb1-0033"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-118d987a441ec13e",
+      "paragraphs": [
+        "p-sanguoyanyi-118d987a441ec13e-0025",
+        "p-sanguoyanyi-118d987a441ec13e-0026"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-a5c354fc28718a06",
+      "paragraphs": [
+        "p-sanguoyanyi-a5c354fc28718a06-0038",
+        "p-sanguoyanyi-a5c354fc28718a06-0039"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-811c23ee8964aca7",
+      "paragraphs": [
+        "p-sanguoyanyi-811c23ee8964aca7-0041",
+        "p-sanguoyanyi-811c23ee8964aca7-0042"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-3d755a0ccdf765e5",
+      "paragraphs": [
+        "p-sanguoyanyi-3d755a0ccdf765e5-0023",
+        "p-sanguoyanyi-3d755a0ccdf765e5-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-3ff2a813334d2432",
+      "paragraphs": [
+        "p-sanguoyanyi-3ff2a813334d2432-0025",
+        "p-sanguoyanyi-3ff2a813334d2432-0026"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-932ef4c8dbb49ff8",
+      "paragraphs": [
+        "p-sanguoyanyi-932ef4c8dbb49ff8-0064",
+        "p-sanguoyanyi-932ef4c8dbb49ff8-0065"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-0b21362adddda3aa",
+      "paragraphs": [
+        "p-sanguoyanyi-0b21362adddda3aa-0028",
+        "p-sanguoyanyi-0b21362adddda3aa-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-2a47a4f6970035e6",
+      "paragraphs": [
+        "p-sanguoyanyi-2a47a4f6970035e6-0027",
+        "p-sanguoyanyi-2a47a4f6970035e6-0028"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-7a54bf93a80fca4c",
+      "paragraphs": [
+        "p-sanguoyanyi-7a54bf93a80fca4c-0043",
+        "p-sanguoyanyi-7a54bf93a80fca4c-0044"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-01a2ba08cdfd33ef",
+      "paragraphs": [
+        "p-sanguoyanyi-01a2ba08cdfd33ef-0049",
+        "p-sanguoyanyi-01a2ba08cdfd33ef-0050"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-c0e8d604c1200bd7",
+      "paragraphs": [
+        "p-sanguoyanyi-c0e8d604c1200bd7-0035",
+        "p-sanguoyanyi-c0e8d604c1200bd7-0036"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e1c5a4317a8a205b",
+      "paragraphs": [
+        "p-sanguoyanyi-e1c5a4317a8a205b-0040",
+        "p-sanguoyanyi-e1c5a4317a8a205b-0041"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-86b902871b103759",
+      "paragraphs": [
+        "p-sanguoyanyi-86b902871b103759-0032",
+        "p-sanguoyanyi-86b902871b103759-0033"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-5480a899870dfbf1",
+      "paragraphs": [
+        "p-sanguoyanyi-5480a899870dfbf1-0028",
+        "p-sanguoyanyi-5480a899870dfbf1-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-9de7f783da21149e",
+      "paragraphs": [
+        "p-sanguoyanyi-9de7f783da21149e-0037",
+        "p-sanguoyanyi-9de7f783da21149e-0038"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e904b4fafab50215",
+      "paragraphs": [
+        "p-sanguoyanyi-e904b4fafab50215-0040",
+        "p-sanguoyanyi-e904b4fafab50215-0041"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-d127a4ee5c61d027",
+      "paragraphs": [
+        "p-sanguoyanyi-d127a4ee5c61d027-0033",
+        "p-sanguoyanyi-d127a4ee5c61d027-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-42c67105ce5d6378",
+      "paragraphs": [
+        "p-sanguoyanyi-42c67105ce5d6378-0034",
+        "p-sanguoyanyi-42c67105ce5d6378-0035"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-fa426990c37664ce",
+      "paragraphs": [
+        "p-sanguoyanyi-fa426990c37664ce-0026",
+        "p-sanguoyanyi-fa426990c37664ce-0027"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b63f380fc1ef2138",
+      "paragraphs": [
+        "p-sanguoyanyi-b63f380fc1ef2138-0031",
+        "p-sanguoyanyi-b63f380fc1ef2138-0032"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-4c3ec6e31abdde20",
+      "paragraphs": [
+        "p-sanguoyanyi-4c3ec6e31abdde20-0023",
+        "p-sanguoyanyi-4c3ec6e31abdde20-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-f757cbae47de851e",
+      "paragraphs": [
+        "p-sanguoyanyi-f757cbae47de851e-0028",
+        "p-sanguoyanyi-f757cbae47de851e-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-182242c14a0a9b1b",
+      "paragraphs": [
+        "p-sanguoyanyi-182242c14a0a9b1b-0021",
+        "p-sanguoyanyi-182242c14a0a9b1b-0022"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-7e60850fc4594416",
+      "paragraphs": [
+        "p-sanguoyanyi-7e60850fc4594416-0020",
+        "p-sanguoyanyi-7e60850fc4594416-0021"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-307767ffcc87e683",
+      "paragraphs": [
+        "p-sanguoyanyi-307767ffcc87e683-0022",
+        "p-sanguoyanyi-307767ffcc87e683-0023"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-09e415bc47cc7580",
+      "paragraphs": [
+        "p-sanguoyanyi-09e415bc47cc7580-0030",
+        "p-sanguoyanyi-09e415bc47cc7580-0031"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-2b90344e37f485f3",
+      "paragraphs": [
+        "p-sanguoyanyi-2b90344e37f485f3-0033",
+        "p-sanguoyanyi-2b90344e37f485f3-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-60caf14c1de3c927",
+      "paragraphs": [
+        "p-sanguoyanyi-60caf14c1de3c927-0030",
+        "p-sanguoyanyi-60caf14c1de3c927-0031"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-77f286806b0261e4",
+      "paragraphs": [
+        "p-sanguoyanyi-77f286806b0261e4-0028",
+        "p-sanguoyanyi-77f286806b0261e4-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-28ca92d9f49ce288",
+      "paragraphs": [
+        "p-sanguoyanyi-28ca92d9f49ce288-0022",
+        "p-sanguoyanyi-28ca92d9f49ce288-0023"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-23eaeb79fbb939db",
+      "paragraphs": [
+        "p-sanguoyanyi-23eaeb79fbb939db-0018",
+        "p-sanguoyanyi-23eaeb79fbb939db-0019"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-589425ecb68f6507",
+      "paragraphs": [
+        "p-sanguoyanyi-589425ecb68f6507-0032",
+        "p-sanguoyanyi-589425ecb68f6507-0033"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-94b978926ddd4bef",
+      "paragraphs": [
+        "p-sanguoyanyi-94b978926ddd4bef-0036",
+        "p-sanguoyanyi-94b978926ddd4bef-0037"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e9dc8dc7f17733d5",
+      "paragraphs": [
+        "p-sanguoyanyi-e9dc8dc7f17733d5-0028",
+        "p-sanguoyanyi-e9dc8dc7f17733d5-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-d1072c9f5355ae12",
+      "paragraphs": [
+        "p-sanguoyanyi-d1072c9f5355ae12-0022",
+        "p-sanguoyanyi-d1072c9f5355ae12-0023"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-fe5f4259784a92d2",
+      "paragraphs": [
+        "p-sanguoyanyi-fe5f4259784a92d2-0024",
+        "p-sanguoyanyi-fe5f4259784a92d2-0025"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-dd6e7f329f2e4f0d",
+      "paragraphs": [
+        "p-sanguoyanyi-dd6e7f329f2e4f0d-0025",
+        "p-sanguoyanyi-dd6e7f329f2e4f0d-0026"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-69a03faf957dd180",
+      "paragraphs": [
+        "p-sanguoyanyi-69a03faf957dd180-0033",
+        "p-sanguoyanyi-69a03faf957dd180-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-1f59b6e19919f265",
+      "paragraphs": [
+        "p-sanguoyanyi-1f59b6e19919f265-0027",
+        "p-sanguoyanyi-1f59b6e19919f265-0028"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-99b541a5929701a1",
+      "paragraphs": [
+        "p-sanguoyanyi-99b541a5929701a1-0028",
+        "p-sanguoyanyi-99b541a5929701a1-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-f09c5fe4b0edf1ac",
+      "paragraphs": [
+        "p-sanguoyanyi-f09c5fe4b0edf1ac-0023",
+        "p-sanguoyanyi-f09c5fe4b0edf1ac-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-847cb696c382cec6",
+      "paragraphs": [
+        "p-sanguoyanyi-847cb696c382cec6-0020",
+        "p-sanguoyanyi-847cb696c382cec6-0021"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-ef0ed4938b9eadb3",
+      "paragraphs": [
+        "p-sanguoyanyi-ef0ed4938b9eadb3-0020",
+        "p-sanguoyanyi-ef0ed4938b9eadb3-0021"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-a16cf479be9cc2ae",
+      "paragraphs": [
+        "p-sanguoyanyi-a16cf479be9cc2ae-0023",
+        "p-sanguoyanyi-a16cf479be9cc2ae-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-280ee98ebdd3777c",
+      "paragraphs": [
+        "p-sanguoyanyi-280ee98ebdd3777c-0021",
+        "p-sanguoyanyi-280ee98ebdd3777c-0022"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-5bde790182e31bf2",
+      "paragraphs": [
+        "p-sanguoyanyi-5bde790182e31bf2-0030",
+        "p-sanguoyanyi-5bde790182e31bf2-0031"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-9e7f27f6d6fcaeaf",
+      "paragraphs": [
+        "p-sanguoyanyi-9e7f27f6d6fcaeaf-0027",
+        "p-sanguoyanyi-9e7f27f6d6fcaeaf-0028"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-98f589e299b6198e",
+      "paragraphs": [
+        "p-sanguoyanyi-98f589e299b6198e-0032",
+        "p-sanguoyanyi-98f589e299b6198e-0033"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-30d2f5ca74ca6bdf",
+      "paragraphs": [
+        "p-sanguoyanyi-30d2f5ca74ca6bdf-0023",
+        "p-sanguoyanyi-30d2f5ca74ca6bdf-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e47bbbdd6d6c8348",
+      "paragraphs": [
+        "p-sanguoyanyi-e47bbbdd6d6c8348-0028",
+        "p-sanguoyanyi-e47bbbdd6d6c8348-0029"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-fbabdac1817ad1ba",
+      "paragraphs": [
+        "p-sanguoyanyi-fbabdac1817ad1ba-0034",
+        "p-sanguoyanyi-fbabdac1817ad1ba-0035"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-5fa371a810e702cd",
+      "paragraphs": [
+        "p-sanguoyanyi-5fa371a810e702cd-0030",
+        "p-sanguoyanyi-5fa371a810e702cd-0031"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-3877c39e18e0dad3",
+      "paragraphs": [
+        "p-sanguoyanyi-3877c39e18e0dad3-0033",
+        "p-sanguoyanyi-3877c39e18e0dad3-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-568bbbfcb6c1b14f",
+      "paragraphs": [
+        "p-sanguoyanyi-568bbbfcb6c1b14f-0036",
+        "p-sanguoyanyi-568bbbfcb6c1b14f-0037"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-c271e3b26cefd558",
+      "paragraphs": [
+        "p-sanguoyanyi-c271e3b26cefd558-0019",
+        "p-sanguoyanyi-c271e3b26cefd558-0020"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b4dfcba4c772bdcd",
+      "paragraphs": [
+        "p-sanguoyanyi-b4dfcba4c772bdcd-0029",
+        "p-sanguoyanyi-b4dfcba4c772bdcd-0030"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-439aca31068474b7",
+      "paragraphs": [
+        "p-sanguoyanyi-439aca31068474b7-0023",
+        "p-sanguoyanyi-439aca31068474b7-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-4a06a976e739252c",
+      "paragraphs": [
+        "p-sanguoyanyi-4a06a976e739252c-0025",
+        "p-sanguoyanyi-4a06a976e739252c-0026"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-e628517c8d9d1d88",
+      "paragraphs": [
+        "p-sanguoyanyi-e628517c8d9d1d88-0020",
+        "p-sanguoyanyi-e628517c8d9d1d88-0021"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-831be01760f5eb10",
+      "paragraphs": [
+        "p-sanguoyanyi-831be01760f5eb10-0015",
+        "p-sanguoyanyi-831be01760f5eb10-0016"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-07c2c506253ec8bc",
+      "paragraphs": [
+        "p-sanguoyanyi-07c2c506253ec8bc-0024",
+        "p-sanguoyanyi-07c2c506253ec8bc-0025"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-9ffc1fd0fac496f0",
+      "paragraphs": [
+        "p-sanguoyanyi-9ffc1fd0fac496f0-0019",
+        "p-sanguoyanyi-9ffc1fd0fac496f0-0020"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-3f08efd31ff3e973",
+      "paragraphs": [
+        "p-sanguoyanyi-3f08efd31ff3e973-0030",
+        "p-sanguoyanyi-3f08efd31ff3e973-0031"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-3b206e6d99f6e16a",
+      "paragraphs": [
+        "p-sanguoyanyi-3b206e6d99f6e16a-0018",
+        "p-sanguoyanyi-3b206e6d99f6e16a-0019"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-5c10ae3255860591",
+      "paragraphs": [
+        "p-sanguoyanyi-5c10ae3255860591-0019",
+        "p-sanguoyanyi-5c10ae3255860591-0020"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-a26c087a5d99716f",
+      "paragraphs": [
+        "p-sanguoyanyi-a26c087a5d99716f-0026",
+        "p-sanguoyanyi-a26c087a5d99716f-0027"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-6a8f8e665c9b5820",
+      "paragraphs": [
+        "p-sanguoyanyi-6a8f8e665c9b5820-0032",
+        "p-sanguoyanyi-6a8f8e665c9b5820-0033"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-70fb7a94c8773188",
+      "paragraphs": [
+        "p-sanguoyanyi-70fb7a94c8773188-0038",
+        "p-sanguoyanyi-70fb7a94c8773188-0039"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-sanguoyanyi-b9cc783d59484412",
+      "paragraphs": [
+        "p-sanguoyanyi-b9cc783d59484412-0066"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
+    }
+  ],
+  "xiyouji": [
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-xiyouji-305cc69b5e8d159d",
+      "paragraphs": [
+        "p-xiyouji-305cc69b5e8d159d-0001"
+      ],
+      "reason": "维基文库模板生成的提示语（本页含扩展区汉字），不是正文"
+    }
   ]
 }
