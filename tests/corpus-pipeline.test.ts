@@ -29,7 +29,9 @@ test('the Siku replacement alone opts into glyph placeholders and records every 
  const book=await jsonFile<import('../src/types.js').TextBook>('src/books/zhouyizhu.json');
  assert.equal(source.provider,'zhwikisource');assert.equal(source.missingGlyphImages,true);
  assert.deepEqual(book.chapters.map(c=>c.title),['提要',...Array.from({length:10},(_,i)=>`卷${String(i+1).padStart(2,'0')}`)]);
- assert.match(book.chapters[1].paragraphs[0].text,/^䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣/);
+ // The imported text has no punctuation; the reading text gained it later from 《周易正義》.
+ const first=book.chapters[1].paragraphs[0];
+ assert.match(first.sourceText??first.text,/^䷀〈乾下乾上〉乾元亨利貞初九潛龍勿用〈文言備矣/);
  let total=0;
  for(const c of book.chapters){
   // Counted in the source wording: a reviewed correction may restore a placeholder's character.

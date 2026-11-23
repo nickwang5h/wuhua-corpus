@@ -9343,9 +9343,20 @@
         },
         {
           "id": "p-kongzijiayu-7d8fb242facd52b4-0093",
-          "version": "sha256:27f6bc90036661e9071559ea119850bb363004d2d624e52ce8c6d378b8f928a5",
-          "text": "俾屏余一人以在位，焭焭余在疚",
-          "aliases": []
+          "version": "sha256:d6e6650602bf23cf385cc9c32bb44d1e3dbbd40fb5f0796c3d9e53ebaee1a0e5",
+          "text": "俾屏余一人以在位，焭焭余在疚。",
+          "aliases": [],
+          "sourceText": "俾屏余一人以在位，焭焭余在疚",
+          "correction": {
+            "reason": "段末补句号，据维基文库《孔子家語》卷九“煢煢余在疚。【疚，病。】於乎哀哉”；下段另起“於乎哀哉”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d6e6650602bf23cf385cc9c32bb44d1e3dbbd40fb5f0796c3d9e53ebaee1a0e5"
+            }
+          }
         },
         {
           "id": "p-kongzijiayu-7d8fb242facd52b4-0094",

@@ -9069,9 +9069,20 @@
         },
         {
           "id": "p-liuzongyuanji-88ed43353628c981-0154",
-          "version": "sha256:6f54acc3e90d421eae0525b8228d9637099cc78a2a011ec3d3f6bebadfff6a0e",
-          "text": "至德二年十月，城䧟遇害，無傳爕之歎息，",
-          "aliases": []
+          "version": "sha256:d4409fbb51347aa284a91cb87aa9b966cda917360606df9f8bf1c4a72b7823a8",
+          "text": "至德二年十月，城䧟遇害，無傅爕之歎息，",
+          "aliases": [],
+          "sourceText": "至德二年十月，城䧟遇害，無傳爕之歎息，",
+          "correction": {
+            "reason": "人名“傳爕”作“傅爕”（后汉傅燮），据四库本《柳河東集注》卷05“無傅爕之歎息”；本库《资治通鉴》汉纪五十作“傅爕”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d4409fbb51347aa284a91cb87aa9b966cda917360606df9f8bf1c4a72b7823a8"
+            }
+          }
         },
         {
           "id": "p-liuzongyuanji-88ed43353628c981-0155",
@@ -43167,9 +43178,20 @@
         },
         {
           "id": "p-liuzongyuanji-f66d29ce498246c3-0052",
-          "version": "sha256:19fb7c9586dfe1ac72bde123f1e2c434c937087d81750c6b99e1b6d0aaffc715",
-          "text": "鄭人以瞻與晉，晉人將烹之。瞻曰：“天降禍鄭，使淫觀狀，棄禮違親。”",
-          "aliases": []
+          "version": "sha256:9691d148fa3d816e377f57075353e5541a6c7e701e8a24cff60954816ba24bde",
+          "text": "鄭人以詹與晉，晉人將烹之。詹曰：“天降禍鄭，使淫觀狀，棄禮違親。”",
+          "aliases": [],
+          "sourceText": "鄭人以瞻與晉，晉人將烹之。瞻曰：“天降禍鄭，使淫觀狀，棄禮違親。”",
+          "correction": {
+            "reason": "人名“瞻”作“詹”（郑叔詹），据四库本《柳河東集注》别集卷下“詹與晉，晉人將烹之，詹曰”；本书卷十二作“鄭詹束縛於晉”，本库《春秋》作“鄭詹”；人名“瞻”作“詹”，同上条",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:9691d148fa3d816e377f57075353e5541a6c7e701e8a24cff60954816ba24bde"
+            }
+          }
         },
         {
           "id": "p-liuzongyuanji-f66d29ce498246c3-0053",

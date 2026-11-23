@@ -8323,9 +8323,20 @@
       "paragraphs": [
         {
           "id": "p-hongloumeng-a63852fcce545afa-0001",
-          "version": "sha256:582103d25940b5c4ba7f077690d632a808c8bd554f6c40180673a94213d8944c",
-          "text": "杏子陰假鳯泣處凰，莤紗窗真情揆痴理。",
-          "aliases": []
+          "version": "sha256:701268259eb1e9128b5037c74b169d94848c1845a6d8823488ee85b2a8de1faa",
+          "text": "杏子陰假鳯泣虛凰，茜紗窗真情揆痴理。",
+          "aliases": [],
+          "sourceText": "杏子陰假鳯泣處凰，莤紗窗真情揆痴理。",
+          "correction": {
+            "reason": "回目“處凰”作“虛凰”、“莤”作“茜”，据维基文库程甲本版面录文与程乙本“杏子陰假鳯泣虛凰　茜紗窗真情揆痴理”，本书目錄亦作“虛凰，茜紗窻”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:701268259eb1e9128b5037c74b169d94848c1845a6d8823488ee85b2a8de1faa"
+            }
+          }
         },
         {
           "id": "p-hongloumeng-a63852fcce545afa-0002",

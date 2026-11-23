@@ -1379,7 +1379,7 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "feeca436d4fb00bf22538f1c31331e26c6b0cef6d78a2501c37de71022d1951b",
+  "normalizedSha256": "b48b635401b23bb22b6d46732ea26b5d48355838cf7e12bc83f0baaa002b539c",
   "stats": {
     "chapters": 123,
     "paragraphs": 4044,
@@ -1398,6 +1398,11 @@
         "source": "https://zh.wikisource.org/w/index.php?oldid=2575201",
         "kind": "chapter",
         "withdrawnTail": [
+          {
+            "id": "p-sanguoyanyi-cd63b770e505f4cd-0006",
+            "version": "sha256:761536c25b503a7ead7eb98c586451d0b29aeba2655ddf6a4da4465e4c92a641",
+            "aliases": []
+          },
           {
             "id": "p-sanguoyanyi-cd63b770e505f4cd-0007",
             "version": "sha256:18a3f00d01fa2964b8cecece3c4c900470c60ff98a2c06e61ec7f7545d42061d",
@@ -3717,6 +3722,11 @@
         "source": "https://zh.wikisource.org/w/index.php?oldid=2568085",
         "kind": "chapter",
         "withdrawnTail": [
+          {
+            "id": "p-sanguoyanyi-b9cc783d59484412-0065",
+            "version": "sha256:8c58c2e17c80182722e6c8b742a584d1d9a8b46f96403d874f444ad01a89df69",
+            "aliases": []
+          },
           {
             "id": "p-sanguoyanyi-b9cc783d59484412-0066",
             "version": "sha256:18a3f00d01fa2964b8cecece3c4c900470c60ff98a2c06e61ec7f7545d42061d",

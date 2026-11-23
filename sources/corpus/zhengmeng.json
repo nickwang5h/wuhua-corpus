@@ -234,7 +234,7 @@
     "url": "https://zh.wikisource.org/wiki/Wikisource:版權信息",
     "attribution": "中文維基文庫貢獻者"
   },
-  "normalizedSha256": "297c54d2469c0a71755fbc37e5636969f5ffb2c2ccd4e247366ab37af489abf6",
+  "normalizedSha256": "e8a1ecff18896c54e80b040aca49c422dd12f3a1a8080343309bcb44483242c5",
   "stats": {
     "chapters": 19,
     "paragraphs": 539,
@@ -265,119 +265,323 @@
         "number": 3,
         "title": "01",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589369",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-3a8c46eff08d25bd-0023",
+            "version": "sha256:efc875dd07ae2f465d2d85d35f21799f15e26d79c309f73bda417dc92068aae7",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-3a8c46eff08d25bd-0024",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-a0793cd4a290b356",
         "number": 4,
         "title": "02",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589370",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-a0793cd4a290b356-0021",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-a0793cd4a290b356-0022",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-cf0ac92750fa418d",
         "number": 5,
         "title": "03",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589371",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-cf0ac92750fa418d-0022",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-cf0ac92750fa418d-0023",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-ca87741c89bab4cc",
         "number": 6,
         "title": "04",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589372",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-ca87741c89bab4cc-0030",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-ca87741c89bab4cc-0031",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-6856497dbb6a8ed2",
         "number": 7,
         "title": "05",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589373",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-6856497dbb6a8ed2-0013",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-6856497dbb6a8ed2-0014",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-e8d829b7f429b73c",
         "number": 8,
         "title": "06",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589374",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-e8d829b7f429b73c-0033",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-e8d829b7f429b73c-0034",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-7078db75c676c718",
         "number": 9,
         "title": "07",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589375",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-7078db75c676c718-0016",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-7078db75c676c718-0017",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-0b5996b28f144195",
         "number": 10,
         "title": "08",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589376",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-0b5996b28f144195-0057",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-0b5996b28f144195-0058",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-f7bcb578bbf44748",
         "number": 11,
         "title": "09",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589377",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-f7bcb578bbf44748-0055",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-f7bcb578bbf44748-0056",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-377348ef6bcaeec3",
         "number": 12,
         "title": "10",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589378",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-377348ef6bcaeec3-0021",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-377348ef6bcaeec3-0022",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-07f7d84ae8a49c86",
         "number": 13,
         "title": "11",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589379",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-07f7d84ae8a49c86-0034",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-07f7d84ae8a49c86-0035",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-f44c631746d0eeac",
         "number": 14,
         "title": "12",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589380",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-f44c631746d0eeac-0039",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-f44c631746d0eeac-0040",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-0a86e2cfb03bd4cc",
         "number": 15,
         "title": "13",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589381",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-0a86e2cfb03bd4cc-0010",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-0a86e2cfb03bd4cc-0011",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-868e9cf0770c8f05",
         "number": 16,
         "title": "14",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589382",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-868e9cf0770c8f05-0062",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-868e9cf0770c8f05-0063",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-53310b265f68fe56",
         "number": 17,
         "title": "15",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589383",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-53310b265f68fe56-0034",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-53310b265f68fe56-0035",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-14522f9997693041",
         "number": 18,
         "title": "16",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589386",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-14522f9997693041-0022",
+            "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-14522f9997693041-0023",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       },
       {
         "id": "chapter-zhengmeng-73e16b6b3fa609f3",
         "number": 19,
         "title": "17",
         "source": "https://zh.wikisource.org/w/index.php?oldid=2589385",
-        "kind": "chapter"
+        "kind": "chapter",
+        "withdrawnTail": [
+          {
+            "id": "p-zhengmeng-73e16b6b3fa609f3-0019",
+            "version": "sha256:ea8bd23e8a1732916d69c691c17387637f4f419c1589fa62aec671f3bdf0726d",
+            "aliases": []
+          },
+          {
+            "id": "p-zhengmeng-73e16b6b3fa609f3-0020",
+            "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
+            "aliases": []
+          }
+        ]
       }
     ]
   }

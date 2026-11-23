@@ -113,12 +113,21 @@ for(const list of byParagraph.values()){
   aid.version=version;
   if(aid.review?.textVersion===oldVersion)aid.review.textVersion=version;
  }
+ // Going back to a text this paragraph once had: that version is current again, so it stops being history
+ // and its old step forward goes, or the chain would run in a circle.
+ const back=history.transitions.findIndex(t=>t.from.id===id&&t.from.version===version);
+ if(back>=0){
+  history.transitions.splice(back,1);
+  const kept=history.records.findIndex(r=>r.id===id&&r.version===version);
+  if(kept>=0)history.records.splice(kept,1);
+ }
  if(!history.records.some(r=>r.id===id&&r.version===oldVersion))history.records.push({id,version:oldVersion,text:oldText,title:chapter.title,source:chapter.source});
  history.transitions.push({from:{id,version:oldVersion},kind:'revision',reason,targets:[{id,version}]});
  p.sourceText??=oldText;
  p.text=text;
  p.version=version;
  const earlier=p.correction?.reason;
+ if(p.sourceText===text){delete p.sourceText;delete p.correction;console.log(`${bookId} ${id}: back to the source text`);continue;}
  p.correction={reason:earlier?`${earlier}；${reason}`:reason,review:{status:'reviewed',author,reviewer,reviewedAt:today,textVersion:version}};
  console.log(`${bookId} ${id}: ${list.map(i=>`${i.find}→${i.replace}`).join('，')}`);
 }

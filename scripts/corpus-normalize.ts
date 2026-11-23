@@ -14,7 +14,7 @@ export function normalizeHtml(html:string,trackHeadings=false,primaryText=false,
   if('value' in n){buffer+=n.value;return;}
   if(!('tagName' in n)){for(const c of children(n))walk(c);return;}
   const tag=n.tagName;
-  if(primaryText&&attr(n,'class').split(/\s+/).includes('variant-tooltip'))return;
+  if(attr(n,'class').split(/\s+/).includes('variant-tooltip'))return;
   if(['script','style','noscript','nav','figure','math','audio','video','rt','rp'].includes(tag)||attr(n,'class').split(/\s+/).some(c=>skipClasses.test(c))||/^(?:header|footer|toc|catlinks|license|ws-data)/i.test(attr(n,'id'))||attr(n,'role')==='navigation')return;
   if(tag==='img'){if(glyphs){buffer+='□';glyphs.onMissing();}return;}
   if(/^h[1-6]$/.test(tag)){flush();if(/^h[12]$/.test(tag))headingOrdinal++;const level=Number(tag[1])-1;headings.length=level;headings[level]=normalize(plain(n).replace(/\[編輯\]|\[编辑\]/g,''));return;}
@@ -46,7 +46,7 @@ export function normalizePoetryHtml(html:string,selection?:{heading?:string;poem
 export function residue(text:string):string[]{
  const warnings:string[]=[];
  if(/\{\{|\}\}|\[\[|\]\]|<\/?(?:ref|div|span)\b|Template:|模板:|Category:|分類:|分类:|Lua错误|Lua 錯誤|腳本錯誤|脚本错误/.test(text))warnings.push('markup-residue');
- if(/^[◄►]/.test(text))warnings.push('ui-residue');
+ if(/^[◄►◀▶]|[◄►◀▶]$/.test(text))warnings.push('ui-residue');
  if(/維基文庫|维基文库|此作品在|本作品在|維基文庫，自由的圖書館|维基文库，自由的图书馆|本页最后|本頁最後|自由的圖書館|Creative Commons/.test(text))warnings.push('ui-residue');
  if(/参考文献|參考文獻|本文旨在|本文即从|本文即從/.test(text))warnings.push('modern-editorial-appendix');
  if(/[\uE000-\uF8FF\uFFFD□]/u.test(text))warnings.push('source-missing-glyph');

@@ -318,18 +318,6 @@
           "version": "sha256:3c986d2649eb3975e87c8a71fc838cfa9e561be088885360bf7d80b2c8f22193",
           "text": "氣與志，天與人，有交勝之理。聖人在上而下民咨，氣壹之動志也；鳳凰儀，志壹之動氣也。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-3a8c46eff08d25bd-0023",
-          "version": "sha256:efc875dd07ae2f465d2d85d35f21799f15e26d79c309f73bda417dc92068aae7",
-          "text": "全書始 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-3a8c46eff08d25bd-0024",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -481,18 +469,6 @@
           "version": "sha256:7a20a3d17d2048dee663113c7a41ab59674624ff63b56ccc6db6497df8db5222",
           "text": "陽陷於陰為水，附於陰為火。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-a0793cd4a290b356-0021",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-a0793cd4a290b356-0022",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -639,18 +615,6 @@
           "version": "sha256:d49f0c956833d7e3f9a77cd4fbb1f214a709cb801f5e400dc31802d610b6c624",
           "text": "〈貞〉明不為日月所眩，〈貞〉觀不為天地所遷。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-cf0ac92750fa418d-0022",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-cf0ac92750fa418d-0023",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -693,9 +657,20 @@
         },
         {
           "id": "p-zhengmeng-ca87741c89bab4cc-0006",
-          "version": "sha256:a97af86fa1627196d8f6723ab5f95f606dc129425c95e43f4544e1763d14fda3",
-          "text": "氣有陰陽，推行有漸為化，合一不測為神。其在人也，〈智一作「知」〉義〈用〉利，則神化之事備矣。德盛者窮神則〈智一作「知」〉不足道，知化則義不足云。天之化也運諸氣，人之化也順夫時；非氣非時，則化之名何有？化之實何施？中庸曰「至誠為能化」，孟子曰「大而化之」，皆以其德合陰陽，與天地同流而無不通也。所謂氣也者，非待其蒸鬱凝聚，接於目而後知之；苟健、順、動、止、浩然、湛然之得言，皆可名之象爾。然則象若非氣，指何為象？時若非象，指何為時？世人取釋氏銷礙入空，學者舍惡趨善以為化，此直可為始學遣累者，薄乎云爾，豈天道神化所同語也哉！",
-          "aliases": []
+          "version": "sha256:f0f7f36d0468ea68ba77da98d00b4ca4d9a3964305300bebd0cd793c6069d442",
+          "text": "氣有陰陽，推行有漸為化，合一不測為神。其在人也，〈智〉義〈用〉利，則神化之事備矣。德盛者窮神則〈智〉不足道，知化則義不足云。天之化也運諸氣，人之化也順夫時；非氣非時，則化之名何有？化之實何施？中庸曰「至誠為能化」，孟子曰「大而化之」，皆以其德合陰陽，與天地同流而無不通也。所謂氣也者，非待其蒸鬱凝聚，接於目而後知之；苟健、順、動、止、浩然、湛然之得言，皆可名之象爾。然則象若非氣，指何為象？時若非象，指何為時？世人取釋氏銷礙入空，學者舍惡趨善以為化，此直可為始學遣累者，薄乎云爾，豈天道神化所同語也哉！",
+          "aliases": [],
+          "sourceText": "氣有陰陽，推行有漸為化，合一不測為神。其在人也，〈智一作「知」〉義〈用〉利，則神化之事備矣。德盛者窮神則〈智一作「知」〉不足道，知化則義不足云。天之化也運諸氣，人之化也順夫時；非氣非時，則化之名何有？化之實何施？中庸曰「至誠為能化」，孟子曰「大而化之」，皆以其德合陰陽，與天地同流而無不通也。所謂氣也者，非待其蒸鬱凝聚，接於目而後知之；苟健、順、動、止、浩然、湛然之得言，皆可名之象爾。然則象若非氣，指何為象？時若非象，指何為時？世人取釋氏銷礙入空，學者舍惡趨善以為化，此直可為始學遣累者，薄乎云爾，豈天道神化所同語也哉！",
+          "correction": {
+            "reason": "刪去混入正文的“一作「知」”，此為維基文庫{{另|智|知}}懸浮異文注，非底本文字；據《正蒙》所據維基文庫頁（正蒙/04）HTML；刪去混入正文的“一作「知」”，此為維基文庫{{另|智|知}}懸浮異文注，非底本文字；據《正蒙》所據維基文庫頁（正蒙/04）HTML",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f0f7f36d0468ea68ba77da98d00b4ca4d9a3964305300bebd0cd793c6069d442"
+            }
+          }
         },
         {
           "id": "p-zhengmeng-ca87741c89bab4cc-0007",
@@ -889,18 +864,6 @@
               "textVersion": "sha256:3442ad22427357aa9838acc703f3811ff46a38f73efe3942cc27cc9cd54238c6"
             }
           }
-        },
-        {
-          "id": "p-zhengmeng-ca87741c89bab4cc-0030",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-ca87741c89bab4cc-0031",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -1025,18 +988,6 @@
           "id": "p-zhengmeng-6856497dbb6a8ed2-0012",
           "version": "sha256:c35c7ada9cfcf83e7a65d0e0fed1f225fa15fafe382bf14b373d8cd51ac84ed3",
           "text": "形也，聲也，臭也，味也，溫涼也，動靜也，六者莫不有五行之別，同異之變，皆帝則之必察者歟！",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-6856497dbb6a8ed2-0013",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-6856497dbb6a8ed2-0014",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
           "aliases": []
         }
       ]
@@ -1305,18 +1256,6 @@
               "textVersion": "sha256:733ae89045b5559fe71d57b6ae07bbf34610123ab9f344259f9d6491e593dd6b"
             }
           }
-        },
-        {
-          "id": "p-zhengmeng-e8d829b7f429b73c-0033",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-e8d829b7f429b73c-0034",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -1459,18 +1398,6 @@
           "id": "p-zhengmeng-7078db75c676c718-0015",
           "version": "sha256:1c374950103aa5df4fa6b7bfd2880a08fa37c7df7f937c168d271f7cafd2b6e7",
           "text": "釋氏妄意天性而不知範圍天用，反以六根之微因緣天地。明不能盡，則誣天地日月為幻妄，蔽其用於一身之小，溺其志於虛空之大，所以語大語小，流遁失中。其過於大也，塵芥六合；其蔽於小也，夢幻人世。謂之窮理可乎？不知窮理而謂盡性可乎？謂之無不知可乎？塵芥六合，謂天地為有窮也；夢幻人世，明不能究所從也。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-7078db75c676c718-0016",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-7078db75c676c718-0017",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
           "aliases": []
         }
       ]
@@ -2004,18 +1931,6 @@
           "version": "sha256:f813592a21a7f238efd14084bd9b6e8ca8f3194de2da44719f92cd03ea5b1cca",
           "text": "子而孚化之，眾好者翼飛之，則吾道行矣。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-0b5996b28f144195-0057",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-0b5996b28f144195-0058",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -2393,18 +2308,6 @@
           "version": "sha256:17ed0e1c0475efdf486403681a49865e9aac507ceebc2ea8a714bdea45cbe126",
           "text": "「闇然」，修於隱也；「的然」，著於外也。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-f7bcb578bbf44748-0055",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-f7bcb578bbf44748-0056",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -2566,18 +2469,6 @@
           "id": "p-zhengmeng-377348ef6bcaeec3-0020",
           "version": "sha256:f5c027f17640ee1e6d577263414bbff90f85dc68c58e034f0fbeb68055d7dc15",
           "text": "顓臾主祀，東蒙既魯地，則是已在邦域之中矣，雖非魯臣，乃吾事社稷之臣也。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-377348ef6bcaeec3-0021",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-377348ef6bcaeec3-0022",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
           "aliases": []
         }
       ]
@@ -2841,18 +2732,6 @@
               "textVersion": "sha256:07bafb40221bce92e9f16db514ff46ddf4b6aad9b8f36669ebdc3eb0f39e7076"
             }
           }
-        },
-        {
-          "id": "p-zhengmeng-07f7d84ae8a49c86-0034",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-07f7d84ae8a49c86-0035",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -3156,18 +3035,6 @@
           "version": "sha256:359422c59682b3f4ce3449319c0c8ffde3274ef204a75719dcff55dd49ca5013",
           "text": "言從作乂，名正，其言易知，人易從。聖人不患為政難，患民難喻。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-f44c631746d0eeac-0039",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-f44c631746d0eeac-0040",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -3230,18 +3097,6 @@
           "id": "p-zhengmeng-0a86e2cfb03bd4cc-0009",
           "version": "sha256:125b23c149d79f4e626b508c61ade19000ec0aa97fe9ea8db375a5147c913a20",
           "text": "報者，天下之利，率德而致。善有勸，不善有沮，皆天下之利也。小人私己，利於不治，君子公物，利於治。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-0a86e2cfb03bd4cc-0010",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-0a86e2cfb03bd4cc-0011",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
           "aliases": []
         }
       ]
@@ -3695,18 +3550,6 @@
           "version": "sha256:2cbf4e2feff9dedf8d204f7f6c0e5e8120d8b1984d57d04916141ce9386c2955",
           "text": "往之為義，有已往，有方往，臨文者不可不察。",
           "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-868e9cf0770c8f05-0062",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-868e9cf0770c8f05-0063",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -4024,18 +3867,6 @@
               "textVersion": "sha256:04f0982edf0c573c8e03d03627f34da54bf480305866a8ad5f12b441b4b2ae92"
             }
           }
-        },
-        {
-          "id": "p-zhengmeng-53310b265f68fe56-0034",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-53310b265f68fe56-0035",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -4248,18 +4079,6 @@
               "textVersion": "sha256:8fbbdbba3bf38cc17dc291914a91a6053a09dfb805c9050a849353585ce2238c"
             }
           }
-        },
-        {
-          "id": "p-zhengmeng-14522f9997693041-0022",
-          "version": "sha256:1705538b3a0fc04a94fcb7332c03c566e2657d63e0ca608711a34231916c0f37",
-          "text": "◀上一篇 下一篇▶",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-14522f9997693041-0023",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     },
@@ -4432,18 +4251,6 @@
               "textVersion": "sha256:d9f6c1465b4667122b5b1cc73fa2d930076b83ffde44aae3d2f84254f03d2781"
             }
           }
-        },
-        {
-          "id": "p-zhengmeng-73e16b6b3fa609f3-0019",
-          "version": "sha256:ea8bd23e8a1732916d69c691c17387637f4f419c1589fa62aec671f3bdf0726d",
-          "text": "◀上一篇 全書終",
-          "aliases": []
-        },
-        {
-          "id": "p-zhengmeng-73e16b6b3fa609f3-0020",
-          "version": "sha256:d53b65c81efb7d9f90b1375ee5775ead72b248873c546b1248fc1ccc456b25d0",
-          "text": "正蒙",
-          "aliases": []
         }
       ]
     }

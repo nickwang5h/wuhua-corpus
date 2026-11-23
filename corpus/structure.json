@@ -876,6 +876,159 @@
       "chapter": "chapter-zhengmeng-73e16b6b3fa609f3",
       "title": "乾稱篇第十七",
       "reason": "The source uses numbered placeholders instead of chapter names."
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-3a8c46eff08d25bd",
+      "paragraphs": [
+        "p-zhengmeng-3a8c46eff08d25bd-0023",
+        "p-zhengmeng-3a8c46eff08d25bd-0024"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-a0793cd4a290b356",
+      "paragraphs": [
+        "p-zhengmeng-a0793cd4a290b356-0021",
+        "p-zhengmeng-a0793cd4a290b356-0022"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-cf0ac92750fa418d",
+      "paragraphs": [
+        "p-zhengmeng-cf0ac92750fa418d-0022",
+        "p-zhengmeng-cf0ac92750fa418d-0023"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-ca87741c89bab4cc",
+      "paragraphs": [
+        "p-zhengmeng-ca87741c89bab4cc-0030",
+        "p-zhengmeng-ca87741c89bab4cc-0031"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-6856497dbb6a8ed2",
+      "paragraphs": [
+        "p-zhengmeng-6856497dbb6a8ed2-0013",
+        "p-zhengmeng-6856497dbb6a8ed2-0014"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-e8d829b7f429b73c",
+      "paragraphs": [
+        "p-zhengmeng-e8d829b7f429b73c-0033",
+        "p-zhengmeng-e8d829b7f429b73c-0034"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-7078db75c676c718",
+      "paragraphs": [
+        "p-zhengmeng-7078db75c676c718-0016",
+        "p-zhengmeng-7078db75c676c718-0017"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-0b5996b28f144195",
+      "paragraphs": [
+        "p-zhengmeng-0b5996b28f144195-0057",
+        "p-zhengmeng-0b5996b28f144195-0058"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-f7bcb578bbf44748",
+      "paragraphs": [
+        "p-zhengmeng-f7bcb578bbf44748-0055",
+        "p-zhengmeng-f7bcb578bbf44748-0056"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-377348ef6bcaeec3",
+      "paragraphs": [
+        "p-zhengmeng-377348ef6bcaeec3-0021",
+        "p-zhengmeng-377348ef6bcaeec3-0022"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-07f7d84ae8a49c86",
+      "paragraphs": [
+        "p-zhengmeng-07f7d84ae8a49c86-0034",
+        "p-zhengmeng-07f7d84ae8a49c86-0035"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-f44c631746d0eeac",
+      "paragraphs": [
+        "p-zhengmeng-f44c631746d0eeac-0039",
+        "p-zhengmeng-f44c631746d0eeac-0040"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-0a86e2cfb03bd4cc",
+      "paragraphs": [
+        "p-zhengmeng-0a86e2cfb03bd4cc-0010",
+        "p-zhengmeng-0a86e2cfb03bd4cc-0011"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-868e9cf0770c8f05",
+      "paragraphs": [
+        "p-zhengmeng-868e9cf0770c8f05-0062",
+        "p-zhengmeng-868e9cf0770c8f05-0063"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-53310b265f68fe56",
+      "paragraphs": [
+        "p-zhengmeng-53310b265f68fe56-0034",
+        "p-zhengmeng-53310b265f68fe56-0035"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-14522f9997693041",
+      "paragraphs": [
+        "p-zhengmeng-14522f9997693041-0022",
+        "p-zhengmeng-14522f9997693041-0023"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
+    },
+    {
+      "op": "withdraw-tail",
+      "chapter": "chapter-zhengmeng-73e16b6b3fa609f3",
+      "paragraphs": [
+        "p-zhengmeng-73e16b6b3fa609f3-0019",
+        "p-zhengmeng-73e16b6b3fa609f3-0020"
+      ],
+      "reason": "维基文库页脚残留：翻页导航“上一篇 下一篇”和书名行，不是正文"
     }
   ],
   "gongsunlongzi": [
@@ -5406,6 +5559,614 @@
         "p-zhanguoce-c3a3a8e25e8144dc-0209"
       ],
       "reason": "鲍彪注“元作某”的原字混入正文、独立成段；四库本鲍注《战国策》此处正文无此字，注作“元作”此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-68b78e141e4eeaf6",
+      "paragraphs": [
+        "p-zhanguoce-68b78e141e4eeaf6-0014"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-d835192c1123231e",
+      "paragraphs": [
+        "p-zhanguoce-d835192c1123231e-0192"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-d835192c1123231e",
+      "paragraphs": [
+        "p-zhanguoce-d835192c1123231e-0218"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-d835192c1123231e",
+      "paragraphs": [
+        "p-zhanguoce-d835192c1123231e-0241"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0163"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0166"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0195"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0275"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0380"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0392"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0415"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0509"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0623"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0759"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0897"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-0940"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-1039"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-1073"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-1080"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-1140"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-f8ab39b45aad5bec",
+      "paragraphs": [
+        "p-zhanguoce-f8ab39b45aad5bec-1482"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0029"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0037"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0481"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0505"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0645"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0673"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0771"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0802"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0862"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-0979"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1a0f7035cebe87d7",
+      "paragraphs": [
+        "p-zhanguoce-1a0f7035cebe87d7-1019"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0170"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0177"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0181"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0185"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0239"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0398"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-03e06ac5664495c8",
+      "paragraphs": [
+        "p-zhanguoce-03e06ac5664495c8-0400"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0061"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0353"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0369"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0389"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0397"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0698"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0812"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0830"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0874"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0902"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-0906"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-1050"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-1080"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-eba5fc8ed88328a2",
+      "paragraphs": [
+        "p-zhanguoce-eba5fc8ed88328a2-1136"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0146"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0149"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0197"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0199"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0242"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0259"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0359"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0403"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0424"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0592"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0722"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0727"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0783"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0792"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0851"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-520bcc6353939ed5",
+      "paragraphs": [
+        "p-zhanguoce-520bcc6353939ed5-0903"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-c48fb0c3e418eea0",
+      "paragraphs": [
+        "p-zhanguoce-c48fb0c3e418eea0-0146"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-c48fb0c3e418eea0",
+      "paragraphs": [
+        "p-zhanguoce-c48fb0c3e418eea0-0249"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-c48fb0c3e418eea0",
+      "paragraphs": [
+        "p-zhanguoce-c48fb0c3e418eea0-0297"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1b887ad8c44a337a",
+      "paragraphs": [
+        "p-zhanguoce-1b887ad8c44a337a-0057"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1b887ad8c44a337a",
+      "paragraphs": [
+        "p-zhanguoce-1b887ad8c44a337a-0285"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1b887ad8c44a337a",
+      "paragraphs": [
+        "p-zhanguoce-1b887ad8c44a337a-0356"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-zhanguoce-1b887ad8c44a337a",
+      "paragraphs": [
+        "p-zhanguoce-1b887ad8c44a337a-0599"
+      ],
+      "reason": "鲍彪注“衍某字”所删的字（及个别混入字）独立成段；四库本鲍注《战国策》此处正文无此字"
     }
   ],
   "sanguoyanyi": [
@@ -5413,6 +6174,7 @@
       "op": "withdraw-tail",
       "chapter": "chapter-sanguoyanyi-cd63b770e505f4cd",
       "paragraphs": [
+        "p-sanguoyanyi-cd63b770e505f4cd-0006",
         "p-sanguoyanyi-cd63b770e505f4cd-0007"
       ],
       "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
@@ -6510,6 +7272,7 @@
       "op": "withdraw-tail",
       "chapter": "chapter-sanguoyanyi-b9cc783d59484412",
       "paragraphs": [
+        "p-sanguoyanyi-b9cc783d59484412-0065",
         "p-sanguoyanyi-b9cc783d59484412-0066"
       ],
       "reason": "维基文库页脚残留：翻页导航“上一回 下一回”和书名行，不是正文"
@@ -6523,6 +7286,22 @@
         "p-xiyouji-305cc69b5e8d159d-0001"
       ],
       "reason": "维基文库模板生成的提示语（本页含扩展区汉字），不是正文"
+    }
+  ],
+  "shijing": [
+    {
+      "op": "title",
+      "chapter": "chapter-shijing-f98fa245ae85c7a5",
+      "title": "著",
+      "reason": "篇名《著》被机器转简时误作“着”；正文“俟我于著乎而”已于 2026-11-22 订正"
+    }
+  ],
+  "lunheng": [
+    {
+      "op": "title",
+      "chapter": "chapter-lunheng-8a713c46d2b088e9",
+      "title": "本性篇第十三",
+      "reason": "篇题“夲”是“本”的俗写，改通行字，便于按篇名检索"
     }
   ]
 }

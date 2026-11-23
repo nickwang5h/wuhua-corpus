@@ -2006,9 +2006,20 @@
         },
         {
           "id": "p-tianyanlun-b3f9d7fd86482e6d-0026",
-          "version": "sha256:b665aaf9a0fda812c1aaf94bf431e928663a12759dcccf040bb5eed3e7ce5ed3",
-          "text": "顾不佞之意，则不甚谓然。盖若必用言语，则支那之语，求诸占音，其与西语同者，正复不少。如西云mola，mill，吾则云磨。西云ear，arare，吾则云犁。西云father，mother，pama，吾云父、母、爸、妈。西云Khan，King，吾云君。西云Zeus，Dieu，吾云帝。西云terre，吾云地。甚至西云judge，jus，吾云则，云准。西云rex，ricas，吾云理，云律。诸如此类，触处而遇。果使语言可凭，安见东黄西白不出同源？且其分也，在教化甚高之会乎？虽然，种族之异，非邦国之分。邦国之分，别有关系，不在语言、形色。故美、英不为同国，而海峡中诸岛之民，其上语往往为英人所不省者，可以证之。",
-          "aliases": []
+          "version": "sha256:03fea4cd68ff9eb2dcfde0e864f37701b0ef05d13fe8348a9c990f617f5956ca",
+          "text": "顾不佞之意，则不甚谓然。盖若必用言语，则支那之语，求诸古音，其与西语同者，正复不少。如西云mola，mill，吾则云磨。西云ear，arare，吾则云犁。西云father，mother，pama，吾云父、母、爸、妈。西云Khan，King，吾云君。西云Zeus，Dieu，吾云帝。西云terre，吾云地。甚至西云judge，jus，吾云则，云准。西云rex，ricas，吾云理，云律。诸如此类，触处而遇。果使语言可凭，安见东黄西白不出同源？且其分也，在教化甚高之会乎？虽然，种族之异，非邦国之分。邦国之分，别有关系，不在语言、形色。故美、英不为同国，而海峡中诸岛之民，其上语往往为英人所不省者，可以证之。",
+          "aliases": [],
+          "sourceText": "顾不佞之意，则不甚谓然。盖若必用言语，则支那之语，求诸占音，其与西语同者，正复不少。如西云mola，mill，吾则云磨。西云ear，arare，吾则云犁。西云father，mother，pama，吾云父、母、爸、妈。西云Khan，King，吾云君。西云Zeus，Dieu，吾云帝。西云terre，吾云地。甚至西云judge，jus，吾云则，云准。西云rex，ricas，吾云理，云律。诸如此类，触处而遇。果使语言可凭，安见东黄西白不出同源？且其分也，在教化甚高之会乎？虽然，种族之异，非邦国之分。邦国之分，别有关系，不在语言、形色。故美、英不为同国，而海峡中诸岛之民，其上语往往为英人所不省者，可以证之。",
+          "correction": {
+            "reason": "“占音”作“古音”：说支那之语求诸古音，与西语同者不少，纯形近，只有“古”成义（对校本无此页）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:03fea4cd68ff9eb2dcfde0e864f37701b0ef05d13fe8348a9c990f617f5956ca"
+            }
+          }
         },
         {
           "id": "p-tianyanlun-b3f9d7fd86482e6d-0027",

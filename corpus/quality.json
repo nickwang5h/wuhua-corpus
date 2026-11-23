@@ -1,15 +1,15 @@
 {
  "total": {
-  "privateUse": 231,
-  "placeholder": 238,
+  "privateUse": 195,
+  "placeholder": 225,
   "composite": 91,
   "sourceTag": 423,
   "halfWidth": 11,
   "latin": 477,
   "kana": 2,
-  "innerSpace": 3641,
-  "unbalancedChapters": 571,
-  "unpunctuatedChapters": 58
+  "innerSpace": 3621,
+  "unbalancedChapters": 570,
+  "unpunctuatedChapters": 38
  },
  "books": [
   {
@@ -437,10 +437,10 @@
    "title": "漢書",
    "provider": "gujilab",
    "script": "简",
-   "characters": 728926,
+   "characters": 728930,
    "punctuationPer100": 19.8,
    "defects": {
-    "privateUse": 56,
+    "privateUse": 49,
     "placeholder": 0,
     "composite": 2,
     "sourceTag": 0,
@@ -538,7 +538,7 @@
    "provider": "daizhige",
    "script": "简",
    "characters": 35196,
-   "punctuationPer100": 0,
+   "punctuationPer100": 16.4,
    "defects": {
     "privateUse": 1,
     "placeholder": 0,
@@ -549,7 +549,7 @@
     "kana": 0,
     "innerSpace": 4,
     "unbalancedChapters": 0,
-    "unpunctuatedChapters": 11
+    "unpunctuatedChapters": 1
    }
   },
   {
@@ -557,7 +557,7 @@
    "title": "近思錄",
    "provider": "daizhige",
    "script": "简",
-   "characters": 98777,
+   "characters": 98776,
    "punctuationPer100": 7.4,
    "defects": {
     "privateUse": 0,
@@ -717,7 +717,7 @@
    "title": "欒城集",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 308052,
+   "characters": 307974,
    "punctuationPer100": 17.7,
    "defects": {
     "privateUse": 1,
@@ -977,7 +977,7 @@
    "title": "日知錄",
    "provider": "daizhige",
    "script": "简",
-   "characters": 395532,
+   "characters": 395531,
    "punctuationPer100": 17.6,
    "defects": {
     "privateUse": 19,
@@ -1017,7 +1017,7 @@
    "title": "三國演義",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 494105,
+   "characters": 494093,
    "punctuationPer100": 18.5,
    "defects": {
     "privateUse": 0,
@@ -1027,7 +1027,7 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 4,
+    "innerSpace": 2,
     "unbalancedChapters": 10,
     "unpunctuatedChapters": 0
    }
@@ -1097,11 +1097,11 @@
    "title": "史記",
    "provider": "gujilab",
    "script": "简",
-   "characters": 1061923,
+   "characters": 1061967,
    "punctuationPer100": 16.9,
    "defects": {
-    "privateUse": 36,
-    "placeholder": 32,
+    "privateUse": 7,
+    "placeholder": 19,
     "composite": 0,
     "sourceTag": 419,
     "halfWidth": 0,
@@ -1168,7 +1168,7 @@
     "latin": 0,
     "kana": 0,
     "innerSpace": 260,
-    "unbalancedChapters": 43,
+    "unbalancedChapters": 42,
     "unpunctuatedChapters": 0
    }
   },
@@ -1237,7 +1237,7 @@
    "title": "孫子兵法",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 8205,
+   "characters": 8198,
    "punctuationPer100": 22.1,
    "defects": {
     "privateUse": 0,
@@ -1397,7 +1397,7 @@
    "title": "老子道德經注",
    "provider": "daizhige",
    "script": "简",
-   "characters": 11986,
+   "characters": 11987,
    "punctuationPer100": 19.4,
    "defects": {
     "privateUse": 0,
@@ -1737,7 +1737,7 @@
    "title": "戰國策",
    "provider": "guopop",
    "script": "繁",
-   "characters": 130814,
+   "characters": 130515,
    "punctuationPer100": 18.8,
    "defects": {
     "privateUse": 0,
@@ -1757,8 +1757,8 @@
    "title": "正蒙",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 22427,
-   "punctuationPer100": 17.9,
+   "characters": 22285,
+   "punctuationPer100": 18,
    "defects": {
     "privateUse": 0,
     "placeholder": 0,
@@ -1767,7 +1767,7 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 17,
+    "innerSpace": 0,
     "unbalancedChapters": 0,
     "unpunctuatedChapters": 0
    }
@@ -1858,7 +1858,7 @@
    "provider": "zhwikisource",
    "script": "繁",
    "characters": 71585,
-   "punctuationPer100": 0,
+   "punctuationPer100": 21.1,
    "defects": {
     "privateUse": 0,
     "placeholder": 0,
@@ -1867,9 +1867,9 @@
     "halfWidth": 0,
     "latin": 0,
     "kana": 0,
-    "innerSpace": 7,
+    "innerSpace": 6,
     "unbalancedChapters": 0,
-    "unpunctuatedChapters": 11
+    "unpunctuatedChapters": 1
    }
   },
   {
@@ -1877,7 +1877,7 @@
    "title": "庄子",
    "provider": "zhwikisource-legacy",
    "script": "繁",
-   "characters": 65158,
+   "characters": 65159,
    "punctuationPer100": 19.5,
    "defects": {
     "privateUse": 0,

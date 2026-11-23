@@ -34,8 +34,9 @@ for(const id of ids){
  // A corrected paragraph leaves at its corrected version, so history keeps that text too.
  const where=new Map(current.chapters.flatMap(c=>c.paragraphs.map(p=>[p.id,c] as const)));
  for(const r of withdrawn.records){
-  const p=corrected.get(r.id)!;
-  if(p.sourceText!==undefined&&!history.records.some(x=>x.id===p.id&&x.version===p.version))history={...history,records:[...history.records,{id:p.id,version:p.version,text:p.text,title:where.get(p.id)!.title,source:where.get(p.id)!.source}]};
+  // Paragraphs withdrawn by an earlier run are already gone from the book and kept in history.
+  const p=corrected.get(r.id);
+  if(p&&p.sourceText!==undefined&&!history.records.some(x=>x.id===p.id&&x.version===p.version))history={...history,records:[...history.records,{id:p.id,version:p.version,text:p.text,title:where.get(p.id)!.title,source:where.get(p.id)!.source}]};
  }
  const result:TextBook={...book,chapters:book.chapters.map(c=>({...c,paragraphs:c.paragraphs.map(p=>corrected.get(p.id)??p)}))};
  history=retainWithdrawals(history,withdrawn);

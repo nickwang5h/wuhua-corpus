@@ -26,7 +26,7 @@
     "url": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%8F%B2/%E6%9D%82%E5%8F%B2%E7%B1%BB/%E6%88%98%E5%9B%BD%E7%AD%96.json",
     "attribution": "guopop"
   },
-  "normalizedSha256": "65135e85ac62f27c9810c9b6679304665b9167ad3849c7d668a6fd19d15ac922",
+  "normalizedSha256": "c506838114ac8f20c5b514fa9715619a962ceade566445b64e9e6cce225e9d1c",
   "stats": {
     "chapters": 13,
     "paragraphs": 7420,
@@ -59,6 +59,11 @@
         "source": "https://raw.githubusercontent.com/Guopop/chinese-philosophy/8619f79cb168d8c6ad852f2ac4bec877665f4fed/%E5%8F%B2/%E6%9D%82%E5%8F%B2%E7%B1%BB/%E6%88%98%E5%9B%BD%E7%AD%96.json",
         "kind": "chapter",
         "removed": [
+          {
+            "id": "p-zhanguoce-68b78e141e4eeaf6-0014",
+            "version": "sha256:2c11629102a454f069679fdd514c86adeb7048149bd3fe5fb35ecaa2494eaaad",
+            "aliases": []
+          },
           {
             "id": "p-zhanguoce-68b78e141e4eeaf6-0055",
             "version": "sha256:72d6f8989bf95d760bdba77d22d7456ef1a2bf70d941f1c951a99ce36c020fe4",
@@ -438,6 +443,21 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-d835192c1123231e-0192",
+            "version": "sha256:7cdb0435286e2c6f1e3c87752c4e87bf9665b3c8479ff27682410b76da7e5822",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-d835192c1123231e-0218",
+            "version": "sha256:9d1869103752298f52dd72b318610f8275f8b1d7347830ebf3e47558d6a25490",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-d835192c1123231e-0241",
+            "version": "sha256:63292acc59fc668e1e7749ad750095773d77b443a35eb43687dfd0832e8d577c",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-d835192c1123231e-0258",
             "version": "sha256:cd44dff0840669529a4c4dc1dd9d5438c5900b442caebcb4def8b6b8e72beb28",
             "aliases": []
@@ -744,13 +764,33 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0163",
+            "version": "sha256:c05da406fcd30024fdc1a6d2f014964d8a8fd3718ed2f1b148be71ed8ab5445f",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0166",
+            "version": "sha256:b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0168",
             "version": "sha256:a1ee0a79ecf3d196b2d5854bca185c30d6e19486d9c3b880f10230bb1eea8b9e",
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0195",
+            "version": "sha256:10959a5dddea9189397f2f437b3767af15d0fe3eb1ab66721ba47f790f201f62",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0224",
             "version": "sha256:3015311a47b650e5c03a3ec986ac5b7912c72eace7e6736472621c598818f8b4",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0275",
+            "version": "sha256:2c11629102a454f069679fdd514c86adeb7048149bd3fe5fb35ecaa2494eaaad",
             "aliases": []
           },
           {
@@ -774,6 +814,21 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0380",
+            "version": "sha256:b52c3b7bbef5b3a32dd57220172637b1559dd7ad71990c8d4e8883586b5d8f80",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0392",
+            "version": "sha256:e07019c693419d225aa4cfb8c04403c02566778061465b64a114bd8ba3874b02",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0415",
+            "version": "sha256:72d6f8989bf95d760bdba77d22d7456ef1a2bf70d941f1c951a99ce36c020fe4",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0458",
             "version": "sha256:17701893a9a39e348f5eee0fa4406a1fdb316488c2a588042f83fd4d2c262793",
             "aliases": []
@@ -781,6 +836,11 @@
           {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0492",
             "version": "sha256:2b30dbf162410d5e0bd1069dab0ca1406ecc5bc0f3855c48a3e23228d8fb2c39",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0509",
+            "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
             "aliases": []
           },
           {
@@ -811,6 +871,11 @@
           {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0616",
             "version": "sha256:5c1436e81f248c48b082a02ced7667e37f2f8ca01276a5887ea719662b85a6db",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0623",
+            "version": "sha256:1511f9208b163f04d6245f554d0f17eb1f4f74f7e22d8d02eb771fd7cc89ef77",
             "aliases": []
           },
           {
@@ -849,6 +914,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0759",
+            "version": "sha256:4bf1978027035be40d51e56f01f1f2ff1ea85de41b57d62ed28bbe2e2d076025",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0783",
             "version": "sha256:a1277303b3072d6767830370788102bc959acb751b32ac08552eefbd68d825c0",
             "aliases": []
@@ -874,8 +944,18 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0897",
+            "version": "sha256:fe87bd92e657febac3c79726e7771366374c2f28485995b41ed4cdac46fdcdbb",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-f8ab39b45aad5bec-0937",
             "version": "sha256:754a9d5828d502f19ae91df8f089811d9affe9e0a487b20528975700f7c90f75",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-0940",
+            "version": "sha256:b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
             "aliases": []
           },
           {
@@ -904,8 +984,23 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-1039",
+            "version": "sha256:9dcb18c2da063bae0f9b4e1df3e0066065dc558e54649f461dbeebc50e423f7a",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-1073",
+            "version": "sha256:16149205599252b81eaaa95f9d0361e8692b0e93a69a4efc04083d4e94c04e25",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-f8ab39b45aad5bec-1078",
             "version": "sha256:5e64dcde4e9a33b03ec5c7e7af0d97f1956bcdd687ee613ee4a9083e752cb52f",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-1080",
+            "version": "sha256:a2123d69506f51ff112bad06f9c997cb4fa8b854ecce191a5204861bbb1ee732",
             "aliases": []
           },
           {
@@ -926,6 +1021,11 @@
           {
             "id": "p-zhanguoce-f8ab39b45aad5bec-1115",
             "version": "sha256:285c3b85c2584e0552e0d4f6d5d0fc388080823dd4393c4efa39a415ba548b98",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-1140",
+            "version": "sha256:d12e48da7b6dfb2c764b39ae4c7ace47e224ca68b19b8617c60754482528f1b5",
             "aliases": []
           },
           {
@@ -971,6 +1071,11 @@
           {
             "id": "p-zhanguoce-f8ab39b45aad5bec-1452",
             "version": "sha256:77f34a38180f766e63639bfd9c68adf7032f44ccbc829de8249d23093d4bedad",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-f8ab39b45aad5bec-1482",
+            "version": "sha256:8b9cefa38e83e2fd5ebc60c18d1eb391b3866cdc19de7c17a72b031e81aaea76",
             "aliases": []
           }
         ],
@@ -2470,6 +2575,16 @@
         "kind": "chapter",
         "removed": [
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0029",
+            "version": "sha256:0ca502f6699c90aa0269f5149ec4c7dc575678f9719580a92f336829c07d6586",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0037",
+            "version": "sha256:d6f0ce72696e2a0916bf462acb28a0ed8b71dce614b890fa65955643b462e14a",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0137",
             "version": "sha256:8db18704e542ddbca696e3d294ef6327ade618fd3693c7497ab109b5c39b37d5",
             "aliases": []
@@ -2545,8 +2660,18 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0481",
+            "version": "sha256:d6f0ce72696e2a0916bf462acb28a0ed8b71dce614b890fa65955643b462e14a",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0486",
             "version": "sha256:5437992af336ae61fe8a14339d00d7c8194162f90088562d606e76c4c597acdf",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0505",
+            "version": "sha256:201af5fc3a9c4eb98a33126b68c415641066a2bf2c6aed9401e3b7d5ac360507",
             "aliases": []
           },
           {
@@ -2575,6 +2700,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0645",
+            "version": "sha256:e07019c693419d225aa4cfb8c04403c02566778061465b64a114bd8ba3874b02",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0659",
             "version": "sha256:1d9ed569515d4b88149999499f216c52df9dd0aa84cb6915ea165414e136225a",
             "aliases": []
@@ -2595,6 +2725,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0673",
+            "version": "sha256:935d53cddb95b7cd4aae451b9b08b342bc7b410a78825631315219acd1d84620",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0679",
             "version": "sha256:08e2725ce120c1d11d01d8f3a003d83f758850b10979198264d6287e0c4fd330",
             "aliases": []
@@ -2610,13 +2745,28 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0771",
+            "version": "sha256:08d28477e2210fef40af5cb70fe21b2e99fb577a0693ed996b6f6dd0c341dd73",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0784",
             "version": "sha256:ec703a8525c7ab1ee93cf61fc021528b1c758fcfda3bca781859ffe5bad91256",
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0802",
+            "version": "sha256:c63bdf26ff345df8cf6d3286555d145c1460337d6ac4799f91d4a68a23058b98",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0851",
             "version": "sha256:f20a86fa0844162b80a6ce0cbe5804c185fb3868ebfc0cbc0a6f14316f092eed",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0862",
+            "version": "sha256:afa4b4e26875fa673f732aec6342d0c7b5913da8ccfaaabf379b06ff9ba1c4d5",
             "aliases": []
           },
           {
@@ -2660,6 +2810,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-0979",
+            "version": "sha256:b18c159d3cd6571e25f3e5265a8b7018ac2f3c262af85641efa3700c812dbeac",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1a0f7035cebe87d7-0982",
             "version": "sha256:b3541887b1b744df25daab2d9ab867ee614ae18ca23cce0fb24c6e74e49ea5d6",
             "aliases": []
@@ -2672,6 +2827,11 @@
           {
             "id": "p-zhanguoce-1a0f7035cebe87d7-1017",
             "version": "sha256:2b30dbf162410d5e0bd1069dab0ca1406ecc5bc0f3855c48a3e23228d8fb2c39",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-1a0f7035cebe87d7-1019",
+            "version": "sha256:8b9cefa38e83e2fd5ebc60c18d1eb391b3866cdc19de7c17a72b031e81aaea76",
             "aliases": []
           }
         ],
@@ -3749,6 +3909,26 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-03e06ac5664495c8-0170",
+            "version": "sha256:1d82fcbc3c1ce4653d4789b96bf339d3641f141538ed59160a33243948cd1161",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-03e06ac5664495c8-0177",
+            "version": "sha256:bb1e2a980983d47956fce221cf5e334a6f7cb0ea00e5d30c31976408ccd49491",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-03e06ac5664495c8-0181",
+            "version": "sha256:7509514c59066f664ecac87223b816bfcf3def0e146363c9f92ec4223b74588d",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-03e06ac5664495c8-0185",
+            "version": "sha256:144d91e0c545dd2c05f3680cb3903eae545219cbf6bb133ddd4bf0d48e810ba7",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-03e06ac5664495c8-0197",
             "version": "sha256:5de9117b94aa647cb84b1d2d881eb8b3eb60d5bf4c3037d4b30eaf69f8291f33",
             "aliases": []
@@ -3764,6 +3944,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-03e06ac5664495c8-0239",
+            "version": "sha256:a7d2ca262fa59f167d37e7d504eac3dfd09ffef2dd55831233f730371c87877c",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-03e06ac5664495c8-0279",
             "version": "sha256:746b381d8f0115c5dd40e11682b03f28549566ed6b296c6ffb6fd1ddc39e2304",
             "aliases": []
@@ -3776,6 +3961,16 @@
           {
             "id": "p-zhanguoce-03e06ac5664495c8-0337",
             "version": "sha256:be7255b7e4f313df095b633b08039b56c8c6bdbead327a6bbe54912e69c0c3ee",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-03e06ac5664495c8-0398",
+            "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-03e06ac5664495c8-0400",
+            "version": "sha256:874836ca45022b0e696b4a78811a54133398dfc1bcb364848d0cf988e730984f",
             "aliases": []
           },
           {
@@ -4577,6 +4772,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0061",
+            "version": "sha256:ac63f6865782d9142ccacb2f92285b783c0e09f91bbeeaed205814725b9066ac",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0078",
             "version": "sha256:f3e2433ef9ca89dec3488c4426aa9fdd89e62bef46048cd3e498c94edba5b763",
             "aliases": []
@@ -4632,13 +4832,33 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0353",
+            "version": "sha256:c69bc770fb38470e98c10d1b922c72598fc85be628e57eec203995bbd5b4e466",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0369",
+            "version": "sha256:17701893a9a39e348f5eee0fa4406a1fdb316488c2a588042f83fd4d2c262793",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0382",
             "version": "sha256:08e2725ce120c1d11d01d8f3a003d83f758850b10979198264d6287e0c4fd330",
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0389",
+            "version": "sha256:4b16f6f51e9ea398db227fa4a26994a867af26b144e87cbbfedf90a68a15953d",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0394",
             "version": "sha256:ad3ace5c9e7f133e378f0a706d3a8089be00d82dbfc50fbebe78ef6b14f43968",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0397",
+            "version": "sha256:8f3e49186cc4b15e25289e54c39c3edf50cd1a5951cf276610364f8935e4be1d",
             "aliases": []
           },
           {
@@ -4752,6 +4972,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0698",
+            "version": "sha256:18b47baf4ea6117bc4266dc8ba2bc4ce777f1d8d1f62cdda0240a166f96bf6ac",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0724",
             "version": "sha256:753fd1912150caf30eb5b1f0c60a306750cc1f8a6f54ea6b8b72eea68184ed88",
             "aliases": []
@@ -4772,6 +4997,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0812",
+            "version": "sha256:8a9d8e5f2d4e4daa98c0d744b8555a3bd0bb707f4e062d6fda283adf150b0049",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0819",
             "version": "sha256:d57960395660a236f5e696f7168c34acfa2ce3b9f4cfb77efd4bfd3ec4149ec6",
             "aliases": []
@@ -4779,6 +5009,11 @@
           {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0827",
             "version": "sha256:4bcf9c9df8c017d2fec1000976a4382540f336e270d42055e94a9726ca0cf84c",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0830",
+            "version": "sha256:cd4a0eb694b37fa04c655e4fa8ee88d0f6f40781a04de77afaf95224b4d928b4",
             "aliases": []
           },
           {
@@ -4792,8 +5027,23 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0874",
+            "version": "sha256:ec46c055ab6b5fcc04ac09adf206a35ab7e19def828f11418eedbb1b6e43169a",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-0886",
             "version": "sha256:7e63b0be924cacca7f868b54f42b3b3c49af7756e5491cc5f18599d7d941c9c5",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0902",
+            "version": "sha256:b9f0c815459caa83d43d49643d76e70468a1306ad668d3a5e0759bedb5fb1f1d",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-0906",
+            "version": "sha256:22c95798a9323bb53fc1f77bb5ae47b8764a744836b0b31ead485937c02d119c",
             "aliases": []
           },
           {
@@ -4832,8 +5082,18 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-1050",
+            "version": "sha256:f93d7367ecb3121fd18de4d31dd946e7baf196f0721d2f6499a49a13a03692a5",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-eba5fc8ed88328a2-1072",
             "version": "sha256:5713f348dfc7a212da424fa2bd9358cfaf5a3c1d67ce36ffec450ee85455f94e",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-1080",
+            "version": "sha256:d15f0f186ab7a9fc1930a70d6b673fc69c7724544b4020089cd09a97cb92758b",
             "aliases": []
           },
           {
@@ -4854,6 +5114,11 @@
           {
             "id": "p-zhanguoce-eba5fc8ed88328a2-1119",
             "version": "sha256:7347e39e207d669b9e7462be88c18071f635f27dbf6a81eb466e0d5b6a87aa88",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-eba5fc8ed88328a2-1136",
+            "version": "sha256:2f8267a89ad55e6b6ccc4831c09edd812a53e8086c49c33d7eb1ae014dd1ea59",
             "aliases": []
           },
           {
@@ -6065,8 +6330,28 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-520bcc6353939ed5-0146",
+            "version": "sha256:8da1b88af37cfbb3e13ca75fc655dc65ea5a1d11819317a192140a9ad1da9d03",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0149",
+            "version": "sha256:f283c347e112f2870fec81398c195dd7193718950ff29d6e68998a4760f80bb6",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-520bcc6353939ed5-0165",
             "version": "sha256:b09c959bc624e795fabda2c949c9e52555b2d5fb7596880b807677da455049a6",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0197",
+            "version": "sha256:d351687cbcc3638d4a0ecf7b738032733b38f119d8f3e8a1b27723527654bda7",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0199",
+            "version": "sha256:08e2725ce120c1d11d01d8f3a003d83f758850b10979198264d6287e0c4fd330",
             "aliases": []
           },
           {
@@ -6077,6 +6362,16 @@
           {
             "id": "p-zhanguoce-520bcc6353939ed5-0227",
             "version": "sha256:170e1c5bbedd8871713c935e4c9ec6320b1e2cc3ab799ba66a7f5ad2a14e9a3b",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0242",
+            "version": "sha256:a6b71dae843e3e0aadbc071a6b8ef9bbe8f29615422b55d46fd323b41d1205db",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0259",
+            "version": "sha256:804fb1361127904e826f221121c8b727585fee75733d51a90acde55689abe4a3",
             "aliases": []
           },
           {
@@ -6095,8 +6390,23 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-520bcc6353939ed5-0359",
+            "version": "sha256:143a5be78419cdc4bc69e0fcecc31f68f7389e3ae907a1dd04ba240dcdc9a132",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0403",
+            "version": "sha256:d6daa66d63b80eb1ae7450fdfa633d8f23f8d324835dc8469401f7c1ca9728d9",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-520bcc6353939ed5-0405",
             "version": "sha256:6dab90c21821afbf9fb48d2d3233fecf871c38ef3b34b2cb68dc16a7ba62c595",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0424",
+            "version": "sha256:e07019c693419d225aa4cfb8c04403c02566778061465b64a114bd8ba3874b02",
             "aliases": []
           },
           {
@@ -6170,6 +6480,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-520bcc6353939ed5-0592",
+            "version": "sha256:27d58cfb7bb087aed091b6cfe40297371a713170a85901c94e70d1e46645202f",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-520bcc6353939ed5-0609",
             "version": "sha256:81168d8d6dba09a6b734c5d580d7b7bb3f0fd8740cf66fd0f7b692b783e7a950",
             "aliases": []
@@ -6190,8 +6505,18 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-520bcc6353939ed5-0722",
+            "version": "sha256:709a41ff38d2cb23142818e35601e8412abf0ff4b0853c940f94304ab5e71b31",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-520bcc6353939ed5-0725",
             "version": "sha256:22c95798a9323bb53fc1f77bb5ae47b8764a744836b0b31ead485937c02d119c",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0727",
+            "version": "sha256:260bd8046266d9bc9d5458d3c700097270bc632be774ab41bf8dce9cf0fd2f7e",
             "aliases": []
           },
           {
@@ -6205,6 +6530,16 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-520bcc6353939ed5-0783",
+            "version": "sha256:b9e2deead0643716ed78d400e5ea503f00725e68784b2f0de59c99b24ce6b180",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0792",
+            "version": "sha256:bb1e2a980983d47956fce221cf5e334a6f7cb0ea00e5d30c31976408ccd49491",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-520bcc6353939ed5-0797",
             "version": "sha256:27d58cfb7bb087aed091b6cfe40297371a713170a85901c94e70d1e46645202f",
             "aliases": []
@@ -6212,6 +6547,16 @@
           {
             "id": "p-zhanguoce-520bcc6353939ed5-0834",
             "version": "sha256:fcc4195924bb3f2976cbd93bb7ed01acdedf26cd73ff496a4188dbe9510a1ff3",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0851",
+            "version": "sha256:610400ce061ea7a15cfae0b5c97b2b63cdb3c2cf6b316d7ae39f49f8129cbfbf",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-520bcc6353939ed5-0903",
+            "version": "sha256:5f422332783a1f5963c33fb2acecc5fdb4a6cb3fe6dcc2afe9fae4e3a0ee476b",
             "aliases": []
           },
           {
@@ -7256,6 +7601,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-c48fb0c3e418eea0-0146",
+            "version": "sha256:782b9f43ee0db052aedf8b67a71237f461f3e9b8570dcfe61d5868cfb944beea",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-c48fb0c3e418eea0-0168",
             "version": "sha256:531285b0b549554a7091e66f03cd9281470a069623e3e38d2eb32eae581a7b8a",
             "aliases": []
@@ -7278,6 +7628,11 @@
           {
             "id": "p-zhanguoce-c48fb0c3e418eea0-0247",
             "version": "sha256:b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-c48fb0c3e418eea0-0249",
+            "version": "sha256:8da1b88af37cfbb3e13ca75fc655dc65ea5a1d11819317a192140a9ad1da9d03",
             "aliases": []
           },
           {
@@ -7308,6 +7663,11 @@
           {
             "id": "p-zhanguoce-c48fb0c3e418eea0-0277",
             "version": "sha256:71b1ed11149d6a5cd861858b90930b4b89cc10dcfbd5e1b75b0875a9a05670ea",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-c48fb0c3e418eea0-0297",
+            "version": "sha256:b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62",
             "aliases": []
           },
           {
@@ -7992,6 +8352,11 @@
         "kind": "chapter",
         "removed": [
           {
+            "id": "p-zhanguoce-1b887ad8c44a337a-0057",
+            "version": "sha256:bb1e2a980983d47956fce221cf5e334a6f7cb0ea00e5d30c31976408ccd49491",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1b887ad8c44a337a-0097",
             "version": "sha256:d57eea2e707d9abca43aa4992b32369e6676ae59007c1e6ba2bdb965b31be550",
             "aliases": []
@@ -8027,6 +8392,11 @@
             "aliases": []
           },
           {
+            "id": "p-zhanguoce-1b887ad8c44a337a-0285",
+            "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
+            "aliases": []
+          },
+          {
             "id": "p-zhanguoce-1b887ad8c44a337a-0311",
             "version": "sha256:08dd064d3bdf4832b3118b85fe235d90c1b088ab3d56acdff18a63913b76ffd8",
             "aliases": []
@@ -8054,6 +8424,11 @@
           {
             "id": "p-zhanguoce-1b887ad8c44a337a-0353",
             "version": "sha256:9626329d6ccf053d75ee3aeb4fb82828a4d3d8583a7554912a6ab89578321eb7",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-1b887ad8c44a337a-0356",
+            "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
             "aliases": []
           },
           {
@@ -8109,6 +8484,11 @@
           {
             "id": "p-zhanguoce-1b887ad8c44a337a-0578",
             "version": "sha256:170e1c5bbedd8871713c935e4c9ec6320b1e2cc3ab799ba66a7f5ad2a14e9a3b",
+            "aliases": []
+          },
+          {
+            "id": "p-zhanguoce-1b887ad8c44a337a-0599",
+            "version": "sha256:689af6a57f63da56808e857b548230a7a32c8289cf0ad30bf6738505313b3836",
             "aliases": []
           }
         ],

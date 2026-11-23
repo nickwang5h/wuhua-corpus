@@ -282,12 +282,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-68b78e141e4eeaf6-0014",
-          "version": "sha256:2c11629102a454f069679fdd514c86adeb7048149bd3fe5fb35ecaa2494eaaad",
-          "text": "亦",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-68b78e141e4eeaf6-0015",
           "version": "sha256:7ca38c1a860c2a9d4f65cbf31c1bdbbdef9cc78d1567582b0793ec96a10652eb",
           "text": "以容賊，君之使又不至，是以遣之也。",
@@ -2879,9 +2873,20 @@
         },
         {
           "id": "p-zhanguoce-d835192c1123231e-0150",
-          "version": "sha256:aa2222fe760387d54b779aac96d40d83bd7ae94708e721c9da9bd9e7b9002753",
-          "text": "重周以取秦也。",
-          "aliases": []
+          "version": "sha256:155e3e7039175f8646b5de7527eabccd95beb916f7d45778374d963d6525525e",
+          "text": "以取秦也。",
+          "aliases": [],
+          "sourceText": "重周以取秦也。",
+          "correction": {
+            "reason": "“重周”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷02“之處秦必重公是公重周〔下衍重周二字〕以取秦也齊重故有”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:155e3e7039175f8646b5de7527eabccd95beb916f7d45778374d963d6525525e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-d835192c1123231e-0151",
@@ -2909,9 +2914,20 @@
         },
         {
           "id": "p-zhanguoce-d835192c1123231e-0156",
-          "version": "sha256:a1ac23a6e538c2019993a1a63b39b91b1a11b3d84691330965bda1ece17fa7db",
-          "text": "當他亡西周",
-          "aliases": []
+          "version": "sha256:4afcd4b7b172f5fa0459d0ce578594e08a3bdd7e2ceb440bae057c71cb9dee4d",
+          "text": "他亡西周",
+          "aliases": [],
+          "sourceText": "當他亡西周",
+          "correction": {
+            "reason": "“當”两本都无：四库鲍本卷02“宮〔元作昌下同…〕他亡西周”，姚本“昌他亡西周”；人名是“宮他”，“當”是衍字，删去",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4afcd4b7b172f5fa0459d0ce578594e08a3bdd7e2ceb440bae057c71cb9dee4d"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-d835192c1123231e-0157",
@@ -3085,9 +3101,20 @@
         },
         {
           "id": "p-zhanguoce-d835192c1123231e-0182",
-          "version": "sha256:27caba5f6ef6a3f9345411e42f28a6e581ef19d626ad1319f9733cdc60bb9f35",
-          "text": "周最居魏以共之，",
-          "aliases": []
+          "version": "sha256:5a9602ebc5c08097ee0802f5386e4ab2afc6f4389e731de088402c856f0e5010",
+          "text": "最居魏以共之，",
+          "aliases": [],
+          "sourceText": "周最居魏以共之，",
+          "correction": {
+            "reason": "“周”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷02“齊事秦必無慮矣子因令〔下衍周字〕最居魏以共之是天”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5a9602ebc5c08097ee0802f5386e4ab2afc6f4389e731de088402c856f0e5010"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-d835192c1123231e-0183",
@@ -3141,12 +3168,6 @@
           "id": "p-zhanguoce-d835192c1123231e-0191",
           "version": "sha256:90ce0f66f09488f205e53736a105dfd310614e02421123f93d21abf06811efa1",
           "text": "有",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-d835192c1123231e-0192",
-          "version": "sha256:7cdb0435286e2c6f1e3c87752c4e87bf9665b3c8479ff27682410b76da7e5822",
-          "text": "周、",
           "aliases": []
         },
         {
@@ -3311,12 +3332,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-d835192c1123231e-0218",
-          "version": "sha256:9d1869103752298f52dd72b318610f8275f8b1d7347830ebf3e47558d6a25490",
-          "text": "士，",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-d835192c1123231e-0219",
           "version": "sha256:655b2eaeb4f17fb2b77562f16d492ba0920be8b4c945cbcba21024366637eb7a",
           "text": "工師籍相吕倉，國人不說也。君有閔閔之心，",
@@ -3468,12 +3483,6 @@
           "id": "p-zhanguoce-d835192c1123231e-0240",
           "version": "sha256:8da1b88af37cfbb3e13ca75fc655dc65ea5a1d11819317a192140a9ad1da9d03",
           "text": "齊",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-d835192c1123231e-0241",
-          "version": "sha256:63292acc59fc668e1e7749ad750095773d77b443a35eb43687dfd0832e8d577c",
-          "text": "韓",
           "aliases": []
         },
         {
@@ -4635,12 +4644,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0163",
-          "version": "sha256:c05da406fcd30024fdc1a6d2f014964d8a8fd3718ed2f1b148be71ed8ab5445f",
-          "text": "使，景",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0164",
           "version": "sha256:78c0d5fc92bc07e40ce0891a2796db2c1debb2ffd99df74d94ba6c92984ebb8e",
           "text": "所甚愛，王不如留之以市地。",
@@ -4650,12 +4653,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0165",
           "version": "sha256:03df9f06891932efb9d9f09e59745c18f46a8834110049358ba1942ac121749f",
           "text": "楚王聽，則不用兵而得地；楚不聽，則殺景鯉，更",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0166",
-          "version": "sha256:b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62",
-          "text": "不",
           "aliases": []
         },
         {
@@ -4818,12 +4815,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0194",
           "version": "sha256:1c9b0557d95f6d63c50474425675eebc2b9d3e97f07f506b5aa317dc3d5a8bf6",
           "text": "之善用兵，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0195",
-          "version": "sha256:10959a5dddea9189397f2f437b3767af15d0fe3eb1ab66721ba47f790f201f62",
-          "text": "用兵",
           "aliases": []
         },
         {
@@ -5336,12 +5327,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0274",
           "version": "sha256:fea57b62380f2c2434da94f3a1ad7c2ecc0539374e7e0457a3f07942a7e56da7",
           "text": "亦無大大王，敝邑之王所甚憎者",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0275",
-          "version": "sha256:2c11629102a454f069679fdd514c86adeb7048149bd3fe5fb35ecaa2494eaaad",
-          "text": "亦",
           "aliases": []
         },
         {
@@ -5978,12 +5963,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0380",
-          "version": "sha256:b52c3b7bbef5b3a32dd57220172637b1559dd7ad71990c8d4e8883586b5d8f80",
-          "text": "夫楚王之以其臣請挈領，然而臣有患也。",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0381",
           "version": "sha256:15a4e8aaf1050e52b4c72c9eb4a36a85270ddc5570ddd4b8b06fc02bdebd1253",
           "text": "夫楚王",
@@ -6047,12 +6026,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0391",
           "version": "sha256:430bf8bf1ca974d32cbd9b1e683e6f1cc4ece214c1e7581179de0ab6698d2ada",
           "text": "觀張儀與澤之所不能得於薛公者",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0392",
-          "version": "sha256:e07019c693419d225aa4cfb8c04403c02566778061465b64a114bd8ba3874b02",
-          "text": "也，",
           "aliases": []
         },
         {
@@ -6196,12 +6169,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0414",
           "version": "sha256:b6f44e0bb6778a4d170b4b93026c3911df3f54987ceb4913a198cf076885d19d",
           "text": "天下不以",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0415",
-          "version": "sha256:72d6f8989bf95d760bdba77d22d7456ef1a2bf70d941f1c951a99ce36c020fe4",
-          "text": "爲",
           "aliases": []
         },
         {
@@ -6784,12 +6751,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0509",
-          "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
-          "text": "王",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0510",
           "version": "sha256:fa93d3b45f535971bac81f17bf09ef213fa86c2e9afc1bacdb7210ffb8029dcf",
           "text": "四國之兵敵",
@@ -7302,9 +7263,20 @@
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0591",
-          "version": "sha256:7347b83bb23359f7b8e412ba81dcd450a4373235e95124a714a037782fccc2f1",
-          "text": "齊、秦交爭韓、魏，韓、",
-          "aliases": []
+          "version": "sha256:477be735dfa0103b7c06399fccc7e1b433aa4532f43edcb106edca299dbfe7f1",
+          "text": "秦交爭韓、魏，韓、",
+          "aliases": [],
+          "sourceText": "齊、秦交爭韓、魏，韓、",
+          "correction": {
+            "reason": "“齊、”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷03“於韓魏而齊之徳新加與〔衍齊字〕秦交爭韓魏韓魏東”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:477be735dfa0103b7c06399fccc7e1b433aa4532f43edcb106edca299dbfe7f1"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0592",
@@ -7495,12 +7467,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0622",
           "version": "sha256:eeac3c6716b6f8389490a37fd9c00b267f4aee9444f289f324d4f09d37cb8194",
           "text": "兵必有功。薛公曰：善。遂發重使之楚，楚之應之果勸。於是三國併力攻楚，楚果告急於秦，秦遂不敢出兵，大",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0623",
-          "version": "sha256:1511f9208b163f04d6245f554d0f17eb1f4f74f7e22d8d02eb771fd7cc89ef77",
-          "text": "臣",
           "aliases": []
         },
         {
@@ -8371,12 +8337,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0759",
-          "version": "sha256:4bf1978027035be40d51e56f01f1f2ff1ea85de41b57d62ed28bbe2e2d076025",
-          "text": "應，",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0760",
           "version": "sha256:e87b3816d77e032d0f16aa7b61d77f12a72eb57536b771aa77ddd4b90246a19c",
           "text": "悉起應王。",
@@ -9202,12 +9162,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0897",
-          "version": "sha256:fe87bd92e657febac3c79726e7771366374c2f28485995b41ed4cdac46fdcdbb",
-          "text": "魏、",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-0898",
           "version": "sha256:f893a09ca0f7869e507c6f80384380dd53f67e0c5e68216a3e2530045ee243cb",
           "text": "韓見必亡，焉得不聽？韓聽而霸事可成也。王曰：善。",
@@ -9473,12 +9427,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-0939",
           "version": "sha256:40b6bcda1a7077f7eae86631cc70fc5526b1acc7b09392ba67d5c48ffe87e290",
           "text": "然則令何得從王出？權何得毋分？是",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-0940",
-          "version": "sha256:b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
-          "text": "我",
           "aliases": []
         },
         {
@@ -9859,9 +9807,20 @@
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1003",
-          "version": "sha256:645ce77e6ed321741feee5c08dcdc19614e1148476909b37918d274a46fa25b4",
-          "text": "曰：公子，愛子也，",
-          "aliases": []
+          "version": "sha256:8ba8ec48d94e33e84a93f2a438877ab5a7037d2670748bef30a6b58d40161ba1",
+          "text": "曰：公子，愛子，",
+          "aliases": [],
+          "sourceText": "曰：公子，愛子也，",
+          "correction": {
+            "reason": "“也”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷03“不憂其相室曰公之愛子〔衍也字〕天下無有今子死而”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:8ba8ec48d94e33e84a93f2a438877ab5a7037d2670748bef30a6b58d40161ba1"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1004",
@@ -10012,9 +9971,20 @@
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1025",
-          "version": "sha256:8e31bc30cb8e93b7ece3f3cbab8229ec978ff62d027f7437dab70be7ec68eeaf",
-          "text": "五校大夫王陵將而伐趙。陵戰失利，亡五校。",
-          "aliases": []
+          "version": "sha256:aa9c91a835f10427146de835bd4a80b7ed2e978744331a9486c398c7e414dd78",
+          "text": "校大夫王陵將而伐趙。陵戰失利，亡五校。",
+          "aliases": [],
+          "sourceText": "五校大夫王陵將而伐趙。陵戰失利，亡五校。",
+          "correction": {
+            "reason": "“五”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷03“曰寡人既以興師矣乃使〔衍五字〕校大夫王陵將而伐”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:aa9c91a835f10427146de835bd4a80b7ed2e978744331a9486c398c7e414dd78"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1026",
@@ -10101,15 +10071,20 @@
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1038",
-          "version": "sha256:71a5624bba786582d6903f1896052bdfec3eda132c36ec6a6dd7fe600a1c090d",
-          "text": "發梁焚舟，以專民",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-1039",
-          "version": "sha256:9dcb18c2da063bae0f9b4e1df3e0066065dc558e54649f461dbeebc50e423f7a",
-          "text": "以，",
-          "aliases": []
+          "version": "sha256:959a0ac3fae90714b74f473bb7dec7b1fc80c0db7fbc957dd47bcb4fbbc0eae7",
+          "text": "發梁焚舟，以專民，",
+          "aliases": [],
+          "sourceText": "發梁焚舟，以專民",
+          "correction": {
+            "reason": "下一段“以，”（鲍注“下衍以字”）整段撤下，原在其后的逗号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:959a0ac3fae90714b74f473bb7dec7b1fc80c0db7fbc957dd47bcb4fbbc0eae7"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1040",
@@ -10343,12 +10318,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-1073",
-          "version": "sha256:16149205599252b81eaaa95f9d0361e8692b0e93a69a4efc04083d4e94c04e25",
-          "text": "楚、",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1074",
           "version": "sha256:0f1ac62c4b7feefe4d67bff18ffd050c1d047c587af21a8600145bfd308606fe",
           "text": "魏，",
@@ -10376,12 +10345,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-1079",
           "version": "sha256:5d3dec06003ccef5574644ea6562bc86c3890add924d6cb9c4270f50de928f18",
           "text": "惑，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-1080",
-          "version": "sha256:a2123d69506f51ff112bad06f9c997cb4fa8b854ecce191a5204861bbb1ee732",
-          "text": "或",
           "aliases": []
         },
         {
@@ -10734,12 +10697,6 @@
           "id": "p-zhanguoce-f8ab39b45aad5bec-1139",
           "version": "sha256:f6273827916c7c93527e54141a1598d82b4b6f47ef9aa3702a4b5fe22c055403",
           "text": "識從之，一成惡存也。於是秦王觧，兵不出於境。諸侯休，天下安，二十九年不相攻。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-1140",
-          "version": "sha256:d12e48da7b6dfb2c764b39ae4c7ace47e224ca68b19b8617c60754482528f1b5",
-          "text": "儀",
           "aliases": []
         },
         {
@@ -12179,9 +12136,20 @@
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1365",
-          "version": "sha256:d5fcb828ffe362320d00c7ec2af19f553dabc144f6ed97f103b19c5b53fc53eb",
-          "text": "其寧於太山，四維。",
-          "aliases": []
+          "version": "sha256:0ad478eb144f770b202da4212321eed59f8b865bf465e16562eef3e352ee623b",
+          "text": "寧於太山，四維。",
+          "aliases": [],
+          "sourceText": "其寧於太山，四維。",
+          "correction": {
+            "reason": "“其”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷03“一切而使君富貴千萬嵗〔衍其字〕寜於太山四維必無”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:0ad478eb144f770b202da4212321eed59f8b865bf465e16562eef3e352ee623b"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1366",
@@ -12449,9 +12417,20 @@
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1411",
-          "version": "sha256:05868b2c641264baf6fa3426a49725e282c4356d940e46afb56f7a11f8eea6d9",
-          "text": "於燕、趙，而殺李牧。",
-          "aliases": []
+          "version": "sha256:93427b536cc962eecc1cd3c3f976dabb66d45043d15a735e100fe7285417bef9",
+          "text": "燕、趙，而殺李牧。",
+          "aliases": [],
+          "sourceText": "於燕、趙，而殺李牧。",
+          "correction": {
+            "reason": "“於”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷03“東逰韓魏入其將相北逰〔衍於字〕燕趙而殺李牧齊入”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:93427b536cc962eecc1cd3c3f976dabb66d45043d15a735e100fe7285417bef9"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1412",
@@ -12900,12 +12879,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-f8ab39b45aad5bec-1482",
-          "version": "sha256:8b9cefa38e83e2fd5ebc60c18d1eb391b3866cdc19de7c17a72b031e81aaea76",
-          "text": "可",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-f8ab39b45aad5bec-1483",
           "version": "sha256:d85f4951adbeeec41b057349e5a62f5aece354618b066284f2c362f4c2c4aaa8",
           "text": "復使姚賈而誅韓非。",
@@ -13101,12 +13074,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0029",
-          "version": "sha256:0ca502f6699c90aa0269f5149ec4c7dc575678f9719580a92f336829c07d6586",
-          "text": "之",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0030",
           "version": "sha256:8bbf8182ebca96198b322c002e7a6e2b090c217ccf04e0abb4bf0787b63b60ed",
           "text": "間，候者復言章子以齊兵降秦，威王不應。而此者三。",
@@ -13157,12 +13124,6 @@
           "id": "p-zhanguoce-1a0f7035cebe87d7-0036",
           "version": "sha256:126abb9dbb70b8749dfc3dce0c2ce2c47088857b084938bcdc2d7735e09816f5",
           "text": "吾使",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0037",
-          "version": "sha256:d6f0ce72696e2a0916bf462acb28a0ed8b71dce614b890fa65955643b462e14a",
-          "text": "者，",
           "aliases": []
         },
         {
@@ -14233,9 +14194,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0221",
-          "version": "sha256:ddbcb96f1592c9a50b919e925c9ce2793d6b3635181da2a837d9f117a18398cc",
-          "text": "人明學，",
-          "aliases": []
+          "version": "sha256:32decc6afff141a506d63b0ce5a02339850562ed7b1c4f7d344aef1c5beefb74",
+          "text": "明學，",
+          "aliases": [],
+          "sourceText": "人明學，",
+          "correction": {
+            "reason": "“人”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“上見其原下通其流至聖〔衍人字〕明學何不吉之有哉”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:32decc6afff141a506d63b0ce5a02339850562ed7b1c4f7d344aef1c5beefb74"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0222",
@@ -14333,9 +14305,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0234",
-          "version": "sha256:1268115f56473b97c45996627e447182c62f11fbd5e75feaabe4dc43d3b80b18",
-          "text": "而辭去。君子",
-          "aliases": []
+          "version": "sha256:0cc094dfcf39e0013f27f9756eea407136c6efd9c53915c00fa224b3d4eba313",
+          "text": "辭去。君子",
+          "aliases": [],
+          "sourceText": "而辭去。君子",
+          "correction": {
+            "reason": "“而”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“安行反臣之邑屋則再拜〔衍而字〕辭去君子曰斶知足”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:0cc094dfcf39e0013f27f9756eea407136c6efd9c53915c00fa224b3d4eba313"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0235",
@@ -14624,9 +14607,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0279",
-          "version": "sha256:7c718129fdea084155b29141e3266e9c28d37e9862b317c1bf40e1d57a76994c",
-          "text": "使，見昭陽，𠕅拜賀戰勝，起而問：楚之法，覆軍殺将，其官爵何也？昭陽曰：官為上柱國，爵為上執珪。陳軫曰：異貴於此者何也？",
-          "aliases": []
+          "version": "sha256:5345f26f086192fb560e2b239233806dae06c2f118898786e8cfe22a30ccc0c4",
+          "text": "見昭陽，𠕅拜賀戰勝，起而問：楚之法，覆軍殺将，其官爵何也？昭陽曰：官為上柱國，爵為上執珪。陳軫曰：異貴於此者何也？",
+          "aliases": [],
+          "sourceText": "使，見昭陽，𠕅拜賀戰勝，起而問：楚之法，覆軍殺将，其官爵何也？昭陽曰：官為上柱國，爵為上執珪。陳軫曰：異貴於此者何也？",
+          "correction": {
+            "reason": "“使，”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“移兵而攻齊陳軫為齊王〔衍使字史言軫為秦使齊齊王問之為齊見陽〕見昭陽再拜賀戰勝”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5345f26f086192fb560e2b239233806dae06c2f118898786e8cfe22a30ccc0c4"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0280",
@@ -14898,18 +14892,18 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0322",
-          "version": "sha256:37eb4cf04c588da84a1c51f5f9f7285631b8f524a543c373b3dd239b1c3c5266",
-          "text": "靖郭君之交大不善於閔王，辭而之薛，與齊貌辯俱留。無幾何，齊貌辯辭而行，請見閔王。靖郭君曰：王之不說嬰甚，公徃必得死焉。齊貌辯曰：固不求生也，請必行。靖郭君不能止。齊貌辯行至齊，閔王聞之，藏怒以待之。齊貌辯見閔王曰：子。",
+          "version": "sha256:20407b7e24eef7db76610100a0fbce342bb964b61faaca7943d8f345cfcb6380",
+          "text": "靖郭君之交大不善於閔王，辭而之薛，與齊貌辯俱留。無幾何，齊貌辯辭而行，請見閔王。靖郭君曰：王之不說嬰甚，公徃必得死焉。齊貌辯曰：固不求生也，請必行。靖郭君不能止。齊貌辯行至齊，閔王聞之，藏怒以待之。齊貌辯見閔王曰：子，",
           "aliases": [],
           "sourceText": "靖郭君之交大不善於閔宣王，辭而之薛，與齊貌辯俱留。無幾何，齊貌辯辭而行，請見閔宣王。靖郭君曰：王之不說嬰甚，公徃必得死焉。齊貌辯曰：固不求生也，請必行。靖郭君不能止。齊貌辯行至齊，閔宣王聞之，藏怒以待之。齊貌辯見閔宣王曰：子。",
           "correction": {
-            "reason": "“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“交大不善於閔王辭而之”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“辭而行請見閔王靖郭君”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“貎辨行至齊閔王聞之藏”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“之齊貎辨見閔王曰子靖”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”",
+            "reason": "“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“交大不善於閔王辭而之”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“辭而行請見閔王靖郭君”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“貎辨行至齊閔王聞之藏”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；“宣”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷04此处作“之齊貎辨見閔王曰子靖”，无注；承同卷前文“宣王薨閔〔元作宣下同〕王立”；上一轮撤去混入的“子曰：”后留下的句号断开了“子靖郭君之所聽愛夫”：四库鲍本卷04“見閔王曰子〔元作子曰〕靖郭君之所聴愛夫”，姚本“王曰：子，靖郭君之所聽愛夫”；句号改逗号",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
               "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
               "reviewedAt": "2026-11-23",
-              "textVersion": "sha256:37eb4cf04c588da84a1c51f5f9f7285631b8f524a543c373b3dd239b1c3c5266"
+              "textVersion": "sha256:20407b7e24eef7db76610100a0fbce342bb964b61faaca7943d8f345cfcb6380"
             }
           }
         },
@@ -15295,9 +15289,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0380",
-          "version": "sha256:03952d87386402146f9a65604fce33f1a8071afbd3114e587a4369f5f9f330f0",
-          "text": "張儀，儀之所在，必舉兵伐之，故儀願乞不肖身而之梁、齊必舉兵伐之。齊、梁之兵連於城下，",
-          "aliases": []
+          "version": "sha256:d39285377e39a92496e138935b37d7482c6703e107dd6d64955a5ce3b81379bb",
+          "text": "儀，儀之所在，必舉兵伐之，故儀願乞不肖身而之梁、齊必舉兵伐之。齊、梁之兵連於城下，",
+          "aliases": [],
+          "sourceText": "張儀，儀之所在，必舉兵伐之，故儀願乞不肖身而之梁、齊必舉兵伐之。齊、梁之兵連於城下，",
+          "correction": {
+            "reason": "“張”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“可以多割地今齊王甚憎〔衍張字〕儀儀之所在必舉兵”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d39285377e39a92496e138935b37d7482c6703e107dd6d64955a5ce3b81379bb"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0381",
@@ -15849,9 +15854,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0444",
-          "version": "sha256:7d622e3aee7d04977e87482c719380f416c70a18750552c121064a3178a211a5",
-          "text": "與挑梗",
-          "aliases": []
+          "version": "sha256:ab41bd7907102fe27fa8a44d4b848d9ab9082e4b307e4ec0d31493782f05f37a",
+          "text": "與桃梗",
+          "aliases": [],
+          "sourceText": "與挑梗",
+          "correction": {
+            "reason": "“挑”是“桃”的形误：四库鲍本卷04“有土偶人〔…〕與桃梗〔…〕相與語”，姚本“與桃梗”，下一段本书也作“桃梗謂土偶人曰”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:ab41bd7907102fe27fa8a44d4b848d9ab9082e4b307e4ec0d31493782f05f37a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0445",
@@ -16059,15 +16075,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0480",
-          "version": "sha256:630a253712f30a2f69173d1e5a23724a897df69fd2b7d4701aae8ef97024c317",
-          "text": "請掩足下之短",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0481",
-          "version": "sha256:d6f0ce72696e2a0916bf462acb28a0ed8b71dce614b890fa65955643b462e14a",
-          "text": "者，",
-          "aliases": []
+          "version": "sha256:9615d71f7d57621af049ea5c96100d51808e842c5f337b89f568d943a0a0af96",
+          "text": "請掩足下之短，",
+          "aliases": [],
+          "sourceText": "請掩足下之短",
+          "correction": {
+            "reason": "下一段“者，”（鲍注“衍者字”）整段撤下，原在其后的逗号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:9615d71f7d57621af049ea5c96100d51808e842c5f337b89f568d943a0a0af96"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0482",
@@ -16208,15 +16229,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0504",
-          "version": "sha256:81631f4a643d51acde7aab60e39f596f1b3feb6f77b2768b79c1496128580899",
-          "text": "據水，則不若魚鼈",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0505",
-          "version": "sha256:201af5fc3a9c4eb98a33126b68c415641066a2bf2c6aed9401e3b7d5ac360507",
-          "text": "處",
-          "aliases": []
+          "version": "sha256:f5a1bd098b09fde260cfea207d90409243d1afb5378f1a0251015e639216b1ad",
+          "text": "據水，則不若魚鼈，",
+          "aliases": [],
+          "sourceText": "據水，則不若魚鼈",
+          "correction": {
+            "reason": "下一段“處”（鲍注“下衍處字”）撤下后“魚鼈”与“歷險乗危”连读，补逗号分开两句（四库鲍本“則不若魚鼈〔據猶處下衍處字〕歴險乗危”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f5a1bd098b09fde260cfea207d90409243d1afb5378f1a0251015e639216b1ad"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0506",
@@ -16226,9 +16252,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0507",
-          "version": "sha256:bd68403d646c6a8190602bbe6f07cf1502e94aced67e28d2a010766ac8d66a44",
-          "text": "之𡚒，三尺之劒，一軍不能當。",
-          "aliases": []
+          "version": "sha256:5fae4e9991ecb8871a911e838ae69e5876d7e3ded4e71fe0afbe44830fe40d4a",
+          "text": "𡚒三尺之劒，一軍不能當。",
+          "aliases": [],
+          "sourceText": "之𡚒，三尺之劒，一軍不能當。",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“危則騏驥不如狐狸曹沬〔衍之字〕奮三尺之劒一軍不”；删去衍“之”后鲍本读“曹沬奮三尺之劒”（四库鲍本卷04），去掉“𡚒”后的逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5fae4e9991ecb8871a911e838ae69e5876d7e3ded4e71fe0afbe44830fe40d4a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0508",
@@ -16781,9 +16818,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0596",
-          "version": "sha256:ae6189c195cc26fd65b939687479e8f4f42d942287d73555eedaab95a456d8a0",
-          "text": "其於以收天下，此大資也。",
-          "aliases": []
+          "version": "sha256:cc9300b7bf2d7115c6d9541632a78eb6d1aba6808764965f7fddbfa31f8b9e79",
+          "text": "於以收天下，此大資也。",
+          "aliases": [],
+          "sourceText": "其於以收天下，此大資也。",
+          "correction": {
+            "reason": "“其”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“之而天下不聽王因勿稱〔衍具字〕於以收天下此大資”；四库注字“具”是“其”之误，姚本录鲍注作“鮑本衍「其」字”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:cc9300b7bf2d7115c6d9541632a78eb6d1aba6808764965f7fddbfa31f8b9e79"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0597",
@@ -17084,15 +17132,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0644",
-          "version": "sha256:966961a188fc1a8c3157bec06aa24283dd4c268db6bdc62fe3b78c5cec5aafb7",
-          "text": "兵弱而憎下人",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0645",
-          "version": "sha256:e07019c693419d225aa4cfb8c04403c02566778061465b64a114bd8ba3874b02",
-          "text": "也，",
-          "aliases": []
+          "version": "sha256:b3d31bdaf8dbbd3ed3e2667b164c7b6701dbf799110b1beca37c6958f85f1970",
+          "text": "兵弱而憎下人，",
+          "aliases": [],
+          "sourceText": "兵弱而憎下人",
+          "correction": {
+            "reason": "下一段“也，”（鲍注“衍也字”）整段撤下，原在其后的逗号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:b3d31bdaf8dbbd3ed3e2667b164c7b6701dbf799110b1beca37c6958f85f1970"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0646",
@@ -17120,9 +17173,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0650",
-          "version": "sha256:03a031f2bd4fb7f83f0f8dceb9c64a03616be90343bfa6f2be3f809c20da1a52",
-          "text": "秦、楚也，",
-          "aliases": []
+          "version": "sha256:584947b6f797a847d6f6270671412db7243e3b3406f26f79977748d22f62f5bc",
+          "text": "楚也，",
+          "aliases": [],
+          "sourceText": "秦、楚也，",
+          "correction": {
+            "reason": "“秦、”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“成也昔者齊之與韓魏伐〔衍秦字〕楚也戰非甚疾也分”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:584947b6f797a847d6f6270671412db7243e3b3406f26f79977748d22f62f5bc"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0651",
@@ -17244,12 +17308,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0673",
-          "version": "sha256:935d53cddb95b7cd4aae451b9b08b342bc7b410a78825631315219acd1d84620",
-          "text": "強",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0674",
           "version": "sha256:5082da2a363714924af2024b220f12547b41d18ceb82bb14994dd06d44960d47",
           "text": "襲郢而棲越，身從諸侯之君，",
@@ -17347,9 +17405,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0691",
-          "version": "sha256:b5bd08a8236461dffa6f86d445ec1176a471b07310ab5c3afc528856c1f97c6c",
-          "text": "何則？形同憂而兵趨利也。由此觀之，約於同形則利長，後起則諸侯可趨役也。",
-          "aliases": []
+          "version": "sha256:38659f4fe465290a59dc2435df95469ed0550744714d6ac3b29ca866a068743d",
+          "text": "則形同憂而兵趨利也。由此觀之，約於同形則利長，後起則諸侯可趨役也。",
+          "aliases": [],
+          "sourceText": "何則？形同憂而兵趨利也。由此觀之，約於同形則利長，後起則諸侯可趨役也。",
+          "correction": {
+            "reason": "“何”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“也然而甚於相趨者何也〔衍何字〕則形同憂而兵趨利”；“何則？”的问号随删，鲍本读“何也？則形同憂而兵趨利也”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:38659f4fe465290a59dc2435df95469ed0550744714d6ac3b29ca866a068743d"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0692",
@@ -17365,9 +17434,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0694",
-          "version": "sha256:829609eb4c12210161e3b01d3e3a71f6e0243072e6574ddda43c18c0786c4f04",
-          "text": "也，爲志則戰，攻非所先。戰者，國之殘也，",
-          "aliases": []
+          "version": "sha256:787089d3a6c71d06a96ec3e75c64eda08a987d95760b84382566cc4f8352c711",
+          "text": "爲志則戰，攻非所先。戰者，國之殘也，",
+          "aliases": [],
+          "sourceText": "也，爲志則戰，攻非所先。戰者，國之殘也，",
+          "correction": {
+            "reason": "“也，”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷04“故明主察相誠欲以霸王〔衍也字〕為志則戰攻非所先”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:787089d3a6c71d06a96ec3e75c64eda08a987d95760b84382566cc4f8352c711"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0695",
@@ -17490,9 +17570,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0713",
-          "version": "sha256:8b44fb5c51552c409065af02264f2921e42a192d10bb0b8308e40a80701dff75",
-          "text": "舉衝檐，",
-          "aliases": []
+          "version": "sha256:bc1814936bc720022db8ab58e655f0a81bb39811cce7732819324d07c5bf628c",
+          "text": "舉衝櫓，",
+          "aliases": [],
+          "sourceText": "舉衝檐，",
+          "correction": {
+            "reason": "“檐”是“櫓”的形误：四库鲍本卷04“百姓理襜蔽〔…〕舉衝櫓〔衝陷陣車…〕”，姚本“舉衝櫓，【…補曰：城上露屋為櫓…】”，同卷下文也作“衝櫓不施”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:bc1814936bc720022db8ab58e655f0a81bb39811cce7732819324d07c5bf628c"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0714",
@@ -17847,12 +17938,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0771",
-          "version": "sha256:08d28477e2210fef40af5cb70fe21b2e99fb577a0693ed996b6f6dd0c341dd73",
-          "text": "曰：",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0772",
           "version": "sha256:528792e832edb5a7e42f9149fd4cb35d3686ee32ad463170da4dd0bb9d86c400",
           "text": "衛鞅之始與秦王計也，謀約不下席言於尊爼之間，謀成於堂上，而魏將已禽於齊矣。衝櫓未施，而西河之外已",
@@ -18035,12 +18120,6 @@
           "id": "p-zhanguoce-1a0f7035cebe87d7-0801",
           "version": "sha256:c3c5e335fbb9ff3805a09791d7de06546e12353851ec0b60c904e97aea6939e1",
           "text": "王孫賈乃入市中曰：淖齒亂齊國，殺",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0802",
-          "version": "sha256:c63bdf26ff345df8cf6d3286555d145c1460337d6ac4799f91d4a68a23058b98",
-          "text": "閔",
           "aliases": []
         },
         {
@@ -18433,12 +18512,6 @@
           "id": "p-zhanguoce-1a0f7035cebe87d7-0861",
           "version": "sha256:4ba67b4170adbb4d74f8ca8ad5b24f0abb3024f1c98a8e215ce5e740cca93df7",
           "text": "乃使人聽於閭里，聞丈夫之相",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0862",
-          "version": "sha256:afa4b4e26875fa673f732aec6342d0c7b5913da8ccfaaabf379b06ff9ba1c4d5",
-          "text": "舉",
           "aliases": []
         },
         {
@@ -19156,12 +19229,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-0979",
-          "version": "sha256:b18c159d3cd6571e25f3e5265a8b7018ac2f3c262af85641efa3700c812dbeac",
-          "text": "欲",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-1a0f7035cebe87d7-0980",
           "version": "sha256:39b48f32a9f815f01112cceb0787c4c72cd2f821941c2b43500d746d042a31f7",
           "text": "與秦壤界。",
@@ -19384,15 +19451,20 @@
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-1018",
-          "version": "sha256:3c0533b5241b05ce1828d26f0a31763c2d27166621bd799dc1899d656008c36e",
-          "text": "雍門司馬諌而聽之，則以爲可，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1a0f7035cebe87d7-1019",
-          "version": "sha256:8b9cefa38e83e2fd5ebc60c18d1eb391b3866cdc19de7c17a72b031e81aaea76",
-          "text": "可",
-          "aliases": []
+          "version": "sha256:3331d86213027bcb4d759f6266e091cf24adf6887269cc262345745762d6d666",
+          "text": "雍門司馬諌而聽之，則以爲可",
+          "aliases": [],
+          "sourceText": "雍門司馬諌而聽之，則以爲可，",
+          "correction": {
+            "reason": "下一段“可”（鲍注“衍可字”）撤下，鲍本读“則以為可為謀”，去掉隔开“可”“爲謀”的逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:3331d86213027bcb4d759f6266e091cf24adf6887269cc262345745762d6d666"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1a0f7035cebe87d7-1020",
@@ -20004,9 +20076,20 @@
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0077",
-          "version": "sha256:c9346b7cb709d694a0cc92d86b41a72ddb8187944c87e7f2ee7a99df0015dd85",
-          "text": "客曰：非用故也。曰：請。請",
-          "aliases": []
+          "version": "sha256:0b5302118dea4d7e451814b7a88a96dea7113f2340a31e0b61a2e13309a27baa",
+          "text": "客曰：非用故也。曰：請",
+          "aliases": [],
+          "sourceText": "客曰：非用故也。曰：請。請",
+          "correction": {
+            "reason": "多出的“請。”：四库鲍本卷05“客曰非用故也曰請而不得有說色”只一“請”，姚本也只一字（作“謂”，录“鮑本謂作請”）；删去重出的“請”和隔断“請而不得”的句号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:0b5302118dea4d7e451814b7a88a96dea7113f2340a31e0b61a2e13309a27baa"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0078",
@@ -20631,12 +20714,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-03e06ac5664495c8-0170",
-          "version": "sha256:1d82fcbc3c1ce4653d4789b96bf339d3641f141538ed59160a33243948cd1161",
-          "text": "韓公仲相",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-03e06ac5664495c8-0171",
           "version": "sha256:48a7e72651681c65468564b7eff88ab8abdc778407770db68e22b687fe90037b",
           "text": "齊楚之交善秦與魏遇。且以善齊而絶齊乎楚。楚",
@@ -20679,15 +20756,20 @@
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0176",
-          "version": "sha256:2ddf6fc658e7a1f06654bb05622f03c51cd1563dacfd31e16d4e4a7b61655e97",
-          "text": "齊又畏楚之有隂於秦、魏也，必重楚。故鯉之與於遇，王之大資也。今鯉不與於遇，魏之絶齊於楚信明矣。齊、",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-03e06ac5664495c8-0177",
-          "version": "sha256:bb1e2a980983d47956fce221cf5e334a6f7cb0ea00e5d30c31976408ccd49491",
-          "text": "楚",
-          "aliases": []
+          "version": "sha256:50d133d27ad76259098bf93c48f2c1c111d64ba32b012f97ecf1f8ad680556c7",
+          "text": "齊又畏楚之有隂於秦、魏也，必重楚。故鯉之與於遇，王之大資也。今鯉不與於遇，魏之絶齊於楚信明矣。齊",
+          "aliases": [],
+          "sourceText": "齊又畏楚之有隂於秦、魏也，必重楚。故鯉之與於遇，王之大資也。今鯉不與於遇，魏之絶齊於楚信明矣。齊、",
+          "correction": {
+            "reason": "下一段“楚”（鲍注“衍楚字”）撤下，鲍本“齊信之必輕王”，去掉“齊”后的顿号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:50d133d27ad76259098bf93c48f2c1c111d64ba32b012f97ecf1f8ad680556c7"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0178",
@@ -20705,12 +20787,6 @@
           "id": "p-zhanguoce-03e06ac5664495c8-0180",
           "version": "sha256:4f5f96d6744649bd26b991436feed1498e63c0d6cdb15bf2f00c875a311ac0b2",
           "text": "王曰：諾。因不罪而益其列。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-03e06ac5664495c8-0181",
-          "version": "sha256:7509514c59066f664ecac87223b816bfcf3def0e146363c9f92ec4223b74588d",
-          "text": "王曰：郷也子曰天下無道，今也子曰乃且攻燕者，何也？對曰：今謂馬多力則有矣。若曰勝千鈞則不然者，何也？夫千鈞非馬之任也。今謂楚強大則有矣，若越趙、魏而闘兵於燕，則豈楚之任也哉。且非楚之任而楚為之，是敝楚也。強楚敝楚，其於王孰便也。",
           "aliases": []
         },
         {
@@ -20732,16 +20808,21 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-03e06ac5664495c8-0185",
-          "version": "sha256:144d91e0c545dd2c05f3680cb3903eae545219cbf6bb133ddd4bf0d48e810ba7",
-          "text": "齊。",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-03e06ac5664495c8-0186",
-          "version": "sha256:8a8df676c46b7f354503dd413f3cf13aa4a08278897a32602fb6c285f7f44d2a",
-          "text": "秦",
-          "aliases": []
+          "version": "sha256:c17f42d4b8ab89fa2eadfb0b7f3c597ee65212558908eff2dfe8366825aec47a",
+          "text": "秦。",
+          "aliases": [],
+          "sourceText": "秦",
+          "correction": {
+            "reason": "上一段“齊。”（鲍注“衍齊字”）整段撤下，句号移到“伐秦”之后（四库鲍本“五國約以伐〔衍齊字〕秦”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c17f42d4b8ab89fa2eadfb0b7f3c597ee65212558908eff2dfe8366825aec47a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0187",
@@ -20799,9 +20880,20 @@
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0196",
-          "version": "sha256:253cd85f3a64387ea4e5060f8bb1489a6f8df6060cf9be37ddab13b5673fbb96",
-          "text": "也，以圖",
-          "aliases": []
+          "version": "sha256:1576849db5ab16d19e88f95e58cb8e1acf9deb05155342d8a5c825682d179f0c",
+          "text": "以圖",
+          "aliases": [],
+          "sourceText": "也，以圖",
+          "correction": {
+            "reason": "“也，”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷05“効列城五請悉楚國之衆〔衍也字〕以圖於齊齊人反趙”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:1576849db5ab16d19e88f95e58cb8e1acf9deb05155342d8a5c825682d179f0c"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0198",
@@ -20948,9 +21040,20 @@
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0222",
-          "version": "sha256:4495a218f1d25f8c6540e945291bd6fb43d32ec2f5912bc044bc727a6eac8604",
-          "text": "晉、楚，則燕、趙不敢不聽，是齊孤矣。向請爲公說秦王。",
-          "aliases": []
+          "version": "sha256:f96e69543c961cc7e08ad5d812bfdee108b3ec66cf8e325659dba8aa20cad722",
+          "text": "楚，則燕、趙不敢不聽，是齊孤矣。向請爲公說秦王。",
+          "aliases": [],
+          "sourceText": "晉、楚，則燕、趙不敢不聽，是齊孤矣。向請爲公說秦王。",
+          "correction": {
+            "reason": "“晉、”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷05“楚必即秦矣以强秦而有〔衍晉字〕楚則燕趙不敢不聴”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:f96e69543c961cc7e08ad5d812bfdee108b3ec66cf8e325659dba8aa20cad722"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0223",
@@ -21046,12 +21149,6 @@
           "id": "p-zhanguoce-03e06ac5664495c8-0238",
           "version": "sha256:535757f64d1fe35f407fac565ba40d230edac7c7c357173bb14de8d2ccecd538",
           "text": "之忠信有功臣也。今楚拘之，秦王欲出之。秦王有愛女而美，又簡擇宫中佳",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-03e06ac5664495c8-0239",
-          "version": "sha256:a7d2ca262fa59f167d37e7d504eac3dfd09ffef2dd55831233f730371c87877c",
-          "text": "翫",
           "aliases": []
         },
         {
@@ -22127,9 +22224,20 @@
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0394",
-          "version": "sha256:628101beabe34fa1819cdad0d2d24d723e955ae83ff7e98b9440054ba5253696",
-          "text": "楚王何不以新城爲主郡也，",
-          "aliases": []
+          "version": "sha256:7d215cf4795efc2890ce025eac02dee499891f180ac4c7b0680da2c1f5cf1143",
+          "text": "王何不以新城爲主郡也，",
+          "aliases": [],
+          "sourceText": "楚王何不以新城爲主郡也，",
+          "correction": {
+            "reason": "“楚”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷05“所恃者非江南泗上也故〔衍楚字〕王何不以新城為主”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:7d215cf4795efc2890ce025eac02dee499891f180ac4c7b0680da2c1f5cf1143"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0395",
@@ -22150,21 +22258,9 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-03e06ac5664495c8-0398",
-          "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
-          "text": "王",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-03e06ac5664495c8-0399",
           "version": "sha256:94bbc4a3181f42b03914edce5227b4afdba0a1728cf5d8d857872dae23ee05a0",
           "text": "具駟馬乗車五百金之楚，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-03e06ac5664495c8-0400",
-          "version": "sha256:874836ca45022b0e696b4a78811a54133398dfc1bcb364848d0cf988e730984f",
-          "text": "盡",
           "aliases": []
         },
         {
@@ -23078,9 +23174,20 @@
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0543",
-          "version": "sha256:c0f5924b800e37ea2964f67154bb00bc19b07859cb7e97e280a31d67636d1adf",
-          "text": "礛磻，",
-          "aliases": []
+          "version": "sha256:4d891cf449d935336efe2a735fddbf4cb634dad79688b86b5e700f6c1ae24061",
+          "text": "磻，",
+          "aliases": [],
+          "sourceText": "礛磻，",
+          "correction": {
+            "reason": "“礛”是鲍改字前的原字：四库鲍本卷05“被㔋磻〔無礛字集韻㔋利也…〕”，鲍本以“㔋”代“礛”（上一段末已有“㔋”），姚本“被礛磻”；删去",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4d891cf449d935336efe2a735fddbf4cb634dad79688b86b5e700f6c1ae24061"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-03e06ac5664495c8-0544",
@@ -24602,12 +24709,6 @@
           }
         },
         {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0061",
-          "version": "sha256:ac63f6865782d9142ccacb2f92285b783c0e09f91bbeeaed205814725b9066ac",
-          "text": "兩",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0062",
           "version": "sha256:99ba07afb85cee7af305208a43f8994c5f41c525e3124c35ff3495968e0bd8b9",
           "text": "主勢能制臣，",
@@ -24734,9 +24835,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0082",
-          "version": "sha256:03f0b16ea39f9298ee56e078940b43c1036ebc5afb5aa1e1b4b3b783d2ce05d0",
-          "text": "孰謀我，",
-          "aliases": []
+          "version": "sha256:c9095f60f814bd7df10ed61768f9a1df5dcede30310829248ca380350dc56521",
+          "text": "謀我，",
+          "aliases": [],
+          "sourceText": "孰謀我，",
+          "correction": {
+            "reason": "“孰”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“則多十城復來而今諸侯〔衍孰字〕謀我為之柰何張孟”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c9095f60f814bd7df10ed61768f9a1df5dcede30310829248ca380350dc56521"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0083",
@@ -24841,15 +24953,37 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0098",
-          "version": "sha256:a3a56f3a0e03a99a2ce97907c0d3be4b41a57b561576ddff6902720877e64211",
-          "text": "襄子乃喟然嘆泣曰：嗟乎豫子，",
-          "aliases": []
+          "version": "sha256:4a5fe1aeda7508e514a742d84ead106294bab65d7b72042e0897841022101ae0",
+          "text": "襄子乃喟然嘆泣曰：嗟乎豫子",
+          "aliases": [],
+          "sourceText": "襄子乃喟然嘆泣曰：嗟乎豫子，",
+          "correction": {
+            "reason": "下一段删去衍“子”后鲍本读“嗟乎豫子之為智伯”，去掉“豫子”后的逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4a5fe1aeda7508e514a742d84ead106294bab65d7b72042e0897841022101ae0"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0099",
-          "version": "sha256:c94c573d96eeb151ef588d31f33303821f33b896042ff1537d5bba7d33fa8f84",
-          "text": "子之為智伯，名旣成矣。寡人舎子，亦已足矣。子自為計，寡人不舎子。使兵環之。豫讓曰：臣聞明主不掩人之義，忠臣不愛死以成名。君前已寛舎臣，天下莫不稱君之賢，今日之事，臣故",
-          "aliases": []
+          "version": "sha256:77711c5142e85de165ecdc685b6c8bd4cf41be46eef42951d288a7b40c918cd2",
+          "text": "之為智伯，名旣成矣。寡人舎子，亦已足矣。子自為計，寡人不舎子。使兵環之。豫讓曰：臣聞明主不掩人之義，忠臣不愛死以成名。君前已寛舎臣，天下莫不稱君之賢，今日之事，臣故",
+          "aliases": [],
+          "sourceText": "子之為智伯，名旣成矣。寡人舎子，亦已足矣。子自為計，寡人不舎子。使兵環之。豫讓曰：臣聞明主不掩人之義，忠臣不愛死以成名。君前已寛舎臣，天下莫不稱君之賢，今日之事，臣故",
+          "correction": {
+            "reason": "“子”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“乃喟然嘆泣曰嗟乎豫子〔衍子字〕之為智伯名既成矣”；姚本“嗟乎，豫子！豫子之為知伯”，录鲍本“無豫字”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:77711c5142e85de165ecdc685b6c8bd4cf41be46eef42951d288a7b40c918cd2"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0100",
@@ -26525,15 +26659,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0352",
-          "version": "sha256:f55e237a09ea70da847e6b62088664eabdf0ae587b6cb9e3f84565ad910370de",
-          "text": "以秦之強有楚韓之用。梁不待伐",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0353",
-          "version": "sha256:c69bc770fb38470e98c10d1b922c72598fc85be628e57eec203995bbd5b4e466",
-          "text": "矣。",
-          "aliases": []
+          "version": "sha256:bf7f1b764fd6f516a37a12357c0e35a1aaa4b229735806cf1cfcf6a89d4c47e7",
+          "text": "以秦之強有楚韓之用。梁不待伐。",
+          "aliases": [],
+          "sourceText": "以秦之強有楚韓之用。梁不待伐",
+          "correction": {
+            "reason": "下一段“矣。”（鲍注“衍矣字”）整段撤下，原在其后的句号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:bf7f1b764fd6f516a37a12357c0e35a1aaa4b229735806cf1cfcf6a89d4c47e7"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0354",
@@ -26614,9 +26753,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0365",
-          "version": "sha256:dd853bfa82f1cc25dde8459cdd11b6d521cca03e3f6ec606f5edf9d2cf6048ed",
-          "text": "成、",
-          "aliases": []
+          "version": "sha256:e79ef030670bb247e8babffd619e88913700dee8a941f8925e30ab8d3358678a",
+          "text": "戍",
+          "aliases": [],
+          "sourceText": "成、",
+          "correction": {
+            "reason": "“成”是“戍”的形误，顿号随改：四库鲍本卷06“南伐山戎〔…〕戍〔元作翟〕韓梁之西”，姚本“趙王因起兵南戍【鮑本南下有伐山戎三字】韓、梁之西邊”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e79ef030670bb247e8babffd619e88913700dee8a941f8925e30ab8d3358678a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0366",
@@ -26634,12 +26784,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-0368",
           "version": "sha256:3511587b49efbb98269e92c4e1a1c2169a75163d4d44d097b87a3c0a0b60cc80",
           "text": "秦見三晉之堅也，果不出。楚王",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0369",
-          "version": "sha256:17701893a9a39e348f5eee0fa4406a1fdb316488c2a588042f83fd4d2c262793",
-          "text": "卬",
           "aliases": []
         },
         {
@@ -26762,12 +26906,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0389",
-          "version": "sha256:4b16f6f51e9ea398db227fa4a26994a867af26b144e87cbbfedf90a68a15953d",
-          "text": "秦，",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0390",
           "version": "sha256:068cea4817cb8a15e3752f6b7a9fa43c1fe08f566a0142b012085ceb89485766",
           "text": "以未講",
@@ -26775,9 +26913,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0391",
-          "version": "sha256:49db44c70d18725572ee4adbab43678631a7da4cbca4a58aa4ca416575f63409",
-          "text": "搆中山也。",
-          "aliases": []
+          "version": "sha256:538d8fc749e1951fb2be62cae8ffe5b0d602c2041344f5aa5a9aff682e834759",
+          "text": "中山也。",
+          "aliases": [],
+          "sourceText": "搆中山也。",
+          "correction": {
+            "reason": "“搆”是“元作御名”所记原字（構）混入：姚本“以未構【鮑本「構」作「講」。○元作御名】中山也”，鲍本作“講”，上一段末已有“講”；与本卷 0948 等“講搆”删“搆”同例",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:538d8fc749e1951fb2be62cae8ffe5b0d602c2041344f5aa5a9aff682e834759"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0392",
@@ -26812,12 +26961,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-0396",
           "version": "sha256:999cda14e628f1e25fff9c53379c8610f2ae1805f6f4ec3e55404f6f8cdd0624",
           "text": "中山不聽，三國必絶之，是中山孤也。三國不能和，我雖少出兵可也。我分兵而孤",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0397",
-          "version": "sha256:8f3e49186cc4b15e25289e54c39c3edf50cd1a5951cf276610364f8935e4be1d",
-          "text": "樂，",
           "aliases": []
         },
         {
@@ -27925,9 +28068,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0562",
-          "version": "sha256:ee6a4793167b1bf0e0656f0f5ed9a2168b20f20f83e5ff0823ce3a36213877a9",
-          "text": "内之國，",
-          "aliases": []
+          "version": "sha256:995b0572400958ef2d0e677dbcee77b9787904a3ef64dbd0b545ac2af82e1904",
+          "text": "之國，",
+          "aliases": [],
+          "sourceText": "内之國，",
+          "correction": {
+            "reason": "“内”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“矣天下争秦秦王受負海〔衍内字〕之國合負親之交以”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:995b0572400958ef2d0e677dbcee77b9787904a3ef64dbd0b545ac2af82e1904"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0563",
@@ -28298,9 +28452,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0620",
-          "version": "sha256:2b3b1e22ecdbd73eeebff279bc5d6214c014ab84f4dd0a19e23ed22598b5f1b9",
-          "text": "千五百里。",
-          "aliases": []
+          "version": "sha256:461de6bb3833428f567255534b80940679805b5a6e637b9519449c3c3efe4590",
+          "text": "五百里。",
+          "aliases": [],
+          "sourceText": "千五百里。",
+          "correction": {
+            "reason": "“千”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“百里距於扞關至於榆中〔屬金城下衍千字〕五百里秦盡韓魏之”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:461de6bb3833428f567255534b80940679805b5a6e637b9519449c3c3efe4590"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0621",
@@ -28808,9 +28973,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0685",
-          "version": "sha256:c9a8c9e0fd2cecfb48b07449e8d8f200546553b854765d6777c6ef149c05b268",
-          "text": "善客，",
-          "aliases": []
+          "version": "sha256:c8b6101be938c97ff61168ad9fe3d1cb10eb841b6cbc62870f99a62c8608ba8a",
+          "text": "善宋，",
+          "aliases": [],
+          "sourceText": "善客，",
+          "correction": {
+            "reason": "“客”是“宋”的形误：四库鲍本卷06“文張〔它國人〕善宋〔宋王善之〕惡公子牟夷”，姚本“文張【…】善宋，【鮑本宋王善之。…】惡公子牟夷”，鲍注“宋王善之”也说明是“宋”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c8b6101be938c97ff61168ad9fe3d1cb10eb841b6cbc62870f99a62c8608ba8a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0686",
@@ -28918,12 +29094,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0698",
-          "version": "sha256:18b47baf4ea6117bc4266dc8ba2bc4ce777f1d8d1f62cdda0240a166f96bf6ac",
-          "text": "予",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0699",
           "version": "sha256:a6b71dae843e3e0aadbc071a6b8ef9bbe8f29615422b55d46fd323b41d1205db",
           "text": "子",
@@ -29013,15 +29183,37 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0710",
-          "version": "sha256:8a2d1daaab4fa9c31bdd2c2b9096e5d1671a5e884ddebfbc0cb129efe5f57be8",
-          "text": "得三城",
-          "aliases": []
+          "version": "sha256:2b17bb434b04a91b3558448b935dbc0ec9839cc6481816be4b5f4351f8d9eb9e",
+          "text": "得三城。",
+          "aliases": [],
+          "sourceText": "得三城",
+          "correction": {
+            "reason": "下一段删去衍“也”，原在其后的句号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:2b17bb434b04a91b3558448b935dbc0ec9839cc6481816be4b5f4351f8d9eb9e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0711",
-          "version": "sha256:49ec88199e3bffb00e885977881ffa0eba62656a322b66c0ab80c8fac4245d8c",
-          "text": "也。城大無能過百雉者，",
-          "aliases": []
+          "version": "sha256:fcaebd47418bb86971e3db3f68e1f0f8ef2fef5b64a6fcf1858a7b8c58fe7eff",
+          "text": "城大無能過百雉者，",
+          "aliases": [],
+          "sourceText": "也。城大無能過百雉者，",
+          "correction": {
+            "reason": "“也。”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“是軍也懸釜而炊得三城〔衍也字〕城大無能過百雉者”；句号移到上一段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:fcaebd47418bb86971e3db3f68e1f0f8ef2fef5b64a6fcf1858a7b8c58fe7eff"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0712",
@@ -29770,9 +29962,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0809",
-          "version": "sha256:87861a30ed29e8bec6752f428b863b9fd59c31a2aa906a8d4327eb6bddc3ea5f",
-          "text": "人臣之所能知也。王曰：雖然，試言公之𥝠。樓緩曰：王亦聞夫公甫文伯母乎？公甫文伯官於鲁，病死，婦人爲之自殺於房中者二八，其母聞之，不肯哭也。相室曰：焉有子死而不哭者乎？其母曰：孔子，賢人也，逐於魯，是人不隨。",
-          "aliases": []
+          "version": "sha256:aab0a17624ab64dbb79c825816d69d8343a1ad09a5ad2a5c0da36143b644eed9",
+          "text": "臣之所能知也。王曰：雖然，試言公之𥝠。樓緩曰：王亦聞夫公甫文伯母乎？公甫文伯官於鲁，病死，婦人爲之自殺於房中者二八，其母聞之，不肯哭也。相室曰：焉有子死而不哭者乎？其母曰：孔子，賢人也，逐於魯，是人不隨。",
+          "aliases": [],
+          "sourceText": "人臣之所能知也。王曰：雖然，試言公之𥝠。樓緩曰：王亦聞夫公甫文伯母乎？公甫文伯官於鲁，病死，婦人爲之自殺於房中者二八，其母聞之，不肯哭也。相室曰：焉有子死而不哭者乎？其母曰：孔子，賢人也，逐於魯，是人不隨。",
+          "correction": {
+            "reason": "“人”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“與何如樓緩辭讓曰此非〔衍人字〕臣之所能知也王曰”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:aab0a17624ab64dbb79c825816d69d8343a1ad09a5ad2a5c0da36143b644eed9"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0810",
@@ -29784,12 +29987,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-0811",
           "version": "sha256:80678c68f99728c287e745c5fa032bf2c4a6b43887a949d698b37115e67a97fb",
           "text": "若是者，其於長者薄而於婦人厚。故從母言之，爲賢母也；從婦言之，必不免爲妬婦也。故其言一也。言者異，則人心變矣。仐臣新從秦來，而言勿與，則非計也；言與之，則恐王以臣之爲秦也，故不敢對。使臣得爲王計之，不如予之。王曰：諾。虞卿聞之，入見王。王以樓緩言吿之。虞卿曰：此飾說也。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0812",
-          "version": "sha256:8a9d8e5f2d4e4daa98c0d744b8555a3bd0bb707f4e062d6fda283adf150b0049",
-          "text": "秦旣解邯鄲之圍，而趙王入朝，使趙郝納事於秦，割六縣而媾。",
           "aliases": []
         },
         {
@@ -29924,12 +30121,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-0829",
           "version": "sha256:2c9df3c70d45120195938586967e8972a02d9f0a4fc955f6da101741ed56cc2d",
           "text": "與之，則無地而給之。語曰：強者善攻，而弱者不能自守。仐坐而聽秦，秦兵不敝而多得地，是強秦而弱趙也。以益",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0830",
-          "version": "sha256:cd4a0eb694b37fa04c655e4fa8ee88d0f6f40781a04de77afaf95224b4d928b4",
-          "text": "愈",
           "aliases": []
         },
         {
@@ -30085,9 +30276,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0847",
-          "version": "sha256:e0aa6b5644a9a59b6c279290d351e63131d20ec95c9c1a2032f9e83979d32936",
-          "text": "閔王益弱，",
-          "aliases": []
+          "version": "sha256:73b7be77b4b721460984599291b39dd4d618a5d8fd92c88b73d778f33188393e",
+          "text": "益弱，",
+          "aliases": [],
+          "sourceText": "閔王益弱，",
+          "correction": {
+            "reason": "“閔王”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“已而復歸帝以齊故今齊〔衍閔王字今乃襄王耳史亦誤〕益弱方今唯秦雄天”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:73b7be77b4b721460984599291b39dd4d618a5d8fd92c88b73d778f33188393e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0848",
@@ -30253,12 +30455,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-0873",
           "version": "sha256:a902f9387d8feadea2e21f902c4c706443f27784a75b0b204db0b63309639631",
           "text": "謂魯人曰：子將何以待吾君？魯人曰：吾將以十太牢待子之君。夷維子曰：子安取禮而來待吾君？彼吾君者，天子也。天子廵狩，諸侯避舎，納",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0874",
-          "version": "sha256:ec46c055ab6b5fcc04ac09adf206a35ab7e19def828f11418eedbb1b6e43169a",
-          "text": "于",
           "aliases": []
         },
         {
@@ -30451,12 +30647,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0902",
-          "version": "sha256:b9f0c815459caa83d43d49643d76e70468a1306ad668d3a5e0759bedb5fb1f1d",
-          "text": "西",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0903",
           "version": "sha256:825b6f1fae6577677f55c88c41d33687b1d8d791c20292199d1978830592b69a",
           "text": "行之，無所敢疑。於是秦王乃見使者曰：趙豹、平原君數欺弄寡人，趙能殺此二人則可，若不能殺，請令率諸侯受命邯鄲城下。",
@@ -30472,12 +30662,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-0905",
           "version": "sha256:0e5b23678c7b4494b6cf55ca2dd67af991eb023908b1370a660680eb6271d5a4",
           "text": "大王以孝治聞於天下，衣服",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-0906",
-          "version": "sha256:22c95798a9323bb53fc1f77bb5ae47b8764a744836b0b31ead485937c02d119c",
-          "text": "使",
           "aliases": []
         },
         {
@@ -30512,9 +30696,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0912",
-          "version": "sha256:4ec09820019520af713599ed1561759dee65a778d3e0d2d8a12b236f07d81aac",
-          "text": "以友之。",
-          "aliases": []
+          "version": "sha256:148eb0ef14d87fa251525e1acbc588fafa1483ef41bb0c4480a79f0cc777ab96",
+          "text": "友之。",
+          "aliases": [],
+          "sourceText": "以友之。",
+          "correction": {
+            "reason": "“以”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“之趙使姚賈約韓魏韓魏〔衍以字〕友之茅舉為姚賈謂”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:148eb0ef14d87fa251525e1acbc588fafa1483ef41bb0c4480a79f0cc777ab96"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-0913",
@@ -31279,9 +31474,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1022",
-          "version": "sha256:10f304c59ea5352165166962c64e74031f0aaa376ada4549fc96cc5200e6d1aa",
-          "text": "之拘於牗里，而武王羇於玉門，",
-          "aliases": []
+          "version": "sha256:ca7c9b911aacaa6e36ee3ffa45f693c6042accd330ab80159c6c167e097ee5b6",
+          "text": "拘於牗里，而武王羇於玉門，",
+          "aliases": [],
+          "sourceText": "之拘於牗里，而武王羇於玉門，",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“賣雖賤已貴矣昔者文王〔衍之字〕拘於牖里而武王羇”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:ca7c9b911aacaa6e36ee3ffa45f693c6042accd330ab80159c6c167e097ee5b6"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1023",
@@ -31462,18 +31668,18 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1048",
-          "version": "sha256:2a80840714660629da6fbbc37430478a68325a416d51c8d4f917d99a405bcf44",
-          "text": "爲齊致尊名於王。天下孰敢不致尊名於王。臣以齊致地於王。天下孰敢不致地於王。臣以齊爲王求名於燕及韓魏孰敢辭之臣之能也。其前可見已",
+          "version": "sha256:294741d881cbe5b72d3f98809e969b03ddb85487616bf47b30bfb1bdd619d07d",
+          "text": "齊致尊名於王。天下孰敢不致尊名於王。臣以齊致地於王。天下孰敢不致地於王。臣以齊爲王求名於燕及韓魏孰敢辭之臣之能也。其前可見已",
           "aliases": [],
           "sourceText": "爲齊致尊名於王。天下孰敢不致尊名於王。臣以齊致地於王。天下孰敢不致地於王。臣以齊爲王求名於燕及韓魏孰敢辭之臣之能也。其前可見巳",
           "correction": {
-            "reason": "戰國䇿趙卷第六“其前可見已”：底本把“已”误作地支字“巳”（本书底本此类误刻甚多，同书“已”字多数不误）。维基文库《戰國策》（鮑彪注，四庫全書本）卷06作“已”；士禮居叢書本同。",
+            "reason": "戰國䇿趙卷第六“其前可見已”：底本把“已”误作地支字“巳”（本书底本此类误刻甚多，同书“已”字多数不误）。维基文库《戰國策》（鮑彪注，四庫全書本）卷06作“已”；士禮居叢書本同。；“爲”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“韓魏能敗秦能孤秦臣以〔衍為字〕齊致尊名於王天下”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:2a80840714660629da6fbbc37430478a68325a416d51c8d4f917d99a405bcf44"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:294741d881cbe5b72d3f98809e969b03ddb85487616bf47b30bfb1bdd619d07d"
             }
           }
         },
@@ -31484,12 +31690,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-1050",
-          "version": "sha256:f93d7367ecb3121fd18de4d31dd946e7baf196f0721d2f6499a49a13a03692a5",
-          "text": "重",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1051",
           "version": "sha256:fb62427969f1543305b017c1860d972695005b0aae15907f52dda3bed01346f6",
           "text": "王無齊。天下必盡輕王也。秦之強以無齊",
@@ -31497,9 +31697,20 @@
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1052",
-          "version": "sha256:ff7825bf01bc8d3e486a53998ead2f9e0d92c44986d675b64e8d691f3660517a",
-          "text": "之故重王。燕韓",
-          "aliases": []
+          "version": "sha256:fcfca16d179c357e82567a447c43d98f1ee911a134fa1df5823d3226092c1d9a",
+          "text": "故重王。燕韓",
+          "aliases": [],
+          "sourceText": "之故重王。燕韓",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷06“盡輕王也秦之強以無齊〔衍之字〕故重王燕韓魏自以”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:fcfca16d179c357e82567a447c43d98f1ee911a134fa1df5823d3226092c1d9a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1053",
@@ -31666,12 +31877,6 @@
           "id": "p-zhanguoce-eba5fc8ed88328a2-1079",
           "version": "sha256:b1422c356dfaf39c03f30dd3316b83ed811791ecd625319fc156cf90a4c1913a",
           "text": "使。夫交淺者不可以深談，則天下不傳而三公不得也。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-1080",
-          "version": "sha256:d15f0f186ab7a9fc1930a70d6b673fc69c7724544b4020089cd09a97cb92758b",
-          "text": "趙王曰：",
           "aliases": []
         },
         {
@@ -31992,12 +32197,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-eba5fc8ed88328a2-1136",
-          "version": "sha256:2f8267a89ad55e6b6ccc4831c09edd812a53e8086c49c33d7eb1ae014dd1ea59",
-          "text": "空",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-eba5fc8ed88328a2-1137",
           "version": "sha256:cf005973b74575c3d6f272b720568e67a235c06b5432a573873a9125c6f52ea2",
           "text": "馬門，",
@@ -32163,24 +32362,35 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0007",
-          "version": "sha256:ef1a39845d828fa17326e5df909a8bffea136df033e2a7bd8d4f0fce42725eae",
-          "text": "天下必懼；君予之地，智伯必驕",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0008",
-          "version": "sha256:b1e7ebfee016df5a86684411620cd599cc7d14b4a150ea5adb563db2968bb649",
-          "text": "憍。彼驕而輕敵，鄰國懼而相親。以相親之兵，待輕敵之國，智氏之命不長矣。周書曰：將欲敗之，必姑輔之；將欲取之，必姑與之。",
+          "version": "sha256:f8726b33d9e8673d130c299721bd2133e6a3d4deb3d911940f22b78284662864",
+          "text": "天下必懼；君予之地，智伯必驕。",
           "aliases": [],
-          "sourceText": "憍。彼驕憍而輕敵，鄰國懼而相親。以相親之兵，待輕敵之國，智氏之命不長矣。周書曰：將欲敗之，必姑輔之；將欲取之，必姑與之。",
+          "sourceText": "天下必懼；君予之地，智伯必驕",
           "correction": {
-            "reason": "“憍”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷07“地智伯必驕驕〔元作憍〕而輕敵鄰”",
+            "reason": "下一段删去混入的“憍。”，原在其后的句号移到本段末",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
               "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
               "reviewedAt": "2026-11-23",
-              "textVersion": "sha256:b1e7ebfee016df5a86684411620cd599cc7d14b4a150ea5adb563db2968bb649"
+              "textVersion": "sha256:f8726b33d9e8673d130c299721bd2133e6a3d4deb3d911940f22b78284662864"
+            }
+          }
+        },
+        {
+          "id": "p-zhanguoce-520bcc6353939ed5-0008",
+          "version": "sha256:923e18de90d26ffc0e3340d2507571fa9f14f7a731e2f8514f3ebfd70fb4c697",
+          "text": "彼驕而輕敵，鄰國懼而相親。以相親之兵，待輕敵之國，智氏之命不長矣。周書曰：將欲敗之，必姑輔之；將欲取之，必姑與之。",
+          "aliases": [],
+          "sourceText": "憍。彼驕憍而輕敵，鄰國懼而相親。以相親之兵，待輕敵之國，智氏之命不長矣。周書曰：將欲敗之，必姑輔之；將欲取之，必姑與之。",
+          "correction": {
+            "reason": "“憍”是鲍注“元作”所记原字混入正文，删去留鲍本正文；据四库鲍本卷07“地智伯必驕驕〔元作憍〕而輕敵鄰”；段首“憍。”是鲍注原字混入：四库鲍本卷07“智伯必驕驕〔元作憍〕而輕敵”，姚本“知伯必憍【鮑本「憍」作「驕」】。憍【鮑本「憍」上有「彼」字】而輕敵”，两处原字都是“憍”，鲍本都作“驕”；删去，句号移到上一段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:923e18de90d26ffc0e3340d2507571fa9f14f7a731e2f8514f3ebfd70fb4c697"
             }
           }
         },
@@ -32458,9 +32668,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0050",
-          "version": "sha256:be9c53c77e9ee4045959fbef9b7145062578a0ffa9278c1f261da49392e894f7",
-          "text": "恃此險也，爲政不善而禹放逐之。夫",
-          "aliases": []
+          "version": "sha256:aeb09ee4b437a802aacb872ea83f05b176d4772a654f9c22feff425621adb1ec",
+          "text": "恃此險也，爲政不善而禹放逐之。",
+          "aliases": [],
+          "sourceText": "恃此險也，爲政不善而禹放逐之。夫",
+          "correction": {
+            "reason": "“夫”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“也為政不善而禹放逐之〔衍夫字〕夏桀之國左天門之”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:aeb09ee4b437a802aacb872ea83f05b176d4772a654f9c22feff425621adb1ec"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0051",
@@ -32624,15 +32845,37 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0075",
-          "version": "sha256:2dc6c8c733dcc3eb9a6f6ac80e15cce0fb616e77c7fcf391e91d8036d53b7855",
-          "text": "秦、",
-          "aliases": []
+          "version": "sha256:8a8df676c46b7f354503dd413f3cf13aa4a08278897a32602fb6c285f7f44d2a",
+          "text": "秦",
+          "aliases": [],
+          "sourceText": "秦、",
+          "correction": {
+            "reason": "下一段删去衍“韓”后鲍本读“秦圍梁”，去掉“秦”后的顿号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:8a8df676c46b7f354503dd413f3cf13aa4a08278897a32602fb6c285f7f44d2a"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0076",
-          "version": "sha256:805076cc820ad09768dddc68a0e7439d4f709b195d8572eb625be7d3091cc179",
-          "text": "韓圍梁，",
-          "aliases": []
+          "version": "sha256:22017bd92585caa433cf4e20dbddc43b431fb777ad47713134f9912dcab89833",
+          "text": "圍梁，",
+          "aliases": [],
+          "sourceText": "韓圍梁，",
+          "correction": {
+            "reason": "“韓”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“之惠固以不悖者為悖秦〔衍韓字〕圍梁燕趙救之謂山”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:22017bd92585caa433cf4e20dbddc43b431fb777ad47713134f9912dcab89833"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0077",
@@ -33087,12 +33330,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-520bcc6353939ed5-0146",
-          "version": "sha256:8da1b88af37cfbb3e13ca75fc655dc65ea5a1d11819317a192140a9ad1da9d03",
-          "text": "齊",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-520bcc6353939ed5-0147",
           "version": "sha256:142b9ba8d5d16894f0ec2b204f9ada8e0ad3c27b00f9549c6eb64c39a7d9c81e",
           "text": "必戰。齊戰勝楚，而與乗之，",
@@ -33102,12 +33339,6 @@
           "id": "p-zhanguoce-520bcc6353939ed5-0148",
           "version": "sha256:7d7592c7390e810bd8c79253c7ca9eb161418b2c564cb9f4fcc34fcbe008072c",
           "text": "必取方城之外。楚戰勝齊，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0149",
-          "version": "sha256:f283c347e112f2870fec81398c195dd7193718950ff29d6e68998a4760f80bb6",
-          "text": "敗",
           "aliases": []
         },
         {
@@ -33415,26 +33646,25 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0196",
-          "version": "sha256:48b1458abac59f4e171bcea5979598e29e0f33c21feec7e4a6280687ab241d45",
-          "text": "以下楚，楚、",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0197",
-          "version": "sha256:d351687cbcc3638d4a0ecf7b738032733b38f119d8f3e8a1b27723527654bda7",
-          "text": "趙",
-          "aliases": []
+          "version": "sha256:6378f2c56618741ae187299b0a651b2bb56afab52c4980e429fad6ebcb36fa36",
+          "text": "以下楚，楚",
+          "aliases": [],
+          "sourceText": "以下楚，楚、",
+          "correction": {
+            "reason": "下一段“趙”（鲍注“衍趙字”）撤下，鲍本“以下楚楚必聽之”，去掉“楚”后的顿号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:6378f2c56618741ae187299b0a651b2bb56afab52c4980e429fad6ebcb36fa36"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0198",
           "version": "sha256:508d266fdb14479b304ca71946c00d938b6aee8f075c3a0a72f2c785cc74967f",
           "text": "必聴之，而不與魏六城，是王失謀於椘，而樹怨",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0199",
-          "version": "sha256:08e2725ce120c1d11d01d8f3a003d83f758850b10979198264d6287e0c4fd330",
-          "text": "而",
           "aliases": []
         },
         {
@@ -33553,15 +33783,37 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0220",
-          "version": "sha256:27b11ed94f5375ced54c4b24e733917e95a9cb7cd05a9250b4faffe247d04fb5",
-          "text": "張儀惡陳軫於魏王曰：軫善事楚，爲求壤地也。甚力",
-          "aliases": []
+          "version": "sha256:333148c40d471bf97b19bf4fc9b7d00b65fe42b4c55a82c69cec4a2f1c1c35ac",
+          "text": "張儀惡陳軫於魏王曰：軫善事楚，爲求壤地也。甚力。",
+          "aliases": [],
+          "sourceText": "張儀惡陳軫於魏王曰：軫善事楚，爲求壤地也。甚力",
+          "correction": {
+            "reason": "下一段删去衍“之”，原在其后的句号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:333148c40d471bf97b19bf4fc9b7d00b65fe42b4c55a82c69cec4a2f1c1c35ac"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0221",
-          "version": "sha256:2cbf2f717b6ca0c47d92736087b96a9da0bd167c2a2fdc11563fc50fef3ba979",
-          "text": "之。左華",
-          "aliases": []
+          "version": "sha256:5d884037a9302e8a11bf7ab266111092b1c1812b4453af9efa8703cef6d4180c",
+          "text": "左華",
+          "aliases": [],
+          "sourceText": "之。左華",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“善事楚為求壤地也甚刀〔衍之字〕左華謂陳軫曰儀善”；四库正文“甚刀”即“甚力”，句号移到上一段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5d884037a9302e8a11bf7ab266111092b1c1812b4453af9efa8703cef6d4180c"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0222",
@@ -33689,12 +33941,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-520bcc6353939ed5-0242",
-          "version": "sha256:a6b71dae843e3e0aadbc071a6b8ef9bbe8f29615422b55d46fd323b41d1205db",
-          "text": "子",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-520bcc6353939ed5-0243",
           "version": "sha256:eb21231562853aa2dd257c04aa0dff8f5c3ef0b84fc0abc974e6a9f4a2b8df68",
           "text": "儀以秦相魏，齊、楚怒而欲攻魏。雍沮",
@@ -33720,9 +33966,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0247",
-          "version": "sha256:efaedef298db0bd379a165b7f6fc310e19aea1fbe7b810699176975aca130ff1",
-          "text": "魏，魏必事秦以持其國，必割地以賂王。若欲復攻，",
-          "aliases": []
+          "version": "sha256:d1dfe386b76232ea56f20ca5705e66531fe3562e44bb49a65968f4ed607757fe",
+          "text": "魏必事秦以持其國，必割地以賂王。若欲復攻，",
+          "aliases": [],
+          "sourceText": "魏，魏必事秦以持其國，必割地以賂王。若欲復攻，",
+          "correction": {
+            "reason": "“魏，”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“折而儀固得魏矣若不勝〔衍魏字〕魏必事秦以持其國”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d1dfe386b76232ea56f20ca5705e66531fe3562e44bb49a65968f4ed607757fe"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0248",
@@ -33800,12 +34057,6 @@
               "textVersion": "sha256:01243918e7381c8ba3f6307e92f91a52e76bbdb598401a192691b79c5e8010ef"
             }
           }
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0259",
-          "version": "sha256:804fb1361127904e826f221121c8b727585fee75733d51a90acde55689abe4a3",
-          "text": "無事必來。",
-          "aliases": []
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0260",
@@ -34072,9 +34323,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0304",
-          "version": "sha256:1d2b6cf8dfb572d6ba0086d024e3e7a08accfad3fe0e8f3f61afb046ba95d3bd",
-          "text": "而蘇代曰：衍將右韓而左魏，",
-          "aliases": []
+          "version": "sha256:e92812b9a67dc9a9e21efc4eeac6fcbd44898241cb967fce0dc147cd57743956",
+          "text": "蘇代曰：衍將右韓而左魏，",
+          "aliases": [],
+          "sourceText": "而蘇代曰：衍將右韓而左魏，",
+          "correction": {
+            "reason": "“而”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“韓也王曰不如其為韓也〔衍而字〕蘇代曰衍將右韓而”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e92812b9a67dc9a9e21efc4eeac6fcbd44898241cb967fce0dc147cd57743956"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0305",
@@ -34392,9 +34654,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0351",
-          "version": "sha256:6608e12d7d04f9c92a4b07096d6260886a2685e108bf07d9663f99803698a927",
-          "text": "魏文子、",
-          "aliases": []
+          "version": "sha256:df76ebe4aea9aa441e9a0109b6b05e3fec85c0785fca6d3929a06ff71564d32e",
+          "text": "文子、",
+          "aliases": [],
+          "sourceText": "魏文子、",
+          "correction": {
+            "reason": "“魏”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“主婦者魏王因不納張儀〔衍魏字〕文子田需周霄相善”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:df76ebe4aea9aa441e9a0109b6b05e3fec85c0785fca6d3929a06ff71564d32e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0352",
@@ -34436,12 +34709,6 @@
           "id": "p-zhanguoce-520bcc6353939ed5-0358",
           "version": "sha256:bee794aa4bb9a90488308238662c9a471e741a0f49b344f87314a307aa409008",
           "text": "將測交也。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0359",
-          "version": "sha256:143a5be78419cdc4bc69e0fcecc31f68f7389e3ae907a1dd04ba240dcdc9a132",
-          "text": "楚王聞之，",
           "aliases": []
         },
         {
@@ -34714,12 +34981,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-520bcc6353939ed5-0403",
-          "version": "sha256:d6daa66d63b80eb1ae7450fdfa633d8f23f8d324835dc8469401f7c1ca9728d9",
-          "text": "韓、",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-520bcc6353939ed5-0404",
           "version": "sha256:c88a34c36820e9207b0c0cc4024dab4b5f9f56cfe5eb0674d767743c908b0c09",
           "text": "魏事秦，秦甚善之，國得安焉，身得尊焉。今我構",
@@ -34829,15 +35090,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0423",
-          "version": "sha256:9640ac93fd8c3149cf70d9c4a0d5b25c0616b0d616fc04349aa22f73d5c4b037",
-          "text": "爲魏謂楚王懷曰：秦、楚勝魏，魏王之恐",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0424",
-          "version": "sha256:e07019c693419d225aa4cfb8c04403c02566778061465b64a114bd8ba3874b02",
-          "text": "也，",
-          "aliases": []
+          "version": "sha256:d94719b668d6407c539d938b794e59d18e376c74b6a0b1bad764b081e9ddb355",
+          "text": "爲魏謂楚王曰：秦、楚勝魏，魏王之恐",
+          "aliases": [],
+          "sourceText": "爲魏謂楚王懷曰：秦、楚勝魏，魏王之恐",
+          "correction": {
+            "reason": "“懷”是鲍注混入正文：四库鲍本卷07“為魏謂楚王〔懐〕曰秦楚勝魏”，“懐”是注（指楚怀王）；姚本“為魏謂楚王【鮑本懷。】曰”，正文也无此字，删去",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d94719b668d6407c539d938b794e59d18e376c74b6a0b1bad764b081e9ddb355"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0425",
@@ -34993,9 +35259,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0443",
-          "version": "sha256:481363c4a0830125834d7dd5228ef336cdd906fc625ba85e9742c5c550dfd09f",
-          "text": "楚還兵，魏王必懼。",
-          "aliases": []
+          "version": "sha256:5ad51a2122cb20893656fa2f3fb225c515fdade59390871ca31ee072116ad77d",
+          "text": "還兵，魏王必懼。",
+          "aliases": [],
+          "sourceText": "楚還兵，魏王必懼。",
+          "correction": {
+            "reason": "“楚”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“也豈若由楚乎秦疾攻楚〔衍楚字〕還兵魏王必懼公因”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5ad51a2122cb20893656fa2f3fb225c515fdade59390871ca31ee072116ad77d"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0444",
@@ -35017,9 +35294,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0448",
-          "version": "sha256:ee010a6831f44c8c0c2055689fd37edd31a1e3d63df479ca6ffb1b6bc2c0acc0",
-          "text": "秦、楚重公，公必爲相矣。臣意秦王昭與樗里疾之欲之也，臣請爲公說之。乃謂樗里子曰：攻皮氏，此王之首事也，",
-          "aliases": []
+          "version": "sha256:5f01b1ab3772470fcdcc3f7fd922c0762db5f06e0fbd695fc539a0302a2f8a05",
+          "text": "秦、楚重公，公必爲相矣。臣意秦王與樗里疾之欲之也，臣請爲公說之。乃謂樗里子曰：攻皮氏，此王之首事也，",
+          "aliases": [],
+          "sourceText": "秦、楚重公，公必爲相矣。臣意秦王昭與樗里疾之欲之也，臣請爲公說之。乃謂樗里子曰：攻皮氏，此王之首事也，",
+          "correction": {
+            "reason": "“昭”是鲍注混入正文：四库鲍本卷07“臣意秦王〔昭〕與樗里疾之欲之也”，“昭”是注（指秦昭王）；姚本“臣意秦王【鮑本昭。】與樗里疾”，正文也无此字，删去",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5f01b1ab3772470fcdcc3f7fd922c0762db5f06e0fbd695fc539a0302a2f8a05"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0449",
@@ -35174,18 +35462,18 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0465",
-          "version": "sha256:f5745b5aaf7e881b1e41364215664df200727565dda4f3c2087abf04843e1937",
-          "text": "於楚以重公也。翟強與齊，王必疾矣。是公外得齊、楚以爲用，内得樓𢋛、翟強以爲佐，",
+          "version": "sha256:94b748c4ac289c28eea866066818037133a2025fa0408f2b69b45d1d744d85f7",
+          "text": "楚以重公也。翟強與齊，王必疾矣。是公外得齊、楚以爲用，内得樓𢋛、翟強以爲佐，",
           "aliases": [],
           "sourceText": "於楚以重公也。翟強與齊，王必疾矣。是公外得齊、楚以爲用，内得樓、翟、強以爲佐，",
           "correction": {
-            "reason": "补出脱去的“𢋛”并去掉误加在“翟強”中间的顿号：四库鲍本卷07“内得樓□翟强以為佐”，姚本“內得樓鼻、翟強以爲佐”；樓𢋛、翟強是两人",
+            "reason": "补出脱去的“𢋛”并去掉误加在“翟強”中间的顿号：四库鲍本卷07“内得樓□翟强以為佐”，姚本“內得樓鼻、翟強以爲佐”；樓𢋛、翟強是两人；“於”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“北與我乎必為合於齊外〔衍於字〕楚以重公也翟强與”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
               "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
               "reviewedAt": "2026-11-23",
-              "textVersion": "sha256:f5745b5aaf7e881b1e41364215664df200727565dda4f3c2087abf04843e1937"
+              "textVersion": "sha256:94b748c4ac289c28eea866066818037133a2025fa0408f2b69b45d1d744d85f7"
             }
           }
         },
@@ -35562,9 +35850,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0521",
-          "version": "sha256:10bac4960b1cafa040364e842ebad7532727ba1c547f75cff5cc0ac78c3f7f9e",
-          "text": "與蘇代秦",
-          "aliases": []
+          "version": "sha256:c9c030f0e4e11837130814ed508cdd8ca5ef665ff3a31f873f50459c0c506199",
+          "text": "與蘇代",
+          "aliases": [],
+          "sourceText": "與蘇代秦",
+          "correction": {
+            "reason": "“秦”是鲍注原字混入：四库鲍本卷07本章首“蘇代〔元作秦下同〕拘於魏”，此处正文“不信齊王與蘇代也”；承“下同”删去（上一轮已撤章首 0517“秦”）",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c9c030f0e4e11837130814ed508cdd8ca5ef665ff3a31f873f50459c0c506199"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0522",
@@ -35580,9 +35879,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0524",
-          "version": "sha256:919be889266457498b6eea5835879a9a9350dcb61e0ab4b50f26e884a2ac8426",
-          "text": "也如此其甚也，則齊必不欺秦而秦信齊矣。齊、秦合而涇陽君有宋地，則非魏之利也。故王不如復東蘇代秦，",
-          "aliases": []
+          "version": "sha256:a6bbff4464c6cbbc655fda4c209a1d2d7491eb65de5fd86f571adfa8e5b59688",
+          "text": "如此其甚也，則齊必不欺秦而秦信齊矣。齊、秦合而涇陽君有宋地，則非魏之利也。故王不如復東蘇代，",
+          "aliases": [],
+          "sourceText": "也如此其甚也，則齊必不欺秦而秦信齊矣。齊、秦合而涇陽君有宋地，則非魏之利也。故王不如復東蘇代秦，",
+          "correction": {
+            "reason": "“也”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“代也今秦見齊魏之不合〔衍也字〕如此其甚也則齊必”；同上，四库鲍本卷07“故王不如復東蘇代〔使得之齊〕秦必疑齊”，承本章首“元作秦下同”删去“秦”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:a6bbff4464c6cbbc655fda4c209a1d2d7491eb65de5fd86f571adfa8e5b59688"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0525",
@@ -35679,9 +35989,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0535",
-          "version": "sha256:70cb4844ce4f27d242196feb55d3cd6a0dee5f4f0ee8d42e25dd257266d9ce48",
-          "text": "曰。使王輕齊。齊魏之交已醜。",
-          "aliases": []
+          "version": "sha256:3bb767b15eec6f2b291ddc486ef9bdd575ef2beec0b95d9503d458f2a1bf3ea2",
+          "text": "使王輕齊。齊魏之交已醜。",
+          "aliases": [],
+          "sourceText": "曰。使王輕齊。齊魏之交已醜。",
+          "correction": {
+            "reason": "“曰。”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“又且以力攻王又必謂王〔衍曰字〕使王輕齊齊魏之交”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:3bb767b15eec6f2b291ddc486ef9bdd575ef2beec0b95d9503d458f2a1bf3ea2"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0536",
@@ -36031,12 +36352,6 @@
               "textVersion": "sha256:909425d39145608ab9366a1a518718febea42460d5657480b205cde46a28594d"
             }
           }
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0592",
-          "version": "sha256:27d58cfb7bb087aed091b6cfe40297371a713170a85901c94e70d1e46645202f",
-          "text": "齊、",
-          "aliases": []
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0593",
@@ -36478,9 +36793,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0658",
-          "version": "sha256:25588ada593c6879c2819970fa15e13e725fd2ecc2f8b7698e60a7f6daee2c13",
-          "text": "敢合，則王重矣。",
-          "aliases": []
+          "version": "sha256:181906d89e6642e459a31df7486495be22701daa7efb098ee2ccdb1cf718557e",
+          "text": "合，則王重矣。",
+          "aliases": [],
+          "sourceText": "敢合，則王重矣。",
+          "correction": {
+            "reason": "“敢”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“成陽君必不入秦秦韓不〔衍敢字〕合則王重矣安釐王”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:181906d89e6642e459a31df7486495be22701daa7efb098ee2ccdb1cf718557e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0659",
@@ -36550,18 +36876,18 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0670",
-          "version": "sha256:7bed11cf7bbe870e0c916b24a01f1a8c9661817f2925674ababa8bc507081e3c",
-          "text": "也已。願王之必無講也。王若欲講，必少割而有質。",
+          "version": "sha256:735c35c1e12846eecba2875c69ef49f8874e623e1d866b9a52e306495c150bf2",
+          "text": "已。願王之必無講也。王若欲講，必少割而有質。",
           "aliases": [],
           "sourceText": "也巳。願王之必無講也。王若欲講，必少割而有質。",
           "correction": {
-            "reason": "戰國䇿魏卷第七“也已”：底本把“已”误作地支字“巳”（本书底本此类误刻甚多，同书“已”字多数不误）。文意是“已经”“而已”“不得已”之“已”。",
+            "reason": "戰國䇿魏卷第七“也已”：底本把“已”误作地支字“巳”（本书底本此类误刻甚多，同书“已”字多数不误）。文意是“已经”“而已”“不得已”之“已”。；“也”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷07“以復攻則國救亡不可得〔衍也字〕已願王之必無講也”",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:7bed11cf7bbe870e0c916b24a01f1a8c9661817f2925674ababa8bc507081e3c"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:735c35c1e12846eecba2875c69ef49f8874e623e1d866b9a52e306495c150bf2"
             }
           }
         },
@@ -36943,12 +37269,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-520bcc6353939ed5-0722",
-          "version": "sha256:709a41ff38d2cb23142818e35601e8412abf0ff4b0853c940f94304ab5e71b31",
-          "text": "痤",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-520bcc6353939ed5-0723",
           "version": "sha256:7a12ce15d8a01687404e57d451010504e2a1fbbfb974988d5e78b3cb9b453741",
           "text": "薄故也。",
@@ -36964,12 +37284,6 @@
           "id": "p-zhanguoce-520bcc6353939ed5-0726",
           "version": "sha256:f174e10f48dfcfb6b2b2a8712adb03df524b954a05581b91d670535a90768ec9",
           "text": "也。又遺其後相信陵君書曰：夫趙、魏，敵戰之國也。趙王以咫尺之書來，而魏王輕爲之殺無罪之痤。痤雖不肖，故魏之免相",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0727",
-          "version": "sha256:260bd8046266d9bc9d5458d3c700097270bc632be774ab41bf8dce9cf0fd2f7e",
-          "text": "望",
           "aliases": []
         },
         {
@@ -37363,15 +37677,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0782",
-          "version": "sha256:d231a2289214d4425da91186fe91bcf890f4fcee22a6224e373ff6c80bed6127",
-          "text": "王速受楚、趙之約，而挾韓、",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0783",
-          "version": "sha256:b9e2deead0643716ed78d400e5ea503f00725e68784b2f0de59c99b24ce6b180",
-          "text": "魏",
-          "aliases": []
+          "version": "sha256:109e841cba3da753df83b55c03e4f83981b85aebbff30ff9e876159b1544d021",
+          "text": "王速受楚、趙之約，而挾韓",
+          "aliases": [],
+          "sourceText": "王速受楚、趙之約，而挾韓、",
+          "correction": {
+            "reason": "下一段“魏”（鲍注“衍魏字”）撤下，鲍本“而挾韓之質”，去掉“韓”后的顿号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:109e841cba3da753df83b55c03e4f83981b85aebbff30ff9e876159b1544d021"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0784",
@@ -37417,15 +37736,20 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0791",
-          "version": "sha256:dbe4824da64e1146f0e161c71a78ba43cdc69e6b57024de4ea147d0ccea5142e",
-          "text": "楚、趙、",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0792",
-          "version": "sha256:bb1e2a980983d47956fce221cf5e334a6f7cb0ea00e5d30c31976408ccd49491",
-          "text": "楚",
-          "aliases": []
+          "version": "sha256:5501dc376ca38c1e57814fccb0c62375188a7e1cb58c8ce1c9083e083b7726dc",
+          "text": "楚、趙",
+          "aliases": [],
+          "sourceText": "楚、趙、",
+          "correction": {
+            "reason": "下一段“楚”（鲍注“衍楚字”）撤下，鲍本“楚趙大破”，去掉“趙”后的顿号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5501dc376ca38c1e57814fccb0c62375188a7e1cb58c8ce1c9083e083b7726dc"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0793",
@@ -37770,24 +38094,18 @@
         },
         {
           "id": "p-zhanguoce-520bcc6353939ed5-0850",
-          "version": "sha256:66e649185b68250d8fee2363b2a920e154bc586cd2c16cc41abfc8e5076d4111",
-          "text": "曰：王歸寜邑，吾請先天下講",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0851",
-          "version": "sha256:647acf54926ad6d5fe036616d2824d3349b0fa08c2fc25e9803cf34c8ac6a2a5",
-          "text": "魏。",
+          "version": "sha256:e3b5071edee551f903db470c900f31fc16cb38312a01b61458de01056427c338",
+          "text": "曰：王歸寜邑，吾請先天下講。",
           "aliases": [],
-          "sourceText": "搆魏。",
+          "sourceText": "曰：王歸寜邑，吾請先天下講",
           "correction": {
-            "reason": "“搆”是鲍注原字混入，四库鲍本卷07“吾請先天下講〔元從才從冓下同謂與秦講〕魏”",
+            "reason": "下一段“魏。”（鲍注“衍魏字”）整段撤下，原在其后的句号移到本段末",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
               "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
               "reviewedAt": "2026-11-23",
-              "textVersion": "sha256:647acf54926ad6d5fe036616d2824d3349b0fa08c2fc25e9803cf34c8ac6a2a5"
+              "textVersion": "sha256:e3b5071edee551f903db470c900f31fc16cb38312a01b61458de01056427c338"
             }
           }
         },
@@ -38161,12 +38479,6 @@
           "id": "p-zhanguoce-520bcc6353939ed5-0902",
           "version": "sha256:ce098259d9441488c6ecd70ef2498610db351ee562bd00a811a2a6df7e489e50",
           "text": "豈可使吾君有魏患也。乃之使者之舎，刎頸而死。信陵君聞，縮髙死，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-520bcc6353939ed5-0903",
-          "version": "sha256:5f422332783a1f5963c33fb2acecc5fdb4a6cb3fe6dcc2afe9fae4e3a0ee476b",
-          "text": "素",
           "aliases": []
         },
         {
@@ -39707,12 +40019,6 @@
           }
         },
         {
-          "id": "p-zhanguoce-c48fb0c3e418eea0-0146",
-          "version": "sha256:782b9f43ee0db052aedf8b67a71237f461f3e9b8570dcfe61d5868cfb944beea",
-          "text": "為",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0147",
           "version": "sha256:2a63eeac81dbf34cfea7299aa49bea1fe99e89cf4080e50f62f1504bf4ff1f0b",
           "text": "敝邑，秦王必喜。",
@@ -39768,15 +40074,37 @@
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0156",
-          "version": "sha256:414d0ad697214040a1ed3dc2b0783228395898cab0a8f388315ceddf583d48ba",
-          "text": "故使使臣再拜謁",
-          "aliases": []
+          "version": "sha256:9f1ff2772c9b84c8d670bc903fa3d16109b7b3d1a34a4d6f98f5b19757d9bc28",
+          "text": "故使使臣再拜謁。",
+          "aliases": [],
+          "sourceText": "故使使臣再拜謁",
+          "correction": {
+            "reason": "下一段删去衍“秦王。”，原在其后的句号移到本段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:9f1ff2772c9b84c8d670bc903fa3d16109b7b3d1a34a4d6f98f5b19757d9bc28"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0157",
-          "version": "sha256:e40262d5f8d76b3700a15ca55b1d727ac0f4147de55a16375b650b1c39dafc16",
-          "text": "秦王。秦王怒，張儀走。",
-          "aliases": []
+          "version": "sha256:02849dbecc544ab66662d9a159a4b9f0ff644ec8e4e130365f043ba1bb380d69",
+          "text": "秦王怒，張儀走。",
+          "aliases": [],
+          "sourceText": "秦王。秦王怒，張儀走。",
+          "correction": {
+            "reason": "“秦王。”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷08“庸之地故使使臣再拜謁〔强偽為楚使白此於秦下衍秦王字〕秦王怒張儀走宜陽”；鲍本“再拜謁”下无“秦王”，句号移到上一段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:02849dbecc544ab66662d9a159a4b9f0ff644ec8e4e130365f043ba1bb380d69"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0158",
@@ -40014,15 +40342,37 @@
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0199",
-          "version": "sha256:f359061dec8e5154e6329ec0c306ab806c4c0565cea8af1008e71269efd183fc",
-          "text": "以公孫郝、甘茂",
-          "aliases": []
+          "version": "sha256:dba39b9c4c9f664add4f67bcedae799b6108813301fea58a19d4ec7711719f72",
+          "text": "公孫郝、甘茂",
+          "aliases": [],
+          "sourceText": "以公孫郝、甘茂",
+          "correction": {
+            "reason": "“以”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷08“以安之而誅齊魏之罪是〔衍以字〕公孫郝甘茂無事也”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:dba39b9c4c9f664add4f67bcedae799b6108813301fea58a19d4ec7711719f72"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0200",
-          "version": "sha256:cdcfc346161b81ff7b01fc1093c4b6773549c463569116f4386ba86d8993695e",
-          "text": "之無事也。",
-          "aliases": []
+          "version": "sha256:5301f120f07edb5ea5eed8d0d63b391eaed59e45617ca42a8aa1e3ba64b43cd0",
+          "text": "無事也。",
+          "aliases": [],
+          "sourceText": "之無事也。",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷08“齊魏之罪是公孫郝甘茂〔衍之字〕無事也客卿為韓謂”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:5301f120f07edb5ea5eed8d0d63b391eaed59e45617ca42a8aa1e3ba64b43cd0"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0201",
@@ -40098,9 +40448,20 @@
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0213",
-          "version": "sha256:fd065cc74f97f56bf12231e00d3551cb4093131d400c77c30cd543a7711cb0e4",
-          "text": "以燕亡於齊，",
-          "aliases": []
+          "version": "sha256:59704e706ed2ee163367d3cd574768ece6b979290caaf32221a8e90630358166",
+          "text": "燕亡於齊，",
+          "aliases": [],
+          "sourceText": "以燕亡於齊，",
+          "correction": {
+            "reason": "“以”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷08“國西首也所以不者皆曰〔衍以字〕燕亡於齊魏亡於秦”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:59704e706ed2ee163367d3cd574768ece6b979290caaf32221a8e90630358166"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0214",
@@ -40303,12 +40664,6 @@
           "id": "p-zhanguoce-c48fb0c3e418eea0-0248",
           "version": "sha256:c569de5f8e36683d29b1c9b73193db355d2ba4b4c2ed4fb900ff52b4ad9da2a2",
           "text": "求割地而合於魏，是秦輕也。臣以甘茂爲不忠，故不如令韓中立以攻齊。",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-c48fb0c3e418eea0-0249",
-          "version": "sha256:8da1b88af37cfbb3e13ca75fc655dc65ea5a1d11819317a192140a9ad1da9d03",
-          "text": "齊",
           "aliases": []
         },
         {
@@ -40602,12 +40957,6 @@
           }
         },
         {
-          "id": "p-zhanguoce-c48fb0c3e418eea0-0297",
-          "version": "sha256:b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62",
-          "text": "不",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0298",
           "version": "sha256:2e190c014db4de5b5a11eba715a14b94ecb955e339123c6f865ce8295fae139d",
           "text": "善。楚",
@@ -40895,9 +41244,20 @@
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0344",
-          "version": "sha256:6b643824ad36f55fa8e478a7bfd8371c58d29f6226c3df73179f1b5d83312bfa",
-          "text": "以太子",
-          "aliases": []
+          "version": "sha256:3181febfb01e795beb1945e5d171602db5f87518ff9f746d25a14407c3f4c6e2",
+          "text": "太子",
+          "aliases": [],
+          "sourceText": "以太子",
+          "correction": {
+            "reason": "“以”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷08“之魏子有辭以毋戰於是〔衍以字〕太子與昭陽梁王皆”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:3181febfb01e795beb1945e5d171602db5f87518ff9f746d25a14407c3f4c6e2"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0345",
@@ -42148,9 +42508,20 @@
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0536",
-          "version": "sha256:f1a72bc72bffd9627f9c25bfe3eb08eb5441ad3446445005b7b186e313590ce2",
-          "text": "謂強國之事成則有福，不成則無患。然則先與強國者，聖人之計也。",
-          "aliases": []
+          "version": "sha256:49b96bdcbd2257c1464d4aa9e7a24d288d6125bb882dfbc68e6bfaa2e3ed611e",
+          "text": "強國之事成則有福，不成則無患。然則先與強國者，聖人之計也。",
+          "aliases": [],
+          "sourceText": "謂強國之事成則有福，不成則無患。然則先與強國者，聖人之計也。",
+          "correction": {
+            "reason": "“謂”是鲍注混入正文：四库鲍本卷08“今與强國〔今謂韓〕强國之事成則有福”，混入处正是这条注的位置，“謂”是注文第二字；姚本“今【鮑本今，謂韓。】與強國，強國之事成則有福”，两本正文都无“謂”，删去",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:49b96bdcbd2257c1464d4aa9e7a24d288d6125bb882dfbc68e6bfaa2e3ed611e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0537",
@@ -42355,9 +42726,20 @@
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0565",
-          "version": "sha256:77cc865a98e4ab3c0ff47c263e397689ba7c60287894177917db4404d6b381f6",
-          "text": "珉使韓侈之秦，請攻魏，秦王",
-          "aliases": []
+          "version": "sha256:e841906b57430e5e8451844d71f39d7251bbf5a9994f271a5cbf13d3460738df",
+          "text": "使韓侈之秦，請攻魏，秦王",
+          "aliases": [],
+          "sourceText": "珉使韓侈之秦，請攻魏，秦王",
+          "correction": {
+            "reason": "“珉”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷08“君之熟計之也韓相公仲〔衍珉字下同〕使韓侈之秦請攻魏”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:e841906b57430e5e8451844d71f39d7251bbf5a9994f271a5cbf13d3460738df"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c48fb0c3e418eea0-0566",
@@ -42793,9 +43175,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0006",
-          "version": "sha256:4cc19aefc6a4620be89dce745d9f7d0602b568e542d77aba08f7143ecb651ebe",
-          "text": "李兊甚不取於蘇秦。",
-          "aliases": []
+          "version": "sha256:fa408b4011e518607e03f8297a074bd8840e2efa704068f13f9ac15e46592261",
+          "text": "甚不取於蘇秦。",
+          "aliases": [],
+          "sourceText": "李兊甚不取於蘇秦。",
+          "correction": {
+            "reason": "“李兊”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“宋鮑彪注燕文公奉陽君〔衍李兊二字〕甚不取於蘇秦蘇秦”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:fa408b4011e518607e03f8297a074bd8840e2efa704068f13f9ac15e46592261"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0007",
@@ -43026,26 +43419,37 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0043",
-          "version": "sha256:86a7b9c37eae7ae208ce37a11925adf6eb6ff3b1bdbc447449de7b7ea424b9bc",
-          "text": "此皆轉禍而爲福，因敗而爲功者也。王能聽臣，莫如歸燕之十城。卑辭以謝秦。秦知王以己之故歸燕城也，秦必德王。燕無故而得十城，燕亦德王，是棄強仇而立厚交也。且夫燕、秦之俱事齊，則大王號令天下皆從，是王以虚辭附秦，而以十城取天下也，此霸王之業",
+          "version": "sha256:b02d6350e2d778520a172f12ad4f11068bd166162231a8a7a0878461939df0bd",
+          "text": "此皆轉禍而爲福，因敗而爲功者也。王能聽臣，莫如歸燕之十城。卑辭以謝秦。秦知王以己之故歸燕城也，秦必德王。燕無故而得十城，燕亦德王，是棄強仇而立厚交也。且夫燕、秦之俱事齊，則大王號令天下皆從，是王以虚辭附秦，而以十城取天下也，此霸王之業。",
           "aliases": [],
           "sourceText": "此皆轉禍而爲福，因敗而爲功者也。王能聽臣，莫如歸燕之十城。卑辭以謝秦。秦知王以已之故歸燕城也，秦必德王。燕無故而得十城，燕亦德王，是棄強仇而立厚交也。且夫燕、秦之俱事齊，則大王號令天下皆從，是王以虚辭附秦，而以十城取天下也，此霸王之業",
           "correction": {
-            "reason": "燕策“秦知王以己之故归燕城也”：底本“已”是“己”的形近误字。维基文库《戰國策》（鮑彪注，四庫全書本）卷09作“以己之故”。",
+            "reason": "燕策“秦知王以己之故归燕城也”：底本“已”是“己”的形近误字。维基文库《戰國策》（鮑彪注，四庫全書本）卷09作“以己之故”。；下一段删去衍“矣”，原在其后的句号移到本段末",
             "review": {
               "status": "reviewed",
               "author": "Claude (AI)",
-              "reviewer": "Claude (AI)；经 nickwang5h 授权修订，未经人工逐条复核",
-              "reviewedAt": "2026-10-20",
-              "textVersion": "sha256:86a7b9c37eae7ae208ce37a11925adf6eb6ff3b1bdbc447449de7b7ea424b9bc"
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:b02d6350e2d778520a172f12ad4f11068bd166162231a8a7a0878461939df0bd"
             }
           }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0044",
-          "version": "sha256:0807609efdbb1f7e758b15926685ff3238889e7b5096fb7a907d26bfa0b3b19b",
-          "text": "矣。所謂轉禍爲福，因敗成功者也。齊王大說，乃歸燕城，以金千斤謝其後，頓首塗中，",
-          "aliases": []
+          "version": "sha256:d2b958062599655eb71ec9c6a48a070296853d9e2deb1ba1640f9109e063d440",
+          "text": "所謂轉禍爲福，因敗成功者也。齊王大說，乃歸燕城，以金千斤謝其後，頓首塗中，",
+          "aliases": [],
+          "sourceText": "矣。所謂轉禍爲福，因敗成功者也。齊王大說，乃歸燕城，以金千斤謝其後，頓首塗中，",
+          "correction": {
+            "reason": "“矣”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“城取天下也此霸王之業〔衍矣字〕所謂轉禍為福因敗”；句号移到上一段末",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:d2b958062599655eb71ec9c6a48a070296853d9e2deb1ba1640f9109e063d440"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0045",
@@ -43073,9 +43477,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0049",
-          "version": "sha256:0258d6fdd1b10dca37c64ce088ddf9f396f580e51007dfd5272b077e0c7e85a1",
-          "text": "蘇秦曰：且夫孝如曽參，義不離親，一夕於外，足下安得使之之齊？廉如伯夷？不取素飱，",
-          "aliases": []
+          "version": "sha256:466412386d73af58113dcd30beac23558b088daad849778715247158d42eee59",
+          "text": "且夫孝如曽參，義不離親，一夕於外，足下安得使之之齊？廉如伯夷？不取素飱，",
+          "aliases": [],
+          "sourceText": "蘇秦曰：且夫孝如曽參，義不離親，一夕於外，足下安得使之之齊？廉如伯夷？不取素飱，",
+          "correction": {
+            "reason": "“蘇秦曰：”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“曰有此臣亦不事足下矣〔衍蘇秦曰三字〕且夫孝如曾參義不”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:466412386d73af58113dcd30beac23558b088daad849778715247158d42eee59"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0050",
@@ -43120,12 +43535,6 @@
           "aliases": []
         },
         {
-          "id": "p-zhanguoce-1b887ad8c44a337a-0057",
-          "version": "sha256:bb1e2a980983d47956fce221cf5e334a6f7cb0ea00e5d30c31976408ccd49491",
-          "text": "楚",
-          "aliases": []
-        },
-        {
           "id": "p-zhanguoce-1b887ad8c44a337a-0058",
           "version": "sha256:6333d938efada05d1dacf77d65cf75cb728c62f6724ea2fff2f068d7b30b8c0e",
           "text": "境，不窺於邊城之外。且臣有老母於周，離老母而事足下，去自覆之術而謀進取之道，臣之趣固不與足下合者，足下皆自覆之君也。僕者，進取之臣也。所謂以忠信得罪於君者也。燕王曰：夫忠信何得罪之有也。對曰：足下不知也。臣鄰家有逺爲吏者，其妻𥝠人，其夫且歸，其𥝠之者憂之。其妻曰：公勿憂也，吾已爲藥酒以待之矣。後二日，夫至，妻使妾奉巵酒進之。妾知其爲藥酒也，進之則殺主父。言之則逐主母。乃陽僵棄酒。主父大怒而笞之。",
@@ -43162,9 +43571,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0062",
-          "version": "sha256:5013004ef6c2ca33b5fba6e81873e39aa6f2f3050256c6940d643fc1c256d1f3",
-          "text": "之說齊者，莫如臣之言也。雖堯、舜之智，不敢取也。",
-          "aliases": []
+          "version": "sha256:fdd176e1e2287dc5762b949a2accdfa474d8701ec0b89ef49028248cf735b1ce",
+          "text": "說齊者，莫如臣之言也。雖堯、舜之智，不敢取也。",
+          "aliases": [],
+          "sourceText": "之說齊者，莫如臣之言也。雖堯、舜之智，不敢取也。",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“臣之説齊曾不欺之也使〔衍之字〕説齊者莫如臣之言”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:fdd176e1e2287dc5762b949a2accdfa474d8701ec0b89ef49028248cf735b1ce"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0063",
@@ -43411,9 +43831,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0099",
-          "version": "sha256:839de23440c3af69f60d7b780caee9cf8a9e4bdd05592fb3471ca37db4a0d02b",
-          "text": "之欲以駿馬見於王，",
-          "aliases": []
+          "version": "sha256:c0dc19e25249099510feceaac1a8d23153ca0c879e6c53184c328baa0081f207",
+          "text": "欲以駿馬見於王，",
+          "aliases": [],
+          "sourceText": "之欲以駿馬見於王，",
+          "correction": {
+            "reason": "“之”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“之一旦而馬價十倍今臣〔衍之字〕欲以駿馬見於王莫”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:c0dc19e25249099510feceaac1a8d23153ca0c879e6c53184c328baa0081f207"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0100",
@@ -43607,9 +44038,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0129",
-          "version": "sha256:f67fb793adbb9b552f12bb6a63cbb6ef56ca13c245ec166ee080888015a1adcd",
-          "text": "宣王何如？對曰：必不霸。燕王曰：何也？對曰：不信其臣。蘇代欲以激燕王以厚任子之也。於是燕王大信子之。子之因遺蘇代百金，聽其所使。鹿毛壽",
-          "aliases": []
+          "version": "sha256:7d8a3c914c9b089b49408ca624463ac664b5435d6556140d52107731b5d86ce7",
+          "text": "王何如？對曰：必不霸。燕王曰：何也？對曰：不信其臣。蘇代欲以激燕王以厚任子之也。於是燕王大信子之。子之因遺蘇代百金，聽其所使。鹿毛壽",
+          "aliases": [],
+          "sourceText": "宣王何如？對曰：必不霸。燕王曰：何也？對曰：不信其臣。蘇代欲以激燕王以厚任子之也。於是燕王大信子之。子之因遺蘇代百金，聽其所使。鹿毛壽",
+          "correction": {
+            "reason": "“宣”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“齊使於燕燕王問之曰齊〔衍宣字〕王何如對曰必不霸”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:7d8a3c914c9b089b49408ca624463ac664b5435d6556140d52107731b5d86ce7"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0130",
@@ -44683,15 +45125,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0284",
-          "version": "sha256:72bb11f1c2379e207025021d5bcb440092bbb3edbdbf9c254b35920fa4180c69",
-          "text": "如齊王，",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1b887ad8c44a337a-0285",
-          "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
-          "text": "王",
-          "aliases": []
+          "version": "sha256:584247ca1d81266fe03af977368c3c229a18d6d0b04eaef7ca56e303e0d2d1cc",
+          "text": "如齊王",
+          "aliases": [],
+          "sourceText": "如齊王，",
+          "correction": {
+            "reason": "下一段“王”（鲍注“衍王字”）撤下，鲍本“如齊王之不信趙”，去掉“齊王”后的逗号",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:584247ca1d81266fe03af977368c3c229a18d6d0b04eaef7ca56e303e0d2d1cc"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0286",
@@ -44785,9 +45232,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0301",
-          "version": "sha256:0ad28f750f9f0afe510ae44bdcf654164c2222641d9afb68742a111d1aa2a7b8",
-          "text": "知，是則近於相攻也。臣雖爲之，不𥙷累。燕",
-          "aliases": []
+          "version": "sha256:01bddf233ce1a561f979823ce22c4358a85f205faaedc8b1e89f8c62bba88838",
+          "text": "知，是則近於相攻也。臣雖爲之，不累燕。",
+          "aliases": [],
+          "sourceText": "知，是則近於相攻也。臣雖爲之，不𥙷累。燕",
+          "correction": {
+            "reason": "“𥙷”（補）是鲍注混入正文：四库鲍本卷09“臣雖為之不〔補〕累燕”，注“補”是说“不”字是鲍彪补的；姚本正文“臣雖為之累燕”，录鲍注“「累」上補「不」字”，两本正文都无“補”，删去；删去混入的“𥙷”后句读随动：四库鲍本卷09“臣雖為之不累燕奉陽君告朱讙曰”，姚本“臣雖為之累燕，奉陽君告朱讙曰”，“燕”是“累”的宾语，句号移到“燕”后",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:01bddf233ce1a561f979823ce22c4358a85f205faaedc8b1e89f8c62bba88838"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0302",
@@ -45108,12 +45566,6 @@
           "id": "p-zhanguoce-1b887ad8c44a337a-0355",
           "version": "sha256:9c15376d35d067bab88eabbd1b4a86a21e1d80bbc080be9836ac12fc7058b10a",
           "text": "及五年，斉數出兵，未甞謀燕。齊、趙之交，一合一離。燕",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1b887ad8c44a337a-0356",
-          "version": "sha256:3399a0e651ad104cd1f53cd0c44d08b70c6c2e8e1eba56f2d244368264322118",
-          "text": "王",
           "aliases": []
         },
         {
@@ -46318,9 +46770,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0545",
-          "version": "sha256:b039a16aed22df4f0397d2b2f969bc4bf731756e0833f18461fecb92ef4fef79",
-          "text": "曰：願圖國事於先生。田光曰：敬奉教。乃造焉。太子跪而逢迎，却行爲道，",
-          "aliases": []
+          "version": "sha256:7ba2b1498270e35ecb3e48aeda5560712e0985dbdcfc28f1bdbc513657ce39ca",
+          "text": "願圖國事於先生。田光曰：敬奉教。乃造焉。太子跪而逢迎，却行爲道，",
+          "aliases": [],
+          "sourceText": "曰：願圖國事於先生。田光曰：敬奉教。乃造焉。太子跪而逢迎，却行爲道，",
+          "correction": {
+            "reason": "“曰：”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“曰敬諾出見田光道太子〔衍曰字〕願圖國事於先生田”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:7ba2b1498270e35ecb3e48aeda5560712e0985dbdcfc28f1bdbc513657ce39ca"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0546",
@@ -46336,9 +46799,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0548",
-          "version": "sha256:df1dc19572a77e307aa9f46b5867901342e20d20f70ce406b58add73d8d6ed1d",
-          "text": "願交荆軻，可乎？田光曰：敬諾。則起趨出。",
-          "aliases": []
+          "version": "sha256:0916df4e83e4db9492a93855b3f7499fdd402ad6d0cbf0eb4798c1399e2c248e",
+          "text": "交荆軻，可乎？田光曰：敬諾。則起趨出。",
+          "aliases": [],
+          "sourceText": "願交荆軻，可乎？田光曰：敬諾。則起趨出。",
+          "correction": {
+            "reason": "“願”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“使也太子曰願因先生得〔衍願字〕交荆軻可乎田光曰”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:0916df4e83e4db9492a93855b3f7499fdd402ad6d0cbf0eb4798c1399e2c248e"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0549",
@@ -46472,9 +46946,20 @@
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0567",
-          "version": "sha256:14192316da3d121012d73c9a057cb324c859af81c1ff30e0623e7b26e94bf5d1",
-          "text": "今樊將軍，秦王購之金千斤，邑萬家。誠得樊將軍首與燕督亢之地圖",
-          "aliases": []
+          "version": "sha256:2b8016c5d23985fb848a32d793da1856d9dd325047d5383fc0fa991871473db5",
+          "text": "樊將軍，秦王購之金千斤，邑萬家。誠得樊將軍首與燕督亢之地圖",
+          "aliases": [],
+          "sourceText": "今樊將軍，秦王購之金千斤，邑萬家。誠得樊將軍首與燕督亢之地圖",
+          "correction": {
+            "reason": "“今”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷09“而無信則秦未可親也夫〔衍今字〕樊將軍秦王購之金”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:2b8016c5d23985fb848a32d793da1856d9dd325047d5383fc0fa991871473db5"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-1b887ad8c44a337a-0568",
@@ -46676,12 +47161,6 @@
           "id": "p-zhanguoce-1b887ad8c44a337a-0598",
           "version": "sha256:d6196918dc87a9c78a0b40a031d1069e0dcf831d460894a27c56011fdbe1bc23",
           "text": "秦王方環柱走，卒惶急不知所為，左右乃曰：王負劒，王負劒！遂㧞以擊荆軻，㫁其左股。荆軻廢，乃引其匕首以提",
-          "aliases": []
-        },
-        {
-          "id": "p-zhanguoce-1b887ad8c44a337a-0599",
-          "version": "sha256:689af6a57f63da56808e857b548230a7a32c8289cf0ad30bf6738505313b3836",
-          "text": "擿",
           "aliases": []
         },
         {
@@ -47058,9 +47537,20 @@
         },
         {
           "id": "p-zhanguoce-c3a3a8e25e8144dc-0051",
-          "version": "sha256:d78ce0d08c949776b4cd02dda695b4b3ecb53b0e6d1f096570458aea71bb6987",
-          "text": "康王之時，",
-          "aliases": []
+          "version": "sha256:9ea2bab0154acd551bd7fc9fc6a923ccd3e1fc672dcf8a690a987056cbd3aad5",
+          "text": "王之時，",
+          "aliases": [],
+          "sourceText": "康王之時，",
+          "correction": {
+            "reason": "“康”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷10“五城而荆王不至君偃宋〔衍康字下同〕王之時有雀生□於”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:9ea2bab0154acd551bd7fc9fc6a923ccd3e1fc672dcf8a690a987056cbd3aad5"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c3a3a8e25e8144dc-0052",
@@ -47082,9 +47572,20 @@
         },
         {
           "id": "p-zhanguoce-c3a3a8e25e8144dc-0055",
-          "version": "sha256:0f3be05ff0ec05fa0fd69e7ac6070f1d519c2133ebc110f36d04c795ea8f54c0",
-          "text": "康王大喜，於是滅滕",
-          "aliases": []
+          "version": "sha256:4528fee3f2d676879377faa5c6797cc77365b7256622ac034b228cf1e1c214ce",
+          "text": "王大喜，於是滅滕",
+          "aliases": [],
+          "sourceText": "康王大喜，於是滅滕",
+          "correction": {
+            "reason": "“康”是鲍彪当衍文删去、底本复出的字，删去留鲍本正文；据四库鲍本卷10“五城而荆王不至君偃宋〔衍康字下同〕王之時有雀生□於”；注云“下同”，四库鲍本此处作“生巨必霸天下王大喜”",
+            "review": {
+              "status": "reviewed",
+              "author": "Claude (AI)",
+              "reviewer": "Claude (AI)，逐条对照维基文库等对校本并取第二依据；经 nickwang5h 授权修订，未经人工逐条复核",
+              "reviewedAt": "2026-11-23",
+              "textVersion": "sha256:4528fee3f2d676879377faa5c6797cc77365b7256622ac034b228cf1e1c214ce"
+            }
+          }
         },
         {
           "id": "p-zhanguoce-c3a3a8e25e8144dc-0056",

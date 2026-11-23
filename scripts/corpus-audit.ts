@@ -72,8 +72,8 @@ if(process.argv.includes('--check')){
  const worse:string[]=[];
  for(const row of rows){
   const old=before.find(b=>b.id===row.id);
-  if(!old)continue;
-  for(const d of DEFECTS)if(row.defects[d]>(old.defects[d]??0))worse.push(`${row.id}: ${d} ${old.defects[d]??0} → ${row.defects[d]}`);
+  // A book the record has not seen starts from zero: it must come in clean or be recorded on purpose.
+  for(const d of DEFECTS)if(row.defects[d]>(old?.defects[d]??0))worse.push(`${row.id}: ${d} ${old?.defects[d]??0} → ${row.defects[d]}`);
  }
  if(worse.length){console.error(worse.join('\n'));throw new Error(`${worse.length} counts got worse than corpus/quality.json; fix the text or, if the new count is right, run corpus:audit to record it`);}
  console.log(`Quality audit: ${rows.length} books, no count worse than recorded.`);
