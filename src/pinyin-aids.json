@@ -21867,7 +21867,7 @@
     {
         "id": "p-hongloumeng-fd3febf13ed09456-0002-pinyin-2949-2978",
         "target": "p-hongloumeng-fd3febf13ed09456-0002",
-        "version": "sha256:d4cd92c23ed532d8bdc5613f8e61d15966d58b9b4ead397918e45d14a45544a8",
+        "version": "sha256:e111ae3ea8b01a1a1c11c4d7d3186a81d3226bd6d6ac85136740d5677c4f1016",
         "kind": "pinyin",
         "start": 2949,
         "end": 2978,
@@ -22032,7 +22032,7 @@
         "review": {
             "status": "draft",
             "author": "Claude (AI)",
-            "textVersion": "sha256:d4cd92c23ed532d8bdc5613f8e61d15966d58b9b4ead397918e45d14a45544a8"
+            "textVersion": "sha256:e111ae3ea8b01a1a1c11c4d7d3186a81d3226bd6d6ac85136740d5677c4f1016"
         },
         "rights": {
             "author": "Claude (AI)",
