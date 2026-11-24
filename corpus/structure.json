@@ -7757,6 +7757,65 @@
       "chapter": "chapter-lujiuyuanji-9edd757b265d9e68",
       "title": "目录",
       "reason": "本章合并后是四库本《象山集》的全部目录；原题“卷一”是目录里卷一那一行。"
+    },
+    {
+      "op": "withdraw-run",
+      "chapter": "chapter-lujiuyuanji-50bfd8b994df7f68-02",
+      "paragraphs": [
+        "p-lujiuyuanji-50bfd8b994df7f68-0240"
+      ],
+      "reason": "底本错简：本段“流不长进亦甚……塞时皆塞【原阙】”是语录的文字（四部丛刊本《象山先生全集》卷三十五，10-09.djvu/72），四库本错入卷二《与吴显仲》；文字已由订正清单移回语录卷四 0597，本段撤下，末尾【原阙】所指的《与吴显仲》后文已据丛刊本补入 0239。"
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-lujiuyuanji-536b2ed7b785686a-03",
+      "after": "p-lujiuyuanji-536b2ed7b785686a-0107",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=982189",
+      "paragraphs": [
+        {
+          "id": "p-lujiuyuanji-536b2ed7b785686a-a0001",
+          "text": "〔二〕"
+        }
+      ],
+      "reason": "四部丛刊本《象山先生全集》卷十一《與李宰》二首（目录作“與李宰二”），第二书前标“二”（Page:Sibu Congkan1160-陸九淵-象山先生全集-10-03.djvu/140）；四库本第二书前半脱去、后半错入卷二，补回书次标题，下接移回的 0241。"
+    },
+    {
+      "op": "relocate",
+      "chapter": "chapter-lujiuyuanji-536b2ed7b785686a-03",
+      "from": "chapter-lujiuyuanji-50bfd8b994df7f68-02",
+      "paragraphs": [
+        "p-lujiuyuanji-50bfd8b994df7f68-0241"
+      ],
+      "after": "p-lujiuyuanji-536b2ed7b785686a-a0001",
+      "reason": "底本错简：本段“最大。《洪范》曰……当迟后便”是《与李宰》第二书的后半，四部丛刊本在卷十一（10-03.djvu/141–145），四库本错入卷二《与吴显仲》之后；移回卷十一《与李宰》第二书标题下，前半据丛刊本补入（订正清单）。"
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-lujiuyuanji-50bfd8b994df7f68-02",
+      "after": "p-lujiuyuanji-50bfd8b994df7f68-0239",
+      "source": "https://zh.wikisource.org/w/index.php?oldid=2228885",
+      "paragraphs": [
+        {
+          "id": "p-lujiuyuanji-50bfd8b994df7f68-a0001",
+          "text": "〔二〕"
+        },
+        {
+          "id": "p-lujiuyuanji-50bfd8b994df7f68-a0002",
+          "text": "〔得书读之，其辞与乡时书辞不相类，尽平常妥帖，无甚病痛，但恐亦是偶然耳。若果如此，自能随时学问，不患无益；纵无甚益，亦不至有甚缪戾也。况朝夕得亲炙黄丈，又得与济先相处，不可谓乏师友也。包显道归，遣此为复，莫究所欲言，惟勉学自爱。〕"
+        }
+      ],
+      "reason": "四库本目录作“与吴显仲二首”，正文只存第一书的开头；据四部丛刊本《象山先生全集》卷二《與吴顯仲》补第二书“得书读之……惟勉学自爱”96字（Page:Sibu Congkan1158-陸九淵-象山先生全集-10-01.djvu/140，末二十余字在 /141，oldid 1483616），以〔〕标出。"
+    },
+    {
+      "op": "relocate",
+      "chapter": "chapter-lujiuyuanji-a3a5a59b0605c050-10",
+      "from": "chapter-lujiuyuanji-a3a5a59b0605c050-12",
+      "paragraphs": [
+        "p-lujiuyuanji-a3a5a59b0605c050-0458",
+        "p-lujiuyuanji-a3a5a59b0605c050-0459"
+      ],
+      "after": "p-lujiuyuanji-a3a5a59b0605c050-0275",
+      "reason": "底本错简：0458“圣人作《春秋》……尤甚于诸经也”、0459“……不可遽谓千里”两条，四部丛刊本在卷三十四语录“曾不知孟子之意自不在此”之后、“吾扵人情研究得到”之前（10-08.djvu/88–90），即四库本语录卷一 0275 与 0276 之间（四库本该处标“原阙”）；四库本错入语录卷三，移回。"
     }
   ]
 }
