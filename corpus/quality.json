@@ -1,7 +1,7 @@
 {
  "total": {
-  "privateUse": 189,
-  "placeholder": 213,
+  "privateUse": 180,
+  "placeholder": 209,
   "composite": 91,
   "sourceTag": 423,
   "halfWidth": 11,
@@ -9,7 +9,7 @@
   "kana": 2,
   "innerSpace": 3544,
   "unbalancedChapters": 572,
-  "unpunctuatedChapters": 12
+  "unpunctuatedChapters": 13
  },
  "books": [
   {
@@ -737,11 +737,11 @@
    "title": "陸九淵集",
    "provider": "daizhige",
    "script": "简",
-   "characters": 207778,
+   "characters": 208489,
    "punctuationPer100": 16.6,
    "defects": {
     "privateUse": 0,
-    "placeholder": 3,
+    "placeholder": 0,
     "composite": 0,
     "sourceTag": 0,
     "halfWidth": 0,
@@ -749,7 +749,7 @@
     "kana": 0,
     "innerSpace": 133,
     "unbalancedChapters": 0,
-    "unpunctuatedChapters": 0
+    "unpunctuatedChapters": 1
    }
   },
   {
@@ -1417,11 +1417,11 @@
    "title": "王文成公全書",
    "provider": "daizhige",
    "script": "简",
-   "characters": 676791,
+   "characters": 676801,
    "punctuationPer100": 15.5,
    "defects": {
-    "privateUse": 20,
-    "placeholder": 1,
+    "privateUse": 11,
+    "placeholder": 0,
     "composite": 0,
     "sourceTag": 0,
     "halfWidth": 0,
@@ -1858,7 +1858,7 @@
    "provider": "zhwikisource",
    "script": "繁",
    "characters": 71585,
-   "punctuationPer100": 21.3,
+   "punctuationPer100": 21.7,
    "defects": {
     "privateUse": 0,
     "placeholder": 0,

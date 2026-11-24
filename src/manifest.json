@@ -8661,31 +8661,223 @@
       {
         "id": "chapter-lujiuyuanji-9edd757b265d9e68",
         "number": 2,
-        "title": "卷一",
+        "title": "目录",
         "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
       },
       {
         "id": "chapter-lujiuyuanji-50bfd8b994df7f68",
         "number": 3,
+        "title": "卷一",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-02",
+        "number": 4,
+        "title": "卷二",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-03",
+        "number": 5,
+        "title": "卷三",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-04",
+        "number": 6,
+        "title": "卷四",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-05",
+        "number": 7,
+        "title": "卷五",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-06",
+        "number": 8,
         "title": "卷六",
         "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
       },
       {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-07",
+        "number": 9,
+        "title": "卷七",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-50bfd8b994df7f68-08",
+        "number": 10,
+        "title": "卷八",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
         "id": "chapter-lujiuyuanji-536b2ed7b785686a",
-        "number": 4,
-        "title": "象山集卷八",
+        "number": 11,
+        "title": "卷九",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-02",
+        "number": 12,
+        "title": "卷十",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-03",
+        "number": 13,
+        "title": "卷十一",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-04",
+        "number": 14,
+        "title": "卷十二",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-05",
+        "number": 15,
+        "title": "卷十三",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-06",
+        "number": 16,
+        "title": "卷十四",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-07",
+        "number": 17,
+        "title": "卷十五",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-08",
+        "number": 18,
+        "title": "卷十六",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-09",
+        "number": 19,
+        "title": "卷十七",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-10",
+        "number": 20,
+        "title": "卷十八",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-11",
+        "number": 21,
+        "title": "卷十九",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-536b2ed7b785686a-12",
+        "number": 22,
+        "title": "卷二十",
         "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
       },
       {
         "id": "chapter-lujiuyuanji-6e8526305e9df05b",
-        "number": 5,
-        "title": "象山集卷二十",
+        "number": 23,
+        "title": "卷二十一",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-6e8526305e9df05b-02",
+        "number": 24,
+        "title": "卷二十二",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-6e8526305e9df05b-03",
+        "number": 25,
+        "title": "卷二十三",
         "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
       },
       {
         "id": "chapter-lujiuyuanji-a3a5a59b0605c050",
-        "number": 6,
-        "title": "象山集卷二十三",
+        "number": 26,
+        "title": "卷二十四",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-02",
+        "number": 27,
+        "title": "卷二十五",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-03",
+        "number": 28,
+        "title": "卷二十六",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-04",
+        "number": 29,
+        "title": "卷二十七",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-05",
+        "number": 30,
+        "title": "卷二十八",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-06",
+        "number": 31,
+        "title": "外集卷一",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-07",
+        "number": 32,
+        "title": "外集卷二",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-08",
+        "number": 33,
+        "title": "外集卷三",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-09",
+        "number": 34,
+        "title": "外集卷四",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-10",
+        "number": 35,
+        "title": "语录卷一",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-11",
+        "number": 36,
+        "title": "语录卷二",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-12",
+        "number": 37,
+        "title": "语录卷三",
+        "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
+      },
+      {
+        "id": "chapter-lujiuyuanji-a3a5a59b0605c050-13",
+        "number": 38,
+        "title": "语录卷四",
         "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt"
       }
     ]

@@ -7340,5 +7340,423 @@
       ],
       "reason": "0078（阮德如答诗第二首）段末混进下一组诗题目“酒会诗七首”（底本四库本把题目接在“聊以酬来章”后同一行）；四部叢刊本卷第一目录“酒會詩七首”另列一题。题目文字照底本取出，单列一段放在 0078 之后、0079“乐哉苑中游”之前；0078 段末的题目文字由订正清单同时删去。"
     }
+  ],
+  "lujiuyuanji": [
+    {
+      "op": "relocate",
+      "chapter": "chapter-lujiuyuanji-9edd757b265d9e68",
+      "from": "chapter-lujiuyuanji-cfa5e7757656593e",
+      "paragraphs": [
+        "p-lujiuyuanji-cfa5e7757656593e-0013",
+        "p-lujiuyuanji-cfa5e7757656593e-0014"
+      ],
+      "reason": "“钦定四库全书 象山集目録”两行是目录的卷首题行，随目录归入目录一章，卷首一章只留提要和三篇序跋。"
+    },
+    {
+      "op": "relocate",
+      "chapter": "chapter-lujiuyuanji-9edd757b265d9e68",
+      "from": "chapter-lujiuyuanji-50bfd8b994df7f68",
+      "after": "p-lujiuyuanji-9edd757b265d9e68-0033",
+      "paragraphs": [
+        "p-lujiuyuanji-50bfd8b994df7f68-0001",
+        "p-lujiuyuanji-50bfd8b994df7f68-0002",
+        "p-lujiuyuanji-50bfd8b994df7f68-0003",
+        "p-lujiuyuanji-50bfd8b994df7f68-0004",
+        "p-lujiuyuanji-50bfd8b994df7f68-0005",
+        "p-lujiuyuanji-50bfd8b994df7f68-0006",
+        "p-lujiuyuanji-50bfd8b994df7f68-0007",
+        "p-lujiuyuanji-50bfd8b994df7f68-0008",
+        "p-lujiuyuanji-50bfd8b994df7f68-0009",
+        "p-lujiuyuanji-50bfd8b994df7f68-0010",
+        "p-lujiuyuanji-50bfd8b994df7f68-0011",
+        "p-lujiuyuanji-50bfd8b994df7f68-0012",
+        "p-lujiuyuanji-50bfd8b994df7f68-0013",
+        "p-lujiuyuanji-50bfd8b994df7f68-0014",
+        "p-lujiuyuanji-50bfd8b994df7f68-0015",
+        "p-lujiuyuanji-50bfd8b994df7f68-0016",
+        "p-lujiuyuanji-50bfd8b994df7f68-0017",
+        "p-lujiuyuanji-50bfd8b994df7f68-0018",
+        "p-lujiuyuanji-50bfd8b994df7f68-0019",
+        "p-lujiuyuanji-50bfd8b994df7f68-0020",
+        "p-lujiuyuanji-50bfd8b994df7f68-0021",
+        "p-lujiuyuanji-50bfd8b994df7f68-0022",
+        "p-lujiuyuanji-50bfd8b994df7f68-0023",
+        "p-lujiuyuanji-50bfd8b994df7f68-0024",
+        "p-lujiuyuanji-50bfd8b994df7f68-0025",
+        "p-lujiuyuanji-50bfd8b994df7f68-0026",
+        "p-lujiuyuanji-50bfd8b994df7f68-0027",
+        "p-lujiuyuanji-50bfd8b994df7f68-0028",
+        "p-lujiuyuanji-50bfd8b994df7f68-0029",
+        "p-lujiuyuanji-50bfd8b994df7f68-0030",
+        "p-lujiuyuanji-50bfd8b994df7f68-0031",
+        "p-lujiuyuanji-50bfd8b994df7f68-0032",
+        "p-lujiuyuanji-50bfd8b994df7f68-0033",
+        "p-lujiuyuanji-50bfd8b994df7f68-0034",
+        "p-lujiuyuanji-50bfd8b994df7f68-0035",
+        "p-lujiuyuanji-50bfd8b994df7f68-0036",
+        "p-lujiuyuanji-50bfd8b994df7f68-0037",
+        "p-lujiuyuanji-50bfd8b994df7f68-0038",
+        "p-lujiuyuanji-50bfd8b994df7f68-0039",
+        "p-lujiuyuanji-50bfd8b994df7f68-0040",
+        "p-lujiuyuanji-50bfd8b994df7f68-0041",
+        "p-lujiuyuanji-50bfd8b994df7f68-0042",
+        "p-lujiuyuanji-50bfd8b994df7f68-0043",
+        "p-lujiuyuanji-50bfd8b994df7f68-0044",
+        "p-lujiuyuanji-50bfd8b994df7f68-0045",
+        "p-lujiuyuanji-50bfd8b994df7f68-0046",
+        "p-lujiuyuanji-50bfd8b994df7f68-0047",
+        "p-lujiuyuanji-50bfd8b994df7f68-0048",
+        "p-lujiuyuanji-50bfd8b994df7f68-0049",
+        "p-lujiuyuanji-50bfd8b994df7f68-0050",
+        "p-lujiuyuanji-50bfd8b994df7f68-0051",
+        "p-lujiuyuanji-50bfd8b994df7f68-0052",
+        "p-lujiuyuanji-50bfd8b994df7f68-0053",
+        "p-lujiuyuanji-50bfd8b994df7f68-0054",
+        "p-lujiuyuanji-50bfd8b994df7f68-0055",
+        "p-lujiuyuanji-50bfd8b994df7f68-0056",
+        "p-lujiuyuanji-50bfd8b994df7f68-0057",
+        "p-lujiuyuanji-50bfd8b994df7f68-0058",
+        "p-lujiuyuanji-50bfd8b994df7f68-0059",
+        "p-lujiuyuanji-50bfd8b994df7f68-0060",
+        "p-lujiuyuanji-50bfd8b994df7f68-0061",
+        "p-lujiuyuanji-50bfd8b994df7f68-0062",
+        "p-lujiuyuanji-50bfd8b994df7f68-0063",
+        "p-lujiuyuanji-50bfd8b994df7f68-0064",
+        "p-lujiuyuanji-50bfd8b994df7f68-0065",
+        "p-lujiuyuanji-50bfd8b994df7f68-0066",
+        "p-lujiuyuanji-50bfd8b994df7f68-0067",
+        "p-lujiuyuanji-50bfd8b994df7f68-0068",
+        "p-lujiuyuanji-50bfd8b994df7f68-0069",
+        "p-lujiuyuanji-50bfd8b994df7f68-0070",
+        "p-lujiuyuanji-50bfd8b994df7f68-0071",
+        "p-lujiuyuanji-50bfd8b994df7f68-0072",
+        "p-lujiuyuanji-50bfd8b994df7f68-0073",
+        "p-lujiuyuanji-50bfd8b994df7f68-0074",
+        "p-lujiuyuanji-50bfd8b994df7f68-0075",
+        "p-lujiuyuanji-50bfd8b994df7f68-0076",
+        "p-lujiuyuanji-50bfd8b994df7f68-0077",
+        "p-lujiuyuanji-50bfd8b994df7f68-0078",
+        "p-lujiuyuanji-50bfd8b994df7f68-0079",
+        "p-lujiuyuanji-50bfd8b994df7f68-0080",
+        "p-lujiuyuanji-50bfd8b994df7f68-0081",
+        "p-lujiuyuanji-50bfd8b994df7f68-0082",
+        "p-lujiuyuanji-50bfd8b994df7f68-0083",
+        "p-lujiuyuanji-50bfd8b994df7f68-0084",
+        "p-lujiuyuanji-50bfd8b994df7f68-0085",
+        "p-lujiuyuanji-50bfd8b994df7f68-0086",
+        "p-lujiuyuanji-50bfd8b994df7f68-0087",
+        "p-lujiuyuanji-50bfd8b994df7f68-0088",
+        "p-lujiuyuanji-50bfd8b994df7f68-0089",
+        "p-lujiuyuanji-50bfd8b994df7f68-0090",
+        "p-lujiuyuanji-50bfd8b994df7f68-0091",
+        "p-lujiuyuanji-50bfd8b994df7f68-0092",
+        "p-lujiuyuanji-50bfd8b994df7f68-0093",
+        "p-lujiuyuanji-50bfd8b994df7f68-0094",
+        "p-lujiuyuanji-50bfd8b994df7f68-0095",
+        "p-lujiuyuanji-50bfd8b994df7f68-0096",
+        "p-lujiuyuanji-50bfd8b994df7f68-0097",
+        "p-lujiuyuanji-50bfd8b994df7f68-0098",
+        "p-lujiuyuanji-50bfd8b994df7f68-0099",
+        "p-lujiuyuanji-50bfd8b994df7f68-0100",
+        "p-lujiuyuanji-50bfd8b994df7f68-0101",
+        "p-lujiuyuanji-50bfd8b994df7f68-0102",
+        "p-lujiuyuanji-50bfd8b994df7f68-0103",
+        "p-lujiuyuanji-50bfd8b994df7f68-0104",
+        "p-lujiuyuanji-50bfd8b994df7f68-0105",
+        "p-lujiuyuanji-50bfd8b994df7f68-0106",
+        "p-lujiuyuanji-50bfd8b994df7f68-0107",
+        "p-lujiuyuanji-50bfd8b994df7f68-0108",
+        "p-lujiuyuanji-50bfd8b994df7f68-0109",
+        "p-lujiuyuanji-50bfd8b994df7f68-0110",
+        "p-lujiuyuanji-50bfd8b994df7f68-0111",
+        "p-lujiuyuanji-50bfd8b994df7f68-0112",
+        "p-lujiuyuanji-50bfd8b994df7f68-0113",
+        "p-lujiuyuanji-50bfd8b994df7f68-0114",
+        "p-lujiuyuanji-50bfd8b994df7f68-0115",
+        "p-lujiuyuanji-50bfd8b994df7f68-0116",
+        "p-lujiuyuanji-50bfd8b994df7f68-0117",
+        "p-lujiuyuanji-50bfd8b994df7f68-0118",
+        "p-lujiuyuanji-50bfd8b994df7f68-0119",
+        "p-lujiuyuanji-50bfd8b994df7f68-0120",
+        "p-lujiuyuanji-50bfd8b994df7f68-0121",
+        "p-lujiuyuanji-50bfd8b994df7f68-0122",
+        "p-lujiuyuanji-50bfd8b994df7f68-0123",
+        "p-lujiuyuanji-50bfd8b994df7f68-0124",
+        "p-lujiuyuanji-50bfd8b994df7f68-0125",
+        "p-lujiuyuanji-50bfd8b994df7f68-0126",
+        "p-lujiuyuanji-50bfd8b994df7f68-0127",
+        "p-lujiuyuanji-50bfd8b994df7f68-0128",
+        "p-lujiuyuanji-50bfd8b994df7f68-0129",
+        "p-lujiuyuanji-50bfd8b994df7f68-0130",
+        "p-lujiuyuanji-50bfd8b994df7f68-0131",
+        "p-lujiuyuanji-50bfd8b994df7f68-0132",
+        "p-lujiuyuanji-50bfd8b994df7f68-0133",
+        "p-lujiuyuanji-50bfd8b994df7f68-0134",
+        "p-lujiuyuanji-50bfd8b994df7f68-0135",
+        "p-lujiuyuanji-50bfd8b994df7f68-0136",
+        "p-lujiuyuanji-50bfd8b994df7f68-0137",
+        "p-lujiuyuanji-50bfd8b994df7f68-0138",
+        "p-lujiuyuanji-50bfd8b994df7f68-0139",
+        "p-lujiuyuanji-50bfd8b994df7f68-0140",
+        "p-lujiuyuanji-50bfd8b994df7f68-0141",
+        "p-lujiuyuanji-50bfd8b994df7f68-0142",
+        "p-lujiuyuanji-50bfd8b994df7f68-0143",
+        "p-lujiuyuanji-50bfd8b994df7f68-0144",
+        "p-lujiuyuanji-50bfd8b994df7f68-0145",
+        "p-lujiuyuanji-50bfd8b994df7f68-0146",
+        "p-lujiuyuanji-50bfd8b994df7f68-0147",
+        "p-lujiuyuanji-50bfd8b994df7f68-0148",
+        "p-lujiuyuanji-50bfd8b994df7f68-0149",
+        "p-lujiuyuanji-50bfd8b994df7f68-0150",
+        "p-lujiuyuanji-50bfd8b994df7f68-0151",
+        "p-lujiuyuanji-50bfd8b994df7f68-0152",
+        "p-lujiuyuanji-50bfd8b994df7f68-0153",
+        "p-lujiuyuanji-50bfd8b994df7f68-0154",
+        "p-lujiuyuanji-50bfd8b994df7f68-0155",
+        "p-lujiuyuanji-50bfd8b994df7f68-0156",
+        "p-lujiuyuanji-50bfd8b994df7f68-0157",
+        "p-lujiuyuanji-50bfd8b994df7f68-0158",
+        "p-lujiuyuanji-50bfd8b994df7f68-0159",
+        "p-lujiuyuanji-50bfd8b994df7f68-0160",
+        "p-lujiuyuanji-50bfd8b994df7f68-0161",
+        "p-lujiuyuanji-50bfd8b994df7f68-0162",
+        "p-lujiuyuanji-50bfd8b994df7f68-0163",
+        "p-lujiuyuanji-50bfd8b994df7f68-0164",
+        "p-lujiuyuanji-50bfd8b994df7f68-0165",
+        "p-lujiuyuanji-50bfd8b994df7f68-0166",
+        "p-lujiuyuanji-50bfd8b994df7f68-0167",
+        "p-lujiuyuanji-50bfd8b994df7f68-0168",
+        "p-lujiuyuanji-50bfd8b994df7f68-0169",
+        "p-lujiuyuanji-50bfd8b994df7f68-0170",
+        "p-lujiuyuanji-50bfd8b994df7f68-0171",
+        "p-lujiuyuanji-50bfd8b994df7f68-0172",
+        "p-lujiuyuanji-50bfd8b994df7f68-0173",
+        "p-lujiuyuanji-50bfd8b994df7f68-0174",
+        "p-lujiuyuanji-50bfd8b994df7f68-0175",
+        "p-lujiuyuanji-50bfd8b994df7f68-0176",
+        "p-lujiuyuanji-50bfd8b994df7f68-0177",
+        "p-lujiuyuanji-50bfd8b994df7f68-0178",
+        "p-lujiuyuanji-50bfd8b994df7f68-0179",
+        "p-lujiuyuanji-50bfd8b994df7f68-0180",
+        "p-lujiuyuanji-50bfd8b994df7f68-0181",
+        "p-lujiuyuanji-50bfd8b994df7f68-0182",
+        "p-lujiuyuanji-50bfd8b994df7f68-0183",
+        "p-lujiuyuanji-50bfd8b994df7f68-0184",
+        "p-lujiuyuanji-50bfd8b994df7f68-0185",
+        "p-lujiuyuanji-50bfd8b994df7f68-0186",
+        "p-lujiuyuanji-50bfd8b994df7f68-0187",
+        "p-lujiuyuanji-50bfd8b994df7f68-0188",
+        "p-lujiuyuanji-50bfd8b994df7f68-0189",
+        "p-lujiuyuanji-50bfd8b994df7f68-0190",
+        "p-lujiuyuanji-50bfd8b994df7f68-0191",
+        "p-lujiuyuanji-50bfd8b994df7f68-0192",
+        "p-lujiuyuanji-50bfd8b994df7f68-0193"
+      ],
+      "reason": "底本把目录拆在两章：卷六至语录卷四的目录（至“象山集目録”尾题）接在第二章卷五目录之后，合成一章完整目录；第三章只留正文卷一至卷八。"
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-lujiuyuanji-9edd757b265d9e68",
+      "after": "p-lujiuyuanji-cfa5e7757656593e-0014",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt",
+      "paragraphs": [
+        {
+          "id": "p-lujiuyuanji-9edd757b265d9e68-a0001",
+          "text": "卷一"
+        }
+      ],
+      "reason": "底本目录“卷一”一行被分章程序取作章题，正文里缺了；补回，使目录卷一的篇目有卷题。"
+    },
+    {
+      "op": "insert",
+      "chapter": "chapter-lujiuyuanji-9edd757b265d9e68",
+      "after": "p-lujiuyuanji-9edd757b265d9e68-0033",
+      "source": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E8%B1%A1%E5%B1%B1%E9%9B%86%E8%B1%A1%E5%B1%B1%E8%AF%AD%E5%BD%95.txt",
+      "paragraphs": [
+        {
+          "id": "p-lujiuyuanji-9edd757b265d9e68-a0002",
+          "text": "卷六"
+        }
+      ],
+      "reason": "底本目录“卷六”一行被分章程序取作章题，正文里缺了；补回，使目录卷六的篇目有卷题。"
+    },
+    {
+      "op": "split",
+      "chapter": "chapter-lujiuyuanji-50bfd8b994df7f68",
+      "parts": [
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0194",
+          "title": "卷一"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0219",
+          "title": "卷二"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0243",
+          "title": "卷三"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0271",
+          "title": "卷四"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0317",
+          "title": "卷五"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0348",
+          "title": "卷六"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0401",
+          "title": "卷七"
+        },
+        {
+          "at": "p-lujiuyuanji-50bfd8b994df7f68-0443",
+          "title": "卷八"
+        }
+      ],
+      "reason": "底本把四库本《象山集》多卷并成一章（章题取自卷末题行或目录行，与内容不符）；按四库本卷首“钦定四库全书 象山集卷X”行拆开，一卷一章，卷次对维基文库《象山集 (四庫全書本)》。"
+    },
+    {
+      "op": "split",
+      "chapter": "chapter-lujiuyuanji-536b2ed7b785686a",
+      "parts": [
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0001",
+          "title": "卷九"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0025",
+          "title": "卷十"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0075",
+          "title": "卷十一"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0119",
+          "title": "卷十二"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0174",
+          "title": "卷十三"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0203",
+          "title": "卷十四"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0249",
+          "title": "卷十五"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0274",
+          "title": "卷十六"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0291",
+          "title": "卷十七"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0313",
+          "title": "卷十八"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0331",
+          "title": "卷十九"
+        },
+        {
+          "at": "p-lujiuyuanji-536b2ed7b785686a-0351",
+          "title": "卷二十"
+        }
+      ],
+      "reason": "底本把四库本《象山集》多卷并成一章（章题取自卷末题行或目录行，与内容不符）；按四库本卷首“钦定四库全书 象山集卷X”行拆开，一卷一章，卷次对维基文库《象山集 (四庫全書本)》。"
+    },
+    {
+      "op": "split",
+      "chapter": "chapter-lujiuyuanji-6e8526305e9df05b",
+      "parts": [
+        {
+          "at": "p-lujiuyuanji-6e8526305e9df05b-0001",
+          "title": "卷二十一"
+        },
+        {
+          "at": "p-lujiuyuanji-6e8526305e9df05b-0023",
+          "title": "卷二十二"
+        },
+        {
+          "at": "p-lujiuyuanji-6e8526305e9df05b-0049",
+          "title": "卷二十三"
+        }
+      ],
+      "reason": "底本把四库本《象山集》多卷并成一章（章题取自卷末题行或目录行，与内容不符）；按四库本卷首“钦定四库全书 象山集卷X”行拆开，一卷一章，卷次对维基文库《象山集 (四庫全書本)》。"
+    },
+    {
+      "op": "split",
+      "chapter": "chapter-lujiuyuanji-a3a5a59b0605c050",
+      "parts": [
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0001",
+          "title": "卷二十四"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0016",
+          "title": "卷二十五"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0066",
+          "title": "卷二十六"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0092",
+          "title": "卷二十七"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0103",
+          "title": "卷二十八"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0125",
+          "title": "外集卷一"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0140",
+          "title": "外集卷二"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0158",
+          "title": "外集卷三"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0173",
+          "title": "外集卷四"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0212",
+          "title": "语录卷一"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0322",
+          "title": "语录卷二"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0400",
+          "title": "语录卷三"
+        },
+        {
+          "at": "p-lujiuyuanji-a3a5a59b0605c050-0472",
+          "title": "语录卷四"
+        }
+      ],
+      "reason": "底本把四库本《象山集》多卷并成一章（章题取自卷末题行或目录行，与内容不符）；按四库本卷首“钦定四库全书 象山集卷X”行拆开，一卷一章，卷次对维基文库《象山集 (四庫全書本)》。"
+    },
+    {
+      "op": "title",
+      "chapter": "chapter-lujiuyuanji-9edd757b265d9e68",
+      "title": "目录",
+      "reason": "本章合并后是四库本《象山集》的全部目录；原题“卷一”是目录里卷一那一行。"
+    }
   ]
 }
