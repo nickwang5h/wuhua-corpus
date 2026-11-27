@@ -1,6 +1,6 @@
 {
  "total": {
-  "privateUse": 180,
+  "privateUse": 178,
   "placeholder": 209,
   "composite": 91,
   "sourceTag": 423,
@@ -537,7 +537,7 @@
    "title": "嵇康集",
    "provider": "daizhige",
    "script": "简",
-   "characters": 35046,
+   "characters": 35189,
    "punctuationPer100": 18.7,
    "defects": {
     "privateUse": 0,
@@ -1417,10 +1417,10 @@
    "title": "王文成公全書",
    "provider": "daizhige",
    "script": "简",
-   "characters": 676801,
+   "characters": 677500,
    "punctuationPer100": 15.5,
    "defects": {
-    "privateUse": 11,
+    "privateUse": 9,
     "placeholder": 0,
     "composite": 0,
     "sourceTag": 0,
@@ -1857,7 +1857,7 @@
    "title": "周易注",
    "provider": "zhwikisource",
    "script": "繁",
-   "characters": 71585,
+   "characters": 71586,
    "punctuationPer100": 21.7,
    "defects": {
     "privateUse": 0,

@@ -6,5 +6,6 @@ import v2026_11_23_corrections22 from './2026-11-23-corrections22.json' with {ty
 import v2026_11_23_corrections23 from './2026-11-23-corrections23.json' with {type:'json'};
 import v2026_11_23_corrections24 from './2026-11-23-corrections24.json' with {type:'json'};
 import v2026_11_23_corrections25 from './2026-11-23-corrections25.json' with {type:'json'};
+import v2026_11_27_corrections26 from './2026-11-27-corrections26.json' with {type:'json'};
 import vunreleased from './unreleased.json' with {type:'json'};
-export const volumes=[v0001,v2026_11_23_corrections22,v2026_11_23_corrections23,v2026_11_23_corrections24,v2026_11_23_corrections25,vunreleased] as unknown as HistoryVolume[];
+export const volumes=[v0001,v2026_11_23_corrections22,v2026_11_23_corrections23,v2026_11_23_corrections24,v2026_11_23_corrections25,v2026_11_27_corrections26,vunreleased] as unknown as HistoryVolume[];
