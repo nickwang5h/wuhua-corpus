@@ -10,7 +10,7 @@
 
 真实底文更正保留原 ID 和旧 version、sourceText、修订理由、真实审核及 history 映射。自动收录的书同样适用：`check:content` 把带更正的段落还原成 sourceText 再与固定来源比对，缺修订理由、审核人、审核日期或旧版本的 history 记录时拒绝。同一段已有的拼音标注要改指新 version，对应 token 的原字一并更正。所有范围按原文 Unicode 码点 `[start,end)`；不得用繁简转换覆盖底文。修改身份目录时用 `content:catalog` 派生 manifest，不借排序重分配已有身份。
 
-成批的底文更正写成 JSON 清单 `[{book, id, find, replace, reason, nth?, all?}]`，用 `npm run content:correct -- <清单> [--dry-run]` 写入：脚本按上述规则保留 ID、sourceText 与旧版本，追加 revision 历史，并让改动范围之外的拼音、解释标注跟到新版本；改动落在标注范围内时拒绝，需手工处理；只改标点（补句读、挪动或撤去标点）时，标注的范围和 token 随原字平移。审核人用环境变量 `CORRECTION_REVIEWER` 写明真实情况（作者用 `CORRECTION_AUTHOR`）。整段的来源页脚之类用 `corpus/structure.json` 的 `withdraw-tail` 撤下，不要用更正把正文改空。
+成批的底文更正写成 JSON 清单 `[{book, id, find, replace, reason, nth?, all?}]`，用 `npm run content:correct -- <清单> [--dry-run]` 写入：脚本按上述规则保留 ID、sourceText 与旧版本，追加 revision 历史，并让改动范围之外的拼音、解释标注跟到新版本；改动落在标注范围内时拒绝，需手工处理；只改标点（补句读、挪动或撤去标点）时，标注的范围和 token 随原字平移。旧三书的句子别名（`ws-…`）总是跟着走（`scripts/revision.ts`）：每个别名升到段落的新版本，范围移到这句话在新文里的位置（改动落在句内的连改动一起；句界上新增的字，以」。，等收尾标点开头的归上一句，否则归下一句），文字取新文切片；旧别名记进历史并加一条迁移到新别名，旧 ref 经 `successors` 走到现行。一处改动删掉整句时拒绝，需手工处理。`validateBooks` 要求别名与段落同版本、文字等于切片、按序不重叠；2026-11-27 以前订正留下的旧别名由 `scripts/migrate-aliases.ts` 一次对齐（对照表 `docs/collation/2026-11/aliases.md`）。审核人用环境变量 `CORRECTION_REVIEWER` 写明真实情况（作者用 `CORRECTION_AUTHOR`）。整段的来源页脚之类用 `corpus/structure.json` 的 `withdraw-tail` 撤下，不要用更正把正文改空。
 
 ## 定点拼音写入
 

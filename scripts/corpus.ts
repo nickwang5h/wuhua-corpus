@@ -3,7 +3,7 @@ import {pathToFileURL} from 'node:url';
 import {adapters as primaryAdapters,digest,jsonFile,save,root,type Target,type Override,type Plan,type Unit} from './corpus-sources.js';
 import {verifyImage} from './corpus-images.js';
 import {residue,volumeNumber} from './corpus-normalize.js';
-import {validateBooks,validateHistory} from '../src/validate.js';
+import {validateBooks,validateHistory,currentReferences} from '../src/validate.js';
 import {applyStructure,retainWithdrawals,structureInput,restoreStructureInput,type Structure,type History} from './corpus-structure.js';
 import type {TextBook,Chapter} from '../src/types.js';
 import {ArchiveSource} from './corpus-archive.js';
@@ -62,7 +62,7 @@ export async function checkCorpus(){
  validateBooks(books);
  // History also maps corrections in the three hand-imported books, which are not synced targets.
  const pinned=await Promise.all([...frozen].map(id=>jsonFile<TextBook>(`src/books/${id}.json`)));
- validateHistory(history.records,history.transitions,[...books,...pinned].flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.map(p=>({...p,title:c.title,source:c.source})))));return books;
+ validateHistory(history.records,history.transitions,currentReferences([...books,...pinned]));return books;
 }
 async function catalog(){
  const names=(await readdir(new URL('src/books/',root))).filter(n=>/^[a-z0-9-]+\.json$/.test(n));

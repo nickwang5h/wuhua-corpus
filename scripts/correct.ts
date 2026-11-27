@@ -11,11 +11,14 @@
  * history with a revision transition, and pinyin or editorial aids on the old
  * version follow it when the change lies outside their range (moving with their
  * characters when text is added or removed before them), or when the change touches only
- * punctuation.
+ * punctuation. Sentence aliases always follow: each moves to the new version, its range to
+ * where its sentence now stands, and the old alias goes into history (scripts/revision.ts).
  */
 import {readFileSync,writeFileSync} from 'node:fs';
 import {digest} from './corpus-sources.js';
 import {readHistory,writeHistory} from './history-store.js';
+import {applyEdits} from './text-edits.js';
+import {reviseParagraph} from './revision.js';
 import type {TextBook,Reference,Transition} from '../src/types.js';
 
 type Item={book:string; id:string; find:string; replace:string; reason:string; nth?:number; all?:boolean};
@@ -67,30 +70,7 @@ for(const list of byParagraph.values()){
  if(!chapter)throw new Error(`Paragraph not found: ${bookId} ${id}`);
  const p=chapter.paragraphs.find(q=>q.id===id)!;
  const oldText=p.text,oldVersion=p.version;
- let text=oldText;
- const changed:[number,number][]=[];
- let place=Array.from(oldText,(_,i)=>i);
- for(const item of list){
-  const at:number[]=[];
-  // Occurrences do not overlap: 「□□」 is found once in 「□□□」, not twice.
-  for(let i=text.indexOf(item.find);i>=0;i=text.indexOf(item.find,i+item.find.length))at.push(i);
-  const indexes=item.all?at:[item.nth===undefined?(at.length===1?at[0]:-1):at[item.nth]??-1];
-  if(!indexes.length||indexes.some(i=>i<0))throw new Error(`${id}: “${item.find}” found ${at.length} times`);
-  // From the end, so earlier offsets stay put; code-point ranges in the text before the change, for aids.
-  for(const index of [...indexes].reverse()){
-   // The find carries context to be unique; only what differs from the replacement is changed.
-   const was=Array.from(item.find),now=Array.from(item.replace);
-   let head=0,tail=0;
-   while(head<was.length&&head<now.length&&was[head]===now[head])head++;
-   while(tail<was.length-head&&tail<now.length-head&&was[was.length-1-tail]===now[now.length-1-tail])tail++;
-   const start=Array.from(text.slice(0,index)).length+head;
-   const found=was.length-head-tail,put=now.length-head-tail;
-   changed.push([start,start+found]);
-   // Where each code point of the old text stands now: gone inside the replaced run, moved after it.
-   place=place.map(at=>at<0||at<start?at:at<start+found?-1:at+put-found);
-   text=text.slice(0,index)+item.replace+text.slice(index+item.find.length);
-  }
- }
+ const {text,place}=applyEdits(oldText,list,id);
  if(text===oldText)throw new Error(`${id}: the corrections leave the text unchanged`);
  const version=/^\d+$/.test(oldVersion)?String(Number(oldVersion)+1):`sha256:${digest(text)}`;
  const reason=list.map(i=>i.reason.trim()).join('；');
@@ -115,19 +95,7 @@ for(const list of byParagraph.values()){
   aid.version=version;
   if(aid.review?.textVersion===oldVersion)aid.review.textVersion=version;
  }
- // Going back to a text this paragraph once had: that version is current again, so it stops being history
- // and its old step forward goes, or the chain would run in a circle.
- const back=history.transitions.findIndex(t=>t.from.id===id&&t.from.version===version);
- if(back>=0){
-  history.transitions.splice(back,1);
-  const kept=history.records.findIndex(r=>r.id===id&&r.version===version);
-  if(kept>=0)history.records.splice(kept,1);
- }
- if(!history.records.some(r=>r.id===id&&r.version===oldVersion))history.records.push({id,version:oldVersion,text:oldText,title:chapter.title,source:chapter.source});
- history.transitions.push({from:{id,version:oldVersion},kind:'revision',reason,targets:[{id,version}]});
- p.sourceText??=oldText;
- p.text=text;
- p.version=version;
+ reviseParagraph(p,chapter,{text,place,version,reason},history);
  const earlier=p.correction?.reason;
  if(p.sourceText===text){delete p.sourceText;delete p.correction;console.log(`${bookId} ${id}: back to the source text`);continue;}
  p.correction={reason:earlier?`${earlier}；${reason}`:reason,review:{status:'reviewed',author,reviewer,reviewedAt:today,textVersion:version}};

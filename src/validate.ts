@@ -1,4 +1,4 @@
-import type {TextBook,Aid,Reference,Transition} from './types.js';
+import type {TextBook,Aid,Reference,Transition,Paragraph} from './types.js';
 import {alignReference} from './pinyin-core.js';
 export function pinnedSource(value:string){
  const source=new URL(value);
@@ -30,13 +30,32 @@ export function validateBooks(books:TextBook[]){
     if(typeof p.text!=='string'||!p.text.trim()||!p.version||!Array.isArray(p.aliases)||p.role!==undefined&&p.role!=='source-commentary'||p.headingPath!==undefined&&!strings(p.headingPath))throw new Error(`Empty/invalid text ${p.id}`);
     for(const a of p.aliases){
      add(a.id);
-     if(!a.version||!a.text||a.start<0||a.end<=a.start)throw new Error(`Invalid alias ${a.id}`);
-     if(a.version===p.version&&Array.from(p.text).slice(a.start,a.end).join('')!==a.text)throw new Error(`Alias alignment ${a.id}`);
+     if(!a.version||!a.text||!Number.isInteger(a.start)||!Number.isInteger(a.end)||a.start<0||a.end<=a.start)throw new Error(`Invalid alias ${a.id}`);
     }
+    const problems=aliasProblems(p);
+    if(problems.length)throw new Error(`Alias alignment ${problems[0]}`);
    }
   }
  }
  return ids;
+}
+// A sentence alias follows its paragraph: at the paragraph's version, the text of its range, within the text, in order without overlap.
+export function aliasProblems(p:Paragraph){
+ const chars=Array.from(p.text);
+ const problems:string[]=[];
+ let end=0;
+ for(const a of p.aliases){
+  if(a.version!==p.version)problems.push(`${a.id}: version ${a.version}, paragraph ${p.version}`);
+  if(a.start<end)problems.push(`${a.id}: starts at ${a.start}, before the previous alias ends at ${end}`);
+  if(a.end>chars.length)problems.push(`${a.id}: range [${a.start},${a.end}) beyond the text of ${chars.length}`);
+  if(chars.slice(a.start,a.end).join('')!==a.text)problems.push(`${a.id}: text differs from the paragraph`);
+  end=Math.max(end,a.end);
+ }
+ return problems;
+}
+// What a ref may name now: every paragraph and every sentence alias, with its chapter's title and source.
+export function currentReferences(books:TextBook[]):Reference[]{
+ return books.flatMap(b=>b.chapters.flatMap(c=>c.paragraphs.flatMap(p=>[{...p,title:c.title,source:c.source},...p.aliases.map(a=>({...a,title:c.title,source:c.source}))])));
 }
 export function validateHistory(records:Reference[],transitions:Transition[],current:Reference[]){
  const all=new Map([...current,...records].map(r=>[`${r.id}@${r.version}`,r]));

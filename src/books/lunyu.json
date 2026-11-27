@@ -3704,8 +3704,8 @@
               "id": "ws-lunyu-2177439-7-6-1",
               "start": 0,
               "end": 21,
-              "version": "1",
-              "text": "子曰：『志於道，狎於德，依於仁，游於藝。』"
+              "version": "3",
+              "text": "子曰：「志於道，據於德，依於仁，游於藝。」"
             }
           ],
           "sourceText": "子曰：『志於道，狎於德，依於仁，游於藝。』",
@@ -7395,28 +7395,28 @@
               "id": "ws-lunyu-2342223-12-3-1",
               "start": 0,
               "end": 8,
-              "version": "1",
+              "version": "2",
               "text": "司馬牛問「仁」。"
             },
             {
               "id": "ws-lunyu-2342223-12-3-2",
               "start": 8,
               "end": 21,
-              "version": "1",
+              "version": "2",
               "text": "子曰：「仁者，其言也訒。」"
             },
             {
               "id": "ws-lunyu-2342223-12-3-3",
               "start": 21,
               "end": 39,
-              "version": "1",
-              "text": "曰：「其言也訒，斯謂之『仁』已夫？」"
+              "version": "2",
+              "text": "曰：「其言也訒，斯謂之『仁』已乎？」"
             },
             {
               "id": "ws-lunyu-2342223-12-3-4",
               "start": 39,
               "end": 55,
-              "version": "1",
+              "version": "2",
               "text": "子曰：「爲之難，言之得無訒乎！」"
             }
           ],
@@ -7441,28 +7441,28 @@
               "id": "ws-lunyu-2342223-12-4-1",
               "start": 0,
               "end": 9,
-              "version": "1",
+              "version": "2",
               "text": "司馬牛問「君子」。"
             },
             {
               "id": "ws-lunyu-2342223-12-4-2",
               "start": 9,
               "end": 21,
-              "version": "1",
+              "version": "2",
               "text": "子曰：「君子不憂不懼。」"
             },
             {
               "id": "ws-lunyu-2342223-12-4-3",
               "start": 21,
               "end": 40,
-              "version": "1",
-              "text": "曰：「不憂不懼，斯謂之『君子』矣夫？」"
+              "version": "2",
+              "text": "曰：「不憂不懼，斯謂之『君子』已乎？」"
             },
             {
               "id": "ws-lunyu-2342223-12-4-4",
               "start": 40,
               "end": 56,
-              "version": "1",
+              "version": "2",
               "text": "子曰：「內省不疚，夫何憂何懼！」"
             }
           ],
@@ -9974,56 +9974,56 @@
               "id": "ws-lunyu-2058125-14-42-1",
               "start": 0,
               "end": 6,
-              "version": "1",
+              "version": "2",
               "text": "子擊磬於衞。"
             },
             {
               "id": "ws-lunyu-2058125-14-42-2",
               "start": 6,
-              "end": 25,
-              "version": "1",
-              "text": "有荷蕢者而過孔氏之門者，曰：「有心哉！"
+              "end": 24,
+              "version": "2",
+              "text": "有荷蕢而過孔氏之門者，曰：「有心哉！"
             },
             {
               "id": "ws-lunyu-2058125-14-42-3",
-              "start": 25,
-              "end": 30,
-              "version": "1",
+              "start": 24,
+              "end": 29,
+              "version": "2",
               "text": "擊磬乎！」"
             },
             {
               "id": "ws-lunyu-2058125-14-42-4",
-              "start": 30,
-              "end": 42,
-              "version": "1",
+              "start": 29,
+              "end": 41,
+              "version": "2",
               "text": "既而曰：「鄙哉，硜硜乎！"
             },
             {
               "id": "ws-lunyu-2058125-14-42-5",
-              "start": 42,
-              "end": 53,
-              "version": "1",
+              "start": 41,
+              "end": 52,
+              "version": "2",
               "text": "莫己知也，斯已而已矣！"
             },
             {
               "id": "ws-lunyu-2058125-14-42-6",
-              "start": 53,
-              "end": 64,
-              "version": "1",
+              "start": 52,
+              "end": 63,
+              "version": "2",
               "text": "『深則厲，淺則揭。』」"
             },
             {
               "id": "ws-lunyu-2058125-14-42-7",
-              "start": 64,
-              "end": 71,
-              "version": "1",
+              "start": 63,
+              "end": 70,
+              "version": "2",
               "text": "子曰：「果哉！"
             },
             {
               "id": "ws-lunyu-2058125-14-42-8",
-              "start": 71,
-              "end": 77,
-              "version": "1",
+              "start": 70,
+              "end": 76,
+              "version": "2",
               "text": "末之難矣！」"
             }
           ],
@@ -11443,28 +11443,28 @@
               "id": "ws-lunyu-2178436-16-11-1",
               "start": 0,
               "end": 20,
-              "version": "1",
+              "version": "2",
               "text": "孔子曰：「『見善如不及，見不善如探湯。』"
             },
             {
               "id": "ws-lunyu-2178436-16-11-2",
               "start": 20,
               "end": 32,
-              "version": "1",
+              "version": "2",
               "text": "吾見其人矣，吾聞其語矣。"
             },
             {
               "id": "ws-lunyu-2178436-16-11-3",
               "start": 32,
               "end": 48,
-              "version": "1",
-              "text": "『隱居以成其志，行義以達其道。』"
+              "version": "2",
+              "text": "『隱居以求其志，行義以達其道。』"
             },
             {
               "id": "ws-lunyu-2178436-16-11-4",
               "start": 48,
               "end": 61,
-              "version": "1",
+              "version": "2",
               "text": "吾聞其語矣，未見其人也。」"
             }
           ],
